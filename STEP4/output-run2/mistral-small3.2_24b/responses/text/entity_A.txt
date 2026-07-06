@@ -1,0 +1,43 @@
+### Renovation Plan for Semi-Detached House in Ghent, Belgium
+
+**Current EPC Score:** 388
+**Goal:** Improve energy efficiency and EPC score in a cost-effective manner.
+
+#### Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+The primary goal is to reduce heat loss through the building envelope.
+
+1. **Insulate Pitched Roof:** The main roof is a pitched roof without insulation. Insulating this will significantly reduce heat loss, as heat rises.
+2. **Insulate Exterior Walls:** The solid brick walls are uninsulated. Interior insulation is a cost-effective solution to improve thermal performance.
+3. **Insulate Floor Above Basement:** Adding insulation here will reduce heat loss to the basement and improve comfort.
+
+**Phase 2: Window Performance**
+The windows already have double glazing, which is good. No immediate replacement is needed unless specific windows show signs of deterioration or poor performance.
+
+**Phase 3: High-Efficiency Heating Transition**
+With a tighter thermal envelope, the heating system can be more efficient.
+
+4. **Replace Boiler with Air-Water Heat Pump:** Since geothermal and district heating are not options, an air-water heat pump is the most viable and efficient alternative.
+5. **Upgrade to Low-Temperature Emission Systems:** Ensure the radiators and underfloor heating are compatible with low-temperature operation to maximize the heat pump's efficiency.
+
+**Phase 4: Ventilation Upgrade**
+Improving ventilation is crucial to maintain air quality in a well-insulated home.
+
+6. **Replace Natural Ventilation with Mechanical Ventilation (System C or D):** This ensures controlled airflow, reducing moisture buildup and improving indoor air quality.
+
+**Phase 5: Sustainable Energy Generation**
+To further reduce energy costs and improve the EPC score.
+
+7. **Install Photovoltaic (PV) Panels:** Utilize the potential for PV panels to generate renewable electricity, which can power the heat pump and other electrical systems.
+
+#### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Heat Pump Installation** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **3** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **4** | **PV Panels Installation** | Generates renewable electricity to offset the heat pump's energy consumption. |
+
+This plan ensures a practical, cost-effective, and sequential approach to maximizing energy efficiency while improving the EPC score.

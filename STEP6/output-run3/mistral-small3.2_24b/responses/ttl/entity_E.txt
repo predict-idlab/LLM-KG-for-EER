@@ -1,0 +1,82 @@
+### Renovation Plan for Detached Building (Construction Year: 1862)
+
+**Current EPC Score:** 165 (B Label)
+**Building Type:** Detached
+**Key Issues:**
+- **Uninsulated Cavity Walls** (Front, Left, Rear, Right)
+- **Single-Glazed Windows**
+- **Ventilation System A** (Natural air supply and exhaust)
+- **Old Electric Boiler and Heating System**
+- **Potential for PV Panels**
+
+**Objective:** Improve energy efficiency while remaining cost-effective.
+
+---
+
+### **Phase 1: Thermal Envelope Optimization (Priority: High)**
+**Goal:** Reduce heat loss through uninsulated elements.
+
+1. **Insulate Wall Cavity**
+   - **Walls:** Front, Left, Rear, Right (Cavity Walls)
+   - **Rationale:** Cavity wall insulation is cost-effective and minimizes disruption.
+   - **Expected Impact:** Reduces heat loss through walls.
+
+2. **Replace Glazing**
+   - **Windows:** All (Single-Glazed)
+   - **Rationale:** Single glazing leads to significant heat loss. Upgrading to double glazing improves thermal performance.
+   - **Expected Impact:** Reduces heat loss through windows.
+
+3. **Insulate Floor Above Crawl Space**
+   - **Rationale:** Prevents cold drafts from the crawl space.
+   - **Expected Impact:** Improves comfort and reduces heat loss.
+
+---
+
+### **Phase 2: Heating System Upgrade (Priority: Medium)**
+**Goal:** Transition to a more efficient heating system.
+
+4. **Place Air-Water Heat Pump**
+   - **Rationale:** More energy-efficient than the current electric boiler.
+   - **Expected Impact:** Lower energy consumption and improved EPC score.
+
+5. **Place Emission System on Low Temperature**
+   - **Rationale:** Optimizes the performance of the new heat pump.
+   - **Expected Impact:** Ensures efficient heat distribution.
+
+---
+
+### **Phase 3: Ventilation Upgrade (Priority: Medium)**
+**Goal:** Improve indoor air quality and energy efficiency.
+
+6. **Replace Ventilation System**
+   - **Current System:** Ventilation System A (Natural)
+   - **Recommended System:** Ventilation System C or D (Mechanical)
+   - **Rationale:** Mechanical ventilation improves air quality and reduces energy loss.
+   - **Expected Impact:** Better indoor air quality and energy efficiency.
+
+---
+
+### **Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+**Goal:** Offset energy consumption with renewable energy.
+
+7. **Place PV-Panels on Roof**
+   - **Rationale:** The building has potential for PV panels.
+   - **Expected Impact:** Reduces reliance on grid electricity and lowers energy costs.
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Reduces heat loss through walls. |
+| **2** | **Replace Glazing** | Improves thermal performance of windows. |
+| **3** | **Insulate Floor Above Crawl Space** | Prevents cold drafts from the crawl space. |
+| **4** | **Place Air-Water Heat Pump** | More energy-efficient heating system. |
+| **5** | **Place Emission System on Low Temperature** | Optimizes heat pump performance. |
+| **6** | **Replace Ventilation System** | Improves air quality and energy efficiency. |
+| **7** | **Place PV-Panels on Roof** | Offsets energy consumption with renewable energy. |
+
+---
+
+### **Expected Outcome**
+By following this renovation plan, the building's EPC score is expected to improve significantly, leading to lower energy consumption, reduced energy costs, and improved thermal comfort. The plan prioritizes cost-effective measures first, ensuring long-term savings and sustainability.

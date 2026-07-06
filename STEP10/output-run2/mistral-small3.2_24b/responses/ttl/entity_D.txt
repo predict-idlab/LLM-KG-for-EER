@@ -1,0 +1,39 @@
+### Renovation Plan
+
+Given the building's current state (EPC score of 87, A label) and the owner's motivation to improve the EPC further, the focus should be on optimizing the existing systems and addressing any remaining inefficiencies. The building already has well-insulated walls, floors, and roofs, and uses a heat pump for heating, which are all positive indicators of energy efficiency.
+
+#### Proposed Renovation Path
+
+1. **Insulate Gable Roof**:
+   - The gable roof is currently moderately insulated. Improving its insulation will further reduce heat loss and improve overall energy efficiency.
+   - **Action**: Insulate the gable roof to match the well-insulated standard of the other roofs.
+   - **Rationale**: Ensures consistent insulation across all roof types, reducing thermal bridges and improving overall thermal performance.
+
+2. **Replace Glazing**:
+   - The windows have double glazing, which is good but not the best available. Upgrading to triple glazing can further reduce heat loss through the windows.
+   - **Action**: Replace the existing double glazing with triple glazing.
+   - **Rationale**: Triple glazing provides better insulation, reducing heat loss and improving thermal comfort.
+
+3. **Place PV-Panels on Roof**:
+   - The building has potential for PV panels, which can generate renewable energy to power the heat pump and other electrical systems.
+   - **Action**: Install PV panels on the roof to generate solar energy.
+   - **Rationale**: Offsets the electricity consumption of the heat pump and other systems, reducing the building's carbon footprint and energy costs.
+
+4. **Place Sunshade**:
+   - Installing sunshades can help regulate indoor temperatures by reducing solar gain in the summer, which can be beneficial for cooling and reducing the need for air conditioning.
+   - **Action**: Install sunshades on the windows facing the sun.
+   - **Rationale**: Enhances thermal comfort and reduces cooling loads, contributing to energy savings.
+
+5. **Maintain and Optimize Existing Systems**:
+   - Ensure that the existing heat pump and ventilation systems are well-maintained and operating at peak efficiency.
+   - **Action**: Schedule regular maintenance for the heat pump and ventilation system.
+   - **Rationale**: Maintains the efficiency of existing systems, ensuring they continue to operate at optimal levels.
+
+#### Summary of Optimal Sequence
+1. **Insulate Gable Roof**
+2. **Replace Glazing**
+3. **Place PV-Panels on Roof**
+4. **Place Sunshade**
+5. **Maintain and Optimize Existing Systems**
+
+This plan focuses on incremental improvements to maximize energy efficiency while maintaining cost-effectiveness. The sequence ensures that each step builds on the previous one to create a cohesive and effective renovation strategy.

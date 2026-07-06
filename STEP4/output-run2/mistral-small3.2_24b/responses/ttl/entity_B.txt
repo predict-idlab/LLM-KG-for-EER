@@ -1,0 +1,86 @@
+### Renovation Plan for Attached Building (Construction Year: 1832)
+
+#### **Current Status:**
+- **EPC Score:** 262.0 (C Label)
+- **Building Type:** Attached (shared walls)
+- **Construction Year:** 1832 (historic)
+- **Key Issues:**
+  - Non-insulated walls (`Wall_Front`, `Wall_Rear`)
+  - Non-insulated flat roof (`RoofExtension`)
+  - Moderately insulated gable roof (`RoofMain`)
+  - Single glazing (though double glazing is mentioned, the frames are wooden and in good condition)
+  - Ventilation System A (natural, inefficient)
+
+#### **Renovation Strategy:**
+The goal is to improve the EPC score while balancing cost-effectiveness and energy efficiency. The recommended sequence follows the **"Insulate → Ventilate → Generate"** principle.
+
+---
+
+### **Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Walls on Exterior (`Wall_Front`, `Wall_Rear`)**
+   - **Action:** `InsulateWallExterior` (Ordering: 40)
+   - **Cost:** €200/m²
+   - **Rationale:** Full brick walls with no insulation are major sources of heat loss. Exterior insulation avoids reducing interior space and eliminates thermal bridges.
+
+2. **Insulate Flat Roof (`RoofExtension`)**
+   - **Action:** `InsulateFlatRoof` (Ordering: 25)
+   - **Cost:** €50/m²
+   - **Rationale:** Flat roofs lose significant heat; insulation here is cost-effective and prevents condensation issues.
+
+3. **Insulate Floor Above Basement (`FloorAboveBasement`)**
+   - **Action:** `InsulateFloorAboveBasement` (Ordering: 49)
+   - **Cost:** €30/m²
+   - **Rationale:** Prevents cold drafts from the basement and improves overall comfort.
+
+---
+
+### **Phase 2: Window Performance (Medium Priority)**
+4. **Replace Glazing (if needed)**
+   - **Action:** `ReplaceGlazing` (Ordering: 43)
+   - **Cost:** €200/m²
+   - **Rationale:** If the double glazing is old or damaged, replacement improves thermal performance. However, since the glazing type is already `DoubleGlazing`, this may not be necessary.
+
+---
+
+### **Phase 3: Heating & Emission System Transition (Medium Priority)**
+5. **Place Air-Water Heat Pump**
+   - **Action:** `PlaceAirWaterHeatpump` (Ordering: 67)
+   - **Cost:** €8000 (fixed) + €35/m²
+   - **Rationale:** Replaces the existing boiler with a more efficient, low-carbon alternative. Since geothermal potential is low, an air-source heat pump is ideal.
+
+6. **Place Emission System on Low Temperature**
+   - **Action:** `PlaceLowTemperatureEmission` (Ordering: 70)
+   - **Cost:** €100/m²
+   - **Rationale:** Ensures the heat pump operates at maximum efficiency by adapting the emission system to lower temperatures.
+
+---
+
+### **Phase 4: Ventilation Upgrade (Low Priority)**
+7. **Replace Ventilation System**
+   - **Action:** `ReplaceVentilationSystem` (Ordering: 52)
+   - **Cost:** €3500 (fixed) + €17/m²
+   - **Rationale:** Upgrading from System A (natural) to System C or D improves air quality and reduces moisture buildup in a now-sealed envelope.
+
+---
+
+### **Phase 5: Sustainable Energy Generation (Long-Term)**
+8. **Place PV-Panels on Roof**
+   - **Action:** `PlacePVPanelsOnRoof` (Ordering: 85)
+   - **Cost:** €275/m²
+   - **Rationale:** The building has confirmed potential for PV. Solar panels will offset the electricity consumption of the heat pump and ventilation system.
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action                          | Rationale                                                                                     |
+|----------|----------------------------------|------------------------------------------------------------------------------------------------|
+| 1        | Insulate Exterior Walls          | Eliminates thermal bridges and reduces heat loss.                                              |
+| 2        | Insulate Flat Roof               | Prevents heat loss through the roof and avoids condensation issues.                          |
+| 3        | Insulate Floor Above Basement    | Prevents cold drafts from the basement.                                                     |
+| 4        | Replace Glazing (if needed)      | Improves thermal performance if the existing glazing is damaged or inefficient.             |
+| 5        | Place Air-Water Heat Pump        | Replaces the boiler with a more efficient, low-carbon heating system.                       |
+| 6        | Place Low-Temperature Emission   | Maximizes the efficiency of the heat pump by adapting the emission system.                  |
+| 7        | Replace Ventilation System       | Improves air quality and reduces moisture buildup in a sealed envelope.                     |
+| 8        | Place PV-Panels on Roof          | Offsets electricity consumption and further improves the EPC label.                          |
+
+This plan ensures a cost-effective, phased approach to improving energy efficiency while maximizing long-term savings.

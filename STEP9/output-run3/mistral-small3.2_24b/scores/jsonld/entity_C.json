@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["replace ventilation system", "install air-water heat pump", "install pv panels roof"]}, "sequence": {"order_errors": []}}

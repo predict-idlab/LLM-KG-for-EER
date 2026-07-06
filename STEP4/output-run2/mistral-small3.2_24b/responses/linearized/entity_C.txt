@@ -1,0 +1,64 @@
+Based on the provided building data, here's a cost-effective and energy-efficient renovation plan following the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** approach. The building is a 2023 attached house with an EPC score of 50 (A+ label), but there are areas for improvement to enhance sustainability and thermal comfort.
+
+### Key Observations:
+1. **Insulation Status**:
+   - `RoofMain` (gable roof): Moderately Insulated
+   - `RoofExtension` (flat roof): Well Insulated
+   - `FloorAboveBasement`: Well Insulated
+   - `Wall_Front` and `Wall_Rear`: Well Insulated
+
+2. **Windows**:
+   - Double-glazed, but no information on glazing quality or thermal break in frames.
+
+3. **Heating System**:
+   - Current system uses a boiler and electric convector, which are energy-intensive.
+
+4. **Potential for Renewable Energy**:
+   - No potential for PV panels or geothermal energy.
+
+---
+
+### Proposed Renovation Path
+
+#### **Phase 1: Optimize the Thermal Envelope (Priority: High)**
+Since the building envelope is already well-insulated, the focus shifts to enhancing existing systems and addressing minor inefficiencies.
+
+1. **Improve Window Performance**:
+   - **Replace Glazing** (if needed): Check if the current double-glazing meets modern standards (e.g., low-e coating, argon filling). If not, replace with higher-performance glazing.
+   - **Ensure Thermal Breaks in Frames**: Verify that window frames have thermal breaks to prevent heat loss.
+
+2. **Upgrading Ventilation System**:
+   - The building has a `VentilationSystemD` (mechanical supply and exhaust), which is efficient but may need balancing to ensure optimal air exchange.
+
+#### **Phase 2: Transition to Low-Temperature Emission (Priority: Medium)**
+With a well-sealed envelope, the heating system can operate at lower temperatures, improving efficiency.
+
+3. **Place Emission System on Low Temperature**:
+   - Modify the existing floor heating system to work at lower temperatures (e.g., 45°C instead of 60°C).
+   - If possible, expand low-temperature emissions (e.g., underfloor heating) to additional areas.
+
+#### **Phase 3: Sustainable Heating Transition (Priority: Medium)**
+Replace the boiler with a more efficient system to reduce reliance on electricity.
+
+4. **Place Air-Water Heat Pump**:
+   - Since geothermal potential is low, an **Air-Water Heat Pump** is the most viable alternative.
+   - Ensure the system is sized correctly for the building's heat demand.
+
+#### **Phase 4: Long-Term Sustainability (Priority: Low)**
+Since PV potential is "false," focus on other sustainable practices.
+
+5. **Energy-Efficient Lighting & Appliances**:
+   - Replace incandescent bulbs with LED lighting.
+   - Upgrade to energy-efficient appliances (e.g., A+++ rated refrigerators, washing machines).
+
+---
+
+### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Window Glazing Upgrade** | Ensures minimal heat loss through windows. |
+| **2** | **Low-Temperature Emission Upgrade** | Prepares the building for a heat pump. |
+| **3** | **Air-Water Heat Pump Installation** | Replaces the existing boiler with a more efficient system. |
+| **4** | **Energy-Efficient Lighting & Appliances** | Reduces baseline electricity consumption. |
+
+This plan ensures that the building remains energy-efficient while improving sustainability in a cost-effective manner.

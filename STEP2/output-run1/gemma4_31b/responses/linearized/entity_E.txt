@@ -1,0 +1,39 @@
+Based on the provided ontology and building data, the property is a detached house from 1862 with a current EPC score of 165. While the roof is already well-insulated, the building envelope is significantly compromised by uninsulated cavity walls and single-glazed windows.
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow the **"Fabric First"** principle: reduce heat loss first, then upgrade the heating systems, and finally integrate renewable energy.
+
+### Phase 1: Thermal Envelope Optimization (Highest Impact/Low Cost)
+The primary goal here is to stop heat leakage. Because the owner's motivation is to improve the EPC, these steps provide the most significant jump in rating.
+
+1.  **Insulate Wall Cavity:** All four walls (Front, Rear, Left, Right) are identified as **Cavity Walls** and are currently **Not Insulated**. Cavity wall insulation is one of the most cost-effective upgrades as it requires no structural changes to the facade.
+2.  **Replace Glazing:** Both the living area and bedrooms have **Single Glazing**, which is thermally inefficient. Since the wooden window frames are in **Good State**, you should **replace the glazing** (e.g., to double or triple glazing) rather than replacing the entire window unit, significantly reducing costs.
+3.  **Insulate Floor Above Basement:** The building has a floor above a crawl space. Insulating this area prevents cold air from rising into the living spaces.
+
+### Phase 2: Ventilation and Air Quality
+Once the house is "sealed" with better insulation and glazing, air exchange must be managed to prevent condensation and maintain air quality.
+
+4.  **Replace Ventilation System:** The current **Ventilation System A** (natural supply/exhaust) is the most basic. Upgrading to a more modern system (System B, C, or D) will improve thermal comfort and reduce the energy loss associated with uncontrolled ventilation.
+
+### Phase 3: Heating System Modernization
+With the heat load of the building now significantly reduced, the heating system can be downsized and shifted to a more efficient energy source.
+
+5.  **Place Emission System on Low Temperature:** Before installing a new heat pump, the current mixed emission system (radiators, electric convectors) should be transitioned to low-temperature emitters to maximize the efficiency of the next step.
+6.  **Place Air-Water Heat Pump:** Replace the existing boiler with an **Air-Water Heat Pump**. (Note: Geothermal options were ruled out as the site data indicates no potential for horizontal or vertical geothermal drilling).
+
+### Phase 4: Renewable Energy Integration
+The final step is to offset the remaining electricity consumption of the heat pump and household.
+
+7.  **Place PV-Panels on Roof:** The building has **potential for PV** and a well-insulated gable roof. Installing solar panels will lower operational costs and further improve the EPC label.
+
+---
+
+### Summary of the Optimal Sequence
+| Order | Action | Target Element | Reasoning |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | All Walls | High ROI; utilizes existing cavity. |
+| **2** | **Replace Glazing** | All Windows | Eliminates major heat loss; saves frames. |
+| **3** | **Insulate Floor** | Floor above basement | Prevents drafts from the crawl space. |
+| **4** | **Replace Ventilation** | Whole Building | Manages air quality in a sealed envelope. |
+| **5** | **Low-Temp Emission** | Heating System | Prerequisite for heat pump efficiency. |
+| **6** | **Air-Water Heat Pump** | Generation System | Shifts from fossil fuels to electric heat. |
+| **7** | **PV-Panels on Roof** | Roof | Offsets energy costs of the heat pump. |

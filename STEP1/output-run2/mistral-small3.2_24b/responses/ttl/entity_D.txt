@@ -1,0 +1,57 @@
+Based on the provided building information and the RENO ontology, here's a cost-effective and energy-efficient renovation plan for the semi-detached building (ex:Building):
+
+1. **Insulate Wall Cavity (ex:Wall_Front, ex:Wall_Left, ex:Wall_Rear)**
+   - Current insulation grade: WellInsulated (reno:WellInsulated)
+   - Recommendation: No action needed as walls are already well insulated
+   - Cost: $0 (already optimized)
+
+2. **Insulate Roof (ex:RoofExtension, ex:RoofMain)**
+   - ex:RoofExtension: WellInsulated
+   - ex:RoofMain: ModeratelyInsulated
+   - Recommendation: Upgrade ex:RoofMain to WellInsulated
+   - Action: InsulateGableRoof (reno:InsulateGableRoof)
+   - Cost: $60/m² * surface area (ordering 28)
+
+3. **Replace Ventilation System (ex:VentilationSystem)**
+   - Current type: VentilationSystemD
+   - Recommendation: No action needed as D is already a high-efficiency system
+
+4. **Window Upgrades (ex:WindowsBedrooms, ex:WindowsLivingArea)**
+   - Current glazing: DoubleGlazing
+   - Recommendation: Consider upgrading to TripleGlazing for better insulation
+   - Action: ReplaceGlazing (reno:ReplaceGlazing)
+   - Cost: $200/m² * window area (ordering 43)
+
+5. **Renewable Energy Installation**
+   - Current: ex:PVPanels (solar device)
+   - Recommendation: Consider adding more PV panels if space allows
+   - Action: PlacePVPanelsOnRoof (reno:PlacePVPanelsOnRoof)
+   - Cost: $275/m² * panel area (ordering 85)
+   - Note: Check roof orientation and shading factors
+
+6. **Heating System Upgrade**
+   - Current: ex:EmissionSystem (space heater)
+   - Recommendation: Consider upgrading to a more efficient system
+   - Action: PlaceAirWaterHeatpump (reno:PlaceAirWaterHeatpump)
+   - Cost: $8,000 + $35/m² (ordering 67)
+
+**Implementation Order (based on ordering property):**
+1. PlaceRoofUnderlayment (ordering 16)
+2. RemoveAsbestosGableRoof (if needed, ordering 22)
+3. InsulateGableRoof (ordering 28)
+4. ReplaceGlazing (ordering 43)
+5. PlaceAirWaterHeatpump (ordering 67)
+6. PlacePVPanelsOnRoof (ordering 85)
+
+**Cost-Effectiveness Notes:**
+- Focus on highest-impact upgrades first (roof insulation, window glazing)
+- Consider the building's existing good insulation (walls) to prioritize other areas
+- The owner's motivation (ToImproveEPC) suggests focusing on energy efficiency upgrades
+
+**Next Steps:**
+1. Conduct a detailed energy audit to identify exact areas needing improvement
+2. Obtain precise measurements for cost estimation
+3. Verify current state of materials (especially for asbestos removal)
+4. Check local regulations and incentives for energy-efficient renovations
+
+This plan maximizes energy efficiency while being mindful of cost-effectiveness, focusing on upgrades that will have the most significant impact on the building's energy performance.

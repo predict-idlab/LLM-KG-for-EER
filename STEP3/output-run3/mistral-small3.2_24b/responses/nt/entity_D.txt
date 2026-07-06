@@ -1,0 +1,175 @@
+Based on the provided building-related information and the RENO ontology, I will outline a renovation plan that maximizes energy efficiency while remaining cost-effective. The plan will consider practical upgrades and prioritize actions based on their impact and cost-effectiveness.
+
+### Renovation Plan
+
+1. **Replace the Flat Roof (ReplaceFlatRoof)**
+   - **Reasoning**: The building has a flat roof (RoofExtension) that is well-insulated but may not be as durable or energy-efficient as other roofing options.
+   - **Action**: Replace the existing flat roof with a more energy-efficient and durable roofing material.
+   - **Cost**: The cost is €120 per square meter.
+   - **Permit Needed**: No permit is required for this replacement in Flanders.
+   - **Nuisance Level**: High.
+   - **Ordering**: 10.
+
+2. **Insulate the Flat Roof (InsulateFlatRoof)**
+   - **Reasoning**: The flat roof (RoofExtension) is already well-insulated, but additional insulation could further improve energy efficiency.
+   - **Action**: Add additional insulation to the flat roof.
+   - **Cost**: The cost is €50 per square meter.
+   - **Permit Needed**: A permit is required if the total pack thickness exceeds 26 cm in Flanders.
+   - **Nuisance Level**: High.
+   - **Ordering**: 25.
+
+3. **Replace the Gable Roof (ReplaceGableRoof)**
+   - **Reasoning**: The building has a gable roof (RoofMain) that is moderately insulated. Replacing it with a more energy-efficient roofing material can improve thermal comfort and energy efficiency.
+   - **Action**: Replace the existing gable roof with a more energy-efficient and durable roofing material.
+   - **Cost**: The cost is €260 per square meter.
+   - **Permit Needed**: A permit is required only if the roof framework is renewed in Flanders.
+   - **Nuisance Level**: High.
+   - **Ordering**: 13.
+
+4. **Insulate the Gable Roof (InsulateGableRoof)**
+   - **Reasoning**: The gable roof (RoofMain) is moderately insulated. Adding additional insulation can further improve energy efficiency and thermal comfort.
+   - **Action**: Add additional insulation to the gable roof.
+   - **Cost**: The cost is €60 per square meter.
+   - **Permit Needed**: No permit is required for this insulation in Flanders.
+   - **Nuisance Level**: Low.
+   - **Ordering**: 28.
+
+5. **Insulate the Attic Floor (InsulateAtticFloor)**
+   - **Reasoning**: The attic floor (FloorAboveBasement) is well-insulated. However, ensuring proper insulation can prevent heat loss and improve energy efficiency.
+   - **Action**: Ensure the attic floor is properly insulated.
+   - **Cost**: The cost is €60 per square meter.
+   - **Permit Needed**: No permit is required for this insulation in Flanders.
+   - **Nuisance Level**: Low.
+   - **Ordering**: 31.
+
+6. **Insulate the Wall Cavity (InsulateWallCavity)**
+   - **Reasoning**: The walls (Wall_Front, Wall_Rear, Wall_Left) are well-insulated. However, injecting insulation into the wall cavity can further improve energy efficiency.
+   - **Action**: Inject insulation into the wall cavity.
+   - **Cost**: The cost is €22 per square meter.
+   - **Permit Needed**: No permit is required for this insulation in Flanders.
+   - **Nuisance Level**: Low.
+   - **Ordering**: 34.
+
+7. **Insulate the Wall on Interior (InsulateWallInterior)**
+   - **Reasoning**: Insulating the walls on the interior can improve thermal comfort and energy efficiency, especially if the walls are not well-insulated.
+   - **Action**: Insulate the walls on the interior.
+   - **Cost**: The cost is €150 per square meter.
+   - **Permit Needed**: No permit is required for this insulation in Flanders.
+   - **Nuisance Level**: Moderate.
+   - **Ordering**: 37.
+
+8. **Insulate the Wall on Exterior (InsulateWallExterior)**
+   - **Reasoning**: Insulating the walls on the exterior can significantly improve energy efficiency and thermal comfort.
+   - **Action**: Insulate the walls on the exterior.
+   - **Cost**: The cost is €200 per square meter.
+   - **Permit Needed**: A permit is required if the total pack thickness exceeds 26 cm or the building line is overrun in Flanders.
+   - **Nuisance Level**: High.
+   - **Ordering**: 40.
+
+9. **Replace the Glazing (ReplaceGlazing)**
+   - **Reasoning**: The windows (WindowsBedrooms, WindowsLivingArea) have wooden frames and double glazing. Replacing the glazing with more energy-efficient options can improve thermal comfort and energy efficiency.
+   - **Action**: Replace the existing glazing with more energy-efficient glazing.
+   - **Cost**: The cost is €200 per square meter.
+   - **Permit Needed**: No permit is required for this replacement in Flanders.
+   - **Nuisance Level**: High.
+   - **Ordering**: 43.
+
+10. **Replace the Windows (ReplaceWindows)**
+    - **Reasoning**: The windows (WindowsBedrooms, WindowsLivingArea) have wooden frames and double glazing. Replacing the windows with more energy-efficient options can improve thermal comfort and energy efficiency.
+    - **Action**: Replace the existing windows with more energy-efficient windows.
+    - **Cost**: The cost is €800 per square meter.
+    - **Permit Needed**: No permit is required if the measurements are kept in Flanders.
+    - **Nuisance Level**: High.
+    - **Ordering**: 46.
+
+11. **Insulate the Floor Above Basement (InsulateFloorAboveBasement)**
+    - **Reasoning**: The floor above the basement (FloorAboveBasement) is well-insulated. However, ensuring proper insulation can prevent heat loss and improve energy efficiency.
+    - **Action**: Ensure the floor above the basement is properly insulated.
+    - **Cost**: The cost is €30 per square meter.
+    - **Permit Needed**: No permit is required for this insulation in Flanders.
+    - **Nuisance Level**: Low.
+    - **Ordering**: 49.
+
+12. **Replace the Ventilation System (ReplaceVentilationSystem)**
+    - **Reasoning**: The ventilation system (VentilationSystem) is a type D system. Replacing it with a more energy-efficient system can improve indoor air quality and energy efficiency.
+    - **Action**: Replace the existing ventilation system with a more energy-efficient system.
+    - **Cost**: The cost is €17 per square meter.
+    - **Permit Needed**: No permit is required if the above-ground parts are at least 2 meters away from the parcel boundary in Flanders.
+    - **Nuisance Level**: Moderate.
+    - **Ordering**: 52.
+
+13. **Connect to the Heat Grid (ConnectToHeatGrid)**
+    - **Reasoning**: Connecting to the heat grid can provide a more sustainable and energy-efficient heating solution.
+    - **Action**: Connect the building to the heat grid.
+    - **Cost**: The cost is €7,000.
+    - **Permit Needed**: No permit is required for this connection in Flanders.
+    - **Nuisance Level**: Low.
+    - **Ordering**: 55.
+
+14. **Place the Air-Water Heat Pump (PlaceAirWaterHeatpump)**
+    - **Reasoning**: Installing an air-water heat pump can provide a more energy-efficient and sustainable heating solution.
+    - **Action**: Install an air-water heat pump.
+    - **Cost**: The cost is €35 per square meter.
+    - **Permit Needed**: No permit is required if the above-ground parts are at least 2 meters away from the parcel boundary in Flanders.
+    - **Nuisance Level**: Moderate.
+    - **Ordering**: 67.
+
+15. **Place the Low-Temperature Emission System (PlaceLowTemperatureEmission)**
+    - **Reasoning**: Installing a low-temperature emission system can improve energy efficiency and thermal comfort.
+    - **Action**: Install a low-temperature emission system.
+    - **Cost**: The cost is €100 per square meter.
+    - **Permit Needed**: No permit is required for this installation in Flanders.
+    - **Nuisance Level**: Moderate.
+    - **Ordering**: 70.
+
+16. **Place the Air-Water Heat Pump with Cooling (PlaceAirWaterHeatpumpWithCooling)**
+    - **Reasoning**: Installing an air-water heat pump with cooling can provide a more energy-efficient and sustainable heating and cooling solution.
+    - **Action**: Install an air-water heat pump with cooling.
+    - **Cost**: The cost is €35 per square meter.
+    - **Permit Needed**: No permit is required if the above-ground parts are at least 2 meters away from the parcel boundary in Flanders.
+    - **Nuisance Level**: Moderate.
+    - **Ordering**: 73.
+
+17. **Place the Sun Shade (PlaceSunShade)**
+    - **Reasoning**: Installing a sun shade can reduce solar heat gain and improve thermal comfort.
+    - **Action**: Install a sun shade.
+    - **Cost**: The cost is €750.
+    - **Permit Needed**: No permit is required for this installation in Flanders.
+    - **Nuisance Level**: Low.
+    - **Ordering**: 79.
+
+18. **Place the Air Conditioning (PlaceAirconditioning)**
+    - **Reasoning**: Installing air conditioning can improve thermal comfort and indoor air quality.
+    - **Action**: Install air conditioning.
+    - **Cost**: The cost is €1,000.
+    - **Permit Needed**: No permit is required for this installation in Flanders.
+    - **Nuisance Level**: Low.
+    - **Ordering**: 82.
+
+19. **Place the PV Panels on Roof (PlacePVPanelsOnRoof)**
+    - **Reasoning**: Installing PV panels on the roof can provide a sustainable and energy-efficient power source.
+    - **Action**: Install PV panels on the roof.
+    - **Cost**: The cost is €275 per square meter.
+    - **Permit Needed**: No permit is required if the panels are in the same plane in Flanders.
+    - **Nuisance Level**: Low.
+    - **Ordering**: 85.
+
+20. **Place the PV Panels in Garden (PlacePVPanelsInGarden)**
+    - **Reasoning**: Installing PV panels in the garden can provide a sustainable and energy-efficient power source.
+    - **Action**: Install PV panels in the garden.
+    - **Cost**: The cost is €275 per square meter.
+    - **Permit Needed**: No permit is required for this installation in Flanders.
+    - **Nuisance Level**: Low.
+    - **Ordering**: 88.
+
+21. **Place the Plug-and-Play PV Panels (PlugAndPlayPanels)**
+    - **Reasoning**: Installing plug-and-play PV panels can provide a sustainable and energy-efficient power source with minimal installation effort.
+    - **Action**: Install plug-and-play PV panels.
+    - **Cost**: The cost is €550.
+    - **Permit Needed**: No permit is required for this installation in Flanders.
+    - **Nuisance Level**: Low.
+    - **Ordering**: 91.
+
+### Conclusion
+
+The proposed renovation plan prioritizes actions based on their impact on energy efficiency, cost-effectiveness, and the specific needs of the building. The plan includes a mix of structural upgrades, insulation improvements, and the installation of energy-efficient systems. Each action is grounded in the RENO ontology and tailored to the provided entity information. The ordering of the actions ensures that the most critical and impactful upgrades are addressed first, followed by additional improvements that can further enhance the building's energy efficiency and comfort.

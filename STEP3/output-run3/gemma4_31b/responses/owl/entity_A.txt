@@ -1,0 +1,39 @@
+To maximize energy efficiency and cost-effectiveness for this 1951 semi-detached building, we must follow the **"Fabric First"** principle. This means we reduce the energy demand of the building through insulation before upgrading the heating and ventilation systems. Upgrading a heating system in an uninsulated house leads to oversized equipment and higher operational costs.
+
+Based on the building's current EPC score of **388 (D Label)** and the owner's motivation to improve this rating, here is the proposed renovation path.
+
+### Phase 1: Thermal Envelope (The "Fabric First" Stage)
+The priority is to stop heat loss from the uninsulated elements.
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the most critical step as heat rises. (Ontology Order: 28)
+2.  **Insulate Floor Above Basement:** The floor is not insulated; adding insulation here prevents cold drafts from the basement. (Ontology Order: 49)
+3.  **Insulate Walls:** All outer walls (Front, Rear, Right) are currently not insulated. 
+    *   *Recommendation:* First, investigate **Insulating Wall Cavities** (Ontology Order: 34) as it is the most cost-effective and low-nuisance option. If the "Full Brick" construction is solid (no cavity), proceed to **Insulate Walls on Exterior** (Ontology Order: 40) for maximum efficiency.
+    *   *Note:* Since there is no historical protection on the walls, exterior insulation is feasible.
+
+### Phase 2: Ventilation and Air Quality
+Once the building is airtight and insulated, controlled ventilation is necessary to prevent moisture buildup and maintain air quality.
+4.  **Replace Ventilation System:** Upgrade from the current **System A** (natural supply/exhaust) to a more efficient system (such as System C or D). This reduces the amount of treated air escaping the building. (Ontology Order: 52)
+
+### Phase 3: High-Efficiency Heating Generation & Emission
+With the energy demand now significantly lowered by Phase 1 and 2, we can install a right-sized, efficient heating system.
+5.  **Place Emission System on Low Temperature:** Before installing the heat pump, transition the radiators/emitters to low-temperature settings. This is crucial because heat pumps are significantly more efficient when operating at lower flow temperatures. (Ontology Order: 70)
+6.  **Place Air-Water Heat Pump:** Since the site has no potential for geothermal drilling and no access to a heat grid, an **Air-Water Heat Pump** is the most viable and cost-effective sustainable alternative to the current boiler. (Ontology Order: 67)
+
+### Phase 4: Renewable Energy Integration
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels now ensures that the electricity used to run the heat pump is generated on-site, drastically reducing long-term operational costs. (Ontology Order: 85)
+
+---
+
+### Summary of the Optimal Sequence
+| Step | Action | Priority | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Critical | Highest heat loss area. |
+| **2** | **Insulate Floor/Walls** | High | Reduces overall heating load. |
+| **3** | **Upgrade Ventilation** | Medium | Maintains air quality in an insulated home. |
+| **4** | **Low-Temp Emitters** | Medium | Prepares the house for heat pump efficiency. |
+| **5** | **Air-Water Heat Pump** | High | Switches to sustainable energy generation. |
+| **6** | **PV-Panels** | Final | Offsets operational electricity costs. |
+
+**Why skip window replacement?** 
+The windows already have **Double Glazing** and the wooden frames are in **Good State (Value: 8)**. Replacing them would provide diminishing returns compared to the massive gains found in insulating the roof and walls.

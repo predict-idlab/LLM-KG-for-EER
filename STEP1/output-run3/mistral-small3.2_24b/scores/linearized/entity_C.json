@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["install triple glazing windows", "install a heat pump or underfloor heating system"]}, "sequence": {"order_errors": []}}

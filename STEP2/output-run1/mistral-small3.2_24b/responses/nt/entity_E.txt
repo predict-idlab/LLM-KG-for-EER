@@ -1,0 +1,93 @@
+### Renovation Plan
+
+#### Step 1: Insulate Gable Roof
+- **Action**: Insulate the gable roof to improve insulation grade.
+- **Reason**: The gable roof is currently not insulated (NotInsulated), and insulating it will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary (Flanders)
+  - **Nuisance Level**: Low
+  - **Unit Price**: 60 €/m²
+  - **Point of Attention**: Pay extra attention when installing the roof underlayment so that it is completely air- and watertight.
+
+#### Step 2: Insulate Attic Floor
+- **Action**: Insulate the attic floor to improve insulation grade.
+- **Reason**: The attic floor is currently not insulated (NotInsulated), and insulating it will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary (Flanders)
+  - **Nuisance Level**: Low
+  - **Unit Price**: 60 €/m²
+  - **Point of Attention**: In many cases, a vapour barrier is necessary when insulating the attic floor. Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+
+#### Step 3: Insulate Wall Cavity
+- **Action**: Insulate the wall cavity to improve insulation grade.
+- **Reason**: The wall cavity is currently not insulated (NotInsulated), and insulating it will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary (Flanders)
+  - **Nuisance Level**: Low
+  - **Unit Price**: 22 €/m²
+  - **Point of Attention**: Have an inspection carried out by a contractor, who can determine whether the cavity wall is suitable for injecting insulation. Namely, it should be checked whether the cavity is wide enough, whether there is no contamination in the cavity, whether the cladding is vapour-permeable enough, etc.
+
+#### Step 4: Insulate Wall on Exterior
+- **Action**: Insulate the exterior walls to improve insulation grade.
+- **Reason**: The exterior walls are currently not insulated (NotInsulated), and insulating them will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders)
+  - **Nuisance Level**: High
+  - **Unit Price**: 200 €/m²
+  - **Point of Attention**: Not every type of cladding will be possible, depending on the position of the building line and the council's guidelines.
+
+#### Step 5: Replace Windows
+- **Action**: Replace the windows to improve insulation grade.
+- **Reason**: The windows are currently glazed with single glazing (SingleGlazing), and replacing them with double or triple glazing will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary if the measurements are kept (Flanders)
+  - **Nuisance Level**: High
+  - **Unit Price**: 800 €/m²
+  - **Point of Attention**: Do you currently have a ventilation system type A or C, or are you planning to install a natural supply system? If so, be sure to provide enough grilles on your window frames so that enough fresh air can flow into your home.
+
+#### Step 6: Replace Ventilation System
+- **Action**: Replace the ventilation system to improve indoor air quality and energy efficiency.
+- **Reason**: The current ventilation system is type A (VentilationSystemA), and replacing it with a more efficient system will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+  - **Nuisance Level**: Moderate
+  - **Unit Price**: 17 €/m²
+  - **Point of Attention**: A ventilation system D will have slightly more impact on your home, as it requires ductwork for both supply and return.
+
+#### Step 7: Connect to Heat Grid
+- **Action**: Connect to the heat grid to improve energy efficiency.
+- **Reason**: The building does not have a heat grid connection, and connecting to the heat grid will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary (Flanders)
+  - **Nuisance Level**: Low
+  - **Unit Price**: 7000 € (fixed price)
+  - **Point of Attention**: Contact your municipality or grid operator for more information.
+
+#### Step 8: Place Air-Water Heat Pump
+- **Action**: Install an air-water heat pump to improve energy efficiency.
+- **Reason**: The building does not have a heat pump, and installing one will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+  - **Nuisance Level**: Moderate
+  - **Unit Price**: 35 €/m²
+  - **Point of Attention**: This is a cost-effective solution that can significantly reduce energy consumption.
+
+#### Step 9: Place Emission System on Low Temperature
+- **Action**: Install a low-temperature emission system to improve energy efficiency.
+- **Reason**: The building does not have a low-temperature emission system, and installing one will improve the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary (Flanders)
+  - **Nuisance Level**: Moderate
+  - **Unit Price**: 100 €/m²
+  - **Point of Attention**: This system is designed to work efficiently at lower temperatures, reducing energy consumption.
+
+#### Step 10: Place Sun Shade
+- **Action**: Install a sun shade to reduce solar heat gain.
+- **Reason**: The building does not have a sun shade, and installing one will reduce the amount of solar heat gain, improving the overall energy efficiency of the building.
+- **Details**:
+  - **Permit Needed**: Not necessary (Flanders)
+  - **Nuisance Level**: Low
+  - **Unit Price**: 750 € (fixed price)
+  - **Point of Attention**: Outdoor blinds are generally more efficient than indoor blinds.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective. The steps are ordered to maximize the benefits of each renovation step, ensuring that the most impactful changes are made first.

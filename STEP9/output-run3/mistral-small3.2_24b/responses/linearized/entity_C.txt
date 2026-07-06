@@ -1,0 +1,93 @@
+### Step-by-Step Renovation Plan
+
+#### 1. **Initial Assessment**
+- **Building Type**: AttachedBuilding
+- **Energy Performance Certificate (EPC)**: E label (500-600 kWh/m²/year)
+- **Insulation**: WellInsulated (Wall_Front, Wall_Rear, FloorAboveBasement)
+- **Roof Insulation**: ModeratelyInsulated (RoofMain), WellInsulated (RoofExtension)
+- **Windows**: DoubleGlazing (WindowGlazingBedrooms, WindowGlazingLivingArea)
+- **Ventilation System**: VentilationSystemD
+- **Heating System**: ElectricConvector, FloorHeating
+- **Potential for PV**: False
+- **Potential for Geothermal**: False
+
+#### 2. **Prioritize Energy Efficiency Upgrades**
+Given the E label, the primary goal is to improve the EPC to at least a D label (300-400 kWh/m²/year). The most impactful upgrades are:
+
+1. **Replace Flat Roof (RoofExtension)**
+   - **Reason**: Replace the existing flat roof with a more energy-efficient solution.
+   - **Action**: Replace the flat roof (RoofExtension) with a well-insulated flat roof.
+   - **Suggestion**: `replace flat roof`
+
+2. **Insulate Gable Roof (RoofMain)**
+   - **Reason**: Improve insulation of the gable roof to reduce heat loss.
+   - **Action**: Insulate the gable roof (RoofMain) to achieve WellInsulated status.
+   - **Suggestion**: `insulate gable roof`
+
+3. **Replace Windows (WindowsBedrooms, WindowsLivingArea)**
+   - **Reason**: Double-glazed windows are already present, but replacing them with higher-efficiency windows can further reduce heat loss.
+   - **Action**: Replace the existing windows with triple-glazed windows.
+   - **Suggestion**: `replace windows`
+
+4. **Replace Ventilation System**
+   - **Reason**: Upgrade the ventilation system to a more energy-efficient model.
+   - **Action**: Replace the existing VentilationSystemD with a more efficient system.
+   - **Suggestion**: `replace ventilation system`
+
+5. **Connect to Heat Grid**
+   - **Reason**: Connecting to a heat grid can provide a more sustainable and efficient heating solution.
+   - **Action**: Connect the building to the heat grid if available.
+   - **Suggestion**: `connect to heatgrid`
+
+#### 3. **Cost-Effective Upgrades**
+To maximize cost-effectiveness, prioritize upgrades that have the highest impact on energy efficiency with the lowest cost:
+
+1. **Insulate Attic Floor**
+   - **Reason**: Improve insulation of the attic floor to reduce heat loss.
+   - **Action**: Insulate the attic floor (AtticFloor) to achieve WellInsulated status.
+   - **Suggestion**: `insulate attic floor`
+
+2. **Insulate Wall Cavity**
+   - **Reason**: Improve insulation of the wall cavity to reduce heat loss.
+   - **Action**: Insulate the wall cavity (Wall_Front, Wall_Rear) to achieve WellInsulated status.
+   - **Suggestion**: `insulate wall cavity`
+
+3. **Place Air-Water Heat Pump**
+   - **Reason**: Replace the existing heating system with a more energy-efficient solution.
+   - **Action**: Install an air-water heat pump to replace the existing heating system.
+   - **Suggestion**: `place air-water heatpump`
+
+#### 4. **Final Renovation Plan**
+Based on the above analysis, the final renovation plan is as follows:
+
+1. **Replace Flat Roof (RoofExtension)**
+   - **Action**: Replace the existing flat roof with a well-insulated flat roof.
+
+2. **Insulate Gable Roof (RoofMain)**
+   - **Action**: Insulate the gable roof to achieve WellInsulated status.
+
+3. **Replace Windows (WindowsBedrooms, WindowsLivingArea)**
+   - **Action**: Replace the existing windows with triple-glazed windows.
+
+4. **Replace Ventilation System**
+   - **Action**: Replace the existing VentilationSystemD with a more efficient system.
+
+5. **Connect to Heat Grid**
+   - **Action**: Connect the building to the heat grid if available.
+
+6. **Insulate Attic Floor**
+   - **Action**: Insulate the attic floor to achieve WellInsulated status.
+
+7. **Insulate Wall Cavity**
+   - **Action**: Insulate the wall cavity to achieve WellInsulated status.
+
+8. **Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump to replace the existing heating system.
+
+#### 5. **Expected Outcome**
+- **Improved EPC**: From E label to at least D label.
+- **Reduced Energy Consumption**: Significant reduction in energy consumption, leading to lower energy bills.
+- **Increased Comfort**: Improved thermal comfort within the building.
+- **Cost-Effective**: Prioritized upgrades ensure cost-effectiveness while maximizing energy efficiency.
+
+This plan is grounded in the provided ontology and suggestion list, ensuring that all actions are feasible and aligned with the building's current state and requirements.

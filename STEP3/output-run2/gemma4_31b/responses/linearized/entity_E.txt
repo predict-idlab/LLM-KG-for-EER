@@ -1,0 +1,37 @@
+To maximize energy efficiency and cost-effectiveness for this 1862 detached building, we must follow the **"Envelope First"** principle: reduce heat loss through the building shell before upgrading the heating systems. 
+
+The building currently has a moderate energy score (165) but suffers from significant thermal leaks due to uninsulated cavity walls and single-glazed windows.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Reducing Heat Loss)
+*The goal here is to minimize the energy required to heat the home. These steps are the most cost-effective way to improve the EPC score.*
+
+1.  **Insulate Wall Cavities:** All four walls (Front, Left, Right, Rear) are identified as **Cavity Walls** and are currently **Not Insulated**. Injecting insulation into these cavities is a high-impact, low-nuisance intervention that significantly reduces heat loss.
+2.  **Insulate Floor Above Basement:** The building has a floor above a crawl space. Insulating this area prevents cold air from entering the living spaces from below.
+3.  **Replace Glazing:** Both the living area and bedrooms currently use **Single Glazing**, which is highly inefficient. Since the wooden window frames are in **Good State** (value 8), replacing only the glazing (e.g., to double or triple glazing) is far more cost-effective than replacing the entire window units.
+
+#### Phase 2: HVAC & Emission System Upgrade (Efficient Heating)
+*Now that the building is airtight and insulated, we can downsize and optimize the heating system to avoid over-investing in capacity.*
+
+4.  **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators/convectors should be transitioned to low-temperature emitters. This is critical because heat pumps operate most efficiently at lower flow temperatures.
+5.  **Place Air-Water Heat Pump:** The building has a reason to change its emission system, and site data confirms that geothermal options (horizontal and vertical) are **not possible**. An air-water heat pump is the most efficient alternative to replace the current boiler and electric convectors.
+6.  **Replace Ventilation System:** Upgrading from Ventilation System A (natural) to a more modern system will ensure that the now-insulated building maintains healthy air quality without losing excessive heat.
+
+#### Phase 3: Sustainable Energy Generation (Offsetting Costs)
+*The final step is to generate the electricity needed to run the new heat pump and appliances.*
+
+7.  **Place PV-Panels on Roof:** The building is explicitly marked as having **potential for PV**. Installing solar panels on the roof will lower operational costs and further improve the energy performance certificate.
+
+### Summary of Sequence & Logic
+
+| Order | Action | Logic | Efficiency Gain |
+| :--- | :--- | :--- | :--- |
+| **1** | **Wall & Floor Insulation** | Stop the primary heat leaks first. | Very High |
+| **2** | **Replace Glazing** | Eliminate the "cold spots" of single glass. | High |
+| **3** | **Low-Temp Emitters** | Prepare the house for a heat pump. | Medium |
+| **4** | **Air-Water Heat Pump** | Switch from inefficient electric/oil to heat pump. | High |
+| **5** | **Ventilation Upgrade** | Balance air quality with thermal retention. | Medium |
+| **6** | **PV-Panels** | Offset the electrical load of the heat pump. | High (Cost) |
+
+**Cost-Effectiveness Note:** By replacing only the glazing and utilizing the existing cavity walls, we avoid the massive expense of external wall cladding or full window replacements, focusing the budget on the most impactful energy reductions.

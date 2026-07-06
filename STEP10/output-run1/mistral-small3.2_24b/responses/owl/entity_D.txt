@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, the property is a semi-detached building from 2017 with an EPC score of 87 (A label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+Proposed Renovation Path
+
+Phase 1: Insulation Optimization (Priority: High)
+The building is already well-insulated, with only the gable roof needing minor improvements.
+1.  **Insulate Gable Roof:** The `RoofMain` is currently moderately insulated. Adding more insulation here will further reduce heat loss through the roof.
+
+Phase 2: Window Performance Enhancement (Priority: Medium)
+The windows are already double-glazed, but the wooden frames could be upgraded for better thermal performance.
+2.  **Replace Windows:** Upgrading the wooden frames to a more thermally efficient material (e.g., aluminum or PVC) will enhance overall window performance and reduce heat loss.
+
+Phase 3: Heating & Emission System Transition (Priority: Medium)
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+3.  **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing system.
+
+Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+4.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+Summary of Optimal Sequence
+**Gable Roof Insulation** $\rightarrow$ **Window Replacement** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **PV Panels**.
+
+### Renovation Path:
+Based on the provided building data and the RENO ontology, the property is a semi-detached building from 2017 with an EPC score of 87 (A label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency while remaining cost-effective, the renovation should follow this sequence:
+
+### Phase 1: Insulation Optimization (Priority: High)
+1. **Insulate Gable Roof**: The `RoofMain` is currently moderately insulated. Adding more insulation here will further reduce heat loss through the roof.
+### Phase 2: Window Performance Enhancement (Priority: Medium)
+2. **Replace Windows**: Upgrading the wooden frames to a more thermally efficient material (e.g., aluminum or PVC) will enhance overall window performance and reduce heat loss.
+### Phase 3: Heating & Emission System Transition (Priority: Medium)
+3. **Place Air-Water Heat Pump**: Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing system.
+### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+4. **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence:
+**Insulate Gable Roof** → **Replace Windows** → **Place Air-Water Heat Pump** → **Install PV Panels**.

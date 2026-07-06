@@ -1,0 +1,49 @@
+Based on the provided RENO ontology, suggestion list, and entity information, here's a step-by-step renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+### Step 1: Insulate the Roofs
+- **Action**: Insulate the gable roof (RoofMain) and the flat roof (RoofExtension).
+- **Rationale**: Both roofs are currently not insulated (NotInsulated), and insulation will significantly improve energy efficiency.
+- **Priority**: High (RoofMain is in good state, RoofExtension is moderately insulated but can be improved).
+- **Suggestion**: Use "insulate gable roof" and "insulate flat roof" from the suggestion list.
+
+### Step 2: Insulate the Walls
+- **Action**: Insulate the walls (Wall_Front, Wall_Rear, Wall_Right) on the exterior.
+- **Rationale**: The walls are full brick walls and not insulated (NotInsulated), making them significant sources of heat loss.
+- **Priority**: High.
+- **Suggestion**: Use "insulate wall on exterior" from the suggestion list.
+
+### Step 3: Upgrade the Windows
+- **Action**: Replace the glazing of the windows (WindowsBedrooms, WindowsLivingArea) with triple glazing.
+- **Rationale**: The current windows have double glazing, which can be upgraded to triple glazing for better insulation.
+- **Priority**: Medium.
+- **Suggestion**: Use "replace glazing" from the suggestion list.
+
+### Step 4: Improve the Ventilation System
+- **Action**: Replace the ventilation system (VentilationSystem) with a more efficient system.
+- **Rationale**: The current system is a basic natural ventilation system (VentilationSystemA), which can be upgraded to a more efficient mechanical system.
+- **Priority**: Medium.
+- **Suggestion**: Use "replace ventilation system" from the suggestion list.
+
+### Step 5: Upgrade the Heating System
+- **Action**: Replace the current emission system (EmissionSystem) with a more efficient system, such as a heat pump.
+- **Rationale**: The current system is an air heating system with radiators, which can be upgraded to a more efficient system like a heat pump.
+- **Priority**: High.
+- **Suggestion**: Use "place air-water heatpump" or "place vertical geothermal heatpump" from the suggestion list, depending on feasibility and cost.
+
+### Step 6: Install Solar Panels
+- **Action**: Install PV panels on the roof (RoofMain) or in the garden.
+- **Rationale**: The building has potential for PV (reno:hasPotentialForPV is true), and installing solar panels can significantly reduce energy costs and improve sustainability.
+- **Priority**: Medium.
+- **Suggestion**: Use "place PV-panels on roof" or "place PV-panels in garden" from the suggestion list.
+
+### Step 7: Insulate the Floor
+- **Action**: Insulate the floor above the basement (FloorAboveBasement).
+- **Rationale**: The floor is not insulated (NotInsulated), and insulation can improve energy efficiency.
+- **Priority**: Low.
+- **Suggestion**: Use "insulate floor above basement" from the suggestion list.
+
+### Step 8: Additional Considerations
+- **Asbestos Removal**: Check for asbestos in the roofs (RoofMain, RoofExtension) and remove it if present.
+- **Permits**: Ensure that necessary permits are obtained for the suggested actions, especially for structural changes like roof and wall insulation.
+
+This plan prioritizes actions based on their potential impact on energy efficiency and cost-effectiveness, following the optimal sequence to maximize benefits. The actions are grounded in the RENO ontology and the suggestion list, tailored to the specific entity information provided.

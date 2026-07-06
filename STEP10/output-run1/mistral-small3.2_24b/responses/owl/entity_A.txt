@@ -1,0 +1,66 @@
+To create an effective and cost-efficient renovation plan, we'll follow a "fabric first" approach, addressing the building envelope before upgrading heating systems or adding renewable energy sources.
+
+### Step 1: Analyze the Building
+- **Building Type**: Semi-detached house from 1951
+- **Current EPC Score**: 388 (D Label)
+- **Potential for PV**: True
+- **Presence of Heat Grid**: False
+- **Potential for Geothermal**: False
+- **Owner's Motivation**: Improve EPC
+
+### Step 2: Identify Key Issues
+- **Walls**: All three walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`) are full brick and not insulated.
+- **Roof**: The gable roof (`RoofMain`) is not insulated, while the flat roof (`RoofExtension`) is only moderately insulated.
+- **Floor**: The floor above the basement (`FloorAboveBasement`) is not insulated.
+- **Windows**: Windows have double glazing and are in good condition.
+- **Ventilation System**: Currently uses Ventilation System A (natural).
+
+### Step 3: Proposed Renovation Path
+#### Phase 1: Thermal Envelope Optimization (High Priority)
+1. **Insulate Walls on Exterior**
+   - **Why**: Since the walls are full brick and not cavity walls, exterior insulation is the most effective method.
+   - **Suggestion**: Use `Insulate Wall On Exterior` (Order: 40).
+   - **Considerations**: This will eliminate thermal bridges and significantly reduce heat loss.
+
+2. **Insulate Floor Above Basement**
+   - **Why**: The floor above the basement is currently not insulated, leading to heat loss to the basement.
+   - **Suggestion**: Use `Insulate Floor Above Basement` (Order: 49).
+   - **Considerations**: This will prevent cold drafts from the basement and improve overall comfort.
+
+3. **Insulate Gable Roof**
+   - **Why**: The gable roof is currently not insulated, which is a significant source of heat loss.
+   - **Suggestion**: Use `Insulate Gable Roof` (Order: 28).
+   - **Considerations**: Condensation problems can occur without a vapour barrier, so proper installation is crucial.
+
+#### Phase 2: Heating System Transition (Medium Priority)
+4. **Replace Ventilation System**
+   - **Why**: Upgrading from Ventilation System A (natural) to a more efficient system (e.g., System C or D) is necessary to maintain air quality and reduce heat loss.
+   - **Suggestion**: Use `Replace Ventilation System` (Order: 52).
+   - **Considerations**: This ensures that the heat gained from new insulation is not lost through uncontrolled air leakage.
+
+5. **Place Air-Water Heat Pump**
+   - **Why**: With a sealed and insulated envelope, the building's heat demand is lower, making a heat pump a more efficient option.
+   - **Suggestion**: Use `Place Air-Water Heatpump` (Order: 67).
+   - **Considerations**: Since there is no potential for geothermal or a heat grid, an air-water heat pump is the most viable alternative.
+
+6. **Place Emission System on Low Temperature**
+   - **Why**: Before installing the heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+   - **Suggestion**: Use `Place Emission System On Low Temperature` (Order: 70).
+   - **Considerations**: This step is crucial for optimizing the efficiency of the new heat pump.
+
+#### Phase 3: Sustainable Energy Generation (Long-term Priority)
+7. **Place PV-Panels on Roof**
+   - **Why**: The building has confirmed potential for PV. Installing solar panels will provide renewable electricity needed to power the heat pump and ventilation system.
+   - **Suggestion**: Use `Place PV-Panels On Roof` (Order: 85).
+   - **Considerations**: Proper orientation and shading analysis should be conducted to ensure maximum efficiency.
+
+### Step 4: Summary of Optimal Sequence
+1. **Insulate Walls on Exterior**
+2. **Insulate Floor Above Basement**
+3. **Insulate Gable Roof**
+4. **Replace Ventilation System**
+5. **Place Air-Water Heat Pump**
+6. **Place Emission System on Low Temperature**
+7. **Place PV-Panels on Roof**
+
+This sequence ensures that the building's energy efficiency is maximized in a cost-effective manner, aligning with the owner's motivation to improve the EPC.

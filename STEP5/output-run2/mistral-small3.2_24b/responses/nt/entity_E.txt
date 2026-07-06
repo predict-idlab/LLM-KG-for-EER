@@ -1,0 +1,30 @@
+### Renovation Plan for the Detached Building
+
+Given the provided data and the RENO ontology, the property is a detached building from 1862 with an EPC score of 165. The owner's primary motivation is to improve the EPC rating. The building has significant heat loss through non-insulated elements. The proposed renovation plan follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence, prioritizing the building envelope before upgrading the heating system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Strengthening the Building Envelope (Priority: High)
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+
+1. **Insulate Wall Cavity:** Both `Wall_Front` and `Wall_Rear` are cavity walls and not insulated. Insulating the cavity is the most effective method to eliminate thermal bridges.
+2. **Insulate Wall on Exterior:** The `Wall_Left` is a cavity wall and not insulated. Insulating the exterior of a cavity wall is significantly more cost-effective than interior insulation and provides a substantial increase in thermal retention.
+3. **Insulate Floor Above Crawl Space:** The `FloorAboveCrawlSpace` is currently not insulated. Adding insulation here prevents cold drafts from the crawl space.
+
+*Note: Windows are currently single-glazed, so replacing them is recommended after the walls and floor are insulated to maximize cost-effectiveness.*
+
+#### Phase 2: Heating & Emission System Transition (Priority: Medium)
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+4. **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+5. **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+#### Phase 3: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+6. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+**Cavity Wall Insulation** $\rightarrow$ **Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+This plan ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system. The sequence is designed to maximize energy efficiency while remaining cost-effective.

@@ -1,0 +1,27 @@
+Based on the provided building data and the RENO ontology, this property is a modern semi-detached building (constructed in 2017) that is already performing at a very high level of energy efficiency, with an **EPC score of 87 (A Label)**. 
+
+The building is already equipped with several high-efficiency systems: a heat pump, a high-end Ventilation System D, double glazing, and PV panels. Most structural elements (walls, flat roof, and floor) are already "Well Insulated."
+
+To further improve the EPC score while remaining cost-effective, the focus shifts from major overhauls to **marginal gains** and addressing the only remaining thermal weakness.
+
+### Proposed Renovation Path
+
+**Phase 1: Finalizing the Thermal Envelope (Priority: Low/Maintenance)**
+Since the building is nearly optimized, there is only one remaining element that is not "Well Insulated."
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently categorized as **"Moderately Insulated."** Upgrading this to a "Well Insulated" grade is the most logical step to further reduce heat loss and push the EPC score toward the A+ category.
+
+**Phase 2: High-Efficiency Refinements (Optional/Long-term)**
+Given the existing high performance, further investments will have diminishing returns. However, for an owner specifically motivated to maximize the EPC:
+
+2.  **Replace Glazing (Upgrade to Triple Glazing):** While the windows are already double-glazed and in good state, upgrading the glazing to **triple glazing** would further reduce thermal transmission, though the cost-to-benefit ratio is low given the current EPC of 87.
+
+### Summary of Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only remaining "moderately" insulated structural element to eliminate the final significant source of heat loss. |
+| **2** | **Glazing Upgrade** | A marginal improvement to reduce the remaining thermal bridge of the windows. |
+
+**Conclusion:** 
+Because the building is already highly efficient, a "fabric-first" approach is nearly complete. The most cost-effective path is to simply **insulate the gable roof**. Further interventions (like triple glazing) should only be pursued if the budget allows for luxury improvements, as they will provide minimal impact on the already excellent operational performance.

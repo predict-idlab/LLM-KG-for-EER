@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "insulate floor above basement", "place emission system on low temperature"], "extra_actions": ["insulate wall on exterior"]}, "sequence": {"order_errors": []}}

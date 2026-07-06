@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, the building is a 1951 semi-detached house with a poor energy performance (EPC score: 388.0, Label D). The owner's primary motivation is to improve the EPC.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. This means reducing the energy demand through insulation before upgrading the heating systems to ensure the new systems are correctly sized and highly efficient.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Demand Reduction)
+*The priority is to stop heat loss from the building shell. Since the walls are "Full Brick" (no cavity), exterior insulation is the most effective choice.*
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the most critical step as heat rises.
+2.  **Insulate Wall on Exterior:** The front, rear, and right walls are not insulated. Exterior insulation provides the best thermal break and avoids the loss of internal living space.
+3.  **Insulate Floor Above Basement:** To eliminate cold drafts from below and improve the overall thermal envelope.
+
+#### Phase 2: Ventilation & Air Quality
+*Once the house is sealed with insulation, mechanical ventilation is necessary to prevent condensation and maintain indoor air quality.*
+
+4.  **Replace Ventilation System:** Upgrade from the current System A (natural) to a more efficient system (such as System C or D) to ensure controlled air exchange.
+
+#### Phase 3: Heating System Upgrade (Efficient Generation)
+*With the energy demand lowered, the heating system can be transitioned from a traditional boiler to a sustainable alternative. Geothermal and heat grids are unavailable at this site.*
+
+5.  **Place Air-Water Heat Pump:** Given the existing floor heating and radiators, an air-water heat pump is the most compatible and efficient replacement for the current boiler.
+6.  **Place Emission System on Low Temperature:** To maximize the efficiency (COP) of the heat pump, the existing radiators should be optimized for lower temperature operation.
+
+#### Phase 4: Renewable Energy (Operational Cost Reduction)
+*The final step is to offset the electricity consumption of the new heat pump.*
+
+7.  **Place PV-Panels on Roof:** The building has high potential for PV. Installing solar panels will significantly reduce long-term operational costs and further improve the EPC label.
+
+---
+
+### Summary of Sequence & Logic
+
+| Order | Action | Logic |
+| :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Wall $\rightarrow$ Floor Insulation** | Reduces the total heating load; prevents over-sizing the heat pump. |
+| **2** | **Ventilation Upgrade** | Prevents moisture/mold issues caused by the improved airtightness of Phase 1. |
+| **3** | **Air-Water Heat Pump** | Switches to a high-efficiency, low-carbon energy source. |
+| **4** | **PV Panels** | Provides "green" electricity to power the heat pump, maximizing cost-effectiveness. |
+
+**Note on Cost-Effectiveness:** While exterior wall insulation has a higher unit price, it is the only viable way to significantly improve the EPC of a 1951 full-brick building. Skipping this step would necessitate a larger, more expensive heating system that would work harder to maintain temperature.

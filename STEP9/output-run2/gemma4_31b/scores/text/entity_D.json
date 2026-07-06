@@ -1,0 +1,17 @@
+{
+  "completeness": {
+    "missing_actions": [],
+    "extra_actions": [
+      "add insulation pitched roof",
+      "seal gaps envelope",
+      "install smart energy management system",
+      "install smart thermostat heat pump",
+      "optimize heat pump timing",
+      "install thermal curtains windows"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}
+  

@@ -1,0 +1,21 @@
+### Renovation Plan:
+Based on the provided building data and the RENO ontology, the property is a newly constructed attached building with an excellent EPC score of 50 (A Label). The owner's motivation is to improve the EPC rating further. Given the excellent starting point, the focus will be on minor improvements to enhance energy efficiency and comfort while maintaining cost-effectiveness.
+
+#### Proposed Renovation Path:
+
+**Phase 1: Minor Improvements for Comfort and Efficiency**
+1. **Place Sunshade**: Installing sunshades will help regulate indoor temperature by reducing solar heat gain, improving comfort, and potentially reducing cooling needs.
+2. **Place Airconditioning**: Although the EPC is already excellent, adding air conditioning can enhance comfort during hot summer months, especially in well-insulated spaces.
+
+**Phase 2: Sustainable Energy Generation**
+3. **Place PV-Panels on Roof**: Since the building has confirmed potential for PV, installing solar panels will further reduce the carbon footprint and offset any remaining energy consumption, enhancing the sustainability of the property.
+
+**Summary of Optimal Sequence**
+**Sunshade Installation** $\rightarrow$ **Airconditioning** $\rightarrow$ **PV Panels**.
+
+### Justification:
+- **Sunshade Installation** is a low-cost, high-impact measure that enhances comfort without significantly altering the building's structure.
+- **Airconditioning** is a comfort-driven upgrade that complements the existing high-performance envelope.
+- **PV Panels** leverage the building's solar potential, ensuring long-term energy savings and sustainability.
+
+This plan ensures that the building remains energy-efficient and comfortable while adhering to cost-effective and practical upgrades. The sequence is designed to maximize benefits while minimizing disruption.

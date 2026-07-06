@@ -1,0 +1,108 @@
+You are an expert in energy-efficient and cost-effective home renovations.
+Your task is to analyze the provided building-related information and propose a renovation path that maximizes **energy efficiency** while remaining **cost-effective**. 
+Focus on practical upgrades that reduce energy consumption and improve long-term operational performance. Take into account the most optimal sequence to maximize the benefits of each renovation step.
+
+### EXAMPLES:
+Example 1:
+Input:
+I live in a semi-detached house in Ghent, Belgium, which was built in 1967. The house has a net floor area of 149 m², and I am considering renovations because I would like to improve its energy performance certificate (EPC), which currently has a score of 456. The house is not historically protected.
+
+The exterior walls at the front, rear, and right side of the house are solid brick walls and are currently not insulated. The main roof is a pitched roof with a good level of insulation, while the flat-roof extension is not insulated. The roofs are generally in good condition. The floor above the basement is also not insulated.
+
+For heating, the house relies on a boiler connected to a combination of radiators, underfloor heating, and air heating systems. These heat emission systems are no longer in good condition, and I would like to replace them. The house is also equipped with a basic natural ventilation system.
+
+The windows in both the living area and the bedrooms have wooden frames that are in good condition and are fitted with single glazing.
+
+There is no district heating network available in the area, and the site is not suitable for geothermal energy systems.
+
+Renovation Plan:
+To maximize energy efficiency and improve the EPC score (currently 456) in a cost-effective manner, the renovation should follow a "fabric-first" approach. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+Proposed Renovation Path
+
+Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is a 1967 semi-detached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1.  **Insulate Flat Roof:** The roof is currently not insulated. This is a priority as heat rises; insulating the flat roof is one of the most effective ways to lower energy consumption.
+2.  **Insulate Wall On Interior:** All three external walls (Front, Rear, and Right) are full brick and not insulated. **Insulating the wall on the interior** is significantly more cost-effective than wall cavity insulation and provides a substantial increase in thermal retention.
+3.  **Insulate Floor Above Basement:** The floor above the basement is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+
+Phase 2: Window Performance
+The window performance should be enhanced, since the single glazing leads to significant heat losses.
+
+4.  **Replace Glazing:** All glazing should be replaced, as all windows still have single glazing. Adding double or even triple glazing would drastically improve the thermal performance.
+
+Phase 3: High-Efficiency Heating Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+5.  **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+Phase 4: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+
+Example 2:
+Input:
+I live in an attached house in Ghent, Belgium, which was built in 1963. The house has a net floor area of 149 m², and I am considering renovations because I would like to improve its energy performance certificate (EPC), which currently has a score of 278. The house is not historically protected.
+
+The exterior walls at the front and rear of the house are solid brick walls and are currently not insulated. The main roof is a pitched roof with a good level of insulation, while the flat-roof extension is not insulated. Both roofs are generally in good condition. The floor above the basement is also uninsulated.
+
+For heating, the house relies on a boiler connected to a combination of radiators, underfloor heating, and air heating systems. These heat emission systems are no longer in good condition, and I would like to replace them. The house is equipped with a ventilation system D.
+
+The windows in both the living area and the bedrooms have wooden frames that are in good condition and are fitted with double glazing.
+
+There is no district heating network available in the area, and the site is not suitable for geothermal energy systems. However, the house does have potential for the installation of photovoltaic panels.
+
+Renovation Plan:
+Based on the provided building data and the RENO ontology, the property is an attached building from 1963 with an EPC score of 278 (C Label). The owner's primary motivation is to improve the EPC rating. 
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+Proposed Renovation Path
+
+Phase 1: Strengthening the Building Envelope (Priority: High)
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+1.  **Insulate Walls on Exterior:** Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Since they are not cavity walls, exterior insulation is the most effective method to eliminate thermal bridges.
+2.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+3.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a priority as heat rises rapidly through flat sections.
+*Note: Windows are already double-glazed and frames are in a "Good State," so replacing them is not recommended at this stage to maintain cost-effectiveness.*
+
+Phase 2: Heating & Emission System Transition (Priority: Medium)
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+4.  **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+6.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+Summary of Optimal Sequence
+**Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Flat Roof Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+
+
+### Entity Information:
+I live in an attached house in Ghent, Belgium, which was built in 1832. The house has a net floor area of 212 m², and I am considering renovations because I would like to improve its energy performance certificate, which currently has a score of 262. The house is not historically protected.
+
+The exterior walls at the front and rear of the house are solid brick walls and are currently not insulated. The main pitched roof has a moderate level of insulation, while the flat-roof extension is not insulated. Both roofs are generally in good condition. The floor above the basement is also uninsulated.
+
+For heating, the house relies on a boiler connected to a radiator system. These heat emission systems are no longer in good condition, and I would like to replace them. The house is also equipped with a basic natural ventilation system.
+
+The windows in both the living area and the bedrooms have wooden frames that are in good condition and are fitted with double glazing.
+
+There is no district heating network available in the area, and the site is not suitable for geothermal energy systems. However, the house does have potential for the installation of photovoltaic panels.
+
+
+### Renovation Plan:
+Based on the information above, provide a concise and actionable renovation plan that is tailored to the entity.
+Let's think step by step.

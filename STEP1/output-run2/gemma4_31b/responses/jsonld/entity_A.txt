@@ -1,0 +1,54 @@
+Based on the provided building data and the RENO ontology, the property is a **1951 semi-detached building** with an EPC score of **388 (D Label)**. The owner's primary motivation is to **improve the EPC rating**. 
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. We will first reduce the energy demand through insulation, then upgrade the technical systems to be more efficient, and finally integrate renewable energy.
+
+### Phase 1: Thermal Envelope (Demand Reduction)
+*Crucial: Insulation must be completed before upgrading heating systems to ensure the new system is not oversized and operates at peak efficiency.*
+
+1.  **Roof Insulation (Highest Priority):** The main gable roof is currently **not insulated**. 
+    *   **Action:** `InsulateGableRoof`.
+    *   **Reasoning:** Heat rises; insulating the roof is the most cost-effective way to see an immediate drop in energy consumption.
+2.  **Wall Insulation:** Front, Rear, and Right walls are full brick and **not insulated**.
+    *   **Action:** `InsulateWallExterior`.
+    *   **Reasoning:** Exterior insulation is generally more effective than interior insulation for preventing thermal bridging. Since there is no historical protection, this is the optimal path.
+3.  **Floor Insulation:** The floor above the basement is **not insulated**.
+    *   **Action:** `InsulateFloorAboveBasement`.
+    *   **Reasoning:** This prevents cold drafts from the basement, significantly improving the thermal comfort of the living areas.
+
+### Phase 2: Ventilation & Air Quality
+*Once the building is "sealed" via insulation, mechanical ventilation is necessary to prevent condensation and maintain air quality.*
+
+4.  **Ventilation Upgrade:** The building currently uses Ventilation System A.
+    *   **Action:** `ReplaceVentilationSystem` (Upgrade to System C or D).
+    *   **Reasoning:** A more modern system reduces heat loss associated with air exchange and improves the overall EPC score.
+
+### Phase 3: Energy Generation & Emission (System Efficiency)
+*With a reduced thermal load, we can now transition from a traditional boiler to a sustainable alternative.*
+
+5.  **Emission System Optimization:** 
+    *   **Action:** `PlaceEmissionSystemOnLowTemperature`.
+    *   **Reasoning:** Heat pumps operate most efficiently with low-temperature emitters (e.g., underfloor heating). Since the building already has some floor heating, optimizing the rest of the system is a prerequisite for the heat pump.
+6.  **Heat Generation Upgrade:** The owner has a stated reason to change the emission system, and geothermal options are not viable for this site.
+    *   **Action:** `PlaceAirWaterHeatpump`.
+    *   **Reasoning:** An air-water heat pump is the most practical and cost-effective sustainable alternative for this specific site's constraints.
+
+### Phase 4: Renewable Energy (Offsetting Consumption)
+*The final step is to generate electricity on-site to power the new heat pump and home appliances.*
+
+7.  **Solar Installation:** The building has confirmed potential for PV.
+    *   **Action:** `PlacePVPanelsOnRoof`.
+    *   **Reasoning:** This directly reduces the operational cost of the newly installed heat pump and significantly boosts the final EPC label.
+
+---
+
+### Summary of the Optimal Renovation Path
+
+| Sequence | Intervention | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `InsulateGableRoof` | Main Roof | Very High | High |
+| **2** | `InsulateWallExterior` | Brick Walls | High | Medium |
+| **3** | `InsulateFloorAboveBasement`| Floor | Medium | Medium |
+| **4** | `ReplaceVentilationSystem` | Ventilation | Medium | Medium |
+| **5** | `Low Temp Emission` | Radiators/Floor | High (System) | Medium |
+| **6** | `PlaceAirWaterHeatpump` | Boiler $\rightarrow$ HP | Very High | Medium |
+| **7** | `PlacePVPanelsOnRoof` | Roof | High (OpEx) | High (Long-term) |

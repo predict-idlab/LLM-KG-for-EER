@@ -1,0 +1,48 @@
+Based on the provided RENO ontology and the specific data for your building, here is the proposed renovation path. 
+
+### **Building Analysis Summary**
+*   **Current State:** An attached building from 1832 with a C-label energy score (262 kWh/m²year).
+*   **Critical Weaknesses:** The flat roof extension, the floor above the basement, and both the front and rear full-brick walls are **not insulated**. 
+*   **Constraints:** Geothermal energy is not possible (both horizontal and vertical potentials are false), and there is no district heat grid available.
+*   **Opportunity:** The building has potential for PV panels and the owner is motivated to improve the EPC score.
+
+---
+
+### **Proposed Renovation Path**
+To maximize energy efficiency and cost-effectiveness, the renovation must follow the **"Fabric First"** principle: reduce energy demand through insulation before upgrading the heating systems.
+
+#### **Phase 1: Thermal Envelope (The Priority)**
+*Goal: Stop heat loss. This ensures that any future heating system is downsized and operates efficiently.*
+1.  **Insulate Flat Roof (Extension):** The extension roof is currently not insulated. This is a high-priority, high-impact win. 
+    *   *Note:* Opt for an inverted roof structure to avoid condensation.
+2.  **Insulate Floor Above Basement:** The floor is currently not insulated. This prevents cold drafts from the basement.
+3.  **Insulate Walls (Exterior):** Both the front and rear walls are full brick and not insulated. Since there is no historical protection, external wall insulation is the most effective choice to eliminate thermal bridges.
+
+#### **Phase 2: Ventilation & Air Quality**
+*Goal: Ensure healthy air exchange now that the building is "sealed" by insulation.*
+4.  **Replace Ventilation System:** Upgrade from System A (natural) to System C or D. 
+    *   *Reasoning:* Increasing insulation without improving ventilation can lead to moisture and mold issues. System D (mechanical supply and exhaust) offers the highest efficiency.
+
+#### **Phase 3: Energy Generation & Emission**
+*Goal: Transition from fossil fuels to a high-efficiency electrical system.*
+5.  **Replace Boiler with Air-Water Heat Pump:** Since geothermal is not an option, an Air-Water heat pump is the most cost-effective high-efficiency alternative to the existing boiler.
+6.  **Upgrade to Low-Temperature Emission:** The owner has indicated a reason to change the emission system. Replacing old radiators with low-temperature emitters (or floor heating) will allow the heat pump to operate at maximum COP (Coefficient of Performance), drastically lowering monthly energy bills.
+
+#### **Phase 4: Renewable Energy Integration**
+*Goal: Offset the electricity consumption of the new heat pump.*
+7.  **Install PV Panels on Roof:** The building has confirmed PV potential. Installing these last allows you to size the system based on the new, lower energy demand of the renovated house.
+
+---
+
+### **Optimal Execution Sequence & Logic**
+| Order | Intervention | Logic | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Floor $\rightarrow$ Walls)** | Reduces the total energy load required to heat the home. | High (prevents over-investing in a too-large heat pump). |
+| **2** | **Ventilation Upgrade** | Prevents humidity buildup caused by the new insulation. | Medium (essential for long-term building health). |
+| **3** | **Heat Pump & Emission System** | Switches to a sustainable energy source once the "leakage" is stopped. | High (long-term operational savings). |
+| **4** | **PV Panels** | Produces "free" energy to power the heat pump. | High (reduces dependence on the grid). |
+
+### **Expert Tips for this Property:**
+*   **Wall Insulation:** Since you have full brick walls without historical protection, exterior insulation is significantly more effective than interior insulation, as it protects the brickwork from freeze-thaw cycles.
+*   **Window Check:** Your windows are already double-glazed and in good state. While triple glazing is an option, the marginal gain is lower than the gain from wall/roof insulation. Keep the current windows to remain cost-effective.
+*   **Permit Warning:** Remember that external wall insulation may require a permit if the total thickness exceeds 26cm or overruns the building line.

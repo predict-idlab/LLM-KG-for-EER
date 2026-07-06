@@ -1,0 +1,70 @@
+Based on the provided RENO ontology and building information, here's a cost-effective and energy-efficient renovation plan for the detached building constructed in 1862:
+
+### 1. **Insulate Cavity Walls (Priority)**
+   - **Action**: Insulate the wall cavities (Wall_Front, Wall_Left, Wall_Rear, Wall_Right)
+   - **Rationale**: Currently, these walls are not insulated (reno:NotInsulated), which represents a significant energy loss.
+   - **Details**:
+     - Use injection insulation method (reno:InsulateWallCavity)
+     - Cost: €22/m²
+     - Nuisance level: Low
+     - No permit required (Flanders)
+   - **Expected Benefit**: Improved thermal comfort and reduced energy consumption.
+
+### 2. **Replace Single Glazing with Double Glazing**
+   - **Action**: Replace the single glazing (WindowGlazingBedrooms, WindowGlazingLivingArea) with double glazing
+   - **Rationale**: Single glazing has poor thermal properties.
+   - **Details**:
+     - Ensure window frames are in good condition before installing new glass.
+     - Cost: €200/m²
+     - Nuisance level: High (but necessary for significant energy savings)
+   - **Expected Benefit**: Reduced heat loss through windows, improved thermal comfort.
+
+### 3. **Install PV Panels on Roof**
+   - **Action**: Place PV panels on the well-insulated gable roof (RoofMain)
+   - **Rationale**: The roof is well-insulated and has potential for PV (reno:hasPotentialForPV true).
+   - **Details**:
+     - Check roof orientation and shading (south-facing is ideal).
+     - Ensure no asbestos is present in the roof.
+     - Cost: €275/m²
+     - Nuisance level: Low
+   - **Expected Benefit**: Generate renewable energy, reduce electricity costs.
+
+### 4. **Replace Ventilation System**
+   - **Action**: Replace the existing natural ventilation system (VentilationSystemA) with a mechanical system (e.g., VentilationSystemD)
+   - **Rationale**: Improved air quality and energy efficiency.
+   - **Details**:
+     - Cost: €3500 (fixed) + €17/m²
+     - Nuisance level: Moderate
+   - **Expected Benefit**: Better indoor air quality and reduced energy consumption.
+
+### 5. **Insulate Attic Floor**
+   - **Action**: Insulate the attic floor (FloorAboveCrawlSpace)
+   - **Rationale**: Prevents heat loss through the floor above the crawl space.
+   - **Details**:
+     - Use walkable insulation if necessary.
+     - Cost: €60/m²
+     - Nuisance level: Low
+   - **Expected Benefit**: Reduced heat loss, improved energy efficiency.
+
+### 6. **Consider Heat Pump Installation**
+   - **Action**: Evaluate the feasibility of installing a heat pump (e.g., air-water heat pump)
+   - **Rationale**: The building has a reason to change the emission system (reno:hasReasonToChangeEmissionSystem true).
+   - **Details**:
+     - Cost: €8000 (fixed) + €35/m²
+     - Nuisance level: Moderate
+   - **Expected Benefit**: More efficient heating, reduced energy costs.
+
+### Sequence of Actions:
+1. **Insulate Cavity Walls** (Ordering 34)
+2. **Replace Single Glazing with Double Glazing** (Ordering 43)
+3. **Insulate Attic Floor** (Ordering 31)
+4. **Install PV Panels on Roof** (Ordering 85)
+5. **Replace Ventilation System** (Ordering 52)
+6. **Consider Heat Pump Installation** (Ordering 67)
+
+### Notes:
+- **Permits**: Ensure to check local regulations for any necessary permits.
+- **Professional Assistance**: Consult with architects or contractors for delicate jobs like insulating walls on the inside.
+- **Asbestos Check**: Ensure no asbestos is present before starting any roof-related work.
+
+This plan prioritizes actions that provide the most significant energy savings and cost benefits while considering the building's current state and the owner's motivation to improve the EPC.

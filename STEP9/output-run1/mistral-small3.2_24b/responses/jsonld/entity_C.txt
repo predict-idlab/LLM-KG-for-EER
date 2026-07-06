@@ -1,0 +1,71 @@
+To create a renovation plan tailored to the building, we need to analyze the current state of the building and identify the most cost-effective and energy-efficient upgrades. Here's a step-by-step approach:
+
+### Current State Analysis:
+1. **Building Type**: The building is an attached building with a net floor area of 159.0 m².
+2. **Energy Performance**: The current EPC score is 50, which falls under the E label (300-400 kWh/m²year).
+3. **Existing Systems**:
+   - The building has an electric convector and floor heating as the emission system.
+   - The ventilation system is of type D.
+   - The roof (both gable and flat) is well insulated.
+   - The walls (front and rear) are full brick walls and well insulated.
+   - The floor above the basement is well insulated.
+   - The windows have wooden frames with double glazing.
+4. **Potential for PV Panels**: The site does not have potential for PV panels.
+5. **Heat Grid Availability**: There is no heat grid available near the building.
+6. **Geothermal Potential**: The site does not have potential for vertical geothermal drilling or horizontal geothermal captation.
+
+### Renovation Goals:
+Based on the owner's motivation to improve the EPC, the primary goal is to enhance the energy efficiency of the building. The current EPC score of 50 indicates significant room for improvement.
+
+### Recommended Renovation Steps:
+1. **Replace the Emission System**:
+   - **Current System**: Electric convector and floor heating.
+   - **Recommendation**: Replace with a more energy-efficient system such as an air-water heat pump or a heat pump boiler. This is particularly important given the high reason to change the emission system.
+   - **Suggestion**: `place air-water heatpump` or `place heatpumpboiler`.
+
+2. **Upgrade the Ventilation System**:
+   - **Current System**: Ventilation system D.
+   - **Recommendation**: Consider replacing it with a more efficient system like a ventilation system A or B, which can improve indoor air quality and energy efficiency.
+   - **Suggestion**: `replace ventilation system`.
+
+3. **Insulate the Attic Floor**:
+   - **Current State**: The attic floor is not explicitly mentioned, but given the other well-insulated elements, it might not be well insulated.
+   - **Recommendation**: Insulate the attic floor to further reduce heat loss.
+   - **Suggestion**: `insulate attic floor`.
+
+4. **Replace the Windows**:
+   - **Current State**: The windows have wooden frames with double glazing.
+   - **Recommendation**: Replace the windows with more energy-efficient ones, such as those with triple glazing or better thermal break properties.
+   - **Suggestion**: `replace windows`.
+
+5. **Place a Sunshade**:
+   - **Recommendation**: Installing a sunshade can help reduce solar heat gain in the summer, thereby reducing cooling needs.
+   - **Suggestion**: `place sunshade`.
+
+### Cost-Effectiveness and Prioritization:
+- **High Priority**: Replace the emission system and upgrade the ventilation system. These steps have the most significant impact on energy efficiency and comfort.
+- **Medium Priority**: Insulate the attic floor and replace the windows. These steps provide good energy savings but might have higher upfront costs.
+- **Low Priority**: Place a sunshade. This is more of a comfort measure and can be considered after the primary upgrades.
+
+### Final Renovation Plan:
+1. **Replace the Emission System**:
+   - **Action**: Install an air-water heat pump or a heat pump boiler.
+   - **Suggestion**: `place air-water heatpump` or `place heatpumpboiler`.
+
+2. **Upgrade the Ventilation System**:
+   - **Action**: Replace the ventilation system D with a more efficient system like A or B.
+   - **Suggestion**: `replace ventilation system`.
+
+3. **Insulate the Attic Floor**:
+   - **Action**: Insulate the attic floor to reduce heat loss.
+   - **Suggestion**: `insulate attic floor`.
+
+4. **Replace the Windows**:
+   - **Action**: Replace the windows with more energy-efficient ones.
+   - **Suggestion**: `replace windows`.
+
+5. **Place a Sunshade**:
+   - **Action**: Install a sunshade to reduce solar heat gain.
+   - **Suggestion**: `place sunshade`.
+
+This plan focuses on maximizing energy efficiency while considering cost-effectiveness and the specific conditions of the building.

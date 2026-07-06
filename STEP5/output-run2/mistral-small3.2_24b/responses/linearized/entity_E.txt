@@ -1,0 +1,65 @@
+### Renovation Plan for Detached Building (EPC Score: 165, B Label)
+
+**Building Characteristics:**
+- **Year Built:** 1862 (Detached)
+- **EPC Score:** 165 (B Label)
+- **Owner's Motivation:** Improve EPC
+- **Current State:**
+  - **Walls:** All four walls are cavity walls, not insulated.
+  - **Roof:** Well-insulated (gable roof).
+  - **Floor:** Floor above crawl space is not insulated.
+  - **Windows:** Single-glazed with wooden frames (in good state).
+  - **Ventilation:** System A (natural).
+  - **Heating:** Electric convector, radiators, and floor heating.
+  - **PV Potential:** Yes
+  - **Geothermal Potential:** No
+
+**Renovation Strategy:**
+The building has significant heat loss through uninsulated cavity walls, single-glazed windows, and the floor above the crawl space. The priority is to **reduce heat loss first** before upgrading the heating system. Since the owner wants to improve the EPC, we will follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Wall Cavity (All Four Walls)**
+   - **Action:** Inject insulation into the cavity walls (Front, Rear, Left, Right).
+   - **Rationale:** Cavity wall insulation is cost-effective and eliminates thermal bridges.
+   - **Expected Impact:** Significant reduction in heat loss.
+
+2. **Insulate Floor Above Crawl Space**
+   - **Action:** Add insulation to the floor above the crawl space.
+   - **Rationale:** Prevents heat loss to the crawl space and improves thermal comfort.
+
+3. **Replace Glazing (All Windows)**
+   - **Action:** Upgrade from single-glazed to double-glazed windows.
+   - **Rationale:** Single glazing leads to significant heat loss; double glazing improves thermal performance without replacing frames.
+
+#### **Phase 2: Ventilation System Upgrade (Medium Priority)**
+4. **Replace Ventilation System (System A → System C)**
+   - **Action:** Upgrade from natural ventilation (System A) to mechanical exhaust ventilation (System C).
+   - **Rationale:** Ensures controlled air exchange in a now-sealed envelope.
+
+#### **Phase 3: Heating System Transition (Medium Priority)**
+5. **Place Air-Water Heat Pump**
+   - **Action:** Replace the electric convector and boiler with an air-water heat pump.
+   - **Rationale:** More energy-efficient than electric heating, especially in a well-insulated building.
+
+#### **Phase 4: Sustainable Energy Generation (Long-Term Priority)**
+6. **Place PV-Panels on Roof**
+   - **Action:** Install solar panels on the roof.
+   - **Rationale:** Offsets electricity consumption of the heat pump and ventilation system.
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls** | Reduces heat loss through walls. |
+| **2** | **Insulate Floor Above Crawl Space** | Eliminates cold drafts from below. |
+| **3** | **Replace Glazing** | Improves window thermal performance. |
+| **4** | **Upgrade Ventilation (A → C)** | Maintains air quality in a sealed envelope. |
+| **5** | **Install Air-Water Heat Pump** | More efficient heating for a low-demand building. |
+| **6** | **Install PV Panels** | Generates renewable electricity for the heat pump. |
+
+This plan ensures **cost-effectiveness** by prioritizing insulation (highest ROI) and **energy efficiency** by transitioning to sustainable heating and PV generation.

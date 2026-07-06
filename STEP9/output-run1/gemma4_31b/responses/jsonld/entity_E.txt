@@ -1,0 +1,31 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century detached building, the renovation should follow the "fabric-first" principle: first reducing heat loss (the envelope), then optimizing the heating system, and finally adding renewable energy generation.
+
+### **Phase 1: Thermal Envelope (Prioritize Heat Retention)**
+*The goal is to reduce the heating load before upgrading the heating system to avoid over-sizing equipment.*
+
+1.  **Insulate Wall Cavities:** All four exterior walls are identified as cavity walls and are currently **not insulated**. This is the most cost-effective "quick win" due to low nuisance levels and high thermal impact.
+2.  **Replace Glazing:** The building currently uses **single glazing** in the bedrooms and living area. Because the existing wooden window frames are in **good state (Value: 8)**, replacing only the glazing (e.g., to double or triple glazing) is significantly more cost-effective than replacing the entire window units.
+3.  **Insulate Floor Above Basement:** To eliminate drafts and heat loss from the crawl space, the floor above the basement should be insulated.
+
+### **Phase 2: Heating & Emission System (System Optimization)**
+*With the envelope sealed, we can now transition from an inefficient boiler/electric system to a high-efficiency heat pump.*
+
+4.  **Upgrade to Low-Temperature Emission:** Before installing a heat pump, the emission system should be transitioned to **low temperature**. This ensures that the subsequent heat pump operates at its highest coefficient of performance (COP), reducing electricity consumption.
+5.  **Install Air-Water Heat Pump:** The building has a confirmed "reason to change emission system" and lacks access to a heat grid or geothermal potential. An **air-water heat pump** is the most practical and efficient replacement for the existing boiler and electric convectors.
+
+### **Phase 3: Renewable Energy (Operational Cost Reduction)**
+*The final step is to offset the electricity required by the new heat pump.*
+
+6.  **Install PV Panels on Roof:** The building is explicitly marked as having **potential for PV**. Installing solar panels on the roof will lower the yearly energy cost and significantly improve the final EPC label, meeting the owner's primary motivation.
+
+---
+
+### **Summary of the Renovation Path**
+| Sequence | Action | Target Element | Efficiency Impact | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | All Exterior Walls | High | Low |
+| **2** | **Replace Glazing** | Windows | High | Moderate |
+| **3** | **Insulate Floor** | Floor above Basement | Moderate | Low |
+| **4** | **Low-Temp Emission** | Emission System | Moderate | Moderate |
+| **5** | **Air-Water Heat Pump** | Generation System | Very High | Moderate |
+| **6** | **PV Panels on Roof** | Roof | Very High (OpEx) | Low |

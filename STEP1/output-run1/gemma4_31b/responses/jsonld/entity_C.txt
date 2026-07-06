@@ -1,0 +1,38 @@
+Based on the provided building data and the RENO ontology, the property is a modern attached building (constructed in 2023) with an already impressive energy performance (EPC score of 50, placing it in the **A Label** category). However, since the owner is motivated to further improve the EPC and there is a documented reason to change the emission system, I propose the following optimized renovation path.
+
+### **Strategic Analysis**
+The building's envelope is largely well-insulated (walls and floors), but there is a thermal gap in the **Gable Roof** (Moderately Insulated) and the **Heating System** (reliance on Electric Convectors, which are energy-intensive). To maximize cost-effectiveness, we will follow the "Fabric First" approach: improving the building envelope before upgrading the technical installations.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Envelope Optimization (Reducing Heat Loss)**
+*   **Priority 1: Insulate Gable Roof**
+    *   **Reasoning:** The main roof is the only major structural element that is not "Well Insulated." Heat rises, and upgrading this to a high insulation grade is the most effective way to lower the energy score further.
+    *   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+    *   **Ontology Reference:** `InsulateGableRoof` (Ordering: 28).
+
+*   **Priority 2: Upgrade to Triple Glazing**
+    *   **Reasoning:** The windows currently have double glazing and the wooden frames are in "Good State." Rather than replacing the entire window unit (which is costly), replacing only the glazing is a cost-effective way to reduce thermal bridging.
+    *   **Practical Note:** Verify that the existing wooden frames are thick enough to support the additional weight and width of triple-pane glass.
+    *   **Ontology Reference:** `ReplaceGlazing` (Ordering: 43).
+
+#### **Phase 2: Systems Upgrade (Improving Operational Efficiency)**
+*   **Priority 3: Transition to an Air-Water Heat Pump**
+    *   **Reasoning:** The building currently utilizes electric convectors (inefficient) and a boiler. The data explicitly states there is a "reason to change the emission system." Since the site has **no potential for geothermal drilling** and **no heat grid**, an Air-Water heat pump is the most efficient alternative.
+    *   **Synergy:** Because the building already has **Floor Heating**, it is perfectly compatible with the low-temperature output of a heat pump, maximizing the system's Coefficient of Performance (COP).
+    *   **Ontology Reference:** `PlaceAirWaterHeatpump` (Ordering: 67).
+
+---
+
+### **Summary of Sequence & Logic**
+
+| Sequence | Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate** | Gable Roof | High $\downarrow$ Heat Loss | High (Low unit price/m²) |
+| **2** | **Upgrade Glazing** | Bedroom/Living Windows | Moderate $\downarrow$ Heat Loss | High (Retains good frames) |
+| **3** | **Install Heat Pump** | Generation System | High $\downarrow$ Energy Consumption | Moderate (High fixed cost, high long-term ROI) |
+
+### **Final Expert Recommendation**
+By insulating the roof and upgrading the glazing first, you reduce the total heating load of the house. This allows for the installation of a **smaller, less expensive heat pump** that will operate more efficiently, ensuring the building moves closer to an **A+ Label** while minimizing unnecessary capital expenditure. PV panels are currently omitted as the building data indicates no potential for installation.

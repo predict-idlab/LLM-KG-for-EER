@@ -1,0 +1,46 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. The strategy follows the **"Fabric First"** principle: we first minimize energy loss through the building envelope before upgrading technical systems and adding renewable energy sources.
+
+### **Phase 1: Building Envelope (Energy Loss Reduction)**
+*Goal: Reduce the heating demand of the 1862 structure by sealing the thermal envelope.*
+
+1.  **Insulate Wall Cavities:** 
+    *   **Action:** Inject insulation into the four cavity walls (Front, Rear, Left, Right).
+    *   **Justification:** All walls are currently "Not Insulated" and have no historical protection. This is the most cost-effective upgrade (Unit Price: 22/m²) with low nuisance.
+2.  **Insulate Floor Above Crawl Space:**
+    *   **Action:** Install insulation in the floor above the crawl space.
+    *   **Justification:** This prevents cold air from the crawl space from entering the living areas, significantly improving thermal comfort and EPC score.
+3.  **Upgrade Window Glazing:**
+    *   **Action:** Replace **Single Glazing** with Double or Triple Glazing.
+    *   **Justification:** The existing wooden frames are in "Good State," making it more cost-effective to replace only the glazing (Unit Price: 200/m²) rather than the entire window unit. Single glazing is a major source of heat loss.
+
+### **Phase 2: Technical Systems (Efficiency Upgrade)**
+*Goal: Replace outdated, inefficient heating and ventilation with high-performance systems.*
+
+4.  **Replace Ventilation System:**
+    *   **Action:** Upgrade from Ventilation System A to a more efficient system (e.g., System D with heat recovery).
+    *   **Justification:** Once the house is insulated and sealed, mechanical ventilation with heat recovery is essential to maintain air quality without losing the heat gained from the new insulation.
+5.  **Install Air-Water Heat Pump:**
+    *   **Action:** Replace the current mixed emission system (Electric Convectors/Radiators) with an Air-Water Heat Pump.
+    *   **Justification:** The building has a stated "reason to change emission system" and lacks potential for geothermal or heat grid connections. Since the building already has some floor heating, an Air-Water heat pump is the most efficient and practical choice for a detached building.
+
+### **Phase 3: Renewable Energy (Operational Cost Reduction)**
+*Goal: Offset the electricity consumption of the new heat pump.*
+
+6.  **Install PV Panels on Roof:**
+    *   **Action:** Place PV panels on the gable roof.
+    *   **Justification:** The building has confirmed "potential for PV" and the roof is already "Well Insulated," providing a stable base for installation. This reduces the long-term operational cost of the heat pump.
+
+---
+
+### **Summary of Optimal Sequence & Impact**
+
+| Sequence | Intervention | Priority | Cost-Effectiveness | Primary Benefit |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Wall Cavity Insulation | High | Very High | Immediate reduction in heat loss |
+| **2** | Floor Insulation | High | High | Eliminates cold floor effect |
+| **3** | Glazing Upgrade | High | Medium | Stops drafts and radiation loss |
+| **4** | Ventilation Upgrade | Medium | Medium | Maintains air quality/heat recovery |
+| **5** | Air-Water Heat Pump | Medium | Medium | Shifts from electric/mixed to efficient |
+| **6** | PV Panels | Low | Medium | Lowers energy bills (Net Zero goal) |
+
+**Final Outcome:** This path directly addresses the owner's motivation **"To Improve EPC"** by systematically reducing the energy score from 165 (B label) toward an A or A+ label, while ensuring that expensive technical systems (like the heat pump) are not oversized because they are operating in a now-efficiently insulated shell.

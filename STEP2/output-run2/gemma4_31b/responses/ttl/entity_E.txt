@@ -1,0 +1,42 @@
+Based on the provided building data and the RENO ontology, here is the optimal renovation path. The strategy follows the **"Fabric First"** principle: we first minimize energy demand by improving the building envelope before upgrading the heating systems and adding renewable energy sources.
+
+### **Phase 1: Thermal Envelope Optimization (High Impact, Cost-Effective)**
+The priority is to stop heat loss. The building has several critical weaknesses: uninsulated cavity walls and single-pane glazing.
+
+1.  **Insulate Wall Cavities (`insulate wall cavity`):** 
+    *   **Reasoning:** All four exterior walls are cavity walls and currently "Not Insulated." Cavity wall insulation is one of the most cost-effective upgrades with low nuisance and high energy savings.
+2.  **Insulate Floor Above Basement (`insulate floor above basement`):** 
+    *   **Reasoning:** The building has a floor above a crawl space. Insulating this area prevents cold drafts from the ground and improves overall thermal comfort.
+3.  **Upgrade Glazing (`replace glazing`):** 
+    *   **Reasoning:** The bedrooms and living area currently use "Single Glazing," which is highly inefficient. Since the wooden window frames are in "Good State," replacing only the glazing (rather than the entire window) is a cost-effective way to significantly reduce U-values.
+
+### **Phase 2: Ventilation and Air Quality**
+Once the envelope is sealed via insulation and new glazing, the building becomes more airtight, which can lead to moisture issues if ventilation is not addressed.
+
+4.  **Upgrade Ventilation (`replace ventilation system`):** 
+    *   **Reasoning:** The building currently uses "Ventilation System A" (natural). Upgrading to a more controlled system (like System C or D) ensures healthy indoor air quality and prevents condensation after the thermal upgrades.
+
+### **Phase 3: Heating System Modernization**
+Now that the energy demand of the house is lowered, we can replace the inefficient electric convectors and boiler with a high-efficiency system.
+
+5.  **Install Air-Water Heat Pump (`place air-water heatpump`):** 
+    *   **Reasoning:** The building has existing radiators and floor heating (emission systems). An air-water heat pump is the most logical replacement for the current generation system to improve the EPC score and lower operational costs. 
+    *   *Note:* Geothermal options were ruled out as the site has no potential for horizontal or vertical drilling.
+
+### **Phase 4: Renewable Energy Integration**
+The final step is to offset the electricity consumption of the new heat pump.
+
+6.  **Install Solar Panels (`place PV-panels on roof`):** 
+    *   **Reasoning:** The building is marked as having potential for PV. Generating electricity on-site will maximize the long-term operational performance and further lower the energy cost.
+
+---
+
+### **Summary of the Renovation Sequence**
+| Sequence | Action | Target Element | Goal |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate wall cavity` | Exterior Walls | Reduce heat loss (Low cost/High impact) |
+| **2** | `insulate floor above basement` | Floor | Stop ground-level cold drafts |
+| **3** | `replace glazing` | Windows | Eliminate heat loss via single glass |
+| **4** | `replace ventilation system` | Ventilation | Maintain air quality in a sealed home |
+| **5** | `place air-water heatpump` | Generation System | Efficient, low-carbon heating |
+| **6** | `place PV-panels on roof` | Roof | Zero-carbon energy production |

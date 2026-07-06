@@ -1,0 +1,70 @@
+### Renovation Plan:
+
+#### **Building Information Summary:**
+- **Type:** Attached building
+- **Construction Year:** 1832
+- **EPC Score:** 262 (C Label)
+- **Primary Motivation:** Improve EPC
+- **Potential for PV:** Yes
+- **Presence of Heat Grid:** No
+- **Geothermal Potential:** False
+- **Insulation Status:**
+  - **Roof Main:** Moderately Insulated
+  - **Roof Extension:** Not Insulated
+  - **Floor Above Basement:** Not Insulated
+  - **Walls (Front and Rear):** Not Insulated
+- **Windows:**
+  - **Bedrooms:** Double Glazing
+  - **Living Area:** Double Glazing
+- **Ventilation System:** Type A (Natural)
+- **Emission System:** Radiator
+- **Generation System:** Boiler
+
+#### **Proposed Renovation Path:**
+
+**Phase 1: Thermal Envelope Optimization (Priority: High)**
+1. **Insulate Flat Roof:**
+   - **Action:** Insulate the `RoofExtension` which is currently not insulated.
+   - **Rationale:** Heat rises, and insulating the flat roof will significantly reduce heat loss.
+
+2. **Insulate Floor Above Basement:**
+   - **Action:** Insulate the `FloorAboveBasement`.
+   - **Rationale:** Prevents cold drafts from the basement and improves overall thermal comfort.
+
+3. **Insulate Wall on Exterior:**
+   - **Action:** Insulate `Wall_Front` and `Wall_Rear` on the exterior.
+   - **Rationale:** Both walls are full brick and not insulated. Exterior insulation is more effective than interior insulation for these walls.
+
+**Phase 2: Window Performance (Priority: Medium)**
+4. **Replace Glazing (if necessary):**
+   - **Action:** Assess the current glazing. Since both bedroom and living area windows are already double-glazed, replacement is not necessary at this stage.
+
+**Phase 3: High-Efficiency Heating Transition (Priority: Medium)**
+5. **Place Air-Water Heat Pump:**
+   - **Action:** Replace the existing boiler with an **Air-Water Heat Pump**.
+   - **Rationale:** The site has no potential for geothermal energy and no heat grid, making an air-water heat pump the most viable and efficient alternative.
+
+6. **Place Emission System on Low Temperature:**
+   - **Action:** Transition the current radiators to low-temperature emissions.
+   - **Rationale:** This maximizes the Coefficient of Performance (COP) of the new heat pump.
+
+**Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+7. **Place PV-Panels on Roof:**
+   - **Action:** Install PV panels on the roof.
+   - **Rationale:** The building has confirmed potential for PV, which will provide renewable electricity to power the heat pump and ventilation system.
+
+**Phase 5: Air Quality and Ventilation (Priority: Medium)**
+8. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D).
+   - **Rationale:** Ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage and maintains indoor air quality.
+
+#### **Summary of Optimal Sequence:**
+1. **Insulate Flat Roof**
+2. **Insulate Floor Above Basement**
+3. **Insulate Wall on Exterior**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Place PV-Panels on Roof**
+7. **Replace Ventilation System**
+
+This sequence ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system. The final step of installing PV panels ensures sustainable energy generation.

@@ -1,0 +1,72 @@
+### Renovation Plan for an Attached House in Ghent, Belgium (Built in 1832)
+
+**Current Situation:**
+- **House Type:** Attached house, built in 1832.
+- **Floor Area:** 212 m².
+- **EPC Score:** 262.
+- **Walls:** Solid brick walls (front and rear) uninsulated.
+- **Roofs:** Pitched roof with moderate insulation, flat-roof extension uninsulated.
+- **Floor:** Uninsulated above the basement.
+- **Heating:** Boiler with radiators (in poor condition).
+- **Ventilation:** Basic natural ventilation.
+- **Windows:** Double-glazed wooden frames in good condition.
+- **Potential for PV Panels:** Yes.
+- **No district heating or geothermal potential.**
+
+**Objective:**
+Improve energy efficiency and EPC score in a cost-effective manner.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization ("Fabric First" Approach)
+**Goal:** Reduce heat loss by insulating key areas.
+
+1. **Insulate Flat Roof:**
+   - Priority as heat rises; insulating the flat roof is highly effective.
+   - Use rigid insulation boards or spray foam for best performance.
+
+2. **Insulate Exterior Walls:**
+   - Exterior wall insulation (EWI) is recommended for solid brick walls.
+   - EWI improves thermal performance and eliminates thermal bridges.
+   - Can be combined with a new exterior finish (render, cladding, etc.).
+
+3. **Insulate Floor Above Basement:**
+   - Install insulation (e.g., rigid foam boards) on the basement ceiling to reduce heat loss.
+
+#### Phase 2: Heating System Upgrade
+**Goal:** Replace inefficient boiler with a more sustainable solution.
+
+4. **Replace Boiler with Air-Water Heat Pump:**
+   - Since geothermal is not an option, an air-water heat pump is the next best choice.
+   - Ensure the heat pump is appropriately sized for the improved thermal envelope.
+
+5. **Upgrade Radiators to Low-Temperature Systems:**
+   - Replace or modify existing radiators to work efficiently with the heat pump.
+   - Low-temperature systems improve the heat pump’s Coefficient of Performance (COP).
+
+#### Phase 3: Ventilation Upgrade
+**Goal:** Improve indoor air quality and maintain energy efficiency.
+
+6. **Replace Natural Ventilation with Mechanical Ventilation (System C or D):**
+   - System C (supply and extract with heat recovery) is ideal for sealed buildings.
+   - Ensures proper air exchange without significant heat loss.
+
+#### Phase 4: Sustainable Energy Generation (Optional but Recommended)
+**Goal:** Reduce reliance on grid electricity and lower energy bills.
+
+7. **Install Photovoltaic (PV) Panels:**
+   - Generate renewable electricity to power the heat pump and other systems.
+   - Maximize solar potential by optimizing panel placement on the roof.
+
+### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof** | Reduces heat loss through the roof. |
+| **2** | **Exterior Wall Insulation** | Eliminates thermal bridges and improves thermal performance. |
+| **3** | **Insulate Floor Above Basement** | Reduces heat loss to the basement. |
+| **4** | **Replace Boiler with Air-Water Heat Pump** | More efficient and sustainable heating solution. |
+| **5** | **Upgrade Radiators to Low-Temperature Systems** | Optimizes heat pump performance. |
+| **6** | **Replace Ventilation System (Natural → System C/D)** | Maintains air quality in a sealed building. |
+| **7** | **Install PV Panels (Optional)** | Generates renewable electricity for the heat pump and other systems. |
+
+This plan ensures a cost-effective, step-by-step approach to improving energy efficiency while maximizing long-term savings and comfort.

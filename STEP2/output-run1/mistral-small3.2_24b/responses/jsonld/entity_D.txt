@@ -1,0 +1,51 @@
+Based on the provided building information and the ontology, here's a practical and cost-effective renovation plan to maximize energy efficiency:
+
+### 1. **Insulate Gable Roof (High Priority)**
+   - **Reason**: The gable roof is currently only moderately insulated (U-value: 0.35 W/m²K). Insulating it will significantly improve thermal performance.
+   - **Action**: Insulate the gable roof with a well-insulated material (e.g., mineral wool with a U-value of 0.20 W/m²K or lower).
+   - **Cost**: ~€60/m²
+   - **Ordering**: 28
+
+### 2. **Replace Glazing (High Priority)**
+   - **Reason**: The current glazing is single glazing (U-value: 5.7 W/m²K). Replacing it with double glazing (U-value: 1.3 W/m²K) will improve thermal comfort and reduce heat loss.
+   - **Action**: Replace the glazing in all windows with double glazing.
+   - **Cost**: ~€200/m²
+   - **Ordering**: 43
+
+### 3. **Insulate Attic Floor (Medium Priority)**
+   - **Reason**: The attic floor is currently uninsulated. Insulating it will prevent heat loss through the ceiling.
+   - **Action**: Install insulation (e.g., mineral wool or rigid foam boards) with a U-value of 0.20 W/m²K or lower.
+   - **Cost**: ~€60/m²
+   - **Ordering**: 31
+
+### 4. **Insulate Floor Above Basement (Medium Priority)**
+   - **Reason**: The floor above the basement is currently uninsulated. Insulating it will improve thermal comfort in the living areas above.
+   - **Action**: Install insulation (e.g., rigid foam boards or mineral wool) with a U-value of 0.20 W/m²K or lower.
+   - **Cost**: ~€30/m²
+   - **Ordering**: 49
+
+### 5. **Replace Ventilation System (Medium Priority)**
+   - **Reason**: The current ventilation system may not be efficient. Replacing it with a more efficient system (e.g., heat recovery ventilation) can improve indoor air quality and reduce energy consumption.
+   - **Action**: Install a new ventilation system (e.g., a balanced ventilation system with heat recovery).
+   - **Cost**: ~€3500 + €17/m²
+   - **Ordering**: 52
+
+### 6. **Place Air-Water Heat Pump (Medium Priority)**
+   - **Reason**: The current heating system may not be energy-efficient. Installing an air-water heat pump can reduce energy consumption for space heating.
+   - **Action**: Install an air-water heat pump with a COP of at least 3.5.
+   - **Cost**: ~€8000 + €35/m²
+   - **Ordering**: 67
+
+### 7. **Place PV Panels on Roof (Low Priority)**
+   - **Reason**: The building has potential for PV panels, which can generate renewable energy and reduce electricity costs.
+   - **Action**: Install PV panels on the roof with an efficiency of at least 18%.
+   - **Cost**: ~€275/m²
+   - **Ordering**: 85
+
+### 8. **Place Sun Shade (Low Priority)**
+   - **Reason**: Installing a sun shade can reduce solar heat gain in the summer, improving thermal comfort and reducing cooling needs.
+   - **Action**: Install an external sun shade (e.g., a roller shutter or awning).
+   - **Cost**: ~€750
+   - **Ordering**: 79
+
+This plan prioritizes actions based on their impact on energy efficiency, cost-effectiveness, and the current state of the building. The ordering is based on the ontology's ordering property, which indicates the sequence in which actions should be carried out to maximize benefits.

@@ -1,0 +1,53 @@
+### Renovation Plan for Energy Efficiency
+
+#### 1. **Insulate Attic Floor**
+   - **Suggestion**: Insulate attic floor
+   - **Reasoning**: The floor above the basement is well insulated, and the gable roof is moderately insulated. The attic floor, however, is not mentioned in the ontology, suggesting it may not be insulated. Insulating the attic floor will improve thermal comfort and reduce heat loss.
+   - **Action**: Insulate the attic floor with appropriate materials to achieve well-insulated standards.
+
+#### 2. **Replace Glazing**
+   - **Suggestion**: Replace glazing
+   - **Reasoning**: The current glazing in both the living area and bedrooms is double glazing. Upgrading to triple glazing will further enhance energy efficiency and thermal comfort.
+   - **Action**: Replace the existing double glazing with triple glazing in all windows.
+
+#### 3. **Replace Ventilation System**
+   - **Suggestion**: Replace ventilation system
+   - **Reasoning**: The current ventilation system is type D, which may not be the most energy-efficient option. Upgrading to a more efficient system can improve air quality and reduce energy consumption.
+   - **Action**: Install a more energy-efficient ventilation system, such as a heat recovery ventilation system.
+
+#### 4. **Place Air-Water Heat Pump**
+   - **Suggestion**: Place air-water heat pump
+   - **Reasoning**: The current emission system is an electric convector and floor heating, which may not be the most efficient for heating. An air-water heat pump can provide more efficient heating and reduce energy consumption.
+   - **Action**: Install an air-water heat pump to replace or supplement the existing emission system.
+
+#### 5. **Place Sun Shade**
+   - **Suggestion**: Place sunshade
+   - **Reasoning**: Sunshades can reduce solar heat gain in the summer, improving thermal comfort and reducing the need for cooling.
+   - **Action**: Install external sunshades on windows to reduce solar heat gain.
+
+#### 6. **Place PV Panels on Roof**
+   - **Suggestion**: Place PV-panels on roof
+   - **Reasoning**: The building has potential for PV panels, which can generate renewable energy and reduce electricity costs.
+   - **Action**: Install PV panels on the roof to generate electricity.
+
+#### 7. **Insulate Gable Roof**
+   - **Suggestion**: Insulate gable roof
+   - **Reasoning**: The gable roof is currently moderately insulated. Improving insulation to well-insulated standards will enhance energy efficiency.
+   - **Action**: Insulate the gable roof to achieve well-insulated standards.
+
+#### 8. **Place Heat Pump Boiler**
+   - **Suggestion**: Place heat pump boiler
+   - **Reasoning**: A heat pump boiler can provide efficient water heating, reducing energy consumption.
+   - **Action**: Install a heat pump boiler to replace or supplement the existing generation system.
+
+#### 9. **Insulate Wall on Exterior**
+   - **Suggestion**: Insulate wall on exterior
+   - **Reasoning**: The walls are well insulated, but further improving insulation on the exterior can enhance energy efficiency.
+   - **Action**: Insulate the exterior walls to achieve even better insulation standards.
+
+#### 10. **Place Air Conditioning**
+   - **Suggestion**: Place air conditioning
+   - **Reasoning**: The building may benefit from air conditioning to improve thermal comfort, especially during hot summer days.
+   - **Action**: Install air conditioning units in appropriate spaces.
+
+This plan focuses on practical upgrades that reduce energy consumption and improve long-term operational performance, prioritizing actions based on the current state of the building and the available suggestions. The plan is optimized to maximize the benefits of each renovation step.

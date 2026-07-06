@@ -1,0 +1,16 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "insulate flat roof",
+      "insulate wall on interior",
+      "replace glazing"
+    ],
+    "extra_actions": [
+      "insulate exterior walls",
+      "install heat pump boiler"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

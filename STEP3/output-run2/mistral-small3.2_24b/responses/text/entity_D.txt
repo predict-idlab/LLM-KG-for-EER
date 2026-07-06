@@ -1,0 +1,47 @@
+Based on the provided information, here's a concise and actionable renovation plan tailored to your semi-detached house in Ghent, Belgium. The plan focuses on maximizing energy efficiency while remaining cost-effective, considering the current state of your home and the optimal sequence for renovations:
+
+### 1. **Improve Roof Insulation**
+   - **Action**: Upgrade the insulation of the main pitched roof to match the high standard of the flat-roof extension.
+   - **Rationale**: The pitched roof has only moderate insulation, which is a significant opportunity for improvement. Enhancing insulation here will reduce heat loss and improve overall energy performance.
+   - **Expected Benefit**: Lower heating demands and improved EPC score.
+
+### 2. **Upgrade Ventilation System**
+   - **Action**: Replace the existing ventilation system (D) with a more efficient **Heat Recovery Ventilation (HRV) system**.
+   - **Rationale**: HRV systems recover heat from exhaust air, reducing the need for additional heating. This is particularly effective in well-insulated homes like yours.
+   - **Expected Benefit**: Improved indoor air quality, reduced heat loss, and lower energy consumption.
+
+### 3. **Optimize Heat Pump Performance**
+   - **Action**: Conduct a **professional audit** of the heat pump system to ensure it is operating at peak efficiency.
+   - **Rationale**: Although the heat emission system is in good condition, fine-tuning the heat pump settings or upgrading controls (e.g., smart thermostats) can further reduce energy usage.
+   - **Expected Benefit**: More efficient heating and potential cost savings on energy bills.
+
+### 4. **Enhance Window Performance (Optional)**
+   - **Action**: Consider upgrading the double-glazed windows to **triple-glazed windows** or adding **low-emissivity (Low-E) coatings** to the existing glazing.
+   - **Rationale**: While the windows are relatively new (2020), triple glazing or Low-E coatings can further reduce heat loss through the windows.
+   - **Expected Benefit**: Improved thermal comfort and slightly better EPC score. This step is optional due to the recent renovation.
+
+### 5. **Seal Air Leakages**
+   - **Action**: Conduct an **air tightness test** and seal any gaps or leaks around windows, doors, and other openings.
+   - **Rationale**: Even small air leaks can significantly reduce the effectiveness of insulation and ventilation systems.
+   - **Expected Benefit**: Reduced drafts, improved energy efficiency, and lower heating costs.
+
+### 6. **Expand Photovoltaic (PV) System**
+   - **Action**: Assess the feasibility of **adding more PV panels** or upgrading to higher-efficiency panels.
+   - **Rationale**: Since you already have PV panels, expanding the system can generate more renewable energy, further reducing your reliance on the grid.
+   - **Expected Benefit**: Increased self-consumption of solar energy and potential feed-in tariff income.
+
+### 7. **Smart Home Integration**
+   - **Action**: Install **smart home devices** (e.g., smart thermostats, sensors, and controls) to optimize energy usage.
+   - **Rationale**: Smart devices can help monitor and control energy consumption more effectively, ensuring that heating and ventilation systems operate only when needed.
+   - **Expected Benefit**: Enhanced energy efficiency and convenience.
+
+### Priority Order:
+1. **Improve roof insulation** (highest impact on heat loss).
+2. **Upgrade to HRV** (improves ventilation efficiency).
+3. **Optimize heat pump performance** (fine-tuning for efficiency).
+4. **Seal air leakages** (low-cost, high-impact improvement).
+5. **Expand PV system** (if feasible and cost-effective).
+6. **Enhance window performance** (optional, lower priority due to recent upgrades).
+7. **Smart home integration** (additional efficiency gains).
+
+This plan focuses on practical, high-impact upgrades that will significantly improve your home's energy performance while remaining cost-effective.

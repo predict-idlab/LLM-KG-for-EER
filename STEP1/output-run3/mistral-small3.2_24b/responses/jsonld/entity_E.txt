@@ -1,0 +1,72 @@
+Based on the provided entity information and the RENO ontology, here is a concise and actionable renovation plan for the building:
+
+### **1. Building Analysis**
+- **Building Type:** Detached house
+- **Construction Year:** 1862
+- **Current EPC Score:** 165 kWh/m²year (D label)
+- **Energy Performance:** Poor insulation (walls not insulated, single-glazed windows)
+- **Current Heating System:** Electric convector (air heating)
+- **Potential for PV:** Yes
+- **Heat Grid Availability:** No
+- **Potential for Geothermal Captation:** No (both horizontal and vertical drilling)
+
+### **2. Recommended Renovations (Prioritized)**
+#### **High Priority**
+1. **Insulate Exterior Walls**
+   - **Reasoning:** The walls are not insulated (NotInsulated), and improving this will significantly reduce heat loss.
+   - **Action:** Insulate the exterior walls with appropriate materials.
+   - **Estimated Cost:** ~€200/m² (depends on material and thickness).
+   - **Expected Energy Savings:** Significant reduction in heating costs.
+   - **Permit Needed:** Only if thickness of total pack >26cm or the building line is overrun (Flanders).
+
+2. **Replace Single-Glazed Windows with Double or Triple-Glazed Windows**
+   - **Reasoning:** Single-glazed windows have poor thermal performance.
+   - **Action:** Replace all windows with double or triple-glazed units.
+   - **Estimated Cost:** ~€800/m².
+   - **Expected Energy Savings:** Significant improvement in thermal comfort and energy efficiency.
+
+3. **Upgrade Heating System**
+   - **Reasoning:** The current electric convector system is inefficient.
+   - **Options:**
+     - **Heat Pump Boiler:** More efficient for water heating.
+     - **Air-Water Heat Pump:** Can provide both heating and cooling.
+     - **Geothermal Heat Pump:** Not feasible due to lack of potential for geothermal captation.
+   - **Estimated Cost:** Depends on the system chosen (e.g., €4,000 for a heat pump boiler).
+   - **Expected Energy Savings:** Significant reduction in energy consumption.
+
+#### **Medium Priority**
+4. **Insulate Roof**
+   - **Reasoning:** The gable roof is well insulated, but additional improvements can be made.
+   - **Action:** Add additional insulation to the roof if possible.
+   - **Estimated Cost:** ~€60/m².
+   - **Expected Energy Savings:** Moderate improvement in energy efficiency.
+
+5. **Install Solar Panels**
+   - **Reasoning:** The building has potential for PV installation.
+   - **Action:** Install PV panels on the roof or in the garden.
+   - **Estimated Cost:** ~€275/m².
+   - **Expected Energy Savings:** Generation of renewable energy to offset electricity consumption.
+
+#### **Low Priority**
+6. **Ventilation System Upgrade**
+   - **Reasoning:** The current ventilation system is natural (Ventilation System A).
+   - **Action:** Upgrade to a mechanical ventilation system (e.g., Ventilation System C or D) for better air quality and energy efficiency.
+   - **Estimated Cost:** ~€3,500 + €17/m².
+   - **Expected Energy Savings:** Moderate improvement in energy efficiency and indoor air quality.
+
+### **3. Additional Considerations**
+- **Historical Protection:** No elements are historically protected, so no restrictions apply.
+- **Permits:** Check local regulations for any necessary permits, especially for structural changes.
+
+### **4. Expected Outcomes**
+- **Energy Efficiency:** Significant improvement in the building's energy performance, potentially moving from a D label to a B or A label.
+- **Comfort:** Improved thermal comfort due to better insulation and heating system.
+- **Cost Savings:** Reduced energy bills due to lower heating and electricity consumption.
+
+### **5. Next Steps**
+1. **Consult with a Professional:** Engage an energy expert to conduct a detailed energy audit and provide tailored recommendations.
+2. **Obtain Quotes:** Get quotes from contractors for the proposed renovations.
+3. **Apply for Grants/Subsidies:** Check for any available grants or subsidies for energy-efficient renovations.
+4. **Plan and Execute:** Develop a detailed renovation plan and schedule the work.
+
+This plan focuses on maximizing energy efficiency while remaining cost-effective, prioritizing actions that provide the most significant benefits.

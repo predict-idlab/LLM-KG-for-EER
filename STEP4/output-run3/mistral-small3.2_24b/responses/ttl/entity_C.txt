@@ -1,0 +1,46 @@
+Based on the provided building information and the RENO ontology, here's a tailored energy-efficient and cost-effective renovation plan for the property:
+
+### Current Building Status:
+- Attached building (2023 construction)
+- EPC score: 50.0 (A+ label)
+- Well-insulated walls, floor, and flat roof
+- Moderately insulated gable roof
+- Double-glazed windows with wooden frames
+- Electric convector and floor heating
+- Ventilation system D
+- No PV potential
+- No heat grid availability
+
+### Renovation Priorities:
+1. **Roof Insulation Upgrade** (High Priority)
+   - *Action:* Insulate Gable Roof (currently moderately insulated)
+   - *Rationale:* The gable roof is the only element not well-insulated. Upgrading this will eliminate the last significant thermal bridge.
+   - *Cost:* ~€60/m² (based on ontology data)
+
+2. **Ventilation System Optimization** (Medium Priority)
+   - *Action:* Maintain current ventilation system D (mechanical supply and exhaust)
+   - *Rationale:* The current system is already efficient and appropriate for the building's needs.
+
+3. **Heating System Assessment** (Long-term Consideration)
+   - *Action:* Monitor performance of electric convector and floor heating
+   - *Rationale:* The current electric heating is adequate but not the most energy-efficient option. Consider transitioning to a heat pump when the current system needs replacement.
+
+4. **Window Maintenance** (Preventative Measure)
+   - *Action:* Regular maintenance of double-glazed windows
+   - *Rationale:* Windows are already performing well (double-glazed with good condition frames), but maintenance ensures long-term efficiency.
+
+### Implementation Sequence:
+1. Upgrade gable roof insulation
+2. Maintain and optimize existing ventilation system
+3. Monitor heating system performance for future upgrades
+
+### Estimated Costs:
+- Gable roof insulation: €60/m² × [roof area] = [Total]
+- Maintenance and optimization: Minimal (already efficient system)
+
+### Additional Recommendations:
+- Since the building already has an excellent EPC (A+), focus on maintaining current performance rather than further improvements.
+- Consider smart thermostats or building automation to optimize existing systems.
+- Regular energy audits to ensure continued high performance.
+
+This plan prioritizes the remaining insulation upgrade while maintaining the already efficient systems, ensuring cost-effectiveness and maximum energy efficiency. The sequence focuses on the most impactful upgrades first while planning for future system replacements when needed.

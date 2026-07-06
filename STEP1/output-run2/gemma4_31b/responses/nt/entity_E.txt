@@ -1,0 +1,51 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. This plan follows the "envelope-first" principle: reducing energy demand through insulation and glazing before upgrading the heating and energy generation systems to ensure the new systems are sized correctly and operate at maximum efficiency.
+
+### **Building Analysis Summary**
+*   **Current State:** A detached building (1862) with a B-label EPC (score: 165). While the roof is well-insulated, the building has significant thermal leaks via **single-glazed windows** and **uninsulated cavity walls**.
+*   **Inefficiencies:** The use of **electric convectors** is highly cost-inefficient. The ventilation (System A) is basic.
+*   **Constraints:** Geothermal potential is absent, and there is no access to a heat grid.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+*The goal here is to stop heat loss. This is the most cost-effective way to lower the energy score and improve comfort.*
+
+1.  **Cavity Wall Insulation:** 
+    *   **Action:** Insulate all four walls (Front, Rear, Left, Right).
+    *   **Reasoning:** All walls are identified as `CavityWall` and are currently `NotInsulated`. Cavity insulation is one of the most cost-effective upgrades with a low unit price and high impact on thermal retention.
+2.  **Glazing Upgrade:** 
+    *   **Action:** Replace **Single Glazing** with Double or Triple Glazing in the Living Area and Bedrooms.
+    *   **Reasoning:** Single glazing is a major source of heat loss. Since the wooden frames are in "Good State," replacing the glazing specifically (rather than the entire window unit) may be a cost-effective first step, though full window replacement is recommended for maximum efficiency.
+3.  **Floor Insulation:**
+    *   **Action:** Insulate the floor above the crawl space.
+    *   **Reasoning:** This prevents cold air from the crawl space from entering the living areas, further stabilizing the internal temperature.
+
+#### **Phase 2: System Efficiency (Operational Performance)**
+*Once the building is airtight and insulated, we upgrade the systems that provide heat and air.*
+
+4.  **Ventilation Upgrade:**
+    *   **Action:** Upgrade from Ventilation System A to **System C or D**.
+    *   **Reasoning:** Improving ventilation is critical after sealing the envelope (insulation/glazing) to prevent moisture buildup and ensure a healthy indoor air quality.
+5.  **Heating System Transition:**
+    *   **Action:** Replace the current boiler and electric convectors with an **Air-Water Heat Pump**.
+    *   **Reasoning:** Geothermal is not possible for this site. An Air-Water heat pump is the most efficient alternative. 
+    *   **Critical Step:** Transition the emission system to **Low-Temperature Emission** (e.g., upgrading radiators or expanding floor heating). This is necessary because heat pumps operate most efficiently at lower flow temperatures than traditional boilers.
+
+#### **Phase 3: Renewable Energy Integration (Carbon Neutrality)**
+*The final step is to offset the electricity consumption of the new heat pump.*
+
+6.  **Solar Energy Installation:**
+    *   **Action:** Install **PV Panels on the roof**.
+    *   **Reasoning:** The building has been confirmed to have `potentialForPV = true`. Generating electricity on-site will significantly reduce the operational cost of the Air-Water Heat Pump.
+
+---
+
+### **Optimal Sequence Summary**
+**Cavity Wall Insulation** $\rightarrow$ **Glazing Upgrade** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **Air-Water Heat Pump & Low-Temp Emitters** $\rightarrow$ **PV Panels**.
+
+### **Cost-Effectiveness & Efficiency Justification**
+*   **Maximized Efficiency:** By insulating the walls and windows first, the required capacity (and thus the cost) of the new heat pump is reduced.
+*   **Cost-Effectiveness:** Cavity wall insulation and glazing upgrades provide the fastest return on investment (ROI) by immediately lowering heating bills.
+*   **Risk Mitigation:** Upgrading the envelope (insulation) before the HVAC (heating/cooling) system ensures the new system is not oversized or underpowered.

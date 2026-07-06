@@ -1,0 +1,66 @@
+### Analysis of the Building
+1. **Building Type and Structure**:
+   - The building is a **detached** structure built in **1862** with a **net floor area** of **136.0 m²**.
+   - It has **four external walls** (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`), all of which are **cavity walls** and **not insulated**.
+   - The **roof** is well-insulated, but the **floor above the crawl space** is not protected.
+
+2. **Current Systems**:
+   - **Heating System**: The building uses **air heating** with **floor heating** and **radiators** powered by a **boiler**.
+   - **Ventilation System**: The building has a **Ventilation System A** (natural air supply and exhaust).
+   - **Windows**: All windows have **single glazing**, which is inefficient for thermal performance.
+
+3. **Energy Performance Certificate (EPC)**:
+   - The current **EPC score is 165**, which places the building in the **B label** range.
+   - The **owner's primary motivation** is to **improve the EPC rating**, which aligns with the **ToImproveEPC** class in the ontology.
+
+4. **Potential for Renewable Energy**:
+   - The building has **potential for PV panels** but **no potential for geothermal energy**.
+   - There is **no heat grid** nearby.
+
+### Renovation Plan
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Insulate → Ventilate → Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+#### **Phase 1: Strengthening the Building Envelope (Priority: High)**
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+
+1. **Insulate Cavity Walls**:
+   - **Insulate Wall Cavity**: All four walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`) should be insulated using cavity wall insulation. This is the most effective method for cavity walls.
+   - **Rationale**: Insulating the walls will eliminate thermal bridges and significantly reduce heat loss.
+
+2. **Insulate Floor Above Crawl Space**:
+   - **Insulate Floor Above Basement**: The floor above the crawl space is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+   - **Rationale**: Insulating the floor will improve comfort and reduce heat loss to unconditioned spaces.
+
+*Note: Windows are currently single-glazed and frames are in a "Good State," so replacing them is not recommended at this stage to maintain cost-effectiveness.*
+
+#### **Phase 2: Heating & Emission System Transition (Priority: Medium)**
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+3. **Replace Ventilation System**:
+   - **Replace Ventilation System**: Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+   - **Rationale**: A more efficient ventilation system will maintain indoor air quality in a now-sealed envelope.
+
+4. **Place Air-Water Heat Pump**:
+   - **Place Air-Water Heat Pump**: Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+   - **Rationale**: Air-Water Heat Pumps are highly efficient and can provide both heating and domestic hot water.
+
+5. **Place Emission System on Low Temperature**:
+   - **Place Low-Temperature Emission**: Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+   - **Rationale**: Low-temperature emissions allow the heat pump to operate more efficiently.
+
+#### **Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+6. **Place PV-Panels on Roof**:
+   - **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+   - **Rationale**: Solar panels will reduce the building's reliance on grid electricity and lower its carbon footprint.
+
+### Summary of Optimal Sequence
+1. **Insulate Cavity Walls** (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`)
+2. **Insulate Floor Above Basement**
+3. **Replace Ventilation System** (Upgrade from System A to System C or D)
+4. **Place Air-Water Heat Pump**
+5. **Place Low-Temperature Emission**
+6. **Place PV-Panels on Roof**
+
+This sequence ensures that the building's energy efficiency is maximized in a cost-effective manner while improving the EPC rating.

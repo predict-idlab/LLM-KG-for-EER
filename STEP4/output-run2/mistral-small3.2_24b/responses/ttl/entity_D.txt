@@ -1,0 +1,44 @@
+### Renovation Plan for Semi-Detached Building (ex:Building)
+
+#### Current Status:
+- **Building Type:** Semi-detached (ex:SemiDetachedBuilding)
+- **Construction Year:** 2017
+- **EPC Score:** 87.0 (A Label)
+- **Potential for PV:** False
+- **Heat Grid Presence:** False
+- **Current Systems:**
+  - **Heating:** Heat pump (ex:HeatPump)
+  - **Ventilation:** System D (ex:VentilationSystemD)
+  - **Insulation:** Well-insulated walls and floor, moderately insulated roof (ex:RoofMain)
+  - **Windows:** Double-glazed with wooden frames (ex:WindowGlazingBedrooms, ex:WindowGlazingLivingArea)
+
+#### Owner's Motivation:
+- **Primary Goal:** Improve EPC (ex:ToImproveEPC)
+
+#### Proposed Renovation Path:
+
+1. **Enhance Roof Insulation (Priority: High)**
+   - **Action:** Insulate Gable Roof (ex:InsulateGableRoof)
+   - **Rationale:** The gable roof (ex:RoofMain) is currently only moderately insulated. Improving its insulation will further reduce heat loss and improve overall energy efficiency.
+   - **Cost:** €60 per m² (ex:hasUnitPrice)
+
+2. **Upgrade Window Glazing (Priority: Medium)**
+   - **Action:** Replace Glazing with Triple Glazing (ex:ReplaceGlazing)
+   - **Rationale:** Although the windows are already double-glazed, upgrading to triple glazing will enhance thermal performance and reduce heat loss through windows.
+   - **Cost:** €200 per m² (ex:hasUnitPrice)
+
+3. **Optimize Ventilation System (Priority: Medium)**
+   - **Action:** Ensure Proper Ventilation System D (ex:VentilationSystemD)
+   - **Rationale:** The current ventilation system is efficient, but ensuring it is well-maintained and properly balanced will help maintain indoor air quality without compromising energy efficiency.
+
+4. **Consider Future-Proofing with PV (Priority: Long-term)**
+   - **Action:** Evaluate Potential for PV Panels (ex:PlacePVPanelsOnRoof)
+   - **Rationale:** Although the building currently has no potential for PV (ex:hasPotentialForPV false), future changes in technology or regulations might make PV installation feasible. Regularly review this option.
+
+#### Summary of Optimal Sequence:
+1. **Insulate Gable Roof**
+2. **Upgrade Window Glazing**
+3. **Optimize Ventilation System**
+4. **Evaluate Future PV Potential**
+
+This plan focuses on incremental improvements that build upon the already well-insulated structure, ensuring cost-effectiveness and energy efficiency. The sequence prioritizes high-impact, low-cost actions first, followed by more significant upgrades.

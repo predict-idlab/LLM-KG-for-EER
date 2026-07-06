@@ -1,0 +1,21 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "insulate gable roof"
+    ],
+    "extra_actions": [
+      "replace glazing",
+      "insulate wall cavity",
+      "insulate wall on exterior",
+      "insulate floor above basement",
+      "connect to heatgrid",
+      "place air-water heatpump",
+      "place emission system on low temperature",
+      "place heatpumpboiler",
+      "place pv-panels on roof"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

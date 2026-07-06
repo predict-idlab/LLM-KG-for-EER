@@ -1,0 +1,14 @@
+{
+	"completeness": {
+		"score": 1,
+		"justification": "The LLM omitted 'insulate flat roof' and 'replace glazing' from the ground truth."
+	},
+	"sequence": {
+		"score": 1,
+		"justification": "The LLM reordered 'replace glazing' and 'insulate flat roof' relative to the ground truth."
+	},
+	"verbosity": {
+		"score": 2,
+		"justification": "The LLM used descriptive language and explanations instead of imperative actions, and included unnecessary details."
+	}
+}

@@ -1,0 +1,50 @@
+Based on the information provided, here is a concise and actionable renovation plan that is grounded in the ontology and suggestion list, tailored to the specific building entity:
+
+### Renovation Plan for the Attached Building (Construction Year: 1832)
+
+#### 1. **Replace Gable Roof (High Priority)**
+   - **Reasoning**: The current gable roof is moderately insulated and has a good state. However, given the age of the building (1832), replacing the gable roof can significantly improve energy efficiency and thermal comfort.
+   - **Action**: Replace the existing gable roof with a new, well-insulated roof.
+   - **Considerations**:
+     - Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+     - Pay extra attention when installing the roof underlayment so that it is completely air- and watertight.
+     - If your facades are not yet insulated, extend the roof overhangs now so that the external wall insulation can connect to the roof insulation. Also place the rainwater drains so that the external wall insulation can still be placed.
+     - When renewing your roof, already take into account any ducts which may be needed for a ventilation system, solar water heater or solar panels.
+   - **Permit Needed**: Only if roof framework is renewed (Flanders).
+
+#### 2. **Insulate Wall Cavity (Moderate Priority)**
+   - **Reasoning**: The walls (both front and rear) are full brick walls and are not insulated. Insulating the cavity can improve thermal performance significantly.
+   - **Action**: Insulate the wall cavity.
+   - **Considerations**:
+     - Have an inspection carried out by a contractor, who can determine whether the cavity wall is suitable for injecting insulation. Namely, it should be checked whether the cavity is wide enough, whether there is no contamination in the cavity, whether the cladding is vapour-permeable enough, etc.
+   - **Permit Needed**: Not necessary (Flanders).
+
+#### 3. **Replace Ventilation System (Moderate Priority)**
+   - **Reasoning**: The current ventilation system is a system A, which works on the basis of natural air supply and air exhaust. Replacing it with a more efficient system (e.g., system C or D) can improve indoor air quality and energy efficiency.
+   - **Action**: Replace the existing ventilation system with a more efficient one.
+   - **Considerations**:
+     - For a ventilation system C, you need grilles in your window frames.
+     - A ventilation system D will have slightly more impact on your home, as it requires ductwork for both supply and return.
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+#### 4. **Connect to Heat Grid (High Priority)**
+   - **Reasoning**: The building does not currently have a heat grid connection. Connecting to a heat grid can provide a more sustainable and efficient heating solution.
+   - **Action**: Connect the building to the heat grid.
+   - **Considerations**:
+     - Check that your emission system corresponds to the supply and return temperatures of the heat grid.
+     - Contact your municipality or grid operator for more information.
+   - **Permit Needed**: Not necessary (Flanders).
+
+#### 5. **Place PV Panels on Roof (High Priority)**
+   - **Reasoning**: The building has potential for PV panels, and placing them on the roof can generate renewable energy, reducing reliance on non-renewable energy sources.
+   - **Action**: Install PV panels on the roof.
+   - **Considerations**:
+     - Check on the 'Zonnekaart' whether your roof is properly oriented and captures enough sunlight. The yield is greatest if your panels face south (south-east to south-west) at an angle of 30° to 50°.
+     - Since PV panels are attached to the roof structure, it is crucial to remove any asbestos present in the roof first. Installing solar panels on a building with an asbestos-containing roof covering or an asbestos-containing sub-roof is prohibited.
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders).
+
+### Additional Recommendations:
+- **Insulate Flat Roof**: Although the flat roof is not currently insulated, it is recommended to insulate it to improve overall energy efficiency. However, this can be considered after the above priorities are addressed.
+- **Replace Windows**: The windows are currently double-glazed, which is better than single-glazing but not as efficient as triple-glazing. Replacing the windows with triple-glazed ones can further improve energy efficiency.
+
+This plan prioritizes actions that will have the most significant impact on energy efficiency and thermal comfort, considering the building's current state and the available suggestions. The actions are ordered based on their potential impact and feasibility.

@@ -1,0 +1,74 @@
+### Renovation Plan for the Building at example.com
+
+#### 1. **Initial Assessment**
+- **Building Type**: Detached building
+- **Construction Year**: 1862
+- **Current Energy Performance Certificate (EPC) Score**: 165 kWh/m²year
+- **Potential for PV Installation**: Yes
+- **Presence of Heat Grid**: No
+- **Reason to Change Emission System**: Yes
+- **Current Insulation Grades**:
+  - Walls (Front, Left, Right, Rear): Not Insulated
+  - Roof (Main): Well Insulated
+  - Floor (Above Crawl Space): Not Specified
+
+#### 2. **Immediate Actions**
+1. **Replace Windows**
+   - **Action**: Replace the current single-glazed windows with double or triple-glazed windows.
+   - **Reason**: Single-glazed windows are inefficient and contribute significantly to heat loss.
+   - **Estimated Cost**: Depends on the number and size of windows, but typically ranges from €800 to €1,500 per window.
+   - **Ordering**: 46
+
+2. **Insulate Walls**
+   - **Action**: Insulate the exterior walls (Front, Left, Right, Rear) with appropriate insulation material.
+   - **Reason**: The current walls are not insulated, leading to significant heat loss.
+   - **Estimated Cost**: Approximately €200 per m².
+   - **Ordering**: 40
+
+3. **Install PV Panels on Roof**
+   - **Action**: Install photovoltaic (PV) panels on the well-insulated roof.
+   - **Reason**: The building has potential for PV installation and can benefit from renewable energy.
+   - **Estimated Cost**: Approximately €275 per m².
+   - **Ordering**: 85
+
+4. **Upgrade Emission System**
+   - **Action**: Replace the current emission system (Radiator or Electric Convector) with a more efficient system such as a heat pump or underfloor heating.
+   - **Reason**: The current system is outdated and can be improved for better energy efficiency.
+   - **Estimated Cost**: Varies significantly based on the type of system installed.
+   - **Ordering**: 70
+
+#### 3. **Medium-Term Actions**
+1. **Insulate Floor Above Crawl Space**
+   - **Action**: Insulate the floor above the crawl space to improve thermal comfort and energy efficiency.
+   - **Reason**: The current floor is not insulated, leading to heat loss.
+   - **Estimated Cost**: Approximately €30 per m².
+   - **Ordering**: 49
+
+2. **Install Ventilation System**
+   - **Action**: Install a ventilation system (Type A or C) to improve indoor air quality.
+   - **Reason**: Proper ventilation is essential for maintaining a healthy indoor environment.
+   - **Estimated Cost**: Approximately €17 per m².
+   - **Ordering**: 52
+
+3. **Consider Connecting to Heat Grid (Future)**
+   - **Action**: Explore the possibility of connecting to a heat grid in the future.
+   - **Reason**: Although the current presence of a heat grid is no, future expansions might make it available.
+   - **Estimated Cost**: Varies significantly based on the distance and connection requirements.
+
+#### 4. **Long-Term Actions**
+1. **Regular Maintenance and Monitoring**
+   - **Action**: Schedule regular maintenance for all installed systems and monitor energy consumption.
+   - **Reason**: Ensuring the longevity and efficiency of the installed systems.
+   - **Estimated Cost**: Varies based on the type of maintenance required.
+
+2. **Energy Audits**
+   - **Action**: Conduct periodic energy audits to assess the building's energy performance and identify areas for further improvement.
+   - **Reason**: Continuous improvement of energy efficiency over time.
+   - **Estimated Cost**: Varies based on the scope and depth of the audit.
+
+#### 5. **Additional Recommendations**
+- **Smart Home Integration**: Consider integrating smart home devices for better control and monitoring of energy consumption.
+- **Energy-Efficient Lighting**: Replace traditional lighting with LED or other energy-efficient options.
+- **Water Heating**: Consider installing a solar water heater or a heat pump water heater for more efficient water heating.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective. The actions are ordered based on their priority and potential impact on the building's energy performance. Regular monitoring and maintenance will ensure the longevity and efficiency of the installed systems.

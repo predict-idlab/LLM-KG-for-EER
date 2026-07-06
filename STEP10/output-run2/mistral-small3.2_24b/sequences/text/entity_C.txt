@@ -1,0 +1,7 @@
+1. replace boiler and heat emission systems
+2. place air-water heat pump
+3. place hybrid heating system
+4. upgrade ventilation system
+5. add smart controls to ventilation system
+6. add battery storage system
+7. install smart thermostats and controls

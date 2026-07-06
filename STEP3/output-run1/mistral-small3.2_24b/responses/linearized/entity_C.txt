@@ -1,0 +1,79 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **Step 1: Initial Assessment**
+- **Building Type**: Attached building with 159.0 m² net floor area, constructed in 2023.
+- **Key Elements**:
+  - Walls: Front (FullBrickWall, WellInsulated), Rear (FullBrickWall, WellInsulated).
+  - Roofs: Main (GableRoof, ModeratelyInsulated), Extension (FlatRoof, WellInsulated).
+  - Windows: Living Area (DoubleGlazing, WoodenFrame), Bedrooms (DoubleGlazing, WoodenFrame).
+  - Emission Systems: FloorHeating, ElectricConvector.
+  - Ventilation: System D.
+  - Solar Device: PV Panels.
+- **Current State**:
+  - Energy Performance Certificate (EPC) score: 50.
+  - No heat grid available.
+  - Potential for PV: False.
+  - Potential for geothermal: False (both horizontal and vertical).
+
+#### **Step 2: Prioritize Renovations**
+1. **Roof and Wall Insulation**:
+   - **Insulate Gable Roof**: Improve insulation from ModeratelyInsulated to WellInsulated.
+     - *Action*: Place roof underlayment and ensure air- and watertightness.
+     - *Nuisance Level*: Low.
+     - *Ordering*: 28.
+   - **Insulate Flat Roof**: Already WellInsulated, no action needed.
+   - **Insulate Wall Interior/Exterior**: Not needed as both walls are WellInsulated.
+
+2. **Window Upgrades**:
+   - **Replace Glazing**: Current windows have DoubleGlazing, which is already efficient. No replacement needed.
+   - **Replace Windows**: Not needed as frames are in GoodState and glazing is efficient.
+
+3. **Ventilation and Emission Systems**:
+   - **Replace Ventilation System**: Current system is D. Consider upgrading to a more efficient system.
+     - *Action*: Replace with a more efficient system (e.g., System C).
+     - *Nuisance Level*: Moderate.
+     - *Ordering*: 52.
+   - **Place Low-Temperature Emission System**: Consider replacing current emission systems with low-temperature systems.
+     - *Action*: Place low-temperature emission system.
+     - *Nuisance Level*: Moderate.
+     - *Ordering*: 70.
+
+4. **Solar and Heat Pumps**:
+   - **Place PV Panels on Roof**: Potential for PV is False, but consider installing if feasible.
+     - *Action*: Evaluate feasibility and install if possible.
+     - *Nuisance Level*: Low.
+     - *Ordering*: 85.
+   - **Place Heat Pump Boiler**: Consider installing a heat pump boiler for more efficient heating.
+     - *Action*: Place heat pump boiler.
+     - *Nuisance Level*: Moderate.
+     - *Ordering*: 76.
+
+5. **Other Considerations**:
+   - **Remove Asbestos**: Not applicable as no asbestos-containing elements are present.
+   - **Connect to Heat Grid**: Not applicable as no heat grid is available.
+
+#### **Step 3: Action Plan**
+1. **Immediate Actions**:
+   - **Insulate Gable Roof**: Ordering 28.
+   - **Replace Ventilation System**: Ordering 52.
+   - **Place Low-Temperature Emission System**: Ordering 70.
+
+2. **Medium-Term Actions**:
+   - **Place Heat Pump Boiler**: Ordering 76.
+   - **Place PV Panels on Roof**: Ordering 85 (if feasible).
+
+3. **Long-Term Considerations**:
+   - Monitor energy performance and consider further upgrades as needed.
+
+#### **Step 4: Cost and Benefit Analysis**
+- **Expected Benefits**:
+  - Improved energy efficiency leading to lower energy costs.
+  - Enhanced thermal comfort.
+  - Potential increase in property value.
+
+- **Cost Considerations**:
+  - Prioritize actions with the highest cost-benefit ratio.
+  - Consider financing options or incentives for energy-efficient upgrades.
+
+#### **Conclusion**
+The proposed renovation plan focuses on optimizing the building's energy efficiency by addressing insulation, ventilation, and emission systems. The plan is designed to be cost-effective and prioritizes actions based on their impact and nuisance level. Regular monitoring and evaluation will ensure long-term benefits and performance.

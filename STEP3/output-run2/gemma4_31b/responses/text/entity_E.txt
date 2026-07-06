@@ -1,0 +1,47 @@
+To move a house from an EPC of 165 to a high-performance rating, you must follow the **"Envelope First"** principle. Installing a new heating system in an uninsulated house is a waste of money because you will over-spec the equipment and continue to lose heat rapidly.
+
+Given your specific constraints in Ghent, here is the most optimal, cost-effective renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leaks)
+*Goal: Reduce the total energy demand of the house so that the subsequent heating system can be smaller and cheaper.*
+
+1.  **Cavity Wall Insulation (Highest ROI):** Since you have cavity walls, **injection insulation** is your "low-hanging fruit." It is relatively inexpensive, non-invasive, and provides an immediate, massive drop in heat loss.
+2.  **Window Upgrade:** Single glazing is a major thermal bridge. Since the wooden frames are in good condition, evaluate if they can be retrofitted with **double or triple glazing (HR++)**. If the frames are too thin, replace them with high-efficiency wooden frames to maintain the aesthetic of the 1862 build while slashing energy loss.
+3.  **Floor Insulation (Crawl Space):** Since the floor is not protected, insulate the ceiling of the crawl space. This prevents the "cold feet" effect and stops heat from escaping into the ground. This is significantly cheaper than ripping up floors.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is sealed, preventing mold and humidity.*
+
+4.  **Mechanical Ventilation (VMC):** Natural ventilation is insufficient for an energy-efficient home. Once you insulate the walls and windows, the house becomes more airtight. Install a **balanced ventilation system with heat recovery (HRV)**. This recovers heat from outgoing air to warm the incoming fresh air, preventing the heat loss associated with opening windows in winter.
+
+### Phase 3: The Heating Transition (The "Heart" Upgrade)
+*Goal: Replace an inefficient, fragmented system with a streamlined, low-carbon solution.*
+
+5.  **Emitter Standardization:** Your current mix (radiators, air, electric convectors) is highly inefficient. Since you want to replace them, move toward **low-temperature emitters**. 
+    *   Expand the **underfloor heating** where possible.
+    *   Replace old radiators with **low-temperature radiators** or fan coils.
+    *   *Eliminate all electric convectors*, as they are the most expensive way to heat a home.
+6.  **Heat Pump Installation:** Now that the house is insulated and the emitters are optimized for low temperatures, install an **Air-to-Water Heat Pump**. Because you have already reduced the heat demand in Phase 1, you can install a smaller, more cost-effective unit that will operate at maximum efficiency (COP).
+
+### Phase 4: Energy Generation (Offsetting Costs)
+*Goal: Move toward a "Net Zero" operational cost.*
+
+7.  **Photovoltaic (PV) Panels:** Install solar panels on your pitched roof. A heat pump increases your electricity consumption; PV panels offset this cost. In the Flemish region, this is the final step to maximize your EPC score and minimize monthly utility bills.
+
+---
+
+### Summary of the Optimal Sequence & Logic
+
+| Step | Action | Why this order? | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1** | **Cavity & Floor Insulation** | Stops the "bleed" of energy first. | High $\uparrow$ |
+| **2** | **Window Upgrades** | Eliminates the primary source of drafts. | High $\uparrow$ |
+| **3** | **Ventilation (HRV)** | Prevents moisture/mold caused by insulation. | Medium $\uparrow$ |
+| **4** | **Low-Temp Emitters** | Prepares the house for a Heat Pump. | Medium $\uparrow$ |
+| **5** | **Air-to-Water Heat Pump** | Replaces fossil fuels with efficient electricity. | Very High $\uparrow$ |
+| **6** | **PV Panels** | Powers the heat pump for free. | Very High $\uparrow$ |
+
+### Final Expert Tip for Ghent/Flanders:
+Before starting, check the **Vlaamse EnergiePremies** (Flemish Energy Premiums). The subsidies in Flanders are often tiered; by following this sequence (insulation $\rightarrow$ ventilation $\rightarrow$ heating), you ensure that you are eligible for the maximum grants available for each specific category.

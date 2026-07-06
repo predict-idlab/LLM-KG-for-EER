@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate gable roof", "place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["replace ventilation system", "optimize emission system", "install energy monitoring system"]}, "sequence": {"order_errors": []}}

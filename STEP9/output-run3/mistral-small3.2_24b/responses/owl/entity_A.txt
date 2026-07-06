@@ -1,0 +1,59 @@
+### Renovation Plan for the Semi-Detached Building
+
+#### 1. **Remove Asbestos from the Roof (Flat and Gable)**
+   - **Suggestions:** `remove asbestos from flat roof`, `remove asbestos from gable roof`
+   - **Reasoning:** The roof extension (flat roof) and the main roof (gable roof) are the primary areas where asbestos removal is required. This step is crucial for safety and to prepare for further insulation work.
+   - **Action:** Hire a licensed asbestos removal company to handle the non-bonded asbestos. The owner or a contractor can remove bonded asbestos with the correct precautions.
+
+#### 2. **Insulate the Roofs**
+   - **Suggestions:** `insulate flat roof`, `insulate gable roof`
+   - **Reasoning:** Both the flat roof (roof extension) and the gable roof (main roof) are not insulated. Insulating these will significantly improve the energy efficiency of the building.
+   - **Action:** Opt for an inverted roof structure for the flat roof to avoid condensation issues. For the gable roof, ensure a vapour barrier is installed on the warm side of the insulation.
+
+#### 3. **Insulate the Walls**
+   - **Suggestions:** `insulate wall cavity`, `insulate wall on interior`, `insulate wall on exterior`
+   - **Reasoning:** All walls (front, rear, and right) are full brick walls with no insulation. Insulating these walls will further enhance the building's thermal performance.
+   - **Action:** Insulate the wall cavities if they are suitable for injecting insulation. Alternatively, insulate the walls on the interior or exterior, depending on feasibility and local regulations.
+
+#### 4. **Replace or Insulate the Windows**
+   - **Suggestions:** `replace glazing`, `replace windows`
+   - **Reasoning:** The windows in the bedrooms and living area have double glazing, which is less efficient compared to triple glazing. Replacing the glazing or the entire windows will improve thermal comfort and energy efficiency.
+   - **Action:** Check the condition of the window frames and replace the glazing if the frames are in good condition. If the frames are old or damaged, consider replacing the entire windows.
+
+#### 5. **Insulate the Floor Above Basement**
+   - **Suggestions:** `insulate floor above basement`
+   - **Reasoning:** The floor above the basement is not insulated, which can lead to heat loss. Insulating this floor will help maintain a comfortable indoor temperature.
+   - **Action:** Install insulation on the floor above the basement, ensuring a vapour barrier is in place to prevent condensation issues.
+
+#### 6. **Replace the Ventilation System**
+   - **Suggestions:** `replace ventilation system`
+   - **Reasoning:** The current ventilation system (type A) is outdated and inefficient. Upgrading to a more efficient system (e.g., type B, C, or D) will improve air quality and energy efficiency.
+   - **Action:** Choose a ventilation system that suits the building's needs and ensure proper installation to avoid issues like mould growth or poor air quality.
+
+#### 7. **Replace the Generation System**
+   - **Suggestions:** `connect to heatgrid`, `place air-air heatpump`, `place vertical geothermal heatpump`, `place horizontal geothermal heatpump`, `place air-water heatpump`, `place emission system on low temperature`, `place air-water heatpump with cooling`, `place heatpumpboiler`
+   - **Reasoning:** The current generation system (boiler) is likely inefficient and may not meet the building's heating needs. Replacing it with a more efficient system will reduce energy consumption and lower utility bills.
+   - **Action:** Consider connecting to a heat grid if available. Alternatively, install an air-water heat pump or a geothermal heat pump, depending on the building's specific needs and local conditions.
+
+#### 8. **Install Solar Panels**
+   - **Suggestions:** `place PV-panels on roof`, `place PV-panels in garden`, `place plug and play PV-panels`
+   - **Reasoning:** The building has potential for PV panels, which can generate renewable energy and reduce reliance on the grid.
+   - **Action:** Install PV panels on the roof if the orientation and space allow. If the roof is not suitable, consider placing panels in the garden. Ensure compliance with local regulations and safety standards.
+
+#### 9. **Additional Recommendations**
+   - **Suggestions:** `place sunshade`, `place airconditioning`
+   - **Reasoning:** Installing sunshades can help reduce solar heat gain during summer, improving comfort and reducing cooling needs. Air conditioning can be beneficial for maintaining a comfortable indoor temperature during hot weather.
+   - **Action:** Consider installing sunshades on windows that receive direct sunlight. If air conditioning is desired, ensure proper sizing and installation to avoid excessive energy use.
+
+### Summary of the Renovation Plan:
+1. Remove asbestos from the flat and gable roofs.
+2. Insulate the flat and gable roofs.
+3. Insulate the walls (front, rear, and right).
+4. Replace or insulate the windows.
+5. Insulate the floor above the basement.
+6. Replace the ventilation system.
+7. Replace the generation system with a more efficient option (e.g., heat pump or geothermal system).
+8. Install solar panels on the roof or in the garden.
+9. Consider installing sunshades and air conditioning for improved comfort.
+
+This plan prioritizes actions that address the most critical issues (asbestos removal, insulation, and system upgrades) while also considering long-term energy efficiency and comfort. The plan is based on the provided ontology and suggestion list and is tailored to the specific needs of the semi-detached building.

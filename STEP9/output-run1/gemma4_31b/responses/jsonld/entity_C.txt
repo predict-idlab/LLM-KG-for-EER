@@ -1,0 +1,40 @@
+### Analysis of Current Building State
+The building is a very modern **Attached Building (constructed in 2023)** with an already excellent energy profile (**EPC Score: 50**, which corresponds to an **A Label**). Most elements are already "Well Insulated" (Walls, Flat Roof, and Floor Above Basement). However, there is a clear mandate from the owner to further improve the EPC and a specific flag indicating a **reason to change the emission system**.
+
+**Key Constraints & Opportunities:**
+*   **Heating:** The current system uses Electric Convectors (inefficient) and Floor Heating.
+*   **Site Limitations:** Geothermal energy (both horizontal and vertical) is **not possible** at this site, and there is **no heat grid** available.
+*   **Envelope:** The Gable Roof is only "Moderately Insulated," representing the primary area for thermal improvement.
+*   **Windows:** Currently equipped with Double Glazing and wooden frames in good state.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the "fabric first" principle: optimize the building envelope to reduce demand before upgrading the technical installations.
+
+#### Phase 1: Thermal Envelope Optimization
+*Goal: Minimize heat loss to allow for a smaller, more efficient heating system.*
+
+1.  **Insulate Gable Roof**: The gable roof is the only major element not yet "Well Insulated." Upgrading this will prevent heat from escaping through the top of the house.
+2.  **Replace Glazing (Upgrade to Triple Glazing)**: Since the wooden window frames are in "Good State," it is not cost-effective to replace the entire window. Replacing only the glazing with **Triple Glazing** will significantly reduce U-values and improve thermal comfort without the cost of new frames.
+
+#### Phase 2: High-Efficiency System Upgrade
+*Goal: Transition from inefficient electric resistance heating to renewable heat pump technology.*
+
+3.  **Place Air-Water Heatpump**: Since geothermal and heat grids are unavailable, an Air-Water Heatpump is the most efficient alternative. This system is ideal here because the building already possesses **Floor Heating**, which operates at the low temperatures required for heat pumps to reach maximum COP (Coefficient of Performance).
+4.  **Place Heatpump Boiler**: To replace the existing boiler and further reduce electricity consumption for domestic hot water, a dedicated heat pump boiler should be installed.
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Rationale | Cost-Effectiveness Note |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "Moderately Insulated" element. | Low nuisance, high ROI on energy saved. |
+| **2** | **Replace Glazing** | Upgrades Double $\rightarrow$ Triple glazing. | Cheaper than replacing full window frames. |
+| **3** | **Air-Water Heatpump** | Replaces Electric Convectors/Boiler. | Leverages existing floor heating for max efficiency. |
+| **4** | **Heatpump Boiler** | Optimizes domestic hot water production. | Reduces reliance on the main heating system. |
+
+### Long-Term Operational Performance
+By following this sequence, the building will move from an **A Label** toward an **A+ Label**. The transition from electric convectors to an Air-Water Heatpump, paired with a tighter thermal envelope, will drastically reduce the yearly kWh/m² consumption and lower operational energy costs, fulfilling the owner's motivation to maximize the EPC value.

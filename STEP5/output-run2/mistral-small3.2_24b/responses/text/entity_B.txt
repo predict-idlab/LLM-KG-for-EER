@@ -1,0 +1,43 @@
+### Renovation Plan for Attached House in Ghent, Belgium (Built in 1832)
+
+#### **Current EPC Score:** 262
+#### **Priority:** Improve energy efficiency and EPC score in a cost-effective manner.
+
+#### **Proposed Renovation Path**
+
+**Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+1. **Insulate Flat Roof Extension**
+   - **Rationale:** The flat roof is a significant source of heat loss. Insulating it will reduce energy consumption effectively.
+2. **Insulate Exterior Walls (Front and Rear)**
+   - **Rationale:** Solid brick walls are poorly insulated. Exterior insulation is recommended to eliminate thermal bridges and improve thermal performance.
+3. **Insulate Floor Above Basement**
+   - **Rationale:** Uninsulated floors lead to heat loss to the basement. Insulating this area will improve comfort and reduce energy demand.
+
+**Phase 2: Heating System Upgrade**
+4. **Replace Boiler with Air-Water Heat Pump**
+   - **Rationale:** With an improved thermal envelope, a heat pump will be more efficient and sustainable than the current boiler.
+5. **Upgrade to Low-Temperature Emission System**
+   - **Rationale:** Ensures the heat pump operates at peak efficiency by transitioning radiators to a low-temperature system.
+
+**Phase 3: Ventilation Upgrade**
+6. **Replace Natural Ventilation with Mechanical Ventilation (System C or D)**
+   - **Rationale:** A sealed envelope requires controlled ventilation to maintain air quality and prevent moisture buildup.
+
+**Phase 4: Sustainable Energy Generation (Optional but Recommended)**
+7. **Install Photovoltaic (PV) Panels**
+   - **Rationale:** Generates renewable electricity to power the heat pump and ventilation system, further improving energy efficiency.
+
+---
+
+### **Summary of Optimal Sequence**
+| **Sequence** | **Action** | **Rationale** |
+|-------------|-----------|--------------|
+| **1** | Insulate Flat Roof Extension | Reduces heat loss through the roof. |
+| **2** | Insulate Exterior Walls | Eliminates thermal bridges and improves thermal performance. |
+| **3** | Insulate Floor Above Basement | Reduces heat loss to the basement. |
+| **4** | Replace Boiler with Air-Water Heat Pump | Provides efficient, sustainable heating. |
+| **5** | Upgrade to Low-Temperature Emission System | Maximizes heat pump efficiency. |
+| **6** | Upgrade Ventilation System | Maintains air quality in a sealed envelope. |
+| **7** | Install PV Panels (Optional) | Generates renewable energy for the heat pump and ventilation. |
+
+This plan prioritizes cost-effective upgrades while maximizing energy efficiency, ensuring long-term operational performance improvements.

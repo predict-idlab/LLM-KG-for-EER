@@ -1,0 +1,66 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+**Objective:**
+Improve the energy efficiency of the semi-detached building (constructed in 1951) to achieve a better Energy Performance Certificate (EPC) label, focusing on practical and cost-effective upgrades.
+
+**Current State:**
+- **Building Type:** Semi-detached
+- **Construction Year:** 1951
+- **EPC Label:** E (388 kWh/m²year)
+- **Insulation:** Poor (NotInsulated for most elements)
+- **Heating System:** Air heating with radiators and floor heating
+- **Ventilation System:** Type A (natural air supply and exhaust)
+- **Windows:** Wooden frames with double glazing
+- **Roof:** Main gable roof (NotInsulated), extension flat roof (ModeratelyInsulated)
+- **Walls:** Full brick walls (NotInsulated)
+- **Floor:** Above basement (NotInsulated)
+- **Potential for PV:** Yes
+- **Heat Grid:** Not available
+
+**Renovation Priorities (Ordering):**
+1. **Insulate Attic Floor** (Ordering: 31)
+   - **Reason:** Quick and cost-effective way to improve thermal comfort and reduce heat loss.
+   - **Action:** Insulate the attic floor with walkable insulation, ensuring a vapour barrier is installed.
+   - **Cost:** ~€60/m² (PER-M2)
+
+2. **Insulate Wall Cavity** (Ordering: 34)
+   - **Reason:** Improves thermal performance of the walls.
+   - **Action:** Inject insulation into the cavity walls after inspection.
+   - **Cost:** ~€22/m² (PER-M2)
+
+3. **Insulate Gable Roof** (Ordering: 28)
+   - **Reason:** Reduces heat loss through the roof.
+   - **Action:** Insulate the gable roof with proper vapour barrier installation.
+   - **Cost:** ~€60/m² (PER-M2)
+
+4. **Insulate Flat Roof (Extension)** (Ordering: 25)
+   - **Reason:** The flat roof extension is already moderately insulated; further insulation can improve performance.
+   - **Action:** Add insulation to the flat roof, ensuring proper vapour barrier installation.
+   - **Cost:** ~€50/m² (PER-M2)
+
+5. **Replace Glazing** (Ordering: 43)
+   - **Reason:** Upgrade to triple glazing for better thermal and acoustic performance.
+   - **Action:** Replace existing double glazing with triple glazing, ensuring window frames are in good condition.
+   - **Cost:** ~€200/m² (PER-M2)
+
+6. **Place PV Panels on Roof** (Ordering: 85)
+   - **Reason:** Utilize the potential for PV to generate renewable energy.
+   - **Action:** Install PV panels on the roof, ensuring proper orientation and shading considerations.
+   - **Cost:** ~€275/m² (PER-M2)
+
+7. **Place Air-Water Heatpump** (Ordering: 67)
+   - **Reason:** Replace the existing air heating system with a more efficient heat pump.
+   - **Action:** Install an air-water heat pump with proper integration into the existing emission system.
+   - **Cost:** ~€8,000 (Fixed Price)
+
+**Additional Considerations:**
+- **Ventilation System:** The existing ventilation system (Type A) is adequate, but ensure proper grilles are installed if replacing windows.
+- **Asbestos:** Check for asbestos in roof structures before any insulation work.
+- **Permits:** Ensure necessary permits are obtained for roof work and PV panel installation.
+
+**Expected Outcomes:**
+- Improved thermal comfort and reduced energy consumption.
+- Better EPC label (target: C or B).
+- Lower energy costs and increased property value.
+
+**Note:** Always consult with professionals (architects, contractors) to ensure proper execution of the renovation work.

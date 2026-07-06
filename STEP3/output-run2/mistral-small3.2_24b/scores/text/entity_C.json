@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["replace heating system", "improve roof insulation", "upgrade ventilation system", "upgrade windows", "add battery storage system", "install smart thermostats"]}, "sequence": {"order_errors": []}}

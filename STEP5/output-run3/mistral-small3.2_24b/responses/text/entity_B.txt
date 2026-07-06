@@ -1,0 +1,33 @@
+Given the characteristics of your 1832 attached house in Ghent, Belgium (212 m², EPC score of 262), here’s a cost-effective and energy-efficient renovation plan following a **fabric-first** approach:
+
+### **Phase 1: Optimize the Thermal Envelope (High Priority)**
+1. **Insulate the Flat Roof Extension**
+   - The uninsulated flat roof is a major source of heat loss. Insulating it will significantly improve thermal performance.
+
+2. **Insulate the Exterior Walls (Front & Rear)**
+   - Since the walls are solid brick, **exterior insulation** is more effective than interior insulation, avoiding thermal bridges and maintaining interior space.
+
+3. **Insulate the Floor Above the Basement**
+   - Adding insulation here will reduce heat loss to the basement and improve comfort.
+
+### **Phase 2: Upgrade the Heating System (Medium Priority)**
+4. **Replace the Boiler with an Air-Water Heat Pump**
+   - Since geothermal and district heating are not options, an **air-water heat pump** is the most efficient alternative.
+   - Ensure the **radiator system is compatible with low-temperature heating** to maximize the heat pump’s efficiency.
+
+5. **Upgrade the Ventilation System**
+   - Replace the **natural ventilation system** with a **mechanical ventilation system with heat recovery (System C or D)** to maintain air quality while minimizing heat loss.
+
+### **Phase 3: Enhance Energy Generation (Long-Term Benefit)**
+6. **Install Photovoltaic (PV) Panels**
+   - Given the potential for PV installation, adding solar panels will help offset the heat pump’s electricity consumption and improve the EPC score further.
+
+### **Summary of Optimal Renovation Sequence**
+1. **Insulate Flat Roof**
+2. **Insulate Exterior Walls**
+3. **Insulate Floor Above Basement**
+4. **Replace Boiler with Air-Water Heat Pump**
+5. **Upgrade to Low-Temperature Radiators**
+6. **Install PV Panels**
+
+This plan ensures **maximized energy efficiency** while keeping costs manageable by prioritizing the most impactful upgrades first. Would you like any adjustments based on specific budget or timeline constraints?

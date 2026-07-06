@@ -1,0 +1,11 @@
+1. replace flat roof
+2. insulate flat roof
+3. insulate gable roof
+4. replace glazing
+5. insulate floor above basement
+6. connect to heatgrid
+7. place air-water heatpump
+8. place air-water heatpump with cooling
+9. place heatpumpboiler
+10. place pv-panels on roof
+11. place plug and play pv-panels

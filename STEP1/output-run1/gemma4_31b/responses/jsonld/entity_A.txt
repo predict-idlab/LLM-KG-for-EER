@@ -1,0 +1,57 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path. 
+
+The building is a **1951 semi-detached house** with an EPC score of **388 (D Label)**. The owner's primary motivation is to **improve the EPC**, and there is a confirmed reason to change the emission system. Since geothermal options are not viable for this site, the focus shifts to a "Fabric First" approach followed by high-efficiency electrical heating and renewable energy.
+
+### 🏗️ Renovation Strategy: The "Efficiency First" Path
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow a logical sequence: **Reduce heat loss $\rightarrow$ Optimize emission $\rightarrow$ Upgrade generation $\rightarrow$ Produce energy.**
+
+---
+
+#### Phase 1: Thermal Envelope (Preventing Heat Loss)
+*Priority: High | Goal: Lower the energy demand of the building.*
+
+1.  **Roof Insulation (`InsulateGableRoof`):** 
+    *   **Target:** `RoofMain` (currently Not Insulated).
+    *   **Reasoning:** Heat rises. Insulating the gable roof is one of the most cost-effective ways to lower an EPC score. It has a "low" nuisance level and a relatively low unit price (60/m²).
+2.  **Floor Insulation (`InsulateFloorAboveBasement`):** 
+    *   **Target:** `FloorAboveBasement` (currently Not Insulated).
+    *   **Reasoning:** This prevents cold air from the basement from entering the living spaces. It is a low-nuisance, low-cost intervention (30/m²).
+3.  **Wall Insulation (`InsulateWallExterior`):** 
+    *   **Target:** `Wall_Front`, `Wall_Rear`, and `Wall_Right` (all Full Brick, Not Insulated).
+    *   **Reasoning:** While this has a "high" nuisance level and higher cost (200/m²), the building is a 1951 brick structure. To move from a D label toward an A or B label, external wall insulation is essential to eliminate thermal bridging.
+
+#### Phase 2: Emission & Generation (Efficient Heating)
+*Priority: Medium | Goal: Replace outdated systems with low-carbon alternatives.*
+
+4.  **Emission System Upgrade (`PlaceLowTemperatureEmission`):** 
+    *   **Target:** `EmissionSystem`.
+    *   **Reasoning:** Before installing a heat pump, the system must be capable of operating at lower temperatures to maximize the COP (Coefficient of Performance). This is a prerequisite for the next step.
+5.  **Heat Pump Installation (`PlaceAirWaterHeatpump`):** 
+    *   **Target:** `Generation_System`.
+    *   **Reasoning:** Since geothermal drilling is not possible at this site, an Air-Water heat pump is the most efficient alternative to a traditional boiler. This significantly reduces the primary energy consumption of the home.
+
+#### Phase 3: Air Quality & Renewables (Final Optimization)
+*Priority: Long-term Performance | Goal: Reach Net-Zero goals.*
+
+6.  **Ventilation Upgrade (`ReplaceVentilationSystem`):** 
+    *   **Target:** `VentilationSystem` (currently System A).
+    *   **Reasoning:** After sealing the building with insulation, air quality can drop. Upgrading to a System C or D ensures a healthy indoor climate while maintaining thermal efficiency.
+7.  **Solar Energy (`PlacePVPanelsOnRoof`):** 
+    *   **Target:** `RoofMain`.
+    *   **Reasoning:** The building has confirmed potential for PV. Installing panels on the roof provides the electricity needed to run the new Air-Water heat pump, drastically reducing operational costs and further improving the EPC score.
+
+---
+
+### 📈 Summary of Benefits & Sequence
+
+| Sequence | Intervention | Nuisance | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Roof & Floor Insulation | Low | High | Very High |
+| **2** | External Wall Insulation | High | Very High | High (Long-term) |
+| **3** | Low-Temp Emission | Moderate | Medium | High (Enabler) |
+| **4** | Air-Water Heat Pump | Moderate | High | High |
+| **5** | Ventilation Upgrade | Moderate | Low/Med | Medium |
+| **6** | PV Panels | Low | High | Very High |
+
+**Final Result:** By following this sequence, the owner avoids "over-sizing" the heat pump (because the house is already insulated) and ensures that the energy produced by the PV panels is used by a highly efficient system, maximizing the return on investment.

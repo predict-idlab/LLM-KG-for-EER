@@ -1,0 +1,45 @@
+Based on the provided building data and the RENO ontology, the property is a detached building constructed in 1862 with a current EPC score of 165 (B Label). Despite the relatively good EPC score, the building possesses several critical thermal weaknesses—most notably single glazing and uninsulated cavity walls.
+
+To maximize energy efficiency and improve the EPC rating in a cost-effective manner, I propose a **"Fabric First"** renovation path. This strategy ensures the building's thermal envelope is optimized to reduce overall energy demand before upgrading the heating systems, which prevents the installation of oversized and inefficient equipment.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (High Priority)
+The goal is to eliminate the primary sources of heat loss. Since the building is an older structure with specific wall types, we focus on the most non-invasive and cost-effective insulation methods.
+
+1.  **Insulate Wall Cavity:** All four external walls are identified as `CavityWall` and are currently `NotInsulated`. Injecting insulation into these cavities is the most cost-effective way to significantly reduce heat loss through the walls without altering the building's exterior.
+2.  **Insulate Floor Above Basement:** The building has a `FloorAboveCrawlSpace` (FloorAboveBasement). Insulating this area is essential to prevent cold air infiltration from the crawl space and to eliminate "cold feet" for the residents.
+*Note: The roof is already `WellInsulated`, so no roof interventions are required.*
+
+#### Phase 2: Glazing Upgrade (Medium Priority)
+The current windows are a major source of thermal inefficiency.
+
+3.  **Replace Glazing:** Both the bedrooms and living area currently have `SingleGlazing`. Because the `WoodenWindowFrame` is in a `GoodState`, it is far more cost-effective to **replace the glazing** (upgrading to double or triple glazing) rather than replacing the entire window units.
+
+#### Phase 3: Air Quality and Ventilation (Medium Priority)
+Once the walls, floor, and windows are sealed, the natural air exchange rate will drop, increasing the risk of moisture buildup.
+
+4.  **Replace Ventilation System:** The current `VentilationSystemA` (natural ventilation) should be upgraded to a more modern system (such as System C or D). This ensures a healthy indoor climate and prevents the loss of heat through uncontrolled drafts.
+
+#### Phase 4: Sustainable Heating Transition (Strategic Priority)
+With a tightened envelope, the building's heat demand is now low enough to support high-efficiency, low-temperature heating.
+
+5.  **Place Emission System on Low Temperature:** Before installing a new generator, the existing radiators/emitters should be upgraded to low-temperature versions. This is crucial to maximize the efficiency (COP) of a heat pump.
+6.  **Place Air-Water Heat Pump:** Since there is no heat grid and the site has no potential for geothermal energy, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the existing boiler.
+
+#### Phase 5: Renewable Energy Generation (Long-term Priority)
+To offset the electricity consumption of the new heat pump and ventilation system.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable energy needed to power the new electrical systems, further driving down the EPC score.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Wall Cavity $\rightarrow$ Floor Insulation** | Lowest cost per kWh saved; reduces the total energy load. |
+| **2** | **Glazing Replacement** | Eliminates the most significant remaining thermal bridges. |
+| **3** | **Ventilation Upgrade** | Maintains air quality in a now-sealed thermal envelope. |
+| **4** | **Low-Temp Emission $\rightarrow$ Heat Pump** | Switches to sustainable heating tailored to the new, lower heat demand. |
+| **5** | **PV Panels** | Offsets operational electricity costs with renewable energy. |

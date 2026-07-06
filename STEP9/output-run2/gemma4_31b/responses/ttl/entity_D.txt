@@ -1,0 +1,50 @@
+### Analysis of Current Building State
+The building is a relatively modern **semi-detached house** (constructed in 2017) with an already high level of energy efficiency, indicated by an **EPC score of 87.0 (Label A)**. 
+
+**Current Strengths:**
+*   **Walls & Floors:** The front, left, and rear walls, as well as the floor above the basement, are already **well-insulated**.
+*   **Technical Systems:** The home is equipped with a **Heat Pump** (Generation System) and a **Ventilation System D** (the most advanced mechanical supply and exhaust system), which are highly energy-efficient.
+*   **Roofing:** The flat roof extension is well-insulated and in good state.
+*   **Windows:** The wooden frames are in good state, and the home already uses double glazing.
+*   **Renewables:** PV panels are already installed.
+
+**Identified Weaknesses:**
+*   **Main Roof:** The gable roof is only **moderately insulated**. This is the primary thermal bridge in an otherwise high-performing envelope.
+*   **Glazing:** While double glazing is good, it is the only remaining area where thermal performance can be marginally increased to push the EPC score even lower.
+
+---
+
+### Proposed Renovation Path
+
+Given the owner's motivation to **improve the EPC** and the building's already high baseline, the focus is on "fine-tuning" the thermal envelope. Because the house is modern, large-scale structural renovations are not cost-effective. Instead, we focus on targeted upgrades.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+The most significant gain in energy efficiency can be achieved by addressing the only moderately insulated element.
+*   **Action:** **Insulate Gable Roof**
+*   **Reasoning:** Heat rises, and the gable roof is currently the weakest point in the insulation strategy. Upgrading this to "well-insulated" will reduce heat loss and lower the energy demand on the heat pump.
+*   **Cost-Effectiveness:** High. Roof insulation typically offers one of the best returns on investment (ROI) for energy reduction.
+
+#### Step 2: Glazing Upgrade (Medium Priority)
+With the walls and roof optimized, the windows become the primary source of heat transfer.
+*   **Action:** **Replace Glazing** (Upgrade from Double to Triple Glazing)
+*   **Reasoning:** Since the window frames are in **good state**, there is no need to replace the entire window unit. Replacing only the glass panes with triple glazing will further reduce the U-value of the bedrooms and living area.
+*   **Cost-Effectiveness:** Moderate. While expensive, it is significantly cheaper than replacing the entire window assembly and is necessary for those aiming for an A+ label.
+
+#### Step 3: Final Efficiency Audit
+*   **Action:** **Verify EPC Score**
+*   **Reasoning:** Given the building's starting point (87.0), these two steps are likely sufficient to move the building into the **A+ category** (score < 100, but targeting the lower end of the spectrum).
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `ex:RoofMain` | High | Very High |
+| **2** | **Replace Glazing** | `ex:WindowGlazingBedrooms`, `ex:WindowGlazingLivingArea` | Medium | Moderate |
+
+**Excluded Actions & Justification:**
+*   **Geothermal/Heat Grid:** Not applicable due to site constraints (`potentialForVerticalGeothermalDrilling false`, `presenceOfHeatGrid false`).
+*   **Wall Insulation:** Not needed; walls are already well-insulated.
+*   **Ventilation/Heating Replace:** Not recommended; the building already possesses a Heat Pump and Ventilation System D, which are current industry standards for efficiency.
+*   **PV Panels:** No further potential for PV installation reported.

@@ -1,0 +1,47 @@
+Based on the provided RENO ontology and the specific building data, the building is currently in a **"D label"** energy category (Score: 388 kWh/m²year). The owner's primary motivation is to **improve the EPC (Energy Performance Certificate)**.
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the "fabric-first" approach: **insulate the shell first to reduce demand, then upgrade the technical systems, and finally add renewable energy.**
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Reducing Heat Loss)
+*Priority: High | Goal: Lower the energy demand of the building.*
+
+1.  **Insulate Gable Roof** (`ordering: 28`)
+    *   **Reasoning:** The main roof is currently not insulated. Heat rises, and this is the most effective way to lower the EPC score quickly.
+    *   **Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+2.  **Insulate Exterior Walls** (`ordering: 40`)
+    *   **Reasoning:** All three main walls (Front, Rear, Right) are full brick and not insulated. Since there is no historical protection, exterior insulation is the most efficient choice to eliminate thermal bridges.
+    *   **Alternative:** If the budget is tight, a contractor should first check if `InsulateWallCavity` (`ordering: 34`) is possible, though "full brick" typically suggests solid construction.
+3.  **Insulate Floor Above Basement** (`ordering: 49`)
+    *   **Reasoning:** The floor is currently not insulated. This prevents "cold feet" and reduces heat loss to the basement.
+
+#### Phase 2: Technical Systems (Improving Efficiency)
+*Priority: Medium | Goal: Replace outdated systems with high-efficiency alternatives.*
+
+4.  **Replace Ventilation System** (`ordering: 52`)
+    *   **Reasoning:** The building currently uses Ventilation System A (natural supply/exhaust), which is the least efficient. Upgrading to a System C or D will improve air quality and thermal retention.
+5.  **Install Air-Water Heat Pump** (`ordering: 67`)
+    *   **Reasoning:** The building has a reason to change its emission system, and the current boiler is outdated. Since **Heat Grids** and **Geothermal** options are unavailable/impossible for this site, an Air-Water Heat Pump is the most cost-effective high-efficiency alternative.
+    *   **Synergy:** This step is placed *after* insulation to ensure the heat pump can be downsized to a smaller, cheaper unit because the house will now retain more heat.
+
+#### Phase 3: Renewable Energy (Offsetting Consumption)
+*Priority: Low | Goal: Generate clean energy to lower operational costs.*
+
+6.  **Install PV Panels on Roof** (`ordering: 85`)
+    *   **Reasoning:** The building has confirmed potential for PV. This is the final step to move the EPC label from D toward A/B by offsetting the electricity used by the new heat pump and ventilation system.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Intervention | Nuisance | Cost Basis | Impact on EPC |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Roof Insulation | Low | Per $m^2$ | Very High |
+| **2** | Wall Insulation | High | Per $m^2$ | High |
+| **3** | Floor Insulation | Low | Per $m^2$ | Medium |
+| **4** | Ventilation Upgrade | Moderate | Fixed + $m^2$ | Medium |
+| **5** | Air-Water Heat Pump | Moderate | Fixed + $m^2$ | High |
+| **6** | PV Panels | Low | Per $m^2$ | Very High |
+
+**Final Expert Advice:** By following this sequence, you avoid the common mistake of installing an oversized heating system in a "leaky" house. Insulating the gable roof and walls first will significantly reduce the required capacity (and cost) of the Air-Water Heat Pump.

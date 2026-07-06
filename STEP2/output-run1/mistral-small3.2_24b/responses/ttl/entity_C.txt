@@ -1,0 +1,69 @@
+Based on the provided RENO ontology and entity information, here's a cost-effective and energy-efficient renovation plan for the attached building:
+
+### 1. Roof Improvements
+**Priority:** High
+**Actions:**
+- Insulate gable roof (ex:RoofMain)
+  - Cost: €60/m²
+  - Consider vapour barrier installation
+- Insulate flat roof (ex:RoofExtension)
+  - Cost: €50/m²
+  - Opt for inverted roof structure
+
+### 2. Window Upgrades
+**Priority:** Medium
+**Actions:**
+- Replace windows (ex:WindowsBedrooms, ex:WindowsLivingArea)
+  - Cost: €800/m² (including frames and double glazing)
+  - Ensure proper ventilation grilles are maintained
+
+### 3. Wall Insulation
+**Priority:** Medium
+**Actions:**
+- Insulate wall cavity (ex:Wall_Front, ex:Wall_Rear)
+  - Cost: €22/m²
+  - Pre-inspection recommended
+
+### 4. Floor Insulation
+**Priority:** Low
+**Actions:**
+- Insulate floor above basement (ex:FloorAboveBasement)
+  - Cost: €30/m²
+
+### 5. Heating System
+**Priority:** Medium
+**Actions:**
+- Place emission system on low temperature
+  - Cost: €100/m²
+  - Consider compatibility with existing electric convector and floor heating
+
+### 6. Ventilation System
+**Priority:** Medium
+**Actions:**
+- Replace ventilation system (ex:VentilationSystem)
+  - Cost: €3500 fixed + €17/m²
+  - Ensure proper ductwork for supply and return
+
+### 7. Solar Power
+**Priority:** Low
+**Actions:**
+- Place PV-panels on roof (ex:PVPanels)
+  - Cost: €275/m²
+  - Check roof orientation and potential shading
+
+### Implementation Sequence:
+1. Roof insulation (gable and flat)
+2. Wall cavity insulation
+3. Window replacement
+4. Floor insulation
+5. Heating system upgrade
+6. Ventilation system replacement
+7. Solar panel installation
+
+### Additional Recommendations:
+- Since the building is attached, coordinate with neighbors for exterior wall insulation if needed
+- Consider the owner's motivation to improve EPC when prioritizing actions
+- No asbestos removal needed as all elements are currently in good state
+- The absence of heat grid and geothermal potential limits some options
+
+This plan focuses on maximizing energy efficiency through strategic insulation and system upgrades, while considering the building's specific characteristics and the owner's goals. The sequence ensures that each renovation step builds on the benefits of previous ones.

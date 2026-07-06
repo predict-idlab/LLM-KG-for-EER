@@ -1,0 +1,80 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **1. Insulation Upgrades**
+- **Insulate Gable Roof**
+  - **Action**: Replace the current moderately insulated gable roof with a better-insulated option.
+  - **Reason**: Improves thermal performance and reduces heat loss.
+  - **Cost**: 60 €/m²
+  - **Ordering**: 28
+
+- **Insulate Attic Floor**
+  - **Action**: Add insulation to the attic floor.
+  - **Reason**: Prevents heat loss through the attic.
+  - **Cost**: 60 €/m²
+  - **Ordering**: 31
+
+- **Insulate Wall Cavity**
+  - **Action**: Inject insulation into the wall cavities.
+  - **Reason**: Enhances wall insulation without significant structural changes.
+  - **Cost**: 22 €/m²
+  - **Ordering**: 34
+
+#### **2. Roof and Ventilation System**
+- **Replace Gable Roof (if necessary)**
+  - **Action**: Consider replacing the gable roof if it's in poor condition.
+  - **Reason**: Ensures long-term durability and better insulation.
+  - **Cost**: 260 €/m²
+  - **Ordering**: 13
+
+- **Replace Ventilation System**
+  - **Action**: Upgrade to a more efficient ventilation system.
+  - **Reason**: Improves air quality and energy efficiency.
+  - **Cost**: 3500 € (fixed) + 17 €/m²
+  - **Ordering**: 52
+
+#### **3. Window Upgrades**
+- **Replace Glazing**
+  - **Action**: Upgrade to triple glazing if possible.
+  - **Reason**: Reduces heat loss through windows.
+  - **Cost**: 200 €/m²
+  - **Ordering**: 43
+
+- **Replace Windows**
+  - **Action**: Replace old windows with new, energy-efficient ones.
+  - **Reason**: Improves insulation and reduces drafts.
+  - **Cost**: 800 €/m²
+  - **Ordering**: 46
+
+#### **4. Emission System**
+- **Place Emission System on Low Temperature**
+  - **Action**: Install a low-temperature emission system.
+  - **Reason**: More efficient heating with lower energy consumption.
+  - **Cost**: 100 €/m²
+  - **Ordering**: 70
+
+#### **5. Renewable Energy**
+- **Place PV-Panels on Roof**
+  - **Action**: Install photovoltaic panels on the roof.
+  - **Reason**: Generates renewable energy, reducing reliance on the grid.
+  - **Cost**: 275 €/m²
+  - **Ordering**: 85
+
+#### **6. Additional Recommendations**
+- **Place Sunshade**
+  - **Action**: Install sunshades to reduce solar heat gain.
+  - **Reason**: Improves comfort and reduces cooling needs.
+  - **Cost**: 750 € (fixed)
+  - **Ordering**: 79
+
+### **Optimal Sequence**
+1. **Insulate Gable Roof**
+2. **Insulate Attic Floor**
+3. **Insulate Wall Cavity**
+4. **Replace Glazing**
+5. **Replace Windows**
+6. **Place Emission System on Low Temperature**
+7. **Replace Ventilation System**
+8. **Place PV-Panels on Roof**
+9. **Place Sunshade**
+
+This plan ensures that the most impactful and cost-effective upgrades are prioritized, maximizing energy efficiency while minimizing costs.

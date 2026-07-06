@@ -1,0 +1,41 @@
+Given that your home was built in 2017 and is already equipped with a heat pump, Ventilation D, and photovoltaic panels, you are starting from a very high baseline of efficiency. In the Belgian context, a house of this vintage is already performing well.
+
+The "moderate" insulation of the pitched roof is the primary weakness in an otherwise highly efficient envelope. To maximize your EPC score and operational performance while remaining cost-effective, you should avoid "over-renovating" areas that are already "well insulated."
+
+Here is your tailored, sequenced renovation plan.
+
+### Phase 1: The "Quick Win" (Thermal Envelope)
+**Target: Pitched Roof Insulation**
+Since the walls, floor, and flat roof are already well-insulated, the pitched roof is your primary source of heat loss (thermal bridging).
+*   **Action:** Upgrade the pitched roof insulation to "well insulated" status. 
+*   **Method:** Depending on the current structure, consider **blown-in cellulose or mineral wool insulation** if there is a cavity, or adding a layer of high-performance rigid insulation boards if the attic is used for storage.
+*   **Why:** This is the most cost-effective way to lower your energy demand and directly improve your EPC score. Heat rises; optimizing the highest point of the house yields the highest ROI.
+
+### Phase 2: Thermal Comfort & Passive Control
+**Target: Solar Gain and Summer Overheating**
+With a 2017 build and double glazing, your main challenge is likely not winter heat loss, but summer overheating (which leads to energy-expensive cooling).
+*   **Action:** Install **external solar shading** (e.g., adjustable exterior blinds or awnings) on south and west-facing windows.
+*   **Method:** Focus on high-quality external screens that prevent the sun from hitting the glass.
+*   **Why:** It is significantly more cost-effective to block heat *before* it enters the house than to use the heat pump to cool the interior. This improves the "summer comfort" metric of your energy performance.
+
+### Phase 3: System Optimization (The "Digital" Layer)
+**Target: Operational Efficiency**
+Since your hardware (Heat Pump, Vent D, PV Panels) is already top-tier, the remaining gains are found in **how these systems interact**.
+*   **Action:** Implement a **Smart Energy Management System (HEMS)**.
+*   **Method:** 
+    *   Install a smart controller to synchronize your heat pump with your PV production (shifting the heating load to peak sunshine hours).
+    *   Ensure the Ventilation D system is tuned for the current occupancy and seasonal needs.
+*   **Why:** You already produce your own energy; the goal now is to maximize "self-consumption" rather than feeding energy back into the grid at lower rates.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Focus Area | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Immediate** | **Pitched Roof** | Upgrade to "Well Insulated" | High (EPC $\downarrow$) | Very High |
+| **2. Short-term** | **Windows/Facade** | External Solar Shading | Medium (Comfort $\uparrow$) | High |
+| **3. Medium-term**| **Energy Flow** | Smart HEMS Integration | Medium (Bills $\downarrow$) | High |
+
+### Final Expert Advice:
+**Do not replace the windows.** Since they were renewed in 2020 and are in good condition, the marginal gain of moving from double to triple glazing would be negligible compared to the high cost of replacement. Your energy "leaks" are currently in the roof and the timing of your energy usage, not the glass.

@@ -1,0 +1,50 @@
+### Renovation Plan for Detached House in Ghent, Belgium
+
+**Objective:**
+Improve the energy performance certificate (EPC) score of a detached house built in 1862 with a net floor area of 136 m², currently scoring 165. The goal is to maximize energy efficiency in a cost-effective manner.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+1. **Insulate Cavity Walls:**
+   - All four exterior walls (front, rear, left, and right) are cavity walls and currently uninsulated. Insulating these walls will significantly reduce heat loss.
+   - **Method:** Use cavity wall insulation, which is cost-effective and suitable for existing cavity walls.
+
+2. **Insulate Floor Above Crawl Space:**
+   - The floor above the crawl space is unprotected and likely uninsulated. Adding insulation here will prevent heat loss to the crawl space.
+   - **Method:** Install rigid insulation boards or use blown-in insulation, depending on accessibility.
+
+**Phase 2: Window Performance Enhancement**
+3. **Replace Single Glazing with Double or Triple Glazing:**
+   - All windows currently have single glazing, leading to significant heat loss.
+   - **Method:** Replace with double or triple glazing, maintaining the existing wooden frames if they are in good condition.
+
+**Phase 3: Heating System Upgrade**
+4. **Install Air-Water Heat Pump:**
+   - Replace the existing boiler with an air-water heat pump, which is more efficient and sustainable.
+   - **Rationale:** The heat pump will work best with a well-insulated building envelope, ensuring lower heat demand.
+
+5. **Upgrade Heat Emission Systems:**
+   - Replace old radiators, underfloor heating, air heating systems, and electric convectors with low-temperature emission systems.
+   - **Rationale:** Low-temperature systems maximize the efficiency of the heat pump.
+
+**Phase 4: Ventilation System Upgrade**
+6. **Replace Natural Ventilation with Mechanical Ventilation:**
+   - Upgrade from the basic natural ventilation system to a mechanical ventilation system (e.g., System C or D).
+   - **Rationale:** Ensures proper air exchange and maintains indoor air quality in a now-sealed envelope.
+
+**Phase 5: Sustainable Energy Generation**
+7. **Install Photovoltaic (PV) Panels:**
+   - Utilize the potential for PV panel installation to generate renewable electricity.
+   - **Rationale:** Offsets the electricity consumption of the heat pump and ventilation system, further improving the EPC score.
+
+**Summary of Optimal Sequence:**
+1. **Insulate Cavity Walls**
+2. **Insulate Floor Above Crawl Space**
+3. **Replace Glazing**
+4. **Install Air-Water Heat Pump**
+5. **Upgrade Heat Emission Systems**
+6. **Replace Ventilation System**
+7. **Install PV Panels**
+
+This sequence ensures that the building's thermal envelope is optimized before upgrading the heating and ventilation systems, leading to a more efficient and cost-effective renovation.

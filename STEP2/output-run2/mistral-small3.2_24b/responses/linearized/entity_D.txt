@@ -1,0 +1,61 @@
+Based on the provided RENO ontology and the specific building information, here's a cost-effective and energy-efficient renovation plan tailored to the semi-detached building:
+
+### Priority Renovations (High Impact, Low Nuisance):
+1. **Replace Glazing (WindowsBedrooms & WindowsLivingArea)**
+   - Current: Double glazing (WindowGlazingLivingArea & WindowGlazingBedrooms)
+   - Action: Upgrade to triple glazing to improve insulation
+   - Reason: Existing windows are wooden frames in good condition (WoodenWindowFrame, GoodState), so only glazing replacement is needed
+   - Cost-Effectiveness: High (improves insulation without major structural changes)
+
+2. **Insulate Wall Cavity (Wall_Front, Wall_Left, Wall_Rear)**
+   - Current: Well insulated but historical protection constraints (Wall_Front, Wall_Left, Wall_Rear)
+   - Action: Insulate cavity walls where possible (consider historical protection)
+   - Reason: Walls are full brick walls (FullBrickWall) suitable for cavity insulation
+   - Cost-Effectiveness: Moderate (depends on historical protection constraints)
+
+3. **Insulate Attic Floor**
+   - Current: Well insulated (FloorAboveBasement)
+   - Action: Verify and potentially upgrade insulation
+   - Reason: Attic floor is above basement (FloorAboveBasement) and well insulated, but could be optimized further
+
+4. **Insulate Gable Roof (RoofMain)**
+   - Current: Moderately insulated (RoofMain)
+   - Action: Upgrade insulation to well insulated
+   - Reason: Gable roof is in good state (GoodState) but could benefit from better insulation
+   - Cost-Effectiveness: High (long-term energy savings)
+
+### Secondary Renovations (Moderate Impact):
+5. **Place Roof Underlayment (RoofMain & RoofExtension)**
+   - Action: Ensure complete air- and watertightness
+   - Reason: Critical for roof longevity and energy efficiency
+
+6. **Insulate Flat Roof (RoofExtension)**
+   - Current: Well insulated (RoofExtension)
+   - Action: Verify and maintain insulation quality
+   - Reason: Flat roof is in good state (GoodState) but should be regularly checked
+
+### Future Considerations (Low Priority):
+7. **Replace Ventilation System (VentilationSystemD)**
+   - Current: Ventilation system D (VentilationSystem)
+   - Action: Consider upgrading to a more efficient system in the future
+   - Reason: Current system is functional but could be optimized for better energy efficiency
+
+8. **Connect to HeatGrid (if available in the future)**
+   - Current: No heat grid available (presenceOfHeatGrid)
+   - Action: Monitor heat grid development in the area
+   - Reason: Potential future opportunity for more efficient heating
+
+### Special Notes:
+- **Historical Protection**: Some walls have historical protection (Wall_Front, Wall_Left, Wall_Rear), so any renovations must respect these constraints.
+- **Existing Systems**: The building has a heat pump (Generation_System) and solar panels (PVPanels), which are already energy-efficient systems.
+- **EPC Goal**: The owner's motivation is to improve the EPC (ToImproveEPC), so prioritize renovations that have the highest impact on energy efficiency.
+
+### Optimal Sequence:
+1. **Replace Glazing** (immediate impact on insulation)
+2. **Insulate Wall Cavity** (high impact on overall building insulation)
+3. **Insulate Gable Roof** (improve roof insulation)
+4. **Place Roof Underlayment** (ensure roof longevity)
+5. **Insulate Flat Roof** (maintain existing insulation quality)
+6. **Replace Ventilation System** (future consideration)
+
+This plan focuses on maximizing energy efficiency while respecting the building's existing constraints and the owner's motivations. The sequence is designed to prioritize high-impact, cost-effective renovations first.

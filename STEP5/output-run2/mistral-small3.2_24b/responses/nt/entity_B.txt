@@ -1,0 +1,63 @@
+### Renovation Plan for Attached Building (Example 3)
+
+**Property Overview:**
+- **Type:** Attached building (1832)
+- **EPC Score:** 262 (C Label)
+- **Owner's Motivation:** To improve EPC rating
+- **Current Systems:**
+  - **Generation System:** Boiler
+  - **Emission System:** Radiator (Air Heating)
+  - **Ventilation System:** Type A (Natural)
+  - **Windows:** Double-glazed, wooden frames in good state
+  - **Walls:** Two full brick walls (`Wall_Front` and `Wall_Rear`) not insulated
+  - **Roof:** Flat section (`RoofExtension`) not insulated
+  - **Floor:** Floor above basement (`FloorAboveBasement`) not insulated
+
+**Renovation Strategy:**
+The plan follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence, prioritizing cost-effective, energy-efficient upgrades that will maximize the EPC score improvement.
+
+**Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Walls on Exterior:**
+   - **Action:** Insulate `Wall_Front` and `Wall_Rear` on the exterior.
+   - **Rationale:** Full brick walls are not cavity walls, so exterior insulation is the most effective method. This addresses the largest source of heat loss while maintaining cost-effectiveness.
+   - **Ontology Reference:** `<https://w3id.org/reno#InsulateWallExterior>`
+
+2. **Insulate Floor Above Basement:**
+   - **Action:** Add insulation to `FloorAboveBasement`.
+   - **Rationale:** Eliminates cold drafts from the basement and improves overall comfort.
+   - **Ontology Reference:** `<https://w3id.org/reno#InsulateFloorAboveBasement>`
+
+3. **Insulate Flat Roof:**
+   - **Action:** Insulate `RoofExtension`.
+   - **Rationale:** Flat roofs lose heat rapidly; insulation here is a priority for lowering energy consumption.
+   - **Ontology Reference:** `<https://w3id.org/reno#InsulateFlatRoof>`
+
+**Phase 2: Ventilation Upgrade (Medium Priority)**
+4. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System Type A (natural) to Type C or D.
+   - **Rationale:** A sealed envelope reduces uncontrolled air leakage, making a more efficient ventilation system necessary to maintain indoor air quality.
+   - **Ontology Reference:** `<https://w3id.org/reno#ReplaceVentilationSystem>`
+
+**Phase 3: Heating System Transition (Medium Priority)**
+5. **Place Air-Water Heat Pump:**
+   - **Action:** Install an Air-Water Heat Pump.
+   - **Rationale:** With geothermal potential "false" and no heat grid, this is the most sustainable and efficient replacement for the existing boiler.
+   - **Ontology Reference:** `<https://w3id.org/reno#PlaceAirWaterHeatpump>`
+
+**Phase 4: Emission System Upgrade (Medium Priority)**
+6. **Place Emission System on Low Temperature:**
+   - **Action:** Transition the existing radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the Coefficient of Performance (COP) of the new heat pump by ensuring the system operates at optimal temperatures.
+   - **Ontology Reference:** `<https://w3id.org/reno#PlaceLowTemperatureEmission>`
+
+**Phase 5: Renewable Energy Generation (Long-term Priority)**
+7. **Place PV-Panels on Roof:**
+   - **Action:** Install solar panels on the roof.
+   - **Rationale:** The building has confirmed potential for PV. Solar panels will offset the electricity consumption of the heat pump and ventilation system, further improving the EPC score.
+   - **Ontology Reference:** `<https://w3id.org/reno#PlacePVPanelsOnRoof>`
+
+**Summary of Optimal Sequence:**
+**Insulate Walls $\rightarrow$ Insulate Floor $\rightarrow$ Insulate Roof $\rightarrow$ Replace Ventilation System $\rightarrow$ Air-Water Heat Pump $\rightarrow$ Low-Temperature Emission Upgrade $\rightarrow$ PV Panels**
+
+**Expected Outcome:**
+The proposed plan will significantly improve the EPC score (from C to B or higher) while ensuring cost-effectiveness and energy efficiency. The "fabric-first" approach ensures that the building's thermal envelope is optimized before transitioning to high-efficiency heating systems, preventing the need for oversized and more expensive HVAC equipment.

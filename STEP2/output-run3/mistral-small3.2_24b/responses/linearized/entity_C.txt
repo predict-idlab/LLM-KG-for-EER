@@ -1,0 +1,58 @@
+### **Renovation Plan for Energy Efficiency & Cost-Effectiveness**
+
+#### **1. Assess Current State & Prioritize Upgrades**
+- **Current EPC Score**: 50 (poor energy performance)
+- **Primary Goal**: Improve EPC to meet higher standards (e.g., B-label)
+- **Key Weaknesses**:
+  - **Roof Insulation**: Moderately insulated (RoofMain)
+  - **Windows**: Double-glazed (acceptable but can be upgraded)
+  - **Ventilation System**: Type D (inefficient)
+  - **Heating System**: Electric convector + floor heating (energy-intensive)
+
+#### **2. Proposed Upgrades (Ordered by Priority)**
+| **Upgrade**                     | **Justification**                                                                 | **Cost (Estimate)**       |
+|----------------------------------|-------------------------------------------------------------------------------------|---------------------------|
+| **Insulate Flat Roof**           | RoofExtension is well-insulated, but RoofMain is only moderately insulated.          | €50/m²                    |
+| **Insulate Gable Roof**          | RoofMain is moderately insulated; upgrading to well-insulated improves thermal comfort. | €60/m²                    |
+| **Replace Glazing**              | Upgrade double-glazed windows to triple-glazed for better insulation.                | €200/m²                   |
+| **Replace Ventilation System**    | VentilationSystemD is inefficient; upgrade to a more efficient system (e.g., A or B). | €17/m² + €3,500 fixed cost |
+| **Install Air-Water Heatpump**   | Replace electric convector with a heatpump for space heating and water heating.      | €8,000                    |
+| **Install PV Panels on Roof**    | Generate renewable energy to offset consumption.                                     | €275/m²                   |
+| **Place Sunshade**               | Reduce solar heat gain in summer.                                                     | €750 fixed cost            |
+
+#### **3. Step-by-Step Implementation**
+1. **Insulate Roofs (Flat & Gable)**
+   - Hire a contractor to insulate RoofMain and RoofExtension.
+   - Ensure proper vapour barrier installation to prevent condensation.
+   - **Estimated Time**: 2–3 weeks.
+
+2. **Upgrade Windows (Replace Glazing)**
+   - Replace double-glazed windows with triple-glazed ones for improved insulation.
+   - **Estimated Time**: 1–2 weeks per room.
+
+3. **Replace Ventilation System**
+   - Upgrade to a more efficient system (e.g., VentilationSystemA or B).
+   - **Estimated Time**: 1–2 weeks.
+
+4. **Install Air-Water Heatpump**
+   - Replace electric convector with a heatpump for space heating and water heating.
+   - **Estimated Time**: 1–2 weeks.
+
+5. **Install PV Panels on Roof**
+   - Assess roof orientation and install solar panels for renewable energy generation.
+   - **Estimated Time**: 1 week.
+
+6. **Place Sunshade**
+   - Install external blinds or shades to reduce solar heat gain in summer.
+   - **Estimated Time**: 1 day.
+
+#### **4. Expected Benefits**
+- **Energy Efficiency**: Improved insulation, efficient heating, and renewable energy generation.
+- **Cost Savings**: Reduced electricity bills and lower operational costs.
+- **Comfort**: Better thermal comfort and indoor air quality.
+
+#### **5. Long-Term Maintenance**
+- Regularly maintain insulation, windows, and the ventilation system.
+- Monitor PV panel performance and clean them periodically.
+
+This plan ensures a **cost-effective**, **energy-efficient** renovation while improving the EPC score significantly.

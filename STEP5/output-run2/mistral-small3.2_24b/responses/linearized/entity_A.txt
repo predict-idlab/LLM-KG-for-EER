@@ -1,0 +1,53 @@
+### Renovation Plan for Semi-Detached Building (EPC Score: 388)
+
+**Goal:** Improve the EPC label from D to at least C by following a "fabric-first" approach, ensuring long-term energy efficiency and cost savings.
+
+**Optimal Renovation Sequence:**
+1. **Insulate Gable Roof**
+   - *Reasoning:* The gable roof (`RoofMain`) has poor insulation (`NotInsulated`), contributing to significant heat loss. Insulating it will reduce energy demand significantly.
+   - *Action:* Install high-performance insulation on the gable roof, ensuring proper vapor barrier installation to prevent condensation.
+
+2. **Insulate Wall Cavity**
+   - *Reasoning:* The external walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`) are not insulated. Insulating the wall cavity is cost-effective and improves thermal comfort.
+   - *Action:* Inject insulation into the cavity walls, ensuring compatibility with existing cladding and compliance with local regulations.
+
+3. **Replace Glazing**
+   - *Reasoning:* The windows have double glazing (`DoubleGlazing`), but the frames (`WoodenWindowFrame`) are in good condition. Upgrading glazing to triple glazing or low-emissivity (Low-E) glass will further reduce heat loss.
+   - *Action:* Replace existing glazing with high-performance glass (e.g., Low-E triple glazing) while retaining the existing frames to minimize costs.
+
+4. **Insulate Flat Roof**
+   - *Reasoning:* The flat roof (`RoofExtension`) is moderately insulated (`ModeratelyInsulated`). Improving insulation will reduce heat loss through the roof.
+   - *Action:* Add insulation on top of the existing roof structure, ensuring proper waterproofing and vapor barrier installation.
+
+5. **Insulate Floor Above Basement**
+   - *Reasoning:* The floor above the basement (`FloorAboveBasement`) is not insulated (`NotInsulated`), leading to cold drafts and heat loss.
+   - *Action:* Install high-performance insulation (e.g., rigid foam or mineral wool) on the floor above the basement, ensuring proper sealing of edges and joints.
+
+6. **Place Air-Water Heat Pump**
+   - *Reasoning:* The current heating system (`EmissionSystem`) is a radiator with air heating (`AirHeating`). Transitioning to an air-water heat pump will improve energy efficiency and reduce reliance on fossil fuels.
+   - *Action:* Install an air-water heat pump with a low-temperature emission system to maximize efficiency. Ensure proper sizing based on the reduced heat demand after insulation.
+
+7. **Place PV-Panels on Roof**
+   - *Reasoning:* The building has potential for PV (`hasPotentialForPV: true`), and the roof (`RoofMain`) is suitable for panel installation. PV panels will offset the electricity consumption of the heat pump and ventilation system.
+   - *Action:* Install PV panels on the gable roof, ensuring optimal orientation (south-facing) and tilt angle (30°–50°) for maximum yield. Check local regulations and grid connection requirements.
+
+8. **Replace Ventilation System**
+   - *Reasoning:* The current ventilation system (`VentilationSystemA`) is natural and inefficient. Upgrading to a mechanical ventilation system with heat recovery (MVHR) will improve indoor air quality and energy efficiency.
+   - *Action:* Install a balanced mechanical ventilation system with heat recovery (e.g., System C or D) to minimize heat loss through ventilation.
+
+**Summary of Optimal Sequence:**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| **2** | **Insulate Wall Cavity** | Improves thermal comfort and reduces energy demand. |
+| **3** | **Replace Glazing** | Enhances window performance and reduces heat loss. |
+| **4** | **Insulate Flat Roof** | Reduces heat loss through the flat roof. |
+| **5** | **Insulate Floor Above Basement** | Eliminates cold drafts and heat loss to the basement. |
+| **6** | **Place Air-Water Heat Pump** | Improves heating efficiency and reduces reliance on fossil fuels. |
+| **7** | **Place PV-Panels on Roof** | Offsets electricity consumption of the heat pump and ventilation system. |
+| **8** | **Replace Ventilation System** | Improves indoor air quality and energy efficiency. |
+
+**Additional Notes:**
+- Ensure all insulation work is performed by certified professionals to comply with local building codes and regulations.
+- Consider adding smart thermostats and zoning controls to optimize the performance of the new heating system.
+- Monitor energy consumption post-renovation to identify further optimization opportunities.

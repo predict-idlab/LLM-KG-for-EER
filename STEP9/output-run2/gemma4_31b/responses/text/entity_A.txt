@@ -1,0 +1,54 @@
+To improve an EPC score of 388 in a 1951 Belgian semi-detached house, you must follow the **"Envelope First"** principle. Installing a high-efficiency heating system in an uninsulated house is a waste of capital; you would be "heating the neighborhood."
+
+Because this is a semi-detached house in Ghent, you likely face constraints regarding the shared wall and facade aesthetics. Here is the most cost-effective, logically sequenced renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Heat Loss)
+*Goal: Reduce the total energy demand so you can install a smaller, cheaper heating system.*
+
+1.  **Roof Insulation (Highest ROI):** Since the pitched roof is uninsulated, this is your priority. Heat rises; a roof can account for 30% of heat loss. 
+    *   *Action:* Install mineral wool or bio-based insulation between rafters or on top of the ceiling.
+2.  **Floor Insulation (Basement Ceiling):** Since you have a basement, insulating the ceiling (the floor of the ground level) is highly cost-effective.
+    *   *Action:* Install rigid insulation boards (e.g., PIR) or spray foam on the basement ceiling. This eliminates "cold feet" and prevents heat from escaping into the basement.
+3.  **Wall Insulation:** Solid brick walls are thermal bridges. 
+    *   *Action:* Since it is a semi-detached house, **Internal Wall Insulation (IWI)** is often more practical than external (which requires neighbor agreement and changes the facade). Focus on the north-facing walls first.
+    *   *Note:* Avoid insulating the shared party wall; focus on the exterior-facing brick.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Prevent mold and moisture buildup caused by the new airtight insulation.*
+
+4.  **Ventilation Upgrade:** Natural ventilation is insufficient once you insulate walls and roofs.
+    *   *Action:* Install a **Mechanical Ventilation system with Heat Recovery (MVHR/Type D)** or at least a **balanced system (Type C)**. This ensures fresh air without losing the heat you just worked so hard to keep inside.
+
+### Phase 3: Heating System Overhaul
+*Goal: Transition from fossil fuels to a low-carbon, high-efficiency system.*
+
+5.  **Emitter Replacement:** Your current radiators and air heating are inefficient and likely designed for high-temperature boilers.
+    *   *Action:* Replace old radiators with **Low-Temperature Radiators** or expand the **Underfloor Heating**. Low-temperature emitters are essential for the efficiency of a heat pump.
+6.  **Heat Source Transition:** Now that the house is insulated, your energy load is significantly lower.
+    *   *Action:* Install an **Air-to-Water Heat Pump**. Because you cannot do geothermal, this is the gold standard for Ghent's climate. It will drastically lower your EPC score and operational costs.
+
+### Phase 4: Renewable Energy
+*Goal: Offset the electricity consumption of the heat pump.*
+
+7.  **Photovoltaic (PV) Panels:** 
+    *   *Action:* Install PV panels on the pitched roof. Since you are moving from a gas boiler to an electric heat pump, your electricity demand will increase. PV panels will make the system nearly carbon-neutral and protect you from energy price volatility.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Step | Action | Why this order? | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof & Floor Insulation** | Lowest cost, highest immediate energy saving. | High $\uparrow$ |
+| **2** | **Wall Insulation** | Reduces dependence on heating system. | High $\uparrow$ |
+| **3** | **Ventilation** | Necessary to protect the structure after insulation. | Medium $\uparrow$ |
+| **4** | **Low-Temp Emitters** | Prepares the house for a heat pump. | Medium $\uparrow$ |
+| **5** | **Air-to-Water Heat Pump** | Replaces old boiler; utilizes the insulated shell. | Very High $\uparrow$ |
+| **6** | **PV Panels** | Powers the heat pump with free energy. | Very High $\uparrow$ |
+
+### Expert Tips for the Ghent/Flanders Region:
+*   **Premiums:** Check the **"Mijn VerbouwPremie"** (My Renovation Premium) from the Flemish government. Many of these steps (insulation, heat pumps, ventilation) are heavily subsidized.
+*   **Windows:** Since your double glazing and wooden frames are in good condition, **do not replace them yet**. The ROI is too low compared to the roof and walls. Simply ensure the seals are tight.
+*   **EPC Target:** By following this sequence, you can realistically move your EPC score from **388** to **below 150 (B or A label)**.

@@ -1,0 +1,4 @@
+1. replace boiler with air-water heat pump
+2. replace heat emission systems with low-temperature systems
+3. integrate heat recovery ventilation
+4. expand pv panel capacity

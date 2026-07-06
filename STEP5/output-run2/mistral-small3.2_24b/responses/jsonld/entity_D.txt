@@ -1,0 +1,31 @@
+### Renovation Plan:
+The property is a semi-detached building constructed in 2017 with an excellent EPC score of 87 (A label). The owner's motivation is to improve the EPC further.
+
+Since the building is already well-insulated, the focus should be on optimizing the existing systems and generating renewable energy. The recommended renovation path is as follows:
+
+1. **Place PV-Panels on Roof:**
+   - **Rationale:** The building has confirmed potential for PV panels. Installing them will generate renewable electricity, further reducing the carbon footprint and lowering the EPC score.
+   - **Action:** Contact a certified installer to assess the roof's suitability for PV panels and obtain multiple quotes for installation.
+
+2. **Replace Ventilation System:**
+   - **Rationale:** The current ventilation system (VentilationSystemD) may not be the most efficient. Upgrading to a more advanced system can improve indoor air quality and reduce energy consumption.
+   - **Action:** Consult an HVAC specialist to evaluate the current system and recommend a suitable replacement.
+
+3. **Insulate Gable Roof:**
+   - **Rationale:** Although the roof is moderately insulated, improving insulation can further enhance energy efficiency.
+   - **Action:** Engage a contractor to assess the roof's insulation and recommend appropriate materials and installation methods.
+
+4. **Insulate Wall on Exterior:**
+   - **Rationale:** The exterior walls are well-insulated, but enhancing insulation can lead to further energy savings.
+   - **Action:** Hire a professional to evaluate the current insulation and suggest improvements.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **PV Panels on Roof** | Generates renewable energy, further reducing the EPC score. |
+| **2** | **Replace Ventilation System** | Enhances indoor air quality and reduces energy consumption. |
+| **3** | **Insulate Gable Roof** | Improves energy efficiency of the roof. |
+| **4** | **Insulate Wall on Exterior** | Enhances overall building insulation. |
+
+This plan ensures that the building maintains its excellent energy performance while further optimizing its efficiency and sustainability.

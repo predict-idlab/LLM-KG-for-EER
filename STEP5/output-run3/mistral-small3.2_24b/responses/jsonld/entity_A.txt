@@ -1,0 +1,47 @@
+### Renovation Plan:
+
+#### **1. Insulate Roof Extension**
+   - **Reasoning:** The roof extension is currently moderately insulated. Insulating it will significantly reduce heat loss, especially since heat rises and escapes through the roof.
+   - **Suggestion:** `Insulate Flat Roof`
+   - **Priority:** High
+
+#### **2. Insulate Exterior Walls**
+   - **Reasoning:** The walls (Front, Rear, and Right) are full brick and not insulated. Insulating the exterior is cost-effective and reduces thermal bridges.
+   - **Suggestion:** `Insulate Wall On Exterior`
+   - **Priority:** High
+
+#### **3. Insulate Floor Above Basement**
+   - **Reasoning:** The floor above the basement is not insulated, leading to cold drafts and heat loss.
+   - **Suggestion:** `Insulate Floor Above Basement`
+   - **Priority:** Medium
+
+#### **4. Replace Glazing**
+   - **Reasoning:** The windows already have double glazing, which is a good start. However, replacing the glazing with triple glazing or low-emissivity (Low-E) coatings would further improve thermal performance.
+   - **Suggestion:** `Replace Glazing`
+   - **Priority:** Medium
+
+#### **5. Install Air-Water Heat Pump**
+   - **Reasoning:** With the building envelope now sealed and insulated, the heat demand is lower, allowing for a transition to a more efficient heating system. An air-water heat pump is suitable given the lack of geothermal potential and a heat grid.
+   - **Suggestion:** `Place Air-Water Heatpump`
+   - **Priority:** High
+
+#### **6. Transition to Low-Temperature Emission System**
+   - **Reasoning:** Before installing the heat pump, transition the existing radiators to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new heat pump.
+   - **Suggestion:** `Place Emission System on Low Temperature`
+   - **Priority:** Medium
+
+#### **7. Install PV Panels**
+   - **Reasoning:** The building has potential for PV. Installing solar panels will provide renewable electricity to power the heat pump and other electrical needs, further improving the EPC score.
+   - **Suggestion:** `Place PV-panels on roof`
+   - **Priority:** Long-term
+
+### Summary of Sequence and Rationale:
+1. **Insulate Roof Extension** → Reduce heat loss through the roof.
+2. **Insulate Exterior Walls** → Minimize thermal bridges and heat loss.
+3. **Insulate Floor Above Basement** → Prevent cold drafts and heat loss.
+4. **Replace Glazing** → Improve window thermal performance.
+5. **Install Air-Water Heat Pump** → Transition to a more efficient heating system.
+6. **Transition to Low-Temperature Emission System** → Optimize heat pump performance.
+7. **Install PV Panels** → Generate renewable electricity.
+
+This plan follows the "Insulate → Ventilate → Generate" sequence, ensuring that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.

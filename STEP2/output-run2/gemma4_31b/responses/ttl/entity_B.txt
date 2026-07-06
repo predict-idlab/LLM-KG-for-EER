@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, the building is a historic attached house (1832) with an EPC score of 262.0 (C Label). To maximize energy efficiency and cost-effectiveness, the renovation should follow the "fabric first" approach: sealing the envelope before upgrading the technical systems.
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Building Envelope (Thermal Insulation)**
+*Priority: High | Goal: Reduce heat loss to minimize the required capacity of future heating systems.*
+1.  **Insulate Flat Roof (`RoofExtension`):** This element is currently **Not Insulated**. Since it is in good state, insulating it is a high-impact, cost-effective win.
+2.  **Insulate Floor Above Basement:** This is currently **Not Insulated**. This prevents heat loss to the basement and improves ground-floor comfort.
+3.  **Insulate External Walls (`Wall_Front` & `Wall_Rear`):** Both are full brick and **Not Insulated**. 
+    *   *Recommendation:* **Insulate wall on exterior**. While more expensive than interior insulation, it provides superior thermal performance and eliminates thermal bridges, which is critical for a building of this age.
+
+#### **Phase 2: Ventilation & Air Quality**
+*Priority: Medium | Goal: Prevent moisture buildup from new insulation and improve heat recovery.*
+4.  **Replace Ventilation System:** The building currently uses **Ventilation System A** (natural supply/exhaust), which is the least efficient. Upgrading to a mechanical system (e.g., System D) will allow for heat recovery, preventing the energy gains from Phase 1 from being lost through uncontrolled air leakage.
+
+#### **Phase 3: Heating System Transition**
+*Priority: Medium | Goal: Transition from fossil fuels to high-efficiency electric heating.*
+5.  **Upgrade Emission System:** The building currently uses radiators. Because the owner has a reason to change the emission system, the first step is to **place emission system on low temperature**. This is a prerequisite for the efficient operation of a heat pump.
+6.  **Replace Generation System:** With the envelope sealed and low-temperature emitters in place, replace the existing boiler.
+    *   *Selection:* **Place air-water heatpump**. (Note: Geothermal is not possible as the site lacks potential for horizontal/vertical drilling, and no heat grid is available).
+
+#### **Phase 4: Renewable Energy Production**
+*Priority: Long-term Operational Cost Reduction | Goal: Offset electricity consumption of the heat pump.*
+7.  **Install Solar Energy:** The building has potential for PV. **Place PV-panels on roof** to generate clean electricity, significantly reducing the operational costs of the new air-water heat pump.
+
+---
+
+### **Summary of Sequence & Logic**
+
+| Sequence | Action | Logic |
+| :--- | :--- | :--- |
+| **1. Envelope** | Flat Roof $\rightarrow$ Floor $\rightarrow$ Walls | Stop the heat from leaving first. |
+| **2. Air** | Replace Ventilation System | Ensure air quality and heat recovery. |
+| **3. Emission** | Low-Temperature Emitters | Prepare the house for a Heat Pump. |
+| **4. Generation**| Air-Water Heat Pump | Switch to a sustainable, efficient heat source. |
+| **5. Production**| PV Panels | Power the new systems with renewable energy. |
+
+**Key Constraints Handled:**
+*   **Geothermal/Heat Grid:** Excluded due to `potentialFor...` being `false` and `presenceOfHeatGrid` being `false`.
+*   **Windows:** No action proposed as they are already double-glazed and frames are in "Good State" (Value 8).
+*   **Cost-Effectiveness:** By insulating first, we can install a smaller, cheaper heat pump than would be required for an uninsulated 1832 building.

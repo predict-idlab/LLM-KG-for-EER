@@ -1,0 +1,59 @@
+Based on the provided RENO ontology and the specific building information, here's a cost-effective and energy-efficient renovation plan for the semi-detached building:
+
+### Priority 1: Window Glazing Replacement
+**Action:**
+- Replace the glazing of the living area and bedrooms windows (currently double glazing) with triple glazing.
+- Ensure the window frames (wooden) are in good condition to support the new glazing.
+
+**Rationale:**
+- The building has a relatively good energy performance (EPC score of 87), but improving the window glazing will further enhance thermal comfort and reduce heat loss.
+- Triple glazing offers better insulation than double glazing, which is crucial for maintaining a comfortable indoor temperature.
+
+**Cost Consideration:**
+- The cost is €200 per m² (PER-M2), but the exact cost will depend on the size of the windows.
+
+### Priority 2: Roof Insulation
+**Action:**
+- Insulate the attic floor (currently moderately insulated) to improve thermal performance.
+
+**Rationale:**
+- The attic floor insulation is currently moderately insulated, upgrading it to well-insulated will reduce heat loss through the roof.
+- This will also help in maintaining a consistent temperature throughout the house.
+
+**Cost Consideration:**
+- The cost is €60 per m² (PER-M2), but the exact cost will depend on the size of the attic floor.
+
+### Priority 3: Ventilation System Upgrade
+**Action:**
+- Upgrade the current ventilation system to a more efficient one (e.g., Ventilation System D).
+
+**Rationale:**
+- A more efficient ventilation system will ensure better air quality and reduce energy consumption.
+- It will also help in maintaining a comfortable indoor environment.
+
+**Cost Consideration:**
+- The cost is €17 per m² (PER-M2), but the exact cost will depend on the size of the ventilation system.
+
+### Priority 4: Solar Panel Installation
+**Action:**
+- Install PV panels on the roof to generate renewable energy.
+
+**Rationale:**
+- The building has potential for PV installation, which will reduce the dependency on grid electricity and lower energy bills.
+- It will also contribute to a more sustainable living environment.
+
+**Cost Consideration:**
+- The cost is €275 per m² (PER-M2), but the exact cost will depend on the size of the PV panels.
+
+### Additional Considerations:
+- **Historical Protection:** The front wall has historical protection, so any renovation work should be carried out carefully to preserve its historical value.
+- **Asbestos:** There is no mention of asbestos in the building, so no additional precautions are needed for asbestos removal.
+- **Heating System:** The current heating system is a heat pump, which is energy-efficient. However, if there are any issues with the emission system, consider replacing it with a low-temperature emission system.
+
+### Summary:
+1. Replace window glazing with triple glazing.
+2. Insulate the attic floor.
+3. Upgrade the ventilation system.
+4. Install PV panels on the roof.
+
+This plan focuses on maximizing energy efficiency while considering cost-effectiveness and practicality. The proposed actions are based on the building's current state and the RENO ontology guidelines.

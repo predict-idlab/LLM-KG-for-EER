@@ -1,0 +1,25 @@
+To optimize the energy efficiency and comfort of terms for this property, a phased approach is recommended. Based on the provided data, the building has several critical vulnerabilities—specifically the lack of insulation in the walls and the use of outdated glazing—that should be addressed before upgrading the heating system to avoid "oversizing" the rest of the equipment.
+
+### Phase 1: The Thermal Envelope (Priority: High)
+Before investing in a new heating system, the "shell" of the building must be sealed to prevent heat loss.
+
+*   **Wall Insulation:** The data indicates the walls are currently uninsulated. **Cavity wall insulation** should be the first priority. This is typically the most cost-effective way to reduce heat loss and is essential before installing a heat pump, as heat pumps require a well-insulated building to operate efficiently.
+*   **Window Upgrades:** The property currently uses **single glazing**. These should be replaced with **double or triple glazing**. Single-pane windows are a major source of drafts and thermal bridging, significantly lowering the overall U-value of the home.
+*   **Draft Proofing:** Ensure all doors and window frames are sealed to prevent uncontrolled air infiltration.
+
+### Phase 2: Heating and Ventilation (Priority: Medium)
+Once the building is thermally efficient, the heating system can be modernized.
+
+*   **Heat Pump Installation:** With the improved insulation from Phase 1, the property is now a candidate for an **Air Source Heat Pump (ASHP)**. This will replace the traditional boiler, significantly reducing carbon emissions and long-term energy costs.
+*   **Emitter Optimization:** If moving to a heat pump, ensure that radiators are upgraded to **larger, low-temperature radiators** or underfloor heating, as heat pumps operate at lower flow temperatures than traditional boilers.
+*   **Ventilation:** Because the house will be much more airtight after Phase 1, a **Mechanical Ventilation with Heat Recovery (MVHR)** system is recommended to maintain indoor air quality and recover heat from exhausted air.
+
+### Phase 3: Renewable Energy (Priority: Long-term)
+To further reduce the carbon footprint and energy bills, integrate on-site generation.
+
+*   **Solar PV Panels:** Install **Solar Photovoltaic (PV) panels** on the roof. This allows the property to generate terms of its own electricity, which can then be used to power the heat pump installed in Phase 2, creating a highly sustainable, low-carbon energy loop.
+
+### Summary of Sequence
+**Cavity Wall Insulation $\rightarrow$ Double/Triple Glazing $\rightarrow$ Heat Pump $\rightarrow$ Solar PV.**
+
+By following this order, you ensure that the heating system is sized correctly for terms of the actual heat demand of the building, rather than the current (inefficient) or theoretical demand.

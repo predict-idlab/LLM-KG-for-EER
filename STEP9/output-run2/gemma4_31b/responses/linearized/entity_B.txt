@@ -1,0 +1,35 @@
+To maximize energy efficiency and cost-effectiveness for this 1832 attached building, I propose a **"Fabric First"** renovation path. By improving the thermal envelope before upgrading the heating systems, we reduce the overall heat demand, allowing for the installation of a smaller, more efficient, and less expensive heating system.
+
+### Step-by-Step Renovation Plan
+
+#### Phase 1: Thermal Envelope (Reducing Heat Loss)
+The building has significant heat loss through uninsulated elements. Addressing these first is the most cost-effective way to improve the EPC score.
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. Insulating the flat roof is a high-priority, low-nuisance intervention.
+2.  **Insulate Walls (Exterior):** Both `Wall_Front` and `Wall_Rear` are `FullBrickWall` and not insulated. Since they are solid brick, cavity insulation is not an option. Exterior insulation is recommended for maximum efficiency and to protect the building structure.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. This will significantly reduce cold drafts from the basement into the living areas.
+
+*Note: Windows are already double-glazed and in good state, so replacing them is not a priority at this stage compared to the walls and roof.*
+
+#### Phase 2: Heating and Ventilation (Optimizing Consumption)
+Once the building is airtight and insulated, the energy required to heat it drops. We can now transition from the old boiler to a modern, sustainable system.
+4.  **Place Emission System on Low Temperature:** The owner has a reason to change the emission system. Upgrading radiators to low-temperature emitters is a prerequisite for the efficient operation of a heat pump.
+5.  **Place Air-Water Heat Pump:** Since there is no heat grid available and no potential for geothermal drilling (vertical or horizontal), an air-water heat pump is the most viable and efficient alternative to the current boiler.
+6.  **Place Heat Pump Boiler:** To further reduce energy consumption, replace the domestic water heating with a dedicated heat pump boiler.
+7.  **Replace Ventilation System:** With a more insulated envelope, moisture control becomes critical. Upgrading from `VentilationSystemA` (natural) to a more advanced system (like System D) will prevent condensation and recover heat from exhaust air.
+
+#### Phase 3: Energy Generation (Moving Toward Net Zero)
+The final step is to offset the remaining energy consumption with renewable energy.
+8.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels now ensures that the electricity required to run the new heat pump is generated sustainably on-site.
+
+### Summary of the Optimal Sequence
+**Insulation $\rightarrow$ Emission System $\rightarrow$ Generation System $\rightarrow$ Renewables**
+
+| Sequence | Action | Target Element | Justification |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate flat roof` | RoofExtension | High heat loss area; easy win. |
+| **2** | `insulate wall on exterior` | Wall_Front / Wall_Rear | Largest surface area for heat loss. |
+| **3** | `insulate floor above basement` | FloorAboveBasement | Prevents ground-level heat loss. |
+| **4** | `place emission system on low temperature` | EmissionSystem | Necessary for heat pump efficiency. |
+| **5** | `place air-water heatpump` | Generation_System | Efficient, sustainable heating. |
+| **6** | `replace ventilation system` | VentilationSystem | Maintains air quality in insulated home. |
+| **7** | `place PV-panels on roof` | RoofMain | Offsets electricity costs of the heat pump. |

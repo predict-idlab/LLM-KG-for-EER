@@ -1,0 +1,81 @@
+### Renovation Plan for Attached Building
+
+**Objective:** Improve the energy efficiency of the building while maintaining cost-effectiveness and practicality.
+
+**Current State:**
+- **Building Type:** AttachedBuilding
+- **Construction Year:** 2023
+- **Net Floor Area:** 159.0 m²
+- **Energy Performance Certificate (EPC):** 50 kWh/m²year
+- **Potential for PV Panels:** False
+- **Potential for Vertical Geothermal Drilling:** False
+- **Potential for Horizontal Geothermal Captation:** False
+- **Presence of Heat Grid:** False
+- **Historical Protection:** None
+
+**Key Areas for Improvement:**
+1. **Insulation:**
+   - **Wall_Rear:** WellInsulated
+   - **Wall_Front:** FullBrickWall, WellInsulated
+   - **RoofMain:** ModeratelyInsulated
+   - **RoofExtension:** WellInsulated
+   - **FloorAboveBasement:** WellInsulated
+
+2. **Windows and Glazing:**
+   - **WindowsLivingArea:** DoubleGlazing
+   - **WindowsBedrooms:** DoubleGlazing
+
+3. **Heating and Emission Systems:**
+   - **EmissionSystem:** ElectricConvector
+   - **Generation_System:** Boiler
+
+4. **Ventilation System:** VentilationSystemD
+
+**Recommended Renovation Steps:**
+
+1. **Insulation Upgrades:**
+   - **RoofMain:** Insulate the gable roof to improve from ModeratelyInsulated to WellInsulated.
+     - **Action:** Install additional insulation layers on the inside of the roof.
+     - **Considerations:** Ensure proper ventilation to prevent condensation. Check for asbestos if necessary.
+   - **RoofExtension:** Already WellInsulated, no immediate action required.
+   - **FloorAboveBasement:** Already WellInsulated, no immediate action required.
+
+2. **Window and Glazing Upgrades:**
+   - **WindowsLivingArea and WindowsBedrooms:** Replace existing double glazing with triple glazing to further improve thermal performance.
+     - **Action:** Install triple glazing windows.
+     - **Considerations:** Ensure that the window frames (WoodenWindowFrame) are in good condition and can support the new glazing.
+
+3. **Heating and Emission Systems:**
+   - **EmissionSystem:** Replace the electric convector with a more energy-efficient heating system, such as a heat pump or underfloor heating.
+     - **Action:** Install a heat pump or underfloor heating system.
+     - **Considerations:** Assess the feasibility of integrating with the existing boiler system.
+
+4. **Ventilation System:**
+   - **VentilationSystemD:** Ensure the ventilation system is properly maintained and optimized for energy efficiency.
+     - **Action:** Regular maintenance and optimization of the ventilation system.
+     - **Considerations:** Check for any necessary upgrades or repairs.
+
+5. **PV Panels:**
+   - **Potential for PV Panels:** False. However, consider future-proofing the building for potential PV panel installation.
+     - **Action:** Assess the feasibility of installing PV panels in the future.
+     - **Considerations:** Evaluate the roof orientation, shading, and local regulations.
+
+**Prioritization and Sequence:**
+1. **Immediate Actions:**
+   - Insulate RoofMain.
+   - Replace glazing with triple glazing.
+
+2. **Medium-Term Actions:**
+   - Upgrade the emission system.
+   - Optimize the ventilation system.
+
+3. **Long-Term Actions:**
+   - Assess the feasibility of PV panel installation.
+
+**Cost-Effectiveness and Energy Efficiency:**
+- **Immediate Actions:** High impact on energy efficiency and relatively cost-effective.
+- **Medium-Term Actions:** Moderate impact and cost, but significant long-term savings.
+- **Long-Term Actions:** Future-proofing for potential energy savings.
+
+**Conclusion:**
+By following this renovation plan, the building's energy efficiency will be significantly improved, leading to lower energy consumption and operational costs. The proposed actions are practical, cost-effective, and grounded in the provided ontology.

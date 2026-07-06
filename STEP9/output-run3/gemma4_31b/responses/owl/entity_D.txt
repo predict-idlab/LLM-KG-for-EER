@@ -1,0 +1,49 @@
+Based on the provided ontology and the current state of the building, here is the analysis and proposed renovation path.
+
+### 1. Current State Analysis
+The building is a modern semi-detached house (constructed in 2017) with an exceptionally high energy performance (EPC score of 87). Most critical energy-efficiency components are already in place:
+*   **Heating & Ventilation:** Already equipped with a Heat Pump and a Ventilation System D (the most efficient type).
+*   **Insulation:** Walls and the floor above the basement are "Well Insulated." The flat roof extension is also "Well Insulated."
+*   **Windows:** Currently feature double glazing with wooden frames in good condition.
+*   **Renewables:** PV panels are already installed.
+
+Given that the owner's motivation is to **further improve the EPC**, the focus must shift from "major overhauls" to "fine-tuning" the few remaining areas of thermal loss.
+
+---
+
+### 2. Proposed Renovation Path
+Since the building is already highly efficient, the goal is to target the only elements not yet rated as "Well Insulated" or "Optimal."
+
+#### **Step 1: Insulate Gable Roof**
+*   **Reasoning:** While the flat roof is well-insulated, the main gable roof is only **"Moderately Insulated."** This is the most significant remaining thermal gap in the building envelope.
+*   **Action:** Execute `insulate gable roof`.
+*   **Cost-Effectiveness:** This is a high-impact upgrade with a "low" nuisance level and a relatively low unit price (60/m²).
+*   **Ontology Ordering:** 28 (Priority: High).
+
+#### **Step 2: Upgrade Window Glazing**
+*   **Reasoning:** The building currently has double glazing. To further lower the EPC score, upgrading to triple glazing is the next logical step.
+*   **Action:** Execute `replace glazing`.
+*   **Cost-Effectiveness:** Because the existing wooden window frames are in "Good State" (value 8), it is significantly more cost-effective to replace only the glazing rather than replacing the entire window unit.
+*   **Ontology Ordering:** 43 (Priority: Medium).
+
+#### **Step 3: Install Sunshades**
+*   **Reasoning:** With high levels of insulation and double/triple glazing, the building may be prone to overheating in summer (the "greenhouse effect"). 
+*   **Action:** Execute `place sunshade`.
+*   **Cost-Effectiveness:** This is a low-cost fixed price (750) intervention that reduces the need for active cooling, thereby lowering long-term operational energy consumption.
+*   **Ontology Ordering:** 79 (Priority: Low/Final Touch).
+
+---
+
+### 3. Summary of the Optimal Sequence
+
+| Sequence | Action | Target Element | Rationale | Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | Move from "Moderately" to "Well" insulated. | Low |
+| **2** | **Replace Glazing** | Windows | Upgrade Double $\rightarrow$ Triple glazing for max efficiency. | High |
+| **3** | **Place Sunshade** | Windows/Facades | Prevent summer overheating and reduce cooling load. | Low |
+
+### 4. Excluded Suggestions
+*   **Wall/Floor Insulation:** Excluded, as these are already "Well Insulated."
+*   **HVAC Upgrades:** Excluded; the building already has a Heat Pump and Ventilation System D. Geothermal options were checked but the site has no potential for horizontal or vertical drilling.
+*   **PV Panels:** Excluded; panels are already present and the building is marked as having no further potential for PV.
+*   **Roof Replacement:** Excluded; the roof is in "Good State," making insulation a more cost-effective choice than full replacement.

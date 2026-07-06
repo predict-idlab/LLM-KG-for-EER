@@ -1,0 +1,11 @@
+1. replace flat roof roofextension
+2. insulate gable roof roofmain
+3. insulate wall cavity wall_front wall_rear
+4. replace glazing windowsbedrooms windowslivingarea
+5. replace windows
+6. insulate floor above basement floorabovebasement
+7. place air-water heat pump generationsystem
+8. place low temperature emission system emissionsystem
+9. place pv panels roofmain roofextension
+10. replace ventilation system ventilationsystem
+11. place sun shade windowsbedrooms windowslivingarea

@@ -1,0 +1,42 @@
+Based on the provided RENO ontology, building-related information, and suggestion list, I have analyzed the data and created a cost-effective and energy-efficient renovation plan for the semi-detached building. The plan focuses on practical upgrades that reduce energy consumption and improve long-term operational performance. The optimal sequence of renovations maximizes the benefits of each step.
+
+### Renovation Plan:
+
+1. **Insulate Gable Roof**
+   - **Reasoning**: The gable roof (http://example.com/RoofMain) is currently moderately insulated. Insulating it will significantly improve thermal comfort and energy efficiency.
+   - **Action**: Apply insulation to the gable roof. Pay attention to condensation problems by installing a vapour barrier on the warm side of the insulation.
+   - **Cost**: 60 EUR/m² (based on the ontology's "InsulateGableRoof" suggestion).
+
+2. **Replace Glazing in Bedrooms and Living Area**
+   - **Reasoning**: The windows in the bedrooms (http://example.com/WindowsBedrooms) and living area (http://example.com/WindowsLivingArea) have double glazing. Replacing the glazing with triple glazing will further improve insulation and reduce heat loss.
+   - **Action**: Replace the existing double glazing with triple glazing. Ensure the window frames are in good condition and have the right thickness for the new glazing.
+   - **Cost**: 200 EUR/m² (based on the ontology's "ReplaceGlazing" suggestion).
+
+3. **Insulate Floor Above Basement**
+   - **Reasoning**: The floor above the basement (http://example.com/FloorAboveBasement) is well insulated, but improving it further will enhance overall energy efficiency.
+   - **Action**: Add additional insulation to the floor above the basement.
+   - **Cost**: 30 EUR/m² (based on the ontology's "InsulateFloorAboveBasement" suggestion).
+
+4. **Place PV-Panels on Roof**
+   - **Reasoning**: The building has potential for PV-panels (http://example.com/PVPanels), and installing them on the roof will generate renewable energy, reducing reliance on the existing heat pump (http://example.com/Generation_System).
+   - **Action**: Install PV-panels on the roof. Ensure the roof is free of asbestos and properly oriented for maximum sunlight capture.
+   - **Cost**: 275 EUR/m² (based on the ontology's "PlacePVPanelsOnRoof" suggestion).
+
+5. **Replace Ventilation System**
+   - **Reasoning**: The current ventilation system (http://example.com/VentilationSystem) is a type D system. Replacing it with a more efficient system will improve air quality and energy efficiency.
+   - **Action**: Replace the existing ventilation system with a more efficient model. Ensure proper installation and integration with the new glazing.
+   - **Cost**: 3500 EUR fixed cost + 17 EUR/m² (based on the ontology's "ReplaceVentilationSystem" suggestion).
+
+### Summary of Costs:
+- Insulate Gable Roof: 60 EUR/m²
+- Replace Glazing: 200 EUR/m²
+- Insulate Floor Above Basement: 30 EUR/m²
+- Place PV-Panels on Roof: 275 EUR/m²
+- Replace Ventilation System: 3500 EUR fixed cost + 17 EUR/m²
+
+### Notes:
+- **Sequencing**: The plan follows a logical sequence to maximize benefits. For example, insulating the roof before installing PV-panels ensures the roof is in optimal condition for panel installation.
+- **Permits**: Check local regulations for any necessary permits, especially for roof and ventilation system replacements.
+- **Professional Assistance**: For complex tasks like replacing the ventilation system, consider hiring a professional to ensure proper execution.
+
+This plan is designed to be cost-effective while significantly improving the building's energy efficiency and long-term operational performance.

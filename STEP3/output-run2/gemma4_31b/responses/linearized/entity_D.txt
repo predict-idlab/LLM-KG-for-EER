@@ -1,0 +1,46 @@
+### Analysis of Building State
+The building is a relatively modern **semi-detached house (constructed in 2017)** with an already high energy performance level (**EPC score of 87**, which falls into the **A/A+ category**). 
+
+**Current Strengths:**
+*   **Walls & Floors:** All exterior walls (Front, Rear, Left) and the floor above the basement are already **WellInsulated**.
+*   **Technical Installations:** The home is equipped with a **Heat Pump** and a **Ventilation System D** (the most advanced mechanical supply/exhaust system), which are already highly energy-efficient.
+*   **Windows:** Existing windows feature **Double Glazing** and wooden frames in good condition.
+*   **Roof Extension:** The flat roof extension is already **WellInsulated**.
+
+**Identified Weakness:**
+*   **Main Roof:** The `RoofMain` (Gable Roof) is currently only **ModeratelyInsulated**. This is the primary area where thermal leakage can be reduced to further improve the EPC and operational efficiency.
+
+**Constraints:**
+*   The site has **no potential for PV panels**, no access to a **heat grid**, and no potential for **geothermal drilling** (horizontal or vertical).
+
+---
+
+### Proposed Renovation Plan
+
+Given the owner's motivation to **Improve EPC** and the building's already high efficiency, the focus must be on "surgical" upgrades rather than systemic overhauls. To maximize cost-effectiveness, we avoid replacing systems that are already modern and efficient.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+The most significant gain in energy efficiency will come from addressing the only moderately insulated element.
+*   **Action:** **Insulate gable roof**.
+*   **Reasoning:** Moving the main roof from "Moderately Insulated" to "Well Insulated" will reduce heat loss through the top of the building, which is the most common path for thermal escape.
+*   **Practical Note:** Ensure the installation of a proper vapour barrier on the warm side of the insulation to prevent condensation, as highlighted in the RENO ontology.
+
+#### Step 2: Glazing Upgrade (Optional/Long-term)
+Since the building is already highly efficient, the return on investment (ROI) for windows is lower than for the roof, but it is the only remaining envelope improvement.
+*   **Action:** **Replace glazing** (upgrade from Double to Triple Glazing).
+*   **Reasoning:** Triple glazing provides superior thermal and acoustic properties. 
+*   **Cost-Effectiveness Note:** Because the current frames are in "Good State," only the glazing needs to be replaced rather than the entire window unit, significantly reducing costs.
+
+#### Step 3: Maintenance of High-Efficiency Systems (Operational)
+*   **Action:** No replacement of the Heat Pump or Ventilation System D is recommended.
+*   **Reasoning:** These are already top-tier installations. The most cost-effective path is to ensure they are maintained for long-term operational performance rather than replacing them.
+
+### Summary of Sequence & Impact
+
+| Sequence | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High (reduces heat loss) | Very High (targeted fix) |
+| **2** | **Replace Glazing** | Moderate (incremental gain) | Moderate (marginal ROI) |
+| **3** | **System Maintenance** | Low (stability) | High (prevents depreciation) |
+
+**Final Outcome:** By focusing exclusively on the gable roof insulation, the building can push its EPC score even lower, potentially reaching the peak of the A+ category, while avoiding unnecessary expenditures on already efficient systems.

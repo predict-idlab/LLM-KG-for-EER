@@ -1,0 +1,49 @@
+To move a house from an EPC of 262 to a high-performance rating, you must follow the **"Envelope First"** principle. Installing a new heating system in a leaky house is a waste of money because you will over-specify the equipment and lose the heat immediately through the walls and roof.
+
+Given the age (1832) and location (Ghent), here is the most cost-effective and energy-efficient renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*The goal is to stop heat loss so that you can install a smaller, cheaper, and more efficient heating system later.*
+
+1.  **Flat Roof Insulation (High Priority):** Since the flat-roof extension is currently uninsulated, this is your biggest "leak." Insulating this is relatively inexpensive and provides immediate results.
+2.  **Basement Ceiling Insulation (Low-Hanging Fruit):** Insulating the floor above the basement is one of the most cost-effective upgrades. It prevents "cold feet" and stops heat from sinking into the ground.
+3.  **Wall Insulation (Strategic Investment):** Solid brick walls from 1832 have zero thermal resistance. 
+    *   **Recommendation:** Since the house is not protected, **External Wall Insulation (EWI)** is the gold standard. It protects the brickwork and removes thermal bridges. 
+    *   **Alternative:** If EWI is too expensive or aesthetically undesirable for the front facade, use **Internal Wall Insulation (IWI)**, but be cautious of moisture/condensation risks common in old Belgian homes.
+4.  **Roof Top-up:** Since the pitched roof is "moderately" insulated, check if adding a layer of blown-in cellulose or mineral wool in the attic can bring it up to modern standards (R-value $\approx$ 5.0).
+
+### Phase 2: Ventilation & Air Quality
+*Once you insulate a 19th-century house, it becomes "airtight." Without upgrading ventilation, you risk mold and poor indoor air quality.*
+
+1.  **Mechanical Ventilation:** Replace the basic natural ventilation with a **Balanced Ventilation system with Heat Recovery (MVHR)** or a **decentralized system** (small heat-recovery units in walls). This recovers up to 90% of the heat from exhausted air, drastically reducing the load on your heating system.
+
+### Phase 3: Heating System Modernization
+*Now that the house is insulated, your heat demand is significantly lower. You can now move away from high-temperature boilers.*
+
+1.  **Heat Emission System:** Replace the old radiators. To maximize efficiency, install **low-temperature radiators** or **underfloor heating** (if the floor is already being opened for basement insulation).
+2.  **Heat Generation:** Replace the boiler with an **Air-to-Water Heat Pump**. 
+    *   *Why now?* Heat pumps are inefficient in uninsulated houses. Because you completed Phase 1, the heat pump will operate at a much higher COP (Coefficient of Performance), lowering your monthly energy bills.
+
+### Phase 4: Renewable Energy (The Final Touch)
+*Offset the electricity consumption of your new heat pump and ventilation system.*
+
+1.  **Photovoltaic (PV) Panels:** Install solar panels on the pitched roof. In Belgium, this is a high-return investment that allows you to generate your own electricity to power the heat pump, effectively bringing your operational energy costs close to zero.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof & Basement Ceiling** | Very High | High (Quick Win) |
+| **2** | **Insulate Solid Brick Walls** | High | Medium (High CapEx, High Save) |
+| **3** | **Install MVHR Ventilation** | Medium | High (Health & Efficiency) |
+| **4** | **Replace Radiators $\rightarrow$ Heat Pump** | Very High | Medium (Depends on Phase 1) |
+| **5** | **Install PV Panels** | High | High (Long-term ROI) |
+
+### Expert Pro-Tips for Ghent/Flanders:
+*   **Mijn VerbouwPremie:** Before starting, apply for the *Mijn VerbouwPremie* (My Renovation Premium). The Flemish government provides significant subsidies for insulation, heat pumps, and ventilation, provided you have an EPC certificate.
+*   **Moisture Management:** 1832 brick walls "breathe." When insulating internally or externally, ensure you use vapor-permeable materials to prevent interstitial condensation, which can rot old wooden joists.
+*   **Windows:** Since your double glazing is in good condition, leave them for now. The ROI on replacing "good" double glazing with "triple" glazing is much lower than the ROI on wall/roof insulation.

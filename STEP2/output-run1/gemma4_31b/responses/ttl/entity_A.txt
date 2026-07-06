@@ -1,0 +1,44 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. 
+
+This plan follows the **"Fabric First"** principle: we first minimize energy loss through the building envelope before upgrading the heating and energy generation systems. This ensures that any new heating system is correctly sized for a more efficient home, preventing over-investment and maximizing long-term cost-effectiveness.
+
+### Phase 1: Thermal Envelope Optimization (The Shell)
+The building is from 1951 and currently has an EPC score of **388.0 (Label D)**. The primary goal is to stop heat leakage.
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the highest priority as heat rises. 
+    *   *Action:* **Insulate gable roof**.
+2.  **Insulate External Walls:** All three external walls (Front, Rear, Right) are full brick and not insulated. Since they are full brick (not cavity walls), cavity injection is not possible.
+    *   *Action:* **Insulate wall on exterior**. (While more expensive, this is the most energy-efficient method and prevents interior space loss).
+3.  **Insulate Floor:** The floor above the basement is not insulated.
+    *   *Action:* **Insulate floor above basement**. (This is a low-nuisance, cost-effective upgrade to prevent cold feet and heat loss to the basement).
+
+### Phase 2: Air Quality and Ventilation
+Increasing the airtightness of the home through insulation can lead to moisture issues if ventilation is not addressed.
+
+4.  **Upgrade Ventilation:** The building currently uses Ventilation System A (natural supply/exhaust), which is the least efficient.
+    *   *Action:* **Replace ventilation system** (upgrade to System C or D) to ensure healthy indoor air quality and maintain thermal comfort.
+
+### Phase 3: High-Efficiency Heating Transition
+The building has a recorded reason to change the emission system, but lacks access to a heat grid and has no potential for geothermal energy.
+
+5.  **Install Heat Pump:** With the thermal shell now optimized, the energy demand is lower.
+    *   *Action:* **Place air-water heatpump**. This is the most logical choice given the existing radiator and floor heating systems, replacing the old boiler with a sustainable electric alternative.
+
+### Phase 4: Renewable Energy Integration
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+6.  **Solar Energy:** The building is flagged as having potential for PV.
+    *   *Action:* **Place PV-panels on roof**. This maximizes the use of the roof surface to generate "free" energy for the heat pump and household appliances.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Action | Logic | Energy Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Walls $\rightarrow$ Floor** | Stop heat loss first (Fabric First). | Very High |
+| **2** | **Ventilation Upgrade** | Prevent condensation/mold after insulating. | Moderate |
+| **3** | **Air-Water Heat Pump** | Replace fossil fuel boiler with electric efficiency. | High |
+| **4** | **PV Panels** | Power the new system with renewables. | High (Cost reduction) |
+
+**Cost-Effectiveness Note:** By insulating the roof and walls *before* installing the heat pump, you avoid installing a system that is too large (and therefore too expensive) for the home's actual needs. This sequence provides the fastest path to improving the EPC label from **D** toward **A/B**.

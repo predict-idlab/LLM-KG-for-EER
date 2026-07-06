@@ -1,0 +1,51 @@
+### Analysis of Current Building State
+The building is a relatively modern **semi-detached house (constructed in 2017)** located in Belgium. It already exhibits high energy performance with an **EPC score of 87** (which falls into the **A/A+ label** category). 
+
+**Current Strengths:**
+*   **Walls & Floors:** The front, left, and rear walls, as well as the floor above the basement, are already **well-insulated**.
+*   **Ventilation:** It is equipped with a **Ventilation System D** (mechanical supply and exhaust), which is the most efficient standard.
+*   **Heating:** A **heat pump** is already installed, and the building already has **PV panels**.
+*   **Roofing:** The flat roof extension is well-insulated.
+
+**Identified Weaknesses:**
+*   **Roof Insulation:** The main gable roof is only **moderately insulated**, representing the primary source of thermal loss in the envelope.
+*   **Glazing:** The windows currently use **double glazing**. While efficient, triple glazing is required to reach the absolute peak of energy performance.
+*   **System Optimization:** While a heat pump is present, there is no indication that the emission system is optimized for low-temperature operation.
+
+---
+
+### Proposed Renovation Path
+Given that the building is already high-performing, the goal is "fine-tuning." We will focus on the **"Envelope First"** principle, followed by system optimization.
+
+#### Step 1: Thermal Envelope Optimization (Priority: High)
+The most cost-effective way to further reduce energy consumption is to eliminate the remaining thermal bridges.
+*   **Action:** **Insulate Gable Roof**.
+*   **Reasoning:** This is the only major building element not yet "well-insulated." Upgrading this from moderate to well-insulated will significantly reduce heating demand.
+*   **Sequence:** This must be done before any heating system adjustments to ensure the heat pump doesn't have to work harder than necessary.
+
+#### Step 2: Glazing Upgrade (Priority: Medium)
+To further lower the EPC and increase thermal comfort.
+*   **Action:** **Replace Glazing** (Upgrade from Double to Triple Glazing).
+*   **Reasoning:** Since the wooden window frames are in a "Good State," it is more cost-effective to replace only the glazing rather than the entire window unit. Triple glazing will further reduce heat loss through the glass.
+
+#### Step 3: Emission System Optimization (Priority: Medium)
+To maximize the efficiency (COP) of the existing heat pump.
+*   **Action:** **Place emission system on low temperature**.
+*   **Reasoning:** Heat pumps operate most efficiently when the temperature difference between the source and the emission system is minimized. Moving to a low-temperature emission system (e.g., underfloor heating or oversized radiators) reduces operational energy costs.
+
+#### Step 4: Passive Solar Control (Priority: Low/Comfort)
+To reduce energy consumption related to cooling during summer months.
+*   **Action:** **Place sunshades**.
+*   **Reasoning:** With high insulation and triple glazing, the building may be prone to overheating. External sunshades are a cost-effective, passive way to reduce the need for active air conditioning.
+
+---
+
+### Summary of Renovation Sequence
+| Sequence | Action | Target Element | Goal |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | Eliminate primary thermal loss |
+| **2** | **Replace Glazing** | Windows | Upgrade to Triple Glazing |
+| **3** | **Low Temp Emission** | Heating System | Maximize Heat Pump COP |
+| **4** | **Place Sunshades** | Facades/Windows | Prevent summer overheating |
+
+**Final Verdict:** Because the building is already highly efficient (EPC 87), these targeted improvements will transition the property from a "high-performing" or "efficient" or "near-zero energy" or "zero-energy" or "positive-energy" or "net-zero" building to a state-of-the-art, ultra-low energy or zero-energy or positive-energy home.

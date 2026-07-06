@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, the property is already a high-performing, modern home (constructed in 2017) with an excellent energy score of **87 kWh/m²year** (which places it in the **A label** category). Most major elements—including the walls, floor above basement, and flat roof extension—are already "well insulated."
+
+To further improve the EPC and maximize energy efficiency while remaining cost-effective, the renovation should focus on the few remaining "moderate" areas and optimizing the existing high-efficiency systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Passive Gains)
+Since the building is already highly efficient, the goal here is to eliminate the remaining thermal bridges.
+1.  **Insulate Gable Roof**: The `RoofMain` is currently only "moderately insulated." Upgrading this to "well insulated" is the most significant thermal improvement available for this specific building.
+2.  **Place Sunshades**: To prevent summer overheating (reducing the need for active cooling) and improve the energy score, installing external sunshades is a low-cost, high-impact addition.
+
+#### Phase 2: Glazing Upgrade
+The building currently uses double glazing with wooden frames in good condition.
+3.  **Replace Glazing**: Rather than replacing the entire window unit (which would be costly and unnecessary given the "good state" of the frames), I propose replacing the double glazing with **triple glazing**. This reduces heat loss through the windows, further lowering the energy score.
+
+#### Phase 3: System Efficiency Tuning
+The building already possesses a Heat Pump and a Ventilation System D (the most efficient type), but the emission system is generic.
+4.  **Place Emission System on Low Temperature**: Heat pumps operate with significantly higher efficiency (COP) when paired with low-temperature emitters (e.g., underfloor heating or low-temp radiators). Transitioning the current emission system to a low-temperature setup will reduce the electricity consumption of the existing heat pump.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Justification | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "moderately insulated" structural element. | High (prevents heat rise) |
+| **2** | **Place Sunshades** | Low-cost prevention of solar gain/overheating. | Very High |
+| **3** | **Replace Glazing** | Upgrades to triple glazing while retaining existing good frames. | Moderate |
+| **4** | **Low-Temp Emission** | Optimizes the operational performance of the existing heat pump. | High (long-term savings) |
+
+### Final Analysis
+Because the building is already in the **A-range**, the marginal gains of these renovations will be smaller than in an older home. However, this path is the most logical because it targets the only remaining weaknesses (the gable roof and glazing) and ensures the existing expensive technology (Heat Pump/Ventilation D) is operating at its theoretical maximum efficiency.

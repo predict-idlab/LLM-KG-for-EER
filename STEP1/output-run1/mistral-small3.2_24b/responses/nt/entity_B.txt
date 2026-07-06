@@ -1,0 +1,71 @@
+### Renovation Plan for the Building at example.com
+
+#### **Context and Building Characteristics**
+The building is an attached house with the following key characteristics:
+- **Construction Year:** 1832
+- **Net Floor Area:** 212 m²
+- **Energy Performance Certificate (EPC):** Score of 262 (Label C)
+- **Presence of Heat Grid:** No
+- **Potential for PV Panels:** Yes
+- **Potential for Horizontal Geothermal Captation:** No
+- **Potential for Vertical Geothermal Drilling:** No
+
+#### **Current Issues and Priorities**
+1. **Insulation Issues:**
+   - **Roof Extension:** Not insulated
+   - **Roof Main:** Moderately insulated
+   - **Floor Above Basement:** Not insulated
+   - **Wall Front and Rear:** Not insulated, with no historical protection
+
+2. **Ventilation System:**
+   - Currently a Ventilation System A (natural air supply and mechanical air exhaust)
+
+3. **Heating System:**
+   - Uses a radiator (Emission System)
+
+4. **Windows:**
+   - Living Area: Double glazing
+   - Bedrooms: Double glazing, wooden frames in good condition
+
+#### **Renovation Recommendations**
+1. **Improve Insulation:**
+   - **Insulate Roof Extension:** Replace or add insulation to the flat roof extension to improve thermal performance.
+   - **Insulate Floor Above Basement:** Install insulation to improve comfort and energy efficiency.
+   - **Insulate Walls (Front and Rear):** Add exterior or interior insulation to improve thermal performance and comfort.
+
+2. **Upgrade Ventilation System:**
+   - **Replace Ventilation System:** Consider upgrading to a Ventilation System C or D for better air quality and efficiency.
+
+3. **Consider Renewable Energy Options:**
+   - **Install PV Panels:** Given the potential for PV panels, consider installing solar panels to reduce energy costs and environmental impact.
+   - **Explore Geothermal Options:** Although the potential for geothermal drilling is low, explore other renewable energy options like heat pumps.
+
+4. **Window Maintenance:**
+   - **Maintain Windows:** Ensure that the windows (particularly the wooden frames) are well-maintained to prevent drafts and improve insulation.
+
+#### **Action Plan and Prioritization**
+1. **Short-Term Actions (Immediate to 6 Months):**
+   - **Insulate Roof Extension and Floor Above Basement:** These are high-impact, relatively low-cost actions that can significantly improve comfort and energy efficiency.
+   - **Maintain Windows:** Ensure that the existing windows are in good condition to prevent heat loss.
+
+2. **Medium-Term Actions (6 to 12 Months):**
+   - **Insulate Walls:** This is a more involved project but will have a significant impact on energy efficiency and comfort.
+   - **Upgrade Ventilation System:** Research and plan for upgrading the ventilation system to a more efficient model.
+
+3. **Long-Term Actions (12+ Months):**
+   - **Install PV Panels:** This requires more planning and investment but will provide long-term energy savings and environmental benefits.
+   - **Explore Renewable Energy Options:** Consider other renewable energy options like heat pumps if geothermal drilling is not feasible.
+
+#### **Cost Considerations**
+- **Insulation Projects:** Costs will vary based on the type of insulation used (e.g., exterior vs. interior) and the area to be insulated.
+- **Ventilation System Upgrade:** Costs will depend on the type of system chosen and the complexity of the installation.
+- **PV Panels:** Initial investment will be higher but will provide long-term savings on energy bills.
+
+#### **Additional Recommendations**
+- **Monitor Energy Consumption:** Regularly monitor energy consumption to identify areas for further improvement.
+- **Consider Energy-Efficient Heating:** Explore options for replacing or upgrading the existing radiator system to a more energy-efficient solution.
+
+By following this plan, the building's energy efficiency can be significantly improved, leading to lower energy costs and a more comfortable living environment. The plan prioritizes actions based on cost, impact, and feasibility, ensuring a practical and achievable path to a more sustainable and efficient home.
+
+### Note:
+This plan is based on the information provided and assumes typical conditions. Specific recommendations may vary based on local regulations, climate, and individual preferences. Always consult with professionals for detailed assessments and advice tailored to your specific situation.

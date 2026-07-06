@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, this property is an exceptionally energy-efficient semi-detached house built in 2017. With an **EPC score of 87 (A Label)**, the building already incorporates most high-efficiency standards, including a Heat Pump, a Ventilation System D (the most advanced type), and existing PV panels.
+
+Because the building is already performing at a high level, a traditional "deep renovation" would not be cost-effective. Instead, the focus should be on **marginal gains**—addressing the only remaining weakness in the thermal envelope to achieve maximum efficiency.
+
+### Proposed Renovation Path
+
+Given the current state of the building, the "fabric-first" approach reveals only one primary area for improvement.
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low/Medium)
+Almost all building elements (walls, floor, and the flat roof extension) are already "Well Insulated." The only exception is the main gable roof.
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently listed as **"Moderately Insulated."** To bring the entire building envelope up to a consistent "Well Insulated" standard, this is the most logical step. Since heat rises, upgrading the gable roof insulation will further reduce the energy demand on the heat pump.
+
+#### Phase 2: Summer Comfort & Operational Efficiency (Priority: Optional)
+Since the heating and ventilation systems are already optimized (Heat Pump and System D), further gains are found in reducing the cooling load during summer months.
+
+2.  **Place Sunshades:** To prevent overheating in a highly insulated, airtight house (which can lead to increased energy use for cooling), installing external sunshades is a cost-effective way to maintain a comfortable indoor temperature without relying on mechanical cooling.
+
+---
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Bridges the gap between "moderately" and "well" insulated, completing the thermal envelope. |
+| **2** | **Place Sunshades** | Reduces solar gain to prevent overheating in a highly sealed, energy-efficient home. |
+
+### Why other suggestions were excluded:
+*   **Wall/Floor Insulation:** Already "Well Insulated."
+*   **Window Replacement:** Current windows are double-glazed and in "Good State"; replacing them with triple glazing would offer diminishing returns relative to the high cost.
+*   **Heating/Ventilation Upgrade:** The building already possesses a Heat Pump and Ventilation System D, which are the gold standards in the RENO ontology.
+*   **PV Panels:** The building already has PV panels installed.

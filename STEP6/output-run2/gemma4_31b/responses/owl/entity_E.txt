@@ -1,0 +1,46 @@
+**Renovation Plan: Energy Efficiency Optimization**
+
+Based on the provided building data and the RENO ontology, the property is a detached house built in 1862. While the current EPC score is relatively good (165, B Label), there are significant opportunities to modernize the thermal envelope and transition to sustainable energy systems to further lower energy consumption and improve the EPC rating.
+
+To maximize efficiency and cost-effectiveness, the renovation will follow the **"Fabric First"** principle: optimizing the building shell before upgrading the technical installations.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (High Priority)
+The goal is to eliminate heat leakage through the walls and floor. Since the roof is already well-insulated, the focus shifts to the vertical and horizontal boundaries.
+
+1.  **Insulate Wall Cavity:** All four exterior walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`) are identified as **cavity walls** and are currently **not insulated**. Cavity wall insulation is one of the most cost-effective upgrades available, providing a high return on investment by reducing heat loss through the building's skin.
+2.  **Insulate Floor Above Basement:** The `FloorAboveCrawlSpace` (Floor Above Basement) is a key area for heat loss. Adding insulation here will prevent cold drafts and improve the overall thermal comfort of the ground floor.
+
+#### Phase 2: Window Performance Upgrade (Medium Priority)
+The building's window frames are made of wood and are in a "Good State," meaning a full replacement is not cost-effective. However, the glazing is currently **single glazing**, which is a major source of thermal inefficiency.
+
+3.  **Replace Glazing:** Instead of replacing the entire window unit, the plan is to **replace the glazing** (upgrading from single to double or triple glazing). This drastically reduces heat loss while preserving the existing high-quality wooden frames.
+
+#### Phase 3: Transition to High-Efficiency Heating (System Upgrade)
+With the thermal envelope sealed, the building's heat demand will drop, allowing for a transition from the old boiler to a modern, low-temperature system.
+
+4.  **Place Emission System on Low Temperature:** To maximize the efficiency of a heat pump, the current mixed emission system (radiators/convectors) should be upgraded to **low-temperature emissions**.
+5.  **Place Air-Water Heat Pump:** Given that there is no heat grid available and no potential for geothermal drilling/captation, an **Air-Water Heat Pump** is the most viable and efficient sustainable heating solution.
+
+#### Phase 4: Air Quality and Ventilation (Technical Optimization)
+As the house becomes more airtight through insulation and new glazing, natural ventilation (System A) becomes insufficient.
+
+6.  **Replace Ventilation System:** Upgrade from **Ventilation System A** to a more modern system (e.g., System C or D) to ensure healthy indoor air quality and prevent moisture buildup without losing the heat gained from the new insulation.
+
+#### Phase 5: Sustainable Energy Generation (Long-term Investment)
+To offset the electricity requirements of the new heat pump and ventilation system.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will allow the owner to generate renewable electricity on-site, further improving the EPC label and reducing operational costs.
+
+---
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Wall Cavity $\rightarrow$ Floor Insulation** | Lowest cost per unit of energy saved; stabilizes the thermal shell. |
+| **2** | **Replace Glazing** | Eliminates the primary remaining "thermal holes" in the envelope. |
+| **3** | **Low-Temp Emission $\rightarrow$ Heat Pump** | Shifts to sustainable heating tailored to the now-reduced heat demand. |
+| **4** | **Ventilation Upgrade** | Ensures air quality in a now-sealed, energy-efficient home. |
+| **5** | **PV Panels** | Provides the renewable energy needed to power the new systems. |

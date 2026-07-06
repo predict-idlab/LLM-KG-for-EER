@@ -1,0 +1,74 @@
+To create an energy-efficient and cost-effective renovation plan for the given building, we need to analyze the current state of the building and prioritize renovations that will have the most significant impact on energy efficiency while considering cost and practicality. Here's a step-by-step plan:
+
+### 1. **Assess Current Energy Performance**
+- The building has an Energy Performance Certificate (EPC) score of 50.0, which falls under the E label (400-500 kWh/m²year). The goal is to improve this score to at least a B label (100-200 kWh/m²year) or better.
+
+### 2. **Prioritize Renovation Actions**
+Based on the ontology and suggestion list, the following actions are recommended in order of priority:
+
+#### **High Priority (Immediate Impact on Energy Efficiency)**
+1. **Insulate the Gable Roof (InsulateGableRoof)**
+   - The gable roof is currently moderately insulated. Improving insulation will significantly reduce heat loss.
+   - **Cost:** €60 per m²
+   - **Nuisance Level:** Low
+   - **Ordering:** 28
+
+2. **Insulate the Attic Floor (InsulateAtticFloor)**
+   - The attic floor is not mentioned in the ontology, but it is a common area for heat loss. Insulating it will improve thermal comfort and energy efficiency.
+   - **Cost:** €60 per m²
+   - **Nuisance Level:** Low
+   - **Ordering:** 31
+
+3. **Replace the Ventilation System (ReplaceVentilationSystem)**
+   - The current ventilation system is type D (mechanical supply and exhaust). Upgrading to a more efficient system will improve air quality and energy efficiency.
+   - **Cost:** €3500 fixed + €17 per m²
+   - **Nuisance Level:** Moderate
+   - **Ordering:** 52
+
+#### **Medium Priority (Moderate Impact on Energy Efficiency)**
+4. **Insulate the Walls on the Exterior (InsulateWallExterior)**
+   - The walls are currently well-insulated, but exterior insulation can further improve energy efficiency.
+   - **Cost:** €200 per m²
+   - **Nuisance Level:** High
+   - **Ordering:** 40
+
+5. **Replace Glazing (ReplaceGlazing)**
+   - The windows have double glazing, which is good but can be upgraded to triple glazing for better insulation.
+   - **Cost:** €200 per m²
+   - **Nuisance Level:** High
+   - **Ordering:** 43
+
+#### **Low Priority (Long-term or Optional Upgrades)**
+6. **Place PV-Panels on the Roof (PlacePVPanelsOnRoof)**
+   - The building has potential for PV panels, which can generate renewable energy and reduce electricity costs.
+   - **Cost:** €275 per m²
+   - **Nuisance Level:** Low
+   - **Ordering:** 85
+
+7. **Place Sunshade (PlaceSunShade)**
+   - Installing sunshades can reduce solar heat gain in summer, improving comfort and reducing cooling needs.
+   - **Cost:** €750 fixed
+   - **Nuisance Level:** Low
+   - **Ordering:** 79
+
+### 3. **Sequence of Renovation Actions**
+1. **Insulate the Gable Roof**
+2. **Insulate the Attic Floor**
+3. **Replace the Ventilation System**
+4. **Insulate the Walls on the Exterior**
+5. **Replace Glazing**
+6. **Place PV-Panels on the Roof**
+7. **Place Sunshade**
+
+### 4. **Additional Considerations**
+- **Permits:** Check local regulations for permits required for insulation and roof work.
+- **Cost-Effectiveness:** Prioritize actions with the highest cost-to-benefit ratio.
+- **Comfort:** Ensure that renovations improve thermal comfort and indoor air quality.
+
+### 5. **Final Recommendations**
+- Start with insulating the gable roof and attic floor to quickly improve energy efficiency.
+- Upgrade the ventilation system to enhance air quality and energy savings.
+- Consider exterior wall insulation and glazing upgrades for long-term benefits.
+- Install PV panels and sunshades for renewable energy generation and comfort.
+
+This plan ensures a systematic approach to renovating the building, focusing on energy efficiency and cost-effectiveness.

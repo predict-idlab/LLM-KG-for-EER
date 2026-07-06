@@ -1,0 +1,48 @@
+To maximize energy efficiency and cost-effectiveness for this 1951 semi-detached building (currently EPC score 388.0 / Label D), I propose a **"Fabric First" renovation path**. 
+
+The strategy is to first minimize heat loss (insulation), then optimize the air exchange (ventilation), and finally upgrade the heating and energy generation systems. This sequence ensures that the new heating system is sized correctly for a more efficient building, preventing over-investment in oversized equipment.
+
+### Phase 1: Thermal Envelope Optimization (High Impact, Priority 1)
+The building has significant heat loss through the roof, walls, and floor. Addressing these first provides the highest ROI for the EPC score.
+
+1.  **Insulate Gable Roof (`RoofMain`):** The main roof is currently not insulated. This is the most critical step as heat rises. 
+    *   *Action:* `insulate gable roof`.
+2.  **Insulate Floor Above Basement:** The floor is not insulated, leading to cold drafts and heat loss to the basement.
+    *   *Action:* `insulate floor above basement`.
+3.  **Insulate Exterior Walls:** All three external walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`) are full brick and not insulated. Since they are full brick (not cavity), exterior insulation is the most effective method to eliminate thermal bridges.
+    *   *Action:* `insulate wall on exterior`.
+4.  **Improve Flat Roof Insulation:** The `RoofExtension` is only moderately insulated. To align with the rest of the house, this should be upgraded.
+    *   *Action:* `insulate flat roof`.
+
+### Phase 2: Air Quality & Ventilation (Necessary Step)
+Increasing the insulation of the envelope makes the building more airtight. To prevent moisture buildup and ensure health, the ventilation must be upgraded.
+
+5.  **Upgrade Ventilation:** The current system is Type A (natural). After insulating the walls and roof, a mechanical system is required to maintain air quality.
+    *   *Action:* `replace ventilation system` (suggesting a move toward Type C or D).
+
+### Phase 3: Heating System Modernization (Operational Efficiency)
+With a tightened envelope, the building now requires significantly less energy to heat. We can now replace the outdated boiler with a sustainable alternative.
+
+6.  **Upgrade Emission System:** Air-water heat pumps operate most efficiently with low-temperature emitters.
+    *   *Action:* `place emission system on low temperature`.
+7.  **Install Heat Pump:** Since there is no heat grid available and no potential for geothermal drilling/captation, an air-to-water system is the most viable high-efficiency choice.
+    *   *Action:* `place air-water heatpump`.
+
+### Phase 4: Renewable Energy Integration (Final Optimization)
+The final step is to transition from energy efficiency (reducing demand) to energy production.
+
+8.  **Install Solar Energy:** The building has confirmed potential for PV.
+    *   *Action:* `place PV-panels on roof`.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Category | Action | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulation** | `insulate gable roof` $\rightarrow$ `insulate floor above basement` $\rightarrow$ `insulate wall on exterior` | Stop the largest energy leaks first. |
+| **2** | **Ventilation** | `replace ventilation system` | Prevent mold/condensation caused by the new airtight envelope. |
+| **3** | **Heating** | `place emission system on low temp` $\rightarrow$ `place air-water heatpump` | Shift to a sustainable, low-energy heat source. |
+| **4** | **Renewables** | `place PV-panels on roof` | Offset the remaining electricity demand for the heat pump. |
+
+**Note on Windows:** The current windows are double-glazed with wooden frames in "Good State." Replacing these is not recommended at this stage as the energy gain would be marginal compared to the high cost, given that the frames are already in good condition.

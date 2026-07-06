@@ -1,0 +1,44 @@
+Based on the provided information, here's a concise and actionable renovation plan tailored to the entity:
+
+### Renovation Plan for Semi-Detached Building (http://example.com/Building)
+
+1. **Roof Insulation**
+   - **Action**: Insulate the gable roof (http://example.com/RoofMain) and the flat roof (http://example.com/RoofExtension).
+   - **Suggestion**: Use "insulate gable roof" and "insulate flat roof" from the suggestion list.
+   - **Reasoning**: Both roofs have a good state but are only moderately or well insulated. Improving insulation will enhance energy efficiency.
+   - **Cost**: ~€60/m² for gable roof and ~€50/m² for flat roof.
+
+2. **Window Glazing Replacement**
+   - **Action**: Replace the glazing of the windows in the bedrooms (http://example.com/WindowsBedrooms) and living area (http://example.com/WindowsLivingArea).
+   - **Suggestion**: Use "replace glazing" from the suggestion list.
+   - **Reasoning**: The windows currently have double glazing, which can be upgraded to triple glazing for better thermal and acoustic performance.
+   - **Cost**: ~€200/m².
+
+3. **Ventilation System Upgrade**
+   - **Action**: Replace the ventilation system (http://example.com/VentilationSystem).
+   - **Suggestion**: Use "replace ventilation system" from the suggestion list.
+   - **Reasoning**: The current ventilation system is of type D, which may not be the most energy-efficient. Upgrading to a more efficient system can improve indoor air quality and energy efficiency.
+   - **Cost**: ~€3500 + €17/m².
+
+4. **PV Panel Installation**
+   - **Action**: Install PV panels on the roof (http://example.com/RoofMain) or in the garden.
+   - **Suggestion**: Use "place PV-panels on roof" or "place PV-panels in garden" from the suggestion list.
+   - **Reasoning**: The building has potential for PV panels (http://example.com/Building hasPotentialForPV), and installing them can reduce energy costs and improve sustainability.
+   - **Cost**: ~€275/m².
+
+5. **Heat Pump Installation**
+   - **Action**: Install an air-water heat pump (http://example.com/Generation_System).
+   - **Suggestion**: Use "place air-water heatpump" from the suggestion list.
+   - **Reasoning**: Replacing the current emission system with a heat pump can significantly improve energy efficiency and reduce carbon footprint.
+   - **Cost**: ~€8000 + €35/m².
+
+6. **Wall Insulation (Optional)**
+   - **Action**: Insulate the exterior walls (http://example.com/Wall_Front, http://example.com/Wall_Left, http://example.com/Wall_Rear).
+   - **Suggestion**: Use "insulate wall on exterior" from the suggestion list.
+   - **Reasoning**: The walls are currently well insulated, but further insulation can be considered if the owner aims for higher energy efficiency.
+   - **Cost**: ~€200/m².
+
+### Summary
+The proposed plan focuses on improving energy efficiency through roof insulation, window glazing replacement, ventilation system upgrade, PV panel installation, and heat pump installation. The plan is cost-effective and tailored to the specific needs and characteristics of the building. The actions are grounded in the provided ontology and suggestion list, ensuring alignment with the entity's data.
+
+Would you like more details on any specific action or cost estimation?

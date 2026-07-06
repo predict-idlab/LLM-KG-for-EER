@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, the property is a detached house from 1862 with a relatively good EPC score (165), but significant opportunities for improvement in the building envelope and heating systems. 
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. This ensures that the home is insulated and airtight before upgrading the heating system, allowing for a smaller, more efficient heat pump.
+
+### Proposed Renovation Path
+
+#### Phase 1: Building Envelope (The Shell)
+*Focus: Reducing heat loss with the highest ROI and lowest nuisance.*
+1.  **Insulate Wall Cavities:** All four cavity walls are currently not insulated. Cavity wall insulation is one of the most cost-effective upgrades with low nuisance.
+2.  **Insulate Floor Above Basement:** The building has a floor above a crawl space. Insulating this area prevents cold drafts and heat loss from the ground.
+3.  **Replace Glazing:** The wooden window frames are in "Good State" (value 8), making it unnecessary to replace the entire window. Replacing the **single glazing** with double or triple glazing is a cost-effective way to drastically reduce thermal loss without the expense of new frames.
+
+#### Phase 2: Ventilation and Air Quality
+*Focus: Maintaining indoor air quality after the house is sealed.*
+4.  **Replace Ventilation System:** Upgrading from Ventilation System A (natural) to a more modern system is critical after improving insulation and glazing to prevent condensation and mold.
+
+#### Phase 3: Heating and Emission Systems
+*Focus: Transitioning from inefficient electric/boiler heating to sustainable technology.*
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the existing radiators/heating should be optimized for low-temperature operation to maximize the efficiency of the heat pump.
+6.  **Place Air-Water Heat Pump:** Since the site has no potential for geothermal drilling or captation and there is no heat grid available, an air-water heat pump is the most efficient and practical choice for a detached building.
+
+#### Phase 4: Renewable Energy
+*Focus: Reducing operational costs and carbon footprint.*
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will offset the electricity consumption of the new heat pump, significantly lowering long-term energy costs.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Action | Logic | Cost/Nuisance |
+| :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall Insulation** | Highest energy saving per Euro spent. | Low / Low |
+| **2** | **Floor Insulation** | Prevents "cold feet" and base heat loss. | Low / Low |
+| **3** | **Replace Glazing** | Leverages existing good frames to save costs. | Moderate / High |
+| **4** | **Upgrade Ventilation** | Necessary after sealing the envelope. | Moderate / Moderate |
+| **5** | **Low-Temp Emission** | Prerequisite for heat pump efficiency. | Moderate / Moderate |
+| **6** | **Air-Water Heat Pump** | Replaces inefficient old generation system. | High / Moderate |
+| **7** | **PV-Panels on Roof** | Powers the heat pump with green energy. | High / Low |
+
+**Final Result:** This path transforms an 1860s structure into a high-performance home by first minimizing demand (insulation/glazing) and then implementing a sustainable, low-carbon energy loop (heat pump $\rightarrow$ PV panels).

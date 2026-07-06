@@ -1,0 +1,44 @@
+To move your energy score from 165 to a high-performance rating, you must follow the **"Fabric First" approach**. The biggest mistake homeowners make is installing a new heating system before fixing the "envelope" (walls, windows, floors). If you install a heat pump in a house with single glazing and uninsulated walls, the system will be oversized, expensive to run, and inefficient.
+
+Given the specific characteristics of your 1862 home in Ghent, here is the most cost-effective and energy-efficient renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*Goal: Stop heat from escaping so you can install a smaller, cheaper heating system.*
+
+1.  **Cavity Wall Insulation (High Priority/Low Cost):** Since you have cavity walls, **injection insulation** is your most cost-effective win. It requires no demolition and provides an immediate drop in energy loss.
+2.  **Window Upgrade (High Priority):** Single glazing is your biggest "energy leak." Since the wooden frames are in good condition, investigate if **slim-profile double glazing** can be retrofitted. If not, replace them with high-efficiency double or triple glazing with thermally broken frames.
+3.  **Floor Insulation (Medium Priority):** Since the floor is above a crawl space, you can insulate from below (using spray foam or mineral wool panels attached to the ceiling of the crawl space). This prevents the "cold feet" effect and stops drafts.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is sealed, preventing mold and humidity.*
+
+4.  **Ventilation Upgrade:** Moving from natural ventilation to a **Balanced Ventilation system with Heat Recovery (HRV)** is ideal. If a full duct system is too invasive for an 1862 house, consider **decentralized HRV units** (small units installed in walls that swap air between rooms while recovering heat).
+
+### Phase 3: The Heating Transition (Operational Efficiency)
+*Goal: Replace outdated, inefficient emitters with a low-temperature system.*
+
+5.  **Emitter Replacement:** You mentioned the current mix (radiators, electric convectors, etc.) is in poor condition. **Remove all electric convectors** (they are extremely expensive to run). Replace the existing system with **low-temperature radiators** or extend the **underfloor heating** to all rooms. This is critical because modern heat pumps cannot work efficiently with old, small radiators.
+6.  **Heat Pump Installation:** Once the house is insulated and the emitters are updated, replace the boiler with an **Air-to-Water Heat Pump**. Because you have already reduced the heat demand in Phase 1, you can install a smaller, more affordable unit that will operate at maximum efficiency.
+
+### Phase 4: Energy Generation (Offsetting Costs)
+*Goal: Transition from a consumer to a producer of energy.*
+
+7.  **Photovoltaic (PV) Panels:** Install solar panels on the roof. Since you will now have a heat pump (which runs on electricity), the PV panels will directly offset the cost of heating your home and powering your appliances.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Order | Action | Why? | Cost-Benefit |
+| :--- | :--- | :--- | :--- |
+| **1** | **Cavity & Floor Insulation** | Stops the primary heat loss. | Very High |
+| **2** | **Double Glazing** | Eliminates the biggest thermal bridges. | High |
+| **3** | **HRV Ventilation** | Prevents condensation in a sealed house. | Medium |
+| **4** | **Low-Temp Emitters** | Prepares the house for a heat pump. | Medium |
+| **5** | **Air-to-Water Heat Pump** | Switches to carbon-neutral heating. | High (Long term) |
+| **6** | **PV Solar Panels** | Powers the heat pump for free. | High |
+
+### Expert Tip for Ghent/Flanders:
+Before starting, check the **Vlaamse Energiebonus** and other regional subsidies available in Flanders. Many of these renovations (especially cavity insulation, heat pumps, and PV panels) are heavily subsidized, which significantly reduces the initial investment and shortens the payback period.

@@ -1,0 +1,46 @@
+Given the current state of your home in Ghent, you are in a very strong starting position. An EPC of 50 is already quite efficient, and having a **Ventilation System D** (heat recovery) and **PV panels** provides a massive advantage.
+
+The primary "energy leaks" in your home are not in the walls or windows, but in the **heat distribution system** (specifically the electric convectors) and the **moderate insulation of the pitched roof**.
+
+Here is the most cost-effective and energy-efficient renovation path, sequenced to maximize the return on investment.
+
+---
+
+### Phase 1: Thermal Envelope Optimization (The "Fabric First" Approach)
+Before upgrading your heating system, you must minimize the heat demand. If you install a heat pump before fixing the roof, you will overspend on a larger unit than necessary.
+
+*   **Upgrade Pitched Roof Insulation:** Since the pitched roof is only "moderately" insulated, this is your primary area for heat loss. 
+    *   **Action:** Increase the insulation thickness (e.g., using mineral wool or ecological fibers) to meet current Flemish standards.
+    *   **Benefit:** This lowers the "base load" of the house, allowing you to downsize the capacity of the new heating system you will install in Phase 2.
+
+### Phase 2: Heating System Overhaul (The Core Upgrade)
+Your current combination of a boiler and electric convectors is inefficient and creates "thermal gaps" in your home. Electric convectors are among the most expensive ways to heat a room.
+
+*   **Transition to an Air-to-Water Heat Pump:** Since geothermal is not viable and district heating is unavailable, an air-to-water heat pump is the optimal choice. 
+    *   **Synergy:** You already have PV panels to offset the electricity cost and a Ventilation System D to ensure air quality without losing heat.
+*   **Eliminate Electric Convectors:** Replace these entirely. They should be phased out in favor of a low-temperature system.
+*   **Expand/Restore Underfloor Heating:** 
+    *   **Action:** Repair the existing underfloor heating and extend it into the rooms currently served by electric convectors. 
+    *   **Why:** Heat pumps operate most efficiently at low flow temperatures. Underfloor heating is the perfect partner for a heat pump, maximizing the Coefficient of Performance (COP).
+
+### Phase 3: Intelligent Energy Management
+Now that the house is well-insulated and powered by a heat pump and PV panels, the goal is to shift consumption to match production.
+
+*   **Smart Thermostatic Control:** Install a smart zoning system. This allows you to heat only the rooms you are using, further reducing the load on the heat pump.
+*   **PV Optimization:** Ensure your heat pump is integrated with your PV system (via a smart controller) to prioritize heating the house or your hot water tank during peak sunlight hours.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Focus | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1. Roof** | Upgrade pitched roof insulation | **Heat Retention** | High |
+| **2. Emission** | Replace convectors $\rightarrow$ Underfloor heating | **Distribution Efficiency** | Medium |
+| **3. Generation** | Replace Boiler $\rightarrow$ Air-to-Water Heat Pump | **Energy Source** | Very High |
+| **4. Control** | Smart zoning & PV integration | **Operational Efficiency** | Low/Medium |
+
+### Expert Tips for the Ghent/Flemish Context:
+1.  **Check Subsidies:** The Flemish government frequently updates premiums for heat pumps and insulation. Ensure your contractors are certified to allow you to claim these grants.
+2.  **Low-Temperature Design:** When replacing the heating system, insist that the engineer designs the system for the lowest possible water temperature. This is the secret to keeping your electricity bills low when using a heat pump.
+3.  **Ventilation Maintenance:** Since you have System D, ensure the filters are changed regularly. A clogged System D reduces the efficiency of the heat recovery, forcing your new heat pump to work harder.

@@ -1,0 +1,18 @@
+To create an energy-efficient and cost-effective renovation plan, we need to analyze the building's current state and prioritize upgrades that will have the most significant impact on energy efficiency. Here’s the step-by-step reasoning:
+
+1. **Insulate Flat Roof**: The flat roof (ex:RoofExtension) is not insulated (reno:NotInsulated). Insulating it will improve thermal performance.
+2. **Insulate Walls on Exterior**: The walls (ex:Wall_Front, ex:Wall_Rear) are not insulated (reno:NotInsulated). Exterior insulation is more effective and less disruptive than interior insulation.
+3. **Insulate Floor Above Basement**: The floor above basement (ex:FloorAboveBasement) is not insulated (reno:NotInsulated). Insulating it will reduce heat loss through the floor.
+4. **Replace Ventilation System**: The current ventilation system (ex:VentilationSystem) is type A, which is less efficient. Replacing it with a more efficient system will improve air quality and energy efficiency.
+5. **Place Emission System on Low Temperature**: The emission system (ex:EmissionSystem) can be optimized for low-temperature operation, which is more energy-efficient.
+6. **Place Air-Water Heat Pump**: Installing an air-water heat pump will provide a more efficient heating solution compared to the current system.
+7. **Place PV-Panels on Roof**: The building has potential for PV (reno:hasPotentialForPV true), and the roof (ex:RoofMain) is well-insulated, making it suitable for solar panel installation.
+
+### Renovation Plan:
+1. insulate flat roof
+2. insulate walls on exterior
+3. insulate floor above basement
+4. replace ventilation system
+5. place emission system on low temperature
+6. place air-water heat pump
+7. place pv-panels on roof

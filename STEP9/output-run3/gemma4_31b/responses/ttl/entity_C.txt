@@ -1,0 +1,46 @@
+Based on the provided ontology and the specific data for the building, here is the proposed renovation plan.
+
+### Analysis of Current State
+The building is a very modern **attached building (constructed in 2023)** with an already high energy performance (**EPC score of 50.0**, which corresponds to an **A label**). Most elements are already "Well Insulated" (walls, floor above basement, and flat roof extension) and the ventilation system (Type D) is the most efficient available.
+
+However, there are two primary areas for improvement:
+1.  **The Gable Roof:** Currently only "Moderately Insulated," representing the weakest point in the thermal envelope.
+2.  **The Heating System:** The building uses **Electric Convectors**, which are inefficient. Furthermore, the data explicitly flags a **reason to change the emission system**.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the "Fabric First" principle—improving the envelope before upgrading the technical systems.
+
+#### Step 1: Thermal Envelope Optimization
+**Action: `insulate gable roof`**
+*   **Reasoning:** While the rest of the building is well-insulated, the main gable roof is only moderately insulated. Improving this is the most cost-effective way to reduce heat loss.
+*   **Practicality:** This is a "low nuisance" intervention.
+*   **Sequence:** This must be done before upgrading the heating system to ensure the new system is sized correctly for a tighter building.
+
+#### Step 2: Heating System Transition
+**Action: `place air-water heatpump`**
+*   **Reasoning:** The building currently relies on electric convectors and a boiler. Since there is no access to a heat grid and the site has no potential for geothermal drilling/captation, an air-water heat pump is the most efficient alternative. 
+*   **Synergy:** The building already has **floor heating**, which is an ideal low-temperature emission system for a heat pump, maximizing the Coefficient of Performance (COP).
+*   **Goal:** This directly addresses the `hasReasonToChangeEmissionSystem` flag and the owner's motivation to further improve the EPC.
+
+#### Step 3: System Fine-Tuning (Optional/Conditional)
+**Action: `place emission system on low temperature`**
+*   **Reasoning:** If the existing floor heating is not already optimized for low-temperature flow, this upgrade should be performed in tandem with the heat pump installation to ensure maximum efficiency.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Action | Priority | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Reduces heat loss from the roof. | Very High (Low cost/Low nuisance) |
+| **2** | **Place Air-Water Heatpump** | High | Replaces inefficient electric heating. | High (Long-term operational savings) |
+| **3** | **Optimize Low-Temp Emission** | Medium | Maximizes heat pump efficiency. | Medium (Synergistic with Step 2) |
+
+### Exclusions & Justifications
+*   **Windows/Glazing:** Not recommended. The building is from 2023 with double glazing and wooden frames in good state. Replacing these for triple glazing would be prohibitively expensive with marginal gains for an already "A" rated building.
+*   **Wall/Floor Insulation:** Not recommended. These are already "Well Insulated."
+*   **Geothermal/Heat Grid:** Not possible based on site constraints (`potentialForVerticalGeothermalDrilling false` and `presenceOfHeatGrid false`).
+*   **PV Panels:** The building already possesses PV panels; additional installations are not prioritized unless capacity is insufficient.

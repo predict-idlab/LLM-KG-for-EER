@@ -1,0 +1,21 @@
+1. insulate gable roof
+2. replace gable roof
+3. insulate flat roof
+4. replace flat roof
+5. insulate wall cavity
+6. insulate wall on interior
+7. insulate floor above basement
+8. replace ventilation system
+9. connect to heatgrid
+10. place air-air heatpump
+11. place vertical geothermal heatpump
+12. place horizontal geothermal heatpump
+13. place air-water heatpump
+14. place emission system on low temperature
+15. place air-water heatpump with cooling
+16. place heatpumpboiler
+17. place sunshade
+18. place airconditioning
+19. place pv-panels on roof
+20. place pv-panels in garden
+21. place plug and play pv-panels

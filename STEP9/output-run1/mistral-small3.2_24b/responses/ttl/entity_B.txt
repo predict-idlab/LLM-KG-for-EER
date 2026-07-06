@@ -1,0 +1,45 @@
+Based on the provided RENO ontology and the building information, I'll create a cost-effective and energy-efficient renovation plan that maximizes benefits while considering the optimal sequence of upgrades. Here's the step-by-step plan:
+
+1. **Asbestos Removal (Immediate Action if Present)**
+   - *Suggestions*: remove asbestos from flat roof, remove asbestos from gable roof
+   - *Rationale*: Safety first. If asbestos is present, it must be removed before any other work on roofs.
+
+2. **Roof Renovation**
+   - *Suggestions*: replace flat roof (ex:RoofExtension), replace gable roof (ex:RoofMain)
+   - *Rationale*: Both roofs are not insulated or only moderately insulated. Roof replacement allows for proper insulation installation afterward.
+
+3. **Roof Insulation**
+   - *Suggestions*: insulate flat roof (ex:RoofExtension), insulate gable roof (ex:RoofMain)
+   - *Rationale*: After roof replacement, insulation can be properly installed to improve thermal performance.
+
+4. **Attic Floor Insulation**
+   - *Suggestion*: insulate attic floor
+   - *Rationale*: The building has an attic space (implied by the existence of a gable roof), and the attic floor is not insulated.
+
+5. **Wall Insulation**
+   - *Suggestion*: insulate wall cavity (ex:Wall_Front, ex:Wall_Rear)
+   - *Rationale*: Both front and rear walls are not insulated. Cavity wall insulation is more cost-effective than internal or external wall insulation.
+
+6. **Window Upgrades**
+   - *Suggestion*: replace windows (ex:WindowsBedrooms, ex:WindowsLivingArea)
+   - *Rationale*: Current windows have wood frames and double glazing. Replacement with modern, better-insulated windows will improve thermal performance.
+
+7. **Floor Insulation**
+   - *Suggestion*: insulate floor above basement (ex:FloorAboveBasement)
+   - *Rationale*: The floor above basement is not insulated, which can lead to heat loss.
+
+8. **Ventilation System Upgrade**
+   - *Suggestion*: replace ventilation system (ex:VentilationSystem)
+   - *Rationale*: Current system is type A (natural ventilation), which may not be sufficient for an energy-efficient home.
+
+9. **Heating System Upgrade**
+   - *Suggestions*:
+     - place air-water heat pump (ex:Generation_System)
+     - place emission system on low temperature (ex:EmissionSystem)
+   - *Rationale*: Upgrading to a heat pump with low-temperature emission will improve energy efficiency.
+
+10. **Solar Panel Installation**
+    - *Suggestion*: place PV-panels on roof (ex:RoofMain)
+    - *Rationale*: The building has potential for PV installation, and the roof will be renovated, making it an optimal time for solar panel installation.
+
+This plan follows a logical sequence, starting with safety-related work, moving to structural improvements, and ending with system upgrades. The plan focuses on maximizing energy efficiency while considering cost-effectiveness and the building's specific characteristics.

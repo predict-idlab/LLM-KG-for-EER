@@ -1,0 +1,73 @@
+### Renovation Plan for Attached Building (1832, EPC 262)
+
+#### **Objective:**
+Improve the EPC label from C to A+ by implementing cost-effective, energy-efficient measures. The building is an attached structure from 1832 with significant thermal inefficiencies.
+
+#### **Proposed Renovation Path**
+
+**Phase 1: Thermal Envelope Optimization (Fabric First)**
+1. **Insulate Attic Floor**
+   - Priority: High
+   - Rationale: The attic floor is uninsulated, leading to significant heat loss upward.
+   - Cost: €60/m² (PER-M2)
+   - Nuisance Level: Low
+
+2. **Insulate Exterior Walls**
+   - Priority: High
+   - Rationale: Both `Wall_Front` and `Wall_Rear` are uninsulated. Exterior insulation eliminates thermal bridges and improves thermal retention.
+   - Cost: €200/m² (PER-M2)
+   - Nuisance Level: High (due to exterior work)
+
+3. **Insulate Floor Above Basement**
+   - Priority: Medium
+   - Rationale: Prevents cold drafts from the basement and improves thermal comfort.
+   - Cost: €30/m² (PER-M2)
+   - Nuisance Level: Low
+
+**Phase 2: Window Performance**
+4. **Replace Glazing**
+   - Priority: Medium
+   - Rationale: Current glazing is double-glazed, but frames are wooden and in a "Good State." Replacing glazing to triple-glazing will further reduce heat loss.
+   - Cost: €200/m² (PER-M2)
+   - Nuisance Level: High
+
+**Phase 3: High-Efficiency Heating Transition**
+5. **Place Air-Water Heat Pump**
+   - Priority: Medium
+   - Rationale: Replaces the existing boiler with a more efficient, low-carbon heating system.
+   - Cost: €35/m² (PER-M2)
+   - Nuisance Level: Moderate
+
+6. **Place Low-Temperature Emission System**
+   - Priority: Medium
+   - Rationale: Ensures compatibility with the heat pump and maximizes energy efficiency.
+   - Cost: €100/m² (PER-M2)
+   - Nuisance Level: Moderate
+
+**Phase 4: Ventilation Upgrade**
+7. **Replace Ventilation System**
+   - Priority: Low
+   - Rationale: Upgrades from Ventilation System A to a more efficient system (e.g., System C or D) to maintain air quality.
+   - Cost: €17/m² (PER-M2)
+   - Nuisance Level: Moderate
+
+**Phase 5: Renewable Energy Generation**
+8. **Place PV-Panels on Roof**
+   - Priority: Low
+   - Rationale: Offsets the electricity consumption of the heat pump and ventilation system.
+   - Cost: €275/m² (PER-M2)
+   - Nuisance Level: Low
+
+#### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Attic Floor** | Reduces heat loss upward. |
+| **2** | **Insulate Exterior Walls** | Eliminates thermal bridges. |
+| **3** | **Insulate Floor Above Basement** | Prevents cold drafts. |
+| **4** | **Replace Glazing** | Improves window thermal performance. |
+| **5** | **Air-Water Heat Pump** | Transition to a sustainable heating system. |
+| **6** | **Low-Temperature Emission System** | Maximizes heat pump efficiency. |
+| **7** | **Ventilation Upgrade** | Ensures proper air exchange. |
+| **8** | **PV-Panels on Roof** | Generates renewable electricity. |
+
+This sequence ensures that the building is thermally optimized before installing high-efficiency systems, preventing oversized equipment and maximizing energy savings. The final EPC label should reach **A+** after completion.

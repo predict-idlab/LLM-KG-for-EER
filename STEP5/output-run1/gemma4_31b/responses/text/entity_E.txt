@@ -1,0 +1,47 @@
+**Renovation Plan**
+
+Based on the provided building data, the property is a detached house from 1862 with an EPC score of 165. Despite its age, the house is not historically protected, allowing for significant energy-efficiency upgrades. 
+
+To maximize energy efficiency while remaining cost-effective, the renovation will follow the **"Fabric First"** principle: we first reduce the energy demand by sealing the building envelope, then install high-efficiency systems tailored to that lower demand, and finally integrate renewable energy.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The goal is to eliminate heat loss through the walls and floors. Because the house has cavity walls, there is a highly cost-effective opportunity to improve insulation without altering the exterior aesthetics.
+
+1.  **Cavity Wall Insulation:** All four exterior walls are cavity walls and currently uninsulated. Injecting insulation into these cavities is one of the most cost-effective upgrades available, offering a high return on investment by drastically reducing thermal bridging.
+2.  **Insulate Floor Above Crawl Space:** The floor above the crawl space is likely uninsulated. Adding insulation here prevents cold air from entering the living space from below, eliminating "cold feet" and reducing the heating load.
+*Note: The pitched roof is already well-insulated, so no further action is required there.*
+
+#### Phase 2: Window Performance (Priority: High)
+Single glazing acts as a thermal hole in the building envelope, regardless of how well the walls are insulated.
+
+3.  **Replace Single Glazing:** While the wooden frames are in good condition, single glazing is highly inefficient. Replacing the glass with high-performance double or triple glazing is essential to reduce heat loss and improve acoustic comfort.
+
+#### Phase 3: High-Efficiency Heating Transition (Priority: Medium)
+With a tightened envelope and improved glazing, the total heat demand of the house is now significantly lower. This allows for the installation of a low-temperature system rather than an oversized, expensive boiler.
+
+4.  **Replace Emission Systems:** The current mix of radiators and electric convectors is inefficient and in poor condition. These should be replaced with low-temperature emitters (e.g., oversized radiators or underfloor heating) to maximize the efficiency of the new heat generator.
+5.  **Install Air-Water Heat Pump:** Since geothermal and district heating are unavailable, an **Air-Water Heat Pump** is the most sustainable and cost-effective choice to replace the old boiler.
+
+#### Phase 4: Ventilation and Air Quality (Priority: Medium)
+As the house becomes more airtight through insulation and new glazing, natural ventilation (System A) will no longer be sufficient to prevent moisture buildup and ensure healthy indoor air quality.
+
+6.  **Upgrade Ventilation System:** Transition from natural ventilation to a mechanical system (such as System C or D). This ensures a controlled flow of fresh air without losing excessive heat.
+
+#### Phase 5: Sustainable Energy Generation (Priority: Long-term)
+The final step is to offset the electrical consumption of the heat pump and ventilation system.
+
+7.  **Install Photovoltaic (PV) Panels:** Since the house has confirmed potential for PV, installing solar panels on the roof will provide renewable energy to power the home's new electrical systems, further lowering the EPC score and operational costs.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Cavity Wall $\rightarrow$ Floor Insulation** | Most cost-effective way to lower total energy demand. |
+| **2** | **Glazing Upgrade** | Eliminates the primary remaining source of thermal leakage. |
+| **3** | **Low-Temp Emitters $\rightarrow$ Heat Pump** | Switches to a sustainable source scaled to the new, lower heat load. |
+| **4** | **Ventilation Upgrade** | Prevents condensation and maintains air quality in a sealed house. |
+| **5** | **PV Panel Installation** | Offsets electricity costs and maximizes the EPC rating. |

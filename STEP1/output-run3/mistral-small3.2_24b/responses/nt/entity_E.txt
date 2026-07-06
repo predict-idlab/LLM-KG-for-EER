@@ -1,0 +1,67 @@
+### Renovation Plan for the Building
+
+#### **Objective:**
+Improve the energy efficiency of the building while maintaining its historical integrity and considering the owner's motivations and constraints.
+
+#### **Key Priorities:**
+1. **Improve Energy Performance Certificate (EPC) Label**
+   - The building currently has an EPC score of 165, which falls under the E-label category.
+   - Goal: Achieve a higher EPC label (e.g., D or higher) through targeted renovations.
+
+2. **Address Insulation Deficiencies**
+   - The building has several walls (Front, Left, Right, Rear) that are not insulated.
+   - The roof is well-insulated, but the walls are not.
+
+3. **Consider Renewable Energy Options**
+   - The site has potential for PV panels (as indicated by `hasPotentialForPV: true`).
+   - Consider installing solar panels to generate renewable energy.
+
+4. **Address Ventilation and Emission Systems**
+   - The building has a Ventilation System A, which is a basic system.
+   - The emission system is currently an electric convector, which may not be the most efficient option.
+
+---
+
+### **Actionable Steps:**
+
+#### **1. Insulate Exterior Walls**
+   - **Action:** Insulate the exterior walls (Front, Left, Right, Rear) using appropriate materials.
+   - **Reasoning:**
+     - The walls are currently not insulated (`hasInsulationGrade: NotInsulated`).
+     - Insulating the exterior walls will significantly improve the building's thermal performance.
+   - **Expected Outcome:**
+     - Improved thermal comfort and reduced energy consumption.
+     - Potential improvement in EPC label.
+
+#### **2. Upgrade Ventilation System**
+   - **Action:** Consider upgrading the ventilation system from Ventilation System A to a more efficient system (e.g., Ventilation System C).
+   - **Reasoning:**
+     - The current system may not be the most efficient for the building's needs.
+     - A more advanced ventilation system can improve air quality and energy efficiency.
+   - **Expected Outcome:**
+     - Better indoor air quality and potential energy savings.
+
+#### **3. Install Solar Panels**
+   - **Action:** Assess the feasibility of installing solar panels on the roof.
+   - **Reasoning:**
+     - The site has potential for PV panels (`hasPotentialForPV: true`).
+     - Solar panels can generate renewable energy, reducing the building's carbon footprint and energy costs.
+   - **Expected Outcome:**
+     - Reduced reliance on grid electricity and lower energy bills.
+
+#### **4. Consider Upgrading Emission System**
+   - **Action:** Evaluate the possibility of replacing the electric convector with a more efficient emission system (e.g., a heat pump or radiator).
+   - **Reasoning:**
+     - The current emission system is an electric convector, which may not be the most energy-efficient option.
+     - A more efficient system can reduce energy consumption and improve heating performance.
+   - **Expected Outcome:**
+     - Improved heating efficiency and potential energy savings.
+
+---
+
+### **Additional Considerations:**
+- **Historical Protection:** The building does not have historical protection, so renovations can proceed without additional regulatory constraints.
+- **Owner's Motivation:** The owner's primary motivation is to improve the EPC label, which aligns with the proposed actions.
+- **Budget and Feasibility:** Ensure that the proposed actions are feasible within the owner's budget and align with their preferences.
+
+By following this plan, the building's energy efficiency can be significantly improved, leading to a better EPC label, reduced energy consumption, and enhanced comfort for the residents.

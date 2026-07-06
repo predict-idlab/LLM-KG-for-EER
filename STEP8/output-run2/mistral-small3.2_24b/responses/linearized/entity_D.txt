@@ -1,0 +1,9 @@
+Based on the provided building information and the RENO ontology, here's a concise and actionable renovation plan:
+
+1. insulate flat roof
+2. insulate wall on exterior
+3. insulate floor above basement
+4. replace ventilation system
+5. place emission system on low temperature
+6. place air-water heat pump
+7. place pv-panels on roof

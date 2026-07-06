@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump"], "extra_actions": ["insulate gable roof", "replace windows", "place pv-panels on roof", "place emission system on low temperature", "place sunshade", "connect to heatgrid", "place heatpumpboiler"]}, "sequence": {"order_errors": []}}

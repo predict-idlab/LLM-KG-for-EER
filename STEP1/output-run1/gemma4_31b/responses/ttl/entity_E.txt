@@ -1,0 +1,51 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path. This plan follows the **"Fabric First"** principle: we first minimize energy loss (insulation/glazing) to reduce the required heating capacity, then upgrade the generation system, and finally add renewable energy production.
+
+### 1. Building Analysis Summary
+*   **Current Status:** Detached building (1862) with an EPC score of 165.0 (B label).
+*   **Critical Weaknesses:** 
+    *   **Walls:** All four exterior walls are cavity walls and are **not insulated**.
+    *   **Windows:** All existing windows use **single glazing**, which is highly inefficient.
+    *   **Ventilation:** Currently uses **System A** (natural ventilation), the least efficient type.
+    *   **Heating:** Uses electric convectors (high operational cost) and there is a stated reason to change the emission system.
+*   **Assets:** Roof is already well-insulated; window frames are in good state; building has potential for PV panels.
+
+---
+
+### 2. Proposed Renovation Path (Optimal Sequence)
+
+#### Phase 1: Thermal Envelope (The "Quick Wins")
+*Goal: Stop heat leakage using the most cost-effective methods.*
+1.  **Insulate Wall Cavities (`reno:InsulateWallCavity`):** Since all walls are cavity walls and not insulated, this is the highest priority. It has a low nuisance level and the lowest unit price (22/m²).
+2.  **Insulate Floor Above Crawl Space (`reno:InsulateFloorAboveBasement`):** To prevent cold drafts from the crawl space, this is a low-cost (30/m²), low-nuisance upgrade.
+
+#### Phase 2: Thermal Envelope (High Impact)
+*Goal: Address the most significant remaining thermal bridges.*
+3.  **Replace Glazing (`reno:ReplaceGlazing`):** The building currently has single glazing. Since the wooden frames are in **"Good State,"** it is more cost-effective to replace only the glass (e.g., to double or triple glazing) rather than replacing the entire window unit.
+
+#### Phase 3: Ventilation & Air Quality
+*Goal: Improve air exchange efficiency to prevent moisture and heat loss.*
+4.  **Replace Ventilation System (`reno:ReplaceVentilationSystem`):** Upgrading from System A to a more modern system (like System C or D) will ensure that the newly insulated home remains healthy and does not suffer from condensation.
+
+#### Phase 4: Heating Generation & Emission
+*Goal: Transition from expensive electricity/old systems to high-efficiency technology.*
+5.  **Install Air-Water Heat Pump (`reno:PlaceAirWaterHeatpump`):** Geothermal and heat grid options are unavailable for this site. An air-water heat pump is the most sustainable alternative to replace the current electric convectors.
+6.  **Upgrade to Low-Temperature Emission (`reno:PlaceLowTemperatureEmission`):** Since the building "has reason to change the emission system," moving toward low-temperature emitters (like underfloor heating or larger radiators) will maximize the efficiency of the new heat pump.
+
+#### Phase 5: Energy Production
+*Goal: Offset operational costs with renewable energy.*
+7.  **Install PV Panels on Roof (`reno:PlacePVPanelsOnRoof`):** The building is confirmed to have PV potential. This is the final step to lower the yearly energy bill and improve the EPC score further.
+
+---
+
+### 3. Summary of Cost-Effectiveness & Efficiency
+
+| Step | Action | Cost Level | Nuisance | Efficiency Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Cavity Wall Insulation | Low | Low | Very High |
+| 2 | Floor Insulation | Low | Low | Medium |
+| 3 | Glazing Replacement | Medium | High | High |
+| 4 | Ventilation Upgrade | Medium | Moderate | Medium |
+| 5 | Air-Water Heat Pump | High | Moderate | Very High |
+| 6 | PV Panels | Medium | Low | High (Operational) |
+
+**Final Result:** This path transforms an 1862 structure into a modern, energy-efficient home by first reducing the energy demand (Walls $\rightarrow$ Floor $\rightarrow$ Windows) and then optimizing the energy supply (Heat Pump $\rightarrow$ PV Panels).

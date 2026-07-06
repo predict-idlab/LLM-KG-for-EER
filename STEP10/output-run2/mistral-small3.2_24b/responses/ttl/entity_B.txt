@@ -1,0 +1,84 @@
+### Renovation Plan for Attached Building (1832, EPC 262)
+
+#### Key Observations:
+1. **Building Type**: Attached (1832, Belgium, 212 m²).
+2. **EPC**: 262 (C Label), motivation to improve.
+3. **Thermal Envelope**:
+   - **Roofs**: Flat roof (not insulated), gable roof (moderately insulated).
+   - **Walls**: Full brick, not insulated (Front, Rear).
+   - **Floors**: Floor above basement (not insulated).
+4. **Windows**: Double-glazed, wooden frames (good condition).
+5. **Systems**:
+   - Radiator emission system.
+   - Ventilation System A (natural).
+6. **Potential**:
+   - PV potential: **True**.
+   - Geothermal potential: **False**.
+   - Heat grid: **False**.
+
+---
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Fabric First)
+**Goal**: Reduce heat loss through uninsulated elements.
+
+1. **Insulate Flat Roof**
+   - **Action**: `insulate flat roof` (Ordering: 25).
+   - **Rationale**: Flat roofs are major sources of heat loss; insulation will improve thermal performance significantly.
+
+2. **Insulate Walls On Exterior**
+   - **Action**: `insulate wall on exterior` (Ordering: 40).
+   - **Rationale**: Full brick walls (Front, Rear) are not insulated. Exterior insulation avoids thermal bridges and is more effective than interior insulation for attached buildings.
+
+3. **Insulate Floor Above Basement**
+   - **Action**: `insulate floor above basement` (Ordering: 49).
+   - **Rationale**: Prevents cold drafts from the basement and improves overall comfort.
+
+#### Phase 2: Window and Ventilation Upgrades
+**Goal**: Improve air quality and thermal comfort.
+
+4. **Replace Ventilation System**
+   - **Action**: `replace ventilation system` (Ordering: 52).
+   - **Rationale**: Upgrade from Ventilation System A (natural) to System D (mechanical supply/exhaust) to ensure controlled air exchange in a now-sealed envelope.
+
+#### Phase 3: Heating System Transition
+**Goal**: Optimize heating efficiency after envelope improvements.
+
+5. **Place Air-Water Heat Pump**
+   - **Action**: `place air-water heatpump` (Ordering: 67).
+   - **Rationale**: Replaces the existing boiler with a more efficient, low-temperature system. Geothermal is not feasible, and there is no heat grid.
+
+6. **Place Emission System on Low Temperature**
+   - **Action**: `place emission system on low temperature` (Ordering: 70).
+   - **Rationale**: Ensures the radiators work optimally with the new heat pump.
+
+#### Phase 4: Renewable Energy Integration
+**Goal**: Offset electricity consumption and further improve EPC.
+
+7. **Place PV-Panels on Roof**
+   - **Action**: `place PV-panels on roof` (Ordering: 85).
+   - **Rationale**: The building has PV potential. Solar panels will generate renewable electricity for the heat pump and ventilation system.
+
+---
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof** | High heat loss through flat roofs; improves thermal performance. |
+| **2** | **Insulate Wall On Exterior** | Eliminates thermal bridges; more effective than interior insulation. |
+| **3** | **Insulate Floor Above Basement** | Prevents cold drafts from the basement. |
+| **4** | **Replace Ventilation System** | Ensures controlled air exchange in a sealed envelope. |
+| **5** | **Place Air-Water Heat Pump** | More efficient than the existing boiler; compatible with low-temperature emissions. |
+| **6** | **Place Emission System on Low Temperature** | Optimizes heat pump performance. |
+| **7** | **Place PV-Panels on Roof** | Offsets electricity consumption; leverages PV potential. |
+
+---
+
+### Notes:
+- **Cost-Effectiveness**: The sequence prioritizes high-impact, low-cost measures first (e.g., insulation) before investing in new systems.
+- **EPC Improvement**: This plan will significantly reduce the EPC score, potentially moving the building into the B or A label range.
+- **Historical Protection**: None of the elements are historically protected, allowing for unrestricted renovations.
+
+This plan aligns with the "Insulate → Ventilate → Generate" principle, ensuring long-term energy efficiency and cost savings.

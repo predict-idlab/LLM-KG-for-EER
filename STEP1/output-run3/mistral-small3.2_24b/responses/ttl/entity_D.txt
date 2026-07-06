@@ -1,0 +1,60 @@
+Based on the provided RENO ontology and the building information, here's a cost-effective and energy-efficient renovation plan for the semi-detached building (ex:Building):
+
+### Priority Recommendations:
+
+1. **Replace Roof Extension (Flat Roof)**
+   - Current insulation: Well insulated
+   - Action: Replace the flat roof (Ordering: 10)
+   - Cost: €120/m²
+   - Benefits: Improves thermal performance of the entire roof structure
+
+2. **Insulate Gable Roof (RoofMain)**
+   - Current insulation: Moderately insulated
+   - Action: Insulate gable roof (Ordering: 28)
+   - Cost: €60/m²
+   - Benefits: Enhances energy efficiency of the pitched roof area
+
+3. **Replace Windows (WindowsBedrooms, WindowsLivingArea)**
+   - Current glazing: Double glazing
+   - Action: Consider upgrading to triple glazing if possible (Ordering: 46)
+   - Cost: €800/m² for complete window replacement
+   - Benefits: Significant reduction in heat loss through windows
+
+4. **Consider PV Panels on Roof (PVPanels)**
+   - Current potential: False (but roof orientation wasn't specified)
+   - Action: Evaluate solar panel installation (Ordering: 85)
+   - Cost: €275/m²
+   - Benefits: Renewable energy generation to offset consumption
+
+### Secondary Recommendations:
+
+5. **Insulate Walls (Wall_Front, Wall_Left, Wall_Rear)**
+   - Current insulation: Well insulated
+   - Action: No immediate need for insulation upgrade
+   - Consideration: Monitor performance and energy bills to assess future needs
+
+6. **Heat Pump Evaluation (Generation_System)**
+   - Current system: Heat pump
+   - Action: Consider upgrading to a more efficient heat pump model
+   - Benefits: Potentially lower energy consumption for space heating
+
+7. **Ventilation System (VentilationSystemD)**
+   - Current system: Ventilation system D
+   - Action: Maintain and optimize existing system
+   - Consideration: Ensure proper maintenance for energy efficiency
+
+### Implementation Sequence:
+
+1. Start with roof replacement (Ordering: 10)
+2. Proceed with gable roof insulation (Ordering: 28)
+3. Upgrade windows (Ordering: 46)
+4. Evaluate and potentially install PV panels (Ordering: 85)
+
+### Key Considerations:
+
+- The building already has well-insulated floors and walls, so focus on other elements
+- The semi-detached nature of the building means some walls are shared (Wall_Left, Wall_Rear)
+- Current energy performance (EPC score: 87) suggests the building is already performing reasonably well
+- The renovation motivation is to improve the EPC value (ex:Owner has motivation reno:ToImproveEPC)
+
+This plan focuses on the most impactful upgrades while considering the optimal sequence of renovations as indicated by the ordering values in the ontology. The recommendations prioritize areas with the highest potential for energy savings and improved thermal comfort.

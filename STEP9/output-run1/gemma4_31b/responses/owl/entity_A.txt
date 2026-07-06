@@ -1,0 +1,43 @@
+To maximize energy efficiency while remaining cost-effective, the renovation should follow a **"Fabric First"** approach. This means improving the building's thermal envelope (insulation) first to reduce the total energy demand before upgrading the heating and energy generation systems.
+
+Based on the building's current state (EPC score 388/D label) and the owner's motivation to improve the EPC, here is the proposed renovation path.
+
+### Phase 1: Thermal Envelope (The "Fabric First" Step)
+*Goal: Stop heat loss to reduce the required capacity of future heating systems.*
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. Since it is in a "Good State," insulation can be added without replacing the structure. This is the most effective way to prevent heat from escaping through the top of the building.
+2.  **Insulate Wall Cavities:** The front, rear, and right walls are full brick and not insulated. Cavity wall insulation is significantly more cost-effective than exterior insulation and provides a high return on investment for energy reduction.
+3.  **Insulate Floor Above Basement:** The floor above the basement is not insulated. Adding insulation here prevents "cold feet" and reduces heat loss to the basement, improving overall thermal comfort.
+
+### Phase 2: Air Quality & Ventilation
+*Goal: Ensure healthy indoor air after the building is better sealed.*
+
+4.  **Replace Ventilation System:** The building currently uses a Type A system (natural supply/exhaust), which is the least efficient. As insulation is added, the house becomes more airtight; upgrading to a more modern ventilation system (e.g., Type C or D) is essential to prevent moisture buildup and ensure air quality.
+
+### Phase 3: Sustainable Heating Upgrade
+*Goal: Transition from fossil fuels to a high-efficiency electrical system.*
+
+5.  **Place Air-Water Heat Pump:** The building has a reason to change its emission system and already possesses radiators and floor heating. Since geothermal options are not viable for this site and there is no heat grid, an air-water heat pump is the most efficient replacement for the existing boiler. It leverages the existing emission system while drastically reducing carbon emissions.
+
+### Phase 4: Renewable Energy Generation
+*Goal: Offset the electricity costs of the new heat pump.*
+
+6.  **Place PV-Panels on Roof:** The building is confirmed to have potential for PV. Installing solar panels is the final step to lower operational costs, providing the electricity needed to run the heat pump and other household appliances.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Action | Priority | Justification |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Highest heat loss area; high efficiency gain. |
+| **2** | **Insulate Wall Cavity** | High | Cost-effective way to treat all exterior walls. |
+| **3** | **Insulate Floor (Basement)** | Medium | Improves comfort and prevents ground-level loss. |
+| **4** | **Replace Ventilation** | Medium | Prevents condensation after insulation upgrades. |
+| **5** | **Air-Water Heat Pump** | Medium | High efficiency; utilizes existing radiators/floor heating. |
+| **6** | **PV-Panels on Roof** | Low | Lowers long-term operational costs of the heat pump. |
+
+**Why this path?**
+*   **Cost-Effectiveness:** By prioritizing cavity insulation and roof insulation over window replacement (as windows are already double-glazed and in good state), we avoid unnecessary high-cost expenditures.
+*   **Efficiency:** Upgrading the heat pump *after* insulation ensures the system is not oversized, which saves on installation costs and improves operational performance.
+*   **Logic:** The sequence follows the natural flow of energy: **Stop the leak $\rightarrow$ Manage the air $\rightarrow$ Upgrade the source $\rightarrow$ Generate the power.**

@@ -1,0 +1,17 @@
+The building described is a semi-detached house constructed in 1951, with an EPC score of 388 (D-label). The house has two main areas: bedrooms and a living area. The building has a flat roof extension and a main gable roof. The walls are full brick walls without insulation, and the windows have wooden frames with double glazing. The roof is not insulated, and the floor above the basement is not insulated. The ventilation system is type A. The owner wants to improve the EPC label of the building.
+
+Based on this information, the following renovation plan is suggested:
+
+1. Insulate the flat roof extension (Replace Flat Roof + Insulate Flat Roof): This will significantly improve the thermal performance of the roof and reduce heat loss. The cost is €40/m² for removal of asbestos (if present) and €50/m² for insulation. The ordering is 10 and 25, respectively.
+
+2. Insulate the main gable roof (Replace Gable Roof + Insulate Gable Roof): This will also improve the thermal performance of the roof and reduce heat loss. The cost is €45/m² for removal of asbestos (if present) and €60/m² for insulation. The ordering is 13 and 28, respectively.
+
+3. Insulate the floor above the basement (Insulate Floor Above Basement): This will improve the thermal performance of the floor and reduce heat loss. The cost is €30/m². The ordering is 49.
+
+4. Replace the ventilation system (Replace Ventilation System): This will improve the ventilation efficiency and indoor air quality. The cost is €3500 (fixed) and €17/m². The ordering is 52.
+
+5. Place a vertical geothermal heat pump (Place Vertical Geothermal Heatpump): This will provide a renewable and efficient heating solution. The cost is €15000 (fixed) and €50/m². The ordering is 61.
+
+6. Place PV panels on the roof (Place PV-panels on roof): This will generate renewable energy and reduce the energy consumption. The cost is €275/m². The ordering is 85.
+
+This renovation plan is tailored to the building's specific characteristics and the owner's motivation to improve the EPC label. The suggested actions are based on the ontology and the suggestion list provided. The ordering of the actions is based on the 'ordering' property in the ontology, which indicates the recommended sequence of renovations. The plan focuses on improving the building's energy efficiency and reducing its carbon footprint.

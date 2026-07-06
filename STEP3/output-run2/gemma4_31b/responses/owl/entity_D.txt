@@ -1,0 +1,45 @@
+Based on the provided RENO ontology, the suggestion list, and the specific data for the building, here is the professional renovation analysis and proposed path.
+
+### 1. Building Status Analysis
+The building is a modern semi-detached house (constructed in 2017) that is already performing at a very high energy efficiency level.
+*   **Current EPC Score:** 87 (A Label), which indicates excellent energy performance.
+*   **Thermal Envelope:** Most elements are already "Well Insulated," including the walls (front, left, rear), the flat roof extension, and the floor above the basement.
+*   **Systems:** The home is already equipped with high-efficiency systems: a Heat Pump for generation, a Ventilation System D (the most efficient type), and existing PV panels.
+*   **Windows:** The wooden frames are in good state and were updated to double glazing in 2020.
+
+**The "Weak Point":** The only building element not categorized as "Well Insulated" is the **Main Gable Roof**, which is currently **"Moderately Insulated."**
+
+---
+
+### 2. Proposed Renovation Path
+Given that the building is already highly efficient, the goal is to move from "Excellent" to "Optimal" while ensuring cost-effectiveness. I propose a focused two-step path.
+
+#### Step 1: Thermal Envelope Optimization (Priority: High)
+**Action:** **Insulate Gable Roof**
+*   **Justification:** This is the only remaining thermal bridge in the building's envelope. Bringing the gable roof from "Moderately Insulated" to "Well Insulated" will minimize heat loss in winter and heat gain in summer, further lowering the EPC score.
+*   **Cost-Effectiveness:** With a unit price of 60/m² and a "low" nuisance level, this is a practical and relatively inexpensive upgrade compared to wall or window replacements.
+*   **Sequence Note:** According to the ontology's ordering (Value: 28), roof insulation should be prioritized before system upgrades or aesthetic additions.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### Step 2: Passive Cooling & Energy Reduction (Priority: Medium)
+**Action:** **Place Sunshade**
+*   **Justification:** Since the building is already well-insulated and airtight (Ventilation D), it may be prone to overheating in the summer. Adding sunshades is a cost-effective way to reduce the cooling load on the heat pump.
+*   **Cost-Effectiveness:** This has a low fixed price (750) and a low nuisance level.
+*   **Sequence Note:** This is a finishing touch (Ordering: 79) that optimizes the operational performance of the existing HVAC system.
+*   **Point of Attention:** Opt for outdoor blinds, as they are more efficient at blocking solar radiation than indoor blinds.
+
+---
+
+### 3. Summary of the Plan
+
+| Sequence | Renovation Action | Target Element | Impact | Cost Level | Nuisance |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | Maximize Thermal Retention | Low/Med | Low |
+| **2** | **Place Sunshade** | Windows/Facades | Reduce Summer Energy Load | Low | Low |
+
+### 4. Excluded Actions & Rationale
+*   **Replace Windows/Glazing:** Not recommended. The current double glazing and wooden frames are in good state; the marginal gain of triple glazing would not be cost-effective given the already low EPC of 87.
+*   **Wall Insulation:** Not recommended. All walls are already "Well Insulated."
+*   **HVAC/Heat Pump Upgrades:** Not recommended. The building already has a Heat Pump and Ventilation System D, and the owner explicitly stated there is no reason to change the emission system.
+*   **Additional PV Panels:** Not recommended. The building already has PV panels and is marked as having no further potential for PV.
+*   **Geothermal:** Not recommended. The site has no potential for vertical or horizontal geothermal drilling.

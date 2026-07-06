@@ -1,0 +1,74 @@
+Based on the provided information, here is a concise and actionable renovation plan tailored to the entity. The plan prioritizes energy efficiency and cost-effectiveness, taking into account the most optimal sequence to maximize the benefits of each renovation step.
+
+### **Renovation Plan for the Semi-Detached Building**
+
+#### **1. Insulate the Flat Roof (RoofExtension)**
+   - **Reasoning**: The flat roof (RoofExtension) is moderately insulated, and insulation will significantly improve its energy efficiency.
+   - **Action**:
+     - Insulate the flat roof with appropriate materials to achieve a well-insulated grade.
+     - Ensure proper installation to avoid condensation issues.
+   - **Cost**: Estimated cost based on the unit price and surface area.
+   - **Nuisance Level**: High (requires careful execution).
+   - **Permit Needed**: Only if the total pack thickness exceeds 26cm (Flanders).
+
+#### **2. Insulate the Gable Roof (RoofMain)**
+   - **Reasoning**: The gable roof (RoofMain) is moderately insulated, and improving its insulation will further enhance the building's energy performance.
+   - **Action**:
+     - Insulate the gable roof with suitable materials.
+     - Install a vapour barrier on the warm side of the insulation to prevent condensation.
+   - **Cost**: Estimated cost based on the unit price and surface area.
+   - **Nuisance Level**: Low.
+   - **Permit Needed**: Not necessary (Flanders).
+
+#### **3. Replace the Glazing (WindowsLivingArea and WindowsBedrooms)**
+   - **Reasoning**: The windows in the living area and bedrooms have double glazing, which can be replaced with triple glazing to improve thermal and acoustic performance.
+   - **Action**:
+     - Replace the glazing with triple glazing.
+     - Ensure the window frames are in good condition and can accommodate the new glazing.
+   - **Cost**: Estimated cost based on the unit price and the number of windows.
+   - **Nuisance Level**: High (requires careful handling of the glazing).
+   - **Permit Needed**: Not necessary if the measurements are kept (Flanders).
+
+#### **4. Insulate the Walls (Wall_Front, Wall_Left, Wall_Rear)**
+   - **Reasoning**: The walls (Wall_Front, Wall_Left, Wall_Rear) are well-insulated, but further insulation can enhance energy efficiency.
+   - **Action**:
+     - Insulate the walls with appropriate materials.
+     - Ensure the insulation is properly installed to avoid any gaps or issues.
+   - **Cost**: Estimated cost based on the unit price and surface area.
+   - **Nuisance Level**: Moderate (requires careful execution).
+   - **Permit Needed**: Not necessary if the thickness of the total pack is less than or equal to 26cm (Flanders).
+
+#### **5. Replace the Ventilation System (VentilationSystem)**
+   - **Reasoning**: The current ventilation system (VentilationSystem) is a ventilation system D, which can be replaced with a more efficient system to improve air quality and energy efficiency.
+   - **Action**:
+     - Replace the ventilation system with a more efficient model.
+     - Ensure proper installation and integration with the existing ductwork.
+   - **Cost**: Estimated cost based on the unit price.
+   - **Nuisance Level**: Moderate (requires careful handling of the ductwork).
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+#### **6. Place a Low-Temperature Emission System (EmissionSystem)**
+   - **Reasoning**: The current emission system can be optimized for low-temperature operation to improve energy efficiency.
+   - **Action**:
+     - Install a low-temperature emission system.
+     - Ensure the system is properly integrated with the existing heating system.
+   - **Cost**: Estimated cost based on the unit price.
+   - **Nuisance Level**: Moderate (requires careful integration).
+   - **Permit Needed**: Not necessary (Flanders).
+
+#### **7. Install Photovoltaic Panels (PVPanels)**
+   - **Reasoning**: The building has potential for photovoltaic panels, which can generate renewable energy and reduce energy costs.
+   - **Action**:
+     - Install photovoltaic panels on the roof or in the garden.
+     - Ensure the panels are properly oriented and connected to the power grid.
+   - **Cost**: Estimated cost based on the unit price and the number of panels.
+   - **Nuisance Level**: Low (requires proper installation).
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders).
+
+#### **8. Additional Considerations**
+   - **Reasoning**: The building's energy performance certificate (EPC) has a score of 87, which can be improved through the above interventions.
+   - **Action**:
+     - Monitor the energy consumption and performance after the renovations.
+     - Consider regular maintenance to ensure the systems operate efficiently.
+
+This plan prioritizes actions that provide the most significant energy efficiency gains while considering cost-effectiveness and the nuisance level of each intervention. The sequence is designed to maximize the benefits of each step, ensuring that the building's energy performance is progressively improved.

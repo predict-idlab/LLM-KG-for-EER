@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["replace glazing", "place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["insulate wall on exterior", "install smart thermostats", "replace light bulbs with led lighting", "upgrade to energy-efficient appliances"]}, "sequence": {"order_errors": []}}

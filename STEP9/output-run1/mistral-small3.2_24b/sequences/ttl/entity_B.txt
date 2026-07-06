@@ -1,0 +1,14 @@
+1. remove asbestos flat roof
+2. remove asbestos gable roof
+3. replace flat roof
+4. replace gable roof
+5. insulate flat roof
+6. insulate gable roof
+7. insulate attic floor
+8. insulate wall cavity
+9. replace windows
+10. insulate floor above basement
+11. replace ventilation system
+12. place air-water heat pump
+13. place low temperature emission system
+14. place pv-panels roof

@@ -1,0 +1,15 @@
+{
+  "completeness": {
+    "missing_actions": [],
+    "extra_actions": [
+      "replace double glazing with triple glazing",
+      "insulate gable roof",
+      "replace roof underlayment"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}
+
+ 	 	 	 	 	 	 	 	 	 	

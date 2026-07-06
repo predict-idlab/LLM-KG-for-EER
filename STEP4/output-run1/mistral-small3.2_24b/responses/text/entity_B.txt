@@ -1,0 +1,29 @@
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is an 1832 attached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Flat Roof:** The flat-roof extension is currently not insulated. This is a priority as heat rises; insulating the flat roof is one of the most effective ways to lower energy consumption.
+2. **Insulate Exterior Walls:** Both the front and rear exterior walls are solid brick and not insulated. **Insulating the walls on the exterior** is the most effective method to eliminate thermal bridges and improve thermal retention.
+3. **Insulate Floor Above Basement:** The floor above the basement is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+
+#### Phase 2: Heating System Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+4. **Replace Boiler with Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+5. **Upgrade to Low-Temperature Emission System:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+#### Phase 3: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Upgrade Ventilation System:** Replace the basic natural ventilation system with a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Install Photovoltaic (PV) Panels:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+**Exterior Wall Insulation** → **Floor Insulation** → **Flat Roof Insulation** → **Air-Water Heat Pump** → **Low-Temp Emission Upgrade** → **Ventilation Upgrade** → **PV Panels**.
+
+This sequence ensures that the building's thermal envelope is optimized first, reducing the overall energy demand before transitioning to a more efficient heating system and adding renewable energy generation.

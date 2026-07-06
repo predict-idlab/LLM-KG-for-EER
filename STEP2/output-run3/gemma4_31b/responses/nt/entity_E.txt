@@ -1,0 +1,48 @@
+Based on the provided building data and the RENO ontology, the building is a detached house from 1862 with a relatively good EPC score (165), but significant opportunities exist to improve its energy efficiency. The owner's primary motivation is to improve the EPC label.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. By optimizing the building envelope first, we reduce the overall heating demand, allowing for a smaller, more efficient heating system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Building Envelope (The "Quick Wins")
+These steps focus on reducing heat loss. Since the roof is already well-insulated, we focus on the walls, windows, and floors.
+
+1.  **Insulate Wall Cavities:** All four walls (`Wall_Front`, `Wall_Rear`, `Wall_Left`, `Wall_Right`) are identified as **Cavity Walls** and are currently **Not Insulated**. 
+    *   *Action:* **Insulate wall cavity**.
+    *   *Reasoning:* This is one of the most cost-effective ways to reduce heat loss without altering the building's exterior appearance.
+2.  **Upgrade Window Glazing:** Both the bedrooms and living area currently have **Single Glazing**, which is a major source of thermal leakage. However, the wooden frames are in **Good State (8/10)**.
+    *   *Action:* **Replace glazing** (upgrade to double or triple glazing).
+    *   *Reasoning:* Replacing only the glass rather than the entire window unit is more cost-effective given the high quality of the existing frames.
+3.  **Insulate the Floor:** The building has a floor above a crawl space.
+    *   *Action:* **Insulate floor above basement**.
+    *   *Reasoning:* This prevents cold air from the crawl space from entering the living areas, improving thermal comfort and EPC.
+
+#### Phase 2: Systems & Ventilation
+Once the envelope is sealed, we must ensure air quality and upgrade the energy source.
+
+4.  **Upgrade Ventilation:** The building currently uses **Ventilation System A** (basic).
+    *   *Action:* **Replace ventilation system** (upgrade to System C or D).
+    *   *Reasoning:* After insulating walls and windows, the house becomes more airtight. A more advanced ventilation system is necessary to prevent moisture buildup and maintain air quality.
+5.  **Transition to Sustainable Heating:** The building has a reason to change its emission system and currently uses a mix of electric convectors and radiators. Geothermal options are not viable for this site.
+    *   *Action:* **Place air-water heatpump**.
+    *   *Reasoning:* Given the existing radiator and floor heating infrastructure, an air-water heat pump is the most efficient and logical replacement for the current boiler/electric system.
+
+#### Phase 3: Renewable Energy
+The final step is to offset the electrical demand of the new heat pump.
+
+6.  **Install Solar Energy:** The building is confirmed to have potential for PV.
+    *   *Action:* **Place PV-panels on roof**.
+    *   *Reasoning:* This directly reduces operational costs and significantly boosts the EPC score by generating clean energy on-site.
+
+### Summary of Sequence and Logic
+
+| Order | Action | Focus | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | Insulate Wall Cavity | Envelope | Very High (Low cost/High impact) |
+| **2** | Replace Glazing | Envelope | High (Preserves existing frames) |
+| **3** | Insulate Floor | Envelope | High |
+| **4** | Replace Ventilation | Air Quality | Moderate (Necessary for health) |
+| **5** | Air-Water Heat Pump | Energy Source | Moderate (Long-term ROI) |
+| **6** | PV-Panels on Roof | Renewables | Moderate (Operational savings) |
+
+**Total Impact:** This sequence ensures that the new heating system is not oversized (because the house is now better insulated) and that the electricity required to run the heat pump is partially offset by the solar panels, maximizing both energy efficiency and long-term cost-effectiveness.

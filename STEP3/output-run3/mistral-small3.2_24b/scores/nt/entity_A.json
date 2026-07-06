@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump"], "extra_actions": ["replace flat roof", "replace gable roof"]}, "sequence": {"order_errors": ["replace gable roof", "replace windows", "insulate attic floor", "insulate walls"]}}

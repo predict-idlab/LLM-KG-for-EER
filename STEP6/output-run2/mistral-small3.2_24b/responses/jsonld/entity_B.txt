@@ -1,0 +1,60 @@
+The building is an attached house from 1832 with a C label (262 kWh/m²year). The owner wants to improve the EPC rating.
+
+### Key Observations:
+1. **Thermal Envelope**: The building has several uninsulated elements (two walls, flat roof, floor above basement).
+2. **Windows**: All windows already have double glazing and are in good condition, so replacement is not needed.
+3. **Heating System**: The current heating system is a radiator-based system. The ventilation system is type A (natural).
+4. **Energy Potential**: The building has potential for PV installation but no geothermal or heat grid availability.
+
+### Renovation Strategy:
+Follow the **"Insulate → Ventilate → Generate"** sequence to maximize efficiency and cost-effectiveness.
+
+### Phase 1: Insulation (High Priority)
+1. **Insulate Walls on Exterior** (Wall_Front and Wall_Rear):
+   - Both walls are full brick and not insulated.
+   - Exterior insulation is more effective than interior insulation for full brick walls.
+   - Expected impact: Significant reduction in heat loss through walls.
+
+2. **Insulate Flat Roof** (RoofExtension):
+   - Currently not insulated.
+   - Flat roofs lose a lot of heat; insulation here will have a high impact.
+   - Expected impact: Reduces heat loss through the roof.
+
+3. **Insulate Floor Above Basement** (FloorAboveBasement):
+   - Currently not insulated.
+   - Insulating the floor above the basement prevents cold air from entering the living spaces.
+   - Expected impact: Reduces drafts and cold floors.
+
+### Phase 2: Heating System Transition (Medium Priority)
+4. **Place Air-Water Heat Pump**:
+   - Replace the current boiler with an air-water heat pump, which is more efficient and suitable for the building's reduced heat demand after insulation.
+   - Expected impact: Lowers energy consumption for heating.
+
+5. **Place Emission System on Low Temperature**:
+   - Transition the radiators to low-temperature emissions to maximize the efficiency of the heat pump.
+   - Expected impact: Improves the Coefficient of Performance (COP) of the heat pump.
+
+### Phase 3: Ventilation Upgrade (Medium Priority)
+6. **Replace Ventilation System** (Upgrade from Ventilation System A to D):
+   - The current ventilation system is natural (A), which is inefficient.
+   - Upgrading to a mechanical system (D) will improve air quality and energy efficiency.
+   - Expected impact: Better indoor air quality and reduced energy loss.
+
+### Phase 4: Sustainable Energy Generation (Long-term Priority)
+7. **Place PV-Panels on Roof**:
+   - The building has potential for PV installation.
+   - Installing solar panels will offset the electricity consumption of the heat pump and other appliances.
+   - Expected impact: Reduces reliance on grid electricity and lowers energy costs.
+
+### Summary of Renovation Plan:
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Walls on Exterior** | Reduces heat loss through walls. |
+| **2** | **Insulate Flat Roof** | Reduces heat loss through the roof. |
+| **3** | **Insulate Floor Above Basement** | Prevents cold air from entering living spaces. |
+| **4** | **Place Air-Water Heat Pump** | More efficient heating system tailored to the reduced heat demand. |
+| **5** | **Place Emission System on Low Temperature** | Maximizes the efficiency of the heat pump. |
+| **6** | **Replace Ventilation System** | Improves air quality and energy efficiency. |
+| **7** | **Place PV-Panels on Roof** | Offsets electricity consumption and lowers energy costs. |
+
+This plan ensures that the building's energy efficiency is maximized while remaining cost-effective. The sequence prioritizes actions that provide the highest return on investment first.

@@ -1,0 +1,93 @@
+### Renovation Plan for the Building
+
+#### **Step 1: Assess the Current State**
+- **Building Type**: Attached building.
+- **Construction Year**: 2023.
+- **EPC Score**: 50.
+- **Potential for PV**: No.
+- **Presence of Heat Grid**: No.
+- **Reason to Change Emission System**: Yes.
+- **Resident**: Present.
+- **Site Characteristics**: No potential for horizontal or vertical geothermal systems.
+
+#### **Step 2: Identify Key Areas for Improvement**
+1. **Roofing**:
+   - **Main Roof (Gable Roof)**: Moderately insulated, good state.
+   - **Extension Roof (Flat Roof)**: Well insulated, good state.
+   - **Suggestions**:
+     - **Insulate Gable Roof**: Improve insulation to reduce heat loss.
+     - **Insulate Flat Roof**: Already well insulated, but consider additional measures if needed.
+     - **Place Roof Underlayment**: Ensure complete air- and watertightness.
+     - **Remove Asbestos from Gable Roof**: If present, remove asbestos for safety and compliance.
+
+2. **Windows**:
+   - **Living Area Windows**: Double glazing, good state.
+   - **Bedroom Windows**: Double glazing, good state.
+   - **Suggestions**:
+     - **Replace Glazing**: Consider upgrading to triple glazing for better thermal performance.
+     - **Replace Windows**: If frames are in good condition, replace glazing; otherwise, consider replacing entire windows.
+
+3. **Walls**:
+   - **Front Wall**: Full brick wall, well insulated, no historical protection.
+   - **Rear Wall**: Full brick wall, well insulated, no historical protection.
+   - **Suggestions**:
+     - **Insulate Wall on Exterior**: If exterior insulation is feasible, consider adding it to improve thermal performance.
+     - **Insulate Wall on Interior**: If exterior insulation is not feasible, consider interior insulation.
+
+4. **Floors**:
+   - **Floor Above Basement**: Well insulated, no protection.
+   - **Suggestions**:
+     - **Insulate Floor Above Basement**: Ensure adequate insulation to prevent heat loss.
+
+5. **Ventilation System**:
+   - **Type**: Ventilation System D (mechanical air supply and exhaust).
+   - **Suggestions**:
+     - **Replace Ventilation System**: Consider upgrading to a more efficient system if needed.
+
+6. **Emission System**:
+   - **Type**: Electric convector and floor heating.
+   - **Suggestions**:
+     - **Place Emission System on Low Temperature**: Optimize the emission system for better efficiency.
+     - **Place Air-Water Heat Pump**: Consider installing an air-water heat pump for more efficient heating.
+
+7. **PV Panels**:
+   - **Current State**: No PV panels installed.
+   - **Suggestions**:
+     - **Place PV-Panels on Roof**: If feasible, install PV panels to generate renewable energy.
+     - **Place PV-Panels in Garden**: If roof installation is not feasible, consider garden installation.
+
+#### **Step 3: Prioritize Actions**
+1. **High Priority**:
+   - **Insulate Gable Roof**: Improve insulation to reduce heat loss.
+   - **Replace Glazing**: Upgrade to triple glazing for better thermal performance.
+   - **Place Emission System on Low Temperature**: Optimize the emission system.
+
+2. **Medium Priority**:
+   - **Insulate Wall on Exterior**: If feasible, add exterior insulation.
+   - **Replace Ventilation System**: Upgrade to a more efficient system if needed.
+   - **Place Air-Water Heat Pump**: Consider installing for more efficient heating.
+
+3. **Low Priority**:
+   - **Place Roof Underlayment**: Ensure complete air- and watertightness.
+   - **Place PV-Panels on Roof/Garden**: Install PV panels if feasible.
+
+#### **Step 4: Implementation Timeline**
+- **Phase 1 (Immediate Actions)**:
+  - Insulate gable roof.
+  - Replace glazing with triple glazing.
+  - Optimize emission system.
+
+- **Phase 2 (Medium-Term Actions)**:
+  - Insulate exterior walls.
+  - Upgrade ventilation system.
+  - Install air-water heat pump.
+
+- **Phase 3 (Long-Term Actions)**:
+  - Install PV panels on the roof or in the garden.
+
+#### **Step 5: Monitoring and Evaluation**
+- **Regular Inspections**: Conduct regular inspections to ensure the effectiveness of the installed systems.
+- **Energy Audits**: Perform periodic energy audits to assess the impact of the renovations on energy consumption and costs.
+- **Feedback Loop**: Gather feedback from residents to identify any issues or areas for further improvement.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective and practical. The steps are ordered to prioritize actions that provide the most significant improvements first, ensuring a structured and efficient renovation process.

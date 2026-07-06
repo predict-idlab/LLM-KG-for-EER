@@ -1,0 +1,42 @@
+To maximize energy efficiency and cost-effectiveness for this 1862 detached building, the renovation should follow the "fabric-first" principle: reduce energy demand through insulation and airtightness before upgrading heating systems and adding renewable energy.
+
+### Analysis of Current State
+*   **Strengths:** The roof is already well-insulated, and window frames are in good condition.
+*   **Weaknesses:** All four exterior walls (cavity walls) are not insulated; windows use inefficient single glazing; the ventilation system is the most basic type (System A); and there is a documented need to change the emission system.
+*   **Constraints:** No access to a heat grid and no potential for geothermal energy.
+
+---
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Demand Reduction)
+*Goal: Stop heat loss using the most cost-effective methods first.*
+1.  **Insulate Wall Cavities:** All four walls are cavity walls and currently not insulated. This is the highest priority due to its low unit price (22/m²) and low nuisance level.
+2.  **Replace Glazing:** The bedrooms and living area have single glazing. Since the wooden frames are in a "Good State," replacing only the glazing (rather than the entire window) is the most cost-effective way to drastically improve the EPC score.
+3.  **Insulate Floor Above Basement:** To eliminate drafts and heat loss through the ground level, insulate the floor above the crawl space.
+
+#### Phase 2: Indoor Air Quality & Efficiency
+*Goal: Ensure healthy air circulation after the building is sealed.*
+4.  **Replace Ventilation System:** Upgrading from Ventilation System A (natural) to a more modern system (e.g., System C or D) is necessary to prevent condensation and mold issues that often arise after improving wall and window insulation.
+
+#### Phase 3: Heating System Modernization
+*Goal: Transition to a sustainable, low-carbon energy source.*
+5.  **Place Emission System on Low Temperature:** Since the building has a reason to change its emission system, upgrading to low-temperature emitters is a prerequisite for the efficient operation of a heat pump.
+6.  **Place Air-Water Heat Pump:** Given the lack of geothermal potential and heat grid access, an air-water heat pump is the most efficient alternative to replace the current boiler and electric convectors.
+
+#### Phase 4: Renewable Energy Generation
+*Goal: Offset the electricity consumption of the new heat pump.*
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower operational costs and further improve the energy performance certificate (EPC).
+
+---
+
+### Summary of Sequence and Logic
+| Sequence | Action | Rationale | Cost/Nuisance Profile |
+| :--- | :--- | :--- | :--- |
+| **1** | **Wall Cavity Insulation** | Highest ROI; prevents primary heat loss. | Low Cost / Low Nuisance |
+| **2** | **Replace Glazing** | Single glazing is a major energy leak. | Moderate Cost / High Nuisance |
+| **3** | **Floor Insulation** | Completes the thermal shell. | Low Cost / Low Nuisance |
+| **4** | **Ventilation Upgrade** | Prevents moisture in a sealed house. | Moderate Cost / Moderate Nuisance |
+| **5** | **Low-Temp Emitters** | Prepares the house for a heat pump. | Moderate Cost / Moderate Nuisance |
+| **6** | **Air-Water Heat Pump** | Switches to high-efficiency heating. | High Cost / Moderate Nuisance |
+| **7** | **PV Panels** | Provides "free" energy for the heat pump. | Moderate Cost / Low Nuisance |

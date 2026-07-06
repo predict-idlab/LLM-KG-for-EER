@@ -1,0 +1,45 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation plan.
+
+### **Building Analysis**
+The property is a very modern **Attached Building (constructed in 2023)** with an already excellent **EPC score of 50**. Most of the building envelope is already "WellInsulated" (walls and floors), and windows are in good condition with double glazing. 
+
+The primary inefficiency lies in the **HVAC system**: the building currently relies on **Electric Convectors** (high energy consumption) and a standard **Boiler**. The owner has explicitly expressed a desire to improve the EPC and has a stated reason to change the emission system. Since geothermal options and heat grids are unavailable at this site, the focus must shift to air-source technology.
+
+---
+
+### **Proposed Renovation Path**
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow a **"Shell-First, Systems-Second"** sequence. This ensures that the new heating system is sized correctly for the actual heat loss of the building.
+
+#### **Step 1: Thermal Envelope Optimization**
+*   **Action:** `insulate gable roof`
+*   **Rationale:** While the walls and floors are "WellInsulated," the main gable roof is only "**ModeratelyInsulated**." Improving the roof insulation is the most cost-effective way to further reduce the building's energy demand before upgrading the heating system.
+*   **Benefit:** Reduces heat loss through the top of the building, lowering the capacity required for the subsequent heat pump installation.
+
+#### **Step 2: Emission System Transition**
+*   **Action:** `place emission system on low temperature`
+*   **Rationale:** Heat pumps are significantly more efficient when paired with low-temperature emitters (e.g., underfloor heating or oversized radiators) rather than high-temperature systems or electric convectors. 
+*   **Benefit:** This is a prerequisite for maximizing the Coefficient of Performance (COP) of the heat pump installed in the next step.
+
+#### **Step 3: High-Efficiency Generation Upgrade**
+*   **Action:** `place air-water heatpump`
+*   **Rationale:** Given that the building is already well-insulated and geothermal is not an option, an Air-Water Heat Pump is the most effective replacement for the current electric/boiler setup.
+*   **Benefit:** Drastically reduces the electricity consumption compared to electric convectors and improves the long-term operational performance.
+
+#### **Step 4: Domestic Hot Water Optimization**
+*   **Action:** `place heatpumpboiler`
+*   **Rationale:** To further decouple domestic hot water from the main heating system and increase efficiency.
+*   **Benefit:** Reduces the load on the primary heat pump and lowers the energy cost of water heating.
+
+---
+
+### **Summary of the Optimal Sequence**
+
+| Sequence | Action | Target Element | Priority | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | RoofMain | High | Reduces Heat Loss |
+| **2** | `place emission system on low temperature` | EmissionSystem | High | Enables HP Efficiency |
+| **3** | `place air-water heatpump` | Generation_System | Medium | Lowers Energy Consumption |
+| **4** | `place heatpumpboiler` | Generation_System | Medium | Optimizes Hot Water |
+
+**Final Note:** Because the building is from 2023 and already has a low EPC, these steps target the "last mile" of efficiency. By replacing the electric resistance heating (convectors) with a heat pump system, the owner will achieve the highest possible reduction in operational energy costs.

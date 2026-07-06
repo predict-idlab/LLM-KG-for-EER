@@ -1,0 +1,64 @@
+### Renovation Plan
+
+**Objective:** Improve the energy performance of the building to achieve a better EPC label.
+
+**Current Status:**
+- **Building Type:** Detached
+- **Construction Year:** 1862
+- **Current EPC Score:** 165 (F label)
+- **Potential for PV:** Yes
+- **Heat Grid Availability:** No
+- **Insulation Grade:**
+  - Roof: Well insulated
+  - Walls (Front, Rear, Left, Right): Not insulated
+  - Floor Above Crawl Space: Not protected
+- **Ventilation System:** Type A (natural air supply and exhaust)
+- **Heating System:** Air heating (electric convector, floor heating, radiator)
+- **Windows:**
+  - Bedrooms: Single glazing, wooden frame in good condition
+  - Living Area: Single glazing, wooden frame in good condition
+
+**Renovation Steps:**
+
+1. **Insulate Walls (Front, Rear, Left, Right):**
+   - **Action:** Insulate wall cavity
+   - **Reasoning:** The walls are currently not insulated, which significantly contributes to the poor energy performance.
+   - **Ordering:** 34 (based on the suggestion list)
+
+2. **Replace Glazing:**
+   - **Action:** Replace glazing
+   - **Reasoning:** Single glazing has poor thermal and acoustic properties. Replacing it with double or triple glazing will improve insulation.
+   - **Ordering:** 43
+
+3. **Replace Ventilation System:**
+   - **Action:** Replace ventilation system
+   - **Reasoning:** Upgrading to a more efficient ventilation system (e.g., Type B or C) will improve air quality and energy efficiency.
+   - **Ordering:** 52
+
+4. **Install PV Panels:**
+   - **Action:** Place PV-panels on roof
+   - **Reasoning:** The building has potential for PV installation, which can reduce energy consumption and costs.
+   - **Ordering:** 85
+
+5. **Place Air-Water Heat Pump:**
+   - **Action:** Place air-water heatpump
+   - **Reasoning:** Replacing the current electric heating system with a more efficient heat pump will reduce energy consumption and improve thermal comfort.
+   - **Ordering:** 67
+
+6. **Place Emission System on Low Temperature:**
+   - **Action:** Place emission system on low temperature
+   - **Reasoning:** This will ensure that the heating system operates more efficiently.
+   - **Ordering:** 70
+
+**Sequence and Dependencies:**
+- The insulation of walls should be done first to improve the thermal envelope of the building.
+- Replacing the glazing should follow to further enhance insulation.
+- The ventilation system upgrade should be done before installing the PV panels to ensure compatibility.
+- The heat pump installation should be done after ensuring the building envelope is well-insulated.
+
+**Additional Considerations:**
+- **Permits:** Check local regulations for any necessary permits, especially for structural changes.
+- **Historical Protection:** Ensure that no elements are historically protected before making changes.
+- **Cost and Budget:** Estimate costs for each step and ensure they fit within the renovation budget.
+
+This plan aims to maximize energy efficiency while remaining cost-effective and practical. The steps are ordered to ensure that foundational improvements (insulation, glazing) are completed before more advanced systems (PV panels, heat pump) are installed.

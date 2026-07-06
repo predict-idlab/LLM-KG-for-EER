@@ -1,0 +1,45 @@
+Based on the profile of your home in Ghent, you have a very strong foundation: your walls, floor, and windows are already well-insulated, and you have a high-end Ventilation D system and PV panels. 
+
+The primary "energy leaks" and inefficiencies are the **moderate roof insulation** and the **outdated/inefficient heating system** (specifically the electric convectors, which are among the most expensive ways to heat a home).
+
+To maximize your EPC score and reduce operational costs, I propose the following sequenced renovation path.
+
+---
+
+### Phase 1: Thermal Envelope Optimization (The "Quick Win")
+**Target: Pitched Roof Insulation**
+Before upgrading your heating system, you must ensure the house retains as much heat as possible. Since the pitched roof is only "moderately" insulated, this is your primary thermal weakness.
+*   **Action:** Upgrade the pitched roof insulation to current Flemish standards (R-value $\geq$ 4.5 $\text{m}^2\text{K/W}$). 
+*   **Why first?** Improving insulation reduces the "heating load." By doing this first, you can install a smaller, less expensive, and more efficient heat pump in Phase 2.
+*   **Cost-Effectiveness:** High. This is a one-time investment with permanent energy savings.
+
+### Phase 2: Heat Generation Upgrade (The "Core Shift")
+**Target: Transition from Boiler to Air-to-Water Heat Pump**
+Since geothermal and district heating are unavailable, an **Air-to-Water Heat Pump** is the most logical and cost-effective choice for a house with your specifications.
+*   **Action:** Replace the existing boiler with a high-efficiency Air-to-Water heat pump.
+*   **Why?** You already have PV panels, meaning you can power the heat pump with your own electricity, drastically reducing monthly bills and significantly boosting your EPC score.
+*   **Cost-Effectiveness:** Medium-High. While the upfront cost is significant, the synergy with your existing PV panels provides the fastest ROI.
+
+### Phase 3: Heat Distribution Overhaul (The "Efficiency Lock")
+**Target: Eliminate Electric Convectors & Restore Underfloor Heating**
+The presence of electric convectors is a major drag on your energy performance. They are inefficient and will counteract the benefits of a heat pump.
+*   **Action A (Elimination):** Completely remove all electric convectors.
+*   **Action B (Expansion):** Extend the underfloor heating (UFH) system into the rooms previously served by convectors. If extending UFH is too invasive/costly, install **low-temperature radiators** specifically designed for heat pumps.
+*   **Action C (Repair):** Refurbish the existing UFH circuits to ensure optimal flow and heat distribution.
+*   **Why?** Heat pumps operate most efficiently at low output temperatures. Underfloor heating is the perfect partner for a heat pump.
+*   **Cost-Effectiveness:** High. Removing electric resistance heating is the single most effective way to lower your electricity bills.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Intervention | Primary Goal | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **Step 1** | **Pitched Roof Insulation** | Reduce Heat Loss | Moderate Increase |
+| **Step 2** | **Air-to-Water Heat Pump** | Decarbonize Heat Source | Major Increase |
+| **Step 3** | **Remove Convectors $\rightarrow$ UFH** | Optimize Distribution | Moderate Increase |
+
+### Expert Tips for the Ghent/Flemish Region:
+1.  **Mijn VerbouwPremie:** Ensure you apply for the Flemish renovation premiums *before* starting the work. The premiums for heat pumps and insulation are substantial and can significantly offset the initial investment.
+2.  **Ventilation Synergy:** Since you have Ventilation D, your indoor air quality is already managed. Ensure the new heating system is balanced with the ventilation rate to avoid over-heating or under-heating specific zones.
+3.  **EPC Certification:** Once these three steps are complete, request a new EPC certificate. The combination of a heat pump + PV panels + high-grade insulation typically pushes a home from a score of 50 into the A or B category.

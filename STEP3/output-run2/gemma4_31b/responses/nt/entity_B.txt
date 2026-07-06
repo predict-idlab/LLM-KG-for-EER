@@ -1,0 +1,43 @@
+To maximize energy efficiency and cost-effectiveness for this building (an attached house from 1832 with an EPC score of 262), the renovation should follow the **"Envelope-First"** principle. By reducing heat loss first, we can install a smaller, more efficient heating system.
+
+### **Building Analysis Summary**
+*   **Current EPC:** 262 (C Label), indicating significant room for improvement.
+*   **Critical Weaknesses:** The flat roof extension, both front and rear walls, and the floor above the basement are all **not insulated**.
+*   **Constraints:** Geothermal drilling (vertical and horizontal) is not possible on this site, and there is no access to a heat grid.
+*   **Assets:** Windows are already double-glazed and in good state; the main gable roof is moderately insulated.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (High Priority)**
+*Goal: Stop heat leakage to reduce the energy load of the building.*
+1.  **Insulate Flat Roof:** The roof extension is currently not insulated. This is a priority as heat rises and flat roofs are often major sources of energy loss.
+2.  **Insulate Walls on Exterior:** The front and rear walls are full brick and not insulated. Since they are not historically protected, exterior insulation is the most effective way to eliminate thermal bridges.
+3.  **Insulate Floor Above Basement:** The floor is not insulated. Adding insulation here prevents cold air from the basement from entering the living spaces.
+
+#### **Phase 2: Ventilation & Air Quality**
+*Goal: Improve air exchange and heat recovery.*
+4.  **Replace Ventilation System:** The building currently uses System A (natural supply). Upgrading to a more modern system (such as System D) will allow for heat recovery, ensuring that fresh air is introduced without losing the heat generated in Phase 3.
+
+#### **Phase 3: Heating System Transition**
+*Goal: Shift from fossil-fuel/high-energy boilers to sustainable electricity.*
+5.  **Place Emission System on Low Temperature:** Since the owner has expressed a reason to change the emission system and currently uses radiators, transitioning to low-temperature emitters (e.g., underfloor heating) is essential to maximize the efficiency of a heat pump.
+6.  **Place Air-Water Heat Pump:** With geothermal options ruled out, an air-water heat pump is the most cost-effective and efficient alternative to replace the existing boiler.
+
+#### **Phase 4: Renewable Energy Integration**
+*Goal: Offset the electricity consumption of the new heat pump.*
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower operational costs and significantly improve the EPC label.
+
+---
+
+### **Summary of the Optimal Sequence**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor** | Reduces total energy demand; allows for a smaller heat pump. |
+| **2** | **Replace Ventilation System** | Prevents heat loss from the newly insulated envelope. |
+| **3** | **Low-Temp Emitters $\rightarrow$ Air-Water Heat Pump** | Modernizes generation with maximum COP (Coefficient of Performance). |
+| **4** | **Install PV-Panels on Roof** | Provides "green" energy to power the heat pump and ventilation. |
+
+**Estimated Result:** This path will move the building from a **C label** toward an **A or B label**, significantly reducing yearly energy costs and increasing the property's market value.

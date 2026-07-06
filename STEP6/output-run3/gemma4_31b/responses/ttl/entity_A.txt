@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, the property is a semi-detached house from 1951 with an EPC score of 388 (D Label). The owner's primary goal is to improve the EPC rating.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** renovation strategy. By optimizing the thermal envelope first, we reduce the overall energy demand, which allows for the installation of a smaller, more efficient, and less expensive heating system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: Critical)
+The building is currently suffering from significant heat loss through its primary structures. Addressing these first provides the highest return on investment (ROI) for the EPC score.
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently not insulated. Since heat rises, this is the most urgent priority to stop thermal leakage.
+2.  **Insulate Walls on Exterior:** All three external walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`) are full brick and not insulated. Because they are full brick (not cavity walls), **exterior insulation** is the most effective way to eliminate thermal bridges and drastically improve the U-value.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. Adding insulation here prevents heat loss to the ground and improves the comfort of the lower floors.
+*Note: The flat roof extension is already moderately insulated and the windows are double-glazed with frames in good state, so these will be bypassed to maintain cost-effectiveness.*
+
+#### Phase 2: Ventilation Upgrade (Priority: High)
+Once the building is insulated and sealed, the natural air exchange rate will drop. To prevent moisture buildup (condensation) and maintain indoor air quality, the ventilation must be modernized.
+
+4.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient mechanical system (such as System C or D). This ensures that the energy gains from the new insulation are not offset by uncontrolled air leakage.
+
+#### Phase 3: Transition to High-Efficiency Heating (Priority: Medium)
+With a tightened thermal envelope, the building's heat demand is now significantly lower. We can now replace the outdated boiler with a sustainable system.
+
+5.  **Place Emission System on Low Temperature:** Before installing a new generator, the current radiators should be upgraded to low-temperature emitters. This is crucial to maximize the efficiency (COP) of a heat pump.
+6.  **Place Air-Water Heat Pump:** Since there is no heat grid available and the site has no potential for geothermal energy, an **Air-Water Heat Pump** is the most viable and efficient sustainable alternative.
+
+#### Phase 4: Renewable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and ventilation system, and to push the EPC label toward A or B.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity required to power the home's new energy-efficient infrastructure.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Minimizes total heat loss; reduces the required capacity of the future heating system. |
+| **2** | **Ventilation Upgrade** | Prevents mold and ensures air quality in a now-sealed building envelope. |
+| **3** | **Low-Temp Emitters $\rightarrow$ Heat Pump** | Switches to a sustainable energy source tailored to the new, lower heat demand. |
+| **4** | **PV-Panels Installation** | Offsets operational costs and maximizes the final EPC score. |

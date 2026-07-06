@@ -1,0 +1,75 @@
+### Renovation Plan for Attached Building (1832, EPC Score: 262)
+
+**Objective:** Improve the EPC rating (currently C label) through cost-effective, energy-efficient upgrades. The building is an attached structure with significant uninsulated areas and outdated heating systems.
+
+---
+
+### **Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+**Goal:** Reduce heat loss by improving insulation.
+
+1. **Insulate Walls on Exterior**
+   - **Action:** Insulate the uninsulated `Wall_Front` and `Wall_Rear` using exterior insulation.
+   - **Rationale:** Exterior insulation is more effective for full brick walls and eliminates thermal bridges. This is prioritized due to the building's age and poor insulation grade.
+   - **Estimated Cost:** ~€200/m² (based on `reno:InsulateWallExterior`).
+
+2. **Insulate Flat Roof**
+   - **Action:** Insulate the uninsulated `RoofExtension` (flat roof).
+   - **Rationale:** Flat roofs lose significant heat; insulating them is critical for reducing energy loss.
+   - **Estimated Cost:** ~€50/m² (based on `reno:InsulateFlatRoof`).
+
+3. **Insulate Floor Above Basement**
+   - **Action:** Insulate the uninsulated `FloorAboveBasement`.
+   - **Rationale:** Prevents cold drafts from the basement and improves comfort.
+   - **Estimated Cost:** ~€30/m² (based on `reno:InsulateFloorAboveBasement`).
+
+---
+
+### **Phase 2: Heating System Upgrade**
+**Goal:** Transition to a more efficient, low-temperature heating system.
+
+4. **Replace Ventilation System**
+   - **Action:** Upgrade from `VentilationSystemA` (natural) to `VentilationSystemD` (mechanical supply and exhaust).
+   - **Rationale:** Mechanical ventilation improves air quality and reduces condensation risks in a now-sealed envelope.
+   - **Estimated Cost:** ~€3,500 (fixed) + €17/m² (based on `reno:ReplaceVentilationSystem`).
+
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Rationale:** Heat pumps are more energy-efficient and suitable for low-temperature systems.
+   - **Estimated Cost:** ~€8,000 (fixed) + €35/m² (based on `reno:PlaceAirWaterHeatpump`).
+
+6. **Place Emission System on Low Temperature**
+   - **Action:** Adapt the radiator system (`EmissionSystem`) to operate at lower temperatures.
+   - **Rationale:** Maximizes the efficiency of the heat pump.
+   - **Estimated Cost:** ~€100/m² (based on `reno:PlaceLowTemperatureEmission`).
+
+---
+
+### **Phase 3: Sustainable Energy Generation**
+**Goal:** Offset electricity consumption and further improve EPC.
+
+7. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on the `RoofMain` (gable roof).
+   - **Rationale:** The building has confirmed potential for PV, and solar energy can power the heat pump and ventilation system.
+   - **Estimated Cost:** ~€275/m² (based on `reno:PlacePVPanelsOnRoof`).
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| 1        | Insulate Exterior Walls | Reduces heat loss through uninsulated walls. |
+| 2        | Insulate Flat Roof | Prevents heat loss through the roof. |
+| 3        | Insulate Floor Above Basement | Eliminates cold drafts from the basement. |
+| 4        | Upgrade Ventilation System | Ensures air quality in a sealed envelope. |
+| 5        | Install Air-Water Heat Pump | Replaces inefficient boiler with a heat pump. |
+| 6        | Adapt Emission System | Optimizes heat pump efficiency. |
+| 7        | Install PV Panels | Offsets electricity consumption. |
+
+---
+
+### **Key Considerations**
+- **Historical Protection:** No historical protection constraints exist, allowing for exterior insulation.
+- **Window Performance:** Windows are already double-glazed and in good condition, so no replacement is needed.
+- **Cost-Effectiveness:** Prioritizing insulation and ventilation before upgrading heating systems ensures long-term energy savings.
+
+This plan follows a **fabric-first** approach, ensuring that the building's thermal envelope is optimized before transitioning to high-efficiency systems. The sequence maximizes energy efficiency while remaining cost-effective.

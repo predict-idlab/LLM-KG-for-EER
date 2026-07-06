@@ -1,0 +1,73 @@
+### Renovation Plan for Semi-Detached Building (1951, EPC Score: 388)
+
+**Objective:** Improve energy efficiency and lower the EPC score (currently D label) through cost-effective upgrades.
+
+**Proposed Renovation Path:**
+
+#### **Phase 1: Thermal Envelope Optimization (Priority: High)**
+1. **Insulate Gable Roof:**
+   - The `RoofMain` (gable roof) is currently not insulated.
+   - **Action:** Insulate the gable roof to prevent heat loss through the roof.
+   - **Rationale:** Heat rises, so insulating the roof is critical for reducing energy loss.
+
+2. **Insulate Walls on Interior:**
+   - All three external walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`) are full brick and not insulated.
+   - **Action:** Insulate the walls on the interior to improve thermal retention.
+   - **Rationale:** Interior insulation is cost-effective and eliminates thermal bridges.
+
+3. **Insulate Floor Above Basement:**
+   - The `FloorAboveBasement` is currently not insulated.
+   - **Action:** Add insulation to the floor above the basement to prevent cold drafts.
+   - **Rationale:** Insulating the floor prevents heat loss to the basement.
+
+4. **Insulate Flat Roof:**
+   - The `RoofExtension` (flat roof) is moderately insulated.
+   - **Action:** Enhance insulation to meet higher standards.
+   - **Rationale:** Flat roofs can lose significant heat, so improving insulation is beneficial.
+
+#### **Phase 2: Window Performance (Priority: Medium)**
+5. **Replace Glazing:**
+   - All windows currently have double glazing.
+   - **Action:** Replace glazing with triple glazing to further improve thermal performance.
+   - **Rationale:** Triple glazing reduces heat loss through windows, enhancing overall energy efficiency.
+
+#### **Phase 3: Heating System Transition (Priority: Medium)**
+6. **Place Air-Water Heat Pump:**
+   - The current heating system (`EmissionSystem`) is a boiler.
+   - **Action:** Install an air-water heat pump to replace the boiler.
+   - **Rationale:** Heat pumps are more energy-efficient and sustainable, reducing long-term energy costs.
+
+7. **Place Emission System on Low Temperature:**
+   - **Action:** Transition the existing radiators to a low-temperature emission system.
+   - **Rationale:** Low-temperature emissions improve the efficiency of the heat pump.
+
+#### **Phase 4: Ventilation Upgrade (Priority: Medium)**
+8. **Replace Ventilation System:**
+   - The current ventilation system (`VentilationSystemA`) is natural.
+   - **Action:** Upgrade to a more efficient system (e.g., `VentilationSystemD`).
+   - **Rationale:** A modern ventilation system ensures proper air exchange and maintains indoor air quality.
+
+#### **Phase 5: Sustainable Energy Generation (Priority: Long-term)**
+9. **Place PV-Panels on Roof:**
+   - The building has potential for PV.
+   - **Action:** Install PV panels on the roof to generate renewable electricity.
+   - **Rationale:** PV panels offset the electricity consumption of the heat pump and ventilation system, further improving energy efficiency.
+
+### **Summary of Optimal Sequence:**
+1. **Insulate Gable Roof**
+2. **Insulate Walls on Interior**
+3. **Insulate Floor Above Basement**
+4. **Insulate Flat Roof**
+5. **Replace Glazing**
+6. **Place Air-Water Heat Pump**
+7. **Place Emission System on Low Temperature**
+8. **Replace Ventilation System**
+9. **Place PV-Panels on Roof**
+
+### **Rationale for Sequence:**
+- **Thermal Envelope First:** Insulation upgrades are prioritized to reduce heat loss and lower energy demand.
+- **Heating System Transition:** The heat pump is installed after improving the thermal envelope to ensure it operates efficiently.
+- **Ventilation Upgrade:** A modern ventilation system is essential after sealing the building to maintain air quality.
+- **PV Panels:** Installing PV panels last ensures that renewable energy is used to power the upgraded systems.
+
+This plan ensures a cost-effective and energy-efficient renovation that significantly improves the EPC score and long-term operational performance.

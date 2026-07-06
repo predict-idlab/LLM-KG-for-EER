@@ -1,0 +1,43 @@
+Based on the provided building data and the RENO ontology, the property is a **1951 semi-detached building** with an energy score of **388 (EPC Label D)**. The owner's primary motivation is to **improve the EPC label**.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. This means we first reduce the energy demand by improving the building envelope before upgrading the technical installations. This ensures that any new heating system is sized correctly (and thus cheaper and more efficient) for a well-insulated home.
+
+### Proposed Renovation Path
+
+#### Phase 1: The Thermal Envelope (Reducing Heat Loss)
+The goal here is to stop energy leaks. Since the building is from 1951 and uses full brick walls, it has significant thermal bridging.
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently not insulated. Since heat rises, this is the most cost-effective way to see an immediate drop in energy consumption.
+2.  **Insulate Walls on Exterior:** The `Wall_Front`, `Wall_Rear`, and `Wall_Right` are `FullBrickWall` and not insulated. Exterior insulation is preferred over interior insulation to prevent internal condensation and maximize usable living space.
+3.  **Replace Glazing:** The windows have wooden frames in a "Good State," so replacing the entire window is not cost-effective. Instead, **replace the double glazing with triple glazing** to improve the U-value without the cost of new frames.
+4.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. Adding insulation here prevents "cold feet" and reduces heat loss to the basement.
+
+#### Phase 2: Technical Systems (Improving Efficiency)
+Now that the house is airtight and insulated, we can upgrade the systems to be more efficient.
+
+5.  **Replace Ventilation System:** After insulating the envelope, the house becomes more airtight. Upgrading from `VentilationSystemA` to a more modern system (e.g., System C or D) is essential to maintain indoor air quality and prevent mold.
+6.  **Place Air-Water Heat Pump:** The building has a "reason to change" its emission system, and geothermal options are unavailable (`potential = false`). An air-water heat pump is the most sustainable replacement for the current boiler, providing both space heating and domestic hot water.
+
+#### Phase 3: Renewable Energy (Offsetting Consumption)
+The final step is to generate the electricity needed to run the new heat pump.
+
+7.  **Place PV-Panels on Roof:** The building has `hasPotentialForPV = true`. Installing solar panels on the roof will significantly lower the operational costs of the air-water heat pump and further improve the EPC score.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Order | Action | Target Element | Justification |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | Highest ROI; stops primary heat loss. |
+| **2** | **Insulate Wall Exterior** | `Wall_Front/Rear/Right` | Eliminates major thermal bridges in brickwork. |
+| **3** | **Replace Glazing** | `Windows` | Cost-effective upgrade given frames are in good state. |
+| **4** | **Insulate Floor** | `FloorAboveBasement` | Completes the thermal shell. |
+| **5** | **Replace Ventilation** | `VentilationSystem` | Necessary for health/air quality after insulation. |
+| **6** | **Air-Water Heat Pump** | `Generation_System` | Sized for a now-efficient house; replaces old boiler. |
+| **7** | **PV-Panels on Roof** | `RoofMain` | Offsets electricity costs of the heat pump. |
+
+### Cost-Effectiveness & Performance Analysis
+*   **Cost-Effective Choice:** By replacing only the **glazing** rather than the **entire window**, we save significant capital while achieving similar thermal gains.
+*   **Operational Performance:** Moving from a boiler to a heat pump powered by PV panels transforms the building from a fossil-fuel dependent home (EPC D) toward a near-zero energy building (likely EPC A or B).
+*   **Strategic Sequence:** Upgrading the heat pump *after* insulation prevents "over-sizing" the equipment, reducing both the initial purchase price and the monthly energy bills.

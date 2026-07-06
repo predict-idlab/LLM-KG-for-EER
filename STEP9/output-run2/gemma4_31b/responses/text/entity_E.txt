@@ -1,0 +1,47 @@
+Given the age of your home (1862) and its current EPC score of 165, the house is currently behaving like a "thermal sieve." To maximize cost-effectiveness, we must follow the **"Fabric First"** approach: reduce the energy demand of the building before investing in expensive heating technology. 
+
+Installing a new heating system before insulating would lead to an oversized, inefficient system that costs more to run.
+
+Here is the optimal, sequenced renovation path for your home in Ghent.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Heat Loss)
+*Goal: Stop the heat from escaping. This is the most cost-effective way to lower your EPC.*
+
+1.  **Cavity Wall Insulation (High Priority):** Since you have cavity walls, **injection insulation** (e.g., using pearls or foam) is your most cost-effective win. It requires no structural changes and provides a massive jump in thermal performance for a relatively low cost.
+2.  **Window Upgrade (High Priority):** Single glazing is a primary source of heat loss and drafts. Since the wooden frames are in good condition, evaluate if they can be retrofitted with **double or triple glazing (HR++)**. If the frames are too thin, replace them with high-performance wood-aluminum or uPVC windows.
+3.  **Floor Insulation (Medium Priority):** Since you have a crawl space, you can insulate the ceiling of that space (the floor of the living area) from below. This prevents "cold feet" and stops heat from leaking into the ground.
+
+### Phase 2: Ventilation & Air Quality (Preventing Moisture)
+*Goal: Once you seal the house in Phase 1, you must manage moisture to prevent mold.*
+
+4.  **Upgrade Ventilation:** Moving from "basic natural ventilation" to a **Mechanical Extract Ventilation (MEV)** system or a **Heat Recovery Ventilation (HRV)** system is crucial. HRV is more expensive but recovers heat from outgoing air, significantly lowering your heating bill and improving the EPC score.
+
+### Phase 3: Heating System Modernization (Efficiency)
+*Goal: Replace the fragmented, inefficient heating mix with a unified, low-carbon system.*
+
+5.  **Consolidate Heat Emission:** The current mix (radiators, air, electric convectors) is inefficient. **Remove the electric convectors immediately**—they are the most expensive way to heat a home. Standardize the house on **low-temperature radiators** or expand the **underfloor heating** to more rooms.
+6.  **Install a Heat Pump (Air-to-Water):** Since geothermal is not possible and you have PV potential, an Air-to-Water heat pump is the ideal choice. Because you insulated the walls and windows in Phase 1, the heat pump can operate at lower temperatures, maximizing its Coefficient of Performance (COP) and lowering electricity bills.
+
+### Phase 4: Energy Generation (Operational Cost Offset)
+*Goal: Power your new high-efficiency system with free energy.*
+
+7.  **Photovoltaic (PV) Panels:** Install solar panels on your pitched roof. This is the final step to "close the loop." The PV system will power the heat pump and the ventilation system, potentially bringing your operational energy costs close to zero.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Impact on EPC | Cost-Effectiveness | Why this order? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall & Floor Insulation** | $\uparrow\uparrow$ | Very High | Cheapest way to reduce energy demand. |
+| **2** | **Double/Triple Glazing** | $\uparrow\uparrow$ | High | Eliminates drafts and cold spots. |
+| **3** | **Ventilation Upgrade** | $\uparrow$ | Medium | Prevents mold after sealing the house. |
+| **4** | **Heat Pump + New Radiators** | $\uparrow\uparrow\uparrow$ | Medium | Sized correctly only *after* insulation. |
+| **5** | **Solar Panels (PV)** | $\uparrow\uparrow$ | High | Offsets the electricity used by the pump. |
+
+### Expert Tips for Ghent/Flanders:
+*   **Check Flemish Premiums:** The Flemish government offers significant subsidies (*premiën*) for insulation, heat pumps, and ventilation. Ensure you hire an **EPC-certified contractor** to qualify for these grants.
+*   **The "Electric Convector" Trap:** Electric convectors are "energy killers." Even if you do nothing else this year, replacing these with a centralized system will see an immediate drop in your monthly utility bills.
+*   **Moisture Check:** Because the house is from 1862, ensure that insulating the walls doesn't trap moisture in the masonry. A professional thermal audit is recommended before injecting the cavity walls.

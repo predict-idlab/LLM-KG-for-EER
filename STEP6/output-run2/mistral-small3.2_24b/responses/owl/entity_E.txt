@@ -1,0 +1,99 @@
+### Renovation Plan for the Detached Building (1862)
+
+**Current State:**
+- **Building Type:** Detached (single-family) from 1862
+- **EPC Score:** 165 (D Label)
+- **Envelope Condition:**
+  - **Walls:** All four walls (Front, Rear, Left, Right) are cavity walls and **not insulated**.
+  - **Roof:** Gable roof is **well insulated**.
+  - **Windows:** All glazing is **single glazing**, which is inefficient.
+  - **Floor:** Floor above crawl space is **not insulated**.
+- **Heating System:** Current boiler system (type not specified) with radiators.
+- **Ventilation:** System A (natural ventilation).
+- **PV Potential:** Confirmed ("true"), but no panels currently installed.
+
+**Owner’s Goal:** Improve EPC rating.
+
+---
+
+### Proposed Renovation Sequence
+
+**Phase 1: Thermal Envelope Optimization (High Priority)**
+The primary focus is to **minimize heat loss** through the building fabric before upgrading the heating system. This reduces the overall energy demand and allows for a smaller, more efficient system.
+
+1. **Insulate Wall Cavity**
+   - **Action:** Insulate all four cavity walls (Front, Rear, Left, Right) from the inside.
+   - **Why First?**
+     - Cavity wall insulation is **non-disruptive** and **cost-effective**.
+     - Reduces heat loss through the largest surface area of the building.
+     - Required before installing a new heating system to prevent oversizing.
+
+2. **Insulate Floor Above Crawl Space**
+   - **Action:** Add insulation to the floor above the crawl space.
+   - **Why?**
+     - Prevents heat loss to the unconditioned crawl space.
+     - Eliminates "cold feet" and improves comfort.
+
+3. **Replace Single Glazing**
+   - **Action:** Replace all single-glazed windows with double or triple glazing.
+   - **Why?**
+     - Single glazing is a major source of heat loss.
+     - Upgrading to double/triple glazing significantly improves thermal performance.
+
+---
+
+**Phase 2: Heating System Transition (Medium Priority)**
+With a tighter envelope, the heating system can be upgraded to a more efficient, low-temperature option.
+
+4. **Place Air-Water Heat Pump**
+   - **Action:** Replace the existing boiler with an **Air-Water Heat Pump**.
+   - **Why?**
+     - Geothermal potential is "false," and there is no heat grid.
+     - Heat pumps are more energy-efficient than boilers and work well with insulated buildings.
+
+5. **Place Emission System on Low Temperature**
+   - **Action:** Upgrade the radiators to a low-temperature emission system.
+   - **Why?**
+     - Heat pumps operate most efficiently at lower flow temperatures.
+     - Ensures compatibility with the new heat pump.
+
+---
+
+**Phase 3: Ventilation Upgrade (Low Priority)**
+Improving air quality is essential in a now-sealed building.
+
+6. **Replace Ventilation System**
+   - **Action:** Upgrade from **Ventilation System A** (natural) to **Ventilation System C** (mechanical supply + natural exhaust).
+   - **Why?**
+     - System A is inefficient and does not ensure proper air exchange.
+     - System C provides better control over humidity and air quality.
+
+---
+
+**Phase 4: Renewable Energy Generation (Optional)**
+To offset electricity consumption from the heat pump and further improve the EPC.
+
+7. **Place PV-Panels on Roof**
+   - **Action:** Install solar panels on the gable roof.
+   - **Why?**
+     - The building has confirmed PV potential.
+     - Solar energy can power the heat pump and reduce reliance on the grid.
+
+---
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Walls** (Cavity) | Reduces the largest source of heat loss. |
+| **2** | **Insulate Floor** | Eliminates heat loss to the crawl space. |
+| **3** | **Replace Glazing** | Improves thermal performance of windows. |
+| **4** | **Air-Water Heat Pump** | Replaces the boiler with a more efficient system. |
+| **5** | **Low-Temperature Emission** | Optimizes heat pump performance. |
+| **6** | **Upgrade Ventilation** | Ensures air quality in a sealed building. |
+| **7** | **PV Panels** (Optional) | Generates renewable electricity to power the heat pump. |
+
+---
+
+### Expected Outcome
+By following this sequence, the building’s EPC score should improve from **D (165)** to **B or better**, significantly reducing energy costs and carbon footprint. The renovations prioritize **cost-effectiveness** and **long-term efficiency**, ensuring the owner achieves their goal of an improved EPC rating.

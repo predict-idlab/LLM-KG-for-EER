@@ -1,0 +1,11 @@
+1. insulate wall cavity
+2. insulate flat roof
+3. insulate gable roof
+4. insulate attic floor
+5. insulate floor above basement
+6. replace glazing
+7. replace windows
+8. replace ventilation system
+9. place emission system on low temperature
+10. place air-water heat pump
+11. place pv-panels on roof

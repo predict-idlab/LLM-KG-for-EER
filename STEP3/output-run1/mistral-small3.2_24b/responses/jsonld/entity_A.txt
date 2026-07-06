@@ -1,0 +1,88 @@
+To create an effective renovation plan for the building described, we will analyze the current state of the building and prioritize actions that maximize energy efficiency while being cost-effective. Here's a step-by-step approach:
+
+### 1. **Current State Analysis**
+- **Building Type**: Semi-detached, constructed in 1951.
+- **EPC Score**: 388 kWh/m²year (likely D label).
+- **Insulation**:
+  - Walls: Not insulated.
+  - Flat Roof (Extension): Moderately insulated.
+  - Gable Roof (Main): Not insulated.
+  - Attic Floor: Not mentioned.
+  - Floor Above Basement: Not insulated.
+- **Windows**: Double glazing (modern but could be upgraded).
+- **Heating System**: Air heating (likely inefficient).
+- **Ventilation System**: Type A (natural air supply and exhaust).
+- **Potential for PV**: Yes.
+- **Heat Grid Availability**: No.
+- **Potential for Geothermal**: No (both horizontal and vertical).
+
+### 2. **Prioritization of Actions**
+Given the building's characteristics, we should focus on:
+- **Roof Insulation**: Both flat and gable roofs are not insulated or moderately insulated. Insulating these will significantly reduce heat loss.
+- **Wall Insulation**: Walls are not insulated. Exterior insulation might be more effective and less disruptive.
+- **Heating System Upgrade**: The current air heating system is likely inefficient. Replacing it with a heat pump (air-water or ground-source) would improve energy efficiency.
+- **PV Panels**: Given the potential for PV and the building's location, installing PV panels on the roof would generate renewable energy.
+- **Window Upgrades**: While windows are already double glazed, upgrading to triple glazing could further improve insulation.
+
+### 3. **Step-by-Step Renovation Plan**
+1. **Insulate Gable Roof**:
+   - **Action**: Insulate the gable roof.
+   - **Reason**: The main roof is not insulated, leading to significant heat loss.
+   - **Cost**: ~€60/m².
+   - **Permit**: Not required.
+
+2. **Insulate Flat Roof (Extension)**:
+   - **Action**: Insulate the flat roof extension.
+   - **Reason**: The extension's roof is moderately insulated, but improving insulation will further reduce heat loss.
+   - **Cost**: ~€50/m².
+   - **Permit**: Not required.
+
+3. **Insulate Walls on Exterior**:
+   - **Action**: Insulate the exterior walls.
+   - **Reason**: Walls are a significant source of heat loss. Exterior insulation is less disruptive and more effective.
+   - **Cost**: ~€200/m².
+   - **Permit**: Required if the total thickness exceeds 26 cm or the building line is overrun.
+
+4. **Upgrade Heating System**:
+   - **Action**: Replace the air heating system with an air-water heat pump.
+   - **Reason**: Air heating is inefficient. An air-water heat pump is more energy-efficient and can be integrated with underfloor heating or radiators.
+   - **Cost**: ~€8,000 (fixed) + €35/m².
+   - **Permit**: Not required if the above-ground parts are at least 2m away from the parcel boundary.
+
+5. **Install PV Panels on Roof**:
+   - **Action**: Install photovoltaic (PV) panels on the roof.
+   - **Reason**: The building has potential for PV, and installing panels will generate renewable energy, reducing electricity costs.
+   - **Cost**: ~€275/m².
+   - **Permit**: Not required if the panels are in the same plane.
+
+6. **Insulate Attic Floor**:
+   - **Action**: Insulate the attic floor.
+   - **Reason**: The attic floor is a significant source of heat loss. Insulating it will improve thermal comfort and reduce energy consumption.
+   - **Cost**: ~€60/m².
+   - **Permit**: Not required.
+
+7. **Insulate Floor Above Basement**:
+   - **Action**: Insulate the floor above the basement.
+   - **Reason**: The floor above the basement is a source of heat loss. Insulating it will improve thermal comfort and reduce energy consumption.
+   - **Cost**: ~€30/m².
+   - **Permit**: Not required.
+
+8. **Upgrade Windows to Triple Glazing**:
+   - **Action**: Replace the double glazing windows with triple glazing.
+   - **Reason**: While double glazing is already present, upgrading to triple glazing will further improve insulation and reduce heat loss.
+   - **Cost**: ~€800/m².
+   - **Permit**: Not required if the measurements are kept.
+
+### 4. **Expected Outcomes**
+- **Energy Efficiency**: Significant reduction in energy consumption, leading to a better EPC score (likely B or A label).
+- **Cost Savings**: Lower energy bills due to improved insulation and a more efficient heating system.
+- **Comfort**: Improved thermal comfort, especially in rooms above the basement and the attic.
+- **Environmental Impact**: Reduced carbon footprint due to the installation of PV panels and a more efficient heating system.
+
+### 5. **Implementation Timeline**
+1. **Phase 1**: Insulate roofs and walls (3-6 months).
+2. **Phase 2**: Upgrade heating system and install PV panels (3-6 months).
+3. **Phase 3**: Insulate attic floor and floor above basement (1-2 months).
+4. **Phase 4**: Upgrade windows (1-2 months).
+
+This plan is designed to maximize energy efficiency while being cost-effective and practical. The actions are prioritized based on their impact on energy savings and the building's current state.

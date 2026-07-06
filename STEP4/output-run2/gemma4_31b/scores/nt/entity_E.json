@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "replace glazing", "place emission system on low temperature"], "extra_actions": ["seal drafts", "replace lighting", "install low-flow fixtures", "install heat-pump water heater"]}, "sequence": {"order_errors": ["replace ventilation system", "place air-water heatpump", "place PV-panels on roof"]}}

@@ -1,0 +1,50 @@
+### Renovation Plan for the Detached House in Belgium
+
+#### **1. Replace Gable Roof**
+- **Reasoning**: The current gable roof is well insulated, but replacing it can improve its energy efficiency and durability. This action is important to ensure long-term energy savings and structural integrity.
+- **Action**: Remove the existing roof and replace it with a new one. Ensure proper insulation and roof underlayment installation.
+- **Ordering**: 13
+
+#### **2. Insulate Wall Cavity**
+- **Reasoning**: The walls (front, right, rear, left) are currently not insulated. Insulating the cavity walls will significantly improve the thermal performance of the building, reducing heat loss and energy consumption.
+- **Action**: Inject insulation material into the wall cavities. Ensure the cavity is suitable for insulation by checking for contamination and ensuring proper vapor permeability.
+- **Ordering**: 34
+
+#### **3. Replace Windows**
+- **Reasoning**: The current windows have single glazing, which is inefficient. Replacing them with double or triple glazing will improve thermal insulation and reduce energy loss.
+- **Action**: Remove the existing windows and install new ones with double or triple glazing. Ensure the window frames are in good condition and properly sealed.
+- **Ordering**: 46
+
+#### **4. Replace Ventilation System**
+- **Reasoning**: The current ventilation system is of type A, which is less efficient compared to modern systems like D. Upgrading the ventilation system will improve indoor air quality and energy efficiency.
+- **Action**: Install a new ventilation system (type D). Ensure proper ductwork and grilles are installed in the window frames.
+- **Ordering**: 52
+
+#### **5. Place Air-Water Heatpump**
+- **Reasoning**: The current heating system (electric convector) is inefficient. An air-water heatpump will provide more efficient heating and reduce energy consumption.
+- **Action**: Install an air-water heatpump. Ensure proper placement and connection to the existing heating system.
+- **Ordering**: 67
+
+#### **6. Place PV Panels on Roof**
+- **Reasoning**: The building has potential for PV panels, which can generate renewable energy and reduce electricity costs.
+- **Action**: Install PV panels on the roof. Ensure proper orientation and shading analysis to maximize energy production.
+- **Ordering**: 85
+
+#### **7. Place Sunshade**
+- **Reasoning**: Installing outdoor blinds or sunshades can reduce solar heat gain in the summer, improving comfort and reducing cooling needs.
+- **Action**: Install sunshades on the windows. Ensure they are properly sized and positioned for effective shading.
+- **Ordering**: 79
+
+### Summary of Recommendations
+| Action                           | Reasoning                                                                                                                                                                                                                                                                                                                                                                                                 | Ordering |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Replace Gable Roof               | The current gable roof is well insulated, but replacing it can improve its energy efficiency and durability. This action is important to ensure long-term energy savings and structural integrity.                                                                                                                                                                                                                     | 13       |
+| Insulate Wall Cavity             | The walls (front, right, rear, left) are currently not insulated. Insulating the cavity walls will significantly improve the thermal performance of the building, reducing heat loss and energy consumption.                                                                                                                                                                                                              | 34       |
+| Replace Windows                  | The current windows have single glazing, which is inefficient. Replacing them with double or triple glazing will improve thermal insulation and reduce energy loss.                                                                                                                                                                                                                             | 46       |
+| Replace Ventilation System       | The current ventilation system is of type A, which is less efficient compared to modern systems like D. Upgrading the ventilation system will improve indoor air quality and energy efficiency.                                                                                                                                                                                                   | 52       |
+| Place Air-Water Heatpump        | The current heating system (electric convector) is inefficient. An air-water heatpump will provide more efficient heating and reduce energy consumption.                                                                                                                                                                                                                             | 67       |
+| Place PV Panels on Roof          | The building has potential for PV panels, which can generate renewable energy and reduce electricity costs.                                                                                                                                                                                                                                                                     | 85       |
+| Place Sunshade                   | Installing outdoor blinds or sunshades can reduce solar heat gain in the summer, improving comfort and reducing cooling needs.                                                                                                                                                                                                                                                   | 79       |
+
+### **Conclusion**
+The renovation plan prioritizes actions that will have the most significant impact on energy efficiency and comfort. The plan focuses on improving insulation, upgrading heating systems, and installing renewable energy sources. Each action is grounded in the ontology and tailored to the specific needs of the detached house in Belgium.

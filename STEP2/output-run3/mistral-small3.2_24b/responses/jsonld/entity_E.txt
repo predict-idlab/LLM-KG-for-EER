@@ -1,0 +1,70 @@
+### Renovation Plan for Detached Building
+
+#### **Immediate Actions (High Priority)**
+1. **Insulate Wall on Exterior**
+   - **Reasoning**: The walls (Front, Left, Right, Rear) are currently not insulated (NotInsulated). Exterior insulation will significantly improve the thermal performance of the building.
+   - **Suggestion**: `https://w3id.org/reno#InsulateWallExterior`
+   - **Ordering**: 40
+   - **Nuisance Level**: High
+   - **Estimated Cost**: €200/m²
+   - **Permit Needed**: Only if thickness of total pack >26cm or building line overrun (Flanders)
+   - **Multi-Phase Connection Required**: No
+
+2. **Replace Emission System (Heating)**
+   - **Reasoning**: The current emission system (Electric Convector, Radiator) is outdated and inefficient. The building has a reason to change the emission system.
+   - **Suggestion**: `https://w3id.org/reno#PlaceAirWaterHeatpump`
+   - **Ordering**: 67
+   - **Nuisance Level**: Moderate
+   - **Estimated Cost**: €8000 + €35/m²
+   - **Permit Needed**: Not necessary if above-ground parts are at least 2m away from parcel boundary (Flanders)
+   - **Multi-Phase Connection Required**: Maybe, depending on the system
+
+#### **Medium-Term Actions (Medium Priority)**
+3. **Insulate Flat Roof**
+   - **Reasoning**: The main roof is a gable roof and already well insulated (WellInsulated). However, there might be other flat roof sections that are not insulated.
+   - **Suggestion**: `https://w3id.org/reno#InsulateFlatRoof`
+   - **Ordering**: 25
+   - **Nuisance Level**: High
+   - **Estimated Cost**: €50/m²
+   - **Permit Needed**: Only if thickness of total pack >26cm (Flanders)
+   - **Multi-Phase Connection Required**: No
+
+4. **Replace Windows**
+   - **Reasoning**: The windows in the bedrooms and living area have single glazing, which is inefficient. Replacing them with double or triple glazing will improve thermal comfort and energy efficiency.
+   - **Suggestion**: `https://w3id.org/reno#ReplaceWindows`
+   - **Ordering**: 46
+   - **Nuisance Level**: High
+   - **Estimated Cost**: €800/m²
+   - **Permit Needed**: Not necessary if measurements are kept (Flanders)
+   - **Multi-Phase Connection Required**: No
+
+#### **Long-Term Actions (Low Priority)**
+5. **Place PV-Panels on Roof**
+   - **Reasoning**: The building has potential for PV-panels (potentialForPV: true). Installing PV-panels will reduce energy consumption and lower electricity costs.
+   - **Suggestion**: `https://w3id.org/reno#PlacePVPanelsOnRoof`
+   - **Ordering**: 85
+   - **Nuisance Level**: Low
+   - **Estimated Cost**: €275/m²
+   - **Permit Needed**: Not necessary if panels are in the same plane (Flanders)
+   - **Multi-Phase Connection Required**: Maybe, depending on the system
+
+6. **Place Sunshade**
+   - **Reasoning**: Installing sunshades can help regulate indoor temperatures during summer, reducing the need for cooling.
+   - **Suggestion**: `https://w3id.org/reno#PlaceSunShade`
+   - **Ordering**: 79
+   - **Nuisance Level**: Low
+   - **Estimated Cost**: €750 (fixed price)
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Multi-Phase Connection Required**: No
+
+### **Additional Considerations**
+- **Asbestos Removal**: Although there is no explicit indication of asbestos in the building elements, it is always recommended to check for asbestos before starting any renovation work, especially if the building was constructed before 2000.
+- **Energy Performance Certificate (EPC)**: The current EPC score is 165 kWh/m²year, which is relatively low. The goal is to improve this score to at least a B label (100-200 kWh/m²year).
+- **Financial Incentives**: Investigate available grants, subsidies, or tax deductions for energy-efficient renovations in the region.
+
+### **Next Steps**
+1. **Consult a Professional**: Engage a certified energy auditor or architect to conduct a detailed assessment of the building's current state and provide tailored recommendations.
+2. **Obtain Quotes**: Get quotes from multiple contractors for the proposed renovations to compare costs and services.
+3. **Plan Phases**: Prioritize the phases based on the immediate, medium-term, and long-term actions to ensure a smooth renovation process.
+
+By following this plan, you will significantly improve the energy efficiency, thermal comfort, and overall value of the building.

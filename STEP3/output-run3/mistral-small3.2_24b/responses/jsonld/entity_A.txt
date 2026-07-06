@@ -1,0 +1,95 @@
+### Renovation Plan for the Given Building
+
+**Building Overview:**
+- **Type:** Semi-detached house
+- **Construction Year:** 1951
+- **Net Floor Area:** 149 m²
+- **Energy Performance Certificate (EPC) Score:** 388 kWh/m²year (D label)
+- **Current Insulation:**
+  - Roof (Main Gable): Not Insulated
+  - Roof (Extension Flat): Moderately Insulated
+  - Walls: Not Insulated
+  - Floor Above Basement: Not Insulated
+- **Heating System:**
+  - Emission System: Air Heating, Floor Heating, Radiators
+  - Generation System: Boiler
+  - Ventilation System: Natural Air Supply and Air Exhaust (Type A)
+- **Windows:**
+  - Wooden Frames with Double Glazing
+- **Potential for Renewable Energy:**
+  - Potential for PV Panels: Yes
+  - Potential for Horizontal Geothermal Captation: No
+  - Potential for Vertical Geothermal Drilling: No
+- **Heat Grid Availability:** No
+- **Historical Protection:** No
+
+**Owner's Motivation:**
+- Improve the EPC score
+
+**Renovation Plan:**
+
+1. **Roof Insulation:**
+   - **Action:** Insulate the main gable roof (currently not insulated).
+   - **Suggestion:** `insulate gable roof`
+   - **Nuisance Level:** Low
+   - **Price:** ~€60/m²
+   - **Permit Needed:** No
+   - **Note:** Pay attention to condensation problems and install a vapour barrier on the warm side of the insulation.
+
+2. **Wall Insulation:**
+   - **Action:** Insulate the exterior walls (front, rear, right) which are currently not insulated.
+   - **Suggestion:** `insulate wall on exterior`
+   - **Nuisance Level:** High
+   - **Price:** ~€200/m²
+   - **Permit Needed:** Only if the thickness of the total package exceeds 26 cm or the building line is overrun.
+   - **Note:** Consider the position of the building line and the council's guidelines for possible cladding options.
+
+3. **Floor Insulation:**
+   - **Action:** Insulate the floor above the basement which is currently not insulated.
+   - **Suggestion:** `insulate floor above basement`
+   - **Nuisance Level:** Low
+   - **Price:** ~€30/m²
+   - **Permit Needed:** No
+
+4. **Ventilation System Upgrade:**
+   - **Action:** Replace the existing ventilation system (Type A) with a more efficient system (Type C or D).
+   - **Suggestion:** `replace ventilation system`
+   - **Nuisance Level:** Moderate
+   - **Price:** ~€3500 + €17/m²
+   - **Permit Needed:** No (if above-ground parts are at least 2m away from the parcel boundary)
+   - **Note:** For Type C, ensure grilles are installed in window frames.
+
+5. **Heating System Upgrade:**
+   - **Action:** Consider replacing the current emission system with a heat pump (air-water or geothermal) depending on feasibility and budget.
+   - **Suggestion:** `place air-water heatpump` or `place vertical geothermal heatpump`
+   - **Nuisance Level:** Moderate
+   - **Price:** ~€8000 + €35/m² (air-water) or €15000 + €50/m² (geothermal)
+   - **Permit Needed:** Reporting or permit requirement depends on depth of drilling, soil characteristics, and groundwater (for geothermal).
+
+6. **Renewable Energy Integration:**
+   - **Action:** Install PV panels on the roof to leverage the potential for renewable energy.
+   - **Suggestion:** `place PV-panels on roof`
+   - **Nuisance Level:** Low
+   - **Price:** ~€275/m²
+   - **Permit Needed:** Not necessary if the panels are in the same plane.
+   - **Note:** Ensure the roof is properly oriented and captures enough sunlight. Check for asbestos before installation.
+
+**Additional Recommendations:**
+- **Sunshades:** Consider installing outdoor sunshades to improve energy efficiency during hot seasons. (`place sunshade`)
+- **Air Conditioning:** If needed, consider installing air conditioning units. (`place airconditioning`)
+
+**Optimization Sequence:**
+1. Insulate the roof (gable and extension).
+2. Insulate the exterior walls.
+3. Insulate the floor above the basement.
+4. Upgrade the ventilation system.
+5. Upgrade the heating system (consider heat pumps).
+6. Install PV panels on the roof.
+7. Additional recommendations (sunshades, air conditioning).
+
+**Expected Outcome:**
+- Improved EPC score, potentially moving from a D label to a B or A label.
+- Reduced energy consumption and improved thermal comfort.
+- Potential for long-term energy cost savings and increased property value.
+
+This plan prioritizes actions that provide the most significant impact on energy efficiency and EPC improvement while considering the building's specific characteristics and the owner's motivation.

@@ -1,0 +1,41 @@
+Based on the provided RENO ontology and the building data, here is the proposed renovation path. 
+
+### **Building Analysis Summary**
+The property is a modern **Attached Building (constructed in 2023)** with an already strong energy profile (**EPC score: 50**). It features high-efficiency elements such as **Floor Heating** and a **Ventilation System D**. Most structural elements (walls and floor above basement) are already "Well Insulated." However, the owner is motivated to further improve the EPC label.
+
+---
+
+### **Proposed Renovation Path**
+
+To maximize energy efficiency and cost-effectiveness, the renovations must follow the "insulation-first" principle. By reducing heat loss first, we can install a smaller, more cost-effective heating system.
+
+#### **Step 1: Roof Thermal Optimization**
+*   **Intervention:** **Insulate Gable Roof**
+*   **Justification:** While the flat roof extension is well-insulated, the main gable roof is only **"Moderately Insulated."** This is the primary thermal weak point of the building envelope.
+*   **Practical Note:** Ensure a vapor barrier is installed on the warm side to prevent condensation, as per ontology guidelines.
+*   **Ordering:** High Priority (Low ordering value: 28).
+
+#### **Step 2: Glazing Upgrade**
+*   **Intervention:** **Replace Glazing (Upgrade to Triple Glazing)**
+*   **Justification:** The building currently uses double glazing. Upgrading to triple glazing will significantly reduce conductive heat loss and improve the EPC score toward the A+ label.
+*   **Practical Note:** Since the existing wooden frames are in "Good State," replacing only the glazing (rather than the entire window) is the most cost-effective approach.
+*   **Ordering:** Medium Priority (Ordering value: 43).
+
+#### **Step 3: Heating Generation Transition**
+*   **Intervention:** **Place Air-Water Heat Pump**
+*   **Justification:** The building has a specific "reason to change the emission system." Since the building already possesses **Floor Heating** (a low-temperature emission system), it is perfectly optimized for a heat pump.
+*   **Constraint Check:** Geothermal options are ruled out as the site has **no potential** for vertical or horizontal geothermal drilling. A heat grid is also unavailable. An Air-Water Heat Pump is the most efficient alternative.
+*   **Ordering:** Final Step (Ordering value: 67).
+
+---
+
+### **Summary of the Optimal Sequence**
+
+| Sequence | Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | Reduces heat loss | Very High (prevents oversizing HP) |
+| **2** | **Upgrade to Triple Glazing** | Windows | Increases thermal envelope | High (uses existing frames) |
+| **3** | **Install Air-Water Heat Pump** | Generation System | Decarbonizes heating | High (synergy with floor heating) |
+
+### **Final Expert Recommendation**
+Because this building is very new (2023), the "low-hanging fruit" has already been picked. To push the EPC score even lower, the focus must shift from "fixing" to "optimizing." By following this sequence, the owner avoids the common mistake of installing a heating system before finalizing the insulation, ensuring the new heat pump operates at peak efficiency with the lowest possible energy consumption.

@@ -1,0 +1,68 @@
+### Renovation Plan for Attached Building
+
+Given the building's current state and the renovation suggestions available, here's a step-by-step renovation plan to improve energy efficiency while remaining cost-effective:
+
+#### 1. **Insulate the Flat Roof (RoofExtension)**
+   - **Suggestion**: `insulate flat roof`
+   - **Reason**: The flat roof (RoofExtension) is currently not insulated (NotInsulated), which means it is a significant source of heat loss.
+   - **Cost**: €50 per m²
+   - **Note**: Opt for an inverted roof structure to avoid condensation issues.
+
+#### 2. **Insulate the Gable Roof (RoofMain)**
+   - **Suggestion**: `insulate gable roof`
+   - **Reason**: The gable roof (RoofMain) is moderately insulated, which can be improved for better thermal performance.
+   - **Cost**: €60 per m²
+   - **Note**: Ensure proper vapour barrier installation to prevent condensation.
+
+#### 3. **Insulate the Walls (Wall_Front and Wall_Rear)**
+   - **Suggestion**: `insulate wall on exterior`
+   - **Reason**: Both the front and rear walls are not insulated (NotInsulated) and do not have historical protection, making them suitable for exterior insulation.
+   - **Cost**: €200 per m²
+   - **Note**: Check local regulations regarding overrunning the building line.
+
+#### 4. **Replace the Ventilation System**
+   - **Suggestion**: `replace ventilation system`
+   - **Reason**: The current ventilation system (VentilationSystemA) is outdated and can be upgraded to a more efficient system.
+   - **Cost**: €3500 (fixed) + €17 per m²
+   - **Note**: Consider a system that works well with the new insulation to ensure proper air quality.
+
+#### 5. **Place a Heat Pump Boiler**
+   - **Suggestion**: `place heatpumpboiler`
+   - **Reason**: The current emission system (Radiator) is inefficient, and replacing it with a heat pump boiler will significantly improve energy efficiency.
+   - **Cost**: €4000
+   - **Note**: Ensure the heat pump boiler is compatible with the new insulation and ventilation systems.
+
+#### 6. **Place PV-Panels on the Roof**
+   - **Suggestion**: `place PV-panels on roof`
+   - **Reason**: The building has potential for PV-panels (hasPotentialForPV: true), and installing them will help generate renewable energy.
+   - **Cost**: €275 per m²
+   - **Note**: Check the orientation and shading of the roof to maximize efficiency.
+
+#### 7. **Insulate the Floor Above Basement**
+   - **Suggestion**: `insulate floor above basement`
+   - **Reason**: The floor above the basement (FloorAboveBasement) is not insulated, which can lead to heat loss.
+   - **Cost**: €30 per m²
+   - **Note**: Ensure proper vapour barrier installation to prevent condensation.
+
+#### 8. **Insulate the Attic Floor**
+   - **Suggestion**: `insulate attic floor`
+   - **Reason**: The attic floor (likely part of the attic space) is not insulated, which can lead to heat loss.
+   - **Cost**: €60 per m²
+   - **Note**: Ensure proper vapour barrier installation to prevent condensation.
+
+### Summary of Renovation Steps:
+1. Insulate the flat roof (RoofExtension).
+2. Insulate the gable roof (RoofMain).
+3. Insulate the exterior walls (Wall_Front and Wall_Rear).
+4. Replace the ventilation system (VentilationSystem).
+5. Place a heat pump boiler (Generation_System).
+6. Place PV-panels on the roof.
+7. Insulate the floor above the basement (FloorAboveBasement).
+8. Insulate the attic floor.
+
+### Notes:
+- **Permits**: Check local regulations for permits, especially for exterior wall insulation and roof work.
+- **Multi-Phase**: Some suggestions may require multi-phase electricity connections, so plan accordingly.
+- **Cost-Effectiveness**: Prioritize suggestions with higher cost-effectiveness ratios.
+
+This plan focuses on maximizing energy efficiency while considering the building's current state and the available renovation suggestions.

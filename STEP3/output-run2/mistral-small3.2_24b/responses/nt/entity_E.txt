@@ -1,0 +1,58 @@
+### Renovation Plan:
+
+**Objective:** Improve the energy efficiency of the building to lower energy costs and increase thermal comfort, while adhering to the given constraints and leveraging the potential for renewable energy sources.
+
+**Priority Actions:**
+1. **Insulate Exterior Walls:**
+   - **Why:** The building has cavity walls (Wall_Front, Wall_Left, Wall_Right, Wall_Rear) that are currently not insulated (InsulationGrade: NotInsulated). Insulating these walls will significantly reduce heat loss and improve thermal comfort.
+   - **How:** Use external wall insulation with a U-value of ≤ 0.28 W/m²K. Ensure the insulation is compatible with the historical protection status of the walls (which is false for all walls).
+   - **Cost:** Approximate cost can be calculated based on the surface area of the walls and the unit price of the insulation material.
+   - **Nuisance Level:** High (due to scaffolding and potential disruption to the exterior appearance).
+   - **Permit Needed:** Only if the thickness of the total pack > 26 cm or the building line is overrun (Flanders).
+
+2. **Replace the Existing Ventilation System:**
+   - **Why:** The current ventilation system (VentilationSystemA) is outdated and may not meet the required air quality standards. Upgrading to a VentilationSystemC will improve indoor air quality and comfort.
+   - **How:** Install a new ventilation system with a heat recovery unit to minimize heat loss. Ensure the new system is compatible with the existing ductwork and complies with local regulations.
+   - **Cost:** The cost will depend on the size of the building and the complexity of the installation.
+   - **Nuisance Level:** Moderate (due to potential disruption during installation).
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2 m away from the parcel boundary (Flanders).
+
+3. **Upgrade the Emission System:**
+   - **Why:** The building's emission system (EmissionSystem: ElectricConvector) is not energy-efficient and contributes to high energy consumption. Replacing it with a more efficient system, such as an air-water heat pump (AirWaterHeatpump), will reduce energy usage and lower costs.
+   - **How:** Install a new emission system with a lower temperature setting to optimize energy efficiency. Ensure the new system is compatible with the existing heating infrastructure and complies with local regulations.
+   - **Cost:** The cost will depend on the type and size of the new emission system.
+   - **Nuisance Level:** Moderate (due to potential disruption during installation).
+   - **Permit Needed:** Not necessary (Flanders).
+
+4. **Insulate the Roof:**
+   - **Why:** The main roof (RoofMain) is well-insulated, but there may be areas that could benefit from additional insulation, such as the attic floor (AtticFloor). Insulating the attic floor will reduce heat loss and improve overall energy efficiency.
+   - **How:** Install insulation with a U-value of ≤ 0.24 W/m²K. Ensure the insulation is compatible with the existing roof structure and complies with local regulations.
+   - **Cost:** The cost will depend on the size of the attic and the type of insulation used.
+   - **Nuisance Level:** Low (minimal disruption to the living areas).
+   - **Permit Needed:** Not necessary (Flanders).
+
+5. **Install PV Panels:**
+   - **Why:** The building has potential for photovoltaic (PV) panels (PotentialForPV: true). Installing PV panels will generate renewable energy, reduce electricity costs, and contribute to a more sustainable future.
+   - **How:** Install PV panels on the roof or in the garden, ensuring they are oriented correctly for maximum sun exposure. Ensure the installation complies with local regulations and safety standards.
+   - **Cost:** The cost will depend on the size and type of the PV panel system.
+   - **Nuisance Level:** Low (minimal disruption to the living areas).
+   - **Permit Needed:** Not necessary if the panels are in the same plane (Flanders).
+
+**Optional Actions (if budget allows):**
+- **Replace Windows:** The windows in the living area and bedrooms have single glazing (WindowGlazing: SingleGlazing), which is not energy-efficient. Replacing them with double or triple glazing will improve insulation and reduce heat loss.
+- **Insulate the Floor Above the Crawl Space:** The floor above the crawl space (FloorAboveCrawlSpace) is not insulated. Insulating it will reduce heat loss and improve overall energy efficiency.
+
+**Constraints and Considerations:**
+- **Historical Protection:** The building is not located in a protected area (InProtectedArea: false), and the walls do not have historical protection (HasHistoricalProtection: false). This means there are fewer restrictions on the types of renovations that can be carried out.
+- **Energy Performance Certificate (EPC):** The building's current EPC score is 165, which indicates significant room for improvement. The goal is to improve the EPC score to at least a C label or better.
+- **Potential for Renewable Energy:** The building has potential for vertical and horizontal geothermal drilling (PotentialForVerticalGeothermalDrilling: true, PotentialForHorizontalGeothermalCaptation: true), but these options may not be feasible or cost-effective in the current context.
+- **Motivation:** The owner's primary motivation is to improve the EPC (ToImproveEPC). This should be the driving force behind the renovation plan.
+
+**Implementation Sequence:**
+1. **Insulate Exterior Walls:** Start with the most impactful and cost-effective renovation to improve the building's energy efficiency.
+2. **Replace the Ventilation System:** Upgrade the ventilation system to improve indoor air quality and comfort.
+3. **Upgrade the Emission System:** Replace the existing emission system with a more efficient alternative to reduce energy usage and lower costs.
+4. **Insulate the Roof:** Insulate the attic floor to reduce heat loss and improve overall energy efficiency.
+5. **Install PV Panels:** Generate renewable energy and reduce electricity costs by installing PV panels.
+
+This renovation plan is designed to maximize energy efficiency and cost-effectiveness while considering the specific constraints and potential of the building. It is important to consult with a professional to ensure the suggested actions are feasible and compliant with local regulations.

@@ -1,0 +1,62 @@
+### Renovation Plan for Detached Building
+
+**Building Information:**
+- **Type:** Detached building
+- **Construction Year:** 1862
+- **Net Floor Area:** 136.0 m²
+- **Energy Performance Certificate (EPC) Score:** 165 (D Label)
+- **Owner's Motivation:** Improve EPC score
+- **Presence of Heat Grid:** No
+- **Potential for PV:** Yes
+- **Potential for Geothermal:** No (Vertical or Horizontal)
+
+**Current Issues:**
+- **Insulation:**
+  - **Roof:** Well insulated
+  - **Walls:**
+    - `Wall_Front`: Cavity wall, not insulated
+    - `Wall_Left`: Cavity wall, not insulated
+    - `Wall_Right`: Cavity wall, not insulated
+    - `Wall_Rear`: Cavity wall, not insulated
+  - **Floors:**
+    - `FloorAboveCrawlSpace`: Not insulated
+- **Windows:**
+  - **Living Area:** Single glazing, wooden frame (Good State)
+  - **Bedrooms:** Single glazing, wooden frame (Good State)
+- **Ventilation System:** Type A (Natural)
+- **Emission System:** Electric convector (Air Heating)
+- **Heating System:** Boiler
+
+**Renovation Priorities:**
+1. **Insulate Walls:**
+   - **Insulate Wall on Exterior:** Since all walls are cavity walls, exterior insulation is the most effective method.
+   - **Insulate Wall on Interior:** If exterior insulation is not feasible, interior insulation is an alternative.
+2. **Insulate Floor:**
+   - **Insulate Floor Above Crawl Space:** Prevent cold air from entering the living space.
+3. **Replace Glazing:**
+   - **Replace Glazing in Living Area and Bedrooms:** Upgrade from single glazing to double or triple glazing to reduce heat loss.
+4. **Replace Ventilation System:**
+   - **Upgrade from Ventilation System A to C or D:** Ensure proper air exchange and maintain indoor air quality.
+5. **Transition to Sustainable Heating:**
+   - **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient alternative to the current boiler.
+   - **Place Emission System on Low Temperature:** Optimize the heat pump's performance by transitioning the emission system to low-temperature operation.
+6. **Generate Renewable Energy:**
+   - **Place PV-Panels on Roof:** The building has confirmed potential for PV. Install solar panels to offset the electricity consumption of the heat pump and ventilation system.
+
+**Summary of Optimal Sequence:**
+1. **Exterior Wall Insulation**
+2. **Floor Insulation**
+3. **Glazing Replacement**
+4. **Ventilation Upgrade**
+5. **Air-Water Heat Pump Installation**
+6. **Low-Temperature Emission System Transition**
+7. **PV Panels Installation**
+
+**Rationale:**
+- **Insulation First:** Addressing the building envelope (walls and floors) is the most cost-effective way to lower the energy demand and improve the EPC score.
+- **Glazing Replacement:** Upgrading the glazing from single to double or triple will further reduce heat loss.
+- **Ventilation Upgrade:** Ensures proper air exchange in a now-sealed envelope.
+- **Heat Pump Transition:** With a lower heat demand, the Air-Water Heat Pump is the most efficient and sustainable heating solution.
+- **PV Panels:** Generate renewable energy to offset the electricity consumption of the heat pump and ventilation system.
+
+**Note:** The sequence and priority of the actions are based on the principle of addressing the building envelope first, followed by system upgrades, and finally, renewable energy generation. This approach ensures that the building is as energy-efficient as possible before installing high-efficiency systems and renewable energy sources.

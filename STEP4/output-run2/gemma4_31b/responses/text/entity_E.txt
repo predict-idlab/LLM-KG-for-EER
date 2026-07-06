@@ -1,0 +1,39 @@
+To maximize energy efficiency and improve the EPC score (currently 165) in a cost-effective manner, this renovation will follow the **"Fabric First"** principle. By optimizing the thermal envelope before upgrading the heating system, we avoid the cost of installing an oversized HVAC system and ensure the home retains as much heat as possible.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The goal is to eliminate the primary sources of heat loss. Since the house is a detached building with several uninsulated components, these upgrades offer the highest return on investment.
+
+1.  **Cavity Wall Insulation:** The exterior walls are cavity walls and currently uninsulated. **Cavity wall insulation** is one of the most cost-effective upgrades available, as it requires minimal disruption to the interior or exterior facade while significantly reducing heat transfer.
+2.  **Insulate Floor Above Crawl Space:** The floor is currently not protected/insulated. Insulating the ceiling of the crawl space prevents cold air from entering the living area and eliminates "cold feet," which is essential for comfort in an older detached home.
+3.  **Replace Glazing:** The windows currently have single glazing. This is a major source of thermal leakage. Since the wooden frames are in good condition, the priority is to **upgrade to double or triple glazing** to drastically reduce heat loss and improve acoustic insulation.
+
+#### Phase 2: High-Efficiency Heating Transition (Priority: Medium)
+Once the building is sealed and insulated, the total heat demand is lowered, allowing for a transition to a modern, sustainable heating system.
+
+4.  **Upgrade Heat Emission Systems:** The current mix of radiators and electric convectors is in poor condition. Before installing a new generator, these should be replaced with **low-temperature emission systems** (e.g., oversized radiators or expanded underfloor heating) to maximize the efficiency of a heat pump.
+5.  **Install Air-Water Heat Pump:** Given that geothermal energy is not viable and there is no district heating, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the existing boiler.
+
+#### Phase 3: Air Quality and Ventilation (Priority: Medium)
+Increasing the airtightness of the home through insulation and new glazing necessitates a controlled ventilation strategy to prevent moisture buildup and mold.
+
+6.  **Upgrade Ventilation System:** Replace the basic natural ventilation (System A) with a more efficient system (such as **System C or D**). This ensures a constant supply of fresh air without losing the heat gained from the new insulation.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To further lower the EPC score and offset the electricity costs of the new heat pump and ventilation system.
+
+7.  **Install PV Panels:** The house has confirmed potential for photovoltaic panels. Installing **PV panels** on the roof will allow the homeowner to generate their own renewable electricity, moving the home toward energy neutrality.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Cavity Wall $\rightarrow$ Floor Insulation** | Stops the primary heat leaks through the structure. |
+| **2** | **Glazing Upgrade** | Eliminates the high thermal loss associated with single glazing. |
+| **3** | **Low-Temp Emission Upgrade** | Prepares the home to operate efficiently with a heat pump. |
+| **4** | **Air-Water Heat Pump** | Switches to a sustainable energy source based on a reduced heat load. |
+| **5** | **Ventilation Upgrade** | Protects indoor air quality and building health in a sealed envelope. |
+| **6** | **PV Panel Installation** | Offsets operational energy costs with renewable generation. |

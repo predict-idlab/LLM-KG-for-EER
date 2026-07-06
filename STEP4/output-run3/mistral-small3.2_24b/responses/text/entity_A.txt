@@ -1,0 +1,78 @@
+### Renovation Plan for Semi-Detached House in Ghent, Belgium (Built 1951)
+
+#### **Current EPC Score:** 388
+#### **Key Goals:** Improve energy efficiency, reduce energy consumption, and enhance long-term operational performance.
+
+---
+
+### **Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+**Objective:** Reduce heat loss by insulating key thermal bridges.
+
+1. **Insulate Pitched Roof**
+   - The main roof is a pitched roof without insulation.
+   - Insulating the pitched roof will significantly reduce heat loss, as heat rises.
+   - Recommended: Add insulation between and over the rafters.
+
+2. **Insulate Exterior Walls (Interior Insulation)**
+   - The exterior walls are solid brick and uninsulated.
+   - Interior insulation is cost-effective and avoids structural changes.
+   - Recommended: Use high-performance insulation (e.g., mineral wool or rigid foam).
+
+3. **Insulate Floor Above Basement**
+   - The floor above the basement is uninsulated.
+   - Insulating this floor reduces heat loss to the basement and improves comfort.
+   - Recommended: Add rigid insulation boards or use a floating floor system.
+
+---
+
+### **Phase 2: Window Performance**
+**Objective:** Further reduce heat loss through windows.
+
+4. **Upgrade to High-Performance Double or Triple Glazing (if budget allows)**
+   - The windows currently have double glazing, but upgrading to high-performance double or triple glazing can further improve thermal efficiency.
+   - Recommended: Consider low-emissivity (Low-E) coatings and argon-filled glazing for better insulation.
+
+---
+
+### **Phase 3: Heating System Transition**
+**Objective:** Replace the old boiler with a more efficient and sustainable heating system.
+
+5. **Install an Air-Water Heat Pump**
+   - Since the site is not suitable for geothermal energy and there is no district heating, an air-water heat pump is the most viable alternative.
+   - Recommended: Pair the heat pump with low-temperature emission systems (e.g., underfloor heating or low-temperature radiators) for optimal performance.
+
+---
+
+### **Phase 4: Ventilation Upgrade**
+**Objective:** Ensure proper air quality and reduce heat loss through uncontrolled ventilation.
+
+6. **Upgrade to a Mechanical Ventilation System with Heat Recovery (MVHR)**
+   - The current natural ventilation system is inefficient and can lead to heat loss.
+   - Recommended: Install a System C or D ventilation system to maintain indoor air quality while recovering heat from exhausted air.
+
+---
+
+### **Phase 5: Sustainable Energy Generation**
+**Objective:** Generate renewable energy to offset the heat pump’s electricity consumption.
+
+7. **Install Photovoltaic (PV) Panels**
+   - The house has potential for PV panel installation.
+   - Recommended: Install PV panels on the roof to generate electricity for the heat pump and other household needs.
+
+---
+
+### **Optimal Renovation Sequence**
+| **Sequence** | **Action** | **Rationale** |
+|-------------|-----------|--------------|
+| 1 | Insulate Pitched Roof | Reduces heat loss through the roof. |
+| 2 | Insulate Exterior Walls (Interior) | Improves thermal efficiency of solid brick walls. |
+| 3 | Insulate Floor Above Basement | Reduces heat loss to the basement. |
+| 4 | Upgrade Glazing (if budget allows) | Enhances window insulation. |
+| 5 | Install Air-Water Heat Pump | Replaces the old boiler with a more efficient system. |
+| 6 | Upgrade Ventilation to MVHR | Ensures proper air quality and heat recovery. |
+| 7 | Install PV Panels | Generates renewable energy to power the heat pump. |
+
+---
+
+### **Summary**
+This renovation plan follows a **fabric-first approach**, ensuring that the building’s thermal envelope is optimized before upgrading the heating system. The sequence maximizes energy efficiency while remaining cost-effective. By insulating key thermal bridges, upgrading the heating system, and installing PV panels, the EPC score will improve significantly, leading to long-term energy savings and enhanced comfort.

@@ -1,0 +1,36 @@
+Based on the provided building data and the RENO ontology, here is the analysis and proposed renovation plan.
+
+### Building Analysis
+The property is a modern semi-detached building (constructed in 2017) that already exhibits high energy efficiency, with an **EPC score of 87 kWh/m²year**. 
+
+*   **Strengths:** The building is already equipped with a high-efficiency **Ventilation System D**, a **Heat Pump** for generation, and **PV Panels**. The walls (Front, Left, Rear) and the floor above the basement are already **Well Insulated**. Windows are double-glazed with frames in good condition.
+*   **Weakness:** The only building element not rated as "Well Insulated" is the **RoofMain (Gable Roof)**, which is currently **Moderately Insulated**.
+*   **Constraints:** The site has no potential for geothermal drilling (vertical or horizontal) and there is no available heat grid.
+
+### Proposed Renovation Path
+Given the owner's motivation to further improve the EPC and the building's current state, the most cost-effective and energy-efficient strategy is to target the only remaining thermal bridge in the building envelope.
+
+#### 1. Primary Intervention: Gable Roof Optimization
+Since the walls and floors are already optimized, the roof is the primary source of remaining heat loss.
+*   **Action:** **Insulate Gable Roof**.
+*   **Reasoning:** Upgrading the RoofMain from "Moderately Insulated" to "Well Insulated" will provide the most significant reduction in energy consumption for the lowest relative cost, as it avoids the high expense of replacing already efficient windows or walls.
+*   **Complementary Action:** **Place Roof Underlayment**. 
+    *   *Note:* Per the ontology, this should be ensured during the insulation process to ensure the roof is completely air- and watertight, maximizing the efficiency of the new insulation.
+
+#### 2. Secondary Considerations (Low Priority)
+*   **Windows:** While "Replace Glazing" (to Triple Glazing) is a theoretical option, the current EPC is already very low (87). The marginal energy gain from triple glazing would likely not justify the cost given the high state (value 8) of the current wooden frames.
+*   **Generation:** The building already utilizes a Heat Pump and PV panels; further upgrades here are not recommended as the site does not support geothermal alternatives.
+
+### Optimal Sequence of Execution
+To maximize benefits and maintain cost-effectiveness, the following sequence is proposed:
+
+1.  **Preparation:** Conduct a technical audit of the Gable Roof to determine the current insulation thickness and the best material for the upgrade.
+2.  **Execution:** 
+    *   **Step A:** Install/upgrade **Roof Underlayment** to ensure a moisture-proof seal.
+    *   **Step B:** Perform **Gable Roof Insulation** to bring the element to a "Well Insulated" grade.
+3.  **Verification:** Update the **Energy Performance Certificate (EPC)** to quantify the reduction in energy score.
+
+### Summary of Impact
+*   **Energy Efficiency:** Maximized by closing the final gap in the building envelope.
+*   **Cost-Effectiveness:** High; focuses resources on the only underperforming element rather than replacing high-performing components.
+*   **Operational Performance:** Improves thermal retention during winter, further reducing the load on the existing heat pump.

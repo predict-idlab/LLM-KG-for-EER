@@ -1,0 +1,63 @@
+Based on the provided RENO ontology and the building's details, here's a cost-effective and energy-efficient renovation plan. The plan focuses on practical upgrades that reduce energy consumption and improve long-term operational performance, prioritizing the most impactful measures first:
+
+1. **Insulate Walls (Interior)**
+   - *Priority*: High (Ordering: 37)
+   - *Action*: Insulate the rear and front walls (FullBrickWall) on the interior.
+   - *Details*:
+     - Cost: €150/m² (interior insulation).
+     - Nuisance level: Moderate.
+     - Important to relocate sockets, pipes, and radiators against the outer walls.
+   - *Why First*: Walls are a significant source of heat loss, and interior insulation is less disruptive than exterior insulation.
+
+2. **Replace Windows**
+   - *Priority*: High (Ordering: 46)
+   - *Action*: Replace all wooden windows (WindowsBedrooms, WindowsLivingArea) with energy-efficient models.
+   - *Details*:
+     - Cost: €800/m² (includes double glazing).
+     - Nuisance level: High (due to the scale of the work).
+     - Ensure new windows have a thermal break and are properly sealed.
+   - *Why*: Old wooden windows are likely drafty and inefficient, contributing to heat loss.
+
+3. **Insulate Attic Floor**
+   - *Priority*: Medium (Ordering: 31)
+   - *Action*: Insulate the attic floor (FloorAboveBasement) if not already insulated.
+   - *Details*:
+     - Cost: €60/m².
+     - Nuisance level: Low.
+     - Install a vapor barrier on the warm side of the insulation.
+   - *Why*: Heat rises, so insulating the attic floor prevents heat loss through the roof.
+
+4. **Upgrade Ventilation System**
+   - *Priority*: Medium (Ordering: 52)
+   - *Action*: Replace the existing natural ventilation system (VentilationSystemA) with a more efficient system (e.g., VentilationSystemB or C).
+   - *Details*:
+     - Cost: €3,500 (fixed) + €17/m².
+     - Nuisance level: Moderate.
+     - Ensure the new system is compatible with the existing emission system (Radiator).
+   - *Why*: Better ventilation improves indoor air quality and can reduce energy consumption by optimizing heating.
+
+5. **Insulate Roof (Gable Roof)**
+   - *Priority*: Low (Ordering: 28)
+   - *Action*: Insulate the gable roof (RoofMain) if not already well-insulated.
+   - *Details*:
+     - Cost: €60/m².
+     - Nuisance level: Low.
+     - Install a vapor barrier and ensure proper air- and watertightness.
+   - *Why*: The roof is already moderately insulated, but additional insulation can further reduce heat loss.
+
+6. **Consider Solar Panels (PV-Panels on Roof)**
+   - *Priority*: Low (Ordering: 85)
+   - *Action*: Evaluate the potential for installing solar panels on the roof.
+   - *Details*:
+     - Cost: €275/m².
+     - Nuisance level: Low.
+     - Check the roof's orientation, gradient, and potential shading.
+     - Ensure the roof is free of asbestos before installation.
+   - *Why*: Solar panels can offset energy costs, but this should be considered after addressing heat loss.
+
+### Additional Notes:
+- **Asbestos**: No asbestos-containing elements are mentioned in the building description, so no removal is needed.
+- **Heat Grid**: The building does not have access to a heat grid, so this option is not viable.
+- **Budget**: Prioritize measures based on the owner's budget and nuisance tolerance. The plan starts with the most cost-effective and impactful measures.
+
+This plan ensures that the building's energy efficiency is improved in a structured and cost-effective manner, focusing on reducing heat loss and upgrading key systems.

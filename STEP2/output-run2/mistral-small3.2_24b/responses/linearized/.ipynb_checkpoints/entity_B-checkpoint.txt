@@ -1,0 +1,61 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **1. Insulate Wall Cavity (Priority: High)**
+- **Action**: Insulate the cavity walls (Front and Rear) to improve thermal performance.
+- **Reason**: Both walls are currently not insulated (NotInsulated), which contributes to high energy consumption.
+- **Cost**: €22/m² (PER-M2).
+- **Note**: Ensure the cavity is wide enough and free of contamination before injecting insulation.
+
+#### **2. Replace Ventilation System (Priority: High)**
+- **Action**: Upgrade from Ventilation System A to a more efficient system (e.g., Ventilation System B or C).
+- **Reason**: Current system (Ventilation System A) is less efficient and may not meet modern standards.
+- **Cost**: €17/m² (PER-M2).
+- **Note**: Consider adding grilles to window frames if natural supply is part of the system.
+
+#### **3. Insulate Attic Floor (Priority: Medium)**
+- **Action**: Insulate the attic floor to reduce heat loss through the roof.
+- **Reason**: The attic floor is currently not insulated, and the roof (RoofMain) is only moderately insulated.
+- **Cost**: €60/m² (PER-M2).
+- **Note**: Install a vapour barrier on the warm side of the insulation to prevent condensation.
+
+#### **4. Replace Glazing (Priority: Medium)**
+- **Action**: Upgrade the double glazing (DoubleGlazing) in the bedrooms and living area to triple glazing (TripleGlazing).
+- **Reason**: Triple glazing offers better thermal insulation, reducing heat loss through windows.
+- **Cost**: €200/m² (PER-M2).
+- **Note**: Ensure window frames (WoodenWindowFrame) are in good condition and can support the new glazing.
+
+#### **5. Connect to Heat Grid (Priority: Low, if applicable)**
+- **Action**: Investigate the possibility of connecting to a heat grid (if available in the future).
+- **Reason**: Current presenceOfHeatGrid is false, but future availability could provide a more sustainable heating solution.
+- **Cost**: €7000 (fixed).
+- **Note**: Check with the municipality or grid operator for more information.
+
+#### **6. Place Air-Water Heat Pump (Priority: Low, if applicable)**
+- **Action**: Consider installing an air-water heat pump as a replacement for the current boiler (Boiler).
+- **Reason**: Heat pumps are more energy-efficient and can reduce energy consumption.
+- **Cost**: €35/m² (PER-M2) or €8000 (fixed).
+- **Note**: Requires a multi-phase connection, depending on the system.
+
+#### **7. Place Sun Shade (Priority: Low, if applicable)**
+- **Action**: Install outdoor blinds or shades to reduce solar gain in summer.
+- **Reason**: Can improve thermal comfort and reduce cooling needs.
+- **Cost**: €750 (fixed).
+- **Note**: Outdoor blinds are generally more efficient than indoor blinds.
+
+#### **8. Place PV Panels on Roof (Priority: Low, if applicable)**
+- **Action**: Install photovoltaic (PV) panels on the roof (RoofMain) if the orientation and sunlight exposure are suitable.
+- **Reason**: Can generate renewable energy and reduce electricity costs.
+- **Cost**: €275/m² (PER-M2).
+- **Note**: Check the 'Zonnekaart' for optimal panel placement and yield.
+
+### **Optimal Sequence of Actions**
+1. **Insulate Wall Cavity** (immediate impact on thermal performance).
+2. **Replace Ventilation System** (improve indoor air quality and efficiency).
+3. **Insulate Attic Floor** (reduce heat loss through the roof).
+4. **Replace Glazing** (enhance window insulation).
+5. **Connect to Heat Grid** (future-proofing, if applicable).
+6. **Place Air-Water Heat Pump** (long-term energy savings).
+7. **Place Sun Shade** (seasonal comfort improvement).
+8. **Place PV Panels on Roof** (renewable energy generation).
+
+This plan prioritizes actions that provide the most significant energy savings and cost-effectiveness while considering the building's current state and constraints.

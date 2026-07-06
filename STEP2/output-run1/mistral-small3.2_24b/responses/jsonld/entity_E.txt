@@ -1,0 +1,76 @@
+### **Renovation Plan for the Detached Building**
+
+#### **Objective**
+Improve the energy efficiency of the detached building (constructed in 1862) to achieve a better energy performance certificate (EPC) label.
+
+#### **Key Observations**
+- The building has a **detached structure** with a **gable roof** and **cavity walls**.
+- The **current EPC score is 165** (likely an **E label**).
+- The **emission system (radiators, air heating, and electric convectors)** and **ventilation system** are outdated and inefficient.
+- The **roof is well insulated**, but **walls and windows are not insulated**.
+- The building has **potential for photovoltaic (PV) panels** but **no heat grid connection**.
+- The **site has no potential for geothermal drilling** (horizontal or vertical).
+- The **owner wants to improve the EPC label** of the property.
+
+---
+
+### **Proposed Renovation Plan**
+
+#### **1. Insulate Walls**
+- **Action:** *Insulate wall on interior* (ordering 37)
+  - **Reason:** The walls are currently not insulated.
+  - **Cost:** ~€150/m²
+  - **Nuisance Level:** Moderate
+  - **Permit Required:** No
+
+- **Action:** *Insulate wall cavity* (ordering 34)
+  - **Reason:** Cavity walls can be easily insulated by injecting insulation material.
+  - **Cost:** ~€22/m²
+  - **Nuisance Level:** Low
+  - **Permit Required:** No
+
+#### **2. Improve Windows**
+- **Action:** *Replace windows* (ordering 46)
+  - **Reason:** The windows have **single glazing**, which is inefficient.
+  - **Cost:** ~€800/m²
+  - **Nuisance Level:** High
+  - **Permit Required:** No
+
+#### **3. Replace the Emission System**
+- **Action:** *Place air-water heat pump with cooling* (ordering 73)
+  - **Reason:** The current emission system is outdated and inefficient.
+  - **Cost:** ~€9,000 (fixed) + €35/m²
+  - **Nuisance Level:** Moderate
+  - **Permit Required:** No
+
+#### **4. Replace the Ventilation System**
+- **Action:** *Replace ventilation system* (ordering 52)
+  - **Reason:** The current ventilation system is likely inefficient.
+  - **Cost:** ~€3,500 (fixed) + €17/m²
+  - **Nuisance Level:** Moderate
+  - **Permit Required:** No
+
+#### **5. Install PV Panels**
+- **Action:** *Place PV-panels on roof* (ordering 85)
+  - **Reason:** The building has **potential for PV panels** and is located in a sunny region.
+  - **Cost:** ~€275/m²
+  - **Nuisance Level:** Low
+  - **Permit Required:** No
+
+#### **6. Additional Recommendations**
+- **Action:** *Place sunshade* (ordering 79)
+  - **Reason:** Reduces cooling needs in summer.
+  - **Cost:** ~€750 (fixed)
+  - **Nuisance Level:** Low
+  - **Permit Required:** No
+
+---
+
+### **Expected Outcomes**
+- **Better EPC Label:** The proposed renovations should significantly improve the energy efficiency of the building, leading to a better EPC label (likely **C or B label**).
+- **Lower Energy Bills:** Improved insulation, efficient heating, and PV panels will reduce energy consumption.
+- **Increased Comfort:** Better temperature regulation and reduced drafts.
+
+This plan prioritizes **cost-effective, high-impact upgrades** while minimizing nuisance and permitting requirements. The renovations should be carried out in the **optimal sequence** to maximize benefits.
+
+Would you like any adjustments or additional details on a specific step?

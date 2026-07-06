@@ -1,0 +1,31 @@
+To maximize energy efficiency and improve the EPC score (currently 262) in a cost-effective manner, the renovation should follow a structured approach that prioritizes the building's thermal envelope before upgrading heating systems and ventilation. Given the house's age (1832) and the existing conditions, the proposed renovation path is as follows:
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building has several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Flat Roof:** The flat-roof extension is currently not insulated. This is a priority as heat rises; insulating the flat roof is one of the most effective ways to lower energy consumption.
+2. **Insulate Walls on Exterior:** Both `Wall_Front` and `Wall_Rear` are solid brick and not insulated. Exterior insulation is the most effective method to eliminate thermal bridges and improve thermal retention.
+3. **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+
+#### Phase 2: Heating & Emission System Transition
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+4. **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+5. **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+#### Phase 3: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System:** Upgrade from the basic natural ventilation system to a more efficient system (such as System D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### Phase 4: Sustainable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+**Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Flat Roof Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **PV Panels**.
+
+This sequence ensures that each renovation step builds on the previous one, maximizing energy efficiency and cost-effectiveness.

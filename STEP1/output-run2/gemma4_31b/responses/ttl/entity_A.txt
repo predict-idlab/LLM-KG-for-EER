@@ -1,0 +1,42 @@
+Based on the provided building data and the RENO ontology, the building is a 1951 semi-detached house with an energy score of **388.0 (Label D)**. The owner's primary motivation is to **improve the EPC**. 
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. This ensures that we reduce the building's energy demand before investing in expensive heating technology, allowing for a smaller, more efficient heating system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (The "Shell")
+*Priority: High | Goal: Reduce heat loss to the environment.*
+
+1.  **Insulate Gable Roof (`reno:InsulateGableRoof`):** The main roof is currently not insulated. Since heat rises, this is the most impactful first step. 
+    *   *Note:* Ensure a vapour barrier is installed on the warm side to prevent condensation.
+2.  **Insulate Exterior Walls (`reno:InsulateWallExterior`):** The front, rear, and right walls are full brick and not insulated. Exterior insulation is preferred over interior insulation to avoid reducing living space and to prevent thermal bridging.
+3.  **Insulate Floor Above Basement (`reno:InsulateFloorAboveBasement`):** The floor is currently not insulated. This is a cost-effective way to eliminate "cold feet" and reduce heat loss to the basement.
+
+#### Phase 2: Air Quality & Ventilation
+*Priority: Medium | Goal: Prevent moisture buildup and ensure healthy air.*
+
+4.  **Upgrade Ventilation System (`reno:ReplaceVentilationSystem`):** The building currently uses Ventilation System A (natural). Once the shell is insulated and sealed, natural ventilation is often insufficient. Upgrading to System C or D is necessary to prevent mold and maintain indoor air quality.
+
+#### Phase 3: Heating Generation & Emission
+*Priority: Medium | Goal: Transition to sustainable, low-carbon heating.*
+
+5.  **Upgrade to Low-Temperature Emission (`reno:PlaceLowTemperatureEmission`):** The building has a stated reason to change its emission system. To make a modern heat pump efficient, the system should be transitioned to low-temperature emitters (e.g., underfloor heating or oversized radiators).
+6.  **Install Air-Water Heat Pump (`reno:PlaceAirWaterHeatpump`):** Since the site has **no potential for geothermal captation** and there is **no heat grid available**, an Air-Water Heat Pump is the most efficient sustainable alternative to the current boiler.
+
+#### Phase 4: Renewable Energy
+*Priority: Low (Financial Offset) | Goal: Offset electricity costs of the heat pump.*
+
+7.  **Install Solar Panels (`reno:PlacePVPanelsOnRoof`):** The building has high PV potential. Installing panels on the roof will generate electricity to power the new heat pump, significantly reducing long-term operational costs.
+
+---
+
+### Summary of Logic & Cost-Effectiveness
+
+| Sequence | Action | Rationale | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1. Roof $\rightarrow$ Walls $\rightarrow$ Floor** | **Insulation** | Reduces the total kWh needed to heat the home. | High ROI; reduces the size/cost of the future heat pump. |
+| **2. Ventilation** | **System Upgrade** | Essential requirement after improving airtightness. | Prevents costly structural damage from dampness. |
+| **3. Emission $\rightarrow$ Generation** | **Heat Pump** | Replaces fossil fuel boiler with electricity. | Only efficient if done *after* insulation. |
+| **4. PV Panels** | **Solar Energy** | Offsets the electricity consumption of the pump. | Reduces monthly utility bills. |
+
+**Excluded Upgrades:** I have omitted the replacement of windows. The current windows are already **double-glazed** and the wooden frames are in **Good State (Value: 8)**, making their replacement a low priority for energy efficiency compared to the lack of wall and roof insulation.

@@ -1,0 +1,33 @@
+### Renovation Plan:
+The building is a historic attached structure from 1832 with an EPC score of 262 (C Label). The owner's primary motivation is to improve the EPC rating. Given the property's age and condition, the renovation must prioritize energy efficiency while respecting its historical character.
+
+### Proposed Renovation Path:
+
+**Phase 1: Thermal Envelope Optimization**
+The building envelope must be sealed and insulated to reduce heat loss. Given the building's historical status, exterior interventions are preferred to preserve interior spaces.
+
+1. **Insulate Wall On Exterior:** Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. **Exterior insulation** is the most effective method to eliminate thermal bridges without altering the interior structure.
+2. **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+3. **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a priority as heat rises rapidly through flat sections.
+
+**Phase 2: Window Performance**
+The windows are already double-glazed, but the wooden frames are old. To enhance performance without altering the aesthetic:
+
+4. **Replace Wooden Window Frames:** The existing wooden frames are in a "Good State," but replacing them with modern, thermally broken frames will improve thermal retention and airtightness.
+
+**Phase 3: Heating & Emission System Transition**
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+5. **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+6. **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+**Phase 4: Sustainable Energy Generation**
+To offset the electricity consumption of the new heat pump and further improve the EPC label:
+
+7. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence:
+
+**Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Flat Roof Insulation** $\rightarrow$ **Window Frame Replacement** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+This sequence ensures that the building is properly sealed and insulated before transitioning to a more efficient heating system, maximizing energy savings and cost-effectiveness.

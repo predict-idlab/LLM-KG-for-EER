@@ -1,0 +1,49 @@
+To create a renovation plan, I'll analyze the provided information step by step:
+
+1. **Analyze the building's current state**:
+   - The building is a semi-detached house with a net floor area of 173m².
+   - Construction year: 2017.
+   - It has well-insulated walls (well-insulated), a moderately insulated gable roof, and a well-insulated flat roof extension.
+   - The building has an energy performance certificate (EPC) with an energy score of 87.
+   - The owner's motivation is to improve the EPC.
+
+2. **Identify key areas for improvement**:
+   - The gable roof is only moderately insulated, indicating potential for improvement.
+   - The building has no PV panels (potentialForPV: false), suggesting an opportunity to install them.
+   - The presence of heat grid is false, indicating that connecting to a heat grid is not an option.
+   - The building has a ventilation system type D.
+
+3. **Consider the renovation suggestions**:
+   - The suggestion list includes various options like replacing roofs, insulating walls, replacing windows, installing heat pumps, and placing PV panels.
+   - Given the building's relatively recent construction (2017), major structural changes are likely unnecessary.
+
+4. **Prioritize based on the owner's motivation (improving EPC)**:
+   - Insulating the gable roof would improve the building's thermal performance.
+   - Installing PV panels would generate renewable energy, further improving the EPC.
+
+5. **Create a step-by-step plan**:
+   - First, assess the current insulation of the gable roof and determine the appropriate insulation method (likely "insulate gable roof").
+   - Then, evaluate the potential for installing PV panels (either on the roof or in the garden) and choose the most feasible option.
+   - Finally, consider replacing the ventilation system with a more energy-efficient model if it significantly impacts the EPC.
+
+Based on this analysis, here's a proposed renovation plan:
+
+### Renovation Plan:
+
+1. **Insulate Gable Roof**:
+   - Action: Insulate the existing gable roof to improve its insulation grade from moderately insulated to well insulated.
+   - Rationale: This will enhance the building's thermal performance and contribute to a better EPC.
+
+2. **Install PV Panels**:
+   - Action: Place PV panels on the roof or in the garden, depending on available space and sunlight exposure.
+   - Rationale: Generating renewable energy will reduce the building's carbon footprint and improve its energy efficiency rating.
+
+3. **Consider Ventilation System Upgrade**:
+   - Action: Evaluate the possibility of upgrading the existing ventilation system type D to a more energy-efficient model.
+   - Rationale: A more efficient ventilation system could further improve the building's energy performance.
+
+4. **Monitor and Evaluate**:
+   - Action: After implementing the renovations, monitor the building's energy consumption and EPC to assess the impact of the changes.
+   - Rationale: This will help in fine-tuning the renovation strategy for future improvements.
+
+This plan focuses on improving the building's energy efficiency and EPC rating, aligning with the owner's motivation. The proposed actions are practical, cost-effective, and based on the provided ontology and suggestion list.

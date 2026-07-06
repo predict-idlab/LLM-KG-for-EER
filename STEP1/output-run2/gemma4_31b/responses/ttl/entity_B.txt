@@ -1,0 +1,51 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path. This plan follows the **"Fabric First"** principle: reducing energy demand through insulation before upgrading heating systems to ensure the new systems are not oversized and operate at maximum efficiency.
+
+### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+The building is an 1832 attached house with an EPC score of 262.0 (C Label). The priority is to eliminate the "Not Insulated" areas.
+
+1.  **Insulate Flat Roof (Roof Extension):** 
+    *   **Action:** `reno:InsulateFlatRoof`
+    *   **Reasoning:** The flat roof is currently not insulated. Roofs are the primary source of heat loss.
+    *   **Note:** Opt for an inverted roof structure to avoid internal moisture issues.
+2.  **Insulate Floor Above Basement:** 
+    *   **Action:** `reno:InsulateFloorAboveBasement`
+    *   **Reasoning:** This element is not insulated and has no protection constraints. It is a cost-effective way to reduce cold drafts from the basement.
+3.  **Insulate Exterior Walls (Front & Rear):** 
+    *   **Action:** `reno:InsulateWallExterior`
+    *   **Reasoning:** Both the front and rear walls are full brick and not insulated. While `reno:InsulateWallInterior` is an option, exterior insulation is more energy-efficient as it eliminates thermal bridges. Since there is no historical protection, exterior insulation is the optimal choice.
+
+### **Phase 2: Air Quality & Ventilation**
+Once the building is "sealed" with insulation, the risk of condensation and poor air quality increases, especially in a house from 1832.
+
+4.  **Upgrade Ventilation System:** 
+    *   **Action:** `reno:ReplaceVentilationSystem`
+    *   **Reasoning:** The building currently uses **Ventilation System A** (natural supply/exhaust), which is the least efficient. Upgrading to System C or D will ensure a healthy indoor climate and prevent mold growth following the insulation works.
+
+### **Phase 3: Heating System Modernization (Energy Transition)**
+With the thermal envelope optimized, the heating load is now significantly lower. We can now replace the outdated boiler and emission system.
+
+5.  **Replace Heating Generation & Emission:** 
+    *   **Action:** `reno:PlaceAirWaterHeatpump`
+    *   **Reasoning:** The building has a reason to change its emission system, and geothermal/heat grid options are unavailable. An air-water heat pump is the most sustainable and cost-effective alternative to a traditional boiler.
+    *   **Sequence Note:** This is done *after* insulation so the heat pump can be sized correctly for the new, lower energy demand.
+
+### **Phase 4: Renewable Energy Integration**
+The final step is to offset the electricity consumption of the new heat pump.
+
+6.  **Install Solar Energy:** 
+    *   **Action:** `reno:PlacePVPanelsOnRoof`
+    *   **Reasoning:** The building is explicitly marked as having potential for PV (`reno:hasPotentialForPV true`). This will lower operational costs and significantly improve the EPC label.
+
+---
+
+### **Summary of the Renovation Sequence**
+| Sequence | Intervention | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Insulate Flat Roof | RoofExtension | High | High |
+| **2** | Insulate Floor | FloorAboveBasement | Medium | High |
+| **3** | Insulate Walls | Wall_Front/Rear | High | Medium |
+| **4** | Upgrade Ventilation | VentilationSystem | Medium | Medium |
+| **5** | Air-Water Heat Pump | Generation_System | High | Medium |
+| **6** | PV Panels | RoofMain | High | High (Long-term) |
+
+**Final Outcome:** This path moves the building from a **C Label** toward an **A or B Label**, maximizing the owner's motivation to improve the EPC while ensuring the house remains breathable and cost-efficient to operate.

@@ -1,0 +1,33 @@
+Given the information about your 2017 semi-detached house in Ghent, Belgium, with a relatively good starting EPC score of 87, the focus should be on **optimizing existing systems** and **targeted upgrades** rather than extensive renovations. Here’s a concise and actionable plan:
+
+### **Phase 1: Optimize Existing Systems**
+1. **Heat Pump Efficiency Check**
+   - Schedule a professional inspection of the heat pump to ensure it is operating at peak efficiency.
+   - Consider a **heat pump power flush** to remove any buildup in the system, improving performance.
+   - If the heat pump is older than 5 years, evaluate the cost-benefit of upgrading to a newer, more efficient model.
+
+2. **Ventilation System D Maintenance**
+   - Ensure the ventilation system (System D) is well-maintained, with clean filters and proper airflow.
+   - Consider adding a **heat recovery unit** if not already present to further improve energy efficiency.
+
+### **Phase 2: Targeted Upgrades**
+3. **Roof Insulation Top-Up (If Needed)**
+   - The main pitched roof has **moderate insulation**, while the flat-roof extension is **well insulated**.
+   - If the pitched roof’s insulation is insufficient, consider adding **extra insulation** (e.g., rigid foam boards or blown-in insulation) to improve thermal performance.
+
+4. **Window Upgrades (If Needed)**
+   - The windows are **double-glazed and renewed in 2020**, so replacement is not immediately necessary.
+   - If drafts or condensation issues are present, consider **secondary glazing** or **smart window films** for additional insulation.
+
+### **Phase 3: Sustainable Energy Enhancements**
+5. **Photovoltaic (PV) Panel Expansion**
+   - Since PV panels are already installed, evaluate whether **expanding the system** (e.g., adding more panels or a battery storage system) could further reduce electricity costs and improve self-sufficiency.
+
+6. **Smart Home Integration**
+   - Install **smart thermostats and sensors** to optimize heating and ventilation based on occupancy and weather conditions.
+   - Consider **smart shading solutions** (e.g., motorized blinds) to reduce solar heat gain in summer and retain heat in winter.
+
+### **Summary of Optimal Sequence**
+1. **Heat Pump Optimization** → **Ventilation Maintenance** → **Roof Insulation Top-Up** → **PV Expansion** → **Smart Home Upgrades**.
+
+This plan ensures **cost-effectiveness** while maximizing **energy efficiency** for your already well-insulated and modern home.

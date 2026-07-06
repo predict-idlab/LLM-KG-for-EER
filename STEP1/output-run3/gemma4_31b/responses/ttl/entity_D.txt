@@ -1,0 +1,45 @@
+### Energy Efficiency Renovation Analysis
+
+**Building Status Overview:**
+The property is a modern semi-detached building (constructed in 2017) that is already performing at a high level of energy efficiency. With an **EPC score of 87.0**, it falls within the **A Label** category. It is already equipped with high-efficiency systems, including a **Heat Pump** for generation and a **Ventilation System D** (the most efficient mechanical ventilation type). Most of the building envelope (walls, floor above basement, and flat roof) is already "Well Insulated."
+
+Given the owner's motivation to further improve the EPC, the focus shifts from "major overhaul" to "marginal gains."
+
+---
+
+### Proposed Renovation Path
+
+Since the building is already highly efficient, the goal is to target the remaining thermal bridges and the only moderately insulated element to push the EPC score toward the A+ range.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+**Action: Insulate Gable Roof**
+*   **Reasoning:** The `RoofMain` is the only structural element currently rated as **Moderately Insulated**. In a building where walls and floors are already well-insulated, the roof becomes the primary source of heat loss (heat rises).
+*   **Ontology Reference:** `reno:InsulateGableRoof`
+*   **Cost-Effectiveness:** Moderate. With a unit price of 60/m², this is the most cost-effective way to achieve a measurable drop in energy consumption.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### Step 2: Glazing Upgrade (Secondary Priority)
+**Action: Replace Double Glazing with Triple Glazing**
+*   **Reasoning:** The building currently uses `DoubleGlazing`. While efficient, upgrading to `TripleGlazing` further reduces U-values and improves thermal comfort. Since the `WoodenWindowFrame` is in "Good State" (value 8), it may be possible to replace only the glazing rather than the entire window unit.
+*   **Ontology Reference:** `reno:ReplaceGlazing`
+*   **Cost-Effectiveness:** Lower than roof insulation, but provides a tangible boost to the EPC score.
+*   **Point of Attention:** Verify that the existing wooden frames can support the additional weight of triple-pane glass.
+
+---
+
+### Excluded Upgrades & Justification
+
+To remain cost-effective, the following were analyzed and rejected based on the provided data:
+*   **Geothermal Heating:** Rejected. The site data explicitly states `potentialForHorizontalGeothermalCaptation false` and `potentialForVerticalGeothermalDrilling false`.
+*   **Additional PV Panels:** Rejected. The building already has PV panels, and the data indicates `hasPotentialForPV false`.
+*   **Wall/Floor Insulation:** Rejected. `Wall_Front`, `Wall_Left`, `Wall_Rear`, and `FloorAboveBasement` are already `WellInsulated`.
+*   **HVAC Replacement:** Rejected. The current Heat Pump and Ventilation System D are already industry-standard for high-efficiency homes.
+
+### Summary Table: Optimized Sequence
+
+| Sequence | Intervention | Target Element | Impact | Cost Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | High | Low/Medium |
+| **2** | **Upgrade to Triple Glazing** | `Windows` | Medium | Medium |
+
+**Final Result:** By addressing the gable roof and the glazing, the building will eliminate its final significant thermal weaknesses, maximizing the EPC potential while avoiding unnecessary expenditures on already optimized systems.

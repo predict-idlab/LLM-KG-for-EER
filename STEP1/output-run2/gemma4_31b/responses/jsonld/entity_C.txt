@@ -1,0 +1,42 @@
+Based on the provided RENO ontology and the building data, here is the proposed renovation path. 
+
+### **Building Analysis Summary**
+The building is a modern **Attached Building (constructed in 2023)** with an already excellent energy profile (**EPC Score: 50**, which falls under the **A Label**). Most elements, including the walls and the floor above the basement, are already "Well Insulated." 
+
+However, to satisfy the owner's motivation to further **Improve the EPC**, we must target the remaining "Moderately Insulated" components and the inefficient heating emission system.
+
+---
+
+### **Proposed Renovation Path**
+
+To maximize energy efficiency while remaining cost-effective, I recommend a **"Fabric First"** approach: optimizing the building envelope before upgrading the mechanical systems.
+
+#### **Step 1: Roof Insulation (High Impact, Low Nuisance)**
+*   **Action:** **Insulate Gable Roof** (`https://w3id.org/reno#InsulateGableRoof`).
+*   **Reasoning:** The main roof is currently the only major structural element rated as **"Moderately Insulated."** Improving this to "Well Insulated" will reduce thermal loss through the top of the house.
+*   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+*   **Cost-Effectiveness:** This is a low-nuisance intervention with a relatively low unit price (€60/m²), providing a high return on investment for the EPC score.
+
+#### **Step 2: Heating System Upgrade (Operational Efficiency)**
+*   **Action:** **Install an Air-Water Heat Pump** (`https://w3id.org/reno#PlaceAirWaterHeatpump`).
+*   **Reasoning:** The building currently uses **Electric Convectors**, which are highly inefficient and expensive to operate. The data explicitly indicates a **"reason to change the emission system."** 
+*   **Synergy:** Since the building already possesses **Floor Heating**, it is perfectly primed for a low-temperature heat pump system, maximizing the COP (Coefficient of Performance).
+*   **Constraints:** Geothermal options are ruled out (site potential is `false`), and no heat grid is available. The Air-Water Heat Pump is the most cost-effective sustainable alternative.
+
+#### **Step 3: Window Optimization (Incremental Gain)**
+*   **Action:** **Replace Glazing with Triple Glazing** (`https://w3id.org/reno#ReplaceGlazing` $\rightarrow$ `https://w3id.org/reno#TripleGlazing`).
+*   **Reasoning:** The current windows are double-glazed and in good state. However, to move from an **A Label** toward an **A+ Label**, reducing the U-value of the glazing is the final frontier.
+*   **Cost-Effectiveness:** This is the most expensive step per m². It should be performed last, as the thermal gains are smaller than the roof and heat pump upgrades.
+
+---
+
+### **Optimal Sequence & Summary Table**
+
+| Sequence | Intervention | Priority | Rationale | Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Fixes the only "Moderately Insulated" shell element. | Low |
+| **2** | **Air-Water Heat Pump** | High | Replaces inefficient electric convectors; leverages existing floor heating. | Moderate |
+| **3** | **Triple Glazing** | Medium | Final polish for maximum energy score (A+). | High |
+
+### **Final Expert Recommendation**
+Because the building is nearly new (2023), avoid any "heavy" structural renovations. Focus exclusively on the **Gable Roof** and the **Heat Pump**. These two steps provide the most significant jump in operational performance and long-term cost reduction without the diminishing returns associated with replacing already-functional double-glazed windows.

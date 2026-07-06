@@ -1,0 +1,60 @@
+### Energy-Efficient Renovation Plan
+
+**1. Insulate Exterior Walls**
+   - **Action:** Insulate exterior walls.
+   - **Type of Insulation:** Exterior wall insulation.
+   - **Reasoning:** The building has cavity walls that are currently not insulated. Insulating the exterior walls will significantly improve the building's energy efficiency.
+   - **Cost:** €200 per m².
+   - **Priority:** High.
+   - **Note:** This action will have a high impact on the EPC score and reduce energy consumption.
+
+**2. Replace Single Glazing with Double Glazing**
+   - **Action:** Replace single glazing with double glazing.
+   - **Type of Glazing:** Double glazing.
+   - **Reasoning:** The windows in the living area and bedrooms currently have single glazing, which is inefficient. Replacing them with double glazing will improve thermal comfort and reduce heat loss.
+   - **Cost:** €800 per m².
+   - **Priority:** High.
+   - **Note:** This action will also improve the overall aesthetic and comfort of the living spaces.
+
+**3. Insulate Roof**
+   - **Action:** Insulate the gable roof.
+   - **Type of Insulation:** Roof insulation.
+   - **Reasoning:** The roof is currently well insulated, but there might be areas that could benefit from additional insulation to further improve energy efficiency.
+   - **Cost:** €60 per m².
+   - **Priority:** Medium.
+   - **Note:** Ensure proper ventilation to prevent condensation issues.
+
+**4. Upgrade Heating System**
+   - **Action:** Replace the current emission system with a more efficient one.
+   - **Type of System:** Air-water heat pump.
+   - **Reasoning:** The current emission system is inefficient and outdated. Upgrading to a heat pump will reduce energy consumption and lower heating costs.
+   - **Cost:** €8,000 (fixed) + €35 per m².
+   - **Priority:** High.
+   - **Note:** This action is crucial for achieving a significant improvement in the EPC score.
+
+**5. Install Solar Panels**
+   - **Action:** Place PV panels on the roof.
+   - **Type of Installation:** Roof-mounted solar panels.
+   - **Reasoning:** The site has potential for PV installation, and solar panels will generate renewable energy, further reducing the building's carbon footprint and energy costs.
+   - **Cost:** €275 per m².
+   - **Priority:** Medium.
+   - **Note:** Ensure the panels are properly oriented and not shaded by nearby structures.
+
+**6. Install Sunshade**
+   - **Action:** Place a sunshade.
+   - **Type of Sunshade:** Outdoor blinds.
+   - **Reasoning:** Outdoor blinds are more efficient than indoor blinds in reducing solar heat gain and improving thermal comfort.
+   - **Cost:** €750 (fixed).
+   - **Priority:** Low.
+   - **Note:** This action complements the overall energy efficiency improvements.
+
+**7. Insulate Floor Above Crawl Space**
+   - **Action:** Insulate the floor above the crawl space.
+   - **Type of Insulation:** Floor insulation.
+   - **Reasoning:** Insulating the floor will prevent heat loss through the floor and improve overall energy efficiency.
+   - **Cost:** €30 per m².
+   - **Priority:** Medium.
+   - **Note:** This action is particularly important for maintaining comfortable temperatures in the living spaces above.
+
+### Summary
+This renovation plan focuses on improving the building's energy efficiency through a combination of insulation, window upgrades, heating system upgrades, and renewable energy installation. The actions are prioritized based on their impact on energy efficiency and cost-effectiveness. The plan is designed to achieve a significant improvement in the EPC score and reduce energy consumption, leading to lower energy costs and a more comfortable living environment.

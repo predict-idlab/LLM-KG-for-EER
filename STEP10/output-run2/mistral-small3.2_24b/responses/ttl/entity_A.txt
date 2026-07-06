@@ -1,0 +1,71 @@
+### Analysis of the Building
+
+The provided building is a semi-detached house constructed in 1951 with the following key characteristics:
+- **EPC Score:** 388 (D Label)
+- **Insulation:**
+  - **RoofExtension (Flat Roof):** Moderately Insulated
+  - **RoofMain (Gable Roof):** Not Insulated
+  - **Walls (Front, Rear, Right):** Not Insulated
+  - **FloorAboveBasement:** Not Insulated
+- **Windows:** Double-glazed with wooden frames in good condition (State Value: 8)
+- **Ventilation System:** Type A (Natural)
+- **Heating System:** Radiators with a boiler (Generation System)
+- **Potential for PV:** True
+- **Heat Grid Availability:** False
+- **Geothermal Potential:** False (both horizontal and vertical)
+
+### Renovation Plan
+
+#### Phase 1: Thermal Envelope Optimization (Fabric First Approach)
+The primary goal is to reduce heat loss by improving the building's thermal envelope.
+
+1. **Insulate Gable Roof**
+   - **Rationale:** The gable roof is currently not insulated, leading to significant heat loss. Insulating it will improve thermal retention.
+   - **Action:** `insulate gable roof`
+
+2. **Insulate Walls on Interior**
+   - **Rationale:** All three external walls (Front, Rear, and Right) are full brick and not insulated. Insulating the walls on the interior is cost-effective and provides substantial thermal improvement.
+   - **Action:** `insulate wall on interior`
+
+3. **Insulate Floor Above Basement**
+   - **Rationale:** The floor above the basement is currently not insulated. Adding insulation here will prevent heat loss to the basement and improve overall comfort.
+   - **Action:** `insulate floor above basement`
+
+#### Phase 2: Heating System Upgrade
+With a sealed envelope, the building's heat demand is significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+4. **Place Air-Water Heat Pump**
+   - **Rationale:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+   - **Action:** `place air-water heatpump`
+
+5. **Place Emission System on Low Temperature**
+   - **Rationale:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+   - **Action:** `place emission system on low temperature`
+
+#### Phase 3: Ventilation System Upgrade
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System**
+   - **Rationale:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+   - **Action:** `replace ventilation system`
+
+#### Phase 4: Sustainable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof**
+   - **Rationale:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+   - **Action:** `place PV-panels on roof`
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| **2** | **Insulate Walls on Interior** | Eliminates thermal bridges and improves thermal retention. |
+| **3** | **Insulate Floor Above Basement** | Prevents heat loss to the basement. |
+| **4** | **Place Air-Water Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **5** | **Place Emission System on Low Temperature** | Maximizes the efficiency of the new heat pump. |
+| **6** | **Replace Ventilation System** | Maintains indoor air quality in a now-sealed envelope. |
+| **7** | **Place PV-Panels on Roof** | Provides renewable electricity for the heat pump and ventilation system. |
+
+This renovation plan follows a logical sequence to maximize energy efficiency while remaining cost-effective, tailored to the specific characteristics of the building.

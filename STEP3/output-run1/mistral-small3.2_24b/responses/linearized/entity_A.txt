@@ -1,0 +1,78 @@
+### Renovation Plan for Semi-Detached Building (1951)
+
+**Objective:** Improve energy efficiency while maintaining cost-effectiveness and practicality.
+
+#### **Step 1: Insulate Key Building Elements**
+1. **Insulate Gable Roof (RoofMain)**
+   - **Action:** Insulate the gable roof to reduce heat loss.
+   - **Justification:** The gable roof is currently not insulated (NotInsulated), and insulation will significantly improve thermal comfort and reduce energy consumption.
+   - **Point of Attention:** Install a vapour barrier on the warm side of the insulation to prevent condensation issues.
+
+2. **Insulate Attic Floor (FloorAboveBasement)**
+   - **Action:** Insulate the attic floor to prevent heat loss through the top of the building.
+   - **Justification:** The attic floor is currently not insulated (NotInsulated), and insulation will improve overall energy efficiency.
+   - **Point of Attention:** A vapour barrier may be necessary depending on the specific conditions.
+
+3. **Insulate Walls (Wall_Front, Wall_Right, Wall_Rear)**
+   - **Action:** Insulate the front, right, and rear walls on the interior.
+   - **Justification:** All walls are currently not insulated (NotInsulated), and interior insulation will improve thermal comfort without altering the exterior appearance.
+   - **Point of Attention:** Relocate sockets, pipes, and radiators against the outer walls as needed. Consult an architect or contractor for proper execution.
+
+#### **Step 2: Upgrade Windows and Roof**
+4. **Replace Glazing (WindowsLivingArea, WindowsBedrooms)**
+   - **Action:** Replace the double glazing with triple glazing to improve thermal performance.
+   - **Justification:** Triple glazing offers better insulation than double glazing, reducing heat loss through windows.
+   - **Point of Attention:** Ensure window frames are in good condition and straight enough to fit new glass.
+
+5. **Place Roof Underlayment (RoofMain, RoofExtension)**
+   - **Action:** Install a roof underlayment to improve weatherproofing and insulation.
+   - **Justification:** A roof underlayment provides an additional layer of protection and insulation, enhancing the overall energy efficiency of the roof.
+   - **Point of Attention:** Ensure complete air- and watertightness during installation.
+
+#### **Step 3: Improve Heating System**
+6. **Replace Emission System (EmissionSystem)**
+   - **Action:** Replace the current emission system (FloorHeating, Radiator, AirHeating) with a low-temperature emission system.
+   - **Justification:** A low-temperature emission system is more energy-efficient and can be integrated with renewable energy sources.
+   - **Point of Attention:** Ensure compatibility with the existing heating system and consult a professional for proper installation.
+
+7. **Place Air-Water Heat Pump (Generation_System)**
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Justification:** Air-water heat pumps are more energy-efficient than traditional boilers, reducing energy consumption and costs.
+   - **Point of Attention:** Ensure proper installation and integration with the existing heating system.
+
+#### **Step 4: Enhance Ventilation**
+8. **Replace Ventilation System (VentilationSystem)**
+   - **Action:** Upgrade the ventilation system from type A to type C for better air quality and energy efficiency.
+   - **Justification:** Type C ventilation systems are more efficient and provide better indoor air quality.
+   - **Point of Attention:** Ensure proper installation of grilles in window frames for adequate fresh air flow.
+
+#### **Step 5: Additional Recommendations**
+9. **Place PV Panels on Roof (RoofMain)**
+   - **Action:** Install photovoltaic (PV) panels on the gable roof to generate renewable energy.
+   - **Justification:** The building has potential for PV (hasPotentialForPV, true), and PV panels can significantly reduce energy costs and carbon footprint.
+   - **Point of Attention:** Check roof orientation and shading to ensure optimal solar exposure.
+
+10. **Place Sun Shade (LivingArea, Bedrooms)**
+    - **Action:** Install sun shades to reduce solar heat gain and improve thermal comfort.
+    - **Justification:** Sun shades can help regulate indoor temperature, reducing the need for cooling in summer.
+    - **Point of Attention:** Outdoor blinds are generally more efficient than indoor blinds.
+
+### **Prioritization and Sequence**
+1. **Immediate Actions:**
+   - Insulate gable roof and attic floor.
+   - Replace glazing with triple glazing.
+   - Place roof underlayment.
+
+2. **Medium-Term Actions:**
+   - Replace emission system and place air-water heat pump.
+   - Upgrade ventilation system.
+
+3. **Long-Term Actions:**
+   - Install PV panels on the roof.
+   - Place sun shades.
+
+### **Cost Considerations**
+- Focus on high-impact, cost-effective upgrades first (e.g., insulation, glazing replacement).
+- Prioritize actions that qualify for subsidies or tax incentives (e.g., renewable energy installations).
+
+This plan ensures a systematic approach to improving energy efficiency while maintaining cost-effectiveness and practicality.

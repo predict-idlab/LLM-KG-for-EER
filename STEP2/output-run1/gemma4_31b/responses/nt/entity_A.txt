@@ -1,0 +1,41 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. 
+
+### **Building Analysis Summary**
+*   **Current State:** A semi-detached building from 1951 with an EPC score of **388 kWh/m²year (Label D)**. 
+*   **Key Weaknesses:** The thermal envelope is poor; the gable roof, all exterior walls (full brick), and the floor above the basement are **not insulated**.
+*   **System Status:** The building uses an outdated boiler (marked for replacement) and a basic Type A ventilation system. It has no access to a heat grid and no potential for geothermal energy.
+*   **Strengths:** Windows are already double-glazed with frames in good condition; the flat roof extension is moderately insulated; there is high potential for PV panels.
+
+---
+
+### **Proposed Renovation Path**
+To maximize energy efficiency and cost-effectiveness, the plan follows the **"Fabric First"** principle: reduce energy demand through insulation before upgrading the generation systems.
+
+#### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+*These steps provide the highest return on investment by drastically lowering the energy required to heat the home.*
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the highest priority as heat rises and escapes rapidly through uninsulated roofs.
+2.  **Insulate Walls on Exterior:** The full brick walls are not insulated. Exterior insulation is more effective than interior insulation and is feasible here as there is no historical protection on the facades.
+3.  **Insulate Floor Above Basement:** Addressing the uninsulated floor will eliminate cold drafts and improve thermal comfort in the living areas.
+
+#### **Phase 2: Air Quality & Ventilation**
+*Once the building is "sealed" with insulation, mechanical ventilation is necessary to prevent humidity buildup and ensure health.*
+4.  **Replace Ventilation System:** Upgrade from System A to a more efficient system (e.g., System D with heat recovery) to ensure fresh air without losing the heat gained from the new insulation.
+
+#### **Phase 3: Heating System Modernization (Efficient Generation)**
+*With a reduced energy load, we can now install a smaller, more efficient heating system.*
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, existing radiators should be updated to low-temperature emitters to maximize the Coefficient of Performance (COP) of the new generator.
+6.  **Place Air-Water Heat Pump:** Since geothermal and heat grids are unavailable, an air-water heat pump is the most cost-effective and sustainable replacement for the current boiler.
+
+#### **Phase 4: Renewable Energy Integration (Offsetting Consumption)**
+*The final step is to transition from reducing consumption to generating clean energy.*
+7.  **Place PV-Panels on Roof:** Utilize the building's high PV potential to offset the electricity costs of the new heat pump and ventilation system.
+
+---
+
+### **Summary of Operational Benefits**
+| Step | Action | Primary Benefit |
+| :--- | :--- | :--- |
+| **1-3** | **Insulation** | Drastic reduction in kWh/m²year; moves EPC from D toward B/A. |
+| **4** | **Ventilation** | Prevents mold/condensation caused by the tighter envelope. |
+| **5-6** | **Heat Pump** | Eliminates fossil fuel reliance; reduces operational energy costs. |
+| **7** | **PV Panels** | Lowers monthly electricity bills and increases market value. |

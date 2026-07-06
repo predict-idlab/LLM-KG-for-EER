@@ -1,0 +1,82 @@
+### Renovation Plan for Semi-Detached Building
+
+**Objective**: Improve the energy performance of the building from an EPC score of 388 to an A+ label (energy score of less than 100 kWh/m²year).
+
+**Prioritized Recommendations**:
+
+1. **Insulate the Gable Roof**:
+   - **Action**: Apply insulation to the gable roof with a vapour barrier on the warm side of the insulation.
+   - **Reasoning**: The gable roof is currently not insulated, and insulating it will significantly reduce heat loss.
+   - **Ordering**: 28 (based on the RENO ontology).
+
+2. **Insulate the Flat Roof**:
+   - **Action**: Install an inverted roof structure with insulation on top of the roof covering.
+   - **Reasoning**: The flat roof is only moderately insulated and replacing the insulation with an inverted roof structure will improve thermal performance.
+   - **Ordering**: 25 (based on the RENO ontology).
+
+3. **Insulate the Exterior Walls**:
+   - **Action**: Install exterior wall insulation on the front, rear, and right walls.
+   - **Reasoning**: All three walls are currently not insulated, and insulating them will reduce heat loss through the building envelope.
+   - **Ordering**: 40 (based on the RENO ontology).
+
+4. **Replace the Ventilation System**:
+   - **Action**: Install a ventilation system C (natural supply and mechanical exhaust) or D (mechanical supply and exhaust) depending on the desired comfort level and budget.
+   - **Reasoning**: The current ventilation system A (natural supply and exhaust) is less efficient and may not meet modern ventilation standards.
+   - **Ordering**: 52 (based on the RENO ontology).
+
+5. **Place a Heat Pump Boiler**:
+   - **Action**: Replace the current generation system with a heat pump boiler.
+   - **Reasoning**: The current generation system is likely outdated and inefficient. A heat pump boiler will provide more efficient heating.
+   - **Ordering**: 76 (based on the RENO ontology).
+
+6. **Insulate the Attic Floor**:
+   - **Action**: Apply insulation to the attic floor with a vapour barrier on the warm side of the insulation.
+   - **Reasoning**: The attic floor is currently not insulated, and insulating it will reduce heat loss to the attic space.
+   - **Ordering**: 31 (based on the RENO ontology).
+
+7. **Insulate the Floor Above Basement**:
+   - **Action**: Apply insulation to the floor above the basement.
+   - **Reasoning**: The floor above the basement is currently not insulated, and insulating it will reduce heat loss to the basement.
+   - **Ordering**: 49 (based on the RENO ontology).
+
+8. **Replace the Windows**:
+   - **Action**: Replace all windows with double glazing or triple glazing.
+   - **Reasoning**: The current windows have double glazing, which is less efficient than triple glazing. Replacing them will improve thermal performance.
+   - **Ordering**: 46 (based on the RENO ontology).
+
+**Additional Recommendations**:
+
+- **Place PV Panels on the Roof**:
+  - **Action**: Install photovoltaic (PV) panels on the roof.
+  - **Reasoning**: The building has potential for PV installation, and this will generate renewable energy to offset the building's energy consumption.
+  - **Ordering**: 85 (based on the RENO ontology).
+
+- **Place a Heat Pump**:
+  - **Action**: Install an air-water heat pump for heating and cooling.
+  - **Reasoning**: A heat pump will provide more efficient heating and cooling compared to the current emission system.
+  - **Ordering**: 67 (based on the RENO ontology).
+
+**Implementation Sequence**:
+
+1. Insulate the gable roof.
+2. Insulate the flat roof.
+3. Insulate the exterior walls.
+4. Insulate the attic floor.
+5. Insulate the floor above the basement.
+6. Replace the ventilation system.
+7. Replace the windows.
+8. Place a heat pump boiler.
+9. Place PV panels on the roof.
+10. Place a heat pump.
+
+**Expected Outcomes**:
+
+- Improved thermal comfort and reduced heat loss through the building envelope.
+- Lower energy consumption and reduced heating costs.
+- Improved indoor air quality with a more efficient ventilation system.
+- Generation of renewable energy with PV panels.
+- Achievement of an A+ EPC label, indicating excellent energy performance.
+
+**Note**: The ordering of the recommendations is based on the RENO ontology's ordering property, which indicates the suggested sequence for implementing the renovations. The plan is tailored to the specific building and its current state as described in the provided RDF data.
+
+This plan is a starting point and may need to be adjusted based on further assessments, such as a detailed energy audit, and the building owner's preferences and budget.

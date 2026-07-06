@@ -1,0 +1,45 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path.
+
+### Building Analysis
+The building is a very modern attached house (constructed in 2023) with an already excellent energy profile (**EPC score of 50**, which corresponds to an **A label**). Most elements (walls, flat roof, floor above basement) are already "Well Insulated." However, the owner is motivated to further improve the EPC.
+
+**Key Weaknesses Identified:**
+1.  **Roof Insulation:** The main gable roof is only "Moderately Insulated," unlike the rest of the building envelope.
+2.  **Heating Efficiency:** The building uses "Electric Convectors," which are generally inefficient, and the data explicitly indicates a "reason to change the emission system."
+3.  **Glazing:** The windows currently have double glazing; upgrading to triple glazing would further reduce thermal loss.
+4.  **Constraints:** There is no potential for geothermal energy (horizontal or vertical) and no access to a heat grid.
+
+---
+
+### Proposed Renovation Path
+To maximize energy efficiency while remaining cost-effective, I recommend a **"Fabric First"** approach: improving the building envelope before upgrading the technical installations.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** This is the only major building element not yet "Well Insulated." Since heat rises, this provides the highest return on investment for energy reduction.
+*   **Cost-Effectiveness:** High. It targets a specific weakness in an otherwise tight envelope.
+
+#### Step 2: Glazing Upgrade (Medium Priority)
+*   **Action:** `replace glazing` (Upgrade to Triple Glazing)
+*   **Reasoning:** The wooden window frames are in "Good State," meaning it is more cost-effective to replace only the glass panes rather than the entire window unit (`replace windows`). Triple glazing will further lower the energy score.
+*   **Cost-Effectiveness:** Moderate. It is a refinement step since double glazing is already present.
+
+#### Step 3: HVAC System Overhaul (Long-term Performance)
+*   **Action A:** `place emission system on low temperature`
+*   **Action B:** `place air-water heatpump`
+*   **Reasoning:** The current use of electric convectors is a significant energy drain. Since geothermal and heat grids are unavailable, an **Air-Water Heat Pump** is the most efficient alternative. To maximize the COP (Coefficient of Performance) of the heat pump, the emission system must be transitioned to low-temperature operation.
+*   **Sequence:** These should be coordinated. Transitioning to low-temperature emitters first (or simultaneously) ensures the heat pump operates at peak efficiency.
+
+---
+
+### Summary Table & Sequence
+
+| Sequence | Renovation Action | Target Element | Impact | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | Main Roof | High $\uparrow$ | Low / Low |
+| **2** | `replace glazing` | Windows | Medium $\uparrow$ | Moderate / High |
+| **3** | `place emission system on low temp` | Heating System | High $\uparrow$ | Moderate / Moderate |
+| **4** | `place air-water heatpump` | Generation System | Very High $\uparrow$ | High / Moderate |
+
+### Final Expert Note:
+Since the building is already an **A-label** property, the marginal gains from these renovations will be smaller than in an older home. However, replacing the electric convectors with a heat pump system is the single most impactful move to lower the operational energy consumption and push the EPC score toward an **A+ label**.

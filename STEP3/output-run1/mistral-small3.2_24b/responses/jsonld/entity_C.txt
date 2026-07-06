@@ -1,0 +1,71 @@
+To create a renovation plan tailored to the provided entity, we'll follow these steps:
+
+1. **Analyze the current state of the building and its elements.**
+2. **Identify the building's issues and goals.**
+3. **Match the identified issues and goals to the available renovation suggestions.**
+4. **Prioritize the suggestions based on their impact and the building's specific needs.**
+
+### Step 1: Analyze the Current State
+The building is an attached structure with a net floor area of 159 m². It has the following notable elements:
+- **Windows**: Wooden frames with double glazing in the living area and bedrooms.
+- **Roofs**: Main gable roof (moderately insulated) and a flat roof extension (well insulated).
+- **Walls**: Front and rear full brick walls (well insulated).
+- **Floors**: Floor above basement (well insulated).
+- **Emission System**: Electric convector and floor heating.
+- **Generation System**: A boiler.
+- **Ventilation System**: Type D.
+- **Solar Device**: PV panels are present.
+
+### Step 2: Identify Issues and Goals
+**Issues:**
+- The main gable roof is only moderately insulated, which could lead to heat loss.
+- The building has a heat issue in the living area and bedrooms, indicating potential thermal inefficiencies.
+
+**Goals:**
+- Improve the energy performance certificate (EPC) score.
+- Reduce energy consumption due to environmental considerations.
+
+### Step 3: Match Suggestions to Issues and Goals
+Given the issues and goals, the following renovation suggestions are most relevant:
+1. **Insulate Gable Roof**: Since the main gable roof is only moderately insulated, improving its insulation could significantly reduce heat loss.
+2. **Replace Ventilation System**: Upgrading the ventilation system could improve overall energy efficiency.
+3. **Place Air-Water Heat Pump**: This could enhance heating efficiency and reduce energy consumption.
+4. **Place PV Panels on Roof**: Given the presence of PV panels, expanding their capacity could further improve the building's sustainability.
+
+### Step 4: Prioritize the Suggestions
+Based on the ordering provided in the suggestion list and the specific needs of the building:
+1. **Insulate Gable Roof** (Ordering: 28)
+2. **Replace Ventilation System** (Ordering: 52)
+3. **Place Air-Water Heat Pump** (Ordering: 67)
+4. **Place PV Panels on Roof** (Ordering: 85)
+
+### Final Renovation Plan
+**1. Insulate Gable Roof**
+   - **Action**: Insulate the main gable roof to improve thermal efficiency.
+   - **Impact**: Reduce heat loss and improve overall energy performance.
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Multi-Phase Required**: No
+
+**2. Replace Ventilation System**
+   - **Action**: Upgrade the ventilation system to a more efficient model.
+   - **Impact**: Improve indoor air quality and energy efficiency.
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary if above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Multi-Phase Required**: Maybe, depending on the system
+
+**3. Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump for more efficient heating.
+   - **Impact**: Reduce energy consumption and improve heating performance.
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary if above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Multi-Phase Required**: Maybe, depending on the system
+
+**4. Place PV Panels on Roof**
+   - **Action**: Expand the PV panel capacity on the roof.
+   - **Impact**: Increase renewable energy generation and further improve sustainability.
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+   - **Multi-Phase Required**: Maybe, depending on the system
+
+This plan addresses the building's thermal inefficiencies and aims to improve its energy performance and sustainability. The suggestions are prioritized based on their impact and the specific needs of the building.

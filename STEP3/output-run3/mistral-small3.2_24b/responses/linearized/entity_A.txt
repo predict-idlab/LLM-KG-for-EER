@@ -1,0 +1,42 @@
+To create an energy-efficient and cost-effective renovation plan, we'll follow a structured approach based on the RENO ontology and the provided building information. Here's the step-by-step plan:
+
+### 1. **Initial Assessment**
+- **Current State**: The building has poor insulation (NotInsulated for most elements), outdated heating systems, and potential for photovoltaic (PV) panels.
+- **Motivation**: The owner wants to improve the Energy Performance Certificate (EPC) label.
+
+### 2. **Priority Interventions**
+Given the poor insulation, the highest priority is to improve thermal performance:
+- **Insulate the Attic Floor**: This is a cost-effective measure with low nuisance (ordering 31).
+- **Insulate the Gable Roof**: This is crucial for reducing heat loss through the roof (ordering 28).
+- **Insulate the Wall Cavity**: This addresses the poorly insulated walls (ordering 34).
+
+### 3. **Heating and Ventilation Upgrades**
+- **Replace the Ventilation System**: Upgrade to a more efficient system (ordering 52).
+- **Place an Air-Water Heat Pump**: This is a modern, energy-efficient heating solution (ordering 67).
+
+### 4. **Roof and Glazing Improvements**
+- **Replace the Flat Roof**: This includes removing asbestos if present (ordering 10).
+- **Insulate the Flat Roof**: Improves thermal performance (ordering 25).
+- **Replace Glazing**: Upgrade to double glazing for better insulation (ordering 43).
+
+### 5. **Renewable Energy Integration**
+- **Place PV Panels on the Roof**: Utilize the potential for PV panels to generate renewable energy (ordering 85).
+
+### 6. **Additional Considerations**
+- **Place Roof Underlayment**: Ensures a watertight and airtight roof structure (ordering 16).
+- **Place Sunshade**: Reduces solar heat gain in summer, improving comfort and energy efficiency (ordering 79).
+
+### **Final Renovation Plan**
+1. **Insulate the Attic Floor** (Ordering 31)
+2. **Insulate the Gable Roof** (Ordering 28)
+3. **Insulate the Wall Cavity** (Ordering 34)
+4. **Replace the Ventilation System** (Ordering 52)
+5. **Place an Air-Water Heat Pump** (Ordering 67)
+6. **Replace the Flat Roof** (Ordering 10)
+7. **Insulate the Flat Roof** (Ordering 25)
+8. **Replace Glazing** (Ordering 43)
+9. **Place PV Panels on the Roof** (Ordering 85)
+10. **Place Roof Underlayment** (Ordering 16)
+11. **Place Sunshade** (Ordering 79)
+
+This plan prioritizes interventions that maximize energy efficiency and cost savings, aligning with the owner's motivation to improve the EPC label. The sequence ensures that each step builds on the previous improvements, creating a cohesive and effective renovation strategy.

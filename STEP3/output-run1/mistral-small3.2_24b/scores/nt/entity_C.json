@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["replace the gable roof", "upgrade the ventilation system", "replace the emission system", "upgrade the glazing", "add or upgrade pv panels", "replace the boiler"]}, "sequence": {"order_errors": []}}

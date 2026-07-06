@@ -1,0 +1,40 @@
+### Building Analysis Summary
+The building is a modern semi-detached house (constructed in 2017) with an already high level of energy efficiency. With an **EPC score of 87.0**, it currently falls within the **A Label** category. Most critical elements—including the walls, floor above the basement, and the flat roof extension—are already "Well Insulated." The building is also equipped with high-efficiency systems, including a heat pump and a Type D ventilation system.
+
+Given that the owner's motivation is to further improve the EPC, the focus must shift from "major overhaul" to "marginal gains," as the building is already near peak performance.
+
+---
+
+### Proposed Renovation Path
+
+Since the majority of the building envelope is already optimized, the renovation strategy focuses on the only remaining moderately insulated element and low-cost operational improvements.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+*   **Action:** **Insulate Gable Roof** (`reno:InsulateGableRoof`)
+*   **Justification:** The main gable roof is the only structural element currently rated as **"Moderately Insulated."** Upgrading this to "Well Insulated" will reduce thermal bridging and heat loss through the top of the building.
+*   **Cost-Effectiveness:** This is a high-impact, relatively low-cost upgrade compared to window or wall replacements.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+*   **Ordering:** This is the primary structural priority (Ontology Ordering: 28).
+
+#### Step 2: Solar Heat Gain Management (Low Priority/Comfort)
+*   **Action:** **Install Sun Shades** (`reno:PlaceSunShade`)
+*   **Justification:** While the building is efficient in winter, modern well-insulated homes with double glazing can suffer from overheating in summer. External sunshades reduce the need for active cooling (which would consume electricity from the heat pump).
+*   **Cost-Effectiveness:** Low fixed cost with immediate impact on summer energy consumption.
+*   **Point of Attention:** Prioritize outdoor blinds over indoor blinds for maximum efficiency.
+*   **Ordering:** This is a finishing touch for operational efficiency (Ontology Ordering: 79).
+
+---
+
+### Analysis of Excluded Upgrades (Cost-Benefit Justification)
+
+To remain **cost-effective**, the following common renovations are **not recommended** for this specific building:
+
+*   **Wall/Floor Insulation:** All walls and the floor above the basement are already "Well Insulated." Further investment here would yield negligible energy savings.
+*   **Window Replacement:** The current windows are double-glazed and in "Good State." While triple glazing would technically improve the EPC, the cost of replacing all windows (`reno:ReplaceWindows`) is extremely high relative to the marginal gain, given the building is already in the 'A' category.
+*   **HVAC Upgrades:** The building already possesses a **Heat Pump** and **Ventilation System D** (the most advanced mechanical system). Replacing these would provide no meaningful efficiency increase.
+*   **Geothermal Energy:** The site data explicitly indicates **no potential** for horizontal or vertical geothermal captation.
+*   **PV Panel Expansion:** The building already has PV panels installed, and the building data indicates no further potential for PV expansion.
+
+### Final Sequence Summary
+1.  **Insulate Gable Roof** $\rightarrow$ (Eliminates the last significant thermal weakness).
+2.  **Place Sun Shades** $\rightarrow$ (Optimizes summer energy performance).

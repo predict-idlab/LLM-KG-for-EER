@@ -1,0 +1,26 @@
+Based on the provided building data, the property is a detached building from 1862 with an EPC score of 165 (C Label). The owner's primary motivation is to improve the EPC rating.
+
+The renovation plan should focus on maximizing energy efficiency while remaining cost-effective. The sequence of renovations should follow the "Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate" principle. Upgrading the heating system before the building envelope is sealed would lead to oversized equipment and wasted energy.
+
+### Proposed Renovation Path:
+
+1. **Insulate Walls on Exterior (Priority: High)**
+   - Both the `Wall_Front`, `Wall_Rear`, `Wall_Left`, and `Wall_Right` are cavity walls and not insulated. Since they are cavity walls, the most cost-effective method is to **insulate the wall cavity**. This eliminates thermal bridges and reduces heat loss significantly.
+
+2. **Insulate Floor Above Crawl Space (Priority: High)**
+   - The `FloorAboveCrawlSpace` is currently not insulated. Adding insulation here prevents cold drafts from the crawl space and improves overall thermal performance.
+
+3. **Replace Glazing (Priority: Medium)**
+   - All windows still have single glazing. Replacing the glazing with double glazing would significantly improve the thermal performance of the windows, reducing heat loss.
+
+4. **Replace Ventilation System (Priority: Medium)**
+   - The current ventilation system is type A (natural). Upgrading to a more efficient system (such as System C or D) ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+5. **Place Air-Water Heat Pump (Priority: Long-term)**
+   - Since geothermal potential is "false" and there is no heat grid, an **Air-Water Heat Pump** is the most sustainable and efficient replacement for the existing boiler.
+
+6. **Place PV-Panels on Roof (Priority: Long-term)**
+   - The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence:
+**Wall Cavity Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Glazing Replacement** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **PV Panels**.

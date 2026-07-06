@@ -1,0 +1,75 @@
+### Renovation Plan for the Attached Building
+
+**Building Details:**
+- **Type:** Attached Building
+- **Construction Year:** 1832
+- **EPC Score:** 262 (C Label)
+- **Potential for PV:** Yes
+- **Presence of Heat Grid:** No
+- **Reason to Change Emission System:** Yes
+- **Owner's Motivation:** To improve EPC
+
+**Key Observations:**
+1. **Thermal Envelope:**
+   - `Wall_Front` and `Wall_Rear` are full brick and not insulated.
+   - `FloorAboveBasement` is not insulated.
+   - `RoofExtension` is not insulated.
+   - `RoofMain` is moderately insulated.
+
+2. **Windows:**
+   - All windows have double glazing and are in good condition. No replacement needed at this stage.
+
+3. **Heating System:**
+   - Current system is a radiator-based emission system with a boiler.
+   - There is a reason to change the emission system.
+
+4. **Ventilation:**
+   - Current ventilation system is type A (natural ventilation).
+
+**Proposed Renovation Path:**
+
+### Phase 1: Thermal Envelope Optimization (High Priority)
+1. **Insulate Walls on Exterior:**
+   - **Action:** Insulate `Wall_Front` and `Wall_Rear` on the exterior.
+   - **Rationale:** These walls are full brick and not insulated. Exterior insulation is more effective than interior insulation for thermal performance.
+
+2. **Insulate Floor Above Basement:**
+   - **Action:** Insulate `FloorAboveBasement`.
+   - **Rationale:** Prevents cold air from the basement from entering the living spaces.
+
+3. **Insulate Flat Roof:**
+   - **Action:** Insulate `RoofExtension`.
+   - **Rationale:** The flat roof is currently not insulated, leading to significant heat loss.
+
+### Phase 2: Heating System Transition (Medium Priority)
+4. **Place Air-Water Heat Pump:**
+   - **Action:** Install an Air-Water Heat Pump.
+   - **Rationale:** The building has no potential for geothermal energy and no heat grid. An Air-Water Heat Pump is the most efficient and sustainable alternative to the current boiler.
+
+5. **Place Emission System on Low Temperature:**
+   - **Action:** Transition the current radiators to low-temperature emissions.
+   - **Rationale:** Ensures compatibility with the new heat pump and maximizes its efficiency.
+
+### Phase 3: Ventilation Upgrade (Low Priority)
+6. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System A to Ventilation System D.
+   - **Rationale:** Improves indoor air quality and ensures proper ventilation in a now-sealed envelope.
+
+### Phase 4: Sustainable Energy Generation (Long-term)
+7. **Place PV-Panels on Roof:**
+   - **Action:** Install PV panels on the roof.
+   - **Rationale:** The building has confirmed potential for PV. Solar panels will provide renewable electricity to power the heat pump and other systems.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| 1 | Insulate Walls on Exterior | Reduces heat loss through external walls. |
+| 2 | Insulate Floor Above Basement | Prevents cold air from entering the living spaces. |
+| 3 | Insulate Flat Roof | Prevents heat loss through the roof. |
+| 4 | Place Air-Water Heat Pump | Replaces the old boiler with a more efficient and sustainable system. |
+| 5 | Place Emission System on Low Temperature | Ensures compatibility with the new heat pump. |
+| 6 | Replace Ventilation System | Improves indoor air quality and ensures proper ventilation. |
+| 7 | Place PV-Panels on Roof | Provides renewable electricity to power the heat pump and other systems. |
+
+This plan follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence, ensuring that the building envelope is optimized before installing high-efficiency heating systems. This approach prevents the need for an oversized and more expensive HVAC system and maximizes energy efficiency and cost-effectiveness.

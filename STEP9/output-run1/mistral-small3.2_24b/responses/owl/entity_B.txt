@@ -1,0 +1,70 @@
+### **Renovation Plan for Building (http://example.com/Building)**
+
+**Objective:**
+Improve the EPC-value of the dwelling (as indicated by the owner's motivation).
+
+**Current Status:**
+- **Energy Performance Certificate (EPC):** 262 kWh/m²year (F label)
+- **Potential for PV:** Yes
+- **Potential for Geothermal Drilling:** No
+- **Presence of Heat Grid:** No
+- **Insulation Status:**
+  - Flat Roof (http://example.com/RoofExtension): Not Insulated
+  - Gable Roof (http://example.com/RoofMain): Moderately Insulated
+  - Walls (http://example.com/Wall_Front, http://example.com/Wall_Rear): Not Insulated
+  - Floor Above Basement (http://example.com/FloorAboveBasement): Not Insulated
+- **Ventilation System:** Ventilation System A (natural air supply and exhaust)
+- **Emission System:** Radiator (http://example.com/EmissionSystem)
+
+**Recommended Actions:**
+
+1. **Insulate the Flat Roof (http://example.com/RoofExtension)**
+   - **Suggestion:** Insulate flat roof
+   - **Priority:** High
+   - **Reason:** The flat roof is currently not insulated, which significantly impacts the building's energy efficiency.
+   - **Expected Outcome:** Improved thermal comfort and reduced energy consumption.
+
+2. **Insulate the Walls (http://example.com/Wall_Front, http://example.com/Wall_Rear)**
+   - **Suggestion:** Insulate wall on exterior or insulate wall on interior
+   - **Priority:** High
+   - **Reason:** The walls are not insulated, contributing to heat loss.
+   - **Expected Outcome:** Enhanced thermal performance and lower heating costs.
+
+3. **Insulate the Floor Above Basement (http://example.com/FloorAboveBasement)**
+   - **Suggestion:** Insulate floor above basement
+   - **Priority:** Medium
+   - **Reason:** The floor above the basement is not insulated, leading to potential heat loss.
+   - **Expected Outcome:** Better energy efficiency and comfort.
+
+4. **Replace the Ventilation System (http://example.com/VentilationSystem)**
+   - **Suggestion:** Replace ventilation system
+   - **Priority:** Medium
+   - **Reason:** The current ventilation system (Ventilation System A) may not be the most energy-efficient option.
+   - **Expected Outcome:** Improved air quality and potential energy savings.
+
+5. **Install PV Panels**
+   - **Suggestion:** Place PV-panels on roof or place PV-panels in garden
+   - **Priority:** Medium
+   - **Reason:** The building has potential for PV installation, which can significantly reduce energy costs and improve sustainability.
+   - **Expected Outcome:** Reduced reliance on grid electricity and lower carbon footprint.
+
+6. **Replace the Emission System (http://example.com/EmissionSystem)**
+   - **Suggestion:** Place heatpumpboiler or place air-water heatpump
+   - **Priority:** High
+   - **Reason:** The current emission system (radiator) may not be the most efficient for heating the building.
+   - **Expected Outcome:** More efficient heating and potential cost savings.
+
+**Sequence of Actions:**
+1. Insulate the flat roof.
+2. Insulate the walls.
+3. Insulate the floor above the basement.
+4. Replace the ventilation system.
+5. Install PV panels.
+6. Replace the emission system.
+
+**Additional Considerations:**
+- **Permits and Regulations:** Check local regulations for any necessary permits, especially for structural changes like insulation and PV panel installation.
+- **Professional Assistance:** Consult with architects or contractors for expert advice, especially for wall insulation and emission system replacement.
+- **Budget and Timeline:** Develop a detailed budget and timeline for each action, considering the potential costs and the expected return on investment.
+
+This plan aims to maximize energy efficiency while remaining cost-effective, prioritizing actions that offer the most significant improvements to the building's EPC-value.

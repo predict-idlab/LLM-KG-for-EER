@@ -1,0 +1,46 @@
+### Analysis of Building State
+The building is a relatively modern **Semi-Detached Building** (constructed in 2017) with an excellent current energy profile. With an **EPC score of 87 kWh/m²year**, it already falls within the **A label** category. 
+
+**Current Strengths:**
+*   **Walls & Floors:** The front, rear, and left walls, as well as the floor above the basement, are already **Well Insulated**.
+*   **Ventilation:** It is equipped with a **Ventilation System D** (mechanical supply and exhaust), which is the most efficient standard.
+*   **Heating:** A **Heat Pump** is already installed, and there is no stated need to change the emission system.
+*   **Renewables:** PV panels are already present on the building.
+
+**Identified Weaknesses:**
+*   **Roof Insulation:** While the flat roof extension is well insulated, the **Main Gable Roof** is only **Moderately Insulated**. This is the primary thermal leak in an otherwise high-performance envelope.
+*   **Glazing:** The windows currently utilize **Double Glazing**. While efficient, upgrading to triple glazing is the only remaining path to further reduce heat loss through the facade.
+
+---
+
+### Proposed Renovation Path
+Given that the building is already highly efficient, the goal is to move from "excellent" to "optimal" without over-investing in areas with diminishing returns.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+**Action: Insulate Gable Roof**
+*   **Reasoning:** The main roof is the only major structural element not rated as "Well Insulated." Improving this will provide the most significant reduction in energy consumption.
+*   **Ontology Grounding:** `RoofMain` $\rightarrow$ `ModeratelyInsulated`.
+*   **Practical Note:** Ensure a vapor barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### Step 2: Glazing Upgrade (Medium Priority)
+**Action: Replace Glazing (Upgrade to Triple Glazing)**
+*   **Reasoning:** The window frames are in good state and made of wood, so replacing the entire window is unnecessary. Replacing only the glazing from double to triple will further lower the U-value of the bedrooms and living area.
+*   **Ontology Grounding:** `WindowGlazingLivingArea`/`WindowGlazingBedrooms` $\rightarrow$ `DoubleGlazing`.
+*   **Practical Note:** Verify that the existing wooden frames have the necessary thickness to accommodate triple-pane glass.
+
+#### Step 3: Passive Cooling & Comfort (Low Priority/Cost-Effective)
+**Action: Place Sunshades**
+*   **Reasoning:** To maximize the efficiency of the heat pump and reduce the need for active cooling in summer, external sunshades are a cost-effective addition.
+*   **Practical Note:** Prioritize outdoor blinds over indoor blinds for better thermal performance.
+
+---
+
+### Summary of Sequence & Impact
+
+| Sequence | Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | High $\downarrow$ Energy Loss | High (Closing the gap) |
+| **2** | **Replace Glazing** | Windows | Medium $\downarrow$ Energy Loss | Moderate (Incremental gain) |
+| **3** | **Install Sunshades** | Exterior/Windows | Lowers cooling load | High (Low cost/High impact) |
+
+**Final Assessment:** Since the building is already high-performing, these steps focus on "polishing" the energy efficiency. The priority is the roof insulation, followed by glazing/shading to minimize thermal bridges and solar gain.

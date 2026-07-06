@@ -1,0 +1,99 @@
+### Analysis of the Building and Requirements
+
+1. **Building Characteristics**:
+   - **Type**: Detached building
+   - **Construction Year**: 1862
+   - **Net Floor Area**: 136.0 m²
+   - **Energy Performance Certificate (EPC) Score**: 165 kWh/m²year (indicates poor energy efficiency)
+   - **Potential for PV**: Yes
+   - **Reason to Change Emission System**: Yes
+   - **Presence of Heat Grid**: No
+   - **Historical Protection**: No
+   - **Insulation Grades**:
+     - Walls: Not Insulated
+     - Roof: Well Insulated
+
+2. **Current Systems**:
+   - **Emission System**: Electric Convector, Floor Heating, Radiator, Air Heating
+   - **Ventilation System**: Natural Air Supply and Air Exhaust (Ventilation System A)
+   - **Generation System**: Boiler
+
+3. **Current State of Building Elements**:
+   - **Windows**: Single Glazing (poor thermal and acoustic performance)
+   - **Walls**: Cavity Walls (not insulated)
+   - **Roof**: Gable Roof (well insulated)
+
+4. **Owner's Motivation**:
+   - **Primary Goal**: To improve the EPC of the dwelling.
+
+### Recommended Renovation Steps
+
+1. **Improve Insulation**:
+   - **Insulate Walls**: Since the walls are cavity walls and not insulated, insulating the cavity is a practical and effective measure. This will significantly reduce heat loss through the walls.
+     - **Action**: Insulate Wall Cavity (Ordering: 34)
+   - **Insulate Attic Floor**: Although the roof is well insulated, the attic floor might not be. Insulating the attic floor can prevent heat loss through the ceiling.
+     - **Action**: Insulate Attic Floor (Ordering: 31)
+
+2. **Upgrade Windows**:
+   - **Replace Glazing**: The current windows have single glazing, which is inefficient. Replacing the glazing with double or triple glazing will improve thermal performance.
+     - **Action**: Replace Glazing (Ordering: 43)
+   - **Replace Windows**: If the window frames are in good condition, replacing only the glazing might suffice. However, if the frames are old or damaged, replacing the entire windows might be necessary.
+     - **Action**: Replace Windows (Ordering: 46)
+
+3. **Upgrade Emission System**:
+   - **Place Low-Temperature Emission System**: Upgrading to a low-temperature emission system can improve energy efficiency and comfort.
+     - **Action**: Place Emission System on Low Temperature (Ordering: 70)
+
+4. **Consider Renewable Energy**:
+   - **Place PV Panels**: Given the potential for PV and the absence of a heat grid, installing PV panels can reduce dependency on non-renewable energy sources.
+     - **Action**: Place PV Panels on Roof (Ordering: 85)
+
+5. **Additional Considerations**:
+   - **Ventilation System**: The current ventilation system is natural. Depending on the specific needs and comfort requirements, upgrading to a mechanical ventilation system (e.g., Ventilation System B or C) might be beneficial.
+     - **Action**: Replace Ventilation System (Ordering: 52)
+   - **Sunshade**: Installing sunshades can help regulate indoor temperature by reducing solar gain in summer.
+     - **Action**: Place Sunshade (Ordering: 79)
+
+### Prioritization of Actions
+
+Based on the ordering of the renovation suggestions, the following prioritization is recommended:
+
+1. **Insulate Wall Cavity** (Ordering: 34)
+2. **Insulate Attic Floor** (Ordering: 31)
+3. **Replace Glazing** (Ordering: 43)
+4. **Place Emission System on Low Temperature** (Ordering: 70)
+5. **Place PV Panels on Roof** (Ordering: 85)
+6. **Replace Ventilation System** (Ordering: 52)
+7. **Place Sunshade** (Ordering: 79)
+
+### Final Renovation Plan
+
+1. **Insulate Wall Cavity**
+   - **Action**: Inject insulation material into the wall cavities.
+   - **Benefit**: Reduces heat loss through walls, improving overall energy efficiency.
+
+2. **Insulate Attic Floor**
+   - **Action**: Install insulation material on the attic floor.
+   - **Benefit**: Prevents heat loss through the ceiling, enhancing thermal comfort.
+
+3. **Replace Glazing**
+   - **Action**: Upgrade single glazing to double or triple glazing.
+   - **Benefit**: Improves thermal performance of windows, reducing heat loss.
+
+4. **Place Emission System on Low Temperature**
+   - **Action**: Install a low-temperature emission system.
+   - **Benefit**: Enhances energy efficiency and comfort by using lower temperature settings.
+
+5. **Place PV Panels on Roof**
+   - **Action**: Install photovoltaic panels on the roof.
+   - **Benefit**: Generates renewable energy, reducing dependency on non-renewable sources.
+
+6. **Replace Ventilation System**
+   - **Action**: Upgrade to a mechanical ventilation system (e.g., Ventilation System B or C).
+   - **Benefit**: Improves indoor air quality and comfort.
+
+7. **Place Sunshade**
+   - **Action**: Install sunshades on windows.
+   - **Benefit**: Regulates indoor temperature by reducing solar gain in summer.
+
+This plan addresses the primary goal of improving the EPC of the dwelling while considering cost-effectiveness and practical implementation. The actions are prioritized based on their potential impact on energy efficiency and comfort.

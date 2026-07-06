@@ -1,0 +1,52 @@
+### Analysis of Current Building State
+The building is a relatively modern semi-detached house (constructed in 2017) with an already high energy efficiency rating (**EPC score: 87.0**, which corresponds to an **A label**). 
+
+**Strengths:**
+*   **Walls & Floors:** Front, left, and rear walls, as well as the floor above the basement, are already "Well Insulated."
+*   **Roofing:** The flat roof extension is "Well Insulated."
+*   **Systems:** The building already employs a high-efficiency **Heat Pump** for generation and a **Ventilation System D** (the most advanced mechanical system).
+*   **Renewables:** PV panels are already installed.
+
+**Weaknesses/Opportunities:**
+*   **Main Roof:** The gable roof is only "**Moderately Insulated**," representing the primary area for thermal improvement.
+*   **Glazing:** The windows currently have **Double Glazing**. While efficient, upgrading to Triple Glazing can further lower the energy score.
+*   **Passive Cooling:** There is no mention of sun-shading, which is critical for maintaining thermal comfort without increasing energy consumption for cooling.
+
+---
+
+### Proposed Renovation Plan
+
+Since the building is already highly efficient, the focus is on "marginal gains"—targeted upgrades that move the EPC score from an A toward an A+ while remaining cost-effective.
+
+#### Phase 1: Envelope Optimization (Highest Priority)
+The goal here is to eliminate the remaining thermal bridges and heat loss.
+1.  **Insulate Gable Roof:** The `RoofMain` is the only major structural element not fully insulated. Upgrading this from "moderately" to "well" insulated is the most cost-effective way to reduce heat loss.
+    *   *Action:* `insulate gable roof`
+    *   *Note:* Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### Phase 2: Glazing Upgrade (Secondary Priority)
+With the roof secured, the windows are the next point of heat transfer.
+2.  **Replace Glazing:** Since the wooden frames are in "Good State" (value 8), there is no need to replace the entire window unit. Replacing only the glass panes is more cost-effective.
+    *   *Action:* `replace glazing` (Upgrade from Double to Triple Glazing).
+    *   *Note:* Verify that the existing wooden frames have the necessary thickness to support triple-pane glass.
+
+#### Phase 3: Passive Energy Management (Final Touch)
+To improve long-term operational performance and reduce summer cooling loads.
+3.  **Install Sun-shading:** To prevent overheating (which would otherwise force the heat pump to work in cooling mode), external shading should be added.
+    *   *Action:* `place sunshade`
+    *   *Note:* Prioritize outdoor blinds over indoor ones for maximum efficiency.
+
+---
+
+### Summary of the Renovation Path
+
+| Sequence | Action | Target Element | Justification | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | `RoofMain` | Only element not "Well Insulated." | High (High ROI) |
+| **2** | `replace glazing` | `Windows` | Move from Double $\rightarrow$ Triple glazing. | Moderate (EPC Gain) |
+| **3** | `place sunshade` | Facades | Reduce summer solar gain. | High (Low cost) |
+
+**Excluded Actions:** 
+*   *Wall/Floor Insulation:* Already "Well Insulated."
+*   *HVAC Upgrades:* Already using a Heat Pump and Ventilation System D; replacements would offer negligible efficiency gains.
+*   *Geothermal:* Site data explicitly indicates no potential for horizontal or vertical geothermal drilling.

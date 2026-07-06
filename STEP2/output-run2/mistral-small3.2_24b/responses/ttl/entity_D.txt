@@ -1,0 +1,62 @@
+Based on the provided RENO ontology and building information, here's a cost-effective and energy-efficient renovation plan for the semi-detached building:
+
+### Priority 1: Roof Improvements
+1. **Insulate Gable Roof (RoofMain)**
+   - Current state: Moderately insulated
+   - Suggested action: Insulate with vapour barrier (€60/m²)
+   - Ordering: 28
+   - Rationale: High impact on energy efficiency with moderate cost
+
+2. **Place Roof Underlayment (RoofMain)**
+   - Current state: Underlayment not mentioned
+   - Suggested action: Install air- and watertight underlayment (€65/m²)
+   - Ordering: 16
+   - Rationale: Prevents heat loss through roof structure
+
+### Priority 2: Wall Improvements
+3. **Insulate Wall on Exterior (Wall_Front, Wall_Left, Wall_Rear)**
+   - Current state: Well insulated (but could be better)
+   - Suggested action: Consider exterior insulation if budget allows (€200/m²)
+   - Ordering: 40
+   - Rationale: Significant energy savings potential
+
+### Priority 3: Window Improvements
+4. **Replace Glazing (WindowsBedrooms, WindowsLivingArea)**
+   - Current state: Double glazing (changed during renovation)
+   - Suggested action: Upgrade to triple glazing if frames can support it
+   - Ordering: 43
+   - Rationale: Further reduces heat loss through windows
+
+### Priority 4: System Improvements
+5. **Replace Ventilation System**
+   - Current state: VentilationSystemD
+   - Suggested action: Consider more efficient system if current one is outdated
+   - Ordering: 52
+   - Rationale: Can improve air quality and energy efficiency
+
+### Priority 5: Renewable Energy
+6. **Place PV-panels on Roof**
+   - Current state: PVPanels installed
+   - Suggested action: Assess if current panels are optimal and consider upgrade
+   - Ordering: 85
+   - Rationale: Generates renewable energy to offset consumption
+
+### Recommendations:
+1. **Immediate Actions**:
+   - Focus on roof insulation and underlayment first (highest impact on energy efficiency)
+   - Consider exterior wall insulation if budget allows after roof work
+
+2. **Mid-term Actions**:
+   - Upgrade window glazing to triple glazing
+   - Evaluate and potentially replace ventilation system
+
+3. **Long-term Actions**:
+   - Assess renewable energy options like PV panels
+   - Consider heat pump or other emission system upgrades if current one is inefficient
+
+### Cost Considerations:
+- Prioritize actions with highest energy savings per euro spent
+- Consider the building's relatively recent construction (2017) when evaluating renovation needs
+- Focus on actions that align with the owner's motivation to improve EPC
+
+This plan follows the ordering suggested in the ontology while considering the building's specific characteristics and current state of elements.

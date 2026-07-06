@@ -1,0 +1,80 @@
+### Energy-Efficient and Cost-Effective Renovation Plan
+
+#### **1. Insulate the Roofs**
+- **Action:** Insulate the flat roof (RoofExtension) and the gable roof (RoofMain).
+- **Rationale:** Both roofs are either not insulated (RoofMain) or moderately insulated (RoofExtension). Proper insulation will significantly reduce heat loss.
+- **Steps:**
+  - For the flat roof, consider an inverted roof structure (insulation on top of the roof covering).
+  - For the gable roof, ensure a vapour barrier is installed on the warm side of the insulation.
+- **Cost:** ~€50/m² (flat roof), ~€60/m² (gable roof).
+
+#### **2. Insulate the Walls**
+- **Action:** Insulate the exterior walls (Wall_Front, Wall_Rear, Wall_Right).
+- **Rationale:** All walls are not insulated, leading to substantial heat loss.
+- **Steps:**
+  - Opt for exterior wall insulation to avoid reducing interior space.
+  - Ensure the insulation is vapour-permeable and properly sealed.
+- **Cost:** ~€200/m².
+
+#### **3. Upgrade the Windows**
+- **Action:** Replace the existing wooden windows (WindowsBedrooms, WindowsLivingArea) with more energy-efficient options.
+- **Rationale:** Double glazing is already in place, but upgrading to triple glazing or ensuring the frames are well-sealed can further improve insulation.
+- **Steps:**
+  - Check the condition of the window frames and replace if necessary.
+  - Ensure the new windows have a good thermal break.
+- **Cost:** ~€800/m² (for replacement).
+
+#### **4. Insulate the Floor Above Basement**
+- **Action:** Insulate the floor above the basement (FloorAboveBasement).
+- **Rationale:** The floor is not insulated, leading to heat loss to the basement.
+- **Steps:**
+  - Use appropriate insulation material and ensure it is properly installed.
+- **Cost:** ~€30/m².
+
+#### **5. Upgrade the Heating System**
+- **Action:** Consider upgrading the emission system to a low-temperature system.
+- **Rationale:** The current system (EmissionSystem) may not be the most energy-efficient.
+- **Steps:**
+  - Replace old radiators with more efficient models.
+  - Consider installing underfloor heating in key areas.
+- **Cost:** ~€100/m².
+
+#### **6. Install Solar Panels**
+- **Action:** Install PV panels on the roof (RoofMain).
+- **Rationale:** The building has potential for PV installation (reno:hasPotentialForPV true).
+- **Steps:**
+  - Check the 'Zonnekaart' to ensure the roof is suitably oriented.
+  - Ensure the roof is free of asbestos before installation.
+- **Cost:** ~€275/m².
+
+#### **7. Replace the Ventilation System**
+- **Action:** Upgrade the ventilation system (VentilationSystem) to a more efficient model.
+- **Rationale:** The current system (VentilationSystemA) relies on natural air supply and exhaust, which may not be optimal.
+- **Steps:**
+  - Consider a mechanical ventilation system with heat recovery.
+- **Cost:** ~€3500 (fixed) + €17/m².
+
+#### **8. Remove Asbestos (if present)**
+- **Action:** Check for and remove any asbestos-containing materials.
+- **Rationale:** Asbestos can pose health risks and may need to be removed before other renovations.
+- **Steps:**
+  - Hire a licensed asbestos removal company if necessary.
+- **Cost:** ~€40/m² (flat roof), ~€45/m² (gable roof).
+
+### **Optimal Sequence of Renovations**
+1. **Remove Asbestos** (if present) - Ensure safety before other work.
+2. **Insulate Roofs** - High impact on reducing heat loss.
+3. **Insulate Walls** - Significant impact on energy efficiency.
+4. **Upgrade Windows** - Improve insulation and reduce drafts.
+5. **Insulate Floor Above Basement** - Reduce heat loss to the basement.
+6. **Upgrade Heating System** - Improve efficiency and comfort.
+7. **Install Solar Panels** - Generate renewable energy.
+8. **Replace Ventilation System** - Improve air quality and efficiency.
+
+### **Cost-Effectiveness and Energy Efficiency**
+- **Prioritize Insulation:** Insulation projects (roofs, walls, floors) offer the highest return on investment in terms of energy savings.
+- **Upgrade Windows:** While more expensive, new windows can significantly reduce heat loss and improve comfort.
+- **Heating System Upgrade:** Low-temperature systems are more efficient and can reduce energy consumption.
+- **Solar Panels:** Generate renewable energy, reducing reliance on grid electricity.
+
+This plan ensures a balanced approach, addressing the most critical areas for energy efficiency while considering cost-effectiveness and practical implementation.

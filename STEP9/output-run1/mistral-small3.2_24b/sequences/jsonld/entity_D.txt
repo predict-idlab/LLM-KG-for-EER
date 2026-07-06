@@ -1,0 +1,5 @@
+1. replace gable roof
+2. insulate gable roof
+3. place pv panels on roof
+4. place air-water heat pump
+5. place sun shade

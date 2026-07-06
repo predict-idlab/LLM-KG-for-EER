@@ -1,0 +1,14 @@
+{
+  "completeness": {
+    "missing_actions": [],
+    "extra_actions": [
+      "install a modern, high-efficiency condensing boiler for heating",
+      "remove electric convectors and air heating systems",
+      "insulate the floor above the crawl space if uninsulated",
+      "add thermal bridging solutions at critical points to minimize heat loss"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

@@ -1,0 +1,104 @@
+### **Step-by-Step Energy-Efficient Renovation Plan**
+
+#### **Building Overview**
+- **Construction Year:** 1832 (Old building)
+- **Type:** Attached Building
+- **EPC Score:** 262 (C Label)
+- **Owner's Motivation:** Improve EPC
+- **Potential for PV:** Yes
+- **Heat Grid Availability:** No
+- **Geothermal Potential:** No
+- **Ventilation System:** Type A (Natural)
+
+#### **Key Issues**
+1. **Thermal Envelope:**
+   - **Walls:** `Wall_Front` and `Wall_Rear` are not insulated.
+   - **Floor Above Basement:** Not insulated.
+   - **Roof Extension:** Not insulated.
+
+2. **Windows:**
+   - Double glazing but may need replacement due to age.
+
+3. **Heating System:**
+   - Current system: Radiator + Boiler.
+   - Potential for upgrade to a heat pump.
+
+4. **Ventilation:**
+   - Type A is outdated and inefficient.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization**
+**Goal:** Reduce heat loss through walls, floors, and roofs.
+
+1. **Insulate Walls on Exterior**
+   - **Action:** Insulate `Wall_Front` and `Wall_Rear` on the exterior.
+   - **Rationale:** Exterior insulation is more effective for older buildings with non-cavity walls.
+   - **Expected Impact:** Significant reduction in heat loss.
+
+2. **Insulate Floor Above Basement**
+   - **Action:** Insulate the `FloorAboveBasement`.
+   - **Rationale:** Prevents cold drafts from the basement and improves overall comfort.
+
+3. **Insulate Flat Roof**
+   - **Action:** Insulate the `RoofExtension`.
+   - **Rationale:** Flat roofs lose heat rapidly; insulation will reduce heat loss.
+
+#### **Phase 2: Window Upgrades**
+**Goal:** Improve thermal performance of windows.
+
+4. **Replace Glazing**
+   - **Action:** Replace all glazing with **triple glazing**.
+   - **Rationale:** Double glazing is outdated for modern efficiency; triple glazing will further reduce heat loss.
+
+#### **Phase 3: Heating System Transition**
+**Goal:** Install a high-efficiency, low-carbon heating system.
+
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an **Air-Water Heat Pump**.
+   - **Rationale:** Sustainable, efficient, and suitable for the building’s size and location.
+
+6. **Place Emission System on Low Temperature**
+   - **Action:** Upgrade radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the efficiency of the heat pump.
+
+#### **Phase 4: Ventilation Upgrade**
+**Goal:** Improve air quality and energy efficiency.
+
+7. **Replace Ventilation System**
+   - **Action:** Upgrade from Ventilation System A to **Ventilation System C or D**.
+   - **Rationale:** More efficient airflow control and heat recovery.
+
+#### **Phase 5: Renewable Energy Integration**
+**Goal:** Generate on-site renewable energy.
+
+8. **Place PV-Panels on Roof**
+   - **Action:** Install **PV panels** on the roof.
+   - **Rationale:** Utilizes the building’s PV potential to offset electricity consumption.
+
+---
+
+### **Summary of Optimal Sequence**
+| **Sequence** | **Action** | **Rationale** |
+|-------------|------------|-------------|
+| **1** | **Insulate Exterior Walls** | Reduces heat loss through walls. |
+| **2** | **Insulate Floor Above Basement** | Prevents cold drafts from basement. |
+| **3** | **Insulate Flat Roof** | Reduces heat loss through roof. |
+| **4** | **Replace Glazing** | Improves window thermal performance. |
+| **5** | **Install Air-Water Heat Pump** | Sustainable heating solution. |
+| **6** | **Upgrade to Low-Temp Emission** | Maximizes heat pump efficiency. |
+| **7** | **Upgrade Ventilation System** | Improves air quality and efficiency. |
+| **8** | **Install PV Panels** | Generates renewable energy. |
+
+---
+
+### **Final Recommendations**
+- **Prioritize insulation upgrades** first to reduce heat loss.
+- **Replace glazing** to improve window performance.
+- **Install a heat pump** for sustainable heating.
+- **Upgrade ventilation** for better air quality.
+- **Add PV panels** to generate renewable energy.
+
+This plan ensures **maximum energy efficiency** while remaining **cost-effective** by following the **"Insulate → Ventilate → Generate"** sequence.

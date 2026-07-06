@@ -1,0 +1,44 @@
+Based on the provided building data and the RENO ontology, the building is a detached house from 1862 with a current EPC score of 165.0. While the roof is already well-insulated, there are significant energy leaks in the walls, windows, and floor.
+
+To maximize energy efficiency and cost-effectiveness, I propose a "Fabric First" approach: optimizing the building envelope to reduce heat demand before upgrading the heating and energy systems.
+
+### Phase 1: Building Envelope Optimization (The "Quick Wins")
+These steps reduce energy loss and are the most cost-effective per square meter.
+
+1.  **Insulate Wall Cavities:** The front, left, rear, and right walls are all cavity walls and are currently **not insulated**. 
+    *   **Action:** `insulate wall cavity`
+    *   **Reasoning:** This is the most cost-effective insulation method (22/m²) with low nuisance. Since there is no historical protection, this is the highest priority for reducing the EPC score.
+2.  **Insulate Floor:** The building has a floor above a crawl space.
+    *   **Action:** `insulate floor above basement`
+    *   **Reasoning:** Low cost (30/m²) and low nuisance; it prevents cold drafts from the crawl space.
+3.  **Upgrade Glazing:** All windows currently have **single glazing**, which is a major source of heat loss.
+    *   **Action:** `replace glazing`
+    *   **Reasoning:** Since the wooden window frames are in **good state**, replacing only the glazing (rather than the whole window) is more cost-effective and sustainable.
+
+### Phase 2: Systems and Ventilation
+Once the house is airtight and insulated, the heating and air-exchange systems must be modernized.
+
+4.  **Upgrade Ventilation:** The building currently uses Ventilation System A (natural supply/exhaust), which is inefficient.
+    *   **Action:** `replace ventilation system`
+    *   **Reasoning:** Improving insulation and glazing increases airtightness; a modern ventilation system is necessary to maintain indoor air quality and prevent condensation.
+5.  **Modernize Heating System:** There is a stated reason to change the emission system, and the current setup (electric convectors/radiators) is outdated.
+    *   **Action:** `place emission system on low temperature` $\rightarrow$ `place air-water heatpump`
+    *   **Reasoning:** Geothermal options are not viable for this site, and there is no heat grid. An air-water heat pump is the most efficient alternative. *Sequence is critical:* Low-temperature emitters must be installed first to ensure the heat pump operates at maximum efficiency.
+
+### Phase 3: Renewable Energy Generation
+The final step is to offset the remaining energy consumption with green energy.
+
+6.  **Solar Energy Installation:** The building is confirmed to have potential for PV.
+    *   **Action:** `place PV-panels on roof`
+    *   **Reasoning:** This reduces operational costs and further improves the EPC label, aligning with the owner's motivation.
+
+### Summary of the Optimal Sequence
+| Sequence | Action | Priority | Cost/Nuisance |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate wall cavity` | High | Low / Low |
+| **2** | `insulate floor above basement` | High | Low / Low |
+| **3** | `replace glazing` | High | Medium / High |
+| **4** | `replace ventilation system` | Medium | Medium / Medium |
+| **5** | `place emission system on low temperature` | Medium | Medium / Medium |
+| **6** | `place air-water heatpump` | Medium | High / Medium |
+| **7** | `place PV-panels on roof` | Low | Medium / Low |

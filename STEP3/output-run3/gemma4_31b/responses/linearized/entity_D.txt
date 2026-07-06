@@ -1,0 +1,46 @@
+### Analysis of Current Building State
+The building is a relatively modern (constructed in 2017) semi-detached house in Belgium. It is already highly energy-efficient, with an **EPC score of 87** (which typically corresponds to an 'A' or 'B' label). 
+
+**Current Strengths:**
+*   **Walls & Floors:** Front, left, and rear walls, as well as the floor above the basement, are already "Well Insulated."
+*   **Heating & Energy:** The building is already equipped with a Heat Pump and PV Panels.
+*   **Ventilation:** It uses Ventilation System D, which is a high-performance mechanical system.
+*   **Flat Roof:** The roof extension is "Well Insulated" and in a good state.
+
+**Identified Weaknesses:**
+*   **Gable Roof:** The main roof is only "Moderately Insulated." This is the primary area for thermal improvement.
+*   **Glazing:** The windows currently use double glazing. While efficient, upgrading to triple glazing would further lower the EPC score.
+
+---
+
+### Proposed Renovation Plan
+
+Given the owner's motivation to **Improve the EPC** and the building's already high baseline, the focus is on "fine-tuning" the thermal envelope. Since the building is from 2017, we can assume it is asbestos-free, allowing us to skip asbestos removal steps.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+**Action: Insulate Gable Roof**
+*   **Reasoning:** This is the only major building element not yet "Well Insulated." Improving the gable roof from "Moderately Insulated" to "Well Insulated" will significantly reduce heat loss through the top of the house.
+*   **Cost-Effectiveness:** With a unit price of 60, this is a practical upgrade that offers a high return on energy reduction.
+*   **Sequence:** This should be done first to seal the building envelope before addressing glazing.
+
+#### Step 2: Glazing Upgrade (Medium Priority)
+**Action: Replace Glazing (Double $\rightarrow$ Triple)**
+*   **Reasoning:** The existing wooden window frames are in a "Good State." Rather than replacing the entire window unit (which is expensive and high-nuisance), replacing only the glazing to **Triple Glazing** will further reduce the U-value of the bedrooms and living area.
+*   **Cost-Effectiveness:** `Replace Glazing` (unit price 200) is more cost-effective than `Replace Windows` (unit price 800) when frames are already in good condition.
+
+#### Step 3: Solar Gain Management (Low Priority/Comfort)
+**Action: Place Sunshades**
+*   **Reasoning:** To maximize the efficiency of the heat pump and prevent overheating in the summer (reducing the need for active cooling), installing external sunshades is recommended.
+*   **Cost-Effectiveness:** This is a low-cost fixed-price intervention (750) that improves long-term operational performance and thermal comfort.
+
+---
+
+### Summary Table of the Renovation Path
+
+| Sequence | Renovation Action | Target Element | Impact | Cost Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | High (EPC Reduction) | Low/Moderate |
+| **2** | **Replace Glazing** | Windows | Moderate (EPC Reduction) | Moderate |
+| **3** | **Place Sunshades** | Windows/Facades | Low (Operational Efficiency) | Low |
+
+**Final Note:** Because the building already possesses a heat pump and PV panels, and lacks potential for geothermal drilling or heat grid connection, no further HVAC or generation upgrades are recommended at this time. This plan provides the most direct path to improving the EPC while minimizing waste and cost.

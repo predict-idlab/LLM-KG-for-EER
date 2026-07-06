@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place emission system on low temperature", "place air-water heatpump"], "extra_actions": ["insulate flat roof", "place roof underlayment"]}, "sequence": {"order_errors": ["insulate flat roof", "replace ventilation system", "place heatpumpboiler"]}}

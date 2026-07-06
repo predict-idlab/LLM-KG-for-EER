@@ -1,0 +1,96 @@
+### Step 1: Analyze the Entity Information
+
+The entity information describes a semi-detached building with the following characteristics:
+- **Construction Year**: 2017
+- **Energy Performance Certificate (EPC)**: Score of 87
+- **Building Elements**:
+  - **Roofs**:
+    - RoofMain (Gable Roof): Moderately Insulated, Good State
+    - RoofExtension (Flat Roof): Well Insulated, Good State
+  - **Walls**:
+    - Wall_Front, Wall_Left, Wall_Rear: Full Brick Walls, Well Insulated, No Historical Protection
+  - **Floors**:
+    - FloorAboveBasement: Well Insulated, No Protection
+  - **Windows**:
+    - WindowsBedrooms, WindowsLivingArea: Wooden Frames with Double Glazing, Good State
+  - **Systems**:
+    - Generation_System: Heat Pump
+    - VentilationSystem: Ventilation System D
+    - EmissionSystem: Space Heater
+    - PVPanels: Solar Device
+
+### Step 2: Identify Potential Renovations
+
+Based on the ontology and suggestion list, the following renovations are relevant:
+1. **Insulate Gable Roof**: The RoofMain is currently moderately insulated. Insulating it could improve energy efficiency.
+2. **Replace Glazing**: The windows have double glazing, which is good, but replacing it with triple glazing could further improve insulation.
+3. **Insulate Wall on Exterior**: The walls are well insulated, but insulating them on the exterior could provide additional benefits.
+4. **Replace Ventilation System**: The current ventilation system is type D. Replacing it with a more efficient system could improve air quality and energy efficiency.
+5. **Place PV-Panels on Roof**: The building has potential for PV-panels, which could generate renewable energy.
+
+### Step 3: Prioritize Renovations
+
+Prioritization is based on the ordering in the ontology and the specific needs of the building:
+1. **Insulate Gable Roof**: High priority due to the current moderate insulation level.
+2. **Replace Glazing**: Medium priority as double glazing is already in place, but triple glazing offers better insulation.
+3. **Insulate Wall on Exterior**: Medium priority as the walls are already well insulated, but exterior insulation can provide additional benefits.
+4. **Replace Ventilation System**: Low priority as the current system is type D, which is efficient but may not be the most advanced.
+5. **Place PV-Panels on Roof**: High priority due to the potential for renewable energy generation.
+
+### Step 4: Create the Renovation Plan
+
+Based on the above analysis, the renovation plan is as follows:
+
+1. **Insulate Gable Roof**
+   - **Action**: Insulate the gable roof to improve thermal performance.
+   - **Justification**: The current insulation is moderate, and improving it will enhance energy efficiency.
+
+2. **Replace Glazing**
+   - **Action**: Replace the existing double glazing with triple glazing on all windows.
+   - **Justification**: Triple glazing offers better insulation properties, reducing heat loss and improving comfort.
+
+3. **Insulate Wall on Exterior**
+   - **Action**: Apply exterior insulation to the walls to enhance thermal performance.
+   - **Justification**: Exterior insulation can provide additional benefits such as improved moisture management and reduced thermal bridging.
+
+4. **Replace Ventilation System**
+   - **Action**: Upgrade the ventilation system to a more advanced type (e.g., type C or B).
+   - **Justification**: A more advanced ventilation system can improve air quality and energy efficiency.
+
+5. **Place PV-Panels on Roof**
+   - **Action**: Install PV-panels on the roof to generate renewable energy.
+   - **Justification**: The building has potential for PV-panels, which can reduce reliance on non-renewable energy sources.
+
+### Step 5: Final Renovation Plan
+
+1. **Insulate Gable Roof**
+   - **Ordering**: 28
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Requires Multi-Phase**: No
+
+2. **Replace Glazing**
+   - **Ordering**: 43
+   - **Nuisance Level**: High
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Requires Multi-Phase**: No
+
+3. **Insulate Wall on Exterior**
+   - **Ordering**: 40
+   - **Nuisance Level**: High
+   - **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders)
+   - **Requires Multi-Phase**: No
+
+4. **Replace Ventilation System**
+   - **Ordering**: 52
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Requires Multi-Phase**: Maybe, depending on the system
+
+5. **Place PV-Panels on Roof**
+   - **Ordering**: 85
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+   - **Requires Multi-Phase**: Maybe, depending on the system
+
+This plan prioritizes actions that will have the most significant impact on energy efficiency and comfort, while considering the practicality and regulatory requirements of each step.

@@ -1,0 +1,44 @@
+To move your house from an EPC of 262 to a high-performance rating, you must follow the **"Fabric First"** approach. The most common mistake is replacing the boiler before insulating; this leads to oversized, inefficient heating systems.
+
+Because your home is an attached house in Ghent (likely in a dense urban area), external wall insulation is probably impractical. Therefore, the strategy focuses on internal optimization and high-impact thermal barriers.
+
+### The Optimal Renovation Sequence
+
+#### Phase 1: The Thermal Envelope (Stopping Heat Loss)
+*Before upgrading heating, you must reduce the demand for it.*
+
+1.  **Flat Roof Insulation:** This is your highest priority. Flat roofs are major sources of heat loss. Install high-performance rigid insulation boards (e.g., PIR) on top of the existing structure (inverted roof) or internally.
+2.  **Basement Ceiling Insulation:** This is a "low-hanging fruit" with high ROI. Insulating the ceiling of the basement prevents "cold feet" and stops heat from escaping into the ground.
+3.  **Internal Wall Insulation (IWI):** Since you have solid brick walls and cannot insulate externally, apply a breathable internal insulation system (such as wood-fiber boards or calcium silicate). **Warning:** Use vapor-permeable materials to avoid interstitial condensation and mold, which is common in 19th-century Belgian brick homes.
+4.  **Roof Top-up:** Since the pitched roof has "moderate" insulation, add an extra layer of mineral wool or cellulose in the attic space to reach modern standards (R-value $\geq$ 5.0).
+
+#### Phase 2: Ventilation (Ensuring Air Quality)
+*Once you insulate a house, it becomes "airtight," which can lead to humidity and mold if natural ventilation is insufficient.*
+
+5.  **Balanced Ventilation with Heat Recovery (MVHR):** Replace the basic natural ventilation with a mechanical system. An MVHR system recovers heat from outgoing stale air to warm incoming fresh air, drastically reducing the load on your heating system.
+
+#### Phase 3: Heating System Transition (The Engine)
+*Now that the house is insulated, you can install a smaller, more efficient heating source.*
+
+6.  **Low-Temperature Emitters:** Since your radiators are in poor condition, replace them with **low-temperature radiators** or **underfloor heating** (if you are already renovating floors). This is critical because modern heat pumps are inefficient when paired with old, high-temperature radiators.
+7.  **Air-to-Water Heat Pump:** Replace the old boiler with an electric air-to-water heat pump. Given that geothermal is not an option, this is the most sustainable choice for Ghent’s climate.
+
+#### Phase 4: Energy Generation (Offsetting Costs)
+*Now that you have shifted your heating from gas/oil to electricity, you need to produce your own power.*
+
+8.  **Photovoltaic (PV) Panels:** Install PV panels on the pitched roof. This will offset the electricity consumption of the heat pump and the ventilation system, bringing your operational costs close to zero.
+
+---
+
+### Summary of Impact & Cost-Effectiveness
+
+| Step | Priority | Cost | Energy Impact | Why? |
+| :--- | :--- | :--- | :--- | :--- |
+| **Flat Roof/Basement** | Critical | Medium | High | Stops immediate heat leakage. |
+| **Internal Walls** | High | Medium/High | High | Solid brick is a thermal sieve. |
+| **MVHR Ventilation** | High | Medium | Medium | Prevents mold/damp in insulated homes. |
+| **Heat Pump + Low-Temp Rads** | Medium | High | Very High | Shifts to renewable heating. |
+| **PV Panels** | Low/Final | Medium | High (Financial) | Lowers monthly utility bills. |
+
+### Expert Pro-Tip for Ghent Residents:
+Check the **"Mijn VerbouwPremie"** (My Renovation Premium) from the Flemish government. Since your house is not historically protected, you are eligible for significant subsidies on wall, roof, and floor insulation, as well as the installation of heat pumps and ventilation systems. **Apply for these premiums before starting the works.**

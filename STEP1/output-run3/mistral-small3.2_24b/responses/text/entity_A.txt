@@ -1,0 +1,45 @@
+Based on the information provided, here's a concise and actionable renovation plan for your semi-detached house in Ghent, Belgium, focusing on energy efficiency and cost-effectiveness:
+
+### 1. **Insulation Upgrades (High Priority)**
+   - **Exterior Walls**: Install external wall insulation (EWI) to improve thermal performance. This is more cost-effective than internal insulation and avoids reducing floor space.
+   - **Pitched Roof**: Add insulation to the pitched roof, as this is a significant source of heat loss. Use high-performance insulation materials like mineral wool or rigid foam boards.
+   - **Flat Roof Extension**: Top up the existing insulation to meet current standards.
+   - **Floor Above Basement**: Insulate the floor above the basement using rigid insulation boards or underfloor insulation.
+
+### 2. **Heating System Replacement (High Priority)**
+   - Replace the old boiler with a modern, high-efficiency condensing boiler.
+   - Upgrade the heat emission systems:
+     - Replace old radiators with newer, more efficient models.
+     - Consider replacing underfloor heating if it's not performing well, or ensure it's properly integrated with the new boiler.
+     - Remove air heating systems, as they are generally inefficient.
+
+### 3. **Ventilation System Upgrade (Medium Priority)**
+   - Replace the basic natural ventilation system with a **heat recovery ventilation (HRV) system**. This will improve indoor air quality and reduce heat loss by recovering heat from exhausted air.
+
+### 4. **Windows and Doors (Medium Priority)**
+   - Although your windows have double glazing, consider upgrading to **triple glazing** if the frames are still in good condition. This will further reduce heat loss.
+   - Ensure all doors are well-insulated and draft-proofed.
+
+### 5. **Photovoltaic (PV) Panels (Medium Priority)**
+   - Install PV panels on the roof to generate renewable energy. This will help reduce your electricity bills and improve the energy performance certificate (EPC) score.
+   - Consider a solar battery system to store excess energy for use during peak times.
+
+### 6. **Additional Measures (Low Priority)**
+   - **Smart Thermostat**: Install a programmable or smart thermostat to optimize heating schedules and reduce energy waste.
+   - **Lighting**: Replace incandescent bulbs with LED lighting throughout the house.
+   - **Draft Proofing**: Seal any gaps around windows, doors, and other openings to prevent heat loss.
+
+### Optimal Renovation Sequence:
+1. **Insulation Upgrades**: Start with the roof and walls, as these are the most significant sources of heat loss.
+2. **Heating System Replacement**: Upgrade the boiler and heat emission systems to ensure efficient heat distribution.
+3. **Ventilation System Upgrade**: Install the HRV system to complement the new heating system and improve air quality.
+4. **Windows and Doors**: Upgrade to triple glazing if feasible.
+5. **PV Panels**: Install solar panels to generate renewable energy.
+6. **Additional Measures**: Implement smart thermostats, LED lighting, and draft proofing as final touches.
+
+### Estimated Impact:
+- **Energy Efficiency**: Significant reduction in heat loss and improved overall energy performance.
+- **Cost Savings**: Lower heating bills and reduced energy consumption.
+- **EPC Score**: Substantial improvement, potentially bringing the score well below the current 388.
+
+This plan prioritizes the most impactful upgrades first, ensuring that each step maximizes the benefits of the previous ones.

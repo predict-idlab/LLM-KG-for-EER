@@ -1,0 +1,25 @@
+You are an expert in energy-efficient and cost-effective home renovations.
+Your task is to analyze the provided building-related information and propose a renovation path that maximizes **energy efficiency** while remaining **cost-effective**. 
+Focus on practical upgrades that reduce energy consumption and improve long-term operational performance. Take into account the most optimal sequence to maximize the benefits of each renovation step.
+
+### Entity Information:
+I live in an attached house in Ghent, Belgium, which was built in 2023. The house has a net floor area of 159 m², and I am considering renovations because I would like to improve its energy performance certificate, which currently has a score of 50. The house is not historically protected.
+
+The exterior walls at the front and rear of the house are solid brick walls and are well insulated. The main pitched roof has a moderate level of insulation, while the flat-roof extension is well insulated. The roofs are generally in good condition. The floor above the basement is also well insulated.
+
+For heating, the house relies on a boiler connected to a combination of underfloor heating and electric convectors. These heat emission systems are no longer in good condition, and I would like to replace them. The house is equipped with a ventilation system D.
+
+The windows in both the living area and the bedrooms have wooden frames that are in good condition and are fitted with double glazing. The glazing was renewed during a renovation that was completed in 2024.
+
+There is no district heating network available in the area, and the site is not suitable for geothermal energy systems. The house already has photovoltaic panels installed.
+
+### Renovation Plan:
+Based on the information above, provide a concise and actionable renovation plan that is tailored to the entity.
+
+Return only a **numbered list** of unique renovation actions. Each item must:
+- Be one concrete, specific action in concise, lowercase active imperative form ("verb object [location/specifier]").
+- Appear only once, even if mentioned multiple times.
+- Exclude maintenance, inspection, and no-change recommendations.
+- Remove modal/polite wording ("should", "must", "can", "could", "will", "please", "to be", "be").
+
+Let's think step by step.

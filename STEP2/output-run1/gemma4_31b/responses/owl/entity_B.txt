@@ -1,0 +1,51 @@
+Based on the provided RENO ontology and the specific data for the building, here is a professional renovation plan. The strategy follows the **"Envelope-First"** principle: we first reduce the energy demand by improving insulation, then upgrade the ventilation and heating systems, and finally integrate renewable energy to offset operational costs.
+
+### Building Analysis Summary
+*   **Building Type:** Attached Building (1832)
+*   **Current EPC Score:** 262 (C Label)
+*   **Primary Goal:** Improve EPC and overall energy efficiency.
+*   **Key Weaknesses:** Uninsulated flat roof, uninsulated exterior walls (full brick), and an uninsulated floor above the basement.
+*   **Constraints:** Geothermal options are not viable; no heat grid available.
+
+---
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Reducing Heat Loss)
+*The most cost-effective way to improve EPC is to stop heat from escaping. We prioritize areas with the worst insulation.*
+
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a high-priority target as heat rises and flat roofs often have significant thermal bridges.
+2.  **Insulate Wall on Exterior:** Both the front and rear walls are `FullBrickWall` and not insulated. Since there is no historical protection, exterior insulation is the most efficient choice to eliminate thermal bridges and significantly lower the energy score.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. This is a low-nuisance, high-impact upgrade that prevents cold air from entering the living spaces from below.
+
+#### Phase 2: Ventilation Upgrade (Air Quality & Efficiency)
+*Once the house is "sealed" with insulation, controlled ventilation is required to prevent moisture buildup and maintain air quality.*
+
+4.  **Replace Ventilation System:** The building currently uses **System A** (natural supply/exhaust), which is the least efficient. Upgrading to a more modern system (such as System C or D) will reduce uncontrolled heat loss through drafts.
+
+#### Phase 3: Energy Generation Transition (Decarbonization)
+*With a reduced energy load due to Phase 1 & 2, we can now install a smaller, more efficient heating system.*
+
+5.  **Place Air-Water Heat Pump:** Since geothermal and heat grids are unavailable, an air-water heat pump is the optimal choice. It replaces the old boiler and works efficiently with the existing radiator system.
+6.  **Place Emission System on Low Temperature:** To maximize the efficiency of the new heat pump, it is recommended to upgrade the radiators to low-temperature emitters (or increase their surface area) to reduce the required flow temperature.
+
+#### Phase 4: Renewable Energy Integration (Operational Cost Reduction)
+*The final step is to produce the electricity needed to run the new heat pump.*
+
+7.  **Place PV-Panels on Roof:** The building has confirmed PV potential. Installing solar panels on the roof will significantly lower the operational cost of the heat pump and improve the final EPC label.
+
+---
+
+### Summary of Optimal Sequence & Rationale
+
+| Sequence | Action | Rationale | Nuisance Level |
+| :--- | :--- | :--- | :--- |
+| **1** | **Flat Roof Insulation** | Stops highest heat loss; high EPC impact. | High |
+| **2** | **Exterior Wall Insulation** | Addresses the largest surface area of heat loss. | High |
+| **3** | **Floor Insulation** | Low-cost, high-comfort improvement. | Low |
+| **4** | **Ventilation Upgrade** | Prevents condensation in a now-insulated home. | Moderate |
+| **5** | **Air-Water Heat Pump** | Switches to a sustainable, high-efficiency source. | Moderate |
+| **6** | **PV-Panels** | Offsets the electricity cost of the heat pump. | Low |
+
+### Cost-Effectiveness Note
+By insulating the **Flat Roof** and **Exterior Walls** first, the required capacity (and thus the cost) of the **Air-Water Heat Pump** can be reduced, as the building will require significantly less energy to maintain a comfortable temperature. This sequence ensures the highest return on investment (ROI) and the most significant jump in the EPC label.

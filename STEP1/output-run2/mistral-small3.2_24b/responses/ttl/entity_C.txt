@@ -1,0 +1,47 @@
+Based on the provided RENO ontology and entity information, here's a cost-effective and energy-efficient renovation plan for the building:
+
+### **Priority 1: Roof Improvements**
+1. **Insulate Roof Extension (Flat Roof)**
+   - *Action*: Insulate the flat roof extension.
+   - *Cost*: €50/m² (low nuisance, no permit needed if thickness ≤ 26cm).
+   - *Why*: The flat roof is already well-insulated, but reinforcing it will further reduce heat loss.
+
+2. **Insulate Roof Main (Gable Roof)**
+   - *Action*: Insulate the gable roof.
+   - *Cost*: €60/m² (low nuisance, no permit needed).
+   - *Why*: The gable roof is only moderately insulated, and improving it will enhance thermal performance.
+
+### **Priority 2: Window Upgrades**
+3. **Replace Window Glazing (Bedrooms & Living Area)**
+   - *Action*: Upgrade single glazing to double glazing (or triple if budget allows).
+   - *Cost*: €200/m² (high nuisance due to installation disruption).
+   - *Why*: Double glazing significantly improves insulation and reduces energy loss.
+
+### **Priority 3: Emission System Upgrade**
+4. **Replace Electric Convector with Heat Pump**
+   - *Action*: Install an air-water heat pump (€8,000 fixed + €35/m²).
+   - *Why*: Heat pumps are more energy-efficient than electric convectors, reducing long-term energy costs.
+
+### **Priority 4: Ventilation System**
+5. **Replace Ventilation System (Type D)**
+   - *Action*: Upgrade to a mechanical ventilation system with heat recovery (€3,500 fixed + €17/m²).
+   - *Why*: Improves air quality and energy efficiency.
+
+### **Priority 5: Solar Panel Installation**
+6. **Install PV Panels on Roof (If Feasible)**
+   - *Action*: Place PV panels on the roof (€275/m²).
+   - *Why*: Generates renewable energy, reducing reliance on the grid.
+
+### **Additional Considerations**
+- **Heat Grid Connection**: Not feasible (no heat grid available).
+- **Thermal Break for Windows**: If frames are old, consider upgrading to frames with thermal breaks.
+- **Asbestos Removal**: Not applicable (no asbestos mentioned).
+
+### **Optimal Sequence**
+1. **Roof Insulation** (Flat & Gable)
+2. **Window Glazing Upgrade**
+3. **Heat Pump Installation**
+4. **Ventilation System Upgrade**
+5. **PV Panel Installation** (if budget allows).
+
+This plan maximizes energy efficiency while keeping costs manageable.

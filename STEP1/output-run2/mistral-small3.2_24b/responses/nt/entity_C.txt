@@ -1,0 +1,97 @@
+### Renovation Plan:
+
+#### **Step 1: Assess Current State**
+- **Building Type**: Attached Building
+- **Energy Performance Certificate (EPC)**: Score of 50
+- **Construction Year**: 2023
+- **Net Floor Area**: 159.0 m²
+- **Potential for PV**: False
+- **Presence of Heat Grid**: False
+- **Reason to Change Emission System**: True
+- **Resident Information**:
+  - **Resident Since**: Not specified
+  - **Resident Until**: Not specified
+  - **Address**: Belgium, Postal Code: 9000
+
+#### **Step 2: Identify Key Areas for Renovation**
+- **Insulation Grades**:
+  - **Wall_Front**: Well Insulated
+  - **Wall_Rear**: Well Insulated
+  - **RoofMain**: Moderately Insulated
+  - **RoofExtension**: Well Insulated
+  - **FloorAboveBasement**: Well Insulated
+- **Historical Protection**:
+  - **Wall_Front**: False
+  - **Wall_Rear**: False
+- **State of Elements**:
+  - **RoofMain** and **RoofExtension**: Good State (State Value: 8)
+  - **WoodenWindowFrame**: Good State (State Value: 8)
+
+#### **Step 3: Propose Energy-Efficient Upgrades**
+1. **Replace Windows**:
+   - **Action**: Replace windows in Bedrooms and Living Area with double-glazed windows.
+   - **Reason**: Current windows are single-glazed, which are less energy-efficient.
+   - **Expected Outcome**: Improved thermal comfort and reduced energy consumption.
+
+2. **Insulate RoofMain**:
+   - **Action**: Insulate RoofMain to achieve Well Insulated status.
+   - **Reason**: RoofMain is currently only Moderately Insulated.
+   - **Expected Outcome**: Enhanced thermal performance and reduced heat loss.
+
+3. **Upgrade Emission System**:
+   - **Action**: Replace the current Electric Convector with a more efficient system (e.g., Heat Pump).
+   - **Reason**: The building has a reason to change the emission system, and the current system is not energy-efficient.
+   - **Expected Outcome**: Lower energy consumption and improved heating efficiency.
+
+4. **Install PV Panels**:
+   - **Action**: Consider installing PV panels if the potential for PV is reassessed or changes.
+   - **Reason**: Current potential for PV is False, but this could change with future assessments.
+   - **Expected Outcome**: Reduced reliance on grid electricity and lower energy costs.
+
+5. **Improve Ventilation System**:
+   - **Action**: Upgrade the Ventilation System to a more efficient type (e.g., Ventilation System D).
+   - **Reason**: The current Ventilation System may not be optimal for energy efficiency.
+   - **Expected Outcome**: Better air quality and reduced energy consumption.
+
+#### **Step 4: Implementation Timeline**
+1. **Phase 1: Planning and Assessment** (1-2 months)
+   - Conduct a detailed energy audit.
+   - Engage with residents to understand their needs and preferences.
+   - Obtain necessary permits and approvals.
+
+2. **Phase 2: Window Replacement** (2-3 months)
+   - Replace windows in Bedrooms and Living Area.
+
+3. **Phase 3: Roof Insulation** (1-2 months)
+   - Insulate RoofMain to achieve Well Insulated status.
+
+4. **Phase 4: Emission System Upgrade** (1-2 months)
+   - Replace the current Electric Convector with a more efficient system.
+
+5. **Phase 5: PV Panel Installation** (1-2 months)
+   - Install PV panels if potential is reassessed.
+
+6. **Phase 6: Ventilation System Upgrade** (1-2 months)
+   - Upgrade the Ventilation System to a more efficient type.
+
+#### **Step 5: Cost-Effectiveness and Long-Term Benefits**
+- **Cost-Effectiveness**:
+  - Prioritize actions with the highest cost-to-benefit ratio.
+  - Consider incentives or subsidies for energy-efficient upgrades.
+
+- **Long-Term Benefits**:
+  - Reduced energy consumption and lower utility bills.
+  - Improved thermal comfort and indoor air quality.
+  - Increased property value and potential for higher resale value.
+
+#### **Step 6: Monitoring and Maintenance**
+- **Regular Monitoring**:
+  - Monitor energy consumption and system performance post-renovation.
+  - Conduct periodic maintenance to ensure the continued efficiency of upgraded systems.
+
+- **Feedback Loop**:
+  - Gather feedback from residents on the effectiveness of the renovations.
+  - Adjust the plan as necessary based on feedback and changing needs.
+
+### Conclusion
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective. The proposed upgrades are tailored to the specific needs and characteristics of the building, ensuring practical and actionable steps towards a more sustainable and comfortable living environment.

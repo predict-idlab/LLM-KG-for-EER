@@ -1,0 +1,35 @@
+### Proposed Renovation Path
+
+To maximize energy efficiency and improve the EPC score (currently 388) in a cost-effective manner, the renovation should follow a "fabric-first" approach. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is a 1951 semi-detached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Pitched Roof:** The main roof is a pitched roof without insulation. This is a priority as heat rises; insulating the pitched roof is one of the most effective ways to lower energy consumption.
+2. **Insulate Exterior Walls:** All exterior walls are solid brick and not insulated. **Insulating the walls on the interior** is significantly more cost-effective than wall cavity insulation and provides a substantial increase in thermal retention.
+3. **Insulate Floor Above Basement:** The floor above the basement is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+
+#### Phase 2: Heating System Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+4. **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+#### Phase 3: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+5. **Replace Ventilation System:** Upgrade from the natural ventilation system to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+6. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **3** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **4** | **PV Panels** | Provides renewable energy to offset the heat pump's electricity consumption. |
+
+This plan ensures a cost-effective and practical approach to improving the energy efficiency of your home while maximizing long-term operational performance.

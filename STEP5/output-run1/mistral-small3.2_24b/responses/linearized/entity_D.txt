@@ -1,0 +1,53 @@
+### Renovation Plan for Semi-Detached Building (2017)
+
+#### **Current State Analysis**
+- **Building Type:** Semi-detached (2017)
+- **EPC Score:** 87 (A Label)
+- **Key Issues:**
+  - `RoofMain` has moderate insulation.
+  - `RoofExtension` is well insulated.
+  - `Wall_Left` and `Wall_Rear` are well insulated.
+  - `Wall_Front` is well insulated.
+  - `FloorAboveBasement` is well insulated.
+  - `WindowsBedrooms` and `WindowsLivingArea` have double glazing.
+  - PV panels are already installed, but there is no potential for additional PV.
+
+#### **Renovation Strategy**
+Given the building's already high EPC score (87) and well-insulated envelope, the focus should shift toward optimizing existing systems and minor upgrades to further improve energy efficiency.
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Minor Insulation Upgrades**
+1. **Insulate Roof Main (Priority: Medium)**
+   - The `RoofMain` has moderate insulation. Upgrading it to well-insulated status will further reduce heat loss.
+   - *Rationale:* Ensures a fully sealed thermal envelope.
+
+#### **Phase 2: Heating System Optimization**
+2. **Place Air-Water Heat Pump with Cooling (Priority: High)**
+   - Replace the existing heat pump with a more efficient **Air-Water Heat Pump with Cooling** to improve both heating and cooling efficiency.
+   - *Rationale:* Enhances overall system performance and reduces energy consumption.
+
+3. **Place Low-Temperature Emission System (Priority: High)**
+   - Transition the existing emission system to a **low-temperature emission system** to maximize the efficiency of the new heat pump.
+   - *Rationale:* Improves the Coefficient of Performance (COP) of the heat pump.
+
+#### **Phase 3: Ventilation System Upgrade**
+4. **Replace Ventilation System (Priority: Medium)**
+   - Upgrade the existing ventilation system (currently System D) to a more efficient model (e.g., System C or B).
+   - *Rationale:* Ensures optimal air quality and comfort in a well-sealed envelope.
+
+#### **Phase 4: Maintenance & Minor Adjustments**
+5. **Inspect and Maintain PV Panels (Priority: Low)**
+   - Ensure the existing PV panels are clean and functioning optimally.
+   - *Rationale:* Maintains the building’s renewable energy generation capacity.
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Roof Main** | Further reduce heat loss through the roof. |
+| **2** | **Air-Water Heat Pump with Cooling** | Improve heating and cooling efficiency. |
+| **3** | **Low-Temperature Emission System** | Maximize heat pump efficiency. |
+| **4** | **Replace Ventilation System** | Ensure optimal air quality in a sealed envelope. |
+| **5** | **Maintain PV Panels** | Sustain renewable energy generation. |
+
+This plan ensures **cost-effective improvements** while **maximizing energy efficiency** in a building that already has a strong thermal envelope. The focus is on **optimizing existing systems** rather than major structural changes.

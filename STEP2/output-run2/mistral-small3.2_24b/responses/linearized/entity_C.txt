@@ -1,0 +1,94 @@
+Based on the provided RENO ontology, suggestion list, and entity information, here's a cost-effective and energy-efficient renovation plan for the building:
+
+### 1. **Immediate High-Impact Actions (Low Hanging Fruit)**
+   - **Replace Ventilation System (Ordering: 52)**
+     - **Reason**: Current system is type D (high energy consumption)
+     - **Action**: Replace with a more efficient system (e.g., type A or B)
+     - **Cost**: €3,500 (fixed price)
+     - **Benefit**: Reduces energy consumption significantly
+
+   - **Replace Emission System (Ordering: 70)**
+     - **Reason**: Current electric convector and floor heating are inefficient
+     - **Action**: Replace with a low-temperature emission system (e.g., radiators or underfloor heating)
+     - **Cost**: €10,000 (estimated)
+     - **Benefit**: Better temperature control and energy efficiency
+
+### 2. **Structural Improvements**
+   - **Insulate Gable Roof (Ordering: 28)**
+     - **Reason**: Current gable roof is moderately insulated
+     - **Action**: Upgrade to full insulation with vapour barrier
+     - **Cost**: €60/m²
+     - **Benefit**: Reduces heat loss through the roof
+
+   - **Insulate Flat Roof (Ordering: 25)**
+     - **Reason**: Flat roof is not insulated
+     - **Action**: Install inverted roof structure with insulation
+     - **Cost**: €50/m²
+     - **Benefit**: Improves thermal performance of the roof
+
+### 3. **Window and Glazing Upgrades**
+   - **Replace Windows (Ordering: 46)**
+     - **Reason**: Current windows have wooden frames (lower efficiency)
+     - **Action**: Replace with modern double-glazed windows
+     - **Cost**: €800 per window
+     - **Benefit**: Reduces heat loss and improves comfort
+
+   - **Replace Glazing (Ordering: 43)**
+     - **Reason**: Current glazing is double but may not be optimal
+     - **Action**: Upgrade to triple glazing if possible
+     - **Cost**: €200/m²
+     - **Benefit**: Further reduces heat loss
+
+### 4. **Heating System Upgrades**
+   - **Place Air-Water Heat Pump (Ordering: 67)**
+     - **Reason**: Current boiler is inefficient
+     - **Action**: Install an air-water heat pump
+     - **Cost**: €8,000 (fixed price) + €35/m²
+     - **Benefit**: Reduces energy consumption for heating
+
+   - **Place Heat Pump Boiler (Ordering: 76)**
+     - **Reason**: Current boiler is inefficient
+     - **Action**: Install a heat pump boiler
+     - **Cost**: €4,000 (fixed price)
+     - **Benefit**: More efficient water heating
+
+### 5. **Additional Recommendations**
+   - **Place Sun Shade (Ordering: 79)**
+     - **Reason**: Reduces solar gain in summer
+     - **Action**: Install external blinds or shades
+     - **Cost**: €750 (fixed price)
+     - **Benefit**: Reduces cooling needs
+
+   - **Place PV Panels on Roof (Ordering: 85)**
+     - **Reason**: Potential for solar energy generation
+     - **Action**: Install PV panels on the roof
+     - **Cost**: €275/m²
+     - **Benefit**: Generates renewable energy
+
+### **Optimal Sequence**
+1. **Replace Ventilation System**
+2. **Replace Emission System**
+3. **Insulate Gable Roof**
+4. **Insulate Flat Roof**
+5. **Replace Windows**
+6. **Replace Glazing**
+7. **Place Air-Water Heat Pump**
+8. **Place Heat Pump Boiler**
+9. **Place Sun Shade**
+10. **Place PV Panels on Roof**
+
+### **Total Estimated Cost**
+- **Low Estimate**: €30,000 (core renovations)
+- **High Estimate**: €50,000 (including all recommended upgrades)
+
+### **Expected Benefits**
+- **Energy Savings**: 30-50% reduction in energy consumption
+- **Comfort**: Improved thermal comfort and better temperature control
+- **Sustainability**: Lower carbon footprint and potential for renewable energy generation
+
+### **Next Steps**
+1. **Consult with a certified energy expert** to finalize the renovation plan.
+2. **Obtain permits** where necessary.
+3. **Schedule the renovations** in the optimal sequence to maximize benefits.
+
+This plan prioritizes high-impact, cost-effective upgrades that align with the building's current state and the owner's motivation to improve the EPC label.

@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "insulate floor above basement", "replace glazing", "place air-water heatpump", "place emission system on low temperature", "place PV-panels on roof"], "extra_actions": ["insulate attic floor", "insulate wall exterior"]}, "sequence": {"order_errors": []}}

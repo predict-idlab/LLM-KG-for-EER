@@ -1,0 +1,50 @@
+Based on the information provided, here’s a concise and cost-effective renovation plan to improve the energy efficiency of your 1832 attached house in Ghent, Belgium:
+
+### 1. **Insulation of Exterior Walls**
+   - **Action:** Insulate the solid brick walls at the front and rear of the house.
+   - **Priority:** High. These walls are currently uninsulated and represent a significant source of heat loss.
+   - **Method:** Consider internal or external wall insulation (EWI). External wall insulation may be more disruptive but can also improve the aesthetic of the building.
+   - **Note:** Ensure the insulation material is breathable to avoid moisture issues, given the age of the building.
+
+### 2. **Insulation of the Flat-Roof Extension**
+   - **Action:** Insulate the uninsulated flat-roof extension.
+   - **Priority:** High. Roof insulation is critical for reducing heat loss, especially if the roof is in good condition.
+   - **Method:** Use high-performance insulation materials like rigid foam boards or mineral wool.
+
+### 3. **Insulation of the Floor Above the Basement**
+   - **Action:** Insulate the uninsulated floor above the basement.
+   - **Priority:** Medium. This can help reduce heat loss through the floor, especially if the basement is unheated.
+   - **Method:** Use floor insulation boards or underfloor insulation if accessible.
+
+### 4. **Upgrade Heating System**
+   - **Action:** Replace the old boiler and radiator system with a more efficient system.
+   - **Priority:** High. An inefficient heating system can significantly impact energy consumption.
+   - **Options:**
+     - Consider a condensing boiler for better efficiency.
+     - Explore the possibility of a heat pump, though this may require additional assessment of the building’s heat demand and existing infrastructure.
+   - **Note:** Ensure the new system is compatible with potential future upgrades like underfloor heating.
+
+### 5. **Improve Natural Ventilation**
+   - **Action:** Upgrade the basic natural ventilation system.
+   - **Priority:** Medium. Proper ventilation is essential for maintaining indoor air quality and preventing moisture issues.
+   - **Options:**
+     - Install mechanical ventilation with heat recovery (MVHR) to improve energy efficiency.
+     - Ensure vents are properly sized and located to promote effective airflow.
+
+### 6. **Install Photovoltaic (PV) Panels**
+   - **Action:** Assess the feasibility of installing PV panels.
+   - **Priority:** Medium. Given the potential for PV installation, this can help reduce electricity costs and improve the overall energy performance of the house.
+   - **Note:** Check local regulations and incentives for PV installation.
+
+### 7. **Additional Considerations**
+   - **Windows:** The existing double-glazed windows are in good condition, so no immediate action is needed. However, if future upgrades are considered, ensure any new windows meet high energy efficiency standards.
+   - **Historical Context:** Since the house is not historically protected, you have more flexibility in making structural changes. However, always consult with local authorities if you plan significant exterior modifications.
+
+### Optimal Sequence:
+1. **Insulate the exterior walls** to address the largest source of heat loss.
+2. **Insulate the flat roof extension** and **floor above the basement** to further reduce heat loss.
+3. **Upgrade the heating system** to ensure efficient heat distribution.
+4. **Improve ventilation** to maintain indoor air quality and prevent moisture issues.
+5. **Install PV panels** to generate renewable energy and reduce electricity costs.
+
+This plan prioritizes actions that will have the most significant impact on reducing energy consumption and improving the overall energy performance of your home.

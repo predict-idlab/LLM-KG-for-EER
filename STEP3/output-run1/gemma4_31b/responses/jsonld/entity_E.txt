@@ -1,0 +1,50 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century detached building, the renovation should follow the **"Fabric First"** principle: first reducing energy demand by improving the thermal envelope, then upgrading the heating systems, and finally integrating renewable energy.
+
+### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+The building currently has significant heat loss through the walls, windows, and floor. Addressing these first ensures that any future heating system is downsized and operates more efficiently.
+
+1.  **Insulate Wall Cavities:** 
+    *   **Action:** Inject insulation into the four cavity walls (Front, Left, Rear, Right).
+    *   **Reasoning:** All walls are currently "Not Insulated." Cavity wall insulation is one of the most cost-effective upgrades ($\sim 22$ €/m²) with a high return on investment. Since there is no historical protection, this is the fastest way to lower the EPC score.
+2.  **Replace Window Glazing:** 
+    *   **Action:** Upgrade "Single Glazing" to double or triple glazing.
+    *   **Reasoning:** Single glazing is a major source of thermal bridging. Because the wooden frames are in "Good State" (Value: 8), replacing only the glass is significantly more cost-effective than replacing the entire window unit.
+3.  **Insulate Floor Above Basement:** 
+    *   **Action:** Install insulation in the floor above the crawl space.
+    *   **Reasoning:** This prevents heat loss to the ground and improves the thermal comfort of the living areas.
+
+### **Phase 2: Ventilation & Air Quality**
+Once the building envelope is sealed and insulated, the risk of condensation increases, and the existing Ventilation System A may be insufficient.
+
+4.  **Replace Ventilation System:**
+    *   **Action:** Upgrade to a more efficient system (e.g., System C or D).
+    *   **Reasoning:** Proper ventilation is required to maintain indoor air quality after the thermal upgrades in Phase 1.
+
+### **Phase 3: High-Efficiency Heating Transition**
+With the energy demand reduced, the heating system can now be transitioned from a traditional boiler to a sustainable alternative.
+
+5.  **Install an Air-Water Heat Pump:**
+    *   **Action:** Replace the current generation system (boiler) with an air-water heat pump.
+    *   **Reasoning:** The building has a "reason to change emission system" and lacks access to a heat grid or geothermal potential. An air-water heat pump is the most practical choice as it integrates with the existing radiators and floor heating.
+
+### **Phase 4: Renewable Energy Integration**
+The final step is to shift the building from an energy consumer to a prosumer.
+
+6.  **Install PV-Panels on Roof:**
+    *   **Action:** Place photovoltaic panels on the gable roof.
+    *   **Reasoning:** The building is confirmed to have PV potential. Generating electricity on-site will power the new heat pump and significantly lower operational costs and the final EPC score.
+
+---
+
+### **Summary of the Renovation Path**
+
+| Sequence | Intervention | Target Element | Cost Profile | Energy Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall Insulation** | Walls | Low | High |
+| **2** | **Replace Glazing** | Windows | Moderate | High |
+| **3** | **Floor Insulation** | Floor | Low | Moderate |
+| **4** | **Upgrade Ventilation** | Ventilation | Moderate | Moderate |
+| **5** | **Air-Water Heat Pump** | Boiler/Heating | High | Very High |
+| **6** | **PV-Panels** | Roof | Moderate | Very High |
+
+**Outcome:** This sequence prevents "over-investing" in a heating system that would be too large for a well-insulated house, ensuring the lowest possible long-term operational cost and the maximum improvement in the EPC label.

@@ -1,0 +1,69 @@
+### Renovation Plan:
+
+1. **Insulate the Gable Roof (RoofMain)**
+   - **Suggestion:** Insulate Gable Roof
+   - **Priority:** High (Order: 28)
+   - **Reason:** The gable roof (RoofMain) is moderately insulated but could benefit from better insulation to improve energy efficiency.
+   - **Action:** Install proper insulation on the gable roof to enhance thermal performance.
+   - **Note:** Pay extra attention when installing the roof underlayment to ensure it is completely air- and watertight. Also, consider installing a vapour barrier on the warm side of the insulation to prevent condensation issues.
+
+2. **Insulate the Attic Floor (FloorAboveBasement)**
+   - **Suggestion:** Insulate Attic Floor
+   - **Priority:** Medium (Order: 31)
+   - **Reason:** The floor above the basement (FloorAboveBasement) is not insulated, which can lead to significant heat loss.
+   - **Action:** Install appropriate insulation material on the attic floor to reduce heat loss and improve energy efficiency.
+   - **Note:** Ensure the insulation is walkable if needed, and install a vapour barrier on the warm side to prevent condensation problems.
+
+3. **Insulate the Rear Wall (Wall_Rear)**
+   - **Suggestion:** Insulate Wall on Exterior
+   - **Priority:** High (Order: 40)
+   - **Reason:** The rear wall (Wall_Rear) is not insulated and lacks historical protection, making it a good candidate for exterior insulation.
+   - **Action:** Apply exterior insulation to the rear wall to improve thermal performance.
+   - **Note:** Be aware that not every type of cladding will be possible, depending on the position of the building line and local council guidelines.
+
+4. **Insulate the Front Wall (Wall_Front)**
+   - **Suggestion:** Insulate Wall on Exterior
+   - **Priority:** High (Order: 40)
+   - **Reason:** The front wall (Wall_Front) is not insulated and lacks historical protection, making it a good candidate for exterior insulation.
+   - **Action:** Apply exterior insulation to the front wall to improve thermal performance.
+   - **Note:** Be aware that not every type of cladding will be possible, depending on the position of the building line and local council guidelines.
+
+5. **Insulate the Extension Roof (RoofExtension)**
+   - **Suggestion:** Insulate Flat Roof
+   - **Priority:** High (Order: 25)
+   - **Reason:** The extension roof (RoofExtension) is not insulated, which can lead to significant heat loss.
+   - **Action:** Install proper insulation on the flat roof to enhance thermal performance.
+   - **Note:** Opt for an inverted roof structure rather than a cold roof. Place the insulation on top of the roof covering and avoid insulating the flat roof on the inside.
+
+6. **Replace the Ventilation System**
+   - **Suggestion:** Replace Ventilation System
+   - **Priority:** Medium (Order: 52)
+   - **Reason:** The current ventilation system (VentilationSystem) is type A, which may not be the most efficient.
+   - **Action:** Upgrade to a more efficient ventilation system, such as type C, to improve indoor air quality and energy efficiency.
+   - **Note:** If you currently have a ventilation system type A or C, or are planning to install a natural supply system, ensure enough grilles are provided on your window frames so that adequate fresh air can flow into your home.
+
+7. **Consider Other Energy-Efficient Measures**
+   - **Suggestion:** Replace Windows
+   - **Priority:** High (Order: 46)
+   - **Reason:** The windows in the living area and bedrooms have wooden frames and double glazing, which may not be the most energy-efficient option.
+   - **Action:** Replace the windows with more energy-efficient models, such as those with triple glazing and better frame materials.
+   - **Note:** Ensure the new windows meet the necessary measurements and are in good condition to fit new glass.
+
+8. **Explore Renewable Energy Options**
+   - **Suggestion:** Place PV Panels on Roof
+   - **Priority:** Low (Order: 85)
+   - **Reason:** The building has potential for photovoltaic (PV) panels, as indicated by the presence of a suitable roof and the building's orientation.
+   - **Action:** Install PV panels on the roof to generate renewable energy and reduce reliance on non-renewable energy sources.
+   - **Note:** Check the 'Zonnekaart' to ensure your roof is properly oriented and captures enough sunlight. The yield is greatest if your panels face south (south-east to south-west) at an angle of 30° to 50°.
+
+By following this renovation plan, you can significantly improve the energy efficiency of your building, reduce energy consumption, and enhance the overall comfort and value of your property. The suggested actions are prioritized based on their potential impact and the current state of the building elements. Always consult with professionals and adhere to local regulations when planning and executing renovations.
+
+### Summary of Key Actions:
+1. Insulate the gable roof (RoofMain).
+2. Insulate the attic floor (FloorAboveBasement).
+3. Apply exterior insulation to the rear wall (Wall_Rear).
+4. Apply exterior insulation to the front wall (Wall_Front).
+5. Insulate the extension roof (RoofExtension).
+6. Upgrade the ventilation system (VentilationSystem).
+7. Replace the windows with more energy-efficient models.
+8. Install PV panels on the roof to generate renewable energy.

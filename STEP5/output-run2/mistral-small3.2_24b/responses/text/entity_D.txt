@@ -1,0 +1,33 @@
+Given the information provided, your house in Ghent, Belgium, built in 2017, already has a relatively good energy performance certificate (EPC) score of 87. The building envelope is well-insulated, the heating system is efficient (heat pump), and the windows are double-glazed and in good condition. Additionally, you already have photovoltaic (PV) panels installed, which helps offset electricity consumption.
+
+Since the house is already performing well, the renovation plan should focus on **further optimizing energy efficiency** while ensuring **cost-effectiveness**. Here’s a concise and actionable renovation plan:
+
+### Proposed Renovation Path
+
+#### Phase 1: Optimize Existing Insulation (Priority: Low)
+Since the building envelope (walls, roof, and floor) is already well-insulated, no major insulation upgrades are necessary. However, you could consider:
+1. **Top-Up Roof Insulation**: If the pitched roof has only a moderate level of insulation, adding extra insulation (e.g., increasing the thickness of the existing insulation) could further reduce heat loss. This is a relatively low-cost upgrade with long-term benefits.
+
+#### Phase 2: Improve Ventilation Efficiency (Priority: Medium)
+Your house already has a Ventilation System D, which is efficient. However, you could optimize it further:
+2. **Upgrade to a Heat Recovery Ventilation (HRV) System**: If your current ventilation system does not already include heat recovery, upgrading to an HRV system can significantly improve energy efficiency by recovering heat from exhaust air and transferring it to incoming fresh air. This reduces the heating load on the heat pump.
+
+#### Phase 3: Enhance Energy Generation (Priority: Medium)
+Since you already have PV panels, consider:
+3. **Expand PV Panel Capacity**: If there is additional roof space or suitable areas for more panels, expanding the PV system can generate more renewable electricity to power the heat pump and other appliances, further reducing your reliance on the grid.
+4. **Add a Battery Storage System**: If you don’t already have one, installing a battery storage system can store excess solar energy generated during the day for use at night or during peak demand times, maximizing self-consumption and reducing electricity costs.
+
+#### Phase 4: Smart Home Integration (Priority: Low)
+To further optimize energy use:
+5. **Install Smart Thermostats and Sensors**: Smart thermostats can learn your heating patterns and adjust the heat pump’s operation to maximize efficiency. Sensors can monitor air quality, humidity, and temperature, ensuring optimal ventilation and comfort.
+6. **Energy Monitoring System**: Installing an energy monitoring system can help you track electricity consumption in real-time, identify areas for further savings, and optimize the use of PV-generated electricity.
+
+### Summary of Optimal Sequence
+1. **Top-Up Roof Insulation** (if needed) $\rightarrow$
+2. **Upgrade to HRV System** (if current system lacks heat recovery) $\rightarrow$
+3. **Expand PV Panel Capacity** $\rightarrow$
+4. **Add Battery Storage System** $\rightarrow$
+5. **Install Smart Thermostats and Sensors** $\rightarrow$
+6. **Energy Monitoring System**.
+
+This plan focuses on **incremental improvements** that build on the already strong energy performance of your home while ensuring **cost-effectiveness** and **long-term operational efficiency**.

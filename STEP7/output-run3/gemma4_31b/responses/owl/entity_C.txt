@@ -1,0 +1,4 @@
+1. insulate gable roof
+2. place air-water heatpump
+3. place emission system on low temperature
+4. place heatpumpboiler

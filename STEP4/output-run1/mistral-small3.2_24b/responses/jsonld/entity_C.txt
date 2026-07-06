@@ -1,0 +1,45 @@
+### Renovation Plan
+
+**Building Information:**
+- **Type:** Attached building
+- **Construction Year:** 2023
+- **Current EPC Score:** 50
+- **Current Emission System:** Electric convector and floor heating
+- **Potential for PV Panels:** False
+- **Presence of Heat Grid:** False
+- **Net Floor Area:** 159 m²
+
+**Owner's Motivation:** To improve the EPC (Energy Performance Certificate) rating.
+
+**Renovation Plan:**
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Strengthening the Building Envelope (Priority: High)**
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+1. **Insulate Walls on Exterior:**
+   - Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Since they are not cavity walls, exterior insulation is the most effective method to eliminate thermal bridges.
+2. **Insulate Flat Roof:**
+   - The `RoofExtension` is currently not insulated. This is a priority as heat rises rapidly through flat sections.
+
+**Phase 2: Heating & Emission System Transition (Priority: Medium)**
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+3. **Place Air-Water Heat Pump:**
+   - Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+4. **Place Emission System on Low Temperature:**
+   - Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+**Phase 3: Sustainable Energy Generation (Priority: Long-term)**
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+5. **Place PV-Panels on Roof:**
+   - The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+**Summary of Optimal Sequence:**
+1. **Exterior Wall Insulation**
+2. **Flat Roof Insulation**
+3. **Air-Water Heat Pump**
+4. **Low-Temp Emission Upgrade**
+5. **PV Panels**
+
+This sequence ensures that the building is optimized for energy efficiency before upgrading the heating system, leading to long-term cost savings and a significantly improved EPC rating.

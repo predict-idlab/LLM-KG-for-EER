@@ -1,0 +1,2060 @@
+You are an expert in energy-efficient and cost-effective home renovations.
+Your task is to analyze the provided building-related information and propose a renovation path that maximizes **energy efficiency** while remaining **cost-effective**. 
+Focus on practical upgrades that reduce energy consumption and improve long-term operational performance. Take into account the most optimal sequence to maximize the benefits of each renovation step.
+
+### Description of the Input: 
+The RENO ontology, provided in Turtle format, is designed to comprehensively capture all relevant data for generating informed renovation suggestions. This is provided together with a building mapped to this ontology, also provided in Turtle format.
+Based on the concepts in the ontology, a suggestion list of possible renovation actions is also provided, which can be used to formulate the renovation plan.
+
+### RENO Ontology:
+@prefix beo: <https://pi.pauwel.be/voc/buildingelement#> .
+@prefix bot: <https://w3id.org/bot#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/spec/> .
+@prefix mat: <http://bimerr.iot.linkeddata.es/def/material-properties#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix process: <http://www.daml.org/services/owl-s/1.1/Process.owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix reno: <https://w3id.org/reno#> .
+@prefix s4bldg: <https://saref.etsi.org/saref4bldg/> .
+@prefix saref: <https://saref.etsi.org/core/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:abstract a owl:AnnotationProperty .
+
+dcterms:contributor a owl:AnnotationProperty .
+
+dcterms:creator a owl:AnnotationProperty .
+
+dcterms:license a owl:AnnotationProperty .
+
+dcterms:title a owl:AnnotationProperty .
+
+vann:preferredNamespacePrefix a owl:AnnotationProperty .
+
+vann:preferredNamespaceUri a owl:AnnotationProperty .
+
+reno: a owl:Ontology ;
+    dcterms:abstract "This ontology was developed as part of the RE-ENNOVATE project. It aims to capture concepts that are relevant when designing energy renovation suggestions."@en ;
+    dcterms:creator "Emma Nuyts",
+        "Femke Ongenae",
+        "Mathias De Brouwer" ;
+    dcterms:license "https://creativecommons.org/licenses/by/4.0/" ;
+    dcterms:modified "2025-11-26"^^xsd:date ;
+    dcterms:title "Renovation and ENergy Optimization (RENO)"@en ;
+    vann:preferredNamespacePrefix "reno" ;
+    vann:preferredNamespaceUri "https://w3id.org/reno#" ;
+    owl:imports <http://qudt.org/vocab/unit>,
+        <http://www.daml.org/services/owl-s/1.1/Process.owl>,
+        foaf:,
+        <https://bimerr.iot.linkeddata.es/def/material-properties/ontology.ttl>,
+        <https://pi.pauwel.be/voc/buildingelement>,
+        <https://saref.etsi.org/saref4bldg/v2.1.1/>,
+        <https://w3id.org/bot> ;
+    owl:versionInfo "1.2.0" .
+
+reno:AALabel a owl:Class ;
+    rdfs:label "A+ label"@en ;
+    rdfs:comment "The A+ label indicates energy performance certificates which have an energy score of less than 100 kWh/m²year."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( reno:EnergyPerformanceCertificate [ a owl:Restriction ;
+                        owl:onProperty reno:hasEnergyScore ;
+                        owl:someValuesFrom [ a rdfs:Datatype ;
+                                owl:onDatatype xsd:decimal ;
+                                owl:withRestrictions ( [ xsd:maxExclusive 0 ] ) ] ] ) ] .
+
+reno:ALabel a owl:Class ;
+    rdfs:label "A label"@en ;
+    rdfs:comment "The A label indicates energy performance certificates which have an energy score between 0 and 100 kWh/m²year."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( reno:EnergyPerformanceCertificate [ a owl:Restriction ;
+                        owl:onProperty reno:hasEnergyScore ;
+                        owl:someValuesFrom [ a rdfs:Datatype ;
+                                owl:onDatatype xsd:decimal ;
+                                owl:withRestrictions ( [ xsd:minInclusive 0 ] [ xsd:maxExclusive 100 ] ) ] ] ) ] .
+
+reno:AirHeating a owl:Class ;
+    rdfs:label "air heating"@en ;
+    rdfs:comment "Air heating is a system that heats air directly and distributes it through ducts and vents to heat up spaces."@en ;
+    rdfs:subClassOf s4bldg:SpaceHeater .
+
+reno:Aluminium a owl:Class ;
+    rdfs:label "aluminium"@en ;
+    rdfs:comment "Aluminium is a chemical element which has a density lower than that of other common metals, about one-third that of steel."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Aluminium"@en ;
+    rdfs:subClassOf reno:WindowFrameMaterial .
+
+reno:AsRoom a owl:Class ;
+    rdfs:label "as room"@en ;
+    rdfs:comment "When a space is used as a room (e.g. bedroom, bathroom...)."@en ;
+    rdfs:subClassOf reno:SpaceUsage .
+
+reno:AsbestosContaining a owl:Class ;
+    rdfs:label "asbestos containing"@en ;
+    rdfs:comment "An asbestos containing element is an element where at least one of the materials contains asbestos."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( mat:MaterialLayerSet [ a owl:Restriction ;
+                        owl:onProperty mat:hasMaterialLayer ;
+                        owl:someValuesFrom [ a owl:Restriction ;
+                                owl:onProperty mat:hasMaterial ;
+                                owl:someValuesFrom [ a owl:Restriction ;
+                                        owl:hasValue true ;
+                                        owl:onProperty reno:containsAsbestos ] ] ] ) ] .
+
+reno:AttachedBuilding a owl:Class ;
+    rdfs:label "attached building"@en ;
+    rdfs:comment "An attached building is a building that shares a wall with other houses on either side."@en ;
+    rdfs:subClassOf bot:Building ;
+    owl:disjointWith reno:DetachedBuilding,
+        reno:SemiDetachedBuilding .
+
+reno:AtticFloor a owl:Class ;
+    rdfs:label "attic floor"@en ;
+    rdfs:comment "An attic floor is the floor of the attic, the space above the top floor of a building, just below the gable roof."@en ;
+    rdfs:subClassOf beo:Slab-FLOOR .
+
+reno:AtticSpace a owl:Class ;
+    rdfs:label "attic space"@en ;
+    rdfs:comment "An attic is the top floor of a building, located directly under the gable roof."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Attic"@en ;
+    rdfs:subClassOf bot:Space .
+
+reno:BLabel a owl:Class ;
+    rdfs:label "B label"@en ;
+    rdfs:comment "The B label indicates energy performance certificates which have an energy score between 100 and 200 kWh/m²year."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( reno:EnergyPerformanceCertificate [ a owl:Restriction ;
+                        owl:onProperty reno:hasEnergyScore ;
+                        owl:someValuesFrom [ a rdfs:Datatype ;
+                                owl:onDatatype xsd:decimal ;
+                                owl:withRestrictions ( [ xsd:minInclusive 100 ] [ xsd:maxExclusive 200 ] ) ] ] ) ] .
+
+reno:Bathing a owl:Class ;
+    rdfs:label "bathing"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used for bathing."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:Biomass a owl:Class ;
+    rdfs:label "biomass"@en ;
+    rdfs:comment "Biomass is a term used in several contexts: in the context of ecology it means living organisms, and in the context of bioenergy it means matter from recently living (but now dead) organisms."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Biomass"@en ;
+    rdfs:subClassOf saref:EnergyCommodity .
+
+reno:CLabel a owl:Class ;
+    rdfs:label "C label"@en ;
+    rdfs:comment "The C label indicates energy performance certificates which have an energy score between 200 and 300 kWh/m²year."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( reno:EnergyPerformanceCertificate [ a owl:Restriction ;
+                        owl:onProperty reno:hasEnergyScore ;
+                        owl:someValuesFrom [ a rdfs:Datatype ;
+                                owl:onDatatype xsd:decimal ;
+                                owl:withRestrictions ( [ xsd:minInclusive 200 ] [ xsd:maxExclusive 300 ] ) ] ] ) ] .
+
+reno:Carlos a owl:Class ;
+    rdfs:label "Carlos"@en ;
+    rdfs:comment "Carlos is a persona that clusters a specific type of renovators, based on the conference paper http://hdl.handle.net/1854/LU-01HHY1FWVC9EDMAAYY0MT7R6M9."@en ;
+    rdfs:subClassOf reno:Persona .
+
+reno:CavityWall a owl:Class ;
+    rdfs:label "cavity wall"@en ;
+    rdfs:comment "A cavity wall is a type of wall that has an airspace between the outer face and the inner construction."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Cavity_wall"@en ;
+    rdfs:subClassOf beo:Wall .
+
+reno:Coal a owl:Class ;
+    rdfs:label "coal"@en ;
+    rdfs:comment "Charcoal is a lightweight black carbon residue produced by strongly heating wood (or other animal and plant materials) in minimal oxygen to remove all water and volatile constituents."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Charcoal"@en ;
+    rdfs:subClassOf saref:EnergyCommodity,
+        saref:NaturalResourceCommodity .
+
+reno:ColdWater a owl:Class ;
+    rdfs:label "cold water"@en ;
+    rdfs:comment "Water with a temperature below 49°C (120°F)."@en ;
+    rdfs:subClassOf reno:Water .
+
+reno:ConnectToHeatGrid a owl:Class ;
+    rdfs:label "connect to heatgrid"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 7000 ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "Check that your emission system corresponds to the supply and return temperatures of the heat grid."@en,
+        "Contact your municipality or grid operator for more information."@en ;
+    reno:ordering 55 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:Cooking a owl:Class ;
+    rdfs:label "cooking"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used for cooking."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:DLabel a owl:Class ;
+    rdfs:label "D label"@en ;
+    rdfs:comment "The D label indicates energy performance certificates which have an energy score between 300 and 400 kWh/m²year."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( reno:EnergyPerformanceCertificate [ a owl:Restriction ;
+                        owl:onProperty reno:hasEnergyScore ;
+                        owl:someValuesFrom [ a rdfs:Datatype ;
+                                owl:onDatatype xsd:decimal ;
+                                owl:withRestrictions ( [ xsd:minInclusive 300 ] [ xsd:maxExclusive 400 ] ) ] ] ) ] .
+
+reno:Daniel a owl:Class ;
+    rdfs:label "Daniel"@en ;
+    rdfs:comment "Daniel is a persona that clusters a specific type of renovators, based on the conference paper http://hdl.handle.net/1854/LU-01HHY1FWVC9EDMAAYY0MT7R6M9."@en ;
+    rdfs:subClassOf reno:Persona .
+
+reno:DoubleGlazing a owl:Class ;
+    rdfs:label "double glazing"@en ;
+    rdfs:comment "Double glazing consists of two glass window panes seperated by a space. It has a better insulating value than single glazing."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Insulated_glazing"@en ;
+    rdfs:subClassOf reno:WindowGlazingType .
+
+reno:ELabel a owl:Class ;
+    rdfs:label "E label"@en ;
+    rdfs:comment "The E label indicates energy performance certificates which have an energy score between 400 and 500 kWh/m²year."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( reno:EnergyPerformanceCertificate [ a owl:Restriction ;
+                        owl:onProperty reno:hasEnergyScore ;
+                        owl:someValuesFrom [ a rdfs:Datatype ;
+                                owl:onDatatype xsd:decimal ;
+                                owl:withRestrictions ( [ xsd:minInclusive 400 ] [ xsd:maxExclusive 500 ] ) ] ] ) ] .
+
+reno:East a owl:Class ;
+    rdfs:label "east"@en ;
+    rdfs:comment "One of the four cardinal directions, commonly denoted as E."@en ;
+    rdfs:subClassOf reno:Orientation .
+
+reno:ElectricBoiler a owl:Class ;
+    rdfs:label "electric boiler"@en ;
+    rdfs:comment "An electric boiler is a subtype of a boiler, that uses electricity."@en ;
+    rdfs:subClassOf s4bldg:Boiler .
+
+reno:ElectricConvector a owl:Class ;
+    rdfs:label "electric convector"@en ;
+    rdfs:comment "An electric convector is a heating device that uses electric resistance to warm air, which then circulates through natural convection."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Convection_heater"@en ;
+    rdfs:subClassOf s4bldg:SpaceHeater .
+
+reno:Electricity a owl:Class ;
+    rdfs:label "electricity"@en ;
+    rdfs:comment "Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Electricity"@en ;
+    rdfs:subClassOf saref:EnergyCommodity .
+
+reno:EnvironmentalConsideration a owl:Class ;
+    rdfs:label "environmental consideration"@en ;
+    rdfs:comment "When the owner wants to reduce their energy consumption due to environmental considerations."@en ;
+    rdfs:subClassOf reno:EnergyReductionMotivation .
+
+reno:FLabel a owl:Class ;
+    rdfs:label "F label"@en ;
+    rdfs:comment "The F label indicates energy performance certificates which have an energy score of more than 500 kWh/m²year."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( reno:EnergyPerformanceCertificate [ a owl:Restriction ;
+                        owl:onProperty reno:hasEnergyScore ;
+                        owl:someValuesFrom [ a rdfs:Datatype ;
+                                owl:onDatatype xsd:decimal ;
+                                owl:withRestrictions ( [ xsd:minInclusive 500 ] ) ] ] ) ] .
+
+reno:FillingPool a owl:Class ;
+    rdfs:label "filling pool"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used for filling the pool."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:FinancialConsideration a owl:Class ;
+    rdfs:label "financial consideration"@en ;
+    rdfs:comment "When the owner wants to reduce their energy consumption due to financial considerations."@en ;
+    rdfs:subClassOf reno:EnergyReductionMotivation .
+
+reno:FirePlace a owl:Class ;
+    rdfs:label "fireplace"@en ;
+    rdfs:comment "A fireplace is a structure designed to contain a fire. Fireplaces are used for the relaxing ambiance they create and for heating a room."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Fireplace"@en ;
+    rdfs:subClassOf s4bldg:SpaceHeater .
+
+reno:FloorAboveBasement a owl:Class ;
+    rdfs:label "floor above basement"@en ;
+    rdfs:comment "A floor above basement is the floor above the space below ground level."@en ;
+    rdfs:subClassOf beo:Slab-FLOOR .
+
+reno:FloorHeating a owl:Class ;
+    rdfs:label "floor heating"@en ;
+    rdfs:comment "Floor heating is a heating system that uses pipes embedded under the floor to evenly distribute heat across the floor surface."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Underfloor_heating"@en ;
+    rdfs:subClassOf s4bldg:SpaceHeater .
+
+reno:ForStorage a owl:Class ;
+    rdfs:label "for storage"@en ;
+    rdfs:comment "When a space is used solely to store things."@en ;
+    rdfs:subClassOf reno:SpaceUsage .
+
+reno:ForTechnicalInstallations a owl:Class ;
+    rdfs:label "for technical installations"@en ;
+    rdfs:comment "When a space is used to place technical installations."@en ;
+    rdfs:subClassOf reno:SpaceUsage .
+
+reno:FuelOil a owl:Class ;
+    rdfs:label "fuel oil"@en ;
+    rdfs:comment "Fuel oil is any of various fractions obtained from the distillation of petroleum (crude oil)."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Fuel_oil"@en ;
+    rdfs:subClassOf saref:EnergyCommodity .
+
+reno:FullBrickWall a owl:Class ;
+    rdfs:label "full brick wall"@en ;
+    rdfs:comment "A full brick wall is a wall that has the thickness of the length of the stone"@en ;
+    rdfs:subClassOf beo:Wall .
+
+reno:FullFloor a owl:Class ;
+    rdfs:label "full floor"@en ;
+    rdfs:comment "A full floor is a floor slab in contact with the ground over its entire surface"@en ;
+    rdfs:subClassOf beo:Slab-FLOOR .
+
+reno:Gas a owl:Class ;
+    rdfs:label "gas"@en ;
+    rdfs:comment "Natural gas is a fossil fuel that is formed when layers of organic matter are thermally decomposed under oxygen-free conditions, subjected to intense heat and pressure underground over millions of years. The energy that the decayed organisms originally obtained from the sun via photosynthesis is stored as chemical energy within the molecules. Natural gas can be burned for heating, cooking, and electricity generation."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Natural_gas"@en ;
+    rdfs:subClassOf saref:EnergyCommodity,
+        saref:NaturalResourceCommodity .
+
+reno:HeatGrid a owl:Class ;
+    rdfs:label "heat grid"@en ;
+    rdfs:comment "A heat grid functions as a large-scale central heating system. It brings heat from heat sources to heat consumers."@en ;
+    rdfs:subClassOf s4bldg:EnergyConversionDevice .
+
+reno:HeatPump a owl:Class ;
+    rdfs:label "heat pump"@en ;
+    rdfs:comment "A heat pump is a device that uses electricity to transfer heat from a colder place to a warmer place. Specifically, the heat pump transfers thermal energy using a heat pump and refrigeration cycle, cooling the cool space and warming the warm space."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Heat_pump"@en ;
+    rdfs:subClassOf s4bldg:EnergyConversionDevice .
+
+reno:HeatPumpBoiler a owl:Class ;
+    rdfs:label "heat pump boiler"@en ;
+    rdfs:comment "A heat pump boiler is a heat pump that heats domestic water with heat from the air."@en ;
+    rdfs:subClassOf s4bldg:Boiler .
+
+reno:HotWater a owl:Class ;
+    rdfs:label "hot water"@en ;
+    rdfs:comment "Water at a temperature greater than 49°C (120°F)."@en ;
+    rdfs:subClassOf reno:Water .
+
+reno:InsulateAtticFloor a owl:Class ;
+    rdfs:label "insulate attic floor"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "In many cases, a vapour barries is necessary when insulating the attic floor. Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation."@en,
+        "Not every type of insulation is walkable. Depending on your situation, walkable insulation may be preferred."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 60 ;
+    reno:ordering 31 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:InsulateFlatRoof a owl:Class ;
+    rdfs:label "insulate flat roof"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "high"@en ;
+    reno:hasPointOfAttention "Opt for an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering, do not insulate the flat roof on the inside."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 50 ;
+    reno:ordering 25 ;
+    reno:permitNeeded "only if thickness of total pack >26cm (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:InsulateFloorAboveBasement a owl:Class ;
+    rdfs:label "insulate floor above basement"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 30 ;
+    reno:ordering 49 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:InsulateGableRoof a owl:Class ;
+    rdfs:label "insulate gable roof"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation."@en,
+        "Pay extra attention when installing the roof underlayment so that it is completely air- and watertight."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 60 ;
+    reno:ordering 28 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:InsulateWallCavity a owl:Class ;
+    rdfs:label "insulate wall cavity"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "Have an inspection carried out by a contractor, who can determine whether the cavity wall is suitable for injecting insulation. Namely, it should be checked whether the cavity is wide enough, whether there is no contamination in the cavity, whether the cladding is vapour-permeable enough, etc."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 22 ;
+    reno:ordering 34 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:InsulateWallExterior a owl:Class ;
+    rdfs:label "insulate wall on exterior"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "high"@en ;
+    reno:hasPointOfAttention "Not every type of cladding will be possible, depending on the position of the building line and the council's guidelines."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 200 ;
+    reno:ordering 40 ;
+    reno:permitNeeded "only if thickness of total pack >26cm or the building line is overrun (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:InsulateWallInterior a owl:Class ;
+    rdfs:label "insulate wall on interior"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPointOfAttention "Insulating walls on the inside is a delicate job. Get assistance from an architect, contractor or craftsman for expert advice and proper execution of the works."@en,
+        "Sockets, pipes and radiators against the outer walls will have to be relocated."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 150 ;
+    reno:ordering 37 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:ModeratelyInsulated a owl:Class ;
+    rdfs:label "moderately insulated"@en ;
+    rdfs:comment "This indicates that the building element is moderately insulated."@en ;
+    rdfs:subClassOf reno:InsulationGrade .
+
+reno:MultiPhase a owl:Class ;
+    rdfs:label "multi-phase"@en ;
+    rdfs:comment "A multiphase connection is a type of electricity connection. This type may be required in a residential context when using appliances with high power demand."@en ;
+    rdfs:subClassOf reno:PowerConnection .
+
+reno:NoMotivation a owl:Class ;
+    rdfs:label "no motivation"@en ;
+    rdfs:comment "When the owner wants to renovate their property without any concrete motivation."@en ;
+    rdfs:subClassOf reno:RenovationMotivation .
+
+reno:Normal a owl:Class ;
+    rdfs:label "normal"@en ;
+    rdfs:comment "When the (desired) sound level of a room is normal."@en ;
+    rdfs:subClassOf reno:SoundLevel .
+
+reno:North a owl:Class ;
+    rdfs:label "north"@en ;
+    rdfs:comment "One of the four cardinal directions, commonly denoted as N."@en ;
+    rdfs:subClassOf reno:Orientation .
+
+reno:NotAsbestosContaining a owl:Class ;
+    rdfs:label "not asbestos containing"@en ;
+    rdfs:comment "An not asbestos containing element is an element where none of the materials contains asbestos."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( mat:MaterialLayerSet [ a owl:Restriction ;
+                        owl:onProperty mat:hasMaterialLayer ;
+                        owl:someValuesFrom [ a owl:Restriction ;
+                                owl:onProperty mat:hasMaterial ;
+                                owl:someValuesFrom [ a owl:Restriction ;
+                                        owl:hasValue false ;
+                                        owl:onProperty reno:containsAsbestos ] ] ] ) ] .
+
+reno:NotInUse a owl:Class ;
+    rdfs:label "not in use"@en ;
+    rdfs:comment "When a space is not in use."@en ;
+    rdfs:subClassOf reno:SpaceUsage .
+
+reno:NotInsulated a owl:Class ;
+    rdfs:label "not insulated"@en ;
+    rdfs:comment "This indicates that the building element is not insulated."@en ;
+    rdfs:subClassOf reno:InsulationGrade .
+
+reno:Oscar a owl:Class ;
+    rdfs:label "Oscar"@en ;
+    rdfs:comment "Oscar is a persona that clusters a specific type of renovators, based on the conference paper http://hdl.handle.net/1854/LU-01HHY1FWVC9EDMAAYY0MT7R6M9."@en ;
+    rdfs:subClassOf reno:Persona .
+
+reno:OtherMotivation a owl:Class ;
+    rdfs:label "other motivation"@en ;
+    rdfs:comment "When the owner wants to renovate their property without any concrete motivation."@en ;
+    rdfs:subClassOf reno:RenovationMotivation .
+
+reno:PVC a owl:Class ;
+    rdfs:label "PVC"@en ;
+    rdfs:comment "Polyvinyl chloride (PVC) is the world's third-most widely produced synthetic polymer of plastic."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Polyvinyl_chloride"@en ;
+    rdfs:subClassOf reno:WindowFrameMaterial .
+
+reno:PlaceAirAirHeatpump a owl:Class ;
+    rdfs:label "place air-air heatpump"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 2000 ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPriceUnit <http://qudt.org/schema/qudt/PER-M2> ;
+    reno:hasUnitPrice 35 ;
+    reno:ordering 58 ;
+    reno:permitNeeded "not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlaceAirWaterHeatpump a owl:Class ;
+    rdfs:label "place air-water heatpump"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 8000 ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPriceUnit <http://qudt.org/schema/qudt/PER-M2> ;
+    reno:hasUnitPrice 35 ;
+    reno:ordering 67 ;
+    reno:permitNeeded "not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlaceAirWaterHeatpumpWithCooling a owl:Class ;
+    rdfs:label "place air-water heatpump with cooling"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 9000 ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPriceUnit <http://qudt.org/schema/qudt/PER-M2> ;
+    reno:hasUnitPrice 35 ;
+    reno:ordering 73 ;
+    reno:permitNeeded "not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlaceAirconditioning a owl:Class ;
+    rdfs:label "place airconditioning"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 1000 ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:ordering 82 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:PlaceGeothermalHeatpumpHorizontal a owl:Class ;
+    rdfs:label "place horizontal geothermal heatpump"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 14000 ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPriceUnit <http://qudt.org/schema/qudt/PER-M2> ;
+    reno:hasUnitPrice 50 ;
+    reno:ordering 64 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlaceGeothermalHeatpumpVertical a owl:Class ;
+    rdfs:label "place vertical geothermal heatpump"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 15000 ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPriceUnit <http://qudt.org/schema/qudt/PER-M2> ;
+    reno:hasUnitPrice 50 ;
+    reno:ordering 61 ;
+    reno:permitNeeded "reporting or permit requirement depends on depth of drilling, soil characteristics and groundwater(Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlaceHeatPumpBoiler a owl:Class ;
+    rdfs:label "place heatpumpboiler"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 4000 ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:ordering 76 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlaceLowTemperatureEmission a owl:Class ;
+    rdfs:label "place emission system on low temperature"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 100 ;
+    reno:ordering 70 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:PlacePVPanelsInGarden a owl:Class ;
+    rdfs:label "place PV-panels in garden"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 275 ;
+    reno:ordering 88 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlacePVPanelsOnRoof a owl:Class ;
+    rdfs:label "place PV-panels on roof"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "Check on the 'Zonnekaart' whether your roof is properly oriented and captures enough sunlight. The yield is greatest if your panels face south (south-east to south-west) at an angle of 30° to 50°. The yield of solar panels decreases when shaded by buildings, chimneys or trees."@en,
+        "Since PV panels are attached to the roof structure, it is crucial to remove any asbestos present in the roof first. Installing solar panels on a building with an asbestos-containing roof covering or an asbestos-containing sub-roof is prohibited."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 275 ;
+    reno:ordering 85 ;
+    reno:permitNeeded "not necessary if the panels are in the same plane (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:PlaceRoofUnderlayment a owl:Class ;
+    rdfs:label "place roof underlayment"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "Pay extra attention when installing the roof underlayment so that it is completely air- and watertight."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 65 ;
+    reno:ordering 16 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:PlaceSunShade a owl:Class ;
+    rdfs:label "place sunshade"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 750 ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "Outdoor blinds are generally more efficient than indoor blinds."@en ;
+    reno:ordering 79 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:PlugAndPlayPanels a owl:Class ;
+    rdfs:label "place plug and play PV-panels"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 550 ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "At the creation of this tool, these panels are only in their infancy on the Belgian commercial market. So be sure to check current recommendations and regulations yourself."@en,
+        "Fix the panel securely so that it cannot come loose in violent squalls, for example. Also remember that you will need a weather- and water-resistant socket, or an extension cord intended for outdoor use."@en,
+        "In Flanders, a maximum of two solar panels may be installed per family. Furthermore, the inverter of a plug-and-play solar panel may not exceed 800W."@en,
+        "Not all devices on the (Belgian) market are homologated, always check Synergrid's official list before purchasing a panel."@en ;
+    reno:ordering 91 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:PriorState a owl:Class ;
+    rdfs:label "prior state"@en ;
+    rdfs:comment "The prior state denotes all states that a building element had before a renovation."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:unionOf ( [ a owl:Class ;
+                        owl:intersectionOf ( mat:MaterialLayerSet [ a owl:Restriction ;
+                                    owl:onProperty reno:changedInto ;
+                                    owl:someValuesFrom mat:MaterialLayerSet ] ) ] [ a owl:Class ;
+                        owl:intersectionOf ( reno:WindowFrame [ a owl:Restriction ;
+                                    owl:onProperty reno:changedInto ;
+                                    owl:someValuesFrom reno:WindowFrame ] ) ] [ a owl:Class ;
+                        owl:intersectionOf ( reno:WindowGlazing [ a owl:Restriction ;
+                                    owl:onProperty reno:changedInto ;
+                                    owl:someValuesFrom reno:WindowGlazing ] ) ] ) ] .
+
+reno:Quiet a owl:Class ;
+    rdfs:label "quiet"@en ;
+    rdfs:comment "When the (desired) sound level of a room is quiet."@en ;
+    rdfs:subClassOf reno:SoundLevel .
+
+reno:Radiator a owl:Class ;
+    rdfs:label "radiator"@en ;
+    rdfs:comment "A radiator is a heat exchange device that transfers heat from hot water to the surrounding air through both convection and radiation."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Radiator"@en ;
+    rdfs:subClassOf s4bldg:SpaceHeater .
+
+reno:RemoveAsbestosFlatRoof a owl:Class ;
+    rdfs:label "remove asbestos from flat roof"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPointOfAttention "You can remove bonded asbestos yourself, but take the correct precautions. To remove non-bonded asbestos, hire a licensed asbestos removal company."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 40 ;
+    reno:ordering 19 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:RemoveAsbestosGableRoof a owl:Class ;
+    rdfs:label "remove asbestos from gable roof"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "low"@en ;
+    reno:hasPointOfAttention "You can remove bonded asbestos yourself, but take the correct precautions. To remove non-bonded asbestos, hire a licensed asbestos removal company."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 45 ;
+    reno:ordering 22 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:RenovatedElement a owl:Class ;
+    rdfs:label "renovated element"@en ;
+    rdfs:comment "A renovated element is a building element which has undergone modifications during a renovation (intervention)."@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:intersectionOf ( beo:BuildingElement [ a owl:Class ;
+                        owl:unionOf ( [ a owl:Restriction ;
+                                    owl:minQualifiedCardinality "2"^^xsd:nonNegativeInteger ;
+                                    owl:onClass mat:MaterialLayerSet ;
+                                    owl:onProperty mat:hasMaterialLayerSet ] [ a owl:Restriction ;
+                                    owl:minQualifiedCardinality "2"^^xsd:nonNegativeInteger ;
+                                    owl:onClass reno:WindowFrame ;
+                                    owl:onProperty reno:hasFrame ] [ a owl:Restriction ;
+                                    owl:minQualifiedCardinality "2"^^xsd:nonNegativeInteger ;
+                                    owl:onClass reno:WindowGlazing ;
+                                    owl:onProperty reno:hasGlazing ] ) ] ) ] .
+
+reno:ReplaceFlatRoof a owl:Class ;
+    rdfs:label "replace flat roof"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "high"@en ;
+    reno:hasPointOfAttention "Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation."@en,
+        "Ideally, you should provide a roof edge of 15cm, and a minimum gradient of 2% to ensure correct drainage. We recommend opting for a warm roof setup."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 120 ;
+    reno:ordering 10 ;
+    reno:permitNeeded "reporting obligation (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:ReplaceGableRoof a owl:Class ;
+    rdfs:label "replace gable roof"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "high"@en ;
+    reno:hasPointOfAttention "A roof renovation is an opportunity for installing roof plane windows if you want to use the space under the pitched roof."@en,
+        "If your facades are not yet insulated, extend the roof overhangs now so that the external wall insulation can connect to the roof insulation. Also place the rainwater drains so that the external wall insulation can still be placed."@en,
+        "When renewing your roof, already take into account any ducts which may be needed for a ventilation system, solar water heater or solar panels."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 260 ;
+    reno:ordering 13 ;
+    reno:permitNeeded "only if roof framework is renewed (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:ReplaceGlazing a owl:Class ;
+    rdfs:label "replace glazing"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "high"@en ;
+    reno:hasPointOfAttention "Check that your window frames are still in good condition, as they need to be straight enough to fit new glass in, and also strong enough, as the new glass will presumably weigh more than the old glass."@en,
+        "Check that your window frames have the right thickness, which depends on the type of glazing you want to install in them."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 200 ;
+    reno:ordering 43 ;
+    reno:permitNeeded "not necessary (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:ReplaceVentilationSystem a owl:Class ;
+    rdfs:label "replace ventilation system"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasFixedPrice 3500 ;
+    reno:hasNuisanceLevel "moderate"@en ;
+    reno:hasPointOfAttention "A ventilation system D will have slightly more impact on your home, as it requires ductwork for both supply and return."@en,
+        "For a ventilation system C, you need grilles in your window frames."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 17 ;
+    reno:ordering 52 ;
+    reno:permitNeeded "not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)"@en ;
+    reno:requiresMultiPhase "maybe, depending on the system"@en .
+
+reno:ReplaceWindows a owl:Class ;
+    rdfs:label "replace windows"@en ;
+    rdfs:subClassOf reno:RenovationSuggestion ;
+    reno:hasNuisanceLevel "high"@en ;
+    reno:hasPointOfAttention "Do you currently have a ventilation system type A or C, or are you planning to install a natural supply system? If so, be sure to provide enough grilles on your window frames so that enough fresh air can flow into your home."@en ;
+    reno:hasPriceUnit <http://qudt.org/vocab/unit/PER-M2> ;
+    reno:hasUnitPrice 800 ;
+    reno:ordering 46 ;
+    reno:permitNeeded "not necessary if the measurements are kept (Flanders)"@en ;
+    reno:requiresMultiPhase "no"@en .
+
+reno:Showering a owl:Class ;
+    rdfs:label "showering"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used for showering."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:SingleGlazing a owl:Class ;
+    rdfs:label "single glazing"@en ;
+    rdfs:comment "Single-glazing consists of only one glass panel. This type of glazing has poor thermal and acoustic properties."@en ;
+    rdfs:subClassOf reno:WindowGlazingType .
+
+reno:SinglePhase a owl:Class ;
+    rdfs:label "single-phase"@en ;
+    rdfs:comment "A single-phase connection is a type of electricity connection. This provides enough electricity for domestic use."@en ;
+    rdfs:subClassOf reno:PowerConnection .
+
+reno:SolarBoiler a owl:Class ;
+    rdfs:label "solar boiler"@en ;
+    rdfs:comment "A solar water heater heats up water with energy obtained from the sun."@en ;
+    rdfs:subClassOf s4bldg:Boiler .
+
+reno:South a owl:Class ;
+    rdfs:label "south"@en ;
+    rdfs:comment "One of the four cardinal directions, commonly denoted as S."@en ;
+    rdfs:subClassOf reno:Orientation .
+
+reno:SpaceCooling a owl:Class ;
+    rdfs:label "space cooling"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used for space cooling."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:SpaceHeating a owl:Class ;
+    rdfs:label "space heating"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used for space heating."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:Steel a owl:Class ;
+    rdfs:label "steel"@en ;
+    rdfs:comment "Steel is an alloy of iron and carbon with improved strength and fracture resistance compared to other forms of iron. Because of its high tensile strength and low cost, steel is one of the most commonly manufactured materials in the world."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Steel"@en ;
+    rdfs:subClassOf reno:WindowFrameMaterial .
+
+reno:Stove a owl:Class ;
+    rdfs:label "stove"@en ;
+    rdfs:comment "A stove is a heating device in which heat is generated by burning fuel."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Stove"@en ;
+    rdfs:subClassOf s4bldg:SpaceHeater .
+
+reno:TakingASauna a owl:Class ;
+    rdfs:label "taking a sauna"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used to take a sauna."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:ToImproveEPC a owl:Class ;
+    rdfs:label "to improve EPC"@en ;
+    rdfs:comment "When the owner wants to renovate their property to improve the EPC-value of the dwelling."@en ;
+    rdfs:subClassOf reno:EnergyReductionMotivation,
+        reno:RenovationMotivation .
+
+reno:ToImproveSustainability a owl:Class ;
+    rdfs:label "to improve sustainability"@en ;
+    rdfs:comment "When the owner wants to renovate their property to improve the sustainability of the dwelling."@en ;
+    rdfs:subClassOf reno:RenovationMotivation .
+
+reno:ToIncreaseMarketValue a owl:Class ;
+    rdfs:label "to increase market value"@en ;
+    rdfs:comment "When the owner wants to renovate their property to increase the market value of the dwelling."@en ;
+    rdfs:subClassOf reno:RenovationMotivation .
+
+reno:ToIncreaseThermalComfort a owl:Class ;
+    rdfs:label "to increase thermal comfort"@en ;
+    rdfs:comment "When the owner wants to renovate their property to increase the thermal comfort in the dwelling."@en ;
+    rdfs:subClassOf reno:RenovationMotivation .
+
+reno:ToLowerEnergyConsumption a owl:Class ;
+    rdfs:label "to lower energy consumption"@en ;
+    rdfs:comment "When the owner wants to renovate their property to lower the energy consumption of the dwelling."@en ;
+    rdfs:subClassOf reno:RenovationMotivation .
+
+reno:ToLowerEnergyCost a owl:Class ;
+    rdfs:label "to lower energy cost"@en ;
+    rdfs:comment "When the owner wants to renovate their property to lower the energy cost of the dwelling."@en ;
+    rdfs:subClassOf reno:RenovationMotivation .
+
+reno:TripleGlazing a owl:Class ;
+    rdfs:label "triple glazing"@en ;
+    rdfs:comment "Triple glazing consists of three glass window panes seperated by spaces. It has a better insulating value than double glazing."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Insulated_glazing"@en ;
+    rdfs:subClassOf reno:WindowGlazingType .
+
+reno:UnknownInsulationGrade a owl:Class ;
+    rdfs:label "unknown insulation grade"@en ;
+    rdfs:comment "This indicates that it is not known whether the building element is insulated."@en ;
+    rdfs:subClassOf reno:InsulationGrade .
+
+reno:VentilationSystemA a owl:Class ;
+    rdfs:label "ventilation system A"@en ;
+    rdfs:comment "Ventilation system A works on the basis of natural air supply and air exhaust."@en ;
+    rdfs:subClassOf reno:VentilationSystem .
+
+reno:VentilationSystemB a owl:Class ;
+    rdfs:label "ventilation system B"@en ;
+    rdfs:comment "Ventilation system A works on the basis of mechanical air supply and natural air exhaust."@en ;
+    rdfs:subClassOf reno:VentilationSystem .
+
+reno:VentilationSystemC a owl:Class ;
+    rdfs:label "ventilation system C"@en ;
+    rdfs:comment "Ventilation system A works on the basis of natural air supply and mechanical air exhaust."@en ;
+    rdfs:subClassOf reno:VentilationSystem .
+
+reno:VentilationSystemD a owl:Class ;
+    rdfs:label "ventilation system D"@en ;
+    rdfs:comment "Ventilation system A works on the basis of mechanical air supply and air exhaust."@en ;
+    rdfs:subClassOf reno:VentilationSystem .
+
+reno:VeryQuiet a owl:Class ;
+    rdfs:label "very quiet"@en ;
+    rdfs:comment "When the (desired) sound level of a room is very quiet."@en ;
+    rdfs:subClassOf reno:SoundLevel .
+
+reno:WaterHeating a owl:Class ;
+    rdfs:label "water heating"@en ;
+    rdfs:comment "When something (e.g. a device or commodity) is used for water heating."@en ;
+    rdfs:subClassOf saref:Task .
+
+reno:WellInsulated a owl:Class ;
+    rdfs:label "well insulated"@en ;
+    rdfs:comment "This indicates that the building element is well insulated."@en ;
+    rdfs:subClassOf reno:InsulationGrade .
+
+reno:West a owl:Class ;
+    rdfs:label "west"@en ;
+    rdfs:comment "One of the four cardinal directions, commonly denoted as W."@en ;
+    rdfs:subClassOf reno:Orientation .
+
+reno:Wood a owl:Class ;
+    rdfs:label "wood"@en ;
+    rdfs:comment "Wood is a structural tissue or material found in the stems and roots of trees and other woody plants."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Wood"@en ;
+    rdfs:subClassOf saref:EnergyCommodity,
+        saref:NaturalResourceCommodity,
+        reno:WindowFrameMaterial .
+
+reno:clustering a owl:ObjectProperty ;
+    rdfs:label "clustering"@en ;
+    rdfs:comment "Links a person to their clustered persona."@en ;
+    rdfs:domain foaf:Person ;
+    rdfs:range reno:Persona .
+
+reno:commodityAccomplishes a owl:ObjectProperty ;
+    rdfs:label "commodity accomplishes"@en ;
+    rdfs:comment "The relationship between a commodity and the task it accomplishes."@en ;
+    rdfs:domain saref:Commodity ;
+    rdfs:range saref:Task ;
+    owl:propertyChainAxiom ( saref:isConsumedBy saref:accomplishes ) .
+
+reno:forRenovationIntervention a owl:ObjectProperty ;
+    rdfs:label "for renovation intervention"@en ;
+    rdfs:comment "Links a tender to the renovation intervention to which the tender is related."@en ;
+    rdfs:domain reno:Tender ;
+    rdfs:range reno:RenovationIntervention .
+
+reno:hadNegativeExperiencesWithPastRenovations a owl:DatatypeProperty ;
+    rdfs:label "had negative experiences with past renovations"@en ;
+    rdfs:comment "Denotes if a person had negative experiences with past renovations based on the Likert scale."@en ;
+    rdfs:domain foaf:Person ;
+    rdfs:range xsd:integer .
+
+reno:hasAmountOfStories a owl:DatatypeProperty ;
+    rdfs:label "has amount of stories"@en ;
+    rdfs:comment "Denotes how many stories a building has."@en ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:integer .
+
+reno:hasConstructionYear a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has construction year"@en ;
+    rdfs:comment "Links a building to the year it was constructed."@en ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:gYear .
+
+reno:hasDesiredSoundLevel a owl:ObjectProperty ;
+    rdfs:label "has desired sound level"@en ;
+    rdfs:comment "The relationship between a space and its desired sound level."@en ;
+    rdfs:domain bot:Space ;
+    rdfs:range reno:SoundLevel .
+
+reno:hasFixedPrice a owl:AnnotationProperty ;
+    rdfs:label "has fixed price"@en ;
+    rdfs:comment "Indicates the fixed price for the renovation suggestion. This often is an installation cost, which is increased per sqm of e.g. used floor area."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range <http://qudt.org/schema/qudt/Unit> .
+
+reno:hasFootprintArea a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has net footprint area"@en ;
+    rdfs:comment "Links a building to their footprint area."@en ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:decimal .
+
+reno:hasGlazingPercentage a owl:DatatypeProperty ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:decimal .
+
+reno:hasHeatIssue a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has heat issue"@en ;
+    rdfs:comment "Indicates whether or not the space has a heat issue."@en ;
+    rdfs:domain bot:Space ;
+    rdfs:range xsd:boolean .
+
+reno:hasHeatingPeriod a owl:ObjectProperty ;
+    rdfs:label "has heating period"@en ;
+    rdfs:comment "The relationship between a space and its heating period."@en ;
+    rdfs:domain bot:Space ;
+    rdfs:range reno:HeatingPeriod ;
+    owl:inverseOf reno:isHeatingPeriodOf .
+
+reno:hasHighConsumption a owl:DatatypeProperty ;
+    rdfs:label "has high consumption"@en ;
+    rdfs:comment "Denotes whether a building has a high consumption."@en ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:boolean .
+
+reno:hasHistoricalProtection a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has historical protection"@en ;
+    rdfs:comment "Indates whether a building element is historically protected or not."@en ;
+    rdfs:domain beo:BuildingElement ;
+    rdfs:range xsd:boolean ;
+    rdfs:subPropertyOf reno:hasProtection .
+
+reno:hasInsulationGrade a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "has insulation grade"@en ;
+    rdfs:comment "The relationship between a building element and its grade of insulation."@en ;
+    rdfs:domain beo:BuildingElement ;
+    rdfs:range reno:InsulationGrade ;
+    owl:inverseOf reno:isInsulationGradeOf .
+
+reno:hasMotivation a owl:ObjectProperty ;
+    rdfs:label "has motivation"@en ;
+    rdfs:comment "The relationship between a person and their motivation."@en ;
+    rdfs:domain foaf:Person ;
+    rdfs:range reno:Motivation ;
+    owl:inverseOf reno:isMotivationOf .
+
+reno:hasNetFloorArea a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has net floor area"@en ;
+    rdfs:comment "Links a zone to their net floor area."@en ;
+    rdfs:domain bot:Zone ;
+    rdfs:range xsd:decimal .
+
+reno:hasNuisanceLevel a owl:AnnotationProperty ;
+    rdfs:label "has nuisance level"@en ;
+    rdfs:comment "Indicates the nuisance level of a renovation suggestion."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range rdfs:Literal .
+
+reno:hasOrientation a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "orientation"@en ;
+    rdfs:comment "The relationship between a space and the orientation it faces."@en ;
+    rdfs:domain bot:Space ;
+    rdfs:range reno:Orientation .
+
+reno:hasPlannedSpaceUsage a owl:ObjectProperty ;
+    rdfs:label "has planned space usage"@en ;
+    rdfs:comment "The relationship between a space and its planned type of usage."@en ;
+    rdfs:domain bot:Space ;
+    rdfs:range reno:SpaceUsage .
+
+reno:hasPointOfAttention a owl:AnnotationProperty ;
+    rdfs:label "has point of attention"@en ;
+    rdfs:comment "The relationship between a renovation suggestion and its point(s) of attention."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range rdfs:Literal .
+
+reno:hasPotentialForPV a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has potential for PV"@en ;
+    rdfs:comment "Indicates whether or not a zone has potential to install PV-panels."@en ;
+    rdfs:domain bot:Zone ;
+    rdfs:range xsd:boolean .
+
+reno:hasPowerConnection a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "has power connection"@en ;
+    rdfs:comment "The relationship between a zone and its power connection."@en ;
+    rdfs:domain bot:Zone ;
+    rdfs:range reno:PowerConnection .
+
+reno:hasPriceUnit a owl:AnnotationProperty ;
+    rdfs:label "has price unit"@en ;
+    rdfs:comment "Indicates the price unit for the renovation suggestion. This can be per piece or per sqm, depending on the type of renovation."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range <http://qudt.org/schema/qudt/Unit> .
+
+reno:hasReasonToChangeEmissionSystem a owl:DatatypeProperty ;
+    rdfs:label "has reason to change emission system"@en ;
+    rdfs:comment "Denotes whether there are reasons to change the emission system of the building."@en ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:boolean .
+
+reno:hasRenovation a owl:ObjectProperty ;
+    rdfs:label "has renovation"@en ;
+    rdfs:comment "The relationship between a zone and its renovations. The renovations can be in the past, ongoing, or in the future."@en ;
+    rdfs:domain bot:Zone ;
+    rdfs:range reno:Renovation ;
+    owl:propertyChainAxiom ( bot:hasElement mat:hasMaterialLayerSet reno:changedDuring reno:isRenovationInterventionOf ) .
+
+reno:hasRoofUnderlayment a owl:DatatypeProperty ;
+    rdfs:label "has roof underlayment"@en ;
+    rdfs:comment "Denotes whether a gable roof has a roof underlayment."@en ;
+    rdfs:domain beo:Roof-GABLE_ROOF ;
+    rdfs:range xsd:boolean .
+
+reno:hasRoomsWithHeatIssue a owl:DatatypeProperty ;
+    rdfs:label "has rooms with heat issue"@en ;
+    rdfs:comment "Indicates the amount of rooms within the building have a heat issue."@en ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:integer .
+
+reno:hasSigned a owl:ObjectProperty ;
+    rdfs:label "has signed"@en ;
+    rdfs:comment "The relationship between a person and the tender they signed."@en ;
+    rdfs:domain foaf:Person ;
+    rdfs:range reno:Tender ;
+    owl:inverseOf reno:isSignedBy .
+
+reno:hasSpaceUsage a owl:ObjectProperty ;
+    rdfs:label "has space usage"@en ;
+    rdfs:comment "The relationship between a space and its type of usage."@en ;
+    rdfs:domain bot:Space ;
+    rdfs:range reno:SpaceUsage .
+
+reno:hasState a owl:ObjectProperty ;
+    rdfs:label "has state"@en ;
+    rdfs:comment "The relationship between an element and the state of that element."@en ;
+    rdfs:domain bot:Element ;
+    rdfs:range reno:State ;
+    owl:inverseOf reno:isStateOf .
+
+reno:hasSurfaceArea a owl:DatatypeProperty ;
+    rdfs:label "has surface area"@en ;
+    rdfs:comment "Links a building element to its corresponding surface area."@en ;
+    rdfs:domain beo:BuildingElement ;
+    rdfs:range xsd:decimal .
+
+reno:hasUValue a owl:DatatypeProperty ;
+    rdfs:label "has U-value"@en ;
+    rdfs:comment "The relationship between a building element and its U-value in W/m²K."@en ;
+    rdfs:domain beo:BuildingElement ;
+    rdfs:range xsd:decimal .
+
+reno:hasUnitPrice a owl:AnnotationProperty ;
+    rdfs:label "has unit price"@en ;
+    rdfs:comment "Indicates the unit price for the renovation suggestion. This can be per piece or per sqm, depending on the type of renovation."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range xsd:decimal .
+
+reno:hasWidth a owl:DatatypeProperty ;
+    rdfs:label "has width"@en ;
+    rdfs:comment "Denotes the width of a building element (e.g. of a wall)."@en ;
+    rdfs:domain beo:BuildingElement ;
+    rdfs:range xsd:decimal .
+
+reno:hasYearlyConsumption a owl:DatatypeProperty ;
+    rdfs:label "has yearly consumption"@en ;
+    rdfs:comment "Links a commodity to its yearly consumption."@en ;
+    rdfs:domain saref:Commodity ;
+    rdfs:range xsd:decimal .
+
+reno:hasYearlyCost a owl:DatatypeProperty ;
+    rdfs:label "has yearly cost"@en ;
+    rdfs:comment "Links a commodity to its yearly cost."@en ;
+    rdfs:domain saref:Commodity ;
+    rdfs:range xsd:decimal .
+
+reno:hasYearlyProduction a owl:DatatypeProperty ;
+    rdfs:label "has yearly production"@en ;
+    rdfs:comment "Links a solar device to its yearly production."@en ;
+    rdfs:domain s4bldg:SolarDevice ;
+    rdfs:range xsd:decimal .
+
+reno:inFavourOfPlugAndPlayPV a owl:DatatypeProperty ;
+    rdfs:label "in favour of plug and play PV"@en ;
+    rdfs:comment "Denotes whether an owner is in favour of plug and play PV-panels."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range xsd:boolean .
+
+reno:inProtectedArea a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "in protected area"@en ;
+    rdfs:comment "Indicates whether or not the site is located in a protected area or not."@en ;
+    rdfs:domain bot:Site ;
+    rdfs:range xsd:boolean .
+
+reno:isAfraidRenovationCausesDistraction a owl:DatatypeProperty ;
+    rdfs:label "is afraid renovation causes distraction"@en ;
+    rdfs:comment "Denotes if a person is afraid a renovation causes distraction based on the Likert scale."@en ;
+    rdfs:domain foaf:Person ;
+    rdfs:range xsd:integer .
+
+reno:isSureRenovationLeadsToMoreComfort a owl:DatatypeProperty ;
+    rdfs:label "is sure renovation leads to more comfort"@en ;
+    rdfs:comment "Denotes if a person is sure a renovation leads to more comfort based on the Likert scale."@en ;
+    rdfs:domain foaf:Person ;
+    rdfs:range xsd:integer .
+
+reno:isUnsureAboutSavingsOfRenovation a owl:DatatypeProperty ;
+    rdfs:label "is unsure about savings of renovation"@en ;
+    rdfs:comment "Denotes if a person is unsure about the savings of a renovation based on the Likert scale."@en ;
+    rdfs:domain foaf:Person ;
+    rdfs:range xsd:integer .
+
+reno:ordering a owl:AnnotationProperty ;
+    rdfs:label "ordering"@en ;
+    rdfs:comment "Indicates the ordering of the renovation suggestions, where a lower ordering should be executed first."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range xsd:integer .
+
+reno:permitNeeded a owl:AnnotationProperty ;
+    rdfs:label "permit needed"@en ;
+    rdfs:comment "Indicates whether or not a permit is required for the renovation suggestion."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range rdfs:Literal .
+
+reno:potentialForHorizontalGeothermalCaptation a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "potential for horizontal geothermal captation"@en ;
+    rdfs:comment "Indicates whether or not a site has potential to place a horizontal geothermal captation."@en ;
+    rdfs:domain bot:Site ;
+    rdfs:range xsd:boolean .
+
+reno:potentialForVerticalGeothermalDrilling a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "potential for vertical geothermal drilling"@en ;
+    rdfs:comment "Indicates whether or not a site has potential to perform a vertical geothermal drilling."@en ;
+    rdfs:domain bot:Site ;
+    rdfs:range xsd:boolean .
+
+reno:presenceOfHeatGrid a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "presence of heat grid"@en ;
+    rdfs:comment "Indicates whether or not there is a heat grid available near the building."@en ;
+    rdfs:domain bot:Building ;
+    rdfs:range xsd:boolean .
+
+reno:recommendation a owl:ObjectProperty ;
+    rdfs:label "recommendation"@en ;
+    rdfs:comment "A recommendation is an advice or suggestion about what someone should do, often based on an assessment or research."@en ;
+    rdfs:range reno:RenovationSuggestion .
+
+reno:requiresMultiPhase a owl:AnnotationProperty ;
+    rdfs:label "requires multi-phase"@en ;
+    rdfs:comment "Indicates whether or not a renovation suggestion requires a multi-phase electricity connection."@en ;
+    rdfs:domain reno:RenovationSuggestion ;
+    rdfs:range rdfs:Literal .
+
+reno:wantsToExecute a owl:ObjectProperty ;
+    rdfs:label "wants to execute"@en ;
+    rdfs:comment "The relationship between a building owner and the (renovation) tasks they want to execute themselves."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range saref:Task .
+
+reno:DetachedBuilding a owl:Class ;
+    rdfs:label "detached building"@en ;
+    rdfs:comment "A detached building is a building that is not connected to any other house, on any side."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Single-family_detached_home"@en ;
+    rdfs:subClassOf bot:Building ;
+    owl:disjointWith reno:SemiDetachedBuilding .
+
+reno:changedDuring a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "changed during"@en ;
+    rdfs:comment "The relationship between a building component (material layer set, windowframe...) and the renovation intervention during which it changed."@en ;
+    rdfs:range reno:RenovationIntervention .
+
+reno:hasAffectedElement a owl:ObjectProperty ;
+    rdfs:label "has affected element"@en ;
+    rdfs:comment "The relationship between a tender and the (building) elements it affects."@en ;
+    rdfs:domain reno:Tender ;
+    rdfs:range bot:Element ;
+    owl:inverseOf reno:isAffectedBy .
+
+reno:hasCertificateNumber a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has certificate number"@en ;
+    rdfs:comment "Links the energy performance certificate to the corresponding certificate number."@en ;
+    rdfs:domain reno:EnergyPerformanceCertificate ;
+    rdfs:range xsd:string .
+
+reno:hasCity a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has city"@en ;
+    rdfs:comment "Links an address to the corresponding city."@en ;
+    rdfs:domain reno:Address ;
+    rdfs:range xsd:string .
+
+reno:hasCountry a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has country"@en ;
+    rdfs:comment "Links an address to the corresponding country."@en ;
+    rdfs:domain reno:Address ;
+    rdfs:range xsd:string .
+
+reno:hasCreationDate a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has creation date"@en ;
+    rdfs:comment "Links the energy performance certificate to the date it was created."@en ;
+    rdfs:domain reno:EnergyPerformanceCertificate ;
+    rdfs:range xsd:date .
+
+reno:hasCreator a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "has creator"@en ;
+    rdfs:comment "The relationship between a energy performance certificate and the energy expert who created it."@en ;
+    rdfs:domain reno:EnergyPerformanceCertificate ;
+    rdfs:range reno:EnergyExpert ;
+    owl:inverseOf reno:isCreatorOf .
+
+reno:hasDesiredEPCLabel a owl:DatatypeProperty ;
+    rdfs:label "has desired EPC label"@en ;
+    rdfs:comment "Links a person to the EPC label they desire for their property."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range [ a rdfs:Datatype ;
+            owl:oneOf [ a rdf:List ;
+                    rdf:first "A" ;
+                    rdf:rest [ a rdf:List ;
+                            rdf:first "A+" ;
+                            rdf:rest [ a rdf:List ;
+                                    rdf:first "B" ;
+                                    rdf:rest [ a rdf:List ;
+                                            rdf:first "C" ;
+                                            rdf:rest [ a rdf:List ;
+                                                    rdf:first "D" ;
+                                                    rdf:rest [ a rdf:List ;
+                                                            rdf:first "E" ;
+                                                            rdf:rest [ a rdf:List ;
+                                                                    rdf:first "F" ;
+                                                                    rdf:rest () ] ] ] ] ] ] ] ] .
+
+reno:hasEndDate a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has end date"@en ;
+    rdfs:comment "Links a renovation to its end date."@en ;
+    rdfs:domain reno:Renovation ;
+    rdfs:range xsd:date .
+
+reno:hasEndTime a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has end time"@en ;
+    rdfs:comment "Links a heating period to its end time."@en ;
+    rdfs:domain reno:HeatingPeriod ;
+    rdfs:range xsd:time .
+
+reno:hasEnergyPerformanceCertificate a owl:ObjectProperty ;
+    rdfs:label "has energy performance certificate"@en ;
+    rdfs:comment "The relationship between a zone and its energy performance certificate. A zone can aggregate the energy performance certificates of its subszones."@en ;
+    rdfs:domain bot:Zone ;
+    rdfs:range reno:EnergyPerformanceCertificate ;
+    owl:propertyChainAxiom ( bot:containsZone reno:hasEnergyPerformanceCertificate ) .
+
+reno:hasFrame a owl:ObjectProperty ;
+    rdfs:label "has frame"@en ;
+    rdfs:comment "The relationship between a window and its frame."@en ;
+    rdfs:domain beo:Window ;
+    rdfs:range reno:WindowFrame ;
+    owl:inverseOf reno:isFrameOf .
+
+reno:hasFrameMaterial a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "frame material"@en ;
+    rdfs:comment "The relationship between a window frame and the material it is made of."@en ;
+    rdfs:domain reno:WindowFrame ;
+    rdfs:range reno:WindowFrameMaterial .
+
+reno:hasFrameThickness a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has frame thickness"@en ;
+    rdfs:comment "Links the window frame to its thickness."@en ;
+    rdfs:domain reno:WindowFrame ;
+    rdfs:range xsd:decimal .
+
+reno:hasGlazing a owl:ObjectProperty ;
+    rdfs:label "has glazing"@en ;
+    rdfs:comment "The relationship between a window and its glazing."@en ;
+    rdfs:domain beo:Window ;
+    rdfs:range reno:WindowGlazing ;
+    owl:inverseOf reno:isGlazingOf .
+
+reno:hasGlazingType a owl:FunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "has glazing type"@en ;
+    rdfs:comment "The relationship between window glazing and its type."@en ;
+    rdfs:domain reno:WindowGlazing ;
+    rdfs:range reno:WindowGlazingType .
+
+reno:hasHouseNumber a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has house number"@en ;
+    rdfs:comment "Links an address to the corresponding house number."@en ;
+    rdfs:domain reno:Address ;
+    rdfs:range xsd:string .
+
+reno:hasNuisanceScore a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has nuisance score"@en ;
+    rdfs:comment "Links a building owner to the amount of nuisance they are willing to tolerate during the renovations, on a scale of 1 to 10."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range [ a rdfs:Datatype ;
+            owl:oneOf [ a rdf:List ;
+                    rdf:first 1 ;
+                    rdf:rest [ a rdf:List ;
+                            rdf:first 10 ;
+                            rdf:rest [ a rdf:List ;
+                                    rdf:first 2 ;
+                                    rdf:rest [ a rdf:List ;
+                                            rdf:first 3 ;
+                                            rdf:rest [ a rdf:List ;
+                                                    rdf:first 4 ;
+                                                    rdf:rest [ a rdf:List ;
+                                                            rdf:first 5 ;
+                                                            rdf:rest [ a rdf:List ;
+                                                                    rdf:first 6 ;
+                                                                    rdf:rest [ a rdf:List ;
+                                                                            rdf:first 7 ;
+                                                                            rdf:rest [ a rdf:List ;
+                                                                                    rdf:first 8 ;
+                                                                                    rdf:rest [ a rdf:List ;
+                                                                                            rdf:first 9 ;
+                                                                                            rdf:rest () ] ] ] ] ] ] ] ] ] ] ] .
+
+reno:hasOwner a owl:ObjectProperty ;
+    rdfs:label "has owner"@en ;
+    rdfs:comment "The relationship between a zone and the person that owns it."@en ;
+    rdfs:domain bot:Zone ;
+    rdfs:range reno:Owner ;
+    owl:inverseOf reno:isOwnerOf ;
+    owl:propertyChainAxiom ( bot:containsZone reno:hasOwner ) .
+
+reno:hasPostalCode a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has postal code"@en ;
+    rdfs:comment "Links an address to the corresponding postal code."@en ;
+    rdfs:domain reno:Address ;
+    rdfs:range xsd:string .
+
+reno:hasProtection a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has protection"@en ;
+    rdfs:comment "Indicates whether or not a building element is protected by something (e.g. historical protection) or someone (e.g. the owner)."@en ;
+    rdfs:domain beo:BuildingElement ;
+    rdfs:range xsd:boolean .
+
+reno:hasRenovationBudget a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has renovation budget"@en ;
+    rdfs:comment "Links a building owner to their renovation budget."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range xsd:decimal .
+
+reno:hasRenovationCost a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has renovation cost"@en ;
+    rdfs:comment "Links a renovation to its (estimated) cost."@en ;
+    rdfs:domain reno:Renovation ;
+    rdfs:range xsd:decimal .
+
+reno:hasRenovationIntervention a owl:ObjectProperty ;
+    rdfs:label "has renovation intervention"@en ;
+    rdfs:comment "The relationship between a renovation and the corresponding renovation intervention."@en ;
+    rdfs:domain reno:Renovation ;
+    rdfs:range reno:RenovationIntervention ;
+    owl:inverseOf reno:isRenovationInterventionOf .
+
+reno:hasResident a owl:ObjectProperty ;
+    rdfs:label "has resident"@en ;
+    rdfs:comment "The relationship between a person and the zone they reside in. A zone can aggregate the residents of its subszones."@en ;
+    rdfs:domain bot:Zone ;
+    rdfs:range reno:Resident ;
+    owl:inverseOf reno:isResidentOf ;
+    owl:propertyChainAxiom ( bot:containsZone reno:hasResident ) .
+
+reno:hasSignatureDate a owl:DatatypeProperty ;
+    rdfs:label "has signature date"@en ;
+    rdfs:comment "The relationship between a tender and the date it was accepted and/or signed."@en ;
+    rdfs:domain reno:Tender ;
+    rdfs:range xsd:date .
+
+reno:hasStartDate a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has start date"@en ;
+    rdfs:comment "Links a renovation to its start date. This date can also be in the future to identify a planned renovation."@en ;
+    rdfs:domain reno:Renovation ;
+    rdfs:range xsd:date .
+
+reno:hasStartTime a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has start time"@en ;
+    rdfs:comment "Links a heating period to its start time."@en ;
+    rdfs:domain reno:HeatingPeriod ;
+    rdfs:range xsd:time .
+
+reno:hasStateDate a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has state date"@en ;
+    rdfs:comment "Links a state to the date the state was observed."@en ;
+    rdfs:domain reno:State ;
+    rdfs:range xsd:date .
+
+reno:hasStateValue a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "hase state value"@en ;
+    rdfs:comment "Links a state to its corresponding value, on a scale of 1 to 10."@en ;
+    rdfs:domain reno:State ;
+    rdfs:range [ a rdfs:Datatype ;
+            owl:oneOf [ a rdf:List ;
+                    rdf:first 1 ;
+                    rdf:rest [ a rdf:List ;
+                            rdf:first 10 ;
+                            rdf:rest [ a rdf:List ;
+                                    rdf:first 2 ;
+                                    rdf:rest [ a rdf:List ;
+                                            rdf:first 3 ;
+                                            rdf:rest [ a rdf:List ;
+                                                    rdf:first 4 ;
+                                                    rdf:rest [ a rdf:List ;
+                                                            rdf:first 5 ;
+                                                            rdf:rest [ a rdf:List ;
+                                                                    rdf:first 6 ;
+                                                                    rdf:rest [ a rdf:List ;
+                                                                            rdf:first 7 ;
+                                                                            rdf:rest [ a rdf:List ;
+                                                                                    rdf:first 8 ;
+                                                                                    rdf:rest [ a rdf:List ;
+                                                                                            rdf:first 9 ;
+                                                                                            rdf:rest () ] ] ] ] ] ] ] ] ] ] ] .
+
+reno:hasStreet a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has street"@en ;
+    rdfs:comment "Links an address to the corresponding street."@en ;
+    rdfs:domain reno:Address ;
+    rdfs:range xsd:string .
+
+reno:hasTemperatureSetPoint a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has temperature setpoint"@en ;
+    rdfs:comment "Links a heating period to its temperature setpoint."@en ;
+    rdfs:domain reno:HeatingPeriod ;
+    rdfs:range xsd:decimal .
+
+reno:hasThermalBreak a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has thermal break"@en ;
+    rdfs:comment "Indicates whether a window frame has a thermal break or not."@en ;
+    rdfs:domain reno:WindowFrame ;
+    rdfs:range xsd:boolean .
+
+reno:inFavourOfPVInGarden a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "in favour of PV in garden"@en ;
+    rdfs:comment "Indicates whether or not a building owner is in favour of installing PV-panels in the garden."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range xsd:boolean .
+
+reno:isAddressOf a owl:ObjectProperty ;
+    rdfs:label "is address of"@en ;
+    rdfs:comment "The relationship between an address and the person who lives there."@en .
+
+reno:isAffectedBy a owl:ObjectProperty ;
+    rdfs:label "is affected by"@en ;
+    rdfs:comment "The relationship between a (building) element and a tender by which it is affected."@en .
+
+reno:isHeatingPeriodOf a owl:ObjectProperty ;
+    rdfs:label "is heating period of"@en ;
+    rdfs:comment "The relationship between a heating period and the space it belongs to."@en .
+
+reno:isInsulationGradeOf a owl:InverseFunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "is insulation grade of"@en ;
+    rdfs:comment "The relationship between a grade of insulation and the building element it belongs to."@en .
+
+reno:isMotivationOf a owl:ObjectProperty ;
+    rdfs:label "is motivation of"@en ;
+    rdfs:comment "The relationship between a motivation and the person it belongs to."@en .
+
+reno:isStateOf a owl:ObjectProperty ;
+    rdfs:label "is state of"@en ;
+    rdfs:comment "The relationship between a state and the element it corresponds to."@en .
+
+reno:isValidUntil a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "is valid until"@en ;
+    rdfs:comment "Links the energy performance certificate to the date until which it is valid."@en ;
+    rdfs:domain reno:EnergyPerformanceCertificate ;
+    rdfs:range xsd:date .
+
+reno:ownerSince a owl:DatatypeProperty ;
+    rdfs:label "owner since"@en ;
+    rdfs:comment "Links a person to the year in which they became owner of the building."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range xsd:gYear .
+
+reno:ownerUntil a owl:DatatypeProperty ;
+    rdfs:label "owner until"@en ;
+    rdfs:comment "Links a person to the year until which they owned the building"@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range xsd:gYear .
+
+reno:residentSince a owl:DatatypeProperty ;
+    rdfs:label "resident since"@en ;
+    rdfs:comment "Links a person to the year in which they started inhabiting the building."@en ;
+    rdfs:domain reno:Resident ;
+    rdfs:range xsd:gYear .
+
+reno:residentUntil a owl:DatatypeProperty ;
+    rdfs:label "resident until"@en ;
+    rdfs:comment "Links a person to the year until which they inhabited the building."@en ;
+    rdfs:domain reno:Resident ;
+    rdfs:range xsd:gYear .
+
+reno:satisfiedWithRevenuePV a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "satisfied with revenue PV"@en ;
+    rdfs:comment "Indicates whether or not a building owner is satisfied with the revenue of the installed PV-panels or not."@en ;
+    rdfs:domain reno:Owner ;
+    rdfs:range xsd:boolean .
+
+reno:EnergyExpert a owl:Class ;
+    rdfs:label "energy expert"@en ;
+    rdfs:comment "An energy expert is a person who is authorised to create an energy performance certificate"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:isCreatorOf ;
+            owl:someValuesFrom reno:EnergyPerformanceCertificate ],
+        foaf:Person .
+
+reno:SemiDetachedBuilding a owl:Class ;
+    rdfs:label "semi-detached building"@en ;
+    rdfs:comment "A semi-detached building is a building that shares a wall with another house on one side."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Semi-detached"@en ;
+    rdfs:subClassOf bot:Building .
+
+reno:Water a owl:Class ;
+    rdfs:label "water"@en ;
+    rdfs:comment "Water is an inorganic compound. It is a transparent, tasteless, odorless, and nearly colorless chemical substance."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Water"@en ;
+    rdfs:subClassOf saref:NaturalResourceCommodity .
+
+reno:containsAsbestos a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "contains asbestos"@en ;
+    rdfs:comment "Indicates whether or not a material contains asbestos."@en ;
+    rdfs:domain mat:Material ;
+    rdfs:range xsd:boolean .
+
+reno:hasAddress a owl:ObjectProperty ;
+    rdfs:label "has address"@en ;
+    rdfs:comment "The relationship between a person and the address they reside at."@en ;
+    rdfs:domain reno:Resident ;
+    rdfs:range reno:Address ;
+    owl:inverseOf reno:isAddressOf ;
+    owl:propertyChainAxiom ( reno:isResidentOf reno:hasAddress ) .
+
+reno:isCreatorOf a owl:InverseFunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "is creator of"@en ;
+    rdfs:comment "The relationship between an energy expert and the energy performance certificate they made."@en .
+
+reno:isFrameOf a owl:ObjectProperty ;
+    rdfs:label "is frame of"@en ;
+    rdfs:comment "The relationship between a frame and the window it belongs to."@en .
+
+reno:isGlazingOf a owl:ObjectProperty ;
+    rdfs:label "is glazing of"@en ;
+    rdfs:comment "The relationship between a glazing and the window it belongs to."@en .
+
+reno:isOwnerOf a owl:ObjectProperty ;
+    rdfs:label "is owner of"@en ;
+    rdfs:comment "The relationship between a person and the building they own."@en .
+
+reno:isSignedBy a owl:ObjectProperty ;
+    rdfs:label "is signed by"@en ;
+    rdfs:comment "The relationship between a tender and the person who signed it."@en .
+
+reno:EnergyReductionMotivation a owl:Class ;
+    rdfs:label "energy reduction motivation"@en ;
+    rdfs:comment "The energy reduction motivation of a person is the motivation why a person wants to reduce their energy consumption."@en ;
+    rdfs:subClassOf reno:Motivation .
+
+reno:Motivation a owl:Class ;
+    rdfs:label "motivation"@en ;
+    rdfs:comment "Motivation is an internal state that propels individuals to engage in goal-directed behavior."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Motivation"@en .
+
+reno:PowerConnection a owl:Class ;
+    rdfs:label "power connection"@en ;
+    rdfs:comment "A power connection connects the power grid to a meter box, providing power in the home."@en .
+
+reno:State a owl:Class ;
+    rdfs:label "state"@en ;
+    rdfs:comment "The state of something indicates the state with regard to its appearance, quality or efficiency."@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasStateDate ;
+            owl:someValuesFrom xsd:date ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasStateValue ;
+            owl:someValuesFrom xsd:integer ] .
+
+reno:changedInto a owl:ObjectProperty ;
+    rdfs:label "changed into"@en ;
+    rdfs:comment "The relationship between a building component (material layer set, windowframe...) and the building component it changed into."@en .
+
+reno:isRenovationInterventionOf a owl:ObjectProperty ;
+    rdfs:label "is renovation intervention of"@en ;
+    rdfs:comment "The relationship between a renovation intervention and the renovation it belongs to."@en .
+
+reno:isResidentOf a owl:ObjectProperty ;
+    rdfs:label "is resident of"@en ;
+    rdfs:comment "The relationship between a zone and the person that resides in it."@en .
+
+xsd:time a rdfs:Datatype .
+
+saref:NaturalResourceCommodity a owl:Class ;
+    rdfs:comment "The class of natural resource commodities"@en ;
+    rdfs:subClassOf saref:Commodity .
+
+reno:HeatingPeriod a owl:Class ;
+    rdfs:label "heating period"@en ;
+    rdfs:comment "The heating period of a room is the period during which a room is heated, at a certain temperature. The heating period can be succeeded by another heating period at a different temperature."@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasEndTime ;
+            owl:someValuesFrom xsd:time ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasStartTime ;
+            owl:someValuesFrom xsd:time ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasTemperatureSetPoint ;
+            owl:someValuesFrom xsd:decimal ] .
+
+reno:Persona a owl:Class ;
+    rdfs:label "persona"@en ;
+    rdfs:comment "A persona is a semi-fictional characterization or representation of a typical customer segment or end user."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Persona_(user_experience)"@en .
+
+reno:RenovationIntervention a owl:Class ;
+    rdfs:label "renovation intervention"@en ;
+    rdfs:comment "A renovation consists often of multiple renovation interventions. The division of interventions is considered per building element."@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:isRenovationInterventionOf ;
+            owl:someValuesFrom reno:Renovation ] .
+
+reno:Resident a owl:Class ;
+    rdfs:label "resident"@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Domicile_(law)"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasAddress ;
+            owl:someValuesFrom reno:Address ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:isResidentOf ;
+            owl:someValuesFrom bot:Building ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:residentSince ;
+            owl:someValuesFrom xsd:gYear ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:residentUntil ;
+            owl:someValuesFrom xsd:gYear ],
+        foaf:Person .
+
+reno:SoundLevel a owl:Class ;
+    rdfs:label "sound level"@en ;
+    rdfs:comment "The sound level of a room reflects what sound is allowed or occurs in this room. This is often related to the function of the room."@en .
+
+reno:Tender a owl:Class ;
+    rdfs:label "tender"@en ;
+    rdfs:comment "A tender is a formal offer to conclude a contract, made at the request of a company's potential customer."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Bidding"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasAffectedElement ;
+            owl:someValuesFrom bot:Element ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:isSignedBy ;
+            owl:someValuesFrom foaf:Person ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasSignatureDate ;
+            owl:someValuesFrom xsd:date ] .
+
+reno:VentilationSystem a owl:Class ;
+    rdfs:label "ventilation system"@en ;
+    rdfs:comment "Ventilation systems are used to introduce outdoor air into the air-conditioned space for the purposes of controlling the quality of indoor air and maintaining thermal comfort."@en ;
+    rdfs:subClassOf s4bldg:FlowMovingDevice .
+
+reno:InsulationGrade a owl:Class ;
+    rdfs:label "insulation grade"@en ;
+    rdfs:comment "The insulation grade of an element defines how well the element is insulated. The threshold can vary for each type of building element, and can change over time."@en .
+
+reno:Orientation a owl:Class ;
+    rdfs:label "orientation"@en ;
+    rdfs:comment "The four cardinal directions, or cardinal points, are the four main compass directions: north, south, east, and west."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Cardinal_direction"@en .
+
+reno:WindowGlazing a owl:Class ;
+    rdfs:label "window glazing"@en ;
+    rdfs:comment "The glazing is the (often transparent) part of a window contained within the window frame."@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasGlazingType ;
+            owl:someValuesFrom reno:WindowGlazingType ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:isGlazingOf ;
+            owl:someValuesFrom beo:Window ] .
+
+reno:WindowGlazingType a owl:Class ;
+    rdfs:label "window glazing type"@en ;
+    rdfs:comment "The type of glazing has a lot of influence on the thermal and acoustic performance of the window."@en .
+
+saref:EnergyCommodity a owl:Class ;
+    rdfs:comment "The class of energy commodities"@en ;
+    rdfs:subClassOf saref:Commodity .
+
+reno:Renovation a owl:Class ;
+    rdfs:label "renovation"@en ;
+    rdfs:comment "A renovation indicates the process of improving broken, damaged, or outdated structures. A renovation often consists of multiple renovation interventions."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Renovation"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasRenovationIntervention ;
+            owl:someValuesFrom reno:RenovationIntervention ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasEndDate ;
+            owl:someValuesFrom xsd:date ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasRenovationCost ;
+            owl:someValuesFrom xsd:decimal ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasStartDate ;
+            owl:someValuesFrom xsd:date ] .
+
+reno:SpaceUsage a owl:Class ;
+    rdfs:label "space usage"@en ;
+    rdfs:comment "The space usage indicates for what purpose a certain room is used."@en .
+
+reno:WindowFrameMaterial a owl:Class ;
+    rdfs:label "window frame material"@en ;
+    rdfs:comment "The material from which the window frame is made."@en .
+
+reno:Address a owl:Class ;
+    rdfs:label "address"@en ;
+    rdfs:comment "An address is an indication of a location, in this ontology more specifically of a building."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Address"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasCity ;
+            owl:someValuesFrom xsd:string ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasCountry ;
+            owl:someValuesFrom xsd:string ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasHouseNumber ;
+            owl:someValuesFrom xsd:string ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasPostalCode ;
+            owl:someValuesFrom xsd:string ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasStreet ;
+            owl:someValuesFrom xsd:string ] .
+
+reno:WindowFrame a owl:Class ;
+    rdfs:label "window frame"@en ;
+    rdfs:comment "A window frame is a rectangular frame, edging or framework in which windows or movable sash sheets are placed. It is a component of a window."@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasFrameMaterial ;
+            owl:someValuesFrom reno:WindowFrameMaterial ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:isFrameOf ;
+            owl:someValuesFrom beo:Window ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasFrameThickness ;
+            owl:someValuesFrom xsd:decimal ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasThermalBreak ;
+            owl:someValuesFrom xsd:boolean ] .
+
+reno:RenovationMotivation a owl:Class ;
+    rdfs:label "renovation motivation"@en ;
+    rdfs:comment "The renovation motivation of a person is the motivation why a person wants to renovate."@en ;
+    rdfs:subClassOf reno:Motivation .
+
+reno:hasEnergyScore a owl:DatatypeProperty,
+        owl:FunctionalProperty ;
+    rdfs:label "has energy score"@en ;
+    rdfs:comment "Links the energy performance certificate to the corresponding score."@en ;
+    rdfs:domain reno:EnergyPerformanceCertificate ;
+    rdfs:range xsd:decimal .
+
+xsd:gYear a rdfs:Datatype .
+
+reno:Owner a owl:Class ;
+    rdfs:label "owner"@en ;
+    rdfs:comment "An owner is someone who obtained ownership over a property, in this context a building."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Ownership"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:isOwnerOf ;
+            owl:someValuesFrom bot:Building ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasDesiredEPCLabel ;
+            owl:someValuesFrom xsd:string ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasNuisanceScore ;
+            owl:someValuesFrom xsd:integer ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasRenovationBudget ;
+            owl:someValuesFrom xsd:decimal ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:inFavourOfPVInGarden ;
+            owl:someValuesFrom xsd:boolean ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:ownerSince ;
+            owl:someValuesFrom xsd:gYear ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:ownerUntil ;
+            owl:someValuesFrom xsd:gYear ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:satisfiedWithRevenuePV ;
+            owl:someValuesFrom xsd:boolean ],
+        foaf:Person .
+
+foaf:Person a owl:Class .
+
+reno:EnergyPerformanceCertificate a owl:Class ;
+    rdfs:label "energy performance certificate"@en ;
+    rdfs:comment "A energy performance certificate (EPC) is a document that summarises the energy efficiency of buildings or building units."@en ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Energy_performance_certificate"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty reno:hasCreator ;
+            owl:someValuesFrom reno:EnergyExpert ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasCertificateNumber ;
+            owl:someValuesFrom xsd:string ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasCreationDate ;
+            owl:someValuesFrom xsd:date ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:hasEnergyScore ;
+            owl:someValuesFrom xsd:decimal ],
+        [ a owl:Restriction ;
+            owl:onProperty reno:isValidUntil ;
+            owl:someValuesFrom xsd:date ] .
+
+reno:RenovationSuggestion a owl:Class ;
+    rdfs:label "renovation suggestion"@en ;
+    rdfs:comment "A renovation suggestion is a suggestion to renovate a specific part of a building. The renovation can be energetic, aesthetic, etc."@en ;
+    rdfs:subClassOf process:AtomicProcess .
+
+
+### Suggestion list:
+replace flat roof
+replace gable roof
+place roof underlayment
+remove asbestos from flat roof
+remove asbestos from gable roof
+insulate flat roof
+insulate gable roof
+insulate attic floor
+insulate wall cavity
+insulate wall on interior
+insulate wall on exterior
+replace glazing
+replace windows
+insulate floor above basement
+replace ventilation system
+connect to heatgrid
+place air-air heatpump
+place vertical geothermal heatpump
+place horizontal geothermal heatpump
+place air-water heatpump
+place emission system on low temperature
+place air-water heatpump with cooling
+place heatpumpboiler
+place sunshade
+place airconditioning
+place PV-panels on roof
+place PV-panels in garden
+place plug and play PV-panels
+
+### Entity Information:
+@prefix beo: <https://pi.pauwel.be/voc/buildingelement#> .
+@prefix bot: <https://w3id.org/bot#> .
+@prefix ex: <http://example.com/> .
+@prefix reno: <https://w3id.org/reno#> .
+@prefix s4bldg: <https://saref.etsi.org/saref4bldg/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Renovation a reno:Renovation ;
+    reno:hasEndDate "2020-01-01"^^xsd:date ;
+    reno:hasRenovationIntervention ex:RenovationIntervention .
+
+ex:Site a bot:Site ;
+    bot:hasBuilding ex:Building ;
+    reno:potentialForHorizontalGeothermalCaptation false ;
+    reno:potentialForVerticalGeothermalDrilling false .
+
+ex:Address a reno:Address ;
+    reno:hasCountry "Belgium" ;
+    reno:hasPostalCode "9000" .
+
+ex:Bedrooms a bot:Space ;
+    bot:hasElement ex:WindowsBedrooms .
+
+ex:Building a bot:Building,
+        reno:SemiDetachedBuilding ;
+    bot:hasElement ex:EmissionSystem,
+        ex:FloorAboveBasement,
+        ex:Generation_System,
+        ex:PVPanels,
+        ex:RoofExtension,
+        ex:RoofMain,
+        ex:VentilationSystem,
+        ex:Wall_Front,
+        ex:Wall_Left,
+        ex:Wall_Rear ;
+    bot:hasSpace ex:Bedrooms,
+        ex:LivingArea ;
+    reno:hasConstructionYear "2017"^^xsd:gYear ;
+    reno:hasEnergyPerformanceCertificate ex:EPC ;
+    reno:hasNetFloorArea 173.0 ;
+    reno:hasOwner ex:Owner ;
+    reno:hasPotentialForPV false ;
+    reno:hasReasonToChangeEmissionSystem false ;
+    reno:hasResident ex:Resident ;
+    reno:presenceOfHeatGrid false .
+
+ex:EPC a reno:EnergyPerformanceCertificate ;
+    reno:hasEnergyScore 87.0 .
+
+ex:EmissionSystem a s4bldg:SpaceHeater .
+
+ex:FloorAboveBasement a reno:FloorAboveBasement ;
+    reno:hasInsulationGrade reno:WellInsulated ;
+    reno:hasProtection false .
+
+ex:Generation_System a reno:HeatPump .
+
+ex:LivingArea a bot:Space ;
+    bot:hasElement ex:WindowsLivingArea .
+
+ex:Owner a reno:Owner ;
+    reno:hasMotivation reno:ToImproveEPC .
+
+ex:PVPanels a s4bldg:SolarDevice .
+
+ex:Resident a reno:Resident ;
+    reno:hasAddress ex:Address .
+
+ex:RoofExtension a beo:Roof,
+        beo:Roof-FLAT_ROOF ;
+    reno:hasInsulationGrade reno:WellInsulated ;
+    reno:hasState ex:GoodState .
+
+ex:RoofMain a beo:Roof,
+        beo:Roof-GABLE_ROOF ;
+    reno:hasInsulationGrade reno:ModeratelyInsulated ;
+    reno:hasState ex:GoodState .
+
+ex:VentilationSystem a reno:VentilationSystem,
+        reno:VentilationSystemD .
+
+ex:Wall_Front a beo:Wall,
+        reno:FullBrickWall ;
+    reno:hasHistoricalProtection false ;
+    reno:hasInsulationGrade reno:WellInsulated ;
+    reno:hasProtection false .
+
+ex:Wall_Left a beo:Wall,
+        reno:FullBrickWall ;
+    reno:hasHistoricalProtection false ;
+    reno:hasInsulationGrade reno:WellInsulated ;
+    reno:hasProtection false .
+
+ex:Wall_Rear a beo:Wall,
+        reno:FullBrickWall ;
+    reno:hasHistoricalProtection false ;
+    reno:hasInsulationGrade reno:WellInsulated ;
+    reno:hasProtection false .
+
+ex:WindowGlazingBedrooms a reno:WindowGlazing ;
+    reno:changedDuring ex:RenovationIntervention ;
+    reno:hasGlazingType reno:DoubleGlazing .
+
+ex:WindowGlazingLivingArea a reno:WindowGlazing ;
+    reno:changedDuring ex:RenovationIntervention ;
+    reno:hasGlazingType reno:DoubleGlazing .
+
+ex:WindowsBedrooms a beo:Window ;
+    reno:hasFrame ex:WoodenWindowFrame ;
+    reno:hasGlazing ex:WindowGlazingBedrooms .
+
+ex:WindowsLivingArea a beo:Window ;
+    reno:hasFrame ex:WoodenWindowFrame ;
+    reno:hasGlazing ex:WindowGlazingLivingArea .
+
+ex:WoodenWindowFrame a reno:WindowFrame ;
+    reno:hasFrameMaterial reno:Wood ;
+    reno:hasState ex:GoodState .
+
+ex:GoodState a reno:State ;
+    reno:hasStateValue 8 .
+
+ex:RenovationIntervention a reno:RenovationIntervention .
+
+
+### Renovation Plan:
+Based on the information above, provide a concise and actionable renovation plan that is grounded in the ontology and suggestion list and tailored to the entity.

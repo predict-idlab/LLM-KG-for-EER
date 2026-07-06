@@ -1,0 +1,23 @@
+The building is already well-insulated (well insulated walls, flat roof, floor above basement) and has double-glazed windows. The current EPC score is 50 (A label), which is excellent. Given the owner's motivation to improve the EPC score further, the following renovation plan is proposed:
+
+1. **Improve Insulation of Gable Roof:** The gable roof is currently only moderately insulated. Upgrading its insulation will further reduce heat loss and improve the EPC score. The cost is 60€/m² and requires no permit.
+
+2. **Replace Ventilation System:** The current ventilation system is type D. Replacing it with a more energy-efficient system can help maintain indoor air quality while further reducing energy consumption. The cost is 3500€ + 17€/m² and requires no permit.
+
+3. **Place Air-Water Heatpump:** The building has an electric convector and floor heating as emission systems. Replacing the generation system with an air-water heat pump will significantly improve energy efficiency. The cost is 8000€ + 35€/m² and requires no permit if the above-ground parts are at least 2m away from the parcel boundary.
+
+4. **Place PV Panels on Roof:** Although the building has no potential for PV panels according to the data, it might be worth considering if the roof has the right orientation and gradient. This can further offset the electricity consumption of the new heat pump.
+
+### Renovation Path:
+1. Improve insulation of gable roof
+2. Replace ventilation system
+3. Place air-water heatpump
+4. Place PV panels on roof (if feasible)
+
+### Rationale:
+- **Improve insulation of gable roof:** This is a straightforward and cost-effective way to further reduce heat loss and improve the EPC score.
+- **Replace ventilation system:** This ensures that the air quality is maintained while further reducing energy consumption.
+- **Place air-water heatpump:** This replaces the current generation system with a more energy-efficient alternative.
+- **Place PV panels on roof:** This is an optional step and depends on the feasibility of installing PV panels on the roof. It can further offset the electricity consumption of the new heat pump.
+
+This plan is tailored to the specific characteristics of the building and aims to maximize energy efficiency while remaining cost-effective.

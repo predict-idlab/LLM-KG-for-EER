@@ -1,0 +1,76 @@
+### Step-by-Step Renovation Plan
+
+#### 1. **Initial Assessment**
+- **Building Type**: Detached building (ex:Building).
+- **Construction Year**: 1862, indicating potential for significant energy inefficiencies.
+- **Current EPC Score**: 165.0 (C label).
+- **Motivation**: Improve EPC (ex:Owner has motivation reno:ToImproveEPC).
+
+#### 2. **Key Areas for Renovation**
+- **Roof**: Gable roof (ex:RoofMain) is well-insulated but may need further attention.
+- **Walls**: All walls (ex:Wall_Front, ex:Wall_Left, ex:Wall_Rear, ex:Wall_Right) are cavity walls with no insulation (reno:NotInsulated).
+- **Windows**: All windows (ex:WindowsBedrooms, ex:WindowsLivingArea) have single glazing (reno:SingleGlazing) and wooden frames.
+- **Ventilation System**: Currently a natural ventilation system (reno:VentilationSystemA).
+- **Emission System**: Multiple types (reno:AirHeating, reno:ElectricConvector, reno:FloorHeating, reno:Radiator) indicating potential inefficiencies.
+
+#### 3. **Prioritized Renovation Actions**
+Based on the ontology and suggestion list, the following actions are recommended in order of priority:
+
+1. **Insulate Walls on Exterior (reno:InsulateWallExterior)**
+   - **Reason**: Walls are not insulated (reno:NotInsulated) and exterior insulation is cost-effective for cavity walls.
+   - **Cost**: €200 per m².
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Only if thickness of total pack >26cm or building line is overrun.
+
+2. **Replace Glazing (reno:ReplaceGlazing)**
+   - **Reason**: Current glazing is single glazing (reno:SingleGlazing), which is inefficient.
+   - **Cost**: €200 per m².
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Not necessary.
+
+3. **Insulate Attic Floor (reno:InsulateAtticFloor)**
+   - **Reason**: Attic floor insulation is crucial for energy efficiency, especially in older buildings.
+   - **Cost**: €60 per m².
+   - **Nuisance Level**: Low.
+   - **Permit Needed**: Not necessary.
+
+4. **Replace Ventilation System (reno:ReplaceVentilationSystem)**
+   - **Reason**: Current system is natural (reno:VentilationSystemA), which may not be efficient.
+   - **Cost**: €3500 fixed + €17 per m².
+   - **Nuisance Level**: Moderate.
+   - **Permit Needed**: Not necessary if above-ground parts are at least 2m away from the parcel boundary.
+
+5. **Place Air-Water Heat Pump (reno:PlaceAirWaterHeatpump)**
+   - **Reason**: Current emission systems are varied and potentially inefficient. An air-water heat pump can provide a more efficient heating solution.
+   - **Cost**: €8000 fixed + €35 per m².
+   - **Nuisance Level**: Moderate.
+   - **Permit Needed**: Not necessary if above-ground parts are at least 2m away from the parcel boundary.
+
+6. **Place PV-Panels on Roof (reno:PlacePVPanelsOnRoof)**
+   - **Reason**: Building has potential for PV (reno:hasPotentialForPV true).
+   - **Cost**: €275 per m².
+   - **Nuisance Level**: Low.
+   - **Permit Needed**: Not necessary if panels are in the same plane.
+
+#### 4. **Optimal Sequence**
+1. **Insulate Walls on Exterior**: This is a high-impact action that will significantly improve the building's thermal envelope.
+2. **Replace Glazing**: Upgrading to double or triple glazing will further enhance insulation.
+3. **Insulate Attic Floor**: This will address heat loss through the roof.
+4. **Replace Ventilation System**: Upgrading to a more efficient system will improve air quality and energy efficiency.
+5. **Place Air-Water Heat Pump**: This will provide a more efficient heating solution.
+6. **Place PV-Panels on Roof**: This will generate renewable energy to offset the building's energy consumption.
+
+#### 5. **Additional Considerations**
+- **Asbestos**: Ensure that any asbestos-containing materials are safely removed before starting renovations.
+- **Historical Protection**: Verify that no historical protection constraints apply to the building elements.
+- **Budget**: Ensure that the renovation budget (ex:Owner has renovation budget) is adequate for the proposed actions.
+
+### Final Renovation Plan
+1. **Insulate Walls on Exterior**
+2. **Replace Glazing**
+3. **Insulate Attic Floor**
+4. **Replace Ventilation System**
+5. **Place Air-Water Heat Pump**
+6. **Place PV-Panels on Roof**
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, based on the provided ontology and suggestion list.

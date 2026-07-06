@@ -1,0 +1,46 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation plan.
+
+### Building Analysis Summary
+The building is a modern semi-detached house (constructed in 2017) with an already impressive energy profile (EPC score: 87). Most primary elements—walls, the flat roof extension, and the floor above the basement—are already **well insulated**. The building is also equipped with high-efficiency systems, including a heat pump, a Type D ventilation system, and PV panels.
+
+The primary goal of the owner is to **improve the EPC**, which, given the current high performance, requires targeting the few remaining "moderately" performing elements to reach a peak efficiency level.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the focus is shifted from systemic overhauls (which are unnecessary) to "fine-tuning" the thermal envelope.
+
+#### Phase 1: Thermal Envelope Optimization (High Impact)
+**1. Insulate Gable Roof**
+*   **Reasoning:** The `RoofMain` (Gable Roof) is the only major structural element currently rated as **Moderately Insulated**. Upgrading this to "Well Insulated" will eliminate the primary source of heat loss/gain.
+*   **Action:** Apply insulation to the gable roof.
+*   **Cost-Effectiveness:** This is significantly more cost-effective than replacing the roof entirely, as the roof is currently in a "Good State" (value 8).
+*   **Sequence Note:** This should be done first to seal the building envelope.
+
+**2. Replace Glazing (Upgrade to Triple Glazing)**
+*   **Reasoning:** The windows currently have double glazing. While efficient, upgrading to triple glazing is the most effective way to further lower the EPC score.
+*   **Action:** Replace existing double glazing with triple glazing.
+*   **Cost-Effectiveness:** Because the `WoodenWindowFrames` are in a "Good State," there is no need to replace the entire window unit (`replace windows`). Replacing only the glazing is a high-value, lower-cost intervention.
+
+#### Phase 2: Operational Performance & Comfort (Low Cost)
+**3. Place Sunshades**
+*   **Reasoning:** With a high-efficiency envelope and a heat pump, preventing solar gain in the summer is critical to reducing the energy load for cooling and maintaining thermal comfort.
+*   **Action:** Install outdoor sunshades.
+*   **Cost-Effectiveness:** This is a low-cost, fixed-price upgrade that prevents the "overheating" often associated with highly insulated modern homes.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Action | Target Element | Rationale | Cost Profile |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | Bridge the gap from "Moderate" to "Well" insulated. | Unit Price ($\text{m}^2$) |
+| **2** | **Replace Glazing** | `Windows` | Upgrade from Double $\rightarrow$ Triple glazing. | Unit Price ($\text{m}^2$) |
+| **3** | **Place Sunshades** | `Windows/Facade` | Reduce cooling loads and improve comfort. | Fixed Price |
+
+### Exclusions & Justifications
+*   **Wall/Floor Insulation:** Excluded; these are already "Well Insulated."
+*   **Heating/Ventilation Systems:** Excluded; the building already possesses a Heat Pump and a Type D Ventilation system (the gold standard for efficiency).
+*   **PV Panels:** Excluded; the building already has PV panels and is explicitly marked as having no further potential for PV installation (`hasPotentialForPV: false`).
+*   **Geothermal:** Excluded; the site data confirms there is no potential for either horizontal or vertical geothermal drilling.

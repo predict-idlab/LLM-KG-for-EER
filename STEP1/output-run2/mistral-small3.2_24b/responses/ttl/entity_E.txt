@@ -1,0 +1,61 @@
+Based on the provided RENO ontology and building information, here's a concise and actionable energy-efficient renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+### Immediate Priorities (High Impact, Low Nuisance)
+1. **Insulate Wall Cavities** (Ordering: 34)
+   - Walls are currently uninsulated (NotInsulated)
+   - Insulate all cavity walls (Front, Left, Rear, Right)
+   - Low nuisance level, no permit needed
+   - Estimated cost: 22 €/m²
+
+2. **Replace Single Glazing** (Ordering: 43)
+   - Current glazing is single glazing (poor thermal performance)
+   - Replace with double glazing (better insulation)
+   - High nuisance (but necessary for energy efficiency)
+   - Estimated cost: 200 €/m²
+
+3. **Insulate Attic Floor** (Ordering: 31)
+   - Roof is well insulated, but attic floor may not be
+   - Low nuisance, no permit needed
+   - Estimated cost: 60 €/m²
+
+### Medium-Term Priorities
+4. **Replace Ventilation System** (Ordering: 52)
+   - Current system is type A (natural air supply/exhaust)
+   - Consider upgrading to system C (mechanical exhaust)
+   - Moderate nuisance, may require ductwork
+   - Estimated cost: 3500 € base + 17 €/m²
+
+5. **Place Air-Water Heat Pump** (Ordering: 67)
+   - Current heating system is mixed (electric convector, radiator, floor heating)
+   - Consider air-water heat pump for more efficient heating
+   - Moderate nuisance, permit may be needed
+   - Estimated cost: 8000 € base + 35 €/m²
+
+### Long-Term/High-Cost Priorities
+6. **Replace Windows** (Ordering: 46)
+   - Current windows have single glazing and wood frames
+   - Consider complete window replacement with double/triple glazing
+   - High nuisance, but significant energy savings
+   - Estimated cost: 800 €/m²
+
+7. **Place PV Panels on Roof** (Ordering: 85)
+   - Roof has potential for PV (south-facing, proper orientation)
+   - Ensure asbestos removal if present
+   - Low nuisance, permit may be needed if not in same plane
+   - Estimated cost: 275 €/m²
+
+### Additional Considerations
+- **Heat Pump Boiler**: Consider replacing the current boiler with a heat pump boiler (Ordering: 76)
+- **Sun Shade**: Consider adding sun shades to reduce cooling needs (Ordering: 79)
+- **Connect to Heat Grid**: Not applicable (presenceOfHeatGrid is false)
+
+### Optimal Sequence
+1. Insulate wall cavities
+2. Replace single glazing
+3. Insulate attic floor
+4. Upgrade ventilation system
+5. Install air-water heat pump
+6. Replace windows
+7. Install PV panels
+
+This plan focuses on maximizing energy efficiency while considering cost-effectiveness and practical implementation. The sequence follows the ordering values from the ontology to ensure optimal benefits from each renovation step.

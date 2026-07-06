@@ -1,0 +1,135 @@
+### Renovation Plan for the Attached Building
+
+#### **Objective:**
+Improve the energy performance of the building to lower the energy consumption and reduce the energy score from 262 kWh/m²year to below 200 kWh/m²year (targeting a B label).
+
+---
+
+#### **Step 1: Insulate the Flat Roof (Roof Extension)**
+- **Action:** Insulate the flat roof.
+- **Reasoning:** The flat roof is currently not insulated (NotInsulated), which contributes to higher energy consumption. Insulating the roof will improve thermal comfort and reduce heat loss.
+- **Suggestion:** `InsulateFlatRoof`
+- **Details:**
+  - **Nuisance Level:** High
+  - **Price:** €50 per m²
+  - **Permit Needed:** Only if the total thickness of the insulation layer exceeds 26 cm.
+  - **Ordering:** 25
+  - **Note:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation problems.
+
+---
+
+#### **Step 2: Insulate the Gable Roof (Roof Main)**
+- **Action:** Insulate the gable roof.
+- **Reasoning:** The gable roof is currently moderately insulated. Improving insulation will further reduce heat loss and improve energy efficiency.
+- **Suggestion:** `InsulateGableRoof`
+- **Details:**
+  - **Nuisance Level:** Low
+  - **Price:** €60 per m²
+  - **Permit Needed:** Not necessary.
+  - **Ordering:** 28
+  - **Note:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation problems. Pay extra attention to installing the roof underlayment to ensure it is completely air- and watertight.
+
+---
+
+#### **Step 3: Insulate the Full Brick Walls (Wall Front and Wall Rear)**
+- **Action:** Insulate the full brick walls on the exterior.
+- **Reasoning:** Both the front and rear walls are currently not insulated (NotInsulated). Insulating these walls will significantly reduce heat loss and improve the overall energy performance of the building.
+- **Suggestion:** `InsulateWallExterior`
+- **Details:**
+  - **Nuisance Level:** High
+  - **Price:** €200 per m²
+  - **Permit Needed:** Only if the total thickness of the insulation layer exceeds 26 cm or if the building line is overrun.
+  - **Ordering:** 40
+  - **Note:** Not every type of cladding will be possible, depending on the position of the building line and the council's guidelines.
+
+---
+
+#### **Step 4: Replace the Ventilation System**
+- **Action:** Replace the current ventilation system (Ventilation System A) with a more efficient system.
+- **Reasoning:** The current ventilation system (natural air supply and air exhaust) may not be as efficient as modern systems. Upgrading to a more efficient system will improve indoor air quality and reduce energy consumption.
+- **Suggestion:** `ReplaceVentilationSystem`
+- **Details:**
+  - **Nuisance Level:** Moderate
+  - **Price:** €3500 (fixed) + €17 per m²
+  - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+  - **Ordering:** 52
+  - **Note:** A ventilation system D will have slightly more impact on your home, as it requires ductwork for both supply and return.
+
+---
+
+#### **Step 5: Place a Heat Pump Boiler**
+- **Action:** Install a heat pump boiler to replace the current generation system.
+- **Reasoning:** The current generation system is a boiler, which is less energy-efficient compared to a heat pump boiler. Installing a heat pump boiler will significantly reduce energy consumption and lower the energy score.
+- **Suggestion:** `PlaceHeatPumpBoiler`
+- **Details:**
+  - **Nuisance Level:** Moderate
+  - **Price:** €4000 (fixed)
+  - **Permit Needed:** Not necessary.
+  - **Ordering:** 76
+  - **Note:** Ensure the system is compatible with the existing emission system.
+
+---
+
+#### **Step 6: Place an Emission System on Low Temperature**
+- **Action:** Install an emission system designed for low-temperature heating.
+- **Reasoning:** Low-temperature heating systems are more energy-efficient and compatible with heat pumps. This will further improve the energy performance of the building.
+- **Suggestion:** `PlaceLowTemperatureEmission`
+- **Details:**
+  - **Nuisance Level:** Moderate
+  - **Price:** €100 per m²
+  - **Permit Needed:** Not necessary.
+  - **Ordering:** 70
+
+---
+
+#### **Step 7: Install PV Panels on the Roof**
+- **Action:** Install photovoltaic (PV) panels on the roof.
+- **Reasoning:** The building has potential for PV installation (hasPotentialForPV: true). Installing PV panels will generate renewable energy, reducing the reliance on the grid and further lowering the energy score.
+- **Suggestion:** `PlacePVPanelsOnRoof`
+- **Details:**
+  - **Nuisance Level:** Low
+  - **Price:** €275 per m²
+  - **Permit Needed:** Not necessary if the panels are in the same plane.
+  - **Ordering:** 85
+  - **Note:** Ensure the roof is free of asbestos before installation. Check the orientation and shading to maximize efficiency.
+
+---
+
+#### **Step 8: Insulate the Floor Above Basement**
+- **Action:** Insulate the floor above the basement.
+- **Reasoning:** The floor above the basement is currently not insulated (NotInsulated). Insulating this floor will reduce heat loss through the floor and improve overall energy efficiency.
+- **Suggestion:** `InsulateFloorAboveBasement`
+- **Details:**
+  - **Nuisance Level:** Low
+  - **Price:** €30 per m²
+  - **Permit Needed:** Not necessary.
+  - **Ordering:** 49
+
+---
+
+#### **Step 9: Replace the Windows (if necessary)**
+- **Action:** Replace the windows with more energy-efficient models if the current windows are not performing well.
+- **Reasoning:** The current windows have double glazing, which is better than single glazing but may not be as efficient as modern triple glazing. Replacing the windows with triple glazing will further improve energy efficiency.
+- **Suggestion:** `ReplaceWindows`
+- **Details:**
+  - **Nuisance Level:** High
+  - **Price:** €800 per m²
+  - **Permit Needed:** Not necessary if the measurements are kept.
+  - **Ordering:** 46
+  - **Note:** Ensure the new windows have a thermal break and are compatible with the existing frames.
+
+---
+
+### **Summary of Recommendations:**
+1. **InsulateFlatRoof**
+2. **InsulateGableRoof**
+3. **InsulateWallExterior** (for both Wall Front and Wall Rear)
+4. **ReplaceVentilationSystem**
+5. **PlaceHeatPumpBoiler**
+6. **PlaceLowTemperatureEmission**
+7. **PlacePVPanelsOnRoof**
+8. **InsulateFloorAboveBasement**
+9. **ReplaceWindows** (if necessary)
+
+### **Expected Outcome:**
+By following this renovation plan, the energy performance of the building should improve significantly, reducing the energy score from 262 kWh/m²year to below 200 kWh/m²year, achieving a B label. This will result in lower energy consumption, improved thermal comfort, and increased property value.

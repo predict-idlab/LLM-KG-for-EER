@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["insulate walls (exterior)", "connect to heat grid"]}, "sequence": {"order_errors": ["insulate walls (exterior)"]}}

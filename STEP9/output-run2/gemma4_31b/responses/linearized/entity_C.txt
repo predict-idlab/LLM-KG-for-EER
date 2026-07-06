@@ -1,0 +1,32 @@
+### Analysis of Building State
+The building is a very modern **Attached Building (constructed in 2023)** with an already excellent energy profile (**EPC score of 50**, which falls into the **A-label** category). Most of the building envelope is highly efficient:
+*   **Walls and Floors:** Both the front and rear walls (Full Brick) and the floor above the basement are already **Well Insulated**.
+*   **Windows:** Existing double glazing and wooden frames are in **Good State**.
+*   **Roof:** The flat roof extension is well insulated, but the **main gable roof is only Moderately Insulated**.
+*   **Systems:** The building uses a mix of **Floor Heating** (efficient) and **Electric Convectors** (inefficient), powered by a **Boiler**. The owner has explicitly indicated a **reason to change the emission system** and a motivation to **further improve the EPC**.
+*   **Constraints:** Geothermal options (vertical and horizontal) are not possible at this site, and there is no access to a heat grid.
+
+### Proposed Renovation Path
+Given the high starting efficiency, the goal is to eliminate the remaining "weak links"—specifically the moderately insulated roof and the reliance on a boiler and electric convectors. To maximize cost-effectiveness, we focus on the "fabric first" approach before upgrading the technical installations.
+
+#### Step 1: Thermal Envelope Optimization
+*   **Action:** **Insulate gable roof**.
+*   **Reasoning:** The main roof is the only part of the building envelope that is not "Well Insulated." Improving this will reduce heat loss through the top of the house, ensuring that any future heating system is sized correctly and operates at maximum efficiency.
+*   **Benefit:** Lowers the overall energy demand of the building.
+
+#### Step 2: Heating Generation Upgrade
+*   **Action:** **Place air-water heat pump**.
+*   **Reasoning:** Since geothermal and heat grid options are unavailable, an air-water heat pump is the most efficient alternative to the current boiler. Because the building already possesses **Floor Heating**, it is perfectly suited for the low-temperature output of a heat pump.
+*   **Benefit:** Significant reduction in primary energy consumption and a further improvement in the EPC score.
+
+#### Step 3: Emission System Refinement
+*   **Action:** **Place emission system on low temperature**.
+*   **Reasoning:** The building currently uses electric convectors in some areas, which are energy-intensive and incompatible with the efficiency of a heat pump. Replacing these with low-temperature emitters (extending the floor heating or adding low-temp radiators) ensures the heat pump doesn't have to work at higher, less efficient temperatures.
+*   **Benefit:** Maximizes the Coefficient of Performance (COP) of the new heat pump.
+
+### Summary of the Optimal Sequence
+1.  **Insulate gable roof** $\rightarrow$ (Reduces heat loss/demand).
+2.  **Place air-water heat pump** $\rightarrow$ (Transitions from fossil/electric boiler to renewable energy).
+3.  **Place emission system on low temperature** $\rightarrow$ (Optimizes the delivery of heat and removes inefficient electric convectors).
+
+This path is **cost-effective** because it avoids unnecessary upgrades to already well-insulated walls/windows and focuses strictly on the components that will yield the highest marginal gain in energy performance.

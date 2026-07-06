@@ -1,0 +1,41 @@
+Based on the information provided, here's a concise and actionable renovation plan tailored to your semi-detached house in Ghent, Belgium. The plan focuses on improving energy efficiency while remaining cost-effective, considering the existing conditions and the goal of enhancing the energy performance certificate (EPC) score.
+
+### Priority Renovation Steps:
+
+1. **Improve Roof Insulation (Main Pitched Roof):**
+   - **Action:** Upgrade the insulation of the main pitched roof to match the well-insulated flat-roof extension.
+   - **Reasoning:** The pitched roof has only moderate insulation, which is likely a significant source of heat loss. Improving this will have a substantial impact on energy efficiency.
+   - **Cost-Effectiveness:** High. Roof insulation is one of the most cost-effective ways to reduce heat loss.
+
+2. **Upgrade Ventilation System to Heat Recovery Ventilation (HRV):**
+   - **Action:** Replace the existing ventilation system D with a more efficient Heat Recovery Ventilation (HRV) system.
+   - **Reasoning:** HRV systems recover heat from exhaust air, reducing the need for additional heating. This is particularly beneficial in a well-insulated home with a heat pump.
+   - **Cost-Effectiveness:** Moderate to High. The initial cost is higher, but the long-term energy savings and improved indoor air quality justify the investment.
+
+3. **Optimize Heat Pump Performance:**
+   - **Action:** Conduct a professional audit of the heat pump system to ensure it is operating at peak efficiency.
+   - **Reasoning:** Even though the heat emission system is in good condition, optimizing the heat pump's performance can lead to further energy savings.
+   - **Cost-Effectiveness:** Moderate. The cost of an audit is relatively low compared to potential energy savings.
+
+4. **Enhance Window Performance (If Needed):**
+   - **Action:** Consider upgrading the double glazing to triple glazing or adding low-emissivity (Low-E) coatings to the existing windows.
+   - **Reasoning:** While the windows are in good condition and have double glazing, upgrading to triple glazing or Low-E coatings can further reduce heat loss through the windows.
+   - **Cost-Effectiveness:** Moderate. The cost of upgrading windows is higher, but the energy savings can be significant over time.
+
+5. **Seal Air Leakage Points:**
+   - **Action:** Conduct an air tightness test and seal any identified air leakage points around windows, doors, and other openings.
+   - **Reasoning:** Reducing air leakage can significantly improve the overall energy efficiency of the home.
+   - **Cost-Effectiveness:** High. Sealing air leaks is a relatively low-cost measure with high energy savings potential.
+
+### Optimal Sequence:
+1. **Improve Roof Insulation:** Start with the pitched roof to address the largest potential heat loss.
+2. **Upgrade Ventilation System:** Install the HRV system to complement the improved insulation and heat pump.
+3. **Optimize Heat Pump Performance:** Ensure the heat pump is operating efficiently to maximize the benefits of the insulation and ventilation upgrades.
+4. **Enhance Window Performance:** Upgrade windows if further improvements are needed after the initial steps.
+5. **Seal Air Leakage Points:** Conduct an air tightness test and seal any leaks to ensure the home is as airtight as possible.
+
+### Additional Considerations:
+- **Monitor and Maintain:** Regularly monitor the performance of the renovated systems and maintain them to ensure long-term efficiency.
+- **Explore Incentives:** Check for any local or national incentives for energy-efficient renovations, which can help offset costs.
+
+This plan prioritizes actions that provide the highest energy savings for the lowest cost, ensuring a cost-effective path to improving your home's energy performance certificate.

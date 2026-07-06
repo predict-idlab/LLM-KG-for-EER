@@ -1,0 +1,31 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached building (constructed in 2017) with an **EPC score of 87 (A Label)**. 
+
+The building is already highly energy-efficient: it possesses a heat pump, a high-efficiency Ventilation System D, solar panels, and a well-insulated envelope. Because the building is already performing at a high level, the focus shifts from "deep renovation" to "fine-tuning" to push the energy performance toward an A+ label.
+
+### Renovation Plan: Fine-Tuning for Peak Efficiency
+
+Given that the "Fabric First" basics are already largely met, the proposed path focuses on the few remaining areas of moderate performance.
+
+#### Phase 1: Thermal Envelope Refinement (Priority: Low-Medium)
+The only building element not rated as "Well Insulated" is the main gable roof.
+1.  **Insulate Gable Roof:** The `RoofMain` is currently **Moderately Insulated**. Upgrading this to a "Well Insulated" state is the most impactful physical upgrade remaining. This will reduce the remaining heat loss through the top of the building and further lower the energy score.
+
+#### Phase 2: Glazing Optimization (Priority: Low/Optional)
+The windows currently have double glazing and the frames are in a good state.
+2.  **Upgrade to Triple Glazing:** While double glazing is sufficient for an A label, transitioning to **Triple Glazing** would further reduce thermal transmission. However, given the current EPC of 87, this is a high-cost intervention with diminishing returns. It is recommended only if the owner's budget allows and the goal is to achieve the absolute minimum energy score possible.
+
+#### Phase 3: Operational Performance & Maintenance
+Since the technical installations (Heat Pump, System D Ventilation, PV Panels) are already state-of-the-art, no replacements are recommended.
+3.  **System Optimization:** Instead of replacement, focus on the maintenance of the Heat Pump and Ventilation System D to ensure they operate at peak COP (Coefficient of Performance) and efficiency.
+
+---
+
+### Summary of Recommendations
+
+| Sequence | Action | Rationale | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "moderately" insulated part of the envelope. | **High** |
+| **2** | **Triple Glazing** | Further reduces heat loss, though returns are marginal. | **Low** |
+| **3** | **System Maintenance** | Ensures existing high-efficiency tech continues to perform. | **Very High** |
+
+**Final Assessment:** The building is in excellent condition. The most cost-effective path to further improving the EPC is specifically targeting the **Gable Roof insulation**, as all other major energy-saving milestones (Heat Pump, PV, System D, Wall/Floor insulation) have already been achieved.

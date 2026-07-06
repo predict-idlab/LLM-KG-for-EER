@@ -1,0 +1,62 @@
+### Renovation Plan
+
+**Current Building Profile:**
+- **Type:** Attached building (2023)
+- **Net Floor Area:** 159.0 m²
+- **EPC Score:** 50 (A Label)
+- **Insulation Status:**
+  - `Wall_Front` and `Wall_Rear`: Well-insulated
+  - `FloorAboveBasement`: Well-insulated
+  - `RoofExtension` (Flat Roof): Well-insulated
+  - `RoofMain` (Gable Roof): Moderately insulated
+- **Windows:**
+  - Double-glazed with wooden frames in good condition
+- **Heating System:**
+  - Electric convector (floor heating)
+- **PV Panels:** Already installed
+- **Ventilation System:** Type D (mechanical supply and exhaust)
+- **Owner's Motivation:** To improve EPC
+
+**Renovation Goals:**
+1. **Maximize Energy Efficiency:** Further reduce heat loss and optimize heating performance.
+2. **Cost-Effectiveness:** Prioritize interventions that offer the highest return on investment.
+3. **Sustainability:** Maintain existing PV panels and transition to a more sustainable heating system.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Gable Roof Insulation**
+- **Action:** **Insulate Gable Roof**
+  - **Rationale:** The `RoofMain` is currently only moderately insulated. Upgrading to full insulation will reduce heat loss through the gable roof, which is a significant heat escape route.
+  - **Priority:** High
+
+**Phase 2: Heating System Upgrade**
+- **Action:** **Place Air-Water Heat Pump**
+  - **Rationale:** The current electric convector is inefficient for space heating. An air-water heat pump will provide lower operational costs and align with the building's well-insulated envelope.
+  - **Priority:** Medium
+
+**Phase 3: Ventilation System Optimization**
+- **Action:** **Replace Ventilation System**
+  - **Rationale:** Since the building is already well-sealed, upgrading to a more efficient ventilation system (e.g., System D) will ensure optimal air quality without compromising energy efficiency.
+  - **Priority:** Low
+
+**Phase 4: Low-Temperature Emission System**
+- **Action:** **Place Emission System on Low Temperature**
+  - **Rationale:** Before installing the heat pump, the existing emission system should be optimized for low-temperature operation to maximize the heat pump's Coefficient of Performance (COP).
+  - **Priority:** Medium
+
+**Phase 5: Roof Underlayment (Optional but Recommended)**
+- **Action:** **Place Roof Underlayment**
+  - **Rationale:** Ensures complete air- and water-tightness, further improving the building's thermal performance.
+  - **Priority:** Low
+
+**Summary of Optimal Sequence:**
+1. **Insulate Gable Roof** → **Place Air-Water Heat Pump** → **Replace Ventilation System** → **Place Emission System on Low Temperature** → **Place Roof Underlayment** (if needed).
+
+**Rationale for Sequence:**
+- **Insulate Gable Roof First:** Addresses the largest remaining thermal bridge (the moderately insulated gable roof).
+- **Heat Pump Next:** Replaces the inefficient electric convector with a more sustainable and cost-effective heating solution.
+- **Ventilation System Upgrade:** Ensures indoor air quality is maintained in a now-sealed envelope.
+- **Low-Temperature Emission System:** Optimizes the heat pump's performance.
+- **Roof Underlayment (Optional):** Provides additional protection and insulation if needed.
+
+This plan ensures that the building's energy efficiency is maximized while remaining cost-effective and sustainable.

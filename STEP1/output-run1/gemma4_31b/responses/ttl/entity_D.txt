@@ -1,0 +1,33 @@
+### Building Analysis
+The building is a modern semi-detached house (constructed in 2017) with an existing **EPC score of 87.0**, which places it in the **A Label** category. It is already highly energy-efficient, featuring a heat pump, a high-end Ventilation System D (mechanical supply and exhaust), and existing PV panels.
+
+Most building elements—including the walls, the floor above the basement, and the flat roof extension—are already **Well Insulated**. The primary thermal weakness identified is the **Main Gable Roof**, which is currently only **Moderately Insulated**.
+
+### Proposed Renovation Path
+Given that the owner's motivation is to further improve the EPC and the building is already performing at a high level, the goal is to address the "weakest link" in the thermal envelope to achieve maximum efficiency with minimal waste of capital.
+
+#### Step 1: Upgrade Gable Roof Insulation
+*   **Action:** Implement `reno:InsulateGableRoof`.
+*   **Rationale:** This is the only major building element not rated as "Well Insulated." Improving the roof insulation will reduce heat loss through the top of the house, directly contributing to a lower energy score.
+*   **Practical Considerations:** 
+    *   **Vapour Barrier:** As per the ontology, a vapour barrier must be installed on the warm side of the insulation to prevent condensation.
+    *   **Watertightness:** Ensure the roof underlayment is completely air- and watertight.
+*   **Cost-Effectiveness:** With a unit price of **60/m²** and a **low nuisance level**, this is the most cost-effective way to move the building closer to an A+ label.
+
+#### Step 2: Glazing Assessment (Optional/Long-term)
+*   **Action:** Evaluate `reno:ReplaceGlazing` (Double $\rightarrow$ Triple Glazing).
+*   **Rationale:** The current windows have double glazing and wooden frames in good condition (State value: 8). While triple glazing would further reduce energy loss, the marginal gain in EPC is significantly lower than the roof insulation.
+*   **Recommendation:** Because the building is already in the "A" category, replacing windows now is **not cost-effective**. This should only be considered if the window frames reach the end of their lifespan or if the owner has a surplus budget specifically for reaching a near-zero energy target.
+
+### Summary of the Renovation Sequence
+
+| Sequence | Intervention | Priority | Impact | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | High (Thermal Envelope) | Low Nuisance / Moderate Cost |
+| **2** | **Operational Optimization** | Medium | Low (Efficiency) | Zero Cost |
+| **3** | **Triple Glazing** | Low | Marginal | High Nuisance / High Cost |
+
+### Final Expert Verdict
+The building is already an excellent performer. To maximize energy efficiency while remaining cost-effective, **the only necessary structural intervention is the insulation of the Main Gable Roof.** 
+
+Further investments in the heating system (Heat Pump) or ventilation (System D) are unnecessary as they are already at the industry gold standard. By focusing solely on the roof, the owner can likely push the EPC score toward the **A+ label** (under 100 kWh/m²year) with a relatively small investment.

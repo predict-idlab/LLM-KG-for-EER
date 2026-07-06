@@ -1,0 +1,42 @@
+Based on the provided building data and the RENO ontology, the property is an attached building from 1832 with an EPC score of 262. While the building is quite old, it has a solid foundation (double glazing and moderately insulated main roof). The owner's primary goal is to improve the EPC rating.
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** renovation path. This approach prioritizes reducing the building's energy demand through insulation before upgrading the heating systems, ensuring that any new HVAC installation is correctly sized and highly efficient.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The building currently has several critical "thermal holes" where heat escapes. Addressing these first provides the highest return on investment and is essential before changing the heating system.
+
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. Since heat rises, this is a priority. Insulating the flat roof will immediately lower the energy score.
+2.  **Insulate Walls on Exterior:** Both the `Wall_Front` and `Wall_Rear` are full brick and not insulated. As there is no historical protection on these walls, **exterior insulation** is the most effective method to eliminate thermal bridges and protect the 19th-century structure from moisture.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. Adding insulation here prevents cold drafts and reduces heat loss to the basement, significantly improving ground-floor comfort.
+
+#### Phase 2: Heating & Emission System Transition (Priority: Medium)
+Once the thermal envelope is sealed, the building's total heat demand will drop significantly. This allows us to move away from the traditional boiler to a sustainable, low-temperature system.
+
+4.  **Place Emission System on Low Temperature:** The current radiators are likely high-temperature. To maximize the efficiency (COP) of a heat pump, the emission system should be upgraded to low-temperature radiators or floor heating.
+5.  **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid is available, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the existing boiler.
+
+#### Phase 3: Air Quality and Ventilation (Priority: Medium)
+Insulating a building from 1832 effectively "seals" it. To prevent moisture buildup and ensure a healthy indoor climate, the ventilation must be modernized.
+
+6.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural supply/exhaust) to a more controlled system (such as **System C or D**). This ensures that the energy saved through insulation is not lost through uncontrolled air leakage.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and ventilation system, the building should generate its own power.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels is the final step to drive the EPC score toward an 'A' or 'B' label and reduce long-term operational costs.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces total energy demand; prevents the need for an oversized heat pump. |
+| **2** | **Low-Temp Emission Upgrade** | Prepares the building to operate efficiently with a heat pump. |
+| **3** | **Air-Water Heat Pump** | Switches the energy source from fossil fuels to a sustainable electric alternative. |
+| **4** | **Ventilation Upgrade** | Prevents condensation and maintains air quality in the newly sealed envelope. |
+| **5** | **PV Panel Installation** | Provides renewable energy to power the new high-efficiency systems. |
+
+**Note on Windows:** Since the windows are already double-glazed and the wooden frames are in a "Good State," replacing them is not recommended at this stage to maintain cost-effectiveness. Focus should remain on the uninsulated walls and roof.

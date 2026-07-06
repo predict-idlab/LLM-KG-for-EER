@@ -1,0 +1,48 @@
+Based on the information provided, here's a concise and actionable renovation plan for your 1832 attached house in Ghent, Belgium, focusing on energy efficiency and cost-effectiveness:
+
+### **1. Insulate the Exterior Walls (Front and Rear)**
+- **Action**: Install external wall insulation (EWI) on the solid brick walls.
+- **Why First**: Walls account for a significant portion of heat loss. Insulating them first maximizes the impact of subsequent upgrades.
+- **Benefit**: Reduces heat loss, improves thermal comfort, and prepares the facade for future upgrades like photovoltaic panels.
+
+### **2. Insulate the Flat-Roof Extension**
+- **Action**: Add insulation to the flat roof, ensuring proper ventilation to prevent condensation.
+- **Why Next**: Roofs are major sources of heat loss, and insulating the flat roof will further reduce energy consumption.
+
+### **3. Replace the Heating System**
+- **Action**: Upgrade to a high-efficiency condensing boiler or an air-source heat pump (ASHP), depending on budget and long-term savings.
+- **Why**: The current system is inefficient, and replacing it with a modern, energy-efficient solution will significantly cut heating costs.
+- **Note**: If opting for an ASHP, ensure the house is well-insulated first to maximize efficiency.
+
+### **4. Improve Ventilation**
+- **Action**: Install a mechanical ventilation system with heat recovery (MVHR) to replace the basic natural ventilation.
+- **Why**: Ensures fresh air while minimizing heat loss, improving indoor air quality and energy efficiency.
+
+### **5. Insulate the Floor Above the Basement**
+- **Action**: Add insulation to the floor above the basement to reduce heat loss through the ground.
+- **Why**: While less impactful than wall or roof insulation, it still contributes to overall energy savings.
+
+### **6. Upgrade Windows (If Needed)**
+- **Action**: Replace existing double-glazed windows with high-performance triple-glazed windows if budget allows.
+- **Why**: While your current windows are in good condition, upgrading to triple glazing can further reduce heat loss.
+- **Note**: If budget is tight, prioritize other upgrades first.
+
+### **7. Install Photovoltaic (PV) Panels**
+- **Action**: Assess roof suitability and install PV panels to generate renewable energy.
+- **Why**: Belgium has incentives for solar power, and PV panels can offset electricity costs.
+
+### **8. Consider Smart Thermostats and Controls**
+- **Action**: Install programmable thermostats and smart controls for heating and ventilation.
+- **Why**: Optimizes energy use by adjusting heating based on occupancy and preferences.
+
+### **Optimal Sequence Summary**:
+1. Insulate exterior walls (front and rear).
+2. Insulate the flat roof.
+3. Replace the heating system (boiler or ASHP).
+4. Upgrade ventilation to MVHR.
+5. Insulate the floor above the basement.
+6. Upgrade windows (if budget allows).
+7. Install photovoltaic panels.
+8. Add smart controls for heating and ventilation.
+
+This plan ensures that each upgrade builds on the previous one, maximizing energy efficiency and cost savings.

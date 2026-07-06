@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump"], "extra_actions": ["replace the flat roof", "replace the glazing", "insulate the floor above basement", "replace the ventilation system", "place low-temperature emission system", "place solar panels on the roof"]}, "sequence": {"order_errors": ["place emission system on low temperature"]}}

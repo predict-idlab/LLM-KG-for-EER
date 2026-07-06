@@ -1,0 +1,24 @@
+### Renovation Plan for the Entity
+The building is an attached building from 1832 with an EPC score of 262 (C Label). The owner's primary motivation is to improve the EPC rating. The building is a historic structure, which means that certain interventions may be restricted by heritage regulations. However, based on the data provided, there is no indication of historical protection.
+
+**Phase 1: Strengthening the Building Envelope (Priority: High)**
+1. **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a priority as heat rises rapidly through flat sections.
+2. **Insulate Walls on Exterior:** Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Since they are not cavity walls, exterior insulation is the most effective method to eliminate thermal bridges.
+3. **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+
+**Phase 2: Heating & Emission System Transition (Priority: Medium)**
+4. **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+5. **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+**Phase 3: Ventilation Upgrade (Priority: Medium)**
+6. **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+**Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+7. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+**Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Flat Roof Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+### Notes:
+- The building has double-glazed windows with wooden frames in a "Good State". Therefore, replacing them is not recommended at this stage to maintain cost-effectiveness.
+- The building is a historic structure, so it is important to check local heritage regulations before starting any renovation work. However, based on the data provided, there is no indication of historical protection.

@@ -1,0 +1,52 @@
+To improve an EPC score of 262 in a 19th-century home, the priority must be **"Insulate first, then ventilate, then heat."** Installing a new heating system before addressing the thermal envelope is a common and costly mistake; it leads to oversized systems and higher operational costs.
+
+Because the house is not historically protected, you have significant flexibility to use modern materials. Here is the optimal, phased renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Heat Loss)
+*Goal: Reduce the energy demand of the building so that a smaller, cheaper heating system can be used.*
+
+1.  **Roof Insulation (Highest ROI):**
+    *   **Flat Roof:** This is a priority. Install high-density PIR insulation (inverted roof system) to stop heat from escaping vertically.
+    *   **Pitched Roof:** Since it is "moderately" insulated, add a layer of blown-in cellulose or mineral wool in the attic floor/rafters to reach modern standards (R-value $\geq$ 4.5 $\text{m}^2\text{K/W}$).
+2.  **Floor Insulation (Basement Ceiling):**
+    *   Since the floor above the basement is uninsulated, install insulation boards (PIR or XPS) or spray foam on the basement ceiling. This eliminates "cold feet" and prevents heat from leaking into the basement.
+3.  **Wall Insulation:**
+    *   **Exterior Wall Insulation (EWI):** Given the solid brick construction, EWI is the most effective method. It protects the brickwork and prevents thermal bridging.
+    *   **Alternative (Internal Wall Insulation - IWI):** If the facade cannot be altered, use breathable internal insulation (e.g., wood-fiber boards) to avoid moisture and mold buildup—a common risk in 1832 brick homes.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is airtight, preventing humidity and mold.*
+
+1.  **Upgrade to Mechanical Ventilation:**
+    *   Once you insulate the walls and roof, the "natural ventilation" will no longer be sufficient. 
+    *   **Recommendation:** Install a **Balanced Ventilation system with Heat Recovery (MVHR)**. This recovers up to 90% of the heat from outgoing air to warm the incoming fresh air, drastically reducing the load on your heating system.
+
+### Phase 3: Heating System Transition
+*Goal: Replace outdated emission systems with a low-carbon, high-efficiency alternative.*
+
+1.  **Heat Emission Upgrade:**
+    *   Replace old radiators with **Low-Temperature Radiators** (larger surface area) or, if you are replacing the flooring in Phase 1, install **Underfloor Heating**. These are essential for the efficiency of a heat pump.
+2.  **Heat Generation Switch:**
+    *   **Air-to-Water Heat Pump:** Since geothermal is not viable and district heating is unavailable, a heat pump is the gold standard. Because you insulated in Phase 1, the heat pump will be smaller, cheaper to install, and highly efficient.
+
+### Phase 4: Energy Generation (The Offset)
+*Goal: Move toward a net-zero energy balance.*
+
+1.  **Photovoltaic (PV) Panels:**
+    *   Install PV panels on the pitched roof. This is the final step to lower your operational costs and significantly boost your EPC score. In Flanders, this is highly cost-effective due to the available infrastructure and energy prices.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Why? | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Floor $\rightarrow$ Walls** | Stops the heat from leaving. | Massive $\downarrow$ |
+| **2** | **MVHR Ventilation** | Maintains air quality in a sealed house. | Moderate $\downarrow$ |
+| **3** | **Low-Temp Radiators $\rightarrow$ Heat Pump** | Efficiently heats the remaining demand. | High $\downarrow$ |
+| **4** | **PV Panels** | Generates free, clean electricity. | High $\downarrow$ |
+
+### Expert Cost-Saving Tip for Ghent/Flanders:
+Before starting, apply for the **"Mijn VerbouwPremie"** (My Renovation Premium). The Flemish government provides significant subsidies for these specific steps (insulation, heat pumps, and ventilation), provided the work is carried out by certified contractors. Following this sequence ensures you maximize the subsidy eligibility for each phase.

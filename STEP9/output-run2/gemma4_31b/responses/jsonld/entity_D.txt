@@ -1,0 +1,44 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation plan.
+
+### **Building Analysis**
+The building is a modern semi-detached house (constructed in 2017) and is already highly energy-efficient, with an **EPC score of 87 (A Label)**. Most elements—including the walls, flat roof, and floor above the basement—are already "Well Insulated." The heating and ventilation systems (Heat Pump and Ventilation System D) are up to date.
+
+The primary opportunity for further energy efficiency lies in the **Gable Roof**, which is currently only "**Moderately Insulated**," and the potential for reducing summer heat gain.
+
+---
+
+### **Proposed Renovation Path**
+
+To maximize energy efficiency while remaining cost-effective, the following sequence is recommended:
+
+#### **Step 1: Thermal Envelope Optimization (High Impact)**
+*   **Action:** **Insulate Gable Roof**
+*   **Reasoning:** This is the only major building element not yet "Well Insulated." Improving the insulation of the main roof will directly reduce heat loss in winter and heat gain in summer, providing the most significant boost to the EPC score.
+*   **Cost-Effectiveness:** This is more cost-effective than replacing the roof, as the current roof is in "Good State."
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### **Step 2: Passive Cooling & Comfort (Low Cost/High Efficiency)**
+*   **Action:** **Place Sunshades**
+*   **Reasoning:** Since the house is already well-insulated and has a heat pump, the primary energy drain during summer is likely cooling. Outdoor sunshades prevent solar heat from entering the building, reducing the reliance on active cooling systems.
+*   **Cost-Effectiveness:** This is a low-fixed-cost intervention with a high impact on operational energy consumption.
+
+#### **Step 3: Long-term Glazing Upgrade (Optional/Conditional)**
+*   **Action:** **Replace Glazing** (Upgrade from Double to Triple Glazing)
+*   **Reasoning:** The building currently has double glazing and wooden frames in "Good State." To push the EPC score even lower, upgrading to triple glazing is the next logical step.
+*   **Cost-Effectiveness:** Because the frames are already in good condition, replacing only the glazing is significantly cheaper than replacing the entire window unit.
+
+---
+
+### **Summary of the Renovation Sequence**
+
+| Sequence | Action | Priority | Estimated Cost Basis | Goal |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Unit Price (per $m^2$) | Close the gap in thermal insulation. |
+| **2** | **Place Sunshades** | Medium | Fixed Price | Reduce summer energy load. |
+| **3** | **Replace Glazing** | Low | Unit Price (per $m^2$) | Incremental EPC improvement. |
+
+### **Excluded Actions & Justification**
+*   **PV Panels:** Excluded; the building already has PV panels and the site is marked as having no further potential for PV.
+*   **Geothermal Heat Pump:** Excluded; the site lacks the potential for both horizontal and vertical drilling.
+*   **Wall/Floor Insulation:** Excluded; these are already "Well Insulated."
+*   **Heat Grid Connection:** Excluded; no heat grid is present in the area.

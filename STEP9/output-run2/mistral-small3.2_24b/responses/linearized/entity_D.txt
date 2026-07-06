@@ -1,0 +1,77 @@
+### Renovation Plan for Semi-Detached Building
+
+#### **1. Initial Assessment**
+- **Current State**:
+  - The building is a semi-detached structure built in 2017.
+  - The energy performance certificate (EPC) score is 87, indicating a need for improvement.
+  - The owner's primary motivation is to improve the EPC value.
+  - The building has well-insulated walls (front, rear, left) but lacks insulation in certain areas (roof extension, attic floor).
+  - The roof is in good condition but not optimized for energy efficiency.
+  - No potential for photovoltaic (PV) panels or geothermal heat pumps due to site constraints.
+
+#### **2. Priority Renovations**
+Given the ontology and suggestion list, the following actions are recommended for energy efficiency and cost-effectiveness:
+
+**a. Roof Insulation**
+- **Action**: Insulate the flat roof (RoofExtension).
+  - **Justification**: The roof extension is currently well-insulated, but further insulation can enhance thermal performance.
+  - **Ordering**: High priority due to significant heat loss through roofs.
+  - **Cost**: PER-M2 (exact cost depends on material and labor).
+
+- **Action**: Insulate the gable roof (RoofMain).
+  - **Justification**: The gable roof is moderately insulated; improving insulation will reduce heat loss.
+  - **Ordering**: High priority.
+  - **Cost**: PER-M2.
+
+**b. Attic Floor Insulation**
+- **Action**: Insulate the attic floor.
+  - **Justification**: The attic floor is a critical area for heat loss; insulation will improve thermal comfort and energy efficiency.
+  - **Ordering**: High priority.
+  - **Cost**: PER-M2.
+
+**c. Window Glazing Upgrade**
+- **Action**: Replace glazing on windows in the living area and bedrooms.
+  - **Justification**: Double glazing is already in place, but upgrading to triple glazing or improving the quality of double glazing can further reduce heat loss.
+  - **Ordering**: Medium priority.
+  - **Cost**: PER-M2.
+
+**d. Wall Cavity Insulation**
+- **Action**: Insulate wall cavities if applicable.
+  - **Justification**: Ensures comprehensive insulation, especially if the walls are cavity walls.
+  - **Ordering**: Medium priority.
+  - **Cost**: PER-M2.
+
+**e. Ventilation System Upgrade**
+- **Action**: Replace the ventilation system (VentilationSystemD).
+  - **Justification**: Improving ventilation efficiency can reduce energy consumption for heating and cooling.
+  - **Ordering**: Medium priority.
+  - **Cost**: PER-M2 or fixed price (€3500).
+
+**f. Emission System Optimization**
+- **Action**: Place the emission system on low temperature.
+  - **Justification**: Optimizes heating efficiency and reduces energy consumption.
+  - **Ordering**: Medium priority.
+  - **Cost**: PER-M2.
+
+**g. Additional Considerations**
+- **Heat Pump Boiler**: Evaluate the feasibility of installing a heat pump boiler if the current heating system is inefficient.
+- **Sun Shades**: Consider installing sun shades to reduce solar heat gain in summer, improving cooling efficiency.
+
+#### **3. Implementation Sequence**
+1. **Roof Insulation** (flat and gable roof).
+2. **Attic Floor Insulation**.
+3. **Window Glazing Upgrade**.
+4. **Wall Cavity Insulation** (if applicable).
+5. **Ventilation System Upgrade**.
+6. **Emission System Optimization**.
+
+#### **4. Cost-Effectiveness and Energy Efficiency**
+- **Cost-Effectiveness**: Prioritize actions with high energy savings and low installation costs (e.g., roof and attic floor insulation).
+- **Energy Efficiency**: Focus on reducing heat loss through the building envelope (roof, walls, windows) and optimizing the heating system.
+
+#### **5. Long-Term Benefits**
+- **Improved EPC Score**: Achieve a better energy performance certificate, increasing the property's value and appeal.
+- **Reduced Energy Consumption**: Lower heating costs and improved thermal comfort.
+- **Sustainability**: Contribute to environmental goals by reducing the carbon footprint of the building.
+
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective, tailored to the specific characteristics of the semi-detached building.

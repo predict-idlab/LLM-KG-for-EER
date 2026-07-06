@@ -1,0 +1,72 @@
+### Renovation Plan for the Semi-Detached Building
+
+#### **1. Prioritize Based on Energy Efficiency and Cost-Effectiveness**
+- **Insulate Roof (Extension and Main)**:
+  - **Action**: Replace the current moderately insulated roof extension and uninsulated main gable roof.
+  - **Rationale**: Roof insulation is critical for improving thermal performance and reducing heat loss.
+  - **Recommendation**: Replace with high-performance insulation to achieve a well-insulated grade.
+  - **Cost**: Moderate (€50 per m² for flat roof, €60 per m² for gable roof).
+  - **Impact**: High impact on reducing energy consumption and improving thermal comfort.
+
+- **Insulate Exterior Walls**:
+  - **Action**: Insulate the exterior of the uninsulated full brick walls (front, rear, and right).
+  - **Rationale**: Exterior wall insulation reduces heat loss through walls and improves overall building envelope performance.
+  - **Recommendation**: Use high-performance insulation material suitable for exterior application.
+  - **Cost**: Moderate to high (€200 per m²).
+  - **Impact**: Significant improvement in energy efficiency and thermal comfort.
+
+- **Insulate Floor Above Basement**:
+  - **Action**: Insulate the uninsulated floor above the basement.
+  - **Rationale**: Floor insulation reduces heat loss through the floor and improves overall thermal performance.
+  - **Recommendation**: Use appropriate insulation material for floor application.
+  - **Cost**: Low (€30 per m²).
+  - **Impact**: Moderate improvement in energy efficiency and thermal comfort.
+
+- **Replace Ventilation System**:
+  - **Action**: Upgrade the current natural ventilation system (type A) to a more efficient system (type C or D).
+  - **Rationale**: A more efficient ventilation system improves indoor air quality and energy efficiency.
+  - **Recommendation**: Consider a system with heat recovery to maximize energy savings.
+  - **Cost**: Moderate (€3500 fixed cost plus €17 per m²).
+  - **Impact**: Moderate to high improvement in indoor air quality and energy efficiency.
+
+#### **2. Optimize Based on Specific Building Characteristics**
+- **Address Asbestos Removal**:
+  - **Action**: Remove any asbestos-containing materials before starting any insulation work.
+  - **Rationale**: Safety and regulatory compliance are crucial when dealing with asbestos.
+  - **Recommendation**: Hire a licensed asbestos removal company for safe and compliant removal.
+  - **Cost**: Varies depending on the extent of asbestos presence.
+  - **Impact**: Essential for safety and compliance.
+
+- **Consider PV Panel Installation**:
+  - **Action**: Evaluate the potential for installing photovoltaic (PV) panels on the roof.
+  - **Rationale**: Solar energy can significantly reduce electricity costs and environmental impact.
+  - **Recommendation**: Assess roof orientation, shading, and structural suitability for PV installation.
+  - **Cost**: Moderate to high (€275 per m²).
+  - **Impact**: High potential for long-term energy cost savings and sustainability.
+
+#### **3. Additional Recommendations**
+- **Energy Performance Certificate (EPC)**:
+  - **Action**: Ensure the EPC is up-to-date and reflects the improvements made.
+  - **Rationale**: A good EPC rating can increase property value and attract potential buyers or tenants.
+  - **Recommendation**: Work with a certified energy expert to update the EPC after renovations.
+  - **Cost**: Varies depending on the service provider.
+  - **Impact**: Essential for property valuation and marketability.
+
+- **Monitor and Maintain**:
+  - **Action**: Regularly monitor the performance of the renovated systems and maintain them as needed.
+  - **Rationale**: Ongoing maintenance ensures the longevity and efficiency of the renovations.
+  - **Recommendation**: Schedule periodic inspections and maintenance checks.
+  - **Cost**: Variable.
+  - **Impact**: Ensures sustained energy efficiency and performance.
+
+### Summary of Prioritized Actions
+1. **Insulate Roof (Extension and Main)** - High Impact, Moderate Cost
+2. **Insulate Exterior Walls** - Significant Impact, Moderate to High Cost
+3. **Insulate Floor Above Basement** - Moderate Impact, Low Cost
+4. **Replace Ventilation System** - Moderate to High Impact, Moderate Cost
+5. **Address Asbestos Removal** - Essential for Safety and Compliance
+6. **Consider PV Panel Installation** - High Potential for Long-Term Savings
+7. **Update Energy Performance Certificate (EPC)** - Essential for Property Valuation
+8. **Monitor and Maintain** - Ensures Long-Term Efficiency
+
+This plan focuses on maximizing energy efficiency and cost-effectiveness while addressing the specific needs and characteristics of the semi-detached building. The sequence of actions is designed to prioritize high-impact improvements that will yield significant energy savings and enhance thermal comfort.

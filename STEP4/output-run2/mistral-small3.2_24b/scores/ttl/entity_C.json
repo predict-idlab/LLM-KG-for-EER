@@ -1,0 +1,3 @@
+{"completeness": {"missing_actions": ["place air-water heatpump"], "extra_actions": ["insulate flat roof", "place emission system on low temperature", "replace ventilation system", "install additional pv panels", "monitor window frames"]}, "sequence": {"order_errors": []}}
+
+    

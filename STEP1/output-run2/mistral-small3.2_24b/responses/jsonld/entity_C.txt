@@ -1,0 +1,97 @@
+### Renovation Plan for Example Building
+
+#### **Current State Overview**
+- **Building Type**: Attached building
+- **Construction Year**: 2023
+- **Energy Performance Certificate (EPC) Score**: 50
+- **Current Insulation Grades**:
+  - **RoofMain**: Moderately Insulated
+  - **RoofExtension**: Well Insulated
+  - **Wall_Front**: Well Insulated
+  - **Wall_Rear**: Well Insulated
+  - **FloorAboveBasement**: Well Insulated
+- **Potential for PV Panels**: No
+- **Potential for Horizontal Geothermal Captation**: No
+- **Potential for Vertical Geothermal Drilling**: No
+- **Presence of Heat Grid**: No
+- **Current Emission System**: Electric Convector and Floor Heating
+- **Reason to Change Emission System**: Yes
+- **Current Ventilation System**: Ventilation System D
+
+#### **Renovation Goals**
+1. **Improve the EPC Score**: Aim for an A+ label (<100 kWh/m²year) or at least an A label (100-200 kWh/m²year).
+2. **Enhance Thermal Comfort**: Ensure all living spaces are well insulated and have efficient heating systems.
+3. **Optimize Energy Efficiency**: Reduce energy consumption and consider sustainable energy sources.
+
+#### **Recommended Renovation Steps**
+
+1. **Insulate RoofMain**
+   - **Action**: Insulate the gable roof.
+   - **Type**: `InsulateGableRoof`
+   - **Cost**: €60 per m²
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary in Flanders
+   - **Order**: 28
+
+2. **Replace Emission System**
+   - **Action**: Place a heat pump boiler.
+   - **Type**: `PlaceHeatPumpBoiler`
+   - **Cost**: €4,000 (fixed price)
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary in Flanders
+   - **Order**: 76
+
+3. **Replace Ventilation System**
+   - **Action**: Replace the current ventilation system with a more efficient one.
+   - **Type**: `ReplaceVentilationSystem`
+   - **Cost**: €3,500 (fixed price) + €17 per m²
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary in Flanders
+   - **Order**: 52
+
+4. **Insulate Floor Above Basement**
+   - **Action**: Insulate the floor above the basement.
+   - **Type**: `InsulateFloorAboveBasement`
+   - **Cost**: €30 per m²
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary in Flanders
+   - **Order**: 49
+
+5. **Place PV Panels**
+   - **Action**: Consider installing PV panels if the potential changes in the future.
+   - **Type**: `PlacePVPanelsOnRoof`
+   - **Cost**: €275 per m²
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+   - **Order**: 85
+
+6. **Replace Windows**
+   - **Action**: Replace windows with double glazing to improve insulation.
+   - **Type**: `ReplaceWindows`
+   - **Cost**: €800 per m²
+   - **Nuisance Level**: High
+   - **Permit Needed**: Not necessary if the measurements are kept (Flanders)
+   - **Order**: 46
+
+#### **Optimal Sequence**
+1. **Insulate RoofMain** (Order 28)
+2. **Insulate Floor Above Basement** (Order 49)
+3. **Replace Ventilation System** (Order 52)
+4. **Replace Windows** (Order 46)
+5. **Replace Emission System** (Order 76)
+6. **Place PV Panels** (Order 85) (Future consideration)
+
+#### **Estimated Total Cost**
+- **Insulate RoofMain**: €60 × 159 m² = €9,540
+- **Insulate Floor Above Basement**: €30 × 159 m² = €4,770
+- **Replace Ventilation System**: €3,500 + (€17 × 159 m²) = €3,500 + €2,703 = €6,203
+- **Replace Windows**: €800 × 159 m² = €127,200
+- **Replace Emission System**: €4,000
+- **Total**: €141,613
+
+#### **Notes**
+- **Permits**: Ensure all necessary permits are obtained based on local regulations.
+- **Future Considerations**: If the potential for PV panels changes, reassess the installation of PV panels.
+- **Energy Efficiency**: Continuously monitor the EPC score and energy consumption to ensure the renovation goals are met.
+
+This plan prioritizes actions that maximize energy efficiency and thermal comfort while considering cost-effectiveness and permit requirements. The sequence ensures that the most impactful renovations are addressed first.

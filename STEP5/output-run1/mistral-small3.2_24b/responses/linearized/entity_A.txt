@@ -1,0 +1,68 @@
+### Renovation Plan for Semi-Detached Building (1951, EPC 388)
+
+**Objective:** Improve the EPC score of the building (currently 388) through a cost-effective, step-by-step renovation strategy.
+
+#### **Phase 1: Thermal Envelope Optimization**
+1. **Insulate Gable Roof**
+   - **Action:** Insulate the gable roof (`RoofMain`).
+   - **Rationale:** The gable roof is currently not insulated, contributing to heat loss. Insulating it will significantly improve thermal performance.
+   - **Nuisance Level:** Low
+   - **Unit Price:** 60 EUR/m²
+
+2. **Insulate Flat Roof**
+   - **Action:** Insulate the flat roof (`RoofExtension`).
+   - **Rationale:** The flat roof is moderately insulated. Enhancing insulation will further reduce heat loss.
+   - **Nuisance Level:** High
+   - **Unit Price:** 50 EUR/m²
+
+3. **Insulate Exterior Walls**
+   - **Action:** Insulate the exterior walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`).
+   - **Rationale:** All three walls are full brick and not insulated. Exterior insulation will eliminate thermal bridges and improve overall thermal retention.
+   - **Nuisance Level:** High
+   - **Unit Price:** 200 EUR/m²
+
+4. **Insulate Floor Above Basement**
+   - **Action:** Insulate the floor above the basement (`FloorAboveBasement`).
+   - **Rationale:** The floor is currently not insulated, leading to heat loss to the basement. Insulating it will prevent cold drafts and improve comfort.
+   - **Nuisance Level:** Low
+   - **Unit Price:** 30 EUR/m²
+
+#### **Phase 2: Window Performance Enhancement**
+5. **Replace Glazing**
+   - **Action:** Replace the glazing on all windows with double glazing.
+   - **Rationale:** The windows currently have double glazing, but replacing them with higher-performance glazing will further reduce heat loss.
+   - **Nuisance Level:** High
+   - **Unit Price:** 200 EUR/m²
+
+#### **Phase 3: High-Efficiency Heating Transition**
+6. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump.
+   - **Rationale:** The current heating system is a boiler. Transitioning to an air-water heat pump will improve energy efficiency and reduce reliance on fossil fuels.
+   - **Nuisance Level:** Moderate
+   - **Unit Price:** 35 EUR/m²
+
+#### **Phase 4: Air Quality and Ventilation**
+7. **Replace Ventilation System**
+   - **Action:** Upgrade the ventilation system from System A to System C or D.
+   - **Rationale:** The current ventilation system is System A, which is less efficient. Upgrading to System C or D will improve air quality and reduce energy loss.
+   - **Nuisance Level:** Moderate
+   - **Unit Price:** 17 EUR/m²
+
+#### **Phase 5: Sustainable Energy Generation**
+8. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on the roof.
+   - **Rationale:** The building has confirmed potential for PV. Installing solar panels will provide renewable electricity to power the heat pump and ventilation system, further improving the EPC score.
+   - **Nuisance Level:** Low
+   - **Unit Price:** 275 EUR/m²
+
+### **Summary of Optimal Sequence**
+1. **Insulate Gable Roof**
+2. **Insulate Flat Roof**
+3. **Insulate Exterior Walls**
+4. **Insulate Floor Above Basement**
+5. **Replace Glazing**
+6. **Place Air-Water Heat Pump**
+7. **Replace Ventilation System**
+8. **Place PV-Panels on Roof**
+
+This phased approach ensures that the building's thermal envelope is optimized before transitioning to high-efficiency heating and sustainable energy generation, maximizing energy efficiency and cost-effectiveness.

@@ -1,0 +1,47 @@
+To move a house from an EPC of 262 to a high-performance rating, you must follow the **"Envelope-First" principle**. Installing a new heating system before insulating the shell is a common mistake that leads to oversized equipment and higher operational costs.
+
+Given the characteristics of your 1832 Ghent property, here is the optimal, cost-effective renovation sequence.
+
+---
+
+### Phase 1: The Thermal Shell (Stopping the Leaks)
+*The goal here is to reduce the "heating load" so that you can install a smaller, cheaper, and more efficient heating system later.*
+
+1.  **Flat Roof Insulation:** This is your lowest-hanging fruit. Flat roofs lose heat rapidly. Adding high-density PIR insulation or an inverted roof system is highly cost-effective and provides immediate results.
+2.  **Floor Insulation (Above Basement):** Since you have an uninsulated floor above a basement, you have a prime opportunity to install insulation from below (ceiling of the basement) or during a floor renovation. This eliminates the "cold feet" effect and prevents heat from sinking into the basement.
+3.  **Wall Insulation (Strategic Approach):** 
+    *   **Exterior:** Since the house is not protected, exterior wall insulation (EIFS) is the most effective method. It protects the brickwork and removes thermal bridges.
+    *   **Interior:** If the facade must be preserved, use interior insulation (e.g., calcium silicate boards) to prevent condensation and mold, which is common in old Belgian brick houses.
+4.  **Pitched Roof Top-up:** "Moderate" insulation is usually insufficient for modern standards. Add a layer of mineral wool or cellulose in the attic space to reach a higher R-value.
+
+### Phase 2: Ventilation & Air Quality (The Breathability)
+*Once you insulate a house, it becomes "airtight." Without upgrading ventilation, you risk humidity buildup and mold.*
+
+5.  **Upgrade to Mechanical Ventilation:** Replace the basic natural ventilation with a **Heat Recovery Ventilation (HRV)** system. An HRV system extracts stale air and uses its heat to warm the incoming fresh air, drastically reducing the energy lost through ventilation.
+
+### Phase 3: Heating Generation & Emission (The Engine)
+*Now that the house requires significantly less heat, you can replace the outdated system.*
+
+6.  **Emission System Upgrade:** Replace the old radiators with **low-temperature radiators** or, if you are already renovating the floors, install **underfloor heating**. This is critical because modern heat pumps are inefficient with old high-temperature radiators.
+7.  **Heat Pump Installation:** Replace the old boiler with an **Air-to-Water Heat Pump**. Since geothermal is not feasible, an air-source pump is the gold standard for Ghent's climate, especially when paired with the insulation steps above.
+
+### Phase 4: Renewable Energy (The Offset)
+*The final step is to produce the energy you still need to consume.*
+
+8.  **Photovoltaic (PV) Panels:** Install solar panels on the pitched roof. Because you have already reduced your heating demand and installed a heat pump (which runs on electricity), the PV system will directly offset the operational cost of your heating and electricity.
+
+---
+
+### Summary Table: Sequence & Impact
+
+| Step | Action | Energy Impact | Cost-Effectiveness | Why Now? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Flat Roof & Floor Insul. | High | Very High | Quickest ROI; stops major heat loss. |
+| **2** | Wall & Pitched Roof Insul. | Very High | Medium | Essential to lower the required boiler size. |
+| **3** | HRV Ventilation | Medium | Medium | Prevents mold after sealing the shell. |
+| **4** | Low-Temp Radiators | High | Medium | Necessary for Heat Pump efficiency. |
+| **5** | Air-to-Water Heat Pump | Very High | Medium | Shifts you away from fossil fuels. |
+| **6** | PV Panels | High | High | Offsets the electricity used by the pump. |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, apply for the **"Mijn VerbouwPremies"** (My Renovation Premiums). The Flemish government provides significant subsidies for these specific steps (especially insulation and heat pumps), which drastically improves the cost-effectiveness of the entire project. Always ensure your contractors are certified to qualify for these premiums.

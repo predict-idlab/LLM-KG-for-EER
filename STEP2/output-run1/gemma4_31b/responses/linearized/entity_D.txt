@@ -1,0 +1,30 @@
+Based on the provided building data and the RENO ontology, the property is a modern (2017) semi-detached building that is already highly energy-efficient, with an **EPC score of 87**. Most building elements (walls, floor above basement, and the flat roof extension) are already "WellInsulated."
+
+To maximize energy efficiency and further improve the EPC label while remaining cost-effective, the renovation should focus on the only remaining thermal weakness in the building envelope.
+
+### Proposed Renovation Path
+
+#### 1. Primary Priority: Building Envelope Optimization
+The only element not currently rated as "WellInsulated" is the main gable roof.
+*   **Action:** **Insulate gable roof**.
+*   **Reasoning:** The `RoofMain` is currently "ModeratelyInsulated." In a building where walls and floors are already optimized, the roof is the most significant source of potential heat loss. Upgrading this to "WellInsulated" is the most direct way to lower the energy score and improve the EPC rating.
+*   **Sequence:** This must be done first. Improving the envelope ensures that the heating system operates at maximum efficiency.
+
+#### 2. Secondary Priority: Operational Efficiency & Comfort
+Since the building already possesses a Heat Pump and a Ventilation System D (a high-standard system), further gains are marginal. To move toward an A+ label, focus on reducing internal heat gains during summer and optimizing water heating.
+*   **Action:** **Place sunshade**.
+*   **Reasoning:** With high insulation levels, preventing overheating in the summer (via external shading) reduces the reliance on cooling systems, thereby lowering overall energy consumption.
+*   **Action:** **Place heatpumpboiler**.
+*   **Reasoning:** While a general heat pump is present, a dedicated heat pump boiler for domestic hot water can further optimize the energy used for water heating, which is often a separate high-consumption task.
+
+### Summary of Optimal Sequence
+1.  **Insulate Gable Roof** $\rightarrow$ (Fixes the primary thermal bridge $\rightarrow$ lowers EPC score).
+2.  **Place Sunshade** $\rightarrow$ (Reduces summer cooling load $\rightarrow$ improves operational performance).
+3.  **Place Heatpumpboiler** $\rightarrow$ (Optimizes domestic hot water production $\rightarrow$ marginal energy gain).
+
+### Excluded Actions & Justification
+*   **Wall/Floor Insulation:** Already "WellInsulated"; further investment would yield no significant return.
+*   **Window Replacement:** Existing windows are double-glazed with frames in "GoodState." The cost of upgrading to triple glazing would be high relative to the small energy gain given the current EPC of 87.
+*   **PV Panels:** The building already has PV panels, and the data indicates no further potential for PV installation (`hasPotentialForPV: false`).
+*   **Geothermal:** Site data explicitly states there is no potential for horizontal or vertical geothermal captation.
+*   **Heat Grid:** There is no heat grid available in the area (`presenceOfHeatGrid: false`).

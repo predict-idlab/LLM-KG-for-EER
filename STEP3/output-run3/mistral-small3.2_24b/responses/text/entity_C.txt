@@ -1,0 +1,41 @@
+Given the information provided, here's a concise and actionable renovation plan tailored to your house in Ghent, Belgium. The plan focuses on maximizing energy efficiency while remaining cost-effective, taking into account the optimal sequence of renovations:
+
+### 1. **Replace Heating Systems**
+   - **Action**: Replace the existing underfloor heating and electric convectors with a more efficient system, such as a heat pump (air-source or ground-source, depending on feasibility).
+   - **Rationale**: The current heating systems are in poor condition, and replacing them with a heat pump can significantly improve energy efficiency. Heat pumps are more efficient than boilers, especially when combined with underfloor heating.
+   - **Cost-Effectiveness**: Although the initial investment can be high, the long-term energy savings and potential government incentives can make this a cost-effective choice.
+
+### 2. **Improve Roof Insulation**
+   - **Action**: Upgrade the insulation of the main pitched roof from a moderate to a high level of insulation.
+   - **Rationale**: The pitched roof is currently only moderately insulated, and improving its insulation can reduce heat loss significantly.
+   - **Cost-Effectiveness**: Insulating the roof is a relatively straightforward and cost-effective way to improve energy efficiency.
+
+### 3. **Upgrade Ventilation System**
+   - **Action**: Replace the existing ventilation system (D) with a more efficient heat recovery ventilation (HRV) system.
+   - **Rationale**: HRV systems can recover heat from the exhaust air and use it to preheat the incoming fresh air, reducing the heating load.
+   - **Cost-Effectiveness**: While HRV systems have a higher upfront cost, they can lead to significant energy savings over time.
+
+### 4. **Optimize Photovoltaic (PV) System**
+   - **Action**: Assess the performance of the existing PV panels and consider expanding the system or adding a battery storage system.
+   - **Rationale**: Expanding the PV system or adding battery storage can increase the self-consumption of the generated electricity, further reducing energy costs.
+   - **Cost-Effectiveness**: The payback period for PV systems can be relatively short, especially with government incentives.
+
+### 5. **Seal Air Leakages**
+   - **Action**: Conduct an air tightness test to identify and seal any air leakages around windows, doors, and other openings.
+   - **Rationale**: Air leakages can significantly reduce the overall energy efficiency of the house.
+   - **Cost-Effectiveness**: Sealing air leakages is a low-cost measure that can have a high impact on energy efficiency.
+
+### 6. **Smart Thermostats and Controls**
+   - **Action**: Install smart thermostats and controls to optimize the heating and ventilation systems.
+   - **Rationale**: Smart controls can help manage energy usage more efficiently by adjusting settings based on occupancy and weather conditions.
+   - **Cost-Effectiveness**: Smart thermostats are relatively inexpensive and can lead to significant energy savings.
+
+### Optimal Sequence:
+1. **Replace Heating Systems**: Start with the heating systems as they have the most immediate impact on energy consumption.
+2. **Improve Roof Insulation**: Follow up with roof insulation to reduce heat loss.
+3. **Upgrade Ventilation System**: Install the HRV system to complement the improved insulation and heating systems.
+4. **Optimize PV System**: Expand or enhance the PV system to maximize self-consumption of generated electricity.
+5. **Seal Air Leakages**: Conduct an air tightness test and seal any identified leakages.
+6. **Smart Thermostats and Controls**: Finally, install smart controls to fine-tune the energy management of the house.
+
+This plan should help you improve the energy performance certificate of your house while remaining cost-effective.

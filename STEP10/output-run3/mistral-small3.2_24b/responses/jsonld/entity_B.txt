@@ -1,0 +1,48 @@
+To create an optimal renovation plan based on the provided data, we need to follow a structured approach that prioritizes energy efficiency improvements while considering cost-effectiveness and the building's specific characteristics. Here's the step-by-step plan:
+
+### Step 1: Understand the Current State
+1. **Building Type**: The building is an attached structure built in 1832 with a net floor area of 212.0 square meters.
+2. **EPC Score**: The current Energy Performance Certificate (EPC) score is 262, which falls under the C label.
+3. **Heating System**: The building uses a radiator-based emission system and a boiler for heating.
+4. **Insulation**: The walls (`Wall_Front` and `Wall_Rear`) are full brick and not insulated. The roof extension is not insulated, and the floor above the basement is also not insulated.
+5. **Windows**: The windows have double glazing and are in good condition.
+6. **Ventilation**: The building has a ventilation system of type A.
+7. **Potential for PV**: The building has potential for photovoltaic (PV) panels.
+
+### Step 2: Identify Key Areas for Improvement
+1. **Insulation**: The primary areas for improvement are the walls, roof extension, and floor above the basement.
+2. **Heating System**: The current heating system could be more efficient.
+3. **Ventilation**: Upgrading the ventilation system could improve indoor air quality and energy efficiency.
+4. **Sustainable Energy**: Installing PV panels could help offset energy consumption.
+
+### Step 3: Propose a Renovation Path
+Based on the RENO ontology and the suggestion list, the following renovation path is proposed:
+
+#### Phase 1: Thermal Envelope Optimization
+1. **Insulate Walls on Exterior**: Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Exterior insulation is recommended to eliminate thermal bridges and improve thermal performance.
+2. **Insulate Floor Above Basement**: The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+3. **Insulate Flat Roof**: The `RoofExtension` is currently not insulated. This is a priority as heat rises rapidly through flat sections.
+
+#### Phase 2: Heating & Emission System Transition
+1. **Place Air-Water Heat Pump**: Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+2. **Place Emission System on Low Temperature**: Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+#### Phase 3: Sustainable Energy Generation
+1. **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Step 4: Summary of Optimal Sequence
+The proposed sequence of actions is as follows:
+
+1. **Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Flat Roof Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+### Step 5: Expected Outcomes
+- **Improved EPC Score**: The proposed renovations should significantly improve the EPC score, moving the building towards a higher energy efficiency label.
+- **Reduced Energy Consumption**: The combination of better insulation, a more efficient heating system, and renewable energy generation will reduce the building's overall energy consumption.
+- **Enhanced Comfort**: Improved insulation and a more efficient heating system will enhance the comfort of the living spaces.
+
+### Step 6: Additional Considerations
+- **Cost-Effectiveness**: The proposed sequence ensures that the most cost-effective improvements are made first, maximizing the return on investment.
+- **Long-Term Benefits**: The installation of PV panels ensures long-term benefits by reducing reliance on non-renewable energy sources.
+- **Compliance with Regulations**: Ensure that all renovations comply with local building codes and regulations.
+
+This structured approach ensures that the renovation plan is both effective and efficient, aligning with the building's specific characteristics and the owner's motivation to improve the EPC rating.

@@ -1,0 +1,68 @@
+Based on the provided RDF data and the RENO ontology, here's a step-by-step renovation plan that prioritizes energy efficiency and cost-effectiveness while following the "fabric-first" approach:
+
+### Key Observations:
+1. **Building Type**: Semi-detached house built in 1951 (older construction).
+2. **Current EPC**: 388 (E Label - poor energy performance).
+3. **Primary Goal**: Improve EPC rating (owner's motivation).
+4. **Thermal Envelope**:
+   - Exterior walls (Front, Rear, Right) are uninsulated.
+   - Flat roof (RoofExtension) is moderately insulated.
+   - Gable roof (RoofMain) is uninsulated.
+   - Floor above basement is uninsulated.
+5. **Windows**: Double-glazed, but frames are wooden and potentially not thermally broken.
+6. **Heating System**: Radiator-based floor heating (current system).
+7. **Ventilation**: Basic natural ventilation (VentilationSystemA).
+8. **PV Potential**: Yes (opportunity for solar panels).
+
+### Proposed Renovation Path:
+#### Phase 1: Thermal Envelope Optimization (Fabric-First Approach)
+1. **Insulate Exterior Walls (Priority High)**
+   - **Action**: Insulate walls on exterior (Wall_Front, Wall_Rear, Wall_Right).
+   - **Rationale**: Exterior insulation is most effective for full brick walls. Avoids the need to relocate sockets, pipes, and radiators (as with interior insulation).
+   - **Cost**: 200 EUR/m² (high initial cost but long-term savings).
+
+2. **Insulate Gable Roof (Priority High)**
+   - **Action**: Insulate the uninsulated gable roof (RoofMain).
+   - **Rationale**: Roof insulation is critical for heat retention. The existing flat roof (RoofExtension) is already moderately insulated, so this is the remaining priority.
+
+3. **Insulate Floor Above Basement (Priority Medium)**
+   - **Action**: Insulate the floor above basement (FloorAboveBasement).
+   - **Rationale**: Prevents heat loss to the basement and improves comfort on the upper floor.
+
+#### Phase 2: Window & Frame Upgrades (Priority Medium)
+4. **Insulate Window Frames (Priority Medium)**
+   - **Action**: Ensure wooden window frames (WoodenWindowFrame) are thermally broken if they are not already.
+   - **Rationale**: Wooden frames without thermal breaks can be significant sources of heat loss. This is a cost-effective upgrade compared to full window replacement.
+
+5. **Replace Glazing (Optional, if Budget Allows)**
+   - **Action**: Consider upgrading glazing from double to triple glazing (WindowGlazingLivingArea, WindowGlazingBedrooms).
+   - **Rationale**: Triple glazing offers even better thermal performance but is more expensive. Prioritize only if budget allows after the above steps.
+
+#### Phase 3: Heating System Transition (Priority High)
+6. **Place Air-Water Heat Pump (Priority High)**
+   - **Action**: Install an air-water heat pump (PlaceAirWaterHeatpump).
+   - **Rationale**: Replacing the existing boiler with a heat pump is essential for energy efficiency. Since geothermal potential is "false" and there is no heat grid, an air-water heat pump is the best option.
+
+7. **Place Emission System on Low Temperature (Priority High)**
+   - **Action**: Transition radiators to a low-temperature emission system (PlaceEmissionSystemLowTemperature).
+   - **Rationale**: Ensures the heat pump operates efficiently by avoiding high-temperature demands.
+
+#### Phase 4: Ventilation Upgrade (Priority Medium)
+8. **Replace Ventilation System (Priority Medium)**
+   - **Action**: Upgrade from natural ventilation (VentilationSystemA) to a more efficient system (e.g., VentilationSystemC or VentilationSystemD).
+   - **Rationale**: Modern ventilation ensures air quality and prevents moisture buildup in a sealed envelope.
+
+#### Phase 5: Sustainable Energy Generation (Priority Long-Term)
+9. **Place PV Panels on Roof (Priority Long-Term)**
+   - **Action**: Install PV panels on the roof (PlacePVPanelsRoof).
+   - **Rationale**: Offsets the electricity consumption of the heat pump and ventilation system, further improving the EPC rating.
+
+### Summary of Optimal Sequence:
+**Exterior Wall Insulation** → **Roof Insulation** → **Floor Insulation** → **Frame Insulation** → **Heat Pump Transition** → **Low-Temp Emission Upgrade** → **Ventilation Upgrade** → **PV Panels**.
+
+### Cost-Effectiveness Notes:
+- The sequence prioritizes high-impact, cost-effective measures first.
+- The order ensures that the building's thermal envelope is optimized before investing in a new heating system.
+- PV panels are the last step to ensure renewable energy generation aligns with the optimized building.
+
+This plan follows the "fabric-first" principle and aligns with the owner's goal of improving the EPC rating while maximizing energy efficiency and long-term savings.

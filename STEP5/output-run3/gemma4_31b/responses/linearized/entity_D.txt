@@ -1,0 +1,25 @@
+Based on the provided building data and the RENO ontology, this property is a modern semi-detached building (constructed in 2017) that is already exceptionally energy-efficient, with an **EPC score of 87 (A Label)**. 
+
+The building already features high-performance systems, including a **Heat Pump**, a **Ventilation System D** (the most efficient type), and existing **PV Panels**. Most of the thermal envelope is already "Well Insulated." Because the building is already near peak efficiency, the focus shifts from "major overhaul" to "marginal gains" to further lower the EPC score.
+
+### Proposed Renovation Path
+
+Since the building is already highly optimized, a traditional "Fabric First" approach is mostly complete. The remaining opportunities for improvement are limited to the few elements that are not yet "Well Insulated."
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low-Medium)
+The only structural element not rated as "Well Insulated" is the main gable roof.
+1.  **Insulate Gable Roof:** The `RoofMain` is currently "Moderately Insulated." Upgrading the insulation of the gable roof to a "Well Insulated" grade is the most direct way to reduce the remaining heat loss and further lower the EPC score.
+
+#### Phase 2: High-Performance Glazing (Priority: Low)
+While the windows are already double-glazed and the frames are in a good state, there is a small window for improvement in thermal transmittance.
+2.  **Replace Glazing:** Upgrading from **Double Glazing to Triple Glazing** in the living area and bedrooms would further reduce thermal bridges and improve the building's overall U-value. Given the current EPC of 87, this is a luxury upgrade for maximum efficiency rather than a necessity for comfort.
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only remaining "Moderately Insulated" structural element to minimize heat loss. |
+| **2** | **Replace Glazing** | Moves from double to triple glazing to capture the final marginal gains in the building's thermal performance. |
+
+**Conclusion:** 
+The building is in excellent condition. No changes to the heating system (Heat Pump), ventilation (System D), or energy generation (PV Panels) are recommended, as these are already at the highest efficiency standards. The proposed steps are purely to refine the thermal envelope to push the EPC score even lower.

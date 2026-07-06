@@ -1,0 +1,26 @@
+To maximize energy efficiency and improve the EPC label for this 19th-century attached building, I propose a **"Fabric First"** renovation path. By prioritizing the thermal envelope before upgrading technical systems, we ensure that new heating systems are sized correctly and operate at peak efficiency.
+
+### Phase 1: Thermal Envelope Optimization (Highest EPC Impact)
+Focus on eliminating the primary sources of heat loss. Since the building is an attached structure, we focus on the exposed elements.
+
+1.  **Insulate Flat Roof (Extension):** The roof extension is currently not insulated. This is a priority as heat rises and flat roofs are significant sources of thermal leakage.
+2.  **Insulate Floor Above Basement:** The floor is currently not insulated. Adding insulation here prevents "cold feet" and significantly reduces the energy required to heat the living spaces.
+3.  **Insulate Walls (Exterior):** Both the front and rear full-brick walls are not insulated. Given the construction year (1832) and the lack of historical protection, **exterior wall insulation** is the most effective method to eliminate thermal bridges and improve the U-value of the building shell.
+
+### Phase 2: Heating & Emission System Upgrade
+Once the building is airtight and insulated, the heating demand will drop, allowing for a shift to more sustainable, low-temperature technology.
+
+4.  **Transition to Low-Temperature Emission:** Since there is a recorded reason to change the emission system, the existing radiators should be upgraded to a **low-temperature emission system**. This is a prerequisite for the efficient operation of a heat pump.
+5.  **Install Air-Water Heat Pump:** With geothermal options unavailable at this site, an **air-water heat pump** is the most cost-effective and efficient alternative to the current boiler.
+6.  **Install Heat Pump Boiler:** To further reduce reliance on the main heating system, a dedicated heat pump boiler should be installed for domestic hot water.
+
+### Phase 3: Ventilation & Renewable Energy (Long-term Performance)
+The final steps focus on air quality and offsetting remaining energy costs with on-site production.
+
+7.  **Replace Ventilation System:** Upgrading from System A to a more modern system (e.g., System C or D) will prevent moisture buildup (common after adding insulation) and improve overall thermal comfort.
+8.  **Install PV Panels on Roof:** The building has confirmed potential for solar energy. Installing PV panels will allow the owner to generate their own electricity to power the new heat pump, drastically lowering operational costs.
+
+### Summary of the Optimal Sequence
+**Insulation (Flat Roof $\rightarrow$ Floor $\rightarrow$ Walls) $\longrightarrow$ Low-Temp Emission $\longrightarrow$ Air-Water Heat Pump $\longrightarrow$ Ventilation $\longrightarrow$ PV Panels.**
+
+**Cost-Effectiveness Note:** By avoiding the replacement of windows (which are already double-glazed and in good state), we allocate the budget toward high-impact insulation and renewable energy, providing the fastest path to a better EPC label.

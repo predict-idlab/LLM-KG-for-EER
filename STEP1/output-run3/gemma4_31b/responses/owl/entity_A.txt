@@ -1,0 +1,46 @@
+Based on the provided RENO ontology and the specific building data, the property is a **1951 semi-detached house** with an energy score of **388 kWh/m²year (D label)**. The owner's primary motivation is to **improve the EPC label**. 
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First" approach**. This means we first minimize heat loss through the building envelope before upgrading the technical heating systems, ensuring that the new systems are appropriately sized and highly efficient.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (High Impact, Low-to-Moderate Cost)
+*These steps prevent energy waste and are the most cost-effective ways to lower the EPC score.*
+
+1.  **Insulate Gable Roof** (Ordering: 28)
+    *   **Reasoning:** The main roof is currently not insulated. Heat rises, and this is the fastest way to reduce energy consumption.
+    *   **Attention:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+2.  **Insulate Exterior Walls** (Ordering: 40)
+    *   **Reasoning:** All three outer walls (Front, Rear, Right) are full brick and not insulated. Exterior insulation is generally more efficient than interior insulation.
+    *   **Attention:** Since there is no historical protection, this is the optimal choice to eliminate thermal bridges.
+3.  **Insulate Floor Above Basement** (Ordering: 49)
+    *   **Reasoning:** The floor above the basement is not insulated, leading to significant heat loss into the lower level.
+
+#### Phase 2: Ventilation & Air Quality (Moderate Impact)
+*Improving ventilation is necessary once the house is "sealed" via insulation to prevent humidity issues.*
+
+4.  **Replace Ventilation System** (Ordering: 52)
+    *   **Reasoning:** The building currently uses Ventilation System A (natural supply/exhaust). Upgrading to System C or D will improve air quality and thermal efficiency.
+
+#### Phase 3: Energy Generation & Emission (High Investment, Long-term Gain)
+*Now that the building is insulated, we can install a smaller, more efficient heating system.*
+
+5.  **Install Air-Water Heat Pump** (Ordering: 67)
+    *   **Reasoning:** There is a stated reason to change the emission system, and the building has radiators and floor heating (compatible with low-temperature systems). Geothermal and Heat Grids are unavailable at this site.
+    *   **Attention:** This replaces the existing boiler with a sustainable, electricity-driven alternative.
+6.  **Install PV-Panels on Roof** (Ordering: 85)
+    *   **Reasoning:** The building has high PV potential. Generating your own electricity is crucial to offset the cost of running the new heat pump.
+    *   **Attention:** Since the gable roof is in "Good State" and not asbestos-containing, it is ready for installation.
+
+---
+
+### Summary of the Strategy
+
+| Sequence | Action | Primary Goal | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Wall $\rightarrow$ Floor Insulation** | Reduce Heat Loss | **Very High** (Lowest cost per kWh saved) |
+| **2** | **Ventilation Upgrade** | Air Quality/Efficiency | **Moderate** |
+| **3** | **Air-Water Heat Pump** | Decarbonize Heating | **High** (Operational savings) |
+| **4** | **Solar PV Panels** | Energy Independence | **High** (Reduces electricity bills) |
+
+**Final Result:** By following this sequence, the building will move from a **D label** toward an **A or B label**, significantly increasing the market value and drastically reducing monthly energy costs.

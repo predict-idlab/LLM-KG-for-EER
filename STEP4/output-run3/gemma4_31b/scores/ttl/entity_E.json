@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior"], "extra_actions": ["insulate wall cavities", "insulate floor above crawl space"]}, "sequence": {"order_errors": ["place air-water heatpump"]}}

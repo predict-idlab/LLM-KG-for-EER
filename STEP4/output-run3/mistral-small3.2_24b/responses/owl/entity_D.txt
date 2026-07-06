@@ -1,0 +1,52 @@
+### Renovation Plan for Semi-Detached Building (2017)
+The property is a semi-detached building from 2017 with an EPC score of 87 (A Label). The owner's primary motivation is to improve the EPC rating.
+
+#### **Current Energy Efficiency Status**
+- The building is well-insulated (`WellInsulated` for most elements).
+- Windows are double-glazed (`DoubleGlazing`).
+- The heating system is a heat pump (`HeatPump`).
+- Ventilation is System D (`VentilationSystemD`).
+- There is no potential for PV panels (`false`).
+- No reasons to change the emission system (`false`).
+
+#### **Renovation Recommendations**
+Since the building already has a high EPC score, the focus should be on **maintaining and optimizing the current setup** rather than major renovations.
+
+1. **Regular Maintenance of Heat Pump and Ventilation System**
+   - Schedule annual inspections and maintenance for the heat pump and ventilation system to ensure optimal performance.
+   - Clean or replace filters in the ventilation system regularly to maintain air quality.
+
+2. **Window Maintenance**
+   - Check the condition of the double-glazed windows. If any damage or drafts are detected, repair or replace the affected units.
+   - Ensure that all windows are properly sealed to prevent air leakage.
+
+3. **Energy-Efficient Lighting and Appliances**
+   - Replace any remaining incandescent bulbs with LED lighting.
+   - Upgrade to energy-efficient appliances if any are outdated.
+
+4. **Smart Thermostat Installation**
+   - Install a smart thermostat to optimize heating schedules and reduce energy consumption.
+
+5. **Monitor and Optimize Heat Pump Performance**
+   - Regularly check the performance of the heat pump and adjust settings as needed to ensure it operates efficiently.
+
+6. **Inspect and Maintain Insulation**
+   - Periodically inspect the insulation of walls, roof, and floor to ensure it remains in good condition.
+   - Address any areas where insulation may have degraded or become damaged.
+
+7. **Review and Optimize Energy Consumption Patterns**
+   - Analyze energy consumption patterns to identify areas for further efficiency improvements.
+   - Consider installing a home energy management system to monitor and control energy use.
+
+#### **Summary of Actionable Steps**
+| Action | Rationale |
+|---|---|
+| **Maintain Heat Pump & Ventilation System** | Ensures optimal performance and efficiency. |
+| **Window Maintenance** | Prevents air leakage and maintains insulation. |
+| **Energy-Efficient Lighting & Appliances** | Reduces energy consumption. |
+| **Install Smart Thermostat** | Optimizes heating schedules and reduces energy use. |
+| **Monitor Heat Pump Performance** | Ensures the heat pump operates efficiently. |
+| **Inspect and Maintain Insulation** | Maintains the integrity of the building's thermal envelope. |
+| **Review and Optimize Energy Consumption Patterns** | Identifies further efficiency opportunities. |
+
+By following this plan, the building's high EPC score can be maintained and potentially further improved, ensuring continued energy efficiency and cost savings.

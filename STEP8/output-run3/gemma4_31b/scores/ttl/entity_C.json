@@ -1,0 +1,7 @@
+{"completeness": {
+    "missing_actions": [],
+    "extra_actions": ["place heatpumpboiler"]
+},
+"sequence": {
+    "order_errors": ["place air-water heatpump"]
+}}

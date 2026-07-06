@@ -1,0 +1,72 @@
+### Renovation Plan for Detached Building (Construction Year: 1862)
+
+**Objective:** Improve energy efficiency while remaining cost-effective.
+
+#### **1. Roof and Attic Improvements**
+- **Replace Gable Roof (Priority: High)**
+  - **Reason:** The building has a gable roof with well-insulated but potentially outdated materials.
+  - **Action:** Replace the existing gable roof with a more energy-efficient roofing system.
+  - **Considerations:** Ensure proper insulation and vapour barrier installation.
+
+- **Insulate Attic Floor (Priority: Medium)**
+  - **Reason:** The attic floor is likely not insulated, leading to heat loss.
+  - **Action:** Install high-quality insulation (e.g., mineral wool or rigid foam) to reduce heat loss.
+  - **Considerations:** Ensure proper vapour barrier installation to prevent condensation.
+
+#### **2. Wall Insulation**
+- **Insulate Wall Cavity (Priority: High)**
+  - **Reason:** The walls are cavity walls with no insulation, leading to significant heat loss.
+  - **Action:** Inject insulation material (e.g., mineral wool or foam) into the wall cavities.
+  - **Considerations:** Check for suitability (e.g., cavity width, contamination) before injection.
+
+- **Insulate Wall on Exterior (Priority: Medium)**
+  - **Reason:** Exterior wall insulation can significantly improve thermal comfort and energy efficiency.
+  - **Action:** Apply external wall insulation systems (EWIS) to the front, left, rear, and right walls.
+  - **Considerations:** Ensure compliance with local regulations and building lines.
+
+#### **3. Window and Glazing Upgrades**
+- **Replace Glazing (Priority: Medium)**
+  - **Reason:** Single glazing has poor thermal and acoustic properties.
+  - **Action:** Upgrade to double or triple glazing to improve insulation.
+  - **Considerations:** Ensure window frames are in good condition and can support new glazing.
+
+- **Replace Windows (Priority: Low)**
+  - **Reason:** Existing windows may be draughty and inefficient.
+  - **Action:** Replace old windows with energy-efficient windows (e.g., double-glazed with low-emissivity coatings).
+  - **Considerations:** Choose frames made of materials with good insulation properties (e.g., uPVC, wood with thermal break).
+
+#### **4. Ventilation System**
+- **Replace Ventilation System (Priority: Medium)**
+  - **Reason:** The current ventilation system (Type A) may be inadequate.
+  - **Action:** Upgrade to a more efficient ventilation system (e.g., Type C or D) to improve air quality and energy efficiency.
+  - **Considerations:** Ensure proper installation of ducts and grilles.
+
+#### **5. Emission System**
+- **Place Emission System on Low Temperature (Priority: Medium)**
+  - **Reason:** Low-temperature emission systems are more efficient and compatible with heat pumps.
+  - **Action:** Install underfloor heating or low-temperature radiators.
+  - **Considerations:** Ensure compatibility with the existing heating system.
+
+#### **6. Additional Recommendations**
+- **Place PV-Panels on Roof (Priority: High)**
+  - **Reason:** The building has potential for PV installation, and solar energy can significantly reduce energy costs.
+  - **Action:** Install photovoltaic (PV) panels on the roof.
+  - **Considerations:** Check roof orientation, shading, and local regulations.
+
+- **Place Air-Water Heat Pump (Priority: Medium)**
+  - **Reason:** Heat pumps are energy-efficient and can reduce reliance on conventional heating systems.
+  - **Action:** Install an air-water heat pump for space and water heating.
+  - **Considerations:** Ensure proper sizing and installation for optimal performance.
+
+### **Optimal Sequence of Renovation Steps**
+1. **Replace Gable Roof** (High Priority)
+2. **Insulate Wall Cavity** (High Priority)
+3. **Insulate Attic Floor** (Medium Priority)
+4. **Replace Glazing** (Medium Priority)
+5. **Replace Ventilation System** (Medium Priority)
+6. **Place Emission System on Low Temperature** (Medium Priority)
+7. **Replace Windows** (Low Priority)
+8. **Install PV-Panels on Roof** (High Priority)
+9. **Install Air-Water Heat Pump** (Medium Priority)
+
+This plan prioritizes actions that provide the most significant energy savings and cost reductions while considering the building's specific characteristics and constraints.

@@ -1,0 +1,73 @@
+### Renovation Plan for the Given Building
+
+#### Building Characteristics:
+- **Type**: Semi-detached building
+- **Construction Year**: 1951
+- **Net Floor Area**: 149.0 m²
+- **Current EPC Score**: 388 (D Label)
+- **Primary Motivation**: To improve the EPC rating
+- **Potential for PV**: True
+- **Presence of Heat Grid**: False
+- **Insulation Status**:
+  - Walls: Not insulated
+  - Roof (Gable Roof): Not insulated
+  - Roof (Flat Roof): Moderately insulated
+  - Floor Above Basement: Not insulated
+- **Windows**:
+  - Living Area: Double glazing
+  - Bedrooms: Double glazing
+  - Frames: Wooden, in good state
+- **Heating System**: Air heating with radiators
+- **Ventilation System**: Type A (natural supply and exhaust)
+
+#### Proposed Renovation Path:
+
+**Phase 1: Thermal Envelope Optimization (Priority: High)**
+1. **Insulate Gable Roof**:
+   - **Reason**: The gable roof is currently not insulated, leading to significant heat loss.
+   - **Action**: Insulate the gable roof to improve thermal retention.
+   - **Estimated Cost**: Unit price varies; typically moderate.
+
+2. **Insulate Wall on Exterior**:
+   - **Reason**: All external walls (Front, Rear, Right) are not insulated, contributing to thermal bridges.
+   - **Action**: Insulate the walls on the exterior to eliminate thermal bridges and improve insulation.
+   - **Estimated Cost**: Unit price varies; typically moderate to high.
+
+3. **Insulate Floor Above Basement**:
+   - **Reason**: The floor above the basement is not insulated, leading to cold drafts and heat loss.
+   - **Action**: Insulate the floor above the basement to prevent heat loss.
+   - **Estimated Cost**: Unit price varies; typically low to moderate.
+
+**Phase 2: Heating System Upgrade (Priority: Medium)**
+4. **Place Air-Water Heat Pump**:
+   - **Reason**: The current heating system (air heating with radiators) is inefficient. An air-water heat pump is more energy-efficient and suitable for the building's new thermal envelope.
+   - **Action**: Install an air-water heat pump to replace the existing heating system.
+   - **Estimated Cost**: Fixed price; typically high.
+
+5. **Place Emission System on Low Temperature**:
+   - **Reason**: To maximize the efficiency of the new heat pump, the emission system should be transitioned to low-temperature emissions.
+   - **Action**: Upgrade the radiators to low-temperature emissions.
+   - **Estimated Cost**: Unit price varies; typically moderate.
+
+**Phase 3: Sustainable Energy Generation (Priority: Long-term)**
+6. **Place PV-Panels on Roof**:
+   - **Reason**: The building has potential for PV, and installing solar panels will provide renewable electricity to power the heat pump and other systems.
+   - **Action**: Install PV panels on the roof to generate renewable energy.
+   - **Estimated Cost**: Unit price varies; typically moderate.
+
+**Phase 4: Ventilation Upgrade (Priority: Medium)**
+7. **Replace Ventilation System**:
+   - **Reason**: The current ventilation system (Type A) is inefficient and does not ensure proper air quality in a sealed envelope.
+   - **Action**: Upgrade to a more efficient ventilation system (e.g., Type D) to ensure proper air quality and reduce energy consumption.
+   - **Estimated Cost**: Unit price varies; typically moderate.
+
+#### Summary of Optimal Sequence:
+1. **Insulate Gable Roof**
+2. **Insulate Wall on Exterior**
+3. **Insulate Floor Above Basement**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Place PV-Panels on Roof**
+7. **Replace Ventilation System**
+
+This sequence ensures that the building's thermal envelope is optimized first, followed by the installation of a more efficient heating system, and finally the integration of renewable energy sources. The ventilation system is upgraded to ensure proper air quality in the sealed envelope. This approach maximizes energy efficiency and cost-effectiveness while improving the EPC rating.

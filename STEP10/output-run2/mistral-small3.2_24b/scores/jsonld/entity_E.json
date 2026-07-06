@@ -1,0 +1,14 @@
+{
+    "completeness": {
+        "missing_actions": [
+            "place emission system on low temperature"
+        ],
+        "extra_actions": [
+            "insulate wall cavity",
+            "insulate floor above crawl space"
+        ]
+    },
+    "sequence": {
+        "order_errors": []
+    }
+}

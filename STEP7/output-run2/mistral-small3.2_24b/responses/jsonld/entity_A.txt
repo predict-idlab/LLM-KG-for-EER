@@ -1,0 +1,15 @@
+1. replace flat roof
+2. replace gable roof
+3. insulate wall on exterior
+4. replace glazing
+5. replace windows
+6. insulate floor above basement
+7. connect to heatgrid
+8. place air-air heatpump
+9. place horizontal geothermal heatpump
+10. place emission system on low temperature
+11. place air-water heatpump with cooling
+12. place heatpumpboiler
+13. place sunshade
+14. place airconditioning
+15. place pv-panels on roof

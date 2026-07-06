@@ -1,0 +1,14 @@
+{
+	"completeness": {
+		"score": 1,
+		"justification": "The LLM's answer omits 'place emission system on low temperature' from the ground truth, adding 'insulate floor above basement' which is not in the ground truth."
+	},
+	"sequence": {
+		"score": 1,
+		"justification": "The LLM places 'insulate floor above basement' out of order, as it should follow 'insulate wall on interior' in the correct sequence."
+	},
+	"verbosity": {
+		"score": 2,
+		"justification": "The LLM includes excessive descriptive text and justifications not in imperative form, and uses detailed explanations instead of concise actions."
+	}
+}

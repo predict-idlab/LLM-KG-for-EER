@@ -1,0 +1,82 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **1. Roof and Attic Improvements**
+- **Insulate Gable Roof (RoofMain)**
+  - **Reasoning**: The main roof (gable roof) is not insulated (reno:NotInsulated). Insulating it will significantly improve thermal performance.
+  - **Action**: Install insulation with a vapour barrier on the warm side.
+  - **Cost**: €60/m² (ordering 28).
+  - **Note**: Condensation problems can occur without a vapour barrier.
+
+- **Insulate Attic Floor**
+  - **Reasoning**: The attic floor is not explicitly mentioned but is likely part of the uninsulated spaces. Insulating it will reduce heat loss.
+  - **Action**: Install insulation (consider walkable insulation if needed).
+  - **Cost**: €60/m² (ordering 31).
+  - **Note**: A vapour barrier is necessary to prevent condensation.
+
+#### **2. Wall Insulation**
+- **Insulate Wall on Interior (Wall_Front, Wall_Rear, Wall_Right)**
+  - **Reasoning**: All walls are full brick walls with no insulation (reno:NotInsulated). Interior insulation is less disruptive than exterior insulation.
+  - **Action**: Install interior wall insulation, ensuring sockets, pipes, and radiators are relocated if necessary.
+  - **Cost**: €150/m² (ordering 37).
+  - **Note**: Consult an architect or contractor for expert advice.
+
+#### **3. Window and Glazing Upgrades**
+- **Replace Glazing (WindowsBedrooms, WindowsLivingArea)**
+  - **Reasoning**: The windows have double glazing, which is better than single glazing but could be upgraded to triple glazing for better insulation.
+  - **Action**: Replace glazing with triple glazing (if budget allows) or ensure existing double glazing is in good condition.
+  - **Cost**: €200/m² (ordering 43).
+
+- **Replace Windows (if necessary)**
+  - **Reasoning**: If window frames (wooden frames) are old or damaged, replacing them with modern, thermally broken frames can improve insulation.
+  - **Action**: Replace windows with energy-efficient frames and glazing.
+  - **Cost**: €800/m² (ordering 46).
+
+#### **4. Floor Insulation**
+- **Insulate Floor Above Basement (FloorAboveBasement)**
+  - **Reasoning**: The floor above the basement is not insulated, leading to potential heat loss.
+  - **Action**: Install insulation on the floor above the basement.
+  - **Cost**: €30/m² (ordering 49).
+
+#### **5. Ventilation System Upgrade**
+- **Replace Ventilation System (VentilationSystem)**
+  - **Reasoning**: The current ventilation system is type A (natural air supply and exhaust), which may not be sufficient for energy efficiency.
+  - **Action**: Upgrade to a more efficient ventilation system (e.g., type C or D).
+  - **Cost**: €3500 (fixed) + €17/m² (ordering 52).
+
+#### **6. Heating System Upgrades**
+- **Place Heat Pump Boiler (Generation_System)**
+  - **Reasoning**: The current heating system (air heating, floor heating, radiator) may not be the most energy-efficient. A heat pump boiler can reduce energy consumption.
+  - **Action**: Install a heat pump boiler.
+  - **Cost**: €4000 (ordering 76).
+
+- **Place Emission System on Low Temperature (EmissionSystem)**
+  - **Reasoning**: Low-temperature emission systems are more efficient and can work well with heat pumps.
+  - **Action**: Install a low-temperature emission system.
+  - **Cost**: €100/m² (ordering 70).
+
+#### **7. Solar Panel Installation**
+- **Place PV-Panels on Roof (RoofMain, RoofExtension)**
+  - **Reasoning**: The building has potential for PV panels (reno:hasPotentialForPV true), and installing them can reduce energy costs and improve sustainability.
+  - **Action**: Install PV panels on the roof, ensuring they are properly oriented and not shaded.
+  - **Cost**: €275/m² (ordering 85).
+  - **Note**: Check for asbestos in the roof before installation.
+
+#### **8. Additional Recommendations**
+- **Place Sunshade**
+  - **Reasoning**: Outdoor blinds can improve thermal comfort and reduce cooling needs in summer.
+  - **Action**: Install sunshades on windows facing direct sunlight.
+  - **Cost**: €750 (ordering 79).
+
+### **Summary of Prioritized Actions**
+1. **Insulate Gable Roof** (RoofMain)
+2. **Insulate Attic Floor**
+3. **Insulate Walls on Interior** (Wall_Front, Wall_Rear, Wall_Right)
+4. **Replace Glazing** (WindowsBedrooms, WindowsLivingArea)
+5. **Insulate Floor Above Basement** (FloorAboveBasement)
+6. **Replace Ventilation System** (VentilationSystem)
+7. **Place Heat Pump Boiler** (Generation_System)
+8. **Place Emission System on Low Temperature** (EmissionSystem)
+9. **Place PV-Panels on Roof** (RoofMain, RoofExtension)
+10. **Place Sunshade**
+
+This plan focuses on maximizing energy efficiency while keeping costs manageable. The sequence ensures that each step builds on the previous improvements for optimal performance.

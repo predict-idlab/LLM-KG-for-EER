@@ -1,0 +1,64 @@
+### Renovation Plan for Detached House in Ghent, Belgium
+
+**Current EPC Score:** 165 (F Label)
+**Building Type:** Detached house, built in 1862
+**Net Floor Area:** 136 m²
+**Key Issues:**
+- Uninsulated cavity walls (front, rear, left, right)
+- Uninsulated floor above crawl space
+- Single-glazed windows
+- Outdated heating systems (boiler + radiators, underfloor heating, air heating, electric convectors)
+- Basic natural ventilation system
+
+**Renovation Priorities:**
+1. **Insulate cavity walls** (most cost-effective improvement for heat retention)
+2. **Insulate floor above crawl space** (reduce heat loss through the floor)
+3. **Replace single-glazed windows with double or triple glazing** (improve thermal performance)
+4. **Upgrade heating system to an air-water heat pump** (more efficient and sustainable)
+5. **Install low-temperature emission systems** (optimize heat pump performance)
+6. **Add photovoltaic (PV) panels** (generate renewable energy to power the heat pump)
+7. **Upgrade ventilation system** (ensure air quality in a sealed building)
+
+### Proposed Renovation Path
+
+#### **Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+The goal is to minimize heat loss before upgrading heating systems.
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **1** | **Insulate Cavity Walls** | Cavity wall insulation is cost-effective and significantly reduces heat loss. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents cold air from the crawl space from entering the living space. |
+
+#### **Phase 2: Window Upgrades**
+Single-glazed windows are a major source of heat loss.
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **3** | **Replace Windows with Double or Triple Glazing** | Improves thermal performance and reduces heat loss. |
+
+#### **Phase 3: Heating System Upgrade**
+With a well-insulated envelope, the heating demand is lower, allowing for a more efficient system.
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **4** | **Install Air-Water Heat Pump** | More efficient and sustainable than the existing boiler. |
+| **5** | **Upgrade to Low-Temperature Emission Systems** | Maximizes the heat pump’s efficiency. |
+
+#### **Phase 4: Sustainable Energy Generation**
+Reduces reliance on grid electricity and improves EPC score.
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **6** | **Install Photovoltaic (PV) Panels** | Generates renewable energy to power the heat pump and other systems. |
+
+#### **Phase 5: Ventilation Upgrade**
+Ensures good air quality in a now-sealed building.
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **7** | **Upgrade to a Mechanical Ventilation System (e.g., System C or D)** | Maintains indoor air quality and prevents moisture buildup. |
+
+### Summary of Optimal Sequence
+**Cavity Wall Insulation** → **Floor Insulation** → **Window Replacement** → **Air-Water Heat Pump** → **Low-Temperature Emission Upgrade** → **PV Panels** → **Ventilation Upgrade**
+
+This phased approach ensures that each upgrade maximizes energy efficiency while remaining cost-effective. By following this sequence, the EPC score will improve significantly, reducing long-term energy costs and enhancing comfort.

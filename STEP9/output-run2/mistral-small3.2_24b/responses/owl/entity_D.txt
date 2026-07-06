@@ -1,0 +1,54 @@
+Based on the provided ontology, suggestion list, and entity information, here's a concise and actionable renovation plan for the building:
+
+### Renovation Plan:
+1. **Insulate Flat Roof (RoofExtension)**
+   - **Action:** Insulate the flat roof extension.
+   - **Reason:** The current insulation grade is "well insulated," but improving it further can enhance energy efficiency.
+   - **Cost:** €50 per m² (as per the ontology).
+   - **Nuisance Level:** High.
+   - **Permit Needed:** Not necessary (Flanders).
+
+2. **Insulate Gable Roof (RoofMain)**
+   - **Action:** Insulate the gable roof.
+   - **Reason:** The current insulation grade is "moderately insulated," which can be improved for better energy performance.
+   - **Cost:** €60 per m² (as per the ontology).
+   - **Nuisance Level:** Low.
+   - **Permit Needed:** Not necessary (Flanders).
+
+3. **Replace Glazing (WindowsBedrooms and WindowsLivingArea)**
+   - **Action:** Replace the glazing of the windows in the bedrooms and living area.
+   - **Reason:** The current glazing type is "double glazing," which can be upgraded to a more energy-efficient type (e.g., triple glazing) to improve thermal performance.
+   - **Cost:** €200 per m² (as per the ontology).
+   - **Nuisance Level:** High.
+   - **Permit Needed:** Not necessary (Flanders).
+
+4. **Insulate Floor Above Basement (FloorAboveBasement)**
+   - **Action:** Insulate the floor above the basement.
+   - **Reason:** The current insulation grade is "well insulated," but further improvement can enhance energy efficiency.
+   - **Cost:** €30 per m² (as per the ontology).
+   - **Nuisance Level:** Low.
+   - **Permit Needed:** Not necessary (Flanders).
+
+5. **Replace Ventilation System (VentilationSystem)**
+   - **Action:** Replace the current ventilation system (VentilationSystemD) with a more energy-efficient system.
+   - **Reason:** The current system may not be the most energy-efficient option available.
+   - **Cost:** €3500 (fixed) + €17 per m² (as per the ontology).
+   - **Nuisance Level:** Moderate.
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+6. **Place PV-Panels on Roof (PVPanels)**
+   - **Action:** Install photovoltaic (PV) panels on the roof.
+   - **Reason:** The building has potential for PV installation, and this can significantly reduce energy costs and improve sustainability.
+   - **Cost:** €275 per m² (as per the ontology).
+   - **Nuisance Level:** Low.
+   - **Permit Needed:** Not necessary if the panels are in the same plane (Flanders).
+
+7. **Place Air-Water Heatpump (Generation_System)**
+   - **Action:** Replace the current heat pump with an air-water heat pump.
+   - **Reason:** This can improve the energy efficiency of the heating system.
+   - **Cost:** €8000 (fixed) + €35 per m² (as per the ontology).
+   - **Nuisance Level:** Moderate.
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+### Summary:
+The proposed renovation plan focuses on improving insulation, upgrading glazing, replacing the ventilation system, installing PV panels, and replacing the heat pump. These actions are prioritized based on the current state of the building elements and the potential for energy efficiency improvements. The plan is cost-effective and practical, aligning with the goals of reducing energy consumption and improving the building's overall energy performance.

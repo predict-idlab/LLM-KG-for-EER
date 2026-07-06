@@ -1,0 +1,97 @@
+### **Renovation Plan for Building at Example.com**
+
+#### **Objective:**
+Improve energy efficiency and reduce energy costs while ensuring compliance with regulations and maintaining comfort.
+
+#### **Building Information:**
+- **Type:** Attached building
+- **Construction Year:** 2023
+- **Net Floor Area:** 159.0 m²
+- **Energy Performance Certificate (EPC):** Score of 50
+- **Potential for PV Installation:** No
+- **Presence of Heat Grid:** No
+- **Historical Protection:** No
+- **Resident:** Present, with address details
+
+#### **Key Elements and Their Current States:**
+1. **RoofMain (Gable Roof):**
+   - **Insulation Grade:** Moderately Insulated
+   - **State:** Good
+2. **RoofExtension (Flat Roof):**
+   - **Insulation Grade:** Well Insulated
+   - **State:** Good
+3. **Wall_Front (Full Brick Wall):**
+   - **Insulation Grade:** Well Insulated
+   - **State:** Good
+4. **Wall_Rear (Full Brick Wall):**
+   - **Insulation Grade:** Well Insulated
+   - **State:** Good
+5. **FloorAboveBasement:**
+   - **Insulation Grade:** Well Insulated
+   - **State:** Good
+6. **WindowsLivingArea:**
+   - **Glazing Type:** Double Glazing
+   - **Frame Material:** Wood
+   - **State:** Good
+7. **WindowsBedrooms:**
+   - **Glazing Type:** Double Glazing
+   - **Frame Material:** Wood
+   - **State:** Good
+8. **EmissionSystem:** Electric Convector
+9. **Generation_System:** Boiler
+10. **VentilationSystem:** Ventilation System D
+
+#### **Renovation Interventions:**
+1. **Insulate Flat Roof (RoofExtension):**
+   - **Action:** Insulate the flat roof to improve thermal performance.
+   - **Priority:** High
+   - **Nuisance Level:** High
+   - **Permit Needed:** Only if thickness of total pack >26cm (Flanders)
+   - **Unit Price:** 50 €/m²
+
+2. **Replace Ventilation System:**
+   - **Action:** Upgrade the ventilation system to improve indoor air quality and energy efficiency.
+   - **Priority:** Moderate
+   - **Nuisance Level:** Moderate
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Unit Price:** 17 €/m²
+
+3. **Insulate Floor Above Basement:**
+   - **Action:** Insulate the floor above the basement to reduce heat loss.
+   - **Priority:** Moderate
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Unit Price:** 30 €/m²
+
+4. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump for heating and cooling.
+   - **Priority:** High
+   - **Nuisance Level:** Moderate
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Unit Price:** 35 €/m²
+
+5. **Insulate Gable Roof (RoofMain):**
+   - **Action:** Insulate the gable roof to improve thermal performance.
+   - **Priority:** Moderate
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Unit Price:** 60 €/m²
+
+#### **Implementation Sequence:**
+1. **Insulate Flat Roof (RoofExtension)**
+2. **Replace Ventilation System**
+3. **Insulate Floor Above Basement**
+4. **Place Air-Water Heat Pump**
+5. **Insulate Gable Roof (RoofMain)**
+
+#### **Expected Outcomes:**
+- **Energy Efficiency:** Improved thermal comfort and reduced energy consumption.
+- **Cost Savings:** Lower energy bills due to improved insulation and efficient heating systems.
+- **Compliance:** Adherence to local regulations and standards.
+
+#### **Next Steps:**
+- **Consultation:** Engage with a certified energy auditor to review the plan and ensure compliance.
+- **Permits:** Obtain necessary permits for interventions requiring approval.
+- **Execution:** Schedule the interventions with qualified contractors.
+
+This plan prioritizes actions based on their impact on energy efficiency, cost savings, and regulatory compliance. The sequence ensures that foundational improvements are made before more complex systems are installed.

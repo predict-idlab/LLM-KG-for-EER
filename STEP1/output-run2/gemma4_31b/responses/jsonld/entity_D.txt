@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, here is the energy-efficiency renovation analysis and proposed path.
+
+### 1. Building Status Analysis
+The building is a modern **Semi-Detached Building (constructed in 2017)** with an already high energy performance. 
+*   **Current EPC Score:** 87 (which falls under the **A Label**, the highest efficiency tier).
+*   **Strengths:** The walls (Front, Left, Rear), the floor above the basement, and the flat roof extension are all already **"Well Insulated."** The building also utilizes a **Heat Pump** for generation and a **Ventilation System D** (the most advanced mechanical system), which significantly reduces energy waste.
+*   **Weakness:** The **Main Gable Roof** is currently only **"Moderately Insulated."** This is the primary thermal bridge in an otherwise highly efficient envelope.
+
+---
+
+### 2. Proposed Renovation Path
+Since the building is already at an "A" level, the goal is to maximize the remaining marginal gains to lower the EPC score further while ensuring cost-effectiveness.
+
+#### **Step 1: High Priority — Roof Thermal Optimization**
+*   **Intervention:** **Insulate Gable Roof** (`https://w3id.org/reno#InsulateGableRoof`)
+*   **Reasoning:** This is the only major structural element not rated as "Well Insulated." Heat rises, and the gable roof is the most likely area for thermal loss. Improving this from "Moderate" to "Well" insulated is the most cost-effective way to further reduce the energy score.
+*   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation, as noted in the ontology.
+*   **Sequence:** This must be done before any further heating system tweaks to ensure the "shell" is airtight.
+
+#### **Step 2: Medium Priority — Glazing Upgrade**
+*   **Intervention:** **Replace Glazing** (`https://w3id.org/reno#ReplaceGlazing`) $\rightarrow$ Upgrade to **Triple Glazing** (`https://w3id.org/reno#TripleGlazing`)
+*   **Reasoning:** The building currently has double glazing. While efficient, triple glazing provides a superior U-value. Given the owner's motivation to **"Improve EPC,"** this is the next logical step.
+*   **Cost-Effectiveness:** Since the wooden frames are in "Good State," the owner should evaluate if the frames can support the heavier weight of triple-pane glass to avoid the high cost of replacing the entire window unit.
+
+#### **Step 3: Low Priority — Micro-Generation**
+*   **Intervention:** **Place Plug-and-Play PV-panels** (`https://w3id.org/reno#PlugAndPlayPanels`)
+*   **Reasoning:** The building data explicitly states there is **no potential for standard roof PV** (`hasPotentialForPV: false`) and no potential for geothermal drilling. However, "Plug and Play" panels are a low-cost, low-nuisance alternative that can offset the electricity consumption of the Heat Pump.
+*   **Sequence:** This is a "final touch" intervention that does not affect the thermal envelope but improves the operational energy balance.
+
+---
+
+### 3. Summary of the Optimal Sequence
+
+| Sequence | Action | Target Element | Impact | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | High (Thermal Loss) | Low Nuisance / Moderate Cost |
+| **2** | **Upgrade to Triple Glazing** | Windows | Medium (Thermal Loss) | High Nuisance / High Cost |
+| **3** | **Install Plug-and-Play PV** | Garden/Balcony | Low (Energy Offset) | Low Nuisance / Low Cost |
+
+### Final Expert Recommendation:
+Because the building is already very efficient (EPC A), the **Return on Investment (ROI)** for expensive upgrades like triple glazing may be lower than in an older home. I strongly recommend focusing exclusively on the **Gable Roof insulation** first, as it addresses the only remaining "Moderate" insulation gap in the building's envelope.

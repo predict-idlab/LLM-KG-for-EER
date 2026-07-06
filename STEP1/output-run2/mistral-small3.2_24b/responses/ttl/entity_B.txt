@@ -1,0 +1,77 @@
+Based on the provided RENO ontology and building information, here's a cost-effective and energy-efficient renovation plan for the attached building constructed in 1832:
+
+### Priority 1: Insulation Upgrades (Ordering 25-40)
+1. **Insulate Flat Roof (RoofExtension)**
+   - Current state: Not insulated
+   - Action: Insulate using an inverted roof structure
+   - Cost: €50/m²
+   - Benefits: Reduces heat loss through the roof
+
+2. **Insulate Gable Roof (RoofMain)**
+   - Current state: Moderately insulated
+   - Action: Improve insulation to "WellInsulated" standard
+   - Cost: €60/m²
+   - Benefits: Further reduces heat loss through the roof
+
+3. **Insulate Full Brick Walls (Wall_Front and Wall_Rear)**
+   - Current state: Not insulated
+   - Options:
+     - Exterior insulation (€200/m², high nuisance, permit needed if >26cm)
+     - Interior insulation (€150/m², moderate nuisance)
+   - Recommended: Exterior insulation for better performance and no space loss
+
+### Priority 2: Window Upgrades (Ordering 43-46)
+4. **Replace Windows (WindowsBedrooms and WindowsLivingArea)**
+   - Current state: Wooden frames with double glazing
+   - Action: Replace with modern, thermally broken frames and triple glazing
+   - Cost: €800/m² (including frames and glazing)
+   - Benefits: Reduces heat loss through windows and improves comfort
+
+### Priority 3: Emission System Upgrades (Ordering 52, 55, 58-79)
+5. **Replace Ventilation System (VentilationSystemA)**
+   - Current state: Natural ventilation (Type A)
+   - Action: Upgrade to balanced mechanical ventilation with heat recovery (Type D)
+   - Cost: €3500 + €17/m² for ductwork
+   - Benefits: Improves indoor air quality and reduces heat loss
+
+6. **Consider Heat Grid Connection (ConnectToHeatGrid)**
+   - Current state: No heat grid present
+   - Action: Not applicable in this case
+
+7. **Consider Heat Pump Options (Ordering 58-79)**
+   - Options:
+     - Air-water heat pump (€8000 + €35/m²)
+     - Air-air heat pump (€2000 + €35/m²)
+   - Recommended: Air-water heat pump for whole-house heating and hot water
+
+### Priority 4: Additional Measures (Ordering 85-91)
+8. **Install PV Panels on Roof (PlacePVPanelsOnRoof)**
+   - Current state: Potential for PV confirmed
+   - Action: Install PV panels on the gable roof (RoofMain)
+   - Cost: €275/m²
+   - Benefits: Generates renewable energy to offset consumption
+
+9. **Consider Plug-and-Play PV Panels (PlugAndPlayPanels)**
+   - Action: Install as a supplementary measure
+   - Cost: €550 per panel
+   - Benefits: Quick and easy to install, but limited capacity
+
+### Expected Outcomes:
+- Improved insulation will significantly reduce heat loss and lower energy consumption
+- Upgraded windows will improve thermal comfort and reduce drafts
+- A modern ventilation system will improve indoor air quality
+- Renewable energy generation will reduce reliance on grid-sourced energy
+- The EPC label should improve from current F (262 kWh/m²year) towards a C or B label
+
+### Recommended Sequence:
+1. Insulate roofs (flat and gable)
+2. Replace windows
+3. Upgrade ventilation system
+4. Install heat pump
+5. Install PV panels
+
+### Notes:
+- The building's attached nature may require coordination with neighbors for exterior insulation work
+- Historical protection is not an issue for any elements
+- The current good state of windows and roof means no immediate repairs are needed
+- The recommended measures balance cost-effectiveness with energy efficiency improvements

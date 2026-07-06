@@ -1,0 +1,55 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. 
+
+The building is an **attached house from 1832** with an EPC score of **262 (C Label)**. The primary goal is to improve the EPC. Because the building is an attached structure, heat loss is primarily concentrated on the front and rear facades, the roof, and the floor.
+
+### Strategic Renovation Path
+
+To maximize energy efficiency and cost-effectiveness, we follow the "Fabric First" principle: **Insulate the envelope first, then upgrade ventilation, and finally optimize the heating and energy generation systems.**
+
+#### Phase 1: The Thermal Envelope (Priority: High)
+*Goal: Reduce heat loss to minimize the capacity needed for the future heating system.*
+
+1.  **Insulate Floor Above Basement:**
+    *   **Action:** `reno:InsulateFloorAboveBasement`.
+    *   **Reasoning:** The floor is currently **Not Insulated**. This is a low-nuisance, low-cost upgrade that prevents cold drafts from the basement.
+2.  **Insulate Flat Roof (Extension):**
+    *   **Action:** `reno:InsulateFlatRoof`.
+    *   **Reasoning:** The flat roof is **Not Insulated**. Heat rises, and uninsulated flat roofs are major sources of energy loss.
+3.  **Insulate Exterior Walls (Front & Rear):**
+    *   **Action:** `reno:InsulateWallExterior`.
+    *   **Reasoning:** Both the front and rear walls are **Full Brick Walls** and **Not Insulated**. Since they are full brick, cavity insulation is not an option. Exterior insulation is the most effective way to break thermal bridges and significantly lower the EPC score. (Alternative: `reno:InsulateWallInterior` if budget/permits are an issue, though less efficient).
+
+#### Phase 2: Air Quality & Ventilation (Priority: Medium)
+*Goal: Prevent moisture buildup and mold caused by the increased airtightness from Phase 1.*
+
+4.  **Upgrade Ventilation System:**
+    *   **Action:** `reno:ReplaceVentilationSystem` (Upgrade from System A to System C or D).
+    *   **Reasoning:** The building currently uses **Ventilation System A** (natural supply/exhaust). Once the walls and roof are insulated, the house becomes more airtight; upgrading to a mechanical system is essential for health and humidity control.
+
+#### Phase 3: Heating System Modernization (Priority: Medium-Low)
+*Goal: Replace the inefficient boiler with a sustainable, low-energy alternative.*
+
+5.  **Replace Boiler with Heat Pump:**
+    *   **Action:** `reno:PlaceAirWaterHeatpump`.
+    *   **Reasoning:** The building has a reason to change its emission system. Geothermal and heat grids are unavailable at this site. An Air-Water heat pump is the most compatible upgrade for a home with existing radiators, provided the insulation from Phase 1 has reduced the heat demand.
+
+#### Phase 4: Renewable Energy Generation (Priority: Low/Long-term)
+*Goal: Offset the electricity consumption of the new heat pump.*
+
+6.  **Install Solar Panels:**
+    *   **Action:** `reno:PlacePVPanelsOnRoof`.
+    *   **Reasoning:** The building is marked as having **potential for PV**. Installing panels on the gable roof (which is already in good state) will lower operational costs and further improve the EPC label.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Renovation Step | Cost-Effectiveness | Energy Impact | Nuisance Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Floor & Flat Roof Insulation | Very High | High | Low $\rightarrow$ High |
+| **2** | Exterior Wall Insulation | Moderate | Very High | High |
+| **3** | Ventilation Upgrade | Moderate | Medium | Moderate |
+| **4** | Air-Water Heat Pump | Moderate | Very High | Moderate |
+| **5** | PV Panels | High (Long term) | High | Low |
+
+**Final Outcome:** By following this sequence, the owner avoids "over-sizing" the heat pump (since the home is already insulated) and ensures that the improved airtightness does not lead to dampness (via the ventilation upgrade), resulting in the most cost-effective path to a significantly improved EPC label.

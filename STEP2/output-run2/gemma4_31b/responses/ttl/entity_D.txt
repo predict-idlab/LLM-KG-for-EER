@@ -1,0 +1,35 @@
+### Analysis of Current Building State
+The building is a relatively modern **semi-detached house (constructed in 2017)** with an already high level of energy efficiency. The current **EPC score is 87.0**, which places it in the **A label** category (0-100 kWh/m²year). 
+
+Most building elements are already optimized:
+*   **Walls and Floor:** All exterior walls and the floor above the basement are "Well Insulated."
+*   **Roofing:** The flat roof extension is "Well Insulated."
+*   **Systems:** The home is already equipped with a **Heat Pump** (generation), a **Ventilation System D** (the most efficient mechanical type), and **PV Panels**.
+*   **Windows:** Equipped with double glazing and wooden frames in good condition.
+
+### Proposed Renovation Plan
+Given that the owner's primary motivation is **to improve the EPC**, and the building is already highly efficient, the scope for improvement is narrow. The goal is to target the few remaining "moderately" performing elements to push the EPC score even lower.
+
+#### 1. Primary Energy Upgrade: Insulate Gable Roof
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** The `RoofMain` (Gable Roof) is the only structural element currently rated as **"Moderately Insulated."** Improving this to "Well Insulated" will reduce thermal bridging and heat loss through the top of the house.
+*   **Cost-Effectiveness:** This is a high-impact, relatively low-nuisance upgrade compared to replacing the entire roof structure.
+*   **Point of Attention:** Ensure a vapor barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### 2. Operational Efficiency Upgrade: Install Sunshades
+*   **Action:** `place sunshade`
+*   **Reasoning:** While not a structural insulation upgrade, installing outdoor blinds/sunshades reduces solar heat gain during summer. This lowers the operational load on the heat pump if it is used for cooling, thereby reducing energy consumption.
+*   **Cost-Effectiveness:** Low fixed cost with immediate impact on summer thermal comfort.
+
+### Summary of the Renovation Path
+
+| Sequence | Action | Target Element | Impact | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **Step 1** | **Insulate Gable Roof** | `RoofMain` | High (EPC Reduction) | Low Nuisance / Moderate Cost |
+| **Step 2** | **Place Sunshades** | Windows/Facades | Moderate (Op. Efficiency) | Low Nuisance / Low Cost |
+
+### Exclusions & Justifications
+*   **Window Replacement:** Not recommended. The windows are from 2017 and already feature double glazing; the cost of upgrading to triple glazing would not be cost-effective given the current EPC.
+*   **HVAC Upgrades:** Not recommended. The building already utilizes a Heat Pump and Ventilation System D, which are the gold standards for energy-efficient climate control.
+*   **Geothermal/Heat Grid:** Not feasible. The site data explicitly indicates no potential for horizontal or vertical geothermal drilling and no presence of a heat grid.
+*   **Wall/Floor Insulation:** Not necessary. These are already "Well Insulated."

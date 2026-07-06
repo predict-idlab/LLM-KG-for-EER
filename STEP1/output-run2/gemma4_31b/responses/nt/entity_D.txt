@@ -1,0 +1,42 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path.
+
+### Building Analysis
+The property is a modern **Semi-Detached Building (constructed in 2017)** with an already impressive energy profile. With an **EPC score of 87**, the building is already in the **A-label** category (defined as $< 100$ kWh/m²year). Most elements (walls, floor above basement, and roof extension) are already "Well Insulated," and it is equipped with high-efficiency systems including a **Heat Pump** and **Ventilation System D**.
+
+Since the owner's motivation is to further **improve the EPC**, the focus must shift from "major repairs" to "marginal gains" and high-performance optimization.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the following sequence is recommended. This follows the "fabric-first" principle: reducing energy demand before optimizing generation.
+
+#### Step 1: Roof Thermal Optimization
+*   **Target:** Main Gable Roof.
+*   **Action:** **Insulate Gable Roof** (Upgrade from "Moderately Insulated" to "Well Insulated").
+*   **Justification:** This is the only primary building envelope element not currently rated as "Well Insulated." Heat loss through the roof is a significant factor in energy consumption.
+*   **Practical Note:** Since the roof is in a "Good State," this can be achieved via internal insulation or by adding a layer of high-performance material without needing a full roof replacement.
+
+#### Step 2: Glazing Upgrade
+*   **Target:** Windows in Living Area and Bedrooms.
+*   **Action:** **Replace Glazing** (Upgrade from Double Glazing to **Triple Glazing**).
+*   **Justification:** While double glazing is efficient, triple glazing significantly reduces U-values and improves thermal comfort, preventing cold spots near windows.
+*   **Cost-Effectiveness:** Since the existing wooden window frames are in a "Good State," the owner should opt for **glazing replacement only** rather than replacing the entire window unit, which is significantly more cost-effective.
+
+#### Step 3: Emission System Fine-Tuning
+*   **Target:** Space Heating Emission System.
+*   **Action:** Transition to **Low Temperature Emission** systems (e.g., floor heating or oversized radiators).
+*   **Justification:** The building already uses a Heat Pump. Heat pumps operate at maximum efficiency (COP) when the temperature difference between the source and the emission system is minimized. Ensuring the system is "Low Temperature" maximizes the operational performance of the existing heat pump.
+
+---
+
+### Summary of Sequence & Impact
+
+| Sequence | Intervention | Priority | Energy Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | High (Reduces heat loss) | High (Targeted fix) |
+| **2** | **Upgrade to Triple Glazing** | Medium | Medium (Reduces draft/loss) | Medium (Glazing only) |
+| **3** | **Low Temp Emission** | Low | Medium (Increases COP) | High (Optimizes existing HP) |
+
+### Final Expert Recommendation
+Given that the building is already an **A-label** home, the ROI on further renovations will be lower than in an older home. However, to push the EPC toward **A+**, the priority must be the **Gable Roof**. Because the building has no potential for further PV or Geothermal additions, these envelope improvements are the only remaining levers to reduce the energy score further.

@@ -1,0 +1,46 @@
+Based on the data provided, your home is in a very strong starting position. You already have a **Type D ventilation system** (the gold standard for air quality and heat recovery), **PV panels**, and **well-insulated walls and floors**. 
+
+The primary "energy leaks" and inefficiencies are the **moderate roof insulation** and the **outdated/inefficient heating system** (specifically the electric convectors, which are among the most expensive ways to heat a home).
+
+To maximize your EPC score and long-term cost-effectiveness, I propose the following phased renovation path. **The sequence is critical:** we optimize the "shell" before upgrading the "engine" to ensure the new heating system is not oversized (and thus overpriced).
+
+---
+
+### Phase 1: Thermal Envelope Optimization (The "Quick Win")
+Before changing your heating system, you must address the only remaining weakness in your insulation.
+
+*   **Action:** **Upgrade the main pitched roof insulation.**
+*   **Why:** You noted this is only "moderate." Heat rises; a pitched roof is the primary exit point for thermal energy. Improving this to "well insulated" (matching your flat roof) will lower the total heat load of the house.
+*   **Benefit:** This allows you to install a smaller, cheaper, and more efficient heat pump in Phase 3. It is the most cost-effective way to jump several points on the EPC scale.
+
+### Phase 2: Heat Emission Modernization
+Replacing the boiler is useless if the heat is delivered via inefficient methods.
+
+*   **Action A: Eliminate Electric Convectors.** These are energy sinks. Replace them with either:
+    *   **Extension of Underfloor Heating (UFH):** If the floor allows, extend the UFH to the rooms currently served by convectors.
+    *   **Low-Temperature Radiators:** If UFH is not possible, install oversized low-temperature radiators designed for heat pumps.
+*   **Action B: Refurbish/Replace UFH Manifolds and Piping.** Since you mentioned the system is in poor condition, ensure the piping is flushed and the manifolds are modernized to allow for precise zone control.
+*   **Why:** Heat pumps operate most efficiently at low flow temperatures. Electric convectors are incompatible with a sustainable energy strategy.
+
+### Phase 3: Heat Generation Transition
+Now that the house is tightly insulated and the emission system is optimized for low temperatures, you can replace the boiler.
+
+*   **Action:** **Install an Air-to-Water Heat Pump.**
+*   **Why:** Since geothermal is not an option and district heating is unavailable, an Air-to-Water heat pump is the most logical choice. 
+*   **Synergy:** Because you already have **PV panels**, you can use your own generated electricity to power the heat pump, potentially bringing your operational heating costs close to zero.
+*   **EPC Impact:** Moving from a traditional boiler to a heat pump provides one of the largest possible leaps in EPC scoring.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Priority | Action | Primary Goal | EPC Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | High | **Roof Insulation** | Reduce heat loss | Medium $\uparrow$ |
+| **2** | High | **Remove Electric Convectors** | Stop energy waste | Medium $\uparrow$ |
+| **3** | Medium | **Air-to-Water Heat Pump** | Decarbonize heating | High $\uparrow\uparrow$ |
+
+### Expert Tips for the Ghent/Flemish Context:
+1.  **Mijn VerbouwPremie:** Since you are in Ghent, check the current *Mijn VerbouwPremie* (My Renovation Premium) guidelines. In Flanders, the subsidies for heat pumps and insulation are often tied to having a recognized energy auditor provide a "renovation obligation" or a professional plan.
+2.  **The "2023" Paradox:** You mentioned the house was built in 2023 but has old heating and moderate insulation. If this is a newly built house that failed to meet standards, you may have legal recourse with the contractor. If it is an older house that was partially updated in 2023, the plan above is your fastest route to an "A" or "B" EPC rating.
+3.  **Ventilation Synergy:** Your Type D ventilation is a massive asset. Ensure that when you upgrade the heating, the ventilation system is balanced to ensure the heat pump isn't fighting against excessive air exchange.

@@ -1,0 +1,32 @@
+### Analysis of Building State
+The building is a relatively modern semi-detached house (constructed in 2017) with an already high energy performance (EPC score of 87, which corresponds to an **A label**). Most building elements are already in a "Well Insulated" state, including the walls, the flat roof extension, and the floor above the basement. The home is already equipped with high-efficiency systems, including a heat pump, PV panels, and a Type D ventilation system.
+
+However, there is one clear opportunity for improvement: the **Main Gable Roof**, which is currently only **"Moderately Insulated."**
+
+### Proposed Renovation Path
+To maximize energy efficiency while remaining cost-effective, the focus should be on closing the remaining thermal gaps in the building envelope. Given that the building is already high-performing, the goal is to move from an A label toward an A+ label.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+**Action: Insulate Gable Roof**
+*   **Reasoning:** This is the only primary structural element not rated as "Well Insulated." Heat rises, and improving the insulation of the gable roof will provide the most significant reduction in energy loss for the lowest relative cost.
+*   **Practicality:** Since the roof is in "Good State," there is no need for a full replacement; adding insulation is the most cost-effective approach.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### Step 2: Glazing Upgrade (Medium Priority)
+**Action: Replace Glazing (Upgrade to Triple Glazing)**
+*   **Reasoning:** The building currently has double glazing. Upgrading to triple glazing will further reduce thermal transmittance (U-value) and improve acoustic comfort.
+*   **Cost-Effectiveness:** The entity information indicates that the wooden window frames are in "Good State." Therefore, it is significantly more cost-effective to **replace only the glazing** rather than replacing the entire window unit.
+*   **Point of Attention:** Verify that the existing wooden frames have the necessary thickness and structural integrity to support the heavier weight of triple-pane glass.
+
+### Summary of the Renovation Plan
+
+| Sequence | Renovation Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | High | Very High (fills the main thermal gap) |
+| **2** | **Replace Glazing** | Windows | Moderate | High (reuses existing frames) |
+
+**Excluded Actions:**
+*   **Wall/Floor Insulation:** Not necessary; already "Well Insulated."
+*   **HVAC/Generation Upgrades:** Not necessary; already possesses a heat pump, PV panels, and System D ventilation.
+*   **Geothermal:** Not feasible; site data indicates no potential for horizontal or vertical drilling.
+*   **Asbestos Removal:** Not applicable; building constructed in 2017.

@@ -1,0 +1,48 @@
+Based on the provided building data and the RENO ontology, the property is a historic attached building (1832) with an EPC score of **262 kWh/m²year (C Label)**. The owner's primary motivation is to **improve the EPC**.
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** approach. We must reduce the building's heat demand through insulation before upgrading the heating generation system; otherwise, the new system will be oversized and inefficient.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (The Shell)
+The most significant energy losses are occurring through non-insulated elements.
+1.  **Insulate Flat Roof (Roof Extension):** The extension roof is currently "Not Insulated." This is a priority as heat rises and flat roofs are often major sources of thermal leakage.
+    *   *Suggestion:* `InsulateFlatRoof` (Ordering: 25).
+2.  **Insulate Floor Above Basement:** The floor is "Not Insulated," leading to cold drafts and heat loss into the basement.
+    *   *Suggestion:* `InsulateFloorAboveBasement` (Ordering: 49).
+3.  **Insulate Exterior Walls (Front & Rear):** Both full-brick walls are "Not Insulated" and have no historical protection, making them eligible for upgrades.
+    *   *Suggestion:* `InsulateWallExterior` (Ordering: 40). This is more effective than interior insulation for preventing thermal bridging.
+
+#### Phase 2: Air Quality & Ventilation
+Once the building is sealed with insulation, ventilation must be upgraded to prevent condensation and ensure healthy indoor air.
+4.  **Upgrade Ventilation System:** The current System A (natural supply/exhaust) is basic.
+    *   *Suggestion:* `ReplaceVentilationSystem` (Ordering: 52). Moving toward a System C or D will improve thermal comfort and efficiency.
+
+#### Phase 3: Low-Carbon Heating Transition
+With the heat demand significantly reduced by Phase 1, we can now replace the outdated generation system.
+5.  **Install Air-Water Heat Pump:** Since geothermal and heat grids are unavailable at this site, an Air-Water heat pump is the most efficient alternative.
+    *   *Suggestion:* `PlaceAirWaterHeatpump` (Ordering: 67).
+    *   *Note:* Since the owner has a reason to change the emission system (radiators), they should consider `PlaceLowTemperatureEmission` (Ordering: 70) to maximize the heat pump's COP (Coefficient of Performance).
+
+#### Phase 4: Renewable Energy Integration
+To offset the electricity consumption of the new heat pump and further improve the EPC score.
+6.  **Install Solar PV Panels:** The building has confirmed potential for PV.
+    *   *Suggestion:* `PlacePVPanelsOnRoof` (Ordering: 85).
+
+---
+
+### Summary Table: Optimal Sequence
+
+| Sequence | Intervention | Target Element | Priority | Rationale |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `InsulateFlatRoof` | Roof Extension | High | High heat loss; Not Insulated. |
+| **2** | `InsulateWallExterior` | Front/Rear Walls | High | Large surface area; Not Insulated. |
+| **3** | `InsulateFloorAboveBasement` | Basement Floor | Medium | Prevents ground-level heat loss. |
+| **4** | `ReplaceVentilationSystem` | Ventilation | Medium | Essential after sealing the envelope. |
+| **5** | `PlaceAirWaterHeatpump` | Generation System | Medium | Low-carbon heating (post-insulation). |
+| **6** | `PlacePVPanelsOnRoof` | Roof | Low | Offsets electrical costs of heat pump. |
+
+### Cost-Effectiveness Analysis
+*   **Avoids Oversizing:** By insulating first, you can install a smaller, cheaper heat pump.
+*   **High Impact:** Addressing "Not Insulated" elements (Roof Extension, Walls, Floor) provides the highest immediate drop in kWh/m²year.
+*   **Practicality:** The absence of historical protection on walls allows for exterior insulation, which is the most energy-efficient method.

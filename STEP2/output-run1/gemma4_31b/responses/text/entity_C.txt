@@ -1,0 +1,46 @@
+Given the specific characteristics of your home in Ghent, you are in a very strong starting position. Your building envelope (walls, floor, and ventilation) is already high-performing. The primary "energy leaks" and inefficiencies are located in the **heating generation and distribution systems**, as well as a moderate gap in **roof insulation**.
+
+To maximize your EPC score and long-term cost-effectiveness, I propose the following sequenced renovation path.
+
+### Phase 1: Thermal Envelope Optimization (The "Quick Win")
+Before upgrading the heating system, you must ensure the house retains as much heat as possible. This allows you to install a smaller, less expensive heating unit.
+
+*   **Target: Pitched Roof Insulation.** While the flat roof is well-insulated, the pitched roof is only "moderate." 
+    *   **Action:** Increase the insulation thickness of the pitched roof (e.g., adding high-performance mineral wool or PIR boards). 
+    *   **Why:** Heat rises. Improving the roof is the most cost-effective way to lower the total heat load of the house, directly improving the EPC score.
+
+### Phase 2: Heating System Overhaul (The "Core Upgrade")
+Your current reliance on a boiler and electric convectors is the biggest inefficiency. Electric convectors are among the most expensive ways to heat a home in Belgium.
+
+*   **Action A: Transition to an Air-to-Water Heat Pump (ASHP).** 
+    *   Since geothermal is not viable and district heating is unavailable, an ASHP is the optimal choice. 
+    *   **Integration:** The ASHP should be connected to your existing underfloor heating. Underfloor systems operate at low temperatures, which is where heat pumps achieve their maximum efficiency (COP).
+*   **Action B: Eliminate Electric Convectors.** 
+    *   **Action:** Remove all electric convectors. 
+    *   **Replacement:** Depending on the room, either extend the underfloor heating loop or install low-temperature radiators connected to the heat pump. 
+    *   **Why:** This removes the reliance on expensive direct electricity for heating and consolidates all heating into one high-efficiency system.
+
+### Phase 3: Energy Synergy & Control (The "Optimization")
+Since you already have photovoltaic (PV) panels and a Ventilation D system, the goal now is to make these systems work together.
+
+*   **Action A: Smart Energy Management System (HEMS).** 
+    *   Install a smart controller that synchronizes your PV production with your Heat Pump. 
+    *   **Goal:** "Thermal Buffering." Use excess solar energy during the day to slightly overheat the floor slabs or a buffer tank, effectively using your house as a thermal battery.
+*   **Action B: Zoning Controls.** 
+    *   Implement smart thermostats for the underfloor heating to ensure you aren't heating unused rooms, further reducing the load on the heat pump.
+
+---
+
+### Optimal Sequence Summary
+
+| Sequence | Action | Impact | Reason |
+| :--- | :--- | :--- | :--- |
+| **1. Insulate** | Upgrade Pitched Roof | $\downarrow$ Heat Loss | Reduces the required capacity (kW) of the new heat pump. |
+| **2. Replace** | Boiler $\rightarrow$ Heat Pump | $\downarrow\downarrow$ Carbon/Cost | Leverages existing underfloor heating for max efficiency. |
+| **3. Remove** | Electric Convectors $\rightarrow$ Hydronic | $\downarrow\downarrow$ Energy Bills | Eliminates the most inefficient heat source in the house. |
+| **4. Integrate** | PV $\rightarrow$ Heat Pump Sync | $\uparrow$ Self-sufficiency | Maximizes the ROI of your existing solar panels. |
+
+### Expert Tips for Ghent/Flanders:
+1.  **Subsidies (Premies):** Check the current Flemish government subsidies for "Energiepremie." Replacing a boiler with a heat pump and improving roof insulation often qualifies for significant grants.
+2.  **EPC Calculation:** Because you have a Ventilation D system and PV panels, your EPC is already quite good. Moving to a heat pump and removing electric heating will likely push your score into the "A" or "A+" category.
+3.  **Ventilation Maintenance:** Since you have System D, ensure the filters are changed and the ducts are cleaned. A clogged System D can slightly increase the heating load by reducing heat recovery efficiency.

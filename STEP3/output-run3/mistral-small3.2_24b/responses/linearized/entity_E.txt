@@ -1,0 +1,74 @@
+### Renovation Plan for Detached Building
+
+#### Step 1: Initial Assessment
+- **Building Type**: Detached, constructed in 1862.
+- **Energy Performance Certificate (EPC)**: Energy score of 165 (poor insulation).
+- **Insulation Grades**: Walls (Front, Rear, Left, Right) are Not Insulated; Roof is Well Insulated.
+- **Windows**: Single-glazed with wooden frames in GoodState.
+- **Heating System**: FloorHeating, Radiator, ElectricConvector, AirHeating.
+- **Ventilation**: Type A (natural air supply and exhaust).
+- **Potential for PV**: Yes.
+- **Heat Grid**: Not available.
+- **Geothermal Potential**: None.
+
+#### Step 2: Prioritize Energy-Efficient Upgrades
+1. **Insulate Walls**
+   - **Action**: Insulate walls on the interior (moderate nuisance, no permit needed in Flanders).
+   - **Reason**: Walls are currently Not Insulated, contributing significantly to heat loss.
+   - **Cost**: ~€150/m² (interior insulation).
+
+2. **Improve Window Insulation**
+   - **Action**: Replace glazing with double glazing (high nuisance, no permit needed).
+   - **Reason**: Single glazing has poor thermal performance; double glazing will reduce heat loss.
+   - **Cost**: ~€200/m² (glazing replacement).
+
+3. **Insulate Attic Floor**
+   - **Action**: Insulate attic floor (low nuisance, no permit needed).
+   - **Reason**: Ensures consistent insulation across the building envelope.
+   - **Cost**: ~€60/m² (attic floor insulation).
+
+4. **Upgrade Heating System**
+   - **Action**: Place air-water heat pump with cooling (moderate nuisance, depends on system).
+   - **Reason**: Current heating system (ElectricConvector, AirHeating) is inefficient.
+   - **Cost**: ~€35/m² (air-water heat pump).
+
+5. **Solar Panel Installation**
+   - **Action**: Place PV panels on roof (low nuisance, no permit needed if in same plane).
+   - **Reason**: Building has potential for PV, and solar energy will reduce electricity costs.
+   - **Cost**: ~€275/m² (PV panels on roof).
+
+#### Step 3: Optimal Sequence
+1. **Insulate Walls** (Interior) → **Replace Glazing** → **Insulate Attic Floor** → **Upgrade Heating System** → **Install PV Panels**.
+   - **Rationale**: Insulation upgrades first to reduce heat loss, followed by heating system upgrade for efficiency, and finally solar panels for renewable energy.
+
+#### Step 4: Additional Recommendations
+- **Ventilation Upgrade**: Consider replacing the ventilation system to a more efficient type (e.g., Type C) if budget allows.
+- **Roof Underlayment**: Ensure roof underlayment is air- and watertight to prevent condensation issues.
+
+### Final Renovation Plan
+1. **Insulate Walls (Interior)**
+   - **Action**: Insulate walls on the interior.
+   - **Nuisance**: Moderate.
+   - **Permit Needed**: No.
+
+2. **Replace Glazing**
+   - **Action**: Replace single glazing with double glazing.
+   - **Nuisance**: High.
+   - **Permit Needed**: No.
+
+3. **Insulate Attic Floor**
+   - **Action**: Insulate attic floor.
+   - **Nuisance**: Low.
+   - **Permit Needed**: No.
+
+4. **Upgrade Heating System**
+   - **Action**: Install air-water heat pump with cooling.
+   - **Nuisance**: Moderate.
+   - **Permit Needed**: Depends on system.
+
+5. **Install PV Panels**
+   - **Action**: Place PV panels on roof.
+   - **Nuisance**: Low.
+   - **Permit Needed**: No.
+
+This plan maximizes energy efficiency, reduces long-term operational costs, and is cost-effective. The sequence ensures that each step builds on the previous improvements for optimal results.

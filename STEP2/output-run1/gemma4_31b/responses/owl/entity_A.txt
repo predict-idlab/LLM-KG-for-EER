@@ -1,0 +1,42 @@
+Based on the provided RENO ontology and the specific building data, the building is a 1951 semi-detached house with an EPC score of 388 (D label). The owner's primary motivation is to improve the EPC. 
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** renovation path. This strategy ensures the building envelope is optimized to reduce heat loss before installing high-efficiency heating systems, thereby reducing the required capacity and cost of the new equipment.
+
+### Phase 1: Thermal Envelope Optimization (The Shell)
+*Priority: High | Goal: Reduce heat loss and improve EPC score.*
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the most critical step as heat rises. (Ontology Ordering: 28).
+2.  **Insulate Floor Above Basement:** The floor above the basement is not insulated. This prevents "cold feet" and reduces energy loss to the lower level. (Ontology Ordering: 49).
+3.  **Insulate Walls on Exterior:** All three exterior walls (Front, Rear, Right) are full brick and not insulated. Exterior insulation is the most effective way to eliminate thermal bridges and significantly boost the EPC. (Ontology Ordering: 40). 
+    *   *Cost-effective alternative:* If exterior cladding is too expensive, **Insulate Wall on Interior** (Ordering: 37) can be considered, though it reduces internal living space.
+
+### Phase 2: Ventilation and Air Quality
+*Priority: Medium | Goal: Maintain air quality in a now-tightly sealed envelope.*
+
+4.  **Replace Ventilation System:** The building currently uses Ventilation System A (natural supply/exhaust). After insulating the shell, a more controlled system (System C or D) is necessary to prevent humidity buildup and ensure energy-efficient air exchange. (Ontology Ordering: 52).
+
+### Phase 3: Sustainable Heating Transition
+*Priority: Medium | Goal: Decarbonize heating and lower operational costs.*
+
+5.  **Place Emission System on Low Temperature:** Before installing a new heat pump, the existing radiators/heating system should be optimized for low-temperature operation to maximize the efficiency (COP) of the heat pump. (Ontology Ordering: 70).
+6.  **Place Air-Water Heat Pump:** Since there is no heat grid and no potential for geothermal drilling/captation at this site, an Air-Water Heat Pump is the most viable and cost-effective sustainable heating solution. (Ontology Ordering: 67).
+
+### Phase 4: Renewable Energy Generation
+*Priority: Low/Long-term | Goal: Offset electricity costs for the new heat pump.*
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the electricity needed to run the heat pump, significantly lowering long-term operational costs. (Ontology Ordering: 85).
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Impact | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | $\uparrow \uparrow$ Efficiency | Stop the largest source of heat loss. |
+| **2** | **Insulate Floor/Walls** | $\uparrow \uparrow$ Efficiency | Complete the thermal envelope. |
+| **3** | **Upgrade Ventilation** | $\uparrow$ Comfort | Prevent condensation in the insulated house. |
+| **4** | **Low-Temp Emission** | $\uparrow$ Efficiency | Prepare the house for heat pump efficiency. |
+| **5** | **Air-Water Heat Pump** | $\downarrow \downarrow$ CO2 | Replace old boiler with sustainable tech. |
+| **6** | **PV-Panels on Roof** | $\downarrow \downarrow$ Cost | Generate free energy for the heat pump. |
+
+**Cost-Effectiveness Note:** By insulating the roof, walls, and floor first, the total heat demand of the house drops. This allows for the installation of a smaller, less expensive Air-Water Heat Pump than would be required if the house remained uninsulated.

@@ -1,0 +1,58 @@
+### Renovation Plan for Detached Building (1862, EPC Score 165)
+
+#### Key Observations:
+1. **Building Type**: Detached, constructed in 1862, with a net floor area of 136 m².
+2. **Current EPC**: 165 (B Label), but the owner wants to improve it further.
+3. **Insulation**: All walls (Front, Left, Rear, Right) are cavity walls and currently not insulated. Roof is well-insulated, but windows have single glazing.
+4. **Heating System**: Uses multiple types (electric convector, radiator, floor heating), indicating potential inefficiencies.
+5. **Ventilation**: Currently uses a basic natural ventilation system (Ventilation System A).
+6. **Potential for PV**: True, but no heat grid available.
+
+---
+
+### Proposed Renovation Path:
+
+#### Phase 1: Thermal Envelope Optimization (Fabric-First Approach)
+1. **Insulate Wall Cavity (Front, Left, Rear, Right)**:
+   - Since all walls are cavity walls, injecting insulation into the cavities is the most cost-effective and least disruptive method.
+   - *Rationale*: Addresses the largest area of heat loss first.
+
+2. **Replace Glazing (Windows in Bedrooms and Living Area)**:
+   - Replace single-glazing with double-glazing to reduce heat loss through windows.
+   - *Rationale*: Windows are a significant source of heat loss, especially with single glazing.
+
+3. **Insulate Floor Above Crawl Space**:
+   - Add insulation to the floor above the crawl space to prevent heat loss to unconditioned spaces.
+   - *Rationale*: Eliminates cold floors and reduces heat loss to the crawl space.
+
+#### Phase 2: Heating System Upgrade
+4. **Place Air-Water Heat Pump**:
+   - Replace the existing inefficient heating systems with an air-water heat pump.
+   - *Rationale*: More energy-efficient and sustainable than the current systems.
+
+5. **Place Emission System on Low Temperature**:
+   - Adjust the emission system to operate at lower temperatures to maximize the efficiency of the new heat pump.
+   - *Rationale*: Ensures the heat pump operates at its highest Coefficient of Performance (COP).
+
+#### Phase 3: Ventilation and Air Quality
+6. **Replace Ventilation System**:
+   - Upgrade from Ventilation System A (natural) to a more efficient system (e.g., Ventilation System C or D).
+   - *Rationale*: Ensures proper air exchange in a now-sealed envelope, preventing moisture and air quality issues.
+
+#### Phase 4: Sustainable Energy Generation (Optional)
+7. **Place PV-Panels on Roof** (if feasible and budget allows):
+   - Install photovoltaic panels to offset the electricity consumption of the heat pump and other systems.
+   - *Rationale*: Further improves sustainability and reduces energy costs.
+
+---
+
+### Summary of Optimal Sequence:
+1. **Insulate Wall Cavity** (Front, Left, Rear, Right)
+2. **Replace Glazing** (Windows in Bedrooms and Living Area)
+3. **Insulate Floor Above Crawl Space**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Replace Ventilation System**
+7. **Place PV-Panels on Roof** (Optional)
+
+This sequence prioritizes reducing heat loss (fabric-first) before upgrading heating and ventilation systems, ensuring the most cost-effective and energy-efficient improvements.

@@ -1,0 +1,65 @@
+### Renovation Plan for the Attached Building (1832)
+
+#### Step 1: Initial Assessment
+- **Current State**: The building (1832) is an attached structure with a gable roof (RoofMain) and a flat roof extension (RoofExtension). The walls (Front and Rear) and the attic floor are not insulated. The flat roof extension and the rear wall are in good condition but not insulated.
+- **Energy Performance**: The EPC score is 262 (F label), indicating significant room for improvement.
+- **Motivation**: The owner aims to improve the EPC label, likely targeting at least a D label (300-400 kWh/m²year).
+
+#### Step 2: Prioritize Renovations Based on Energy Efficiency and Cost-Effectiveness
+1. **Insulate the Attic Floor**:
+   - **Why**: The attic floor is a significant heat loss area. Insulating it will improve thermal comfort and reduce energy consumption.
+   - **Suggestion**: Insulate attic floor (Ordering: 31).
+   - **Point of Attention**: Ensure a vapour barrier is installed to prevent condensation issues.
+
+2. **Insulate the Flat Roof (RoofExtension)**:
+   - **Why**: The flat roof extension is not insulated, leading to heat loss. Insulating it will improve overall energy efficiency.
+   - **Suggestion**: Insulate flat roof (Ordering: 25).
+   - **Point of Attention**: Opt for an inverted roof structure and install a vapour barrier on the warm side of the insulation.
+
+3. **Insulate the Walls (Front and Rear)**:
+   - **Why**: The front and rear walls are not insulated, contributing to heat loss. Insulating them will enhance thermal comfort and reduce energy consumption.
+   - **Suggestion**: Insulate wall on interior (Ordering: 37) or insulate wall on exterior (Ordering: 40), depending on feasibility and owner preference.
+   - **Point of Attention**: For interior insulation, relocate sockets, pipes, and radiators. For exterior insulation, check feasibility based on building line and council guidelines.
+
+4. **Replace the Glazing (WindowsLivingArea and WindowsBedrooms)**:
+   - **Why**: The current double glazing might be old and inefficient. Upgrading to more efficient glazing will reduce heat loss through windows.
+   - **Suggestion**: Replace glazing (Ordering: 43).
+   - **Point of Attention**: Ensure window frames are in good condition and suitable for new glazing.
+
+5. **Improve Ventilation System**:
+   - **Why**: The current ventilation system (VentilationSystemA) might not be efficient. Upgrading it will improve indoor air quality and energy efficiency.
+   - **Suggestion**: Replace ventilation system (Ordering: 52).
+   - **Point of Attention**: Ensure grilles are installed on window frames for adequate fresh air flow.
+
+6. **Install a Heat Pump**:
+   - **Why**: The current heating system (Boiler) might be inefficient. A heat pump can provide more efficient heating and cooling.
+   - **Suggestion**: Place air-water heat pump (Ordering: 67) or place geothermal heat pump (Ordering: 61 or 64).
+   - **Point of Attention**: Check feasibility based on space and system requirements.
+
+7. **Install Solar Panels**:
+   - **Why**: Solar panels can generate renewable energy, reducing reliance on the grid and lowering energy costs.
+   - **Suggestion**: Place PV-panels on roof (Ordering: 85) or place PV-panels in garden (Ordering: 88).
+   - **Point of Attention**: Ensure the roof is suitable for solar panel installation and check local regulations.
+
+#### Step 3: Consider Additional Recommendations
+- **Place Roof Underlayment**: Ensure the roof underlayment is air- and watertight.
+- **Place Sunshade**: Install sunshades to reduce solar heat gain and improve thermal comfort.
+- **Connect to Heat Grid**: If feasible, connect to a heat grid for more sustainable heating.
+
+#### Step 4: Final Renovation Plan
+1. **Insulate Attic Floor** (Ordering: 31)
+2. **Insulate Flat Roof** (Ordering: 25)
+3. **Insulate Walls** (Ordering: 37 or 40)
+4. **Replace Glazing** (Ordering: 43)
+5. **Replace Ventilation System** (Ordering: 52)
+6. **Install Heat Pump** (Ordering: 61, 64, or 67)
+7. **Install Solar Panels** (Ordering: 85 or 88)
+8. **Place Roof Underlayment** (Ordering: 16)
+9. **Place Sunshade** (Ordering: 79)
+10. **Connect to Heat Grid** (Ordering: 55) (if feasible)
+
+#### Step 5: Monitoring and Maintenance
+- **Post-Renovation**: Conduct an energy audit to verify the improvements and ensure the systems are functioning correctly.
+- **Ongoing**: Regularly maintain the insulation, heating, and ventilation systems to sustain energy efficiency.
+
+This plan focuses on maximizing energy efficiency while considering cost-effectiveness and feasibility. The sequence ensures that foundational improvements (insulation) are made before upgrading systems (heating, ventilation, glazing).

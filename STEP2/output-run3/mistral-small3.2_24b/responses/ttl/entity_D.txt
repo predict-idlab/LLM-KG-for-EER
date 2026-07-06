@@ -1,0 +1,92 @@
+### Energy-Efficient and Cost-Effective Renovation Plan
+
+**Building Overview:**
+- **Type:** Semi-detached building
+- **Construction Year:** 2017
+- **Current EPC Score:** 87.0 (C Label)
+- **Current Insulation:**
+  - RoofExtension (Flat Roof): Well Insulated
+  - RoofMain (Gable Roof): Moderately Insulated
+  - Walls: Well Insulated
+  - FloorAboveBasement: Well Insulated
+- **Heating System:** Heat Pump
+- **Ventilation System:** Ventilation System D (Mechanical supply and exhaust)
+- **PV Potential:** False
+- **Heat Grid Availability:** False
+
+**Goals:**
+1. Improve energy efficiency to achieve a better EPC label.
+2. Maintain cost-effectiveness while maximizing energy savings.
+3. Prioritize practical upgrades that reduce energy consumption.
+
+---
+
+### **Step-by-Step Renovation Plan**
+
+#### **1. Insulate Gable Roof (RoofMain)**
+- **Action:** Insulate the gable roof to improve insulation grade from "Moderately Insulated" to "Well Insulated."
+- **Cost:** €60 per m²
+- **Nuisance Level:** Low
+- **Points of Attention:**
+  - Install a vapour barrier on the warm side of the insulation.
+  - Ensure the roof underlayment is air- and watertight.
+- **Benefits:** Reduces heat loss through the roof, improving overall energy efficiency.
+
+#### **2. Replace Glazing**
+- **Action:** Upgrade window glazing from double to triple glazing to enhance thermal performance.
+- **Cost:** €200 per m²
+- **Nuisance Level:** High (due to the invasive nature of window replacement)
+- **Points of Attention:**
+  - Ensure window frames are in good condition to fit new glazing.
+  - Verify frame thickness is suitable for triple glazing.
+- **Benefits:** Significantly improves thermal insulation, reducing heat loss through windows.
+
+#### **3. Insulate Attic Floor**
+- **Action:** Insulate the attic floor if not already well insulated.
+- **Cost:** €60 per m²
+- **Nuisance Level:** Low
+- **Points of Attention:**
+  - Consider installing a vapour barrier to prevent condensation.
+  - Choose walkable insulation if needed.
+- **Benefits:** Reduces heat loss through the attic floor, enhancing overall energy efficiency.
+
+#### **4. Replace Ventilation System**
+- **Action:** Upgrade the existing ventilation system (Ventilation System D) to a more efficient model if necessary.
+- **Cost:** €3,500 (fixed) + €17 per m²
+- **Nuisance Level:** Moderate
+- **Points of Attention:**
+  - Ensure the new system is compatible with the existing ductwork.
+  - Verify grilles in window frames are adequate for natural supply systems.
+- **Benefits:** Improves air quality and energy efficiency by reducing energy loss through ventilation.
+
+#### **5. Place Sunshade**
+- **Action:** Install outdoor blinds or sunshades to reduce solar heat gain during summer.
+- **Cost:** €750 (fixed)
+- **Nuisance Level:** Low
+- **Points of Attention:**
+  - Outdoor blinds are generally more efficient than indoor blinds.
+- **Benefits:** Reduces cooling needs and improves thermal comfort.
+
+#### **6. Place PV-Panels on Roof (If Potential Exists)**
+- **Action:** Evaluate the roof's potential for PV-panel installation. If feasible, install PV-panels.
+- **Cost:** €275 per m²
+- **Nuisance Level:** Low
+- **Points of Attention:**
+  - Check the 'Zonnekaart' for optimal orientation and sunlight capture.
+  - Ensure the roof is free of asbestos before installation.
+- **Benefits:** Generates renewable energy, reducing reliance on the grid and lowering energy costs.
+
+---
+
+### **Optimization and Cost-Effectiveness**
+- **Prioritize Insulation:** Focus on insulating the gable roof and attic floor first, as these are cost-effective and have a significant impact on energy efficiency.
+- **Upgrade Glazing:** Although more expensive, replacing glazing provides long-term energy savings.
+- **Ventilation System:** Ensure the existing system is functioning optimally before considering an upgrade.
+- **Sunshades and PV-Panels:** These are optional but can further enhance energy efficiency and comfort.
+
+### **Expected Outcomes**
+- **Improved EPC Label:** Achieve a better EPC label, potentially moving from C to B or A, depending on the extent of renovations.
+- **Reduced Energy Consumption:** Lower energy bills due to improved insulation and efficient heating/ventilation systems.
+- **Enhanced Comfort:** Better thermal comfort and air quality throughout the building.
+
+This plan ensures a balanced approach, focusing on high-impact, cost-effective upgrades while maintaining practicality and long-term benefits.

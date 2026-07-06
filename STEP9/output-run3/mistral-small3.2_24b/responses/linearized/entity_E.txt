@@ -1,0 +1,68 @@
+### Renovation Plan for Energy Efficiency
+
+**Objective:** Improve the energy efficiency of the building while ensuring cost-effectiveness and practicality.
+
+**Current State:**
+- **Building Type:** DetachedBuilding
+- **Construction Year:** 1862
+- **Energy Performance Certificate (EPC) Score:** 165 (indicating significant room for improvement)
+- **Insulation Grades:**
+  - Walls (Front, Rear, Left, Right): NotInsulated
+  - Roof: WellInsulated
+- **Windows:**
+  - Bedrooms: SingleGlazing, Wooden Frame
+  - Living Area: SingleGlazing, Wooden Frame
+- **Ventilation System:** Type A (natural air supply and mechanical air exhaust)
+- **Heating System:** ElectricConvector, Radiator, FloorHeating
+- **Potential for PV Panels:** True
+- **Potential for Geothermal Drilling:** False (both horizontal and vertical)
+
+**Renovation Priorities:**
+
+1. **Insulation Upgrades:**
+   - **Insulate Wall Cavity:** Priority due to the high impact on energy efficiency and relatively low nuisance level.
+     - **Action:** Insulate the cavity walls (Front, Rear, Left, Right) using appropriate materials.
+     - **Point of Attention:** Conduct an inspection to ensure the cavity is suitable for insulation.
+   - **Insulate Attic Floor:** Ensure proper insulation of the attic floor to maintain heat.
+     - **Action:** Install insulation with a vapour barrier to prevent condensation issues.
+   - **Insulate Wall on Interior:** If cavity insulation is not feasible, consider interior wall insulation.
+     - **Action:** Relocate sockets, pipes, and radiators against the outer walls before installation.
+
+2. **Window Upgrades:**
+   - **Replace Glazing:** Upgrade from SingleGlazing to DoubleGlazing or TripleGlazing to improve thermal performance.
+     - **Action:** Replace the glazing in the bedrooms and living area windows.
+     - **Point of Attention:** Ensure the window frames are in good condition and can accommodate the new glazing.
+
+3. **Roof and Ventilation System:**
+   - **Replace Ventilation System:** Consider upgrading to a more efficient system (e.g., Ventilation System C) if current system is inefficient.
+     - **Action:** Install a new ventilation system with appropriate grilles for natural air supply.
+   - **Roof Underlayment:** Ensure the roof underlayment is air- and watertight to prevent heat loss.
+     - **Action:** Install or upgrade the roof underlayment as needed.
+
+4. **Heating System:**
+   - **Place Air-Water Heat Pump:** Consider replacing the current heating system with a more efficient air-water heat pump.
+     - **Action:** Install an air-water heat pump to reduce energy consumption for space heating.
+     - **Point of Attention:** Check for compatibility with the existing emission system and ensure proper installation.
+
+5. **Additional Recommendations:**
+   - **Place PV Panels:** Utilize the building's potential for PV panels to generate renewable energy.
+     - **Action:** Install PV panels on the roof or in the garden, ensuring they are properly oriented and secured.
+   - **Sun Shade:** Install sun shades to reduce solar heat gain during summer.
+     - **Action:** Place sun shades on appropriate windows to control indoor temperature.
+
+**Sequence of Actions:**
+1. **Insulate Wall Cavity** (High Priority)
+2. **Replace Glazing** (Medium Priority)
+3. **Insulate Attic Floor** (Medium Priority)
+4. **Replace Ventilation System** (Medium Priority)
+5. **Place Air-Water Heat Pump** (High Priority)
+6. **Install PV Panels** (Low Priority)
+7. **Install Sun Shades** (Low Priority)
+
+**Cost-Effectiveness Considerations:**
+- Focus on high-impact, low-nuisance upgrades first (e.g., wall cavity insulation).
+- Prioritize upgrades that can be done without extensive permits or disruptions (e.g., glazing replacement).
+- Consider the long-term energy savings when evaluating the cost of each upgrade.
+
+**Conclusion:**
+This renovation plan aims to significantly improve the energy efficiency of the building by addressing insulation, window performance, ventilation, and heating systems. The sequence of actions is designed to maximize benefits while minimizing disruption and cost. Regular monitoring and maintenance of the upgraded systems will ensure sustained energy savings.

@@ -1,0 +1,56 @@
+Based on the provided RENO ontology and entity information, here's a cost-effective and energy-efficient renovation plan for the building:
+
+### **Priority 1: Insulation Improvements**
+1. **Insulate Wall Cavity (Wall_Right, Wall_Rear, Wall_Front)**
+   - *Reason*: All walls are currently uninsulated (NotInsulated), which significantly contributes to heat loss.
+   - *Action*: Inject insulation into the cavity walls. Ensure the walls are suitable for insulation (e.g., check for contamination, vapour permeability, etc.).
+   - *Estimated Cost*: ~€22/m² (based on ordering 34).
+
+2. **Insulate Attic Floor (FloorAboveBasement)**
+   - *Reason*: The floor above the basement is uninsulated, leading to heat loss.
+   - *Action*: Install insulation on the attic floor. Ensure proper vapour barrier installation to prevent condensation.
+   - *Estimated Cost*: ~€60/m² (based on ordering 31).
+
+### **Priority 2: Window and Glazing Upgrades**
+3. **Replace Glazing (WindowsLivingArea, WindowsBedrooms)**
+   - *Reason*: The current double glazing (DoubleGlazing) may not be sufficient for optimal energy efficiency.
+   - *Action*: Upgrade to triple glazing (TripleGlazing) to improve thermal and acoustic performance.
+   - *Estimated Cost*: ~€200/m² (based on ordering 43).
+
+### **Priority 3: Roof Insulation and Underlayment**
+4. **Insulate Gable Roof (RoofMain)**
+   - *Reason*: The gable roof is currently uninsulated, contributing to heat loss.
+   - *Action*: Install insulation on the gable roof, ensuring proper vapour barrier installation.
+   - *Estimated Cost*: ~€60/m² (based on ordering 28).
+
+5. **Place Roof Underlayment (RoofExtension, RoofMain)**
+   - *Reason*: Proper roof underlayment ensures air- and watertightness, improving energy efficiency.
+   - *Action*: Install roof underlayment, paying extra attention to air- and watertightness.
+   - *Estimated Cost*: ~€65/m² (based on ordering 16).
+
+### **Priority 4: Emission System and Ventilation**
+6. **Replace Ventilation System (VentilationSystem)**
+   - *Reason*: The current ventilation system (VentilationSystemA) may not be energy-efficient.
+   - *Action*: Upgrade to a more efficient ventilation system (e.g., VentilationSystemC).
+   - *Estimated Cost*: ~€3500 (based on ordering 52).
+
+7. **Place Low-Temperature Emission System**
+   - *Reason*: Low-temperature emission systems are more energy-efficient.
+   - *Action*: Install a low-temperature emission system compatible with the existing floor heating (FloorHeating).
+   - *Estimated Cost*: ~€100/m² (based on ordering 70).
+
+### **Priority 5: Additional Recommendations**
+8. **Place Sun Shade (LivingArea, Bedrooms)**
+   - *Reason*: Sun shades can reduce solar heat gain, improving energy efficiency.
+   - *Action*: Install outdoor blinds or shades to reduce heat gain.
+   - *Estimated Cost*: ~€750 (based on ordering 79).
+
+9. **Remove Asbestos (if present)**
+   - *Reason*: Asbestos removal is crucial for health and safety.
+   - *Action*: Remove asbestos-containing materials if present, following proper safety protocols.
+   - *Estimated Cost*: Varies (based on type of asbestos and removal method).
+
+### **Optimal Sequence of Renovations**
+1. **Insulate Wall Cavity** → **Insulate Attic Floor** → **Replace Glazing** → **Insulate Gable Roof** → **Place Roof Underlayment** → **Replace Ventilation System** → **Place Low-Temperature Emission System** → **Place Sun Shade** → **Remove Asbestos (if necessary)**.
+
+This sequence ensures that foundational insulation improvements are addressed first, followed by upgrades to windows, roofs, and emission systems. The plan is designed to maximize energy efficiency while remaining cost-effective.

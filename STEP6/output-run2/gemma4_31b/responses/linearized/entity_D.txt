@@ -1,0 +1,27 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached building constructed in 2017. It is already highly energy-efficient, with an **EPC score of 87** (which typically falls within the A or B label range). 
+
+The building already possesses several high-efficiency features: a **Heat Pump** for generation, a **Ventilation System D** (the most advanced type), **PV Panels** for renewable energy, and most structural elements (walls, flat roof, and floor) are already **"WellInsulated."**
+
+Because the building is already performing at a high level, the potential for drastic energy reductions is low. To further improve the EPC score in a cost-effective manner, the focus should be on the few remaining "moderately" performing elements.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Refinement (Priority: Low to Medium)
+The only significant gap in the thermal envelope is the main gable roof. While the walls and flat roof are well-insulated, the gable roof is only moderately insulated.
+
+1.  **Insulate Gable Roof:** Upgrading the insulation of the `RoofMain` from "ModeratelyInsulated" to "WellInsulated" is the most logical step. Since heat rises, this will minimize the remaining thermal leakage and further lower the energy score.
+
+#### Phase 2: Marginal Gains in Glazing (Priority: Low)
+The current windows are double-glazed and the frames are in a good state. While this is efficient, a transition to triple glazing could provide a slight further reduction in heat loss.
+
+2.  **Replace Glazing:** If the owner is determined to reach the highest possible EPC label (A+), replacing the current double glazing with **Triple Glazing** is the only remaining structural upgrade. However, given the current score of 87, the return on investment (ROI) for this step is significantly lower than in an older home.
+
+### Summary of Analysis and Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "ModeratelyInsulated" structural element to seal the thermal envelope. |
+| **2** | **Replace Glazing** | Optional upgrade from double to triple glazing for marginal EPC gains. |
+
+**Final Expert Note:** 
+Since the building is a 2017 construction and already utilizes a Heat Pump, System D ventilation, and Solar PV, it is already in the top tier of energy performance. I do not recommend any changes to the heating or ventilation systems, as they are already state-of-the-art. The proposed path focuses exclusively on the "fabric-first" principle to squeeze out the final percentages of efficiency.

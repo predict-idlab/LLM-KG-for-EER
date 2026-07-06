@@ -1,0 +1,79 @@
+### Step 1: Understanding the Building and Its Components
+The building in question is an attached structure with a net floor area of 159 m². It was constructed in 2023 and has the following notable components:
+
+1. **Roofs**:
+   - A flat roof extension that is well insulated and in good condition.
+   - A gable roof main structure that is moderately insulated and also in good condition.
+
+2. **Walls**:
+   - Front and rear walls that are full brick walls, well insulated, and not under any protection.
+
+3. **Windows**:
+   - Windows in bedrooms and living areas with wooden frames and double glazing. The glazing is scheduled to be changed during the renovation intervention.
+
+4. **Other Systems**:
+   - An electric convector and floor heating system.
+   - A ventilation system of type D.
+   - A boiler for heating.
+   - Solar panels installed.
+
+### Step 2: Analyzing the Current State
+- **Energy Performance**: The building has an energy performance certificate (EPC) with a score of 50.
+- **Potential for PV**: The potential for installing additional PV panels is assessed as false.
+- **Heat Grid**: There is no presence of a heat grid nearby.
+- **Reason to Change Emission System**: There is a reason to change the emission system.
+
+### Step 3: Owner's Motivation
+The owner's primary motivation is to improve the EPC value of the dwelling. This suggests a focus on energy efficiency and cost-effectiveness.
+
+### Step 4: Identifying Key Areas for Improvement
+1. **Roof Insulation**:
+   - The gable roof is moderately insulated. Improving its insulation could significantly enhance energy efficiency.
+
+2. **Window Glazing**:
+   - The current glazing is double, but it's scheduled for replacement. Upgrading to triple glazing could further improve thermal performance.
+
+3. **Emission System**:
+   - There's a reason to change the emission system. This could involve upgrading to a more efficient system like a heat pump.
+
+4. **Ventilation System**:
+   - The current system is type D. Upgrading to a more efficient ventilation system could improve air quality and energy efficiency.
+
+### Step 5: Prioritizing the Renovation Steps
+Based on the ordering in the suggestion list and the specific needs of the building, here's a prioritized plan:
+
+1. **Replace Glazing**:
+   - **Action**: Replace the current double glazing with triple glazing.
+   - **Reason**: This will improve thermal insulation and reduce heat loss through windows.
+
+2. **Insulate Gable Roof**:
+   - **Action**: Improve the insulation of the gable roof from moderately insulated to well insulated.
+   - **Reason**: Enhances overall energy efficiency and reduces heating costs.
+
+3. **Place Air-Water Heat Pump**:
+   - **Action**: Install an air-water heat pump to replace the current emission system.
+   - **Reason**: More efficient and environmentally friendly heating solution.
+
+4. **Replace Ventilation System**:
+   - **Action**: Upgrade the ventilation system from type D to a more efficient type.
+   - **Reason**: Better air quality and energy efficiency.
+
+### Step 6: Additional Considerations
+- **Cost-Effectiveness**: Ensure that the chosen upgrades are cost-effective and provide a good return on investment in terms of energy savings.
+- **Permits**: Check local regulations for any necessary permits, especially for structural changes like roof insulation and system replacements.
+- **Professional Assistance**: Engage professionals for tasks like heat pump installation and ventilation system upgrades to ensure proper execution.
+
+### Final Renovation Plan
+1. **Immediate Actions**:
+   - **Replace Glazing**: Upgrade all windows to triple glazing.
+   - **Insulate Gable Roof**: Improve insulation to well-insulated standards.
+
+2. **Medium-Term Actions**:
+   - **Install Air-Water Heat Pump**: Replace the current emission system with a more efficient heat pump.
+   - **Upgrade Ventilation System**: Replace the type D ventilation system with a more efficient model.
+
+3. **Ongoing Monitoring**:
+   - **Energy Performance**: Regularly monitor the energy performance to ensure the upgrades are meeting the desired improvements.
+   - **Maintenance**: Schedule regular maintenance for all new systems to ensure longevity and efficiency.
+
+This plan focuses on maximizing energy efficiency while remaining cost-effective, aligning with the owner's motivation to improve the EPC value.

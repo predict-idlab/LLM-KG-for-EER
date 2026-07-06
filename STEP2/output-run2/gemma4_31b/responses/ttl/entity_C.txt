@@ -1,0 +1,38 @@
+Based on the provided ontology and building data, the property is a very modern (2023), highly efficient attached building with an existing **EPC score of 50 (Label A)**. Since the owner's motivation is to further improve the EPC and there is a documented reason to change the emission system, the renovation path should focus on the few remaining "moderate" areas and the transition to high-efficiency heat generation.
+
+### **Renovation Analysis**
+*   **Envelope:** The walls, floor above basement, and flat roof extension are already "Well Insulated." However, the **Main Gable Roof** is only "**Moderately Insulated**," representing the primary area for thermal improvement.
+*   **Systems:** The building currently uses electric convectors (which are energy-intensive) and has a generic boiler. It already possesses a high-end Ventilation System D.
+*   **Constraints:** Geothermal options and heat grid connections are unavailable. Further PV expansion is not possible.
+
+---
+
+### **Proposed Renovation Plan**
+
+To maximize energy efficiency while remaining cost-effective, the following sequence is proposed:
+
+#### **Step 1: Thermal Envelope Optimization**
+*   **Action:** `insulate gable roof`
+*   **Rationale:** The main roof is the only significant building element not yet "well insulated." Improving the gable roof insulation reduces the overall heating load, ensuring that the subsequent heating system upgrades are sized correctly and operate at maximum efficiency.
+*   **Priority:** High (Envelope first).
+
+#### **Step 2: Heat Generation Upgrade**
+*   **Action:** `place air-water heatpump`
+*   **Rationale:** The building has a stated reason to change the emission system and already features **floor heating** (a low-temperature system). An air-water heat pump is the most cost-effective and efficient replacement for the current generation system, leveraging the existing floor heating to achieve a very high Coefficient of Performance (COP).
+*   **Priority:** Medium (System efficiency).
+
+#### **Step 3: Domestic Hot Water Efficiency**
+*   **Action:** `place heatpumpboiler`
+*   **Rationale:** To replace the existing generic boiler and eliminate the reliance on inefficient electric heating for water, a heat pump boiler should be installed. This aligns with the goal of maximizing the EPC score by reducing the primary energy demand for water heating.
+*   **Priority:** Low (Final optimization).
+
+---
+
+### **Summary of Impact**
+| Step | Action | Target Element | Efficiency Gain | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | **Insulate Gable Roof** | `ex:RoofMain` | Reduces heat loss via roof | High (Low nuisance/moderate cost) |
+| 2 | **Air-Water Heat Pump** | `ex:Generation_System` | Drastically lowers energy consumption | High (Synergy with floor heating) |
+| 3 | **Heat Pump Boiler** | `ex:Generation_System` | Optimizes DHW energy use | Moderate (Specific task efficiency) |
+
+**Final Result:** This path transitions the building from a standard "A" label toward an "A+" label by addressing the only remaining thermal weakness and replacing resistive/combustion heating with high-efficiency heat pump technology.

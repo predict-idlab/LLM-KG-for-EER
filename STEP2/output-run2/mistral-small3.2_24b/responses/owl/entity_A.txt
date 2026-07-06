@@ -1,0 +1,62 @@
+Based on the provided RENO ontology, suggestion list, and building information, here's a tailored and cost-effective energy-efficient renovation plan for the semi-detached building in Belgium:
+
+### **1. Roofing & Insulation**
+- **Replace Flat Roof (RoofExtension)** (Ordering: 10)
+  - Reason: The flat roof has a moderately insulated grade and could benefit from a full replacement to improve energy efficiency.
+  - Action: Replace the existing flat roof with a new insulated roof system.
+  - Cost: €120/m²
+
+- **Insulate Gable Roof (RoofMain)** (Ordering: 28)
+  - Reason: The gable roof is not insulated and can benefit from insulation to reduce heat loss.
+  - Action: Install insulation on the gable roof, ensuring proper vapour barrier placement.
+  - Cost: €60/m²
+
+- **Insulate Attic Floor (FloorAboveBasement)** (Ordering: 31)
+  - Reason: The attic floor is not insulated and can benefit from insulation to reduce heat loss.
+  - Action: Install insulation on the attic floor, ensuring proper vapour barrier placement.
+  - Cost: €30/m²
+
+### **2. Wall Insulation**
+- **Insulate Wall on Exterior (Wall_Front, Wall_Right, Wall_Rear)** (Ordering: 40)
+  - Reason: The walls are full brick and not insulated, leading to significant heat loss.
+  - Action: Install exterior wall insulation, ensuring proper vapour barrier placement.
+  - Cost: €200/m²
+
+### **3. Window & Glazing Upgrades**
+- **Replace Glazing (WindowsBedrooms, WindowsLivingArea)** (Ordering: 43)
+  - Reason: The windows have double glazing, which can be upgraded to triple glazing for better energy efficiency.
+  - Action: Replace the existing double glazing with triple glazing, ensuring proper frame compatibility.
+  - Cost: €200/m²
+
+### **4. Ventilation System Upgrade**
+- **Replace Ventilation System (VentilationSystem)** (Ordering: 52)
+  - Reason: The current ventilation system is type A, which is less efficient than modern systems.
+  - Action: Upgrade to a more efficient ventilation system, such as type B or C, depending on the building's needs.
+  - Cost: €3500 (fixed) + €17/m²
+
+### **5. Heating System Upgrade**
+- **Place Air-Water Heatpump (EmissionSystem)** (Ordering: 67)
+  - Reason: The current heating system is a radiator system, which can be upgraded to a more energy-efficient air-water heatpump.
+  - Action: Install an air-water heatpump, ensuring proper integration with the existing emission system.
+  - Cost: €8000 (fixed) + €35/m²
+
+### **6. Solar Energy Integration**
+- **Place PV-Panels on Roof (RoofMain)** (Ordering: 85)
+  - Reason: The building has potential for PV installation, and the roof is suitable for solar panel placement.
+  - Action: Install PV-panels on the roof, ensuring proper orientation and shading considerations.
+  - Cost: €275/m²
+
+### **7. Additional Recommendations**
+- **Place Sunshade (WindowsBedrooms, WindowsLivingArea)** (Ordering: 79)
+  - Reason: Sunshades can help reduce solar gain and improve thermal comfort.
+  - Action: Install outdoor blinds or other sunshade systems on the windows.
+  - Cost: €750 (fixed)
+
+- **Place Airconditioning (Bedrooms, LivingArea)** (Ordering: 82)
+  - Reason: Airconditioning can improve thermal comfort during hot weather.
+  - Action: Install airconditioning units in the bedrooms and living area.
+  - Cost: €1000 (fixed)
+
+This renovation plan prioritizes actions based on the ontology's ordering and suggestion list, focusing on cost-effective and energy-efficient upgrades. The plan ensures that the building's energy performance is significantly improved while considering the building's specific characteristics and constraints.
+
+Would you like more detailed information on any specific part of the plan?

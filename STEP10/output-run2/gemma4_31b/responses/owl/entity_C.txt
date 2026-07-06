@@ -1,0 +1,34 @@
+Based on the provided building data and the RENO ontology, the property is a modern attached building (constructed in 2023) with an exceptionally high energy efficiency rating (EPC score of 50, A+ Label). The owner's motivation is to further improve the EPC.
+
+Because the building is already highly optimized, the focus shifts from "major repair" to "marginal gains" and the transition to sustainable heating, as the building explicitly indicates a reason to change the emission system.
+
+### Proposed Renovation Path
+
+To maximize further energy efficiency while remaining cost-effective, the renovation should follow a refined **"Fabric $\rightarrow$ Emission $\rightarrow$ Generation"** sequence.
+
+#### Phase 1: Minor Envelope Optimization (Priority: Low-Medium)
+Most of the building is already "Well Insulated." The only remaining opportunity for thermal improvement in the envelope is the main roof.
+1.  **Insulate Gable Roof:** While the flat roof and walls are well insulated, the `RoofMain` (Gable Roof) is only **Moderately Insulated**. Upgrading this to a "Well Insulated" state will reduce the remaining heat loss through the top of the house, further lowering the energy demand before upgrading the heating system.
+
+#### Phase 2: Emission System Upgrade (Priority: Medium)
+The building currently uses a mix of floor heating and electric convectors. Electric convectors are generally inefficient.
+2.  **Place Emission System on Low Temperature:** To prepare for a high-efficiency heat pump, the emission system should be optimized for low-temperature operation. This ensures that the future heat pump can operate at its maximum Coefficient of Performance (COP).
+
+#### Phase 3: Sustainable Generation Transition (Priority: High)
+The building has a reason to change its emission/generation system, but lacks potential for geothermal energy or a heat grid.
+3.  **Place Air-Water Heat Pump:** Given the existing floor heating (which is ideal for low-temperature systems) and the lack of geothermal options, an **Air-Water Heat Pump** is the most efficient and cost-effective replacement for the current boiler. This will significantly reduce the carbon footprint and potentially lower the EPC score even further.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "Moderately Insulated" element to minimize heat demand. |
+| **2** | **Low-Temp Emission Upgrade** | Optimizes the distribution system to ensure the heat pump operates efficiently. |
+| **3** | **Air-Water Heat Pump** | Transitions the home from a standard boiler to a sustainable, high-efficiency energy source. |
+
+**Note on omitted suggestions:** 
+*   **Windows:** Already double-glazed and in a "Good State"; replacing them would not be cost-effective given the already excellent EPC.
+*   **Ventilation:** Already equipped with System D (the highest standard), so no upgrade is necessary.
+*   **PV Panels:** The building already has PV panels installed and is listed as having no further potential for PV, making additional panels non-viable.

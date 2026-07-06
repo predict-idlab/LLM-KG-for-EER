@@ -1,0 +1,69 @@
+### Renovation Plan for the Attached Building (1832)
+
+#### **Context**
+The property is an **attached building** constructed in **1832** with a **C label (262)**. The owner's primary motivation is to **improve the EPC rating**. The building has:
+- **Uninsulated walls** (front and rear).
+- **Moderately insulated gable roof**.
+- **Uninsulated floor above the basement**.
+- **Double-glazed windows** in good condition.
+- **Ventilation system A** (natural air supply and exhaust).
+- **Radiator** as the emission system.
+- **Potential for PV panels** but no geothermal or heat grid availability.
+
+#### **Renovation Strategy**
+The strategy follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before sealing the envelope leads to oversized equipment and wasted energy.
+
+#### **Proposed Renovation Path**
+
+**Phase 1: Strengthening the Building Envelope (Priority: High)**
+The building has significant heat loss through uninsulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+
+1. **Insulate Walls on Interior**
+   - **Action:** Insulate `Wall_Front` and `Wall_Rear` on the interior.
+   - **Rationale:** Since the walls are full brick and not cavity walls, interior insulation is the most effective method to eliminate thermal bridges.
+
+2. **Insulate Floor Above Basement**
+   - **Action:** Insulate the `FloorAboveBasement`.
+   - **Rationale:** Prevents cold drafts from the basement and improves thermal comfort.
+
+3. **Insulate Gable Roof**
+   - **Action:** Insulate the `RoofMain` (currently moderately insulated).
+   - **Rationale:** Improves thermal performance and reduces heat loss through the roof.
+
+*Note: Windows are already double-glazed and frames are in a "Good State," so replacing them is not recommended at this stage to maintain cost-effectiveness.*
+
+**Phase 2: Heating & Emission System Transition (Priority: Medium)**
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+4. **Place Air-Water Heat Pump**
+   - **Action:** Replace the existing boiler with an **Air-Water Heat Pump**.
+   - **Rationale:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement.
+
+5. **Place Emission System on Low Temperature**
+   - **Action:** Transition the current radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the Coefficient of Performance (COP) of the new heat pump.
+
+**Phase 3: Ventilation Upgrade (Priority: Medium)**
+Modern ventilation systems are necessary to prevent moisture buildup and maintain air quality in a now-sealed envelope.
+
+6. **Replace Ventilation System**
+   - **Action:** Upgrade from Ventilation System A to a more efficient system (such as System C or D).
+   - **Rationale:** Ensures proper air exchange and maintains indoor air quality.
+
+**Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof**
+   - **Action:** Install PV panels on the roof.
+   - **Rationale:** Provides renewable electricity to power the heat pump and ventilation system.
+
+#### **Summary of Optimal Sequence**
+1. **Interior Wall Insulation**
+2. **Floor Insulation**
+3. **Gable Roof Insulation**
+4. **Air-Water Heat Pump Installation**
+5. **Low-Temperature Emission Upgrade**
+6. **Ventilation System Upgrade**
+7. **PV Panels Installation**
+
+This sequence ensures that the building is optimized for energy efficiency, thermal comfort, and cost-effectiveness. The renovation plan is tailored to the specific needs and context of the property, ensuring a balanced approach to improving the EPC rating.

@@ -1,0 +1,27 @@
+Based on the provided building data and the RENO ontology, the property is a semi-detached building from 2017 with an EPC score of 87 (A+ Label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+Proposed Renovation Path
+
+Phase 1: Strengthening the Building Envelope (Priority: High)
+The building already has well-insulated walls and floor above the basement, but there is room for improvement in the flat roof area.
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently well insulated, but the `RoofMain` is only moderately insulated. Upgrading the flat roof to well-insulated status will significantly reduce heat loss.
+
+Phase 2: Heating & Emission System Transition (Priority: Medium)
+Since the building already has a heat pump, the focus should be on optimizing the system and ensuring it is paired with an appropriate emission system.
+2.  **Place Emission System on Low Temperature:** The current radiators may not be optimized for the low-temperature output of a heat pump. Transitioning to a low-temperature emission system will improve the Coefficient of Performance (COP) of the heat pump.
+
+Phase 3: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the heat pump and further improve the EPC label.
+3.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+Summary of Optimal Sequence
+**Flat Roof Insulation** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+### Recommendations
+1. **Insulate Flat Roof:** Since the current insulation is only moderate, upgrading to well-insulated status will significantly reduce heat loss.
+2. **Place Emission System on Low Temperature:** To maximize the efficiency of the existing heat pump, ensure that the emission system is compatible with low-temperature operation.
+3. **Place PV-Panels on Roof:** Installing solar panels will help offset the electricity consumption of the heat pump and ventilation system, further improving the EPC label.
+
+This plan prioritizes the most cost-effective and impactful upgrades first, ensuring that the building's energy efficiency is maximized while keeping the renovation budget in check.

@@ -1,0 +1,77 @@
+### Renovation Plan for Attached Building (Construction Year: 1832)
+
+**Current Status:**
+- **EPC Score:** 262 (C Label)
+- **Building Type:** Attached (19th Century)
+- **Envelope Issues:** Non-insulated walls, floor, and roof extension
+- **Windows:** Double-glazed (Good State)
+- **Heating System:** Radiators with a boiler
+- **Ventilation:** System A (Natural)
+- **PV Potential:** Yes
+- **Motivation:** Improve EPC
+
+**Renovation Strategy:**
+The goal is to reduce heat loss, upgrade the heating system, and add renewable energy generation. The sequence should prioritize **thermal envelope improvements** before transitioning to sustainable heat sources.
+
+---
+
+### **Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Walls on Exterior**
+   - **Action:** Exterior wall insulation (FullBrickWall)
+   - **Why:** Eliminates thermal bridges, reduces heat loss.
+   - **Method:** Apply rigid foam or mineral wool panels.
+
+2. **Insulate Floor Above Basement**
+   - **Action:** Add insulation layer above basement.
+   - **Why:** Prevents cold drafts, improves comfort.
+
+3. **Insulate Flat Roof (RoofExtension)**
+   - **Action:** Inverted roof insulation (warm roof).
+   - **Why:** Heat rises rapidly through flat roofs; insulation here is critical.
+
+4. **Insulate Gable Roof (RoofMain)**
+   - **Action:** Add insulation between rafters.
+   - **Why:** RoofMain is already moderately insulated, but further improvement is needed.
+
+---
+
+### **Phase 2: Heating System Upgrade (Medium Priority)**
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump.
+   - **Why:** More energy-efficient than boilers, compatible with low-temperature emissions.
+
+6. **Place Low-Temperature Emission System**
+   - **Action:** Transition radiators to low-temperature emissions.
+   - **Why:** Maximizes heat pump efficiency.
+
+---
+
+### **Phase 3: Ventilation & Air Quality (Medium Priority)**
+7. **Replace Ventilation System**
+   - **Action:** Upgrade from System A to System D.
+   - **Why:** Mechanical ventilation ensures air quality in a sealed envelope.
+
+---
+
+### **Phase 4: Renewable Energy Generation (Long-Term Priority)**
+8. **Place PV-Panels on Roof**
+   - **Action:** Install solar panels.
+   - **Why:** Offsets electricity use of heat pump and ventilation.
+
+---
+
+### **Optimal Sequence**
+1. **Exterior Wall Insulation**
+2. **Floor Insulation**
+3. **Roof Insulation (Flat & Gable)**
+4. **Heat Pump Installation**
+5. **Low-Temperature Emission Upgrade**
+6. **Ventilation Upgrade**
+7. **PV Panels**
+
+**Rationale:**
+- **Seal First, Heat Second:** Insulation reduces heat demand, allowing for a smaller, more efficient heat pump.
+- **Cost-Effectiveness:** Addressing the building envelope first lowers the overall energy load, reducing the size (and cost) of heating upgrades.
+- **Sustainability:** PV panels are added last to power the new systems with renewable energy.
+
+This plan balances **thermal comfort, energy efficiency, and cost-effectiveness** while adhering to the "fabric-first" principle.

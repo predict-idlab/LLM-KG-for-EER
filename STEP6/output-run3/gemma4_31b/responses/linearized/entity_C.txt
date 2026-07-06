@@ -1,0 +1,32 @@
+### Analysis of Current Building State
+The building is a very modern **attached house (constructed in 2023)** with an exceptionally low **EPC score of 50**, placing it in the A+ category. The thermal envelope is already highly optimized: the walls, flat roof, and floor above the basement are all "Well Insulated," and the ventilation system is already at the highest standard (System D).
+
+However, there is a significant discrepancy between the high-performance envelope and the heating system. The building currently utilizes a **Boiler** and **Electric Convectors**, the latter of which are highly inefficient. The owner has expressed a motivation to further improve the EPC and has indicated a reason to change the emission system.
+
+### Proposed Renovation Path
+
+Given that the "fabric" is nearly perfect, the focus shifts from insulation to **system efficiency**. To maximize energy efficiency while remaining cost-effective, the plan focuses on transitioning from high-temperature/electric heating to a sustainable, low-temperature heat pump system.
+
+#### Phase 1: Final Envelope Refinement
+While most of the house is well-insulated, the main gable roof is only "moderately insulated."
+1. **Insulate Gable Roof:** To achieve a near-zero energy standard and further lower the EPC, the main roof should be upgraded from moderately to well-insulated. This is the final step in the "fabric-first" approach.
+
+#### Phase 2: Transition to Low-Temperature Emission
+A heat pump cannot operate efficiently with electric convectors or standard high-temperature radiators.
+2. **Place Emission System on Low Temperature:** Before replacing the generator, the emission system must be upgraded (e.g., to underfloor heating or low-temperature radiators). This ensures the future heat pump can operate at a high Coefficient of Performance (COP).
+
+#### Phase 3: Sustainable Heat Generation
+With a highly insulated envelope and low-temperature emitters in place, the building is ready for a sustainable energy source.
+3. **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no access to a heat grid, an Air-Water Heat Pump is the most efficient and cost-effective replacement for the existing boiler. This removes reliance on fossil fuels and leverages the building's existing thermal efficiency.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Completes the thermal envelope, ensuring no heat is wasted from the top of the building. |
+| **2** | **Low-Temp Emission Upgrade** | Necessary prerequisite to allow a heat pump to operate efficiently. |
+| **3** | **Air-Water Heat Pump** | Replaces the inefficient boiler/electric convectors with a sustainable, high-efficiency generator. |
+
+**Final Note:** No further actions are recommended for windows (already double-glazed and in good state), ventilation (already System D), or walls/floors (already well-insulated), as these would not be cost-effective given the current high performance of the building.

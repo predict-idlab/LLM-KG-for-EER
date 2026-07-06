@@ -1,0 +1,78 @@
+### Step-by-Step Renovation Plan
+
+#### 1. **Assessment of Current State**
+   - **Building Type**: Semi-detached (1951)
+   - **Current EPC Score**: 388 (D label)
+   - **Motivation**: To improve EPC
+   - **Potential for PV**: Yes
+   - **Heat Grid Availability**: No
+   - **Geothermal Potential**: No (horizontal or vertical)
+
+#### 2. **Key Issues Identified**
+   - **Insulation**: Most walls and roof are not insulated (NotInsulated grade).
+   - **Emission System**: Current system (Radiator + FloorHeating) may not be efficient.
+   - **Windows**: Double glazing, but frames may need inspection for thermal breaks.
+   - **Roof**: Moderately insulated (RoofExtension), but main roof (RoofMain) is not insulated.
+
+#### 3. **Prioritization of Renovations**
+   - **High Impact, Low Nuisance**:
+     - **Insulate Wall Cavity**: Low nuisance, high impact on thermal performance.
+     - **Insulate Attic Floor**: Low nuisance, improves thermal comfort.
+   - **Medium Impact, Medium Nuisance**:
+     - **Replace Ventilation System**: Upgrade to a more efficient system (e.g., VentilationSystemC).
+     - **Insulate Wall Interior**: Improves thermal comfort but requires relocation of fixtures.
+   - **Low Impact, High Nuisance**:
+     - **Replace Roof**: High nuisance but necessary for long-term energy efficiency.
+
+#### 4. **Actionable Renovation Plan**
+   - **Phase 1: Immediate Actions (Low Nuisance, High Impact)**
+     1. **Insulate Wall Cavity**:
+        - **Ordering**: 34
+        - **Point of Attention**: Inspect cavity suitability.
+        - **Expected Cost**: ~€22/m².
+     2. **Insulate Attic Floor**:
+        - **Ordering**: 31
+        - **Point of Attention**: Install vapour barrier.
+        - **Expected Cost**: ~€60/m².
+
+   - **Phase 2: Medium Nuisance Actions**
+     3. **Replace Ventilation System**:
+        - **Ordering**: 52
+        - **Point of Attention**: Ensure compatibility with existing ducts.
+        - **Expected Cost**: ~€17/m².
+     4. **Insulate Wall Interior**:
+        - **Ordering**: 37
+        - **Point of Attention**: Relocate fixtures and ensure proper execution.
+        - **Expected Cost**: ~€150/m².
+
+   - **Phase 3: High Nuisance Actions**
+     5. **Replace Flat Roof (RoofExtension)**:
+        - **Ordering**: 10
+        - **Point of Attention**: Ensure proper drainage and vapour barrier.
+        - **Expected Cost**: ~€120/m².
+     6. **Insulate Gable Roof (RoofMain)**:
+        - **Ordering**: 28
+        - **Point of Attention**: Install roof underlayment air- and watertight.
+        - **Expected Cost**: ~€60/m².
+
+   - **Phase 4: Optional Enhancements**
+     7. **Place PV Panels on Roof**:
+        - **Ordering**: 85
+        - **Point of Attention**: Check roof orientation and sunlight capture.
+        - **Expected Cost**: ~€275/m².
+     8. **Place Sunshade**:
+        - **Ordering**: 79
+        - **Point of Attention**: Outdoor blinds for better efficiency.
+        - **Expected Cost**: ~€750.
+
+#### 5. **Expected Outcomes**
+   - **Energy Efficiency**: Significant reduction in EPC score, likely moving from D to C or B label.
+   - **Thermal Comfort**: Improved insulation reduces heat loss and drafts.
+   - **Cost Savings**: Lower energy bills due to improved heating efficiency.
+
+#### 6. **Next Steps**
+   - **Consult Professionals**: Engage architects or contractors for detailed planning and execution.
+   - **Permit Check**: Ensure compliance with local regulations, especially for roof replacements.
+   - **Budgeting**: Allocate funds based on prioritized phases.
+
+This plan ensures a systematic approach to renovations, balancing immediate needs with long-term benefits while minimizing disruption.

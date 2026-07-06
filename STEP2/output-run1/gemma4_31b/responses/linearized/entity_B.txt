@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, the property is an attached building from 1832 with an EPC score of 262. While the main gable roof is moderately insulated, the rest of the building envelope is significantly underperforming.
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** approach. We must reduce the energy demand of the building shell before upgrading the heating systems to ensure the new systems are sized correctly and operate at peak efficiency.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Highest Priority)
+Focus on eliminating the largest sources of heat loss. These elements are currently "Not Insulated."
+1.  **Insulate Flat Roof (RoofExtension):** The extension is currently not insulated. This is a high-priority area for heat loss.
+2.  **Insulate Walls on Exterior (Wall_Front & Wall_Rear):** Both full brick walls are not insulated and have no historical protection. Exterior insulation is more effective than interior insulation for preventing thermal bridges.
+3.  **Insulate Floor Above Basement:** The floor is not insulated; addressing this prevents cold drafts from the basement into the living areas.
+
+#### Phase 2: Ventilation and Air Quality
+Once the building is sealed and insulated, air exchange must be managed to prevent moisture buildup and ensure health.
+4.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (e.g., System C or D) to maintain air quality in a now-airtight envelope.
+
+#### Phase 3: Heating System Modernization
+With a reduced energy load, we can replace the outdated boiler and radiators.
+5.  **Place Emission System on Low Temperature:** Since the building currently uses radiators, upgrading them to low-temperature emitters is essential to maximize the efficiency of a heat pump.
+6.  **Place Air-Water Heat Pump:** As geothermal potential is false for this site, an air-water heat pump is the most cost-effective and efficient replacement for the existing boiler.
+
+#### Phase 4: Renewable Energy Integration
+Finally, offset the remaining operational energy costs.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will significantly reduce the electricity cost of the new heat pump and improve the final EPC label.
+
+### Summary of Optimal Sequence
+**Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor) $\rightarrow$ Ventilation $\rightarrow$ Low-Temp Emitters $\rightarrow$ Heat Pump $\rightarrow$ Solar PV.**
+
+### Key Justifications
+*   **Cost-Effectiveness:** By insulating first, you can install a smaller, less expensive heat pump because the total heat load of the house is reduced.
+*   **Energy Efficiency:** Moving from a boiler to a heat pump without insulating would lead to high electricity bills and poor comfort.
+*   **Practicality:** The lack of historical protection on the walls and the confirmed PV potential make these specific upgrades highly viable for this property.

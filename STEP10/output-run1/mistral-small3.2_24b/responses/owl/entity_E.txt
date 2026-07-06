@@ -1,0 +1,48 @@
+The building is a detached structure from 1862 with an energy score of 165. It has cavity walls, single-glazed windows, and an outdated heating system. The owner wants to improve the energy performance certificate (EPC).
+
+### Key Insights:
+1. **Building Type**: Detached building (1862) with cavity walls.
+2. **Current EPC**: 165 (D label).
+3. **Windows**: Single-glazed with wooden frames in good condition.
+4. **Heating System**: Outdated (radiators, floor heating, electric convectors).
+5. **Potential for PV**: Yes.
+6. **Heat Grid Availability**: No.
+7. **Geothermal Potential**: No.
+
+### Renovation Path:
+1. **Insulate Cavity Walls**:
+   - All four walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`) are cavity walls and not insulated.
+   - **Action**: Insulate the cavity walls.
+   - **Reason**: This is the most cost-effective way to reduce heat loss through the building envelope.
+
+2. **Replace Glazing**:
+   - All windows have single glazing.
+   - **Action**: Replace single glazing with double or triple glazing.
+   - **Reason**: Single glazing leads to significant heat loss. Upgrading to double or triple glazing will improve thermal performance.
+
+3. **Replace Ventilation System**:
+   - Current ventilation system is type A (natural).
+   - **Action**: Upgrade to a more efficient system (e.g., type C or D).
+   - **Reason**: A more efficient ventilation system will ensure proper air exchange while minimizing heat loss.
+
+4. **Place Air-Water Heat Pump**:
+   - Current heating system is outdated and inefficient.
+   - **Action**: Install an air-water heat pump.
+   - **Reason**: Heat pumps are more energy-efficient and can significantly reduce energy consumption.
+
+5. **Place PV Panels on Roof**:
+   - The building has potential for PV.
+   - **Action**: Install PV panels on the roof.
+   - **Reason**: PV panels can generate renewable electricity, further reducing the energy consumption and improving the EPC.
+
+### Summary of Sequence and Rationale:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls** | Reduces heat loss through the building envelope. |
+| **2** | **Replace Glazing** | Improves thermal performance of windows. |
+| **3** | **Replace Ventilation System** | Ensures proper air exchange while minimizing heat loss. |
+| **4** | **Place Air-Water Heat Pump** | Replaces outdated heating system with a more energy-efficient option. |
+| **5** | **Place PV Panels on Roof** | Generates renewable electricity, reducing energy consumption. |
+
+This sequence ensures that the building's energy efficiency is maximized while remaining cost-effective.

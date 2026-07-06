@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate gable roof", "place emission system on low temperature"], "extra_actions": ["insulate floor above basement", "insulate wall on exterior", "place geothermal heat pump", "place pv-panels in garden", "place roof underlayment", "place sunshade", "connect to heat grid"]}, "sequence": {"order_errors": []}}

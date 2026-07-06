@@ -1,0 +1,54 @@
+Based on the provided building information and the RENO ontology, here's a concise and actionable renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+### **Renovation Plan**
+
+#### **1. Replace Windows**
+- **Action**: Replace all windows in the bedrooms and living area with double glazing.
+- **Reasoning**: The current windows have single glazing, which is inefficient. Double glazing will improve thermal insulation, reducing heat loss.
+- **Cost**: The cost will depend on the size and number of windows, but typically ranges from €800 to €1,000 per window.
+- **Priority**: High (immediate action to reduce energy consumption).
+
+#### **2. Insulate Walls**
+- **Action**: Insulate the front and rear walls.
+- **Reasoning**: The walls are currently well-insulated, but replacing the windows will complement this by reducing heat loss through the windows.
+- **Cost**: The cost will depend on the size of the walls and the type of insulation used, but typically ranges from €200 to €250 per m².
+- **Priority**: Medium (should be done in conjunction with window replacement).
+
+#### **3. Upgrade Heating System**
+- **Action**: Consider replacing the current heating system with a more energy-efficient option, such as a heat pump or underfloor heating.
+- **Reasoning**: The current heating system is an electric convector, which is less energy-efficient compared to modern alternatives. A heat pump or underfloor heating can provide more consistent and efficient heating.
+- **Cost**: The cost will depend on the type of system chosen, but typically ranges from €8,000 to €15,000.
+- **Priority**: High (long-term energy savings and comfort).
+
+#### **4. Install PV Panels**
+- **Action**: Install photovoltaic (PV) panels on the roof.
+- **Reasoning**: The building has potential for PV installation, which can significantly reduce electricity costs and contribute to renewable energy usage.
+- **Cost**: The cost will depend on the size of the system, but typically ranges from €275 to €300 per m².
+- **Priority**: Medium (long-term energy savings and environmental benefits).
+
+#### **5. Ventilation System Upgrade**
+- **Action**: Replace the current ventilation system with a more efficient one, such as a heat recovery ventilation system.
+- **Reasoning**: The current ventilation system is a ventilation system D, which is less efficient compared to modern heat recovery systems that can recover heat from exhaust air.
+- **Cost**: The cost will depend on the type of system chosen, but typically ranges from €3,500 to €5,000.
+- **Priority**: Low (improves indoor air quality and energy efficiency).
+
+#### **6. Roof Insulation**
+- **Action**: Ensure the roof is well-insulated.
+- **Reasoning**: The main roof is already moderately insulated, but the extension roof is well-insulated. Ensuring consistent insulation across the entire roof can prevent heat loss.
+- **Cost**: The cost will depend on the size of the roof and the type of insulation used, but typically ranges from €50 to €60 per m².
+- **Priority**: Low (complementary to other insulation efforts).
+
+### **Optimal Sequence of Actions**
+1. **Replace Windows**: Start with replacing the windows to immediately reduce heat loss.
+2. **Insulate Walls**: Follow up with wall insulation to complement the window replacement.
+3. **Upgrade Heating System**: Install a new heating system to improve energy efficiency.
+4. **Install PV Panels**: Add PV panels to reduce electricity costs.
+5. **Ventilation System Upgrade**: Finally, upgrade the ventilation system to improve indoor air quality and energy efficiency.
+6. **Roof Insulation**: Ensure the roof is well-insulated to prevent heat loss.
+
+### **Additional Recommendations**
+- **Monitor Energy Consumption**: Regularly monitor energy consumption to track the impact of the renovations and identify areas for further improvement.
+- **Consider Financial Incentives**: Explore available grants, subsidies, or tax incentives for energy-efficient renovations to reduce costs.
+- **Professional Consultation**: Consult with energy efficiency experts to ensure the best practices and compliance with local regulations.
+
+This plan is designed to maximize energy efficiency, reduce long-term operational costs, and improve the overall comfort of the building.

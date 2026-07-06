@@ -1,0 +1,69 @@
+Based on the provided RENO ontology and the building-specific information, I'll create a cost-effective and energy-efficient renovation plan. The plan will prioritize actions that provide the most energy savings while considering cost, nuisance level, and practical constraints.
+
+**Renovation Plan:**
+
+1. **Replace Glazing (WindowsLivingArea and WindowsBedrooms)**
+   - *Priority:* High
+   - *Action:* Replace single glazing with double glazing (DoubleGlazing)
+   - *Reason:* Single glazing has poor thermal performance. Double glazing will significantly improve insulation.
+   - *Estimated Cost:* ~€800 per window (assuming 5 windows: ~€4,000 total)
+   - *Nuisance Level:* High
+   - *Notes:* Check window frames for structural integrity before glazing replacement.
+
+2. **Insulate Wall Cavity (Wall_Front, Wall_Left, Wall_Right, Wall_Rear)**
+   - *Priority:* High
+   - *Action:* Inject insulation into cavity walls
+   - *Reason:* All walls are currently not insulated (NotInsulated). Cavity wall insulation is cost-effective and provides good thermal performance.
+   - *Estimated Cost:* ~€22/m² (assuming 200m² total wall area: ~€4,400)
+   - *Nuisance Level:* Low
+   - *Notes:* Have an inspection carried out by a contractor to confirm suitability for injection.
+
+3. **Insulate Attic Floor (if applicable)**
+   - *Priority:* Medium
+   - *Action:* Insulate attic floor with vapor barrier
+   - *Reason:* Improves thermal performance of upper floor
+   - *Estimated Cost:* ~€60/m² (assuming 50m²: ~€3,000)
+   - *Nuisance Level:* Low
+   - *Notes:* Install vapor barrier on the warm side of insulation.
+
+4. **Place Roof Underlayment**
+   - *Priority:* Medium
+   - *Action:* Install roof underlayment for RoofMain
+   - *Reason:* Improves roof waterproofing and thermal performance
+   - *Estimated Cost:* ~€65/m² (assuming 100m²: ~€6,500)
+   - *Nuisance Level:* Low
+   - *Notes:* Ensure complete air- and water-tightness.
+
+5. **Replace Ventilation System (VentilationSystem)**
+   - *Priority:* Medium
+   - *Action:* Upgrade to VentilationSystemB
+   - *Reason:* Current VentilationSystemA has limited efficiency
+   - *Estimated Cost:* ~€17/m² (assuming 136m² floor area: ~€2,312)
+   - *Nuisance Level:* Moderate
+   - *Notes:* Requires ductwork installation.
+
+6. **Connect to Heat Grid (if available in future)**
+   - *Priority:* Low (conditional)
+   - *Action:* Consider connecting to heat grid when available
+   - *Reason:* More sustainable heating option
+   - *Estimated Cost:* ~€7,000
+   - *Nuisance Level:* Low
+
+**Sequence of Actions:**
+1. Replace Glazing
+2. Insulate Wall Cavity
+3. Insulate Attic Floor (if applicable)
+4. Place Roof Underlayment
+5. Replace Ventilation System
+6. Connect to Heat Grid (future consideration)
+
+**Total Estimated Cost:** ~€17,212
+
+**Implementation Notes:**
+- Prioritize actions with higher energy savings and lower nuisance levels
+- Consider phased implementation to spread costs over time
+- Verify local regulations and permits for each renovation action
+- Schedule actions to minimize disruption (e.g., do wall insulation before glazing replacement)
+- Monitor energy performance after each phase to assess impact
+
+This plan focuses on cost-effective measures that will significantly improve the building's energy efficiency (currently EPC score 165) while maintaining historical character (no protected walls) and addressing the owner's motivation to improve the EPC label.

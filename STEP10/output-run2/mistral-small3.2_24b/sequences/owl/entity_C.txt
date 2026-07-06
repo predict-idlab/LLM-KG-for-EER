@@ -1,0 +1,4 @@
+1. place air-water heat pump
+2. place emission system on low temperature
+3. place solar thermal panels
+4. place battery storage system

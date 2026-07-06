@@ -1,0 +1,75 @@
+To create an energy-efficient and cost-effective renovation plan for the given building, we need to focus on the most impactful upgrades while considering the building's specific characteristics and constraints. Here's a step-by-step plan:
+
+### 1. Insulate Walls
+**Action:** Insulate the cavity walls (Wall_Left, Wall_Front, Wall_Rear, Wall_Right) using cavity wall insulation.
+**Rationale:** The walls are currently not insulated (NotInsulated), and insulating them will significantly reduce heat loss. Cavity wall insulation is cost-effective and has a low nuisance level (low).
+**Estimated Cost:** ~€22 per m² (InsulateWallCavity hasUnitPrice 22).
+**Sequence:** InsulateWallCavity (ordering 34).
+
+### 2. Replace Single Glazing with Double Glazing
+**Action:** Replace the single glazing (SingleGlazing) in the windows with double glazing (DoubleGlazing).
+**Rationale:** Single glazing has poor thermal properties. Replacing it with double glazing will improve thermal comfort and reduce energy consumption. Ensure the window frames are in good condition (WoodenWindowFrame hasState GoodState).
+**Estimated Cost:** ~€200 per window (ReplaceGlazing hasUnitPrice 200).
+**Sequence:** ReplaceGlazing (ordering 43).
+
+### 3. Upgrade the Emission System
+**Action:** Replace the current emission system (Radiator, ElectricConvector) with a low-temperature emission system (e.g., underfloor heating).
+**Rationale:** The current emission system is not energy-efficient. A low-temperature emission system works better with renewable energy sources and improves overall energy efficiency.
+**Estimated Cost:** ~€100 per m² (PlaceLowTemperatureEmission hasUnitPrice 100).
+**Sequence:** PlaceLowTemperatureEmission (ordering 70).
+
+### 4. Install a Heat Pump
+**Action:** Install a heat pump (e.g., air-water heat pump) to replace the current generation system (Boiler).
+**Rationale:** Heat pumps are more energy-efficient than traditional boilers and can work well with low-temperature emission systems.
+**Estimated Cost:** ~€35 per m² (PlaceAirWaterHeatpump hasUnitPrice 35).
+**Sequence:** PlaceAirWaterHeatpump (ordering 67).
+
+### 5. Improve Ventilation
+**Action:** Upgrade the ventilation system from type A to type B or C.
+**Rationale:** A better ventilation system will improve indoor air quality and reduce the risk of condensation and mold growth.
+**Estimated Cost:** ~€17 per m² (ReplaceVentilationSystem hasUnitPrice 17).
+**Sequence:** ReplaceVentilationSystem (ordering 52).
+
+### 6. Install Solar Panels
+**Action:** Install photovoltaic (PV) panels on the roof (RoofMain).
+**Rationale:** The building has potential for PV (hasPotentialForPV true), and installing solar panels will generate renewable energy, reducing the reliance on the grid.
+**Estimated Cost:** ~€275 per panel (PlacePVPanelsOnRoof hasUnitPrice 275).
+**Sequence:** PlacePVPanelsOnRoof (ordering 85).
+
+### 7. Insulate the Attic Floor
+**Action:** Insulate the attic floor (AtticFloor) if applicable.
+**Rationale:** Insulating the attic floor will prevent heat loss through the roof and improve overall energy efficiency.
+**Estimated Cost:** ~€60 per m² (InsulateAtticFloor hasUnitPrice 60).
+**Sequence:** InsulateAtticFloor (ordering 31).
+
+### 8. Check for Asbestos
+**Action:** Remove any asbestos-containing materials if present.
+**Rationale:** Asbestos removal is necessary for safety reasons before proceeding with other renovations.
+**Estimated Cost:** Varies (RemoveAsbestosGableRoof hasUnitPrice 45).
+**Sequence:** RemoveAsbestosGableRoof (ordering 22).
+
+### 9. Install Roof Underlayment
+**Action:** Place a roof underlayment (RoofUnderlayment) to ensure air- and watertightness.
+**Rationale:** Proper roof underlayment is crucial for preventing water damage and maintaining insulation efficiency.
+**Estimated Cost:** ~€65 per m² (PlaceRoofUnderlayment hasUnitPrice 65).
+**Sequence:** PlaceRoofUnderlayment (ordering 16).
+
+### 10. Consider Additional Upgrades
+**Actions:** Depending on the budget and priorities, consider additional upgrades such as:
+- Installing sunshades to reduce solar gain in summer.
+- Replacing the flat roof if it is old or damaged.
+- Installing a heat grid connection if available in the future.
+
+### Summary of the Renovation Plan:
+1. Insulate the cavity walls (InsulateWallCavity).
+2. Replace single glazing with double glazing (ReplaceGlazing).
+3. Upgrade the emission system to a low-temperature system (PlaceLowTemperatureEmission).
+4. Install a heat pump (PlaceAirWaterHeatpump).
+5. Improve the ventilation system (ReplaceVentilationSystem).
+6. Install solar panels (PlacePVPanelsOnRoof).
+7. Insulate the attic floor (InsulateAtticFloor) if applicable.
+8. Remove asbestos if present (RemoveAsbestosGableRoof).
+9. Install roof underlayment (PlaceRoofUnderlayment).
+10. Consider additional upgrades based on budget and priorities.
+
+This plan focuses on maximizing energy efficiency while being cost-effective. The sequence of actions is based on the ordering of the renovation suggestions in the ontology, ensuring that the most impactful upgrades are prioritized.

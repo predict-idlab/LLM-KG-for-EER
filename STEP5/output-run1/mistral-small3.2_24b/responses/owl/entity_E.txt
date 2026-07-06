@@ -1,0 +1,48 @@
+### Renovation Plan for the Detached Building (Constructed in 1862)
+
+**Current EPC Score:** 165 (D Label)
+**Building Type:** Detached
+**Construction Year:** 1862
+**Potential for PV:** True
+**Presence of Heat Grid:** False
+
+**Primary Motivation:** Improve the EPC rating
+
+Given the age of the building and the current EPC rating (D Label), a multi-phase renovation is recommended to optimize energy efficiency while maintaining cost-effectiveness. The renovation strategy should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence to ensure maximum energy savings and a sustainable transition to renewable energy sources.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is an 1862 detached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Cavity Walls (Front, Rear, Left, and Right):** All four walls are cavity walls and currently uninsulated. **Insulating the wall cavity** is a cost-effective way to improve thermal retention. Since the walls are cavity walls, cavity insulation is the most suitable method.
+2. **Insulate Floor Above Crawl Space:** The floor above the crawl space is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the crawl space.
+3. **Replace Glazing (All Windows):** All windows have single glazing, which leads to significant heat losses. **Replacing single glazing with double or triple glazing** would drastically improve the thermal performance of the windows.
+
+#### Phase 2: Heating & Emission System Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+4. **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+5. **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+#### Phase 3: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### Phase 4: Sustainable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Cavity Walls $\rightarrow$ Floor Above Crawl Space)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **5** | **PV Panels** | Generates renewable electricity to power the heat pump and ventilation system. |
+
+This renovation plan ensures that the building's energy efficiency is maximized while maintaining cost-effectiveness and sustainability. The sequence of actions is designed to prioritize high-impact improvements first, followed by complementary upgrades to further enhance performance.

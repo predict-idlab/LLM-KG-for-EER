@@ -1,0 +1,117 @@
+To create an energy-efficient and cost-effective renovation plan for the given building, we'll follow a structured approach that prioritizes actions based on the ontology and suggestion list. Here's the step-by-step plan:
+
+### **1. Insulation Upgrades**
+- **Insulate Floor Above Basement**
+  - **Action**: Insulate the floor above the basement to improve thermal comfort and reduce heat loss.
+  - **Reasoning**: The floor above the basement is currently well insulated, but further insulation can enhance energy efficiency.
+  - **Ordering**: 49
+  - **Cost**: PER-M2
+
+- **Insulate Wall Cavity**
+  - **Action**: Insulate the wall cavity to reduce heat loss through walls.
+  - **Reasoning**: The walls are well insulated, but cavity insulation can further improve energy efficiency.
+  - **Ordering**: 34
+  - **Cost**: PER-M2
+
+- **Insulate Wall on Interior**
+  - **Action**: Insulate the interior walls to reduce heat loss.
+  - **Reasoning**: The walls are well insulated, but interior insulation can provide additional thermal comfort.
+  - **Ordering**: 37
+  - **Cost**: PER-M2
+
+### **2. Roof and Attic Upgrades**
+- **Insulate Attic Floor**
+  - **Action**: Insulate the attic floor to reduce heat loss through the roof.
+  - **Reasoning**: The attic floor is well insulated, but further insulation can enhance energy efficiency.
+  - **Ordering**: 31
+  - **Cost**: PER-M2
+
+- **Insulate Flat Roof**
+  - **Action**: Insulate the flat roof to reduce heat loss through the roof.
+  - **Reasoning**: The flat roof is well insulated, but further insulation can enhance energy efficiency.
+  - **Ordering**: 25
+  - **Cost**: PER-M2
+
+- **Insulate Gable Roof**
+  - **Action**: Insulate the gable roof to reduce heat loss through the roof.
+  - **Reasoning**: The gable roof is moderately insulated, but further insulation can enhance energy efficiency.
+  - **Ordering**: 28
+  - **Cost**: PER-M2
+
+### **3. Window and Glazing Upgrades**
+- **Replace Glazing**
+  - **Action**: Replace the glazing in the windows to improve thermal performance.
+  - **Reasoning**: The current glazing is double glazing, but replacing it with triple glazing can further improve energy efficiency.
+  - **Ordering**: 43
+  - **Cost**: PER-M2
+
+- **Replace Windows**
+  - **Action**: Replace the windows to improve thermal performance.
+  - **Reasoning**: The current windows are well insulated, but replacing them with more energy-efficient windows can further improve energy efficiency.
+  - **Ordering**: 46
+  - **Cost**: PER-M2
+
+### **4. Ventilation System Upgrades**
+- **Replace Ventilation System**
+  - **Action**: Replace the ventilation system to improve air quality and energy efficiency.
+  - **Reasoning**: The current ventilation system is a ventilation system D, but replacing it with a more efficient system can further improve energy efficiency.
+  - **Ordering**: 52
+  - **Cost**: PER-M2
+
+### **5. Heating System Upgrades**
+- **Connect to Heat Grid**
+  - **Action**: Connect the building to the heat grid to improve energy efficiency.
+  - **Reasoning**: The building does not have a heat grid connection, but connecting to one can significantly improve energy efficiency.
+  - **Ordering**: 55
+  - **Cost**: Fixed Price
+
+- **Place Air-Water Heat Pump**
+  - **Action**: Install an air-water heat pump to improve heating efficiency.
+  - **Reasoning**: The current heating system is a heat pump, but installing an air-water heat pump can further improve energy efficiency.
+  - **Ordering**: 67
+  - **Cost**: PER-M2
+
+- **Place Horizontal Geothermal Heat Pump**
+  - **Action**: Install a horizontal geothermal heat pump to improve heating efficiency.
+  - **Reasoning**: The building has potential for horizontal geothermal captation, but installing a horizontal geothermal heat pump can further improve energy efficiency.
+  - **Ordering**: 64
+  - **Cost**: Fixed Price
+
+### **6. Solar Panel Installation**
+- **Place PV-Panels on Roof**
+  - **Action**: Install PV panels on the roof to generate renewable energy.
+  - **Reasoning**: The building has potential for PV panels, but installing them can significantly improve energy efficiency and reduce energy costs.
+  - **Ordering**: 85
+  - **Cost**: PER-M2
+
+### **7. Additional Upgrades**
+- **Place Roof Underlayment**
+  - **Action**: Install roof underlayment to improve roof insulation and durability.
+  - **Reasoning**: The current roof underlayment is not specified, but installing it can further improve energy efficiency and roof longevity.
+  - **Ordering**: 16
+  - **Cost**: PER-M2
+
+- **Place Sun Shade**
+  - **Action**: Install sun shades to reduce solar heat gain.
+  - **Reasoning**: The building does not have sun shades, but installing them can further improve energy efficiency by reducing cooling needs.
+  - **Ordering**: 79
+  - **Cost**: Fixed Price
+
+### **Summary of Renovation Plan**
+1. Insulate Floor Above Basement
+2. Insulate Wall Cavity
+3. Insulate Wall on Interior
+4. Insulate Attic Floor
+5. Insulate Flat Roof
+6. Insulate Gable Roof
+7. Replace Glazing
+8. Replace Windows
+9. Replace Ventilation System
+10. Connect to Heat Grid
+11. Place Air-Water Heat Pump
+12. Place Horizontal Geothermal Heat Pump
+13. Place PV-Panels on Roof
+14. Place Roof Underlayment
+15. Place Sun Shade
+
+This plan prioritizes actions based on the ordering specified in the ontology and suggestion list, ensuring a structured and efficient renovation process.

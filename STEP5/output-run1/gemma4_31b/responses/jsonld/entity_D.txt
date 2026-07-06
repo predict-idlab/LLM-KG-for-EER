@@ -1,0 +1,31 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached building (constructed in 2017) that is already performing at a very high level of energy efficiency, with an **EPC score of 87 (A Label)**. 
+
+Most of the building envelope is already "Well Insulated," and the home is already equipped with a high-efficiency Heat Pump and a Ventilation System D. Because the building is already near the peak of its energy performance, the focus shifts from "major overhauls" to "marginal gains" and "thermal comfort."
+
+### Proposed Renovation Path
+
+Since the building is already highly efficient, a "fabric-first" approach is almost complete. The remaining steps are designed to eliminate the last remaining thermal weaknesses and optimize summer performance.
+
+#### Phase 1: Final Envelope Optimization (Priority: Low-Medium)
+While most elements are well-insulated, the main gable roof is the only remaining component that is not at the highest insulation grade.
+1. **Insulate Gable Roof:** The `RoofMain` is currently "Moderately Insulated." Upgrading this to "Well Insulated" will further reduce heat loss during winter and heat gain during summer, pushing the EPC score closer to an A+ label.
+
+#### Phase 2: Passive Cooling and Comfort (Priority: Medium)
+Modern, well-insulated houses with high-performance windows often face the risk of overheating during summer months. To maintain energy efficiency (by reducing the need for active air conditioning), passive measures are recommended.
+2. **Place Sunshades:** Installing external sunshades is a cost-effective way to prevent solar heat gain. This is more efficient than internal blinds and reduces the energy load on the heating/cooling system.
+
+#### Phase 3: Targeted Equipment Upgrades (Priority: Optional)
+Given that the emission system is already efficient and there is no reason to change it, further upgrades should only be considered based on specific operational needs.
+3. **Place Heat Pump Boiler:** If the current domestic hot water is not yet handled by a dedicated heat pump boiler, installing one would further optimize the energy used for water heating, complementing the existing space-heating heat pump.
+
+---
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "moderately" insulated part of the thermal envelope to maximize heat retention. |
+| **2** | **Place Sunshades** | Prevents summer overheating in a highly sealed building, reducing future cooling costs. |
+| **3** | **Heat Pump Boiler** | Optimizes the remaining energy consumption related to domestic hot water. |
+
+**Expert Note:** Because this building already possesses an A-label EPC and modern systems (Heat Pump, Vent D, PV Panels), the return on investment (ROI) for further renovations is lower than in older homes. The proposed path focuses on achieving a "near-zero" energy state and ensuring long-term operational comfort.

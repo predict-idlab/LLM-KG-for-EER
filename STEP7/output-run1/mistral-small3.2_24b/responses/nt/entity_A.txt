@@ -1,0 +1,28 @@
+Here's a numbered list of unique, specific renovation actions for the building:
+
+1. insulate flat roof in roof extension
+2. insulate gable roof in roof main
+3. insulate attic floor in floor above basement
+4. insulate wall cavity in wall rear
+5. insulate wall cavity in wall right
+6. insulate wall on interior in wall front
+7. insulate wall on exterior in wall rear
+8. insulate wall on exterior in wall right
+9. replace glazing in windows bedrooms
+10. replace glazing in windows living area
+11. replace windows in windows bedrooms
+12. replace windows in windows living area
+13. insulate floor above basement in floor above basement
+14. replace ventilation system in ventilation system
+15. place air-air heatpump in living area
+16. place vertical geothermal heatpump in site
+17. place horizontal geothermal heatpump in site
+18. place air-water heatpump in living area
+19. place emission system on low temperature in emission system
+20. place air-water heatpump with cooling in living area
+21. place heatpumpboiler in living area
+22. place sunshade in living area
+23. place airconditioning in living area
+24. place pv-panels on roof in roof main
+25. place pv-panels in garden in site
+26. place plug and play pv-panels in site

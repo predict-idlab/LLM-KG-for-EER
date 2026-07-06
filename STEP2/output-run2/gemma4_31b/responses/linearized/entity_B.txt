@@ -1,0 +1,35 @@
+Based on the provided building data and RENO ontology, the building is an attached house from 1832 with an EPC score of 262 (C Label). The owner's primary motivation is to improve the EPC. 
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** approach: reducing energy demand through insulation before upgrading the heating and energy systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (High Impact/Priority)
+The building has several "Not Insulated" elements. Addressing these first ensures that any subsequent heating system is downsized and more efficient.
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a priority as heat rises and flat roofs are significant sources of energy loss.
+2.  **Insulate Walls (Exterior):** Both `Wall_Front` and `Wall_Rear` are `FullBrickWall` and not insulated. Since there is no historical protection, exterior insulation is the most effective way to reduce the U-value of the building shell.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. This will reduce cold drafts and improve the thermal comfort of the lower living areas.
+
+#### Phase 2: Ventilation Upgrade
+Once the building is sealed with insulation, air quality and moisture control become critical.
+4.  **Replace Ventilation System:** The current `VentilationSystemA` (natural supply/exhaust) is the least efficient. Upgrading to a more modern system (e.g., System C or D) will prevent condensation and improve overall energy performance.
+
+#### Phase 3: Heating System Modernization
+With a reduced energy load due to Phase 1, the heating system can be transitioned from a boiler to a sustainable alternative.
+5.  **Place Emission System on Low Temperature:** Since the building uses radiators, these should be upgraded to low-temperature emitters to maximize the efficiency of a heat pump.
+6.  **Place Air-Water Heat Pump:** Geothermal options are not viable for this site (`potential` is false), and there is no heat grid. An air-water heat pump is the most cost-effective, high-efficiency alternative to the current boiler.
+
+#### Phase 4: Renewable Energy Integration
+The final step is to offset the electricity consumption of the new heat pump.
+7.  **Place PV-Panels on Roof:** The building has `hasPotentialForPV = true`. Installing solar panels will significantly lower operational costs and further improve the EPC label.
+
+### Summary of Sequence & Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1. Insulation** | Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor | Reduces heat loss; allows for a smaller, cheaper heat pump. |
+| **2. Ventilation** | Replace Ventilation System | Maintains indoor air quality after the envelope is sealed. |
+| **3. Heating** | Low-Temp Emitters $\rightarrow$ Air-Water HP | Transitions from fossil fuels to electricity with high efficiency. |
+| **4. Energy** | PV-Panels on Roof | Offsets the electrical load of the new heating system. |
+
+**Cost-Effectiveness Note:** By following this sequence, the owner avoids "over-specifying" the heat pump (which would happen if installed before insulation), thereby reducing both the initial investment and long-term energy bills.

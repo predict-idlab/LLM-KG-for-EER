@@ -1,0 +1,43 @@
+**Renovation Plan**
+
+Based on the provided data, this is a 1951 semi-detached house with a significant energy performance gap (EPC 388). To maximize energy efficiency and cost-effectiveness, the renovation must follow a **"Fabric First"** strategy. By reducing the building's heat demand first, we can install a smaller, more efficient heating system, avoiding the cost of over-engineering the HVAC.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: Critical)
+The house currently has several major "thermal holes." Addressing these is the most effective way to lower the EPC score and reduce operational costs.
+
+1.  **Insulate Main Pitched Roof:** This is the highest priority. The main roof currently has no insulation, and since heat rises, this is likely the primary source of heat loss. 
+2.  **Insulate Exterior Walls:** The solid brick walls are currently uninsulated. Given the age of the house, **exterior wall insulation** is recommended to eliminate thermal bridges and protect the brickwork, though interior insulation is a cost-effective alternative if exterior modification is not possible.
+3.  **Insulate Floor Above Basement:** The uninsulated floor above the basement allows significant heat to escape downward and creates a "cold feet" effect. Adding insulation here completes the thermal shell.
+*Note: The flat-roof extension already has moderate insulation, so it is a lower priority than the main roof and walls.*
+
+#### Phase 2: Heating & Emission System Transition (Priority: High)
+Once the thermal envelope is sealed, the energy required to heat the home drops drastically. Now is the time to replace the outdated boiler and failing emission systems.
+
+4.  **Replace Emission Systems:** Since the current radiators and air heating systems are in poor condition, they should be replaced with **low-temperature emission systems** (e.g., oversized radiators or expanded underfloor heating). This is essential to ensure the next step (the heat pump) operates at maximum efficiency.
+5.  **Install Air-Water Heat Pump:** With no district heating or geothermal potential, an **Air-Water Heat Pump** is the most sustainable and cost-effective generator. Because the house is now insulated, the heat pump can be smaller and more efficient (higher COP).
+
+#### Phase 3: Ventilation and Air Quality (Priority: Medium)
+Improving the insulation and sealing the house reduces natural air exchange. To prevent humidity buildup and maintain a healthy indoor climate, the ventilation must be upgraded.
+
+6.  **Upgrade Ventilation System:** Replace the basic natural ventilation with a mechanical system (such as **System C or D**). A balanced ventilation system with heat recovery (System D) would be the gold standard for maximizing energy efficiency.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and ventilation system, the house should move toward energy autonomy.
+
+7.  **Install Photovoltaic (PV) Panels:** Since the house has confirmed potential for PV panels, installing them on the roof will provide renewable energy to power the home's new electrical systems, further improving the EPC label and reducing monthly utility bills.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Drastically reduces the total heat demand of the building. |
+| **2** | **Low-Temp Emission Upgrade** | Prepares the house for a high-efficiency heat pump. |
+| **3** | **Air-Water Heat Pump** | Switches to a sustainable energy source tailored to the new, lower heat load. |
+| **4** | **Ventilation Upgrade** | Ensures air quality and moisture control in a now-sealed envelope. |
+| **5** | **PV Panel Installation** | Generates free, renewable electricity to power the new systems. |
+
+*Note: Since the windows are already double-glazed and the frames are in good condition, replacing them is not recommended at this stage, as the return on investment is significantly lower than the insulation and heating upgrades.*

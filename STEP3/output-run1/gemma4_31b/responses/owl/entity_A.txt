@@ -1,0 +1,54 @@
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Fabric First"** principle: first reducing the energy demand through insulation, then upgrading the heating and ventilation systems, and finally adding renewable energy generation.
+
+Based on the provided building data and the RENO ontology, here is the proposed renovation path.
+
+### Phase 1: Thermal Envelope Improvements (Demand Reduction)
+The building is from 1951 and has several uninsulated elements. Addressing these first ensures that any new heating system is sized correctly and operates at peak efficiency.
+
+1.  **Insulate Gable Roof** (Ordering: 28)
+    *   **Status:** Currently not insulated.
+    *   **Reasoning:** Heat rises; insulating the main roof is one of the most effective ways to lower the EPC score quickly.
+2.  **Insulate Wall Cavity** (Ordering: 34)
+    *   **Status:** Walls are full brick and not insulated.
+    *   **Reasoning:** While exterior insulation is an option, **cavity insulation** is significantly more cost-effective (unit price 22 vs 200) and has a lower nuisance level.
+3.  **Insulate Floor Above Basement** (Ordering: 49)
+    *   **Status:** Currently not insulated.
+    *   **Reasoning:** Prevents heat loss through the ground floor, improving overall thermal comfort.
+
+### Phase 2: Ventilation and Air Quality
+Once the building is airtight and insulated, the ventilation system must be upgraded to prevent condensation and ensure healthy indoor air.
+
+4.  **Replace Ventilation System** (Ordering: 52)
+    *   **Status:** Currently using System A (natural supply/exhaust).
+    *   **Reasoning:** Upgrading to a more modern system (e.g., System C or D) reduces the loss of conditioned air.
+
+### Phase 3: Heating System Modernization
+The building has a stated reason to change the emission system and currently lacks a heat grid or geothermal potential.
+
+5.  **Place Emission System on Low Temperature** (Ordering: 70)
+    *   **Reasoning:** Before installing a heat pump, the existing radiators/floor heating should be optimized for low-temperature operation to maximize the Coefficient of Performance (COP) of the new heat pump.
+6.  **Place Air-Water Heatpump** (Ordering: 67)
+    *   **Reasoning:** Since the building already utilizes radiators and floor heating (water-based systems), an air-water heat pump is the most compatible and efficient replacement for the current generation system.
+
+### Phase 4: Renewable Energy Integration
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+
+7.  **Place PV-Panels on Roof** (Ordering: 85)
+    *   **Status:** Building has potential for PV.
+    *   **Reasoning:** Generating on-site electricity reduces operational costs and further improves the EPC label, fulfilling the owner's primary motivation.
+
+---
+
+### Summary of the Renovation Path
+
+| Sequence | Action | Priority | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | High |
+| **2** | **Insulate Wall Cavity** | High | Very High |
+| **3** | **Insulate Floor Above Basement** | Medium | High |
+| **4** | **Replace Ventilation System** | Medium | Medium |
+| **5** | **Low-Temp Emission Upgrade** | Medium | High |
+| **6** | **Install Air-Water Heatpump** | High | Medium |
+| **7** | **Install Roof PV-Panels** | Medium | High (Long-term) |
+
+**Estimated Impact:** This sequence transforms the building from a **D-label** energy consumer to a high-efficiency dwelling by systematically eliminating heat leaks before installing a sustainable, low-carbon heating source.

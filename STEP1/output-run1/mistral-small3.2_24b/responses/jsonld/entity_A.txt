@@ -1,0 +1,92 @@
+### **Renovation Plan for the House in Ghent**
+
+**1. Insulate the Roof Extension (Flat Roof)**
+   - **Action:** Insulate the flat roof extension to improve energy efficiency.
+   - **Reasoning:**
+     - The roof extension is currently moderately insulated but lacks a vapour barrier. Condensation problems can occur without a vapour barrier.
+     - Opt for an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering, do not insulate the flat roof on the inside.
+   - **Cost:** €50 per m².
+   - **Permit Needed:** Only if the thickness of the total pack >26cm (Flanders).
+
+**2. Insulate the Gable Roof (Main Roof)**
+   - **Action:** Insulate the main gable roof to improve energy efficiency.
+   - **Reasoning:**
+     - The main roof is currently not insulated. Installing a vapour barrier is necessary to prevent condensation problems.
+     - Pay extra attention when installing the roof underlayment to ensure it is completely air- and watertight.
+   - **Cost:** €60 per m².
+   - **Permit Needed:** Not necessary (Flanders).
+
+**3. Insulate the Floor Above Basement**
+   - **Action:** Insulate the floor above the basement to improve energy efficiency.
+   - **Reasoning:**
+     - The floor above the basement is currently not insulated. Not every type of insulation is walkable. Depending on your situation, walkable insulation may be preferred.
+   - **Cost:** €30 per m².
+   - **Permit Needed:** Not necessary (Flanders).
+
+**4. Insulate the Walls (Front, Rear, and Right)**
+   - **Action:** Insulate the front, rear, and right walls to improve energy efficiency.
+   - **Reasoning:**
+     - All walls are currently not insulated. Insulating walls on the inside is a delicate job. Get assistance from an architect, contractor, or craftsman for expert advice and proper execution of the works.
+     - Sockets, pipes, and radiators against the outer walls will have to be relocated.
+   - **Cost:** €150 per m² (interior insulation).
+   - **Permit Needed:** Not necessary (Flanders).
+
+**5. Replace the Windows (Bedrooms and Living Area)**
+   - **Action:** Replace the windows in the bedrooms and living area to improve energy efficiency.
+   - **Reasoning:**
+     - The current windows have wooden frames and double glazing. Replace them with new windows that have better insulation properties.
+     - Check that your window frames are still in good condition, as they need to be straight enough to fit new glass in, and also strong enough, as the new glass will presumably weigh more than the old glass.
+   - **Cost:** €800 per m².
+   - **Permit Needed:** Not necessary if the measurements are kept (Flanders).
+
+**6. Replace the Ventilation System**
+   - **Action:** Replace the ventilation system to improve air quality and energy efficiency.
+   - **Reasoning:**
+     - The current ventilation system is type A, which works on the basis of natural air supply and air exhaust. Consider upgrading to a more efficient system, such as type C or D, which may require ductwork for both supply and return.
+   - **Cost:** €3500 (fixed price) + €17 per m².
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+**7. Place PV Panels in the Garden**
+   - **Action:** Install photovoltaic (PV) panels in the garden to generate renewable energy.
+   - **Reasoning:**
+     - The house has potential for PV panels. Check on the 'Zonnekaart' whether your roof is properly oriented and captures enough sunlight. The yield is greatest if your panels face south (south-east to south-west) at an angle of 30° to 50°.
+     - Since PV panels are attached to the roof structure, it is crucial to remove any asbestos present in the roof first. Installing solar panels on a building with an asbestos-containing roof covering or an asbestos-containing sub-roof is prohibited.
+   - **Cost:** €275 per m².
+   - **Permit Needed:** Not necessary (Flanders).
+
+**8. Place an Air-Water Heat Pump with Cooling**
+   - **Action:** Install an air-water heat pump with cooling to improve heating and cooling efficiency.
+   - **Reasoning:**
+     - The current emission system is a combination of air heating, floor heating, and radiators. Replacing it with an air-water heat pump with cooling can improve energy efficiency and provide better temperature control.
+   - **Cost:** €9000 (fixed price) + €35 per m².
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+**9. Place a Sunshade**
+   - **Action:** Install a sunshade to reduce solar heat gain and improve cooling efficiency.
+   - **Reasoning:**
+     - Outdoor blinds are generally more efficient than indoor blinds. They can help reduce the need for cooling during the summer months.
+   - **Cost:** €750 (fixed price).
+   - **Permit Needed:** Not necessary (Flanders).
+
+**10. Remove Asbestos from the Flat Roof (if applicable)**
+    - **Action:** Remove any asbestos present in the flat roof before installing PV panels or other renovations.
+    - **Reasoning:**
+      - Asbestos is a hazardous material that needs to be removed by a licensed professional. This is a safety measure to ensure the health and safety of the occupants and workers.
+    - **Cost:** €40 per m².
+    - **Permit Needed:** Not necessary (Flanders).
+
+**11. Replace the Glazing (if applicable)**
+    - **Action:** Replace the glazing in the windows to improve insulation and energy efficiency.
+    - **Reasoning:**
+      - If the current glazing is old or damaged, replacing it with new, more energy-efficient glazing can improve the overall insulation of the windows and reduce energy consumption.
+    - **Cost:** €200 per m².
+    - **Permit Needed:** Not necessary (Flanders).
+
+**12. Insulate the Attic Floor (if applicable)**
+    - **Action:** Insulate the attic floor to improve energy efficiency.
+    - **Reasoning:**
+      - Insulating the attic floor can help reduce heat loss through the roof and improve the overall energy efficiency of the house.
+    - **Cost:** €60 per m².
+    - **Permit Needed:** Not necessary (Flanders).
+
+This plan prioritizes actions that will have the most significant impact on energy efficiency and cost savings, while also considering the specific conditions and constraints of the house. The actions are ordered based on their potential impact and the practicality of implementation.

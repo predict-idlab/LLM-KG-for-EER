@@ -1,0 +1,33 @@
+### Building Analysis
+The building is a modern semi-detached house (constructed in 2017) that already exhibits a very high level of energy efficiency, with an **EPC score of 87** (A-label). 
+
+**Current State Summary:**
+*   **Thermal Envelope:** The walls (Front, Left, and Rear), the floor above the basement, and the flat roof extension are all **Well Insulated**. The windows are double-glazed with wooden frames in good condition.
+*   **Systems:** The home is already equipped with a **Heat Pump** for generation and a **Ventilation System D** (the most advanced type listed, featuring mechanical supply and exhaust).
+*   **Renewables:** PV panels are already installed.
+*   **Constraints:** There is no potential for geothermal drilling (vertical or horizontal) and no available heat grid.
+
+### Proposed Renovation Path
+Given that the building is already highly optimized, the goal is to target the only remaining "moderate" thermal weakness to further lower the EPC score and maximize long-term operational performance without incurring unnecessary costs.
+
+#### Step 1: Thermal Envelope Optimization
+The only element not rated as "Well Insulated" is the **RoofMain (Gable Roof)**, which is currently **Moderately Insulated**.
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** Improving the insulation of the gable roof is the most cost-effective way to reduce heat loss in a building where the walls and floors are already optimized. This directly supports the owner's motivation to improve the EPC.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### Step 2: Strategic Evaluation (Optional/Long-term)
+Because the building is already at an "A" label, further structural interventions (like replacing windows for triple glazing) would yield diminishing returns on investment. 
+*   **Recommendation:** Since the building is from 2017 and the EPC is already 87, I advise **against** replacing windows or adding interior/exterior wall insulation, as these elements are already "Well Insulated."
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Target Element | Priority | Justification |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | RoofMain | High | Only remaining moderately insulated element; highest ROI for EPC improvement. |
+
+**Excluded Actions & Justification:**
+*   **Geothermal/Heat Grid:** Not feasible due to site constraints (no potential/no grid presence).
+*   **Wall/Floor Insulation:** Not necessary; already "Well Insulated."
+*   **Window Replacement:** Not cost-effective; current double glazing is sufficient for an A-label home.
+*   **PV Panels:** Already present; ontology indicates no further potential for additional PV.

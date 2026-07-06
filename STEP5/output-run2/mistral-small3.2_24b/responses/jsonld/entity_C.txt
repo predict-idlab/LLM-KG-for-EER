@@ -1,0 +1,18 @@
+### Renovation Plan
+The property is an attached building from 2023 with an EPC score of 50 (A Label). The owner's primary motivation is to improve the EPC rating. The building is already well-insulated, and the windows are double-glazed. However, there are still opportunities for improvement.
+
+#### Proposed Renovation Path
+1. **Insulate Gable Roof**: The gable roof is currently moderately insulated. Insulating it further will improve the building's thermal performance.
+2. **Replace Glazing**: Although the windows are already double-glazed, replacing them with triple glazing will further reduce heat loss and improve the EPC rating.
+3. **Place Air-Water Heat Pump**: The building currently uses electric convectors for heating. Replacing them with an air-water heat pump will significantly reduce energy consumption and improve the EPC rating.
+4. **Place PV-Panels on Roof**: The building has potential for PV panels. Installing them will provide renewable electricity, further improving the EPC rating.
+
+#### Summary of Sequence and Rationale
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Improves thermal performance of the building. |
+| **2** | **Replace Glazing** | Further reduces heat loss and improves EPC rating. |
+| **3** | **Air-Water Heat Pump** | Replaces electric convectors with a more efficient heating system. |
+| **4** | **PV-Panels on Roof** | Provides renewable electricity and further improves EPC rating. |
+
+This plan is tailored to maximize energy efficiency while remaining cost-effective, based on the provided building data and the RENO ontology.

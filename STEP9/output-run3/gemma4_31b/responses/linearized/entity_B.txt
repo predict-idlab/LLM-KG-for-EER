@@ -1,0 +1,37 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building, the renovation should follow a **"Fabric First"** approach. By reducing the building's energy demand through insulation before upgrading the heating systems, we can install a smaller, more efficient heat pump and lower long-term operational costs.
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+The building currently has several critical areas with no insulation. Addressing these first prevents heat loss and improves the EPC score most effectively.
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a priority as heat rises and flat roofs are significant sources of thermal loss.
+2.  **Insulate Walls:** Both the `Wall_Front` and `Wall_Rear` (Full Brick Walls) are not insulated. 
+    *   *Recommendation:* Prioritize **insulate wall cavity** (if applicable) or **insulate wall on exterior** to create a continuous thermal wrap.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. This is a cost-effective way to eliminate cold floors and reduce heating demand.
+
+#### **Phase 2: Ventilation and Distribution (System Readiness)**
+Before replacing the boiler, the building's internal air and heat distribution must be optimized.
+4.  **Replace Ventilation System:** The building currently uses `VentilationSystemA` (natural). Upgrading to a more controlled system (e.g., System B or C) will reduce uncontrolled air infiltration and improve indoor air quality.
+5.  **Place Emission System on Low Temperature:** Since the building currently uses radiators, these should be transitioned to low-temperature emitters. This is a critical prerequisite for the efficiency of the heat pump proposed in the next phase.
+
+#### **Phase 3: Sustainable Energy Generation (Supply Upgrade)**
+With a tightened thermal envelope and low-temperature emitters, the heating source can now be modernized.
+6.  **Place Air-Water Heat Pump:** Because the site has no potential for geothermal drilling and no access to a heat grid, an **Air-Water Heat Pump** is the most viable and cost-effective sustainable alternative to the current boiler.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will offset the electricity consumption of the new heat pump, significantly reducing operational costs.
+
+---
+
+### **Summary of Sequence & Logic**
+
+| Sequence | Action | Logic |
+| :--- | :--- | :--- |
+| **1** | **Insulate Roof & Walls** | Reduces overall heat loss; allows for a smaller heat pump. |
+| **2** | **Insulate Floor** | Improves thermal comfort and prevents basement heat loss. |
+| **3** | **Upgrade Ventilation** | Ensures heat is retained and air quality is maintained. |
+| **4** | **Low-Temp Emitters** | Necessary to make the heat pump operate at peak efficiency (COP). |
+| **5** | **Air-Water Heat Pump** | Replaces the fossil-fuel boiler with a sustainable source. |
+| **6** | **PV-Panels** | Provides "free" energy to power the electrical systems. |
+
+### **Cost-Effectiveness Notes**
+*   **Avoided Costs:** We are skipping the replacement of windows and glazing because the existing double glazing and wooden frames are in a "Good State," providing a high return on investment by focusing funds on the uninsulated walls and floors instead.
+*   **Operational Performance:** By sequencing the low-temperature emitters before the heat pump, we avoid the common mistake of installing a heat pump with high-temperature radiators, which often leads to inefficiency and higher energy bills.

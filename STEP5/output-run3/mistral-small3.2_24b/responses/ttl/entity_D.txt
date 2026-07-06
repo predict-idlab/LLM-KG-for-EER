@@ -1,0 +1,54 @@
+### Renovation Plan Analysis
+
+Given the building details and the RENO ontology, here's a tailored renovation plan to maximize energy efficiency while remaining cost-effective:
+
+#### Building Overview:
+- **Type**: Semi-detached building
+- **Construction Year**: 2017
+- **EPC Score**: 87 (A Label)
+- **Current Systems**:
+  - Heat pump for space heating
+  - Well-insulated walls, roof, and floor
+  - Double glazing on windows
+  - PV panels installed
+  - Ventilation system D (mechanical supply and exhaust)
+- **Owner's Motivation**: To improve EPC
+
+#### Current Strengths:
+- The building already has a good level of insulation (walls, roof, floor).
+- Double glazing is installed.
+- A heat pump is used for heating, which is efficient.
+- PV panels are installed, indicating a focus on renewable energy.
+- Ventilation system D is efficient for air quality.
+
+#### Areas for Improvement:
+1. **Roof Insulation**: The gable roof is only moderately insulated. Improving this can further reduce heat loss.
+2. **Window Frames**: Although the glazing is double, the frames are wooden. Upgrading to frames with better thermal performance (e.g., PVC or aluminum with thermal breaks) can improve overall insulation.
+3. **Heat Pump Optimization**: Ensure the heat pump is operating at peak efficiency, possibly by optimizing the emission system.
+
+#### Proposed Renovation Path:
+
+1. **Insulate Gable Roof**:
+   - **Action**: Upgrade the insulation of the gable roof to match the well-insulated standard of other parts of the building.
+   - **Rationale**: This will eliminate thermal bridges and further reduce heat loss through the roof.
+   - **Cost**: Moderate (ordering 28 in the suggestion list).
+
+2. **Upgrade Window Frames**:
+   - **Action**: Replace wooden window frames with frames that have better thermal performance (e.g., PVC or aluminum with thermal breaks).
+   - **Rationale**: Wooden frames, even with double glazing, can be a point of heat loss. Upgrading frames will improve the overall thermal performance of the windows.
+   - **Cost**: High (ordering 46 in the suggestion list, but only if frames are in poor condition).
+
+3. **Optimize Heat Pump Emission System**:
+   - **Action**: Ensure the emission system (radiators or underfloor heating) is compatible with the low-temperature output of the heat pump.
+   - **Rationale**: This will maximize the efficiency of the heat pump, reducing energy consumption.
+   - **Cost**: Moderate (ordering 70 in the suggestion list).
+
+4. **Maintain and Optimize PV Panels**:
+   - **Action**: Ensure the PV panels are clean and functioning optimally. Consider adding more panels if there is unused roof or garden space.
+   - **Rationale**: Maximizing solar energy generation will offset the electricity consumption of the heat pump and other appliances.
+   - **Cost**: Low to moderate (ordering 85 or 88 in the suggestion list).
+
+#### Summary of Optimal Sequence:
+1. **Insulate Gable Roof** $\rightarrow$ **Upgrade Window Frames** $\rightarrow$ **Optimize Heat Pump Emission System** $\rightarrow$ **Maintain/Optimize PV Panels**.
+
+This plan focuses on incremental improvements that build upon the existing strengths of the building while addressing the few remaining areas for efficiency gains. The sequence ensures that each upgrade maximizes the benefits of the previous ones, leading to a more energy-efficient and cost-effective renovation.

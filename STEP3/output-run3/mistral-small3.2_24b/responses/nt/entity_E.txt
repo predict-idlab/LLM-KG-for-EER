@@ -1,0 +1,38 @@
+### Renovation Plan
+
+1. **Insulate the Cavity Walls**
+   - **Reasoning**: The walls (Wall_Left, Wall_Rear, Wall_Right, Wall_Front) are currently not insulated. Insulating these walls will significantly improve the thermal performance of the building.
+   - **Action**: Use the "insulate wall cavity" suggestion to insulate the cavity walls.
+   - **Priority**: High
+
+2. **Improve the Roof Insulation**
+   - **Reasoning**: The roof (RoofMain) is well insulated, but the walls are not. Ensuring consistent insulation across all building elements is crucial for energy efficiency.
+   - **Action**: Use the "insulate flat roof" suggestion to ensure the roof insulation is up to standard.
+   - **Priority**: Medium
+
+3. **Upgrade the Windows**
+   - **Reasoning**: The windows in the living area and bedrooms have single glazing, which is inefficient. Replacing them with double or triple glazing will enhance thermal comfort and reduce energy consumption.
+   - **Action**: Use the "replace windows" suggestion to upgrade the windows to double glazing.
+   - **Priority**: High
+
+4. **Replace the Emission System**
+   - **Reasoning**: The current emission system (EmissionSystem) is an electric convector, which is less efficient compared to modern systems like heat pumps. Upgrading to a more efficient system will lower energy costs and improve comfort.
+   - **Action**: Use the "place heatpumpboiler" suggestion to replace the emission system with a heat pump boiler.
+   - **Priority**: High
+
+5. **Improve the Ventilation System**
+   - **Reasoning**: The current ventilation system (VentilationSystem) is type A, which may not be sufficient for optimal air quality and comfort. Upgrading to a more advanced system will enhance indoor air quality.
+   - **Action**: Use the "replace ventilation system" suggestion to upgrade the ventilation system to type D.
+   - **Priority**: Medium
+
+6. **Install Solar Panels**
+   - **Reasoning**: The building has potential for photovoltaic (PV) panels, which can generate renewable energy and reduce electricity costs.
+   - **Action**: Use the "place PV-panels on roof" suggestion to install solar panels on the roof.
+   - **Priority**: Low
+
+7. **Ensure Proper Roof Underlayment**
+   - **Reasoning**: Proper roof underlayment is crucial for preventing leaks and ensuring the longevity of the roof.
+   - **Action**: Use the "place roof underlayment" suggestion to ensure the roof has proper underlayment.
+   - **Priority**: Medium
+
+This plan prioritizes actions based on their impact on energy efficiency, cost savings, and comfort improvements. The plan is designed to maximize the benefits of each renovation step while considering the most optimal sequence to achieve the best results.

@@ -1,0 +1,83 @@
+### Renovation Plan
+
+**Objective:**
+Improve the energy efficiency of the building while considering cost-effectiveness and practicality.
+
+**Current State:**
+- **Building Type:** Attached
+- **Construction Year:** 1832
+- **Energy Performance Certificate (EPC) Score:** 262 kWh/m²/year (E label)
+- **Insulation:**
+  - **Wall Front:** Not insulated
+  - **Wall Rear:** Not insulated
+  - **Roof Main:** Moderately insulated
+  - **Roof Extension:** Not insulated
+  - **Floor Above Basement:** Not insulated
+  - **Windows Living Area:** Double glazing, wooden frame
+  - **Windows Bedrooms:** Double glazing, wooden frame
+- **Ventilation System:** Type A
+- **Emission System:** Radiator
+- **Generation System:** Boiler
+- **Potential for PV Panels:** Yes
+- **Presence of Heat Grid:** No
+- **Potential for Geothermal Drilling:** No
+- **Potential for Horizontal Geothermal Captation:** No
+
+**Renovation Priorities and Suggestions:**
+
+1. **Insulate Roof Extension**
+   - **Reason:** The roof extension is not insulated, which is a significant source of heat loss.
+   - **Suggestion:** Insulate the flat roof with a warm roof setup.
+   - **Ordering:** 25
+
+2. **Insulate Wall Rear**
+   - **Reason:** The rear wall is not insulated, contributing to heat loss.
+   - **Suggestion:** Insulate the wall on the exterior to avoid reducing living space.
+   - **Ordering:** 40
+
+3. **Insulate Wall Front**
+   - **Reason:** The front wall is not insulated, leading to heat loss.
+   - **Suggestion:** Insulate the wall on the exterior to avoid reducing living space.
+   - **Ordering:** 40
+
+4. **Insulate Floor Above Basement**
+   - **Reason:** The floor above the basement is not insulated, leading to heat loss.
+   - **Suggestion:** Insulate the floor to improve thermal comfort and reduce energy consumption.
+   - **Ordering:** 49
+
+5. **Insulate Attic Floor**
+   - **Reason:** The attic floor is not insulated, leading to heat loss.
+   - **Suggestion:** Insulate the attic floor to improve thermal comfort and reduce energy consumption.
+   - **Ordering:** 31
+
+6. **Replace Ventilation System**
+   - **Reason:** The current ventilation system (Type A) may not be efficient.
+   - **Suggestion:** Consider upgrading to a more efficient ventilation system.
+   - **Ordering:** 52
+
+7. **Place PV Panels on Roof**
+   - **Reason:** The building has potential for PV panels.
+   - **Suggestion:** Install PV panels on the roof to generate renewable energy.
+   - **Ordering:** 85
+
+8. **Insulate Gable Roof**
+   - **Reason:** The main roof is moderately insulated.
+   - **Suggestion:** Insulate the gable roof to further improve insulation.
+   - **Ordering:** 28
+
+9. **Place Air-Water Heatpump**
+   - **Reason:** The current heating system may be inefficient.
+   - **Suggestion:** Install an air-water heatpump to improve heating efficiency.
+   - **Ordering:** 67
+
+**Cost-Effectiveness and Practicality:**
+- Prioritize insulation of non-insulated elements to maximize energy savings.
+- Consider the ordering of renovation suggestions to ensure that preliminary work is completed before subsequent steps.
+- Evaluate the feasibility of installing PV panels and upgrading the heating system based on local regulations and budget constraints.
+
+**Expected Outcomes:**
+- Improved energy efficiency, leading to lower energy consumption and costs.
+- Enhanced thermal comfort within the building.
+- Potential reduction in the EPC label, indicating better energy performance.
+
+This plan provides a structured approach to renovating the building for improved energy efficiency, considering both practical and cost-effective measures.

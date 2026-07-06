@@ -1,0 +1,130 @@
+### Renovation Plan for the Building
+
+**Building Information:**
+- **Type:** Semi-detached building
+- **Construction Year:** 2017
+- **Net Floor Area:** 173.0 m²
+- **Energy Performance Certificate (EPC) Score:** 87 kWh/m²year (E Label)
+- **Presence of Heat Grid:** False
+- **Potential for PV:** False
+- **Potential for Horizontal Geothermal Captation:** False
+- **Potential for Vertical Geothermal Drilling:** False
+
+**Building Elements and Their States:**
+- **Roof Extension (Flat Roof):**
+  - Insulation Grade: Well Insulated
+  - State: Good (State Value: 8)
+- **Roof Main (Gable Roof):**
+  - Insulation Grade: Moderately Insulated
+  - State: Good (State Value: 8)
+- **Wall Front (Full Brick Wall):**
+  - Historical Protection: False
+  - Protection: False
+  - Insulation Grade: Well Insulated
+- **Wall Left (Full Brick Wall):**
+  - Historical Protection: False
+  - Protection: False
+  - Insulation Grade: Well Insulated
+- **Wall Rear (Full Brick Wall):**
+  - Historical Protection: False
+  - Protection: False
+  - Insulation Grade: Well Insulated
+- **Floor Above Basement:**
+  - Insulation Grade: Well Insulated
+  - Protection: False
+
+**Spaces and Their Elements:**
+- **Living Area:**
+  - Windows (Type: Window):
+    - Window Frames: Wooden
+      - State: Good (State Value: 8)
+    - Glazing: Double Glazing
+      - Changed During Renovation Intervention
+- **Bedrooms:**
+  - Windows (Type: Window):
+    - Window Frames: Wooden
+      - State: Good (State Value: 8)
+    - Glazing: Double Glazing
+      - Changed During Renovation Intervention
+- **Emission System:**
+  - Type: Space Heater
+- **Generation System:**
+  - Type: Heat Pump
+- **Ventilation System:**
+  - Type: Ventilation System D
+
+**Renovation Interventions:**
+- **Renovation Intervention:**
+  - Changed Window Glazing in Living Area and Bedrooms
+
+**Owner Information:**
+- **Motivation:** To improve EPC
+- **Address:**
+  - Country: Belgium
+  - Postal Code: 9000
+
+---
+
+### Renovation Plan:
+
+#### **1. Insulation Improvements:**
+- **Insulate Roof Main (Gable Roof):**
+  - **Action:** Upgrade insulation to Well Insulated grade.
+  - **Reason:** Currently moderately insulated; improving insulation will enhance energy efficiency.
+  - **Estimated Cost:** Based on the ontology, the cost for insulating a gable roof is €60 per m².
+  - **Nuisance Level:** Low
+
+- **Insulate Floor Above Basement:**
+  - **Action:** Ensure proper insulation if not already well insulated.
+  - **Reason:** Well-insulated floors contribute significantly to energy efficiency.
+  - **Estimated Cost:** €30 per m².
+  - **Nuisance Level:** Low
+
+#### **2. Window and Glazing Upgrades:**
+- **Replace Glazing (Living Area and Bedrooms):**
+  - **Action:** Ensure all windows have double glazing if not already in place.
+  - **Reason:** Double glazing improves thermal and acoustic properties.
+  - **Estimated Cost:** €200 per m² for replacement glazing.
+  - **Nuisance Level:** High (due to the extent of work involved)
+
+#### **3. Ventilation System Upgrade:**
+- **Upgrade to Ventilation System D:**
+  - **Action:** Consider upgrading to Ventilation System D if current system is not adequate.
+  - **Reason:** Ventilation System D provides balanced air supply and exhaust, improving indoor air quality.
+  - **Estimated Cost:** €17 per m².
+  - **Nuisance Level:** Moderate (due to ductwork installation)
+
+#### **4. Energy Generation and Emission Systems:**
+- **Heat Pump Installation:**
+  - **Action:** If not already installed, consider installing a heat pump for energy-efficient heating.
+  - **Reason:** Heat pumps are highly efficient and can significantly reduce energy consumption.
+  - **Estimated Cost:** €8000 for installation.
+  - **Nuisance Level:** Moderate (depending on installation complexity)
+
+- **Emission System Upgrade:**
+  - **Action:** Ensure the emission system is compatible with the supply and return temperatures of the heat grid if connecting.
+  - **Reason:** Proper compatibility ensures efficient heat distribution.
+  - **Estimated Cost:** Varies based on specific upgrades needed.
+
+#### **5. Additional Considerations:**
+- **Potential for PV Panels:**
+  - **Action:** Although the potential for PV panels is currently assessed as false, consider future installations if conditions change.
+  - **Reason:** Solar panels can provide renewable energy, reducing reliance on grid electricity.
+
+- **Historical Protection:**
+  - **Action:** Ensure that any renovations comply with historical protection regulations if applicable.
+  - **Reason:** Preserving historical integrity while improving energy efficiency is crucial.
+
+---
+
+### Summary of Recommendations:
+1. **Insulate Roof Main (Gable Roof)** to Well Insulated grade.
+2. **Insulate Floor Above Basement** if not already well insulated.
+3. **Replace Glazing** in Living Area and Bedrooms to double glazing.
+4. **Upgrade Ventilation System** to Ventilation System D if needed.
+5. **Install Heat Pump** if not already in place.
+6. **Ensure Emission System Compatibility** with heat grid.
+7. **Consider Future PV Panel Installation** if conditions allow.
+8. **Comply with Historical Protection Regulations** if applicable.
+
+This plan is designed to optimize energy efficiency, reduce energy consumption, and improve the overall EPC rating of the building. The estimated costs and nuisance levels are based on the provided ontology and should be verified with local contractors for accuracy.

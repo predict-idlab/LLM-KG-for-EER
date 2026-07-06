@@ -1,0 +1,47 @@
+### Analysis of Current Building State
+The building is a modern semi-detached house (constructed in 2017) that is already performing very well energetically. With an **EPC score of 87.0**, it currently falls within the **A Label** category. 
+
+**Current Strengths:**
+*   **Walls & Floors:** All exterior walls and the floor above the basement are already "Well Insulated."
+*   **Heating & Ventilation:** The home is equipped with a Heat Pump (highly efficient) and a Ventilation System D (mechanical supply and exhaust), which is the gold standard for energy efficiency.
+*   **Renewables:** PV panels are already installed.
+*   **Windows:** Double glazing is present and in good condition.
+
+**Identified Weakness:**
+*   **Main Roof:** The gable roof is only **"Moderately Insulated."** This is the primary area where thermal leakage is occurring compared to the rest of the building envelope.
+
+---
+
+### Proposed Renovation Plan
+
+Given the owner's motivation to further improve the EPC and the already high efficiency of the home, the focus is on "fine-tuning" the building envelope. Because the house is already an "A" label, the law of diminishing returns applies; therefore, we prioritize the most cost-effective upgrades with the highest remaining impact.
+
+#### Phase 1: Thermal Envelope Optimization (High Priority)
+The most significant gain can be achieved by bringing the roof insulation up to the same standard as the walls.
+*   **Action:** **Insulate Gable Roof**
+    *   **Reasoning:** This is the only major structural element not yet "Well Insulated." Improving this will directly lower the energy score further.
+    *   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+    *   **Cost-Effectiveness:** High, as it targets the only remaining thermal weak point.
+
+#### Phase 2: Passive Energy Reduction (Medium Priority)
+To reduce the energy load during summer months (cooling) and improve thermal comfort without increasing electricity consumption.
+*   **Action:** **Place Sunshades**
+    *   **Reasoning:** With a high-efficiency envelope, solar gain through windows can lead to overheating. External blinds are more efficient than internal ones.
+    *   **Cost-Effectiveness:** Very high (low fixed price, immediate impact on comfort and cooling energy).
+
+#### Phase 3: Advanced Glazing Upgrade (Optional/Long-term)
+*   **Action:** **Replace Glazing (Upgrade to Triple Glazing)**
+    *   **Reasoning:** While double glazing is sufficient for most "A" labels, upgrading to triple glazing would be the final step to maximize the EPC.
+    *   **Cost-Effectiveness:** Low to Medium. Given the house was built in 2017 and the frames are in good state, replacing only the glass is more cost-effective than replacing entire windows. This should only be pursued if the budget allows and the goal is a near-zero energy score.
+
+---
+
+### Summary of Sequence and Impact
+
+| Sequence | Action | Energy Impact | Cost-Effectiveness | Priority |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | High | **Critical** |
+| **2** | **Place Sunshades** | Moderate | Very High | **Recommended** |
+| **3** | **Replace Glazing** | Low-Moderate | Low | **Optional** |
+
+**Final Note:** Since the building already possesses a Heat Pump and Ventilation System D, there is no need to upgrade the generation or ventilation systems. Geothermal options are not viable for this site. This plan provides the most logical path to move from an "A" label toward an "A+" label.

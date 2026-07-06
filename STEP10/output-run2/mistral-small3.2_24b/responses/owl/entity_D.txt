@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, here's a tailored renovation plan to maximize energy efficiency while remaining cost-effective. The property is a semi-detached building from 2017 with an EPC score of 87 (A Label). The owner's primary motivation is to improve the EPC rating.
+
+### Proposed Renovation Path
+
+Phase 1: Prioritize the Thermal Envelope (Fabric-First Approach)
+Since the building is relatively new (2017) and already has well-insulated walls and roof, the primary focus should be on optimizing the remaining thermal bridges and improving the overall energy efficiency.
+
+1. **Insulate Floor Above Basement**: The `FloorAboveBasement` is currently well-insulated, but if there is any room for improvement, consider adding additional insulation to further reduce heat loss to the basement.
+2. **Replace Glazing**: All glazing should be replaced, as all windows still have single glazing. Adding double or even triple glazing would drastically improve the thermal performance and lower the EPC score.
+
+Phase 2: High-Efficiency Heating Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+3. **Place Air-Water Heat Pump**: Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+Phase 3: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+4. **Replace Ventilation System**: Upgrade from Ventilation System D (existing) to a more efficient system (such as System C or B). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+Phase 4: Sustainable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+5. **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **2** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **3** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **4** | **PV Panels** | Offsets the electricity consumption of the new heat pump and ventilation system. |
+
+### Additional Considerations
+- **Asbestos Removal**: Since the building is from 2017, asbestos removal is likely not required.
+- **Sunshade**: Consider adding sunshades to reduce solar heat gain in summer, which can further improve comfort and reduce cooling needs.
+- **Airconditioning**: Depending on the climate and specific needs, air conditioning might be considered, but it is not a priority for improving the EPC score.
+
+This plan follows the "Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate" sequence, ensuring that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.

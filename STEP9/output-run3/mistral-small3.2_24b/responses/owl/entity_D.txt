@@ -1,0 +1,15 @@
+The building in question is a semi-detached house constructed in 2017. It has an energy performance certificate (EPC) with a score of 87, which is quite good, but the owner wants to further improve the EPC. The building has several well-insulated elements, including walls and floors, and a roof extension with good insulation. However, the main gable roof is only moderately insulated, and the ventilation system is of type D (mechanical supply and exhaust). The owner wants to improve the EPC, which suggests that they are motivated to make energy-efficient upgrades.
+
+Given the ontology and the suggestion list, here is a step-by-step renovation plan:
+
+1. **Insulate the gable roof**: Since the main gable roof is only moderately insulated, improving its insulation could significantly reduce heat loss and improve the EPC. This is a high-priority action because the roof is a major source of heat loss in many buildings.
+
+2. **Replace the ventilation system**: The current ventilation system is type D, which is less efficient than newer systems like type C or B. Upgrading to a more efficient ventilation system can improve indoor air quality and energy efficiency. This should be done after the roof insulation to ensure compatibility.
+
+3. **Consider upgrading the glazing**: Although the windows are already double-glazed, if the owner wants to further improve the EPC, they could consider upgrading to triple glazing, especially if the current windows are old or not performing well. This is a more expensive upgrade and should be considered based on the owner's budget and priorities.
+
+4. **Evaluate the potential for renewable energy**: The building currently has PV panels, but the potential for additional PV installation is low. However, the owner could explore other renewable energy options like solar water heaters or geothermal heating, depending on the specific conditions of the property.
+
+5. **Check for asbestos**: Before any major renovations, especially roofing work, it's important to check for asbestos. The ontology suggests that asbestos removal is a necessary step before installing solar panels or other roof-mounted systems.
+
+This plan focuses on improving the EPC by addressing the most significant sources of energy loss and upgrading systems to more efficient models. The specific actions prioritize the elements with the most potential for improvement and consider the owner's motivation to enhance the energy performance of the building.

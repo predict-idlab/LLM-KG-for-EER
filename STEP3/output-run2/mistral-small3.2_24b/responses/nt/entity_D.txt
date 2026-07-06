@@ -1,0 +1,105 @@
+### Renovation Plan:
+
+Based on the provided information, here's a step-by-step renovation plan tailored to the building's specific characteristics and needs:
+
+1. **Initial Assessment**
+   - **Building Type:** Semi-detached building
+   - **Energy Performance Certificate (EPC) Score:** 87
+   - **Current Insulation Grades:**
+     - Roof (Main): Moderately Insulated
+     - Roof (Extension): Well Insulated
+     - Wall (Front): Well Insulated
+     - Wall (Rear): Well Insulated
+     - Wall (Left): Well Insulated
+     - Floor Above Basement: Well Insulated
+   - **Windows:**
+     - Bedrooms: Double Glazing, Wooden Frame, Good State
+     - Living Area: Double Glazing, Wooden Frame, Good State
+   - **Ventilation System:** Type D
+   - **PV Panels:** Present
+   - **Potential for PV:** False
+   - **Potential for Vertical Geothermal Drilling:** False
+   - **Potential for Horizontal Geothermal Captation:** False
+   - **Presence of Heat Grid:** False
+   - **Reason to Change Emission System:** False
+   - **Net Floor Area:** 173.0 m²
+   - **Address:** Postal Code 9000, Country Belgium
+
+2. **Renovation Goals**
+   - **Primary Goal:** Improve EPC (Energy Performance Certificate)
+   - **Secondary Goals:**
+     - Enhance thermal comfort
+     - Reduce energy costs
+     - Improve sustainability
+
+3. **Renovation Plan**
+
+   **Phase 1: Immediate Actions**
+   - **Insulate Attic Floor**
+     - **Reasoning:** The attic floor is currently well insulated, but it's beneficial to ensure it meets the highest insulation standards. This will enhance thermal comfort and reduce energy consumption.
+     - **Action:** Insulate the attic floor with high-performance insulation materials.
+     - **Expected Outcome:** Improved thermal comfort and reduced energy usage.
+
+   - **Insulate Wall on Interior (if applicable)**
+     - **Reasoning:** While the walls are currently well insulated, interior insulation can further enhance thermal comfort and reduce energy loss.
+     - **Action:** Insulate the interior walls with appropriate insulation materials.
+     - **Expected Outcome:** Enhanced thermal comfort and reduced energy consumption.
+
+   - **Insulate Wall on Exterior (if applicable)**
+     - **Reasoning:** Exterior insulation can significantly improve the building's thermal performance and reduce heat loss.
+     - **Action:** Insulate the exterior walls with high-performance insulation materials.
+     - **Expected Outcome:** Improved thermal performance and reduced energy usage.
+
+   - **Replace Ventilation System**
+     - **Reasoning:** The current ventilation system (Type D) may not be the most efficient. Upgrading to a more efficient system can improve air quality and reduce energy consumption.
+     - **Action:** Replace the existing ventilation system with a more energy-efficient model.
+     - **Expected Outcome:** Improved air quality and reduced energy usage.
+
+   **Phase 2: Medium-Term Actions**
+   - **Replace Glazing (if applicable)**
+     - **Reasoning:** While the windows are in good condition, replacing the glazing with more energy-efficient options (e.g., triple glazing) can further enhance thermal performance.
+     - **Action:** Replace the existing glazing with more energy-efficient options.
+     - **Expected Outcome:** Enhanced thermal performance and reduced energy consumption.
+
+   - **Insulate Floor Above Basement**
+     - **Reasoning:** The floor above the basement is currently well insulated, but it's beneficial to ensure it meets the highest insulation standards.
+     - **Action:** Insulate the floor above the basement with high-performance insulation materials.
+     - **Expected Outcome:** Improved thermal comfort and reduced energy usage.
+
+   **Phase 3: Long-Term Actions**
+   - **Connect to Heat Grid (if applicable)**
+     - **Reasoning:** If the heat grid becomes available in the future, connecting to it can significantly reduce reliance on other energy sources and improve energy efficiency.
+     - **Action:** Plan for future connection to the heat grid.
+     - **Expected Outcome:** Reduced reliance on other energy sources and improved energy efficiency.
+
+   - **Place Air-Water Heat Pump**
+     - **Reasoning:** Installing an air-water heat pump can provide an efficient and sustainable heating solution.
+     - **Action:** Install an air-water heat pump.
+     - **Expected Outcome:** Sustainable and efficient heating solution.
+
+   - **Place Emission System on Low Temperature**
+     - **Reasoning:** Installing an emission system on low temperature can improve energy efficiency and reduce energy consumption.
+     - **Action:** Install an emission system on low temperature.
+     - **Expected Outcome:** Improved energy efficiency and reduced energy consumption.
+
+   - **Place Air-Water Heat Pump with Cooling**
+     - **Reasoning:** Installing an air-water heat pump with cooling capabilities can provide both heating and cooling efficiently.
+     - **Action:** Install an air-water heat pump with cooling capabilities.
+     - **Expected Outcome:** Efficient heating and cooling solution.
+
+   - **Place Sun Shade**
+     - **Reasoning:** Installing sun shades can reduce solar heat gain and improve thermal comfort.
+     - **Action:** Install sun shades on the appropriate windows.
+     - **Expected Outcome:** Reduced solar heat gain and improved thermal comfort.
+
+   - **Place PV Panels on Roof**
+     - **Reasoning:** Installing PV panels on the roof can harness solar energy and reduce reliance on other energy sources.
+     - **Action:** Install PV panels on the roof.
+     - **Expected Outcome:** Reduced reliance on other energy sources and improved sustainability.
+
+4. **Monitoring and Maintenance**
+   - **Regular Inspections:** Schedule regular inspections to monitor the condition of the building and the performance of the installed systems.
+   - **Maintenance Schedule:** Develop a maintenance schedule to ensure all systems are functioning optimally.
+   - **Energy Audits:** Conduct periodic energy audits to assess the building's energy performance and identify areas for further improvement.
+
+By following this comprehensive renovation plan, the building's energy efficiency, thermal comfort, and sustainability will be significantly enhanced.

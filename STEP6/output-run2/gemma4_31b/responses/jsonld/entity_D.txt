@@ -1,0 +1,27 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached house (constructed in 2017) that is already performing at a very high level of energy efficiency, with an **EPC score of 87 (A Label)**. 
+
+Most of the building envelope is already "Well Insulated," and the home is already equipped with high-efficiency systems, including a heat pump, a Type D ventilation system, and PV panels. Because the building is already highly optimized, the potential for drastic energy reduction is low. However, to further improve the EPC rating and maximize efficiency, the following targeted path is proposed.
+
+### Proposed Renovation Path
+
+Since the "Generation" and "Ventilation" stages are already complete and optimized, the focus shifts entirely to the remaining gaps in the **Thermal Envelope**.
+
+#### Phase 1: Envelope Fine-Tuning (Priority: High)
+The only element of the building envelope that is not "Well Insulated" is the main gable roof.
+1.  **Insulate Gable Roof:** The `RoofMain` is currently categorized as "Moderately Insulated." Upgrading this to a "Well Insulated" grade is the most impactful action remaining. Since heat rises, increasing the thermal resistance of the gable roof will further lower the energy demand of the heat pump.
+
+#### Phase 2: Incremental Efficiency Gains (Priority: Low/Optional)
+Given the current EPC of 87, the return on investment for further upgrades is diminishing. However, for an owner specifically motivated to maximize the EPC score:
+2.  **Replace Glazing (Upgrade to Triple Glazing):** The windows are currently double-glazed. While double glazing is efficient, upgrading to triple glazing would further reduce transmission heat loss, potentially pushing the EPC score toward the A+ range. *Note: This is only recommended if the budget allows, as the cost-to-benefit ratio is lower than the roof insulation.*
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only remaining "Moderately Insulated" structural element to minimize heat loss. |
+| **2** | **Upgrade Glazing** | Optional step to move from Double to Triple glazing for marginal gains in thermal performance. |
+
+**Final Expert Assessment:**
+The building is already an exemplary model of energy efficiency. The current installation of a **Heat Pump**, **Ventilation System D**, and **PV Panels** means the "technical" side of the renovation is complete. The only remaining path to improving the EPC is the completion of the thermal envelope via the gable roof. No further changes to the heating or emission systems are recommended as they are already modern and efficient.

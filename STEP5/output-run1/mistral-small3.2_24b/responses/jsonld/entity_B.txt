@@ -1,0 +1,53 @@
+### Renovation Plan
+
+The building in question is a 212m² attached house built in 1832 with a C-label EPC score of 262. The owner's primary motivation is to improve the EPC rating.
+
+#### Phase 1: Insulation and Thermal Envelope
+1. **Insulate Flat Roof (RoofExtension)**:
+   - **Reasoning**: The flat roof is currently not insulated, leading to significant heat loss. Insulating it will drastically improve the thermal performance.
+   - **Cost**: ~€50/m²
+   - **Ordering**: 1
+
+2. **Insulate Walls on Exterior (Wall_Front, Wall_Rear)**:
+   - **Reasoning**: Both walls are full brick and not insulated. Exterior insulation is more cost-effective and eliminates thermal bridges.
+   - **Cost**: ~€200/m²
+   - **Ordering**: 2
+
+3. **Insulate Floor Above Basement**:
+   - **Reasoning**: The floor above the basement is currently not insulated, leading to cold drafts and heat loss.
+   - **Cost**: ~€30/m²
+   - **Ordering**: 3
+
+#### Phase 2: Ventilation System Upgrade
+4. **Replace Ventilation System**:
+   - **Reasoning**: The current ventilation system (Type A) is outdated and inefficient. Upgrading to a more efficient system (Type C or D) ensures proper air exchange and indoor air quality.
+   - **Cost**: ~€3,500 + €17/m²
+   - **Ordering**: 4
+
+#### Phase 3: Heating System Transition
+5. **Place Air-Water Heat Pump**:
+   - **Reasoning**: The current boiler is inefficient. An air-water heat pump is the most sustainable and cost-effective alternative, especially with the building's improved insulation.
+   - **Cost**: ~€8,000 + €35/m²
+   - **Ordering**: 5
+
+6. **Place Emission System on Low Temperature**:
+   - **Reasoning**: Before installing the heat pump, the current radiators should be adapted to low-temperature emissions to maximize the heat pump's efficiency.
+   - **Cost**: ~€100/m²
+   - **Ordering**: 6
+
+#### Phase 4: Sustainable Energy Generation
+7. **Place PV-Panels on Roof**:
+   - **Reasoning**: The building has confirmed potential for PV. Installing solar panels will provide renewable electricity to power the heat pump and reduce the building's carbon footprint.
+   - **Cost**: ~€275/m²
+   - **Ordering**: 7
+
+### Summary of Sequence and Rationale
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof** | Eliminates a major source of heat loss. |
+| **2** | **Insulate Walls on Exterior** | Eliminates thermal bridges and reduces heat loss. |
+| **3** | **Insulate Floor Above Basement** | Prevents cold drafts and reduces heat loss. |
+| **4** | **Replace Ventilation System** | Ensures proper air exchange and indoor air quality. |
+| **5** | **Place Air-Water Heat Pump** | Replaces the inefficient boiler with a sustainable alternative. |
+| **6** | **Place Emission System on Low Temperature** | Maximizes the heat pump's efficiency. |
+| **7** | **Place PV-Panels on Roof** | Provides renewable electricity to power the heat pump and reduce carbon footprint. |

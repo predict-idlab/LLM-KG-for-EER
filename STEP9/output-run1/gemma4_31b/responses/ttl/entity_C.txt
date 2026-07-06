@@ -1,0 +1,42 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation plan.
+
+### 1. Current State Analysis
+The building is a modern attached house (constructed in 2023) and is already highly energy-efficient, with an **EPC score of 50.0 (Label A)**. Most elements—including the walls, flat roof, and floor above the basement—are already "Well Insulated." The ventilation system is already at the highest standard (System D).
+
+However, there are two primary areas for improvement:
+1.  **The Gable Roof:** Currently only "Moderately Insulated."
+2.  **The Generation/Emission System:** The building uses electric convectors (which are energy-intensive) and has a flagged "reason to change the emission system."
+
+---
+
+### 2. Proposed Renovation Path
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the "fabric-first" principle: optimize the building envelope before upgrading the technical installations.
+
+#### **Step 1: Thermal Envelope Optimization (High Priority)**
+*   **Action:** `insulate gable roof`
+*   **Rationale:** The gable roof is the only major structural element not yet "Well Insulated." Improving this will reduce heat loss through the top of the house, ensuring that the heating system doesn't have to work as hard.
+*   **Cost-Effectiveness:** This is a targeted upgrade to a specific weakness in the current shell.
+
+#### **Step 2: Glazing Upgrade (Medium Priority)**
+*   **Action:** `replace glazing` (Upgrade to Triple Glazing)
+*   **Rationale:** The building currently has double glazing. While acceptable, upgrading to triple glazing further reduces U-values and improves thermal comfort. Since the wooden frames are in "Good State," replacing only the glazing is significantly more cost-effective than replacing the entire window unit.
+
+#### **Step 3: Energy Generation & Emission Upgrade (Strategic Priority)**
+*   **Action:** `place air-water heatpump`
+*   **Rationale:** The building has a reason to change its emission system and currently relies on electric convectors and a boiler. Since there is no potential for geothermal energy and no available heat grid, an air-water heat pump is the most efficient alternative.
+*   **Synergy:** Because the building already has **Floor Heating** (a low-temperature emission system), it is perfectly suited for an air-water heat pump, which operates most efficiently at lower flow temperatures. This removes the reliance on inefficient electric convectors.
+
+---
+
+### 3. Summary of the Renovation Sequence
+
+| Sequence | Action | Target Element | Goal |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | Main Roof | Eliminate the primary source of heat loss. |
+| **2** | `replace glazing` | Windows | Further reduce thermal bridging. |
+| **3** | `place air-water heatpump` | Generation System | Transition to a sustainable, high-efficiency heat source. |
+
+### 4. Expected Outcome
+*   **Energy Efficiency:** By addressing the gable roof and replacing the boiler/convectors with a heat pump, the primary energy consumption will drop significantly.
+*   **Cost-Effectiveness:** By utilizing existing high-quality window frames and existing floor heating, the plan avoids unnecessary demolition and focuses spending on high-ROI technology (Heat Pump) and targeted insulation.
+*   **EPC Impact:** These steps will likely push the building from an **A label** toward an **A+ label** (score < 100 kWh/m²year), satisfying the owner's motivation to improve the EPC.

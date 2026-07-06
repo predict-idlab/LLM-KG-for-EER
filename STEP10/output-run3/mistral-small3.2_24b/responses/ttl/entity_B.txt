@@ -1,0 +1,77 @@
+### Renovation Plan Analysis
+
+**Building Overview:**
+- **Type:** Attached building (shared walls with neighboring properties)
+- **Construction Year:** 1832 (historical building)
+- **Current EPC Score:** 262.0 (C Label)
+- **Current Insulation:**
+  - **Roof Extension (Flat Roof):** Not insulated
+  - **Roof Main (Gable Roof):** Moderately insulated
+  - **Walls (Front & Rear):** Not insulated
+  - **Floor Above Basement:** Not insulated
+- **Windows:** Double-glazed with wooden frames in good condition (state value: 8)
+- **Ventilation System:** Type A (natural ventilation)
+- **Heating System:** Radiators with a boiler
+- **PV Potential:** True (suitable for solar panels)
+- **Geothermal Potential:** False (no potential for horizontal or vertical geothermal systems)
+- **Heat Grid Presence:** False (no access to a heat grid)
+- **Owner's Motivation:** Improve EPC rating
+
+**Key Considerations:**
+1. **Historical Protection:** None indicated for walls, allowing for insulation upgrades.
+2. **Window Condition:** Good state with double glazing, so replacement is not immediately necessary.
+3. **Thermal Envelope:** Significant heat loss through uninsulated walls, floor, and flat roof.
+4. **Heating System:** Radiators are suitable for low-temperature systems, but the boiler is likely inefficient.
+5. **Ventilation:** Natural ventilation (Type A) may need upgrading post-insulation to maintain air quality.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Thermal Envelope Optimization (Priority: High)**
+1. **Insulate Walls on Interior:**
+   - **Action:** Insulate both `Wall_Front` and `Wall_Rear` on the interior.
+   - **Rationale:** These walls are full brick and not insulated. Interior insulation is cost-effective and avoids altering the exterior facade, which is important for historical buildings.
+   - **Estimated Cost:** ~€150/m² (based on RENO ontology).
+
+2. **Insulate Floor Above Basement:**
+   - **Action:** Insulate the `FloorAboveBasement`.
+   - **Rationale:** Prevents heat loss to the basement and improves comfort.
+   - **Estimated Cost:** ~€30/m².
+
+3. **Insulate Flat Roof:**
+   - **Action:** Insulate the `RoofExtension` (flat roof).
+   - **Rationale:** Flat roofs are prone to heat loss; insulation here will significantly reduce energy demand.
+   - **Estimated Cost:** ~€50/m².
+
+**Phase 2: Heating System Transition (Priority: Medium)**
+4. **Place Air-Water Heat Pump:**
+   - **Action:** Replace the existing boiler with an Air-Water Heat Pump.
+   - **Rationale:** More energy-efficient and sustainable than the current boiler. Suitable for the building's reduced heat demand post-insulation.
+   - **Estimated Cost:** ~€8,000 (fixed) + €35/m² for installation.
+
+5. **Place Emission System on Low Temperature:**
+   - **Action:** Upgrade the radiators to operate at lower temperatures.
+   - **Rationale:** Maximizes the efficiency of the new heat pump.
+   - **Estimated Cost:** ~€100/m².
+
+**Phase 3: Ventilation Upgrade (Priority: Medium)**
+6. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System A (natural) to Ventilation System C or D (mechanical).
+   - **Rationale:** Ensures proper air exchange in a now-sealed building.
+   - **Estimated Cost:** ~€3,500 (fixed) + €17/m².
+
+**Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+7. **Place PV-Panels on Roof:**
+   - **Action:** Install solar panels on the `RoofMain` (gable roof).
+   - **Rationale:** The building has confirmed potential for PV. Solar panels will offset the electricity consumption of the heat pump and ventilation system.
+   - **Estimated Cost:** ~€275/m².
+
+**Summary of Optimal Sequence:**
+1. **Insulate Walls on Interior**
+2. **Insulate Floor Above Basement**
+3. **Insulate Flat Roof**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Replace Ventilation System**
+7. **Place PV-Panels on Roof**
+
+This sequence ensures that the building's thermal envelope is optimized first, reducing the overall energy demand. This allows for the installation of a more efficient heating system and ventilation, followed by the addition of renewable energy sources to further improve the EPC rating. The proposed plan is cost-effective, practical, and aligned with the owner's motivation to improve the EPC rating.

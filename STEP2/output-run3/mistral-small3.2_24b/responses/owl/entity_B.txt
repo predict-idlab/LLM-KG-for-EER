@@ -1,0 +1,79 @@
+### Renovation Plan for the Attached Building
+
+**Objective:** Improve the energy efficiency of the attached building by implementing cost-effective and practical upgrades.
+
+**Building Overview:**
+- **Type:** Attached building
+- **Construction Year:** 1832
+- **Net Floor Area:** 212 m²
+- **Current EPC Score:** 262 kWh/m²year (C label)
+- **Potential for PV:** Yes
+- **Heat Grid Availability:** No
+- **Resident:** Present
+- **Owner's Motivation:** To improve EPC
+
+**Key Areas for Renovation:**
+
+1. **Roofing:**
+   - **Roof Extension (Flat Roof):**
+     - **Current State:** Not insulated
+     - **Suggestion:** Insulate the flat roof (ordering: 25)
+     - **Reasoning:** Insulating the roof will significantly reduce heat loss and improve overall energy efficiency.
+   - **Roof Main (Gable Roof):**
+     - **Current State:** Moderately insulated
+     - **Suggestion:** No immediate action required, but consider future insulation upgrades if further efficiency improvements are needed.
+
+2. **Walls:**
+   - **Wall Front and Wall Rear (Full Brick Walls):**
+     - **Current State:** Not insulated
+     - **Suggestion:** Insulate the walls on the interior (ordering: 37)
+     - **Reasoning:** Insulating the walls will reduce heat loss through the building envelope and improve thermal comfort.
+
+3. **Windows:**
+   - **Windows in Bedrooms and Living Area:**
+     - **Current State:** Double glazing with wooden frames in good condition
+     - **Suggestion:** No immediate action required, but consider replacing the glazing with triple glazing for further efficiency improvements if budget allows.
+
+4. **Floor:**
+   - **Floor Above Basement:**
+     - **Current State:** Not insulated
+     - **Suggestion:** Insulate the floor above the basement (ordering: 49)
+     - **Reasoning:** Insulating the floor will prevent heat loss to the basement and improve overall energy efficiency.
+
+5. **Ventilation System:**
+   - **Current State:** Ventilation System A (natural air supply and air exhaust)
+   - **Suggestion:** Consider upgrading to a more efficient ventilation system (e.g., Ventilation System B or C) if further efficiency improvements are needed.
+
+6. **Emission System:**
+   - **Current State:** Radiator
+   - **Suggestion:** Replace with a more efficient emission system, such as floor heating or a low-temperature emission system (ordering: 70)
+   - **Reasoning:** Upgrading the emission system will improve heat distribution and reduce energy consumption.
+
+7. **Heating System:**
+   - **Current State:** Boiler (type not specified)
+   - **Suggestion:** Consider replacing the boiler with a more efficient heat pump (e.g., air-water heat pump or vertical geothermal heat pump) if further efficiency improvements are needed.
+
+8. **Renewable Energy:**
+   - **Potential for PV:** Yes
+   - **Suggestion:** Install PV panels on the roof (ordering: 85)
+   - **Reasoning:** Utilizing renewable energy will reduce reliance on conventional energy sources and lower energy costs.
+
+**Priority Order of Renovations:**
+1. Insulate the flat roof (Roof Extension)
+2. Insulate the walls on the interior (Wall Front and Wall Rear)
+3. Insulate the floor above the basement (Floor Above Basement)
+4. Upgrade the emission system (e.g., floor heating or low-temperature emission system)
+5. Install PV panels on the roof
+6. Consider upgrading the ventilation system (if needed)
+7. Consider replacing the boiler with a more efficient heat pump (if needed)
+
+**Budget Considerations:**
+- Prioritize renovations based on cost-effectiveness and energy savings.
+- Consider the potential return on investment for each renovation action.
+
+**Next Steps:**
+- Obtain detailed cost estimates for each suggested renovation.
+- Consult with a professional to assess the feasibility and potential energy savings of each renovation.
+- Develop a phased renovation plan to minimize disruption to the resident.
+
+This plan provides a structured approach to improving the energy efficiency of the attached building while considering practical and cost-effective solutions.

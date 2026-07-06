@@ -1,0 +1,34 @@
+### Analysis of Building State
+The building is a modern **Attached Building** (constructed in 2023) with an already high energy performance (EPC score of 50.0, which falls into the **A label** category). Most elements are already "Well Insulated," including the front and rear walls, the flat roof extension, and the floor above the basement. The ventilation is already at the highest standard (System D).
+
+However, there are three specific areas for improvement to further maximize energy efficiency and satisfy the owner's motivation to improve the EPC:
+1.  **Roof Insulation:** The main gable roof is only "Moderately Insulated," unlike the rest of the envelope.
+2.  **Glazing:** The windows currently use double glazing; upgrading to triple glazing would further reduce thermal loss.
+3.  **Heating Generation:** There is an explicit flag that the emission/generation system should be changed (`hasReasonToChangeEmissionSystem true`). Given that the building already has **floor heating** (a low-temperature emission system), it is perfectly primed for a heat pump.
+
+### Proposed Renovation Path
+
+To maximize cost-effectiveness and efficiency, the renovation should follow the **"Fabric First"** principle: improve the insulation envelope before upgrading the heating generation system to ensure the new system is sized correctly and operates at peak efficiency.
+
+#### Step 1: Thermal Envelope Optimization
+*   **Action:** `insulate gable roof`
+    *   **Reasoning:** This is the only part of the building envelope not yet "well insulated." Addressing the roof first prevents heat from escaping upward, reducing the overall heating load.
+*   **Action:** `replace glazing` (Upgrade to Triple Glazing)
+    *   **Reasoning:** While double glazing is standard, triple glazing will further lower the U-value of the windows, pushing the EPC score closer to the A+ range.
+
+#### Step 2: Heating System Upgrade
+*   **Action:** `place air-water heatpump`
+    *   **Reasoning:** The building has a reason to change its system and lacks the site potential for geothermal captation or access to a heat grid. Because the building already possesses **floor heating**, an air-water heat pump is the most efficient and cost-effective choice, as it operates optimally with low-temperature emitters.
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Target Element | Justification |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | RoofMain | Upgrade from "Moderately" to "Well" insulated. |
+| **2** | `replace glazing` | Windows | Upgrade double glazing to triple glazing for maximum thermal retention. |
+| **3** | `place air-water heatpump` | Generation System | Replace existing boiler with a high-efficiency pump compatible with existing floor heating. |
+
+**Excluded Actions & Constraints:**
+*   **Geothermal/Heat Grid:** Ruled out due to `potentialForHorizontalGeothermalCaptation false`, `potentialForVerticalGeothermalDrilling false`, and `presenceOfHeatGrid false`.
+*   **Wall/Flat Roof Insulation:** Ruled out as these are already `WellInsulated`.
+*   **PV Panels:** Ruled out as the building already has `PVPanels` and `hasPotentialForPV false`.

@@ -1,0 +1,54 @@
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Envelope First"** principle: reduce the building's energy demand through insulation before upgrading the heating and generation systems. 
+
+Based on the provided building data and the RENO ontology, here is the proposed renovation path.
+
+### Phase 1: Thermal Envelope Optimization (Reducing Demand)
+The building currently has a C-label (262 kWh/m²year) and several uninsulated elements. Addressing these first ensures that any future heating system is downsized and operates at peak efficiency.
+
+1.  **Insulate Flat Roof (RoofExtension):** 
+    *   *Reasoning:* The flat roof is currently **not insulated**. Heat loss through the roof is significant.
+    *   *Action:* **Insulate flat roof**. (Note: The ontology suggests an inverted roof structure to avoid condensation).
+2.  **Insulate Floor Above Basement:** 
+    *   *Reasoning:* This element is currently **not insulated**. This is a cost-effective way to prevent cold drafts from the basement.
+    *   *Action:* **Insulate floor above basement**.
+3.  **Wall Insulation (Front & Rear):** 
+    *   *Reasoning:* Both walls are full brick and **not insulated**. 
+    *   *Action:* **Insulate wall cavity** (if a cavity exists) for a low-cost, low-nuisance upgrade. If the walls are solid brick, **insulate wall on exterior** is the most effective long-term solution, as there is no historical protection preventing this.
+
+### Phase 2: Ventilation & Air Quality
+Once the house is "sealed" with insulation, the ventilation system must be upgraded to prevent moisture buildup and heat loss through air exchange.
+
+4.  **Upgrade Ventilation:** 
+    *   *Reasoning:* The building currently uses **Ventilation System A** (natural supply/exhaust), which is the least efficient.
+    *   *Action:* **Replace ventilation system** (ideally moving toward a System D with heat recovery to retain warmth).
+
+### Phase 3: Sustainable Heating Transition
+With a tightened envelope, the building can now transition from a traditional boiler to a high-efficiency heat pump.
+
+5.  **Emission System Upgrade:** 
+    *   *Reasoning:* The building uses radiators, and there is a recorded reason to change the emission system. Heat pumps require lower flow temperatures to be efficient.
+    *   *Action:* **Place emission system on low temperature** (e.g., upgrading to underfloor heating or larger low-temp radiators).
+6.  **Heat Generation Upgrade:** 
+    *   *Reasoning:* Geothermal and heat grid options are unavailable at this site.
+    *   *Action:* **Place air-water heatpump**. This is the most sustainable alternative to the current boiler given the site constraints.
+
+### Phase 4: Renewable Energy Generation
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+
+7.  **Solar Energy Installation:** 
+    *   *Reasoning:* The building is explicitly marked as having **potential for PV**.
+    *   *Action:* **Place PV-panels on roof**. This provides a long-term reduction in operational energy costs.
+
+---
+
+### Summary of the Optimal Sequence & Logic
+
+| Sequence | Intervention | Primary Goal | Cost/Efficiency Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Floor $\rightarrow$ Walls)** | Reduce Heat Loss | Lowest cost per kWh saved; prevents over-sizing the heat pump. |
+| **2** | **Ventilation Upgrade** | Air Quality/Heat Recovery | Prevents mold/dampness caused by better insulation. |
+| **3** | **Low-Temp Emission** | System Compatibility | Necessary prerequisite for heat pump efficiency. |
+| **4** | **Air-Water Heat Pump** | Decarbonization | Replaces fossil fuel boiler with electricity. |
+| **5** | **PV-Panels** | Energy Autonomy | Offsets the electricity used by the heat pump. |
+
+**Final Outcome:** This path transforms the building from a C-label to a potentially A or B label, directly satisfying the owner's motivation to **Improve EPC** while ensuring no investment is wasted on oversized equipment.

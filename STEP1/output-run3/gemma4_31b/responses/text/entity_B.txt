@@ -1,0 +1,48 @@
+To improve an EPC of 262 in a 19th-century Belgian home, you must follow the **"Fabric First"** principle. Replacing a heating system before insulating the shell is a common and costly mistake; it leads to oversized systems and inefficiency.
+
+Given that your house is not historically protected, you have more flexibility. Here is the optimal, sequenced renovation path to maximize energy efficiency and cost-effectiveness.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping Heat Loss)
+*Priority: High | Goal: Reduce the energy demand of the building.*
+
+1.  **Flat Roof Insulation:** This is your "low-hanging fruit." Since the flat roof is currently uninsulated, it is likely a major source of heat loss. Install high-performance rigid insulation boards (PIR/PUR) on top of the roof deck before the final waterproofing layer.
+2.  **Floor Insulation (Above Basement):** Heat rises, and a cold floor creates a "draft" effect. Since you are in Ghent, check for subsidies for floor insulation. If you are replacing flooring anyway, install insulation boards or inject insulation if there is a void.
+3.  **Interior Wall Insulation:** Since it is a solid brick house and likely attached (limiting exterior insulation options), focus on **interior insulation**. 
+    *   *Warning:* To avoid condensation and mold between the brick and the insulation, use breathable materials (like wood fiber or calcium silicate) or a strict vapor barrier.
+4.  **Pitched Roof Top-up:** While "moderate," check if it meets current Belgian standards (R-value $\geq$ 4.0). Adding a layer of blown-in cellulose or mineral wool is a cost-effective way to reach modern standards.
+
+### Phase 2: Ventilation & Air Quality
+*Priority: Medium | Goal: Prevent moisture buildup and ensure health.*
+
+As you insulate the house, it becomes "tighter." Natural ventilation will no longer be sufficient, increasing the risk of humidity in an 1832 structure.
+*   **Upgrade to Mechanical Ventilation:** Install a balanced ventilation system with **Heat Recovery (HRV)**. This recovers heat from outgoing stale air to warm incoming fresh air, significantly reducing the load on your heating system.
+
+### Phase 3: Heating Distribution & Generation
+*Priority: Medium-High | Goal: Shift to low-temperature, sustainable heating.*
+
+Now that the house requires significantly less heat, you can downsize your heating system.
+*   **Heat Emission Upgrade:** Replace the old radiators with **low-temperature radiators** (larger surface area) or install underfloor heating (especially if you are already working on the basement floor). This is a prerequisite for a Heat Pump.
+*   **Heat Pump Installation:** Replace the old boiler with an **Air-to-Water Heat Pump**. Given the attached nature of the house and the lack of geothermal options, an air-source pump is the most viable green alternative. 
+    *   *Alternative:* If the budget is tight or insulation is partial, a **Hybrid System** (Gas + Heat Pump) is a pragmatic transitional step.
+
+### Phase 4: Renewable Energy (The Offset)
+*Priority: Low-Medium | Goal: Zero out operational energy costs.*
+
+*   **Photovoltaic (PV) Panels:** Now that your energy consumption is minimized, install PV panels on the pitched roof. This will power the Heat Pump and the ventilation system, moving the house toward a "Net Zero" energy balance.
+
+---
+
+### Summary of Optimal Sequence
+
+| Order | Action | Why? | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Flat Roof $\rightarrow$ Floor $\rightarrow$ Walls** | Stop heat leakage first. | Very High ROI |
+| **2** | **Ventilation (HRV)** | Prevent mold/dampness in a sealed house. | High (Long-term) |
+| **3** | **Low-Temp Radiators** | Enables the use of efficient Heat Pumps. | Medium |
+| **4** | **Air-to-Water Heat Pump** | Eliminates reliance on fossil fuels. | High (with subsidies) |
+| **5** | **PV Panels** | Offsets the electricity used by the pump. | High |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, consult a certified **EPC advisor** to create a "Renovation Obligation" roadmap. In Flanders, there are significant **premiums (subsidies)** available for wall, roof, and floor insulation, as well as for switching to heat pumps. Following this specific sequence often maximizes your eligibility for these grants.

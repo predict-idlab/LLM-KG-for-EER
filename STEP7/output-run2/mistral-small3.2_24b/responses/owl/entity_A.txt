@@ -1,0 +1,19 @@
+1. remove asbestos from flat roof
+2. insulate flat roof
+3. insulate attic floor
+4. insulate wall cavity
+5. insulate wall on exterior
+6. insulate floor above basement
+7. replace glazing
+8. replace windows
+9. replace ventilation system
+10. connect to heatgrid
+11. place air-water heatpump
+12. place emission system on low temperature
+13. place air-water heatpump with cooling
+14. place heatpumpboiler
+15. place sunshade
+16. place airconditioning
+17. place pv-panels on roof
+18. place pv-panels in garden
+19. place plug and play pv-panels

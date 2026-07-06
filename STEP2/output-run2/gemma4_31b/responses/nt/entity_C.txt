@@ -1,0 +1,31 @@
+Based on the provided building data and the RENO ontology, the property is a very modern **Attached Building (constructed in 2023)** with an already excellent energy profile (**EPC score of 50**, which corresponds to an **A label**). 
+
+Despite its high baseline efficiency, the owner has a specific motivation to **improve the EPC further** and has explicitly indicated a **reason to change the emission system**. Because the site lacks potential for geothermal drilling, PV panels, or connection to a heat grid, the focus must be on optimizing the existing envelope and transitioning to a high-efficiency heat pump.
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the "Envelope First" principle:
+
+#### Phase 1: Envelope Optimization (Thermal Shell)
+Before upgrading the heating system, we ensure the building retains as much heat as possible.
+1.  **Insulate Gable Roof**: The main roof is currently "Moderately Insulated." Upgrading this to "Well Insulated" is the most practical envelope improvement remaining, as the walls and floor are already well-insulated.
+2.  **Replace Glazing (Double $\rightarrow$ Triple)**: The windows currently feature double glazing. Upgrading to **Triple Glazing** will further reduce thermal bridging and lower the energy demand for the new heating system.
+
+#### Phase 2: High-Efficiency System Transition
+With the envelope optimized, we address the owner's desire to change the emission system.
+3.  **Place Air-Water Heat Pump**: Since geothermal options are unavailable and the building already has **Floor Heating** (which is a low-temperature emission system), an Air-Water Heat Pump is the most cost-effective and energy-efficient choice. It will replace the current electric convectors/boiler, significantly reducing operational energy costs.
+
+---
+
+### Summary of Actionable Plan
+
+| Sequence | Action | Justification | Priority |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Moves roof from "Moderate" to "Well" insulated. | High |
+| **2** | **Replace Glazing** | Upgrades double glazing to triple glazing for maximum heat retention. | Medium |
+| **3** | **Place Air-Water Heat Pump** | Replaces inefficient electric heating with a sustainable, high-COP system. | High |
+
+### Technical Notes & Constraints
+*   **Ventilation**: No action is required for the ventilation system, as the building is already equipped with **Ventilation System D** (the most efficient mechanical supply/exhaust type).
+*   **Renewables**: PV panels and Geothermal systems were excluded as the entity data explicitly marks the site potential for these as **false**.
+*   **Cost-Effectiveness**: By upgrading the roof and glazing first, the required capacity (and thus the cost) of the new Air-Water Heat Pump can be minimized.

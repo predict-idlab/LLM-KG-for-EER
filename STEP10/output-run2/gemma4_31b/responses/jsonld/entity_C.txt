@@ -1,0 +1,33 @@
+Based on the provided building data and the RENO ontology, the property is a very modern attached building (constructed in 2023) with an already excellent EPC score of 50 (A Label). 
+
+Since the building is nearly optimized, further improvements will yield marginal gains. However, the owner's motivation is to further improve the EPC, and the data explicitly indicates a **reason to change the emission system**. The current system relies partly on electric convectors, which are inefficient compared to modern heat pump technology.
+
+To maximize energy efficiency while remaining cost-effective, the renovation should focus on the few remaining "moderate" areas and the transition to a sustainable heating source.
+
+### Proposed Renovation Path
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low-Medium)
+The building is already well-insulated, but one element remains slightly below the "Well Insulated" grade.
+1. **Insulate Gable Roof:** While the flat roof and walls are well-insulated, the main gable roof is only "moderately insulated." Improving this to a "well-insulated" state is the final step in sealing the building envelope to minimize heat loss.
+
+#### Phase 2: Heating System Modernization (Priority: High)
+The most significant opportunity for EPC improvement lies in the generation and emission systems. The presence of electric convectors is a primary target for efficiency gains.
+2. **Place Emission System on Low Temperature:** To prepare for a heat pump, the existing emission system (specifically replacing the inefficient electric convectors) should be transitioned to low-temperature emitters. This ensures the new generator can operate at maximum efficiency.
+3. **Place Air-Water Heat Pump:** Given that there is no potential for geothermal energy or a connection to a heat grid, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the current boiler. This will significantly reduce the carbon footprint and operational energy costs.
+
+#### Phase 3: Glazing Optimization (Priority: Optional/Long-term)
+The windows are already double-glazed and the frames are in a "Good State."
+4. **Replace Glazing:** If the budget allows for further EPC reduction, upgrading from double to triple glazing would be the next logical step. However, given the current EPC of 50, this is a lower priority than the heating transition.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Completes the "Fabric First" approach by bringing the roof up to the same standard as the walls and floor. |
+| **2** | **Low-Temp Emission Upgrade** | Eliminates inefficient electric convectors and optimizes the home for heat pump technology. |
+| **3** | **Air-Water Heat Pump** | Transitions the home from a traditional boiler to a high-efficiency, sustainable energy source. |
+| **4** | **Glazing Upgrade** | Final marginal gain to push the EPC score toward the A+ range. |
+
+**Final Expert Note:** Because the building is from 2023 and already holds an 'A' label, the focus is no longer on "fixing" failures but on "optimizing" systems. The transition from electric convectors/boiler to a Heat Pump + Low-Temp Emission system is the most impactful move available for this specific entity.

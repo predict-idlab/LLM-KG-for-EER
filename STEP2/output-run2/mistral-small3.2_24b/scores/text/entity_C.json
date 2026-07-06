@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place emission system on low temperature"], "extra_actions": ["replace heating system with a heat pump", "improve roof insulation", "upgrade ventilation system to hrv", "seal air leakages", "enhance window performance", "optimize pv system with battery storage"]}, "sequence": {"order_errors": []}}

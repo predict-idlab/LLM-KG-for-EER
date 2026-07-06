@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, the property is a very modern attached building (constructed in 2023) with an already strong energy profile (EPC score of 50). Most structural elements, including the walls and floor above the basement, are already "Well Insulated."
+
+To maximize energy efficiency and further improve the EPC label in a cost-effective manner, I propose the following targeted renovation path.
+
+### Analysis of Current State
+*   **The Weak Link:** The **Main Gable Roof** is the only major envelope element that is only "Moderately Insulated," while others are "Well Insulated."
+*   **System Inefficiency:** There is a stated reason to change the emission system. The current setup relies on a Boiler (Generation) and a mix of Electric Convectors and Floor Heating (Emission), which is suboptimal for a high-efficiency home.
+*   **Constraints:** Geothermal options are not viable (no potential for horizontal or vertical drilling), and a heat grid is unavailable. PV panels are already installed.
+
+---
+
+### Proposed Renovation Plan
+
+The optimal sequence for renovation is to **first optimize the thermal envelope** to reduce heat loss, followed by **upgrading the heating generation system** to ensure the new equipment is sized correctly for the reduced load.
+
+#### Step 1: Thermal Envelope Optimization
+**Action: Insulate Gable Roof**
+*   **Rationale:** This is the most significant thermal gap in the building. Moving the gable roof from "Moderately Insulated" to "Well Insulated" will reduce heat loss through the top of the house, directly improving the EPC score.
+*   **Cost-Effectiveness:** High. Improving existing insulation is generally more cost-effective than replacing entire window systems or walls that are already performing well.
+
+#### Step 2: Heating System Modernization
+**Action: Place Air-Water Heat Pump**
+*   **Rationale:** Since the building already utilizes floor heating (a low-temperature emission system) and geothermal is not an option, an air-water heat pump is the most efficient replacement for the current boiler. This transition shifts the home from fossil fuel/electric resistance heating to a high-efficiency renewable source.
+*   **Sequence Logic:** By insulating the roof first (Step 1), the heat pump can operate at a lower flow temperature, significantly increasing its Seasonal Coefficient of Performance (SCOP) and reducing operational costs.
+
+#### Step 3: Emission System Alignment
+**Action: Place Emission System on Low Temperature**
+*   **Rationale:** To fully leverage the Air-Water Heat Pump, any remaining high-temperature emission elements (like the electric convectors) should be phased out or replaced with low-temperature alternatives. This ensures the system does not have to "overwork" to reach temperature setpoints.
+
+---
+
+### Summary of the Renovation Path
+
+| Sequence | Action | Target Element | Goal |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | Eliminate the primary source of thermal leakage. |
+| **2** | **Place Air-Water Heat Pump** | Generation_System | Replace Boiler with a high-efficiency renewable source. |
+| **3** | **Low-Temp Emission Upgrade** | EmissionSystem | Optimize heat distribution for maximum heat pump efficiency. |
+
+**Final Outcome:** This path transforms the building from a "modern but mixed" energy state to a high-performance, low-carbon home, directly satisfying the owner's motivation to improve the EPC label while avoiding unnecessary and costly replacements of already efficient components (walls, windows, and floors).

@@ -1,0 +1,40 @@
+Given that your home was built in 2017 and already possesses high-end features (Heat Pump, Ventilation D, and PV panels), you are starting from a very strong baseline. An EPC score of 87 is already quite efficient for a house of this size in Belgium.
+
+Because the "big wins" (heating system and wall insulation) are already addressed, your path to further efficiency shifts from **major structural overhauls** to **precision tuning and targeted insulation**.
+
+Here is your concise, cost-effective renovation path, ordered by priority.
+
+### Phase 1: High Impact / Low-to-Medium Cost (The "Quick Wins")
+**Target: The Pitched Roof**
+The pitched roof is the only area identified with "moderate" insulation. In a house where walls and floors are already well-insulated, the roof becomes the primary path for heat loss (convection).
+*   **Action:** Upgrade the pitched roof insulation to "high" standards. Depending on the roof structure, this could mean adding a layer of mineral wool or PIR boards in the attic space or improving the existing ceiling insulation.
+*   **Why:** This is the most cost-effective way to lower your EPC score further and reduce the load on your heat pump.
+*   **Sequence:** Do this first. Improving the envelope always precedes system tuning.
+
+### Phase 2: Operational Efficiency & Comfort (Low Cost)
+**Target: Thermal Management & Air Tightness**
+Since your windows were updated in 2020, replacing them with triple glazing is **not** cost-effective at this time. Instead, focus on the "edges."
+*   **Action 1: Thermal Leak Audit.** Use a thermal camera (available for rent in Ghent/Flanders) to identify "cold bridges" or air leaks around window frames and door seals. Apply high-quality weather-stripping where necessary.
+*   **Action 2: Solar Shading.** Since the house is well-insulated and has a heat pump, "overheating" in the summer is a higher risk than "cold" in the winter. Install external solar shading (external blinds or screens) on south- and west-facing windows.
+*   **Why:** Reducing summer heat gain prevents the need for energy-intensive cooling, improving the overall annual energy balance.
+
+### Phase 3: Energy Optimization (Medium Cost)
+**Target: PV Maximization & System Tuning**
+You already have PV panels and a heat pump; the goal now is to synchronize them to minimize grid reliance.
+*   **Action 1: Heat Pump Optimization.** Have a certified technician perform a "seasonal tuning" of your heat pump. Ensure the flow temperature is optimized for the current insulation levels of the house to maximize the COP (Coefficient of Performance).
+*   **Action 2: Smart Energy Management (EMS).** Install a smart energy manager that directs excess PV production to the heat pump (e.g., pre-heating the house or hot water tank during peak sun hours).
+*   **Why:** This maximizes the "free" energy you are already generating, reducing operational costs without requiring structural changes.
+
+---
+
+### Summary Table: Renovation Sequence
+
+| Priority | Intervention | Target Area | Cost-Effectiveness | Impact on EPC |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulation Upgrade** | Pitched Roof | High | High |
+| **2** | **Air-tightness/Seals** | Window/Door Edges | Very High | Low-Medium |
+| **3** | **External Shading** | South/West Facades | Medium | Medium (Summer) |
+| **4** | **System Tuning/EMS** | Heat Pump $\leftrightarrow$ PV | Medium | Medium (Operational) |
+
+### Final Expert Tip for Ghent/Flanders:
+Before starting, check the **"Mijn VerbouwPremie"** (My Renovation Premium) portal. Since your house is not historically protected, you may be eligible for subsidies on the roof insulation and the energy management systems, which will further increase the cost-effectiveness of this plan.

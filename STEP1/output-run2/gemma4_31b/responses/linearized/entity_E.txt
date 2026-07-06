@@ -1,0 +1,42 @@
+Based on the provided building data and the RENO ontology, the property is a detached house from 1862 with a current EPC score of 165 (B Label). While the roof is already well-insulated, the building envelope is significantly compromised by **single-glazed windows** and **uninsulated cavity walls**. 
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** renovation path. This ensures that the heating demand is reduced before installing a more efficient heating system, preventing the need for an oversized (and more expensive) unit.
+
+### Proposed Renovation Path
+
+#### Phase 1: Envelope Optimization (The "Fabric First" Approach)
+*Goal: Reduce thermal leakage and improve the EPC label.*
+
+1.  **Insulate Wall Cavities:** All four walls (Front, Left, Right, Rear) are cavity walls and currently not insulated. Cavity wall insulation is one of the most cost-effective upgrades with low nuisance levels.
+2.  **Insulate Floor Above Basement:** The floor above the crawl space is currently uninsulated. Adding insulation here prevents heat loss to the ground and improves thermal comfort in the living areas.
+3.  **Upgrade Window Glazing:** The living area and bedrooms currently have single glazing. Since the wooden frames are in "Good State," I recommend **Replacing the Glazing** (moving to Double or Triple Glazing) rather than replacing the entire window unit. This is significantly more cost-effective while drastically reducing U-values.
+
+#### Phase 2: Ventilation & Air Quality
+*Goal: Ensure healthy air circulation in a more airtight envelope.*
+
+4.  **Replace Ventilation System:** The building currently uses Ventilation System A (natural supply/exhaust). As the house becomes more airtight due to new glazing and insulation, upgrading to **Ventilation System C or D** is necessary to maintain indoor air quality and prevent condensation.
+
+#### Phase 3: High-Efficiency Heating Transition
+*Goal: Shift from inefficient electric/boiler heating to sustainable technology.*
+
+5.  **Install Air-Water Heat Pump:** The building has a reason to change its emission system and lacks potential for geothermal or heat grid connections. An Air-Water Heat Pump is the most practical and efficient alternative to replace the current boiler and electric convectors.
+6.  **Install Heat Pump Boiler:** To optimize domestic hot water production and reduce the load on the main heating system.
+
+#### Phase 4: Renewable Energy Integration
+*Goal: Offset the electrical demand of the new heat pump.*
+
+7.  **Place PV Panels on Roof:** The building has confirmed potential for PV. Installing solar panels is the final step to lower operational costs and move toward a net-zero energy balance.
+
+---
+
+### Summary of Sequence & Logic
+
+| Sequence | Intervention | Priority | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Wall & Floor Insulation** | Critical | Lowest cost per kWh saved; reduces total heating load. |
+| **2** | **Glazing Upgrade** | High | Eliminates major thermal bridges (single glazing). |
+| **3** | **Ventilation Upgrade** | Medium | Prevents moisture issues created by a tighter envelope. |
+| **4** | **Air-Water Heat Pump** | High | Switches to a low-carbon energy source for a reduced load. |
+| **5** | **PV Panels** | Medium | Provides "free" electricity to power the Heat Pump. |
+
+**Estimated Impact:** This path will significantly lower the EPC energy score (moving toward an A or A+ label), drastically reduce yearly energy costs, and increase the long-term market value of the property.

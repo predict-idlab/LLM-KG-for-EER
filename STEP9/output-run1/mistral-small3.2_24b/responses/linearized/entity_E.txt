@@ -1,0 +1,60 @@
+### Renovation Plan for Detached Building (1862)
+
+**Objective:** Improve the Energy Performance Certificate (EPC) of the detached building through cost-effective and energy-efficient renovations.
+
+**Building Characteristics:**
+- Detached building constructed in 1862.
+- Net floor area: 136.0 m².
+- Well-insulated roof (RoofMain).
+- Cavity walls (Wall_Left, Wall_Front, Wall_Right, Wall_Rear) with no insulation (NotInsulated).
+- Single-glazed windows in bedrooms and living area (WindowsBedrooms, WindowsLivingArea).
+- Emission system: Radiator, Electric Convector, AirHeating, FloorHeating.
+- Ventilation system: VentilationSystemA.
+- Potential for PV: True.
+- No heat grid presence.
+- Historical protection: None.
+
+**Step-by-Step Renovation Plan:**
+
+1. **Insulate Cavity Walls (High Priority):**
+   - **Action:** Insulate Wall_Left, Wall_Front, Wall_Right, Wall_Rear.
+   - **Reason:** Cavity walls are currently not insulated (NotInsulated), which significantly impacts energy efficiency.
+   - **Suggestion:** Insulate wall cavity (ordering: 34).
+   - **Point of Attention:** Have an inspection carried out by a contractor to ensure the cavity is suitable for injecting insulation.
+
+2. **Replace Single-Glazed Windows (Medium Priority):**
+   - **Action:** Replace single-glazed windows in bedrooms and living area.
+   - **Reason:** Single glazing has poor thermal properties, leading to heat loss.
+   - **Suggestion:** Replace windows (ordering: 46).
+   - **Point of Attention:** Check that window frames have the right thickness and are in good condition.
+
+3. **Improve Ventilation System (Medium Priority):**
+   - **Action:** Replace the existing VentilationSystemA.
+   - **Reason:** Upgrading the ventilation system can improve air quality and energy efficiency.
+   - **Suggestion:** Replace ventilation system (ordering: 52).
+   - **Point of Attention:** For a ventilation system C, you need grilles in your window frames.
+
+4. **Install Photovoltaic Panels (Low Priority):**
+   - **Action:** Place PV-panels on the roof or in the garden.
+   - **Reason:** The building has potential for PV (true), and installing PV-panels can reduce energy costs and improve sustainability.
+   - **Suggestion:** Place PV-panels on roof (ordering: 85) or place PV-panels in garden (ordering: 88).
+   - **Point of Attention:** Check on the 'Zonnekaart' for optimal panel orientation and ensure the roof is free of asbestos.
+
+5. **Additional Considerations:**
+   - **Roof Underlayment:** If the roof underlayment is not present or in poor condition, consider placing a roof underlayment (ordering: 16).
+   - **Asbestos Removal:** If any asbestos is present in the roof or walls, remove it before other renovations (ordering: 19 for flat roof, ordering: 22 for gable roof).
+
+**Optimal Sequence:**
+1. Insulate cavity walls (Wall_Left, Wall_Front, Wall_Right, Wall_Rear).
+2. Replace single-glazed windows (WindowsBedrooms, WindowsLivingArea).
+3. Replace the ventilation system (VentilationSystemA).
+4. Install photovoltaic panels (RoofMain or garden).
+5. Optional: Place roof underlayment and remove asbestos if necessary.
+
+**Expected Outcome:**
+- Improved thermal comfort and reduced energy consumption.
+- Better air quality through an upgraded ventilation system.
+- Potential reduction in energy costs through photovoltaic panels.
+- Improved EPC label, achieving the owner's motivation (ToImproveEPC).
+
+This plan focuses on practical, cost-effective upgrades that maximize energy efficiency while considering the building's historical context and current conditions.

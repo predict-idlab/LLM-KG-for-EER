@@ -1,0 +1,50 @@
+To improve an EPC score of 262 in a house from 1832, we must follow the fundamental principle of energy renovation: **"Insulate first, ventilate second, and heat last."** 
+
+Installing a high-efficiency heating system in an uninsulated 19th-century shell is a waste of capital, as the heat will simply escape through the walls and roof. Because this is an attached house in Ghent, you have the advantage of having fewer exposed exterior walls than a detached home.
+
+Here is the optimal, step-by-step renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*Goal: Stop heat loss to minimize the size and cost of the future heating system.*
+
+1.  **Flat-Roof Insulation (High Priority):** The flat-roof extension is currently a "thermal hole." Adding high-performance insulation (e.g., PIR boards) to the flat roof is one of the most cost-effective upgrades with the fastest ROI.
+2.  **Floor Insulation (Basement Ceiling):** Since the floor above the basement is uninsulated, you likely experience "cold feet." Insulating the ceiling of the basement (from below) is significantly cheaper and easier than digging up the floor and prevents heat from sinking into the ground.
+3.  **Wall Insulation (Strategic Approach):** 
+    *   Since the house is not protected, you have options. **Exterior wall insulation** is the gold standard for efficiency and protecting the brickwork.
+    *   If the facade must be preserved, use **interior insulation** (e.g., calcium silicate boards) on the front and rear walls. This prevents condensation and mold, which is a high risk in 1832 brick homes.
+4.  **Pitched Roof Top-up:** Since it is "moderately" insulated, check if it meets current Flemish standards. Adding a layer of mineral wool or cellulose in the attic is a low-cost way to further drop the EPC.
+
+### Phase 2: Ventilation (Ensuring Air Quality)
+*Goal: Prevent moisture buildup and heat loss through air leakage.*
+
+Once you insulate the shell, the house becomes "tighter." Natural ventilation is no longer sufficient and can lead to humidity issues.
+*   **Installation of a Heat Recovery Ventilation (HRV) system:** Instead of basic ventilation, install a system that recovers heat from outgoing stale air to warm incoming fresh air. This prevents the "drafty" feeling and significantly reduces the load on your heating system.
+
+### Phase 3: Heating Modernization (The Energy Shift)
+*Goal: Transition to a low-carbon, high-efficiency heat source.*
+
+Now that the heat demand is lowered, you can replace the failing boiler and radiators.
+*   **The Heat Pump Transition:** Given the Belgian energy transition, a **Heat Pump (Air-to-Water)** is the most future-proof choice. 
+*   **Low-Temperature Emitters:** Heat pumps work most efficiently at low temperatures. Since your radiators are in poor condition, replace them with **oversized low-temperature radiators** or, if the budget allows during floor works, **underfloor heating** in the ground floor. This ensures the heat pump doesn't have to work overtime to reach the desired indoor temperature.
+
+### Phase 4: Renewable Energy (Offsetting Costs)
+*Goal: Reach a near-zero energy bill.*
+
+*   **Photovoltaic (PV) Panels:** Now that you have a heat pump (which runs on electricity), the demand for power will increase. Install PV panels on the pitched roof to offset the operational costs of the heat pump and HRV system.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Order | Action | Focus | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Flat Roof & Basement Floor | Insulation | High | Very High |
+| **2** | Front/Rear Wall Insulation | Insulation | Very High | Medium |
+| **3** | HRV Ventilation | Air Quality | Medium | Medium |
+| **4** | Heat Pump + Low-Temp Radiators | Heating | Very High | Medium (High Initial) |
+| **5** | PV Panels | Generation | High | High (Long-term) |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, apply for the **"Mijn VerbouwPremie" (My Renovation Premium)**. The Flemish government provides significant subsidies for these specific steps (insulation, heat pumps, and ventilation). Because your EPC is 262, you likely qualify for the highest tier of premiums, which can drastically reduce the total investment cost.

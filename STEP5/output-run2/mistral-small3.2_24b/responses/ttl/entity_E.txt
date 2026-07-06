@@ -1,0 +1,52 @@
+### Renovation Plan for Detached Building (1862, 136 m², EPC Score: 165)
+
+Given the building's characteristics—detached, historical (1862), with cavity walls and single-glazed windows—a phased renovation approach is recommended to maximize energy efficiency and cost-effectiveness. The current EPC score of 165 (B Label) is already relatively good, but further improvements can be made.
+
+#### Phase 1: Thermal Envelope Optimization
+1. **Insulate Wall Cavity**
+   - **Walls:** `Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right` are cavity walls and not insulated.
+   - **Action:** Inject insulation into the cavities. This is cost-effective and minimizes disruption.
+   - **Note:** Ensure the cavity is wide enough and free of contamination (as per the ontology's point of attention).
+
+2. **Replace Glazing**
+   - **Windows:** All windows have single glazing, which is inefficient.
+   - **Action:** Replace single glazing with double glazing. This significantly reduces heat loss through windows.
+   - **Note:** Check frame condition and thickness before installation (as per the ontology's point of attention).
+
+#### Phase 2: Heating System Upgrade
+3. **Place Air-Water Heat Pump**
+   - **Current System:** Electric convector, radiator, and floor heating.
+   - **Action:** Install an air-water heat pump. This is a sustainable and efficient replacement for the existing boiler, especially since geothermal potential is "false" and there is no heat grid.
+   - **Note:** Ensure the emission system is compatible with low-temperature operation (see next step).
+
+4. **Place Emission System on Low Temperature**
+   - **Action:** Transition the current radiators or floor heating to a low-temperature emission system to maximize the heat pump's efficiency.
+   - **Note:** This step is crucial for optimizing the heat pump's performance.
+
+#### Phase 3: Ventilation and Renewable Energy
+5. **Replace Ventilation System**
+   - **Current System:** Ventilation System A (natural).
+   - **Action:** Upgrade to a more efficient system (e.g., System C or D) to ensure proper air exchange and moisture control in the now-sealed envelope.
+   - **Note:** System D may require ductwork for both supply and return.
+
+6. **Place PV-Panels on Roof**
+   - **Potential:** The building has confirmed potential for PV.
+   - **Action:** Install PV panels on the roof to generate renewable electricity for the heat pump and other appliances.
+   - **Note:** Check roof orientation and shading (as per the ontology's point of attention).
+
+### Summary of Sequence and Rationale
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| 1        | Insulate Wall Cavity | Cost-effective way to reduce heat loss through walls. |
+| 2        | Replace Glazing | Improves thermal performance of windows. |
+| 3        | Place Air-Water Heat Pump | Sustainable and efficient heating solution. |
+| 4        | Place Emission System on Low Temperature | Optimizes heat pump performance. |
+| 5        | Replace Ventilation System | Ensures proper air quality in a sealed envelope. |
+| 6        | Place PV-Panels on Roof | Generates renewable energy for the heat pump. |
+
+### Additional Notes
+- **Historical Protection:** The walls are not historically protected, so insulation can proceed without restrictions.
+- **Frame Condition:** The wooden window frames are in a "Good State," so replacing them is not necessary at this stage.
+- **Cost-Effectiveness:** The proposed sequence prioritizes high-impact, low-cost measures first to maximize energy savings.
+
+This plan ensures a balanced approach to improving energy efficiency while maintaining cost-effectiveness and historical integrity.

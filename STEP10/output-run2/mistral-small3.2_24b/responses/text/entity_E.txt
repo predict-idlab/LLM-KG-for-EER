@@ -1,0 +1,48 @@
+### Proposed Renovation Path for Detached House in Ghent, Belgium
+
+Given the house's characteristics (built in 1862, 136 m², EPC score of 165, cavity walls, single glazing, no district heating or geothermal potential, but PV panel potential), the renovation plan should follow a **fabric-first approach** to maximize energy efficiency while remaining cost-effective.
+
+#### Phase 1: Thermal Envelope Optimization (Highest Priority)
+1. **Insulate Cavity Walls (Exterior):**
+   - The house has cavity walls that are currently uninsulated. Filling the cavities with insulation (e.g., mineral wool or foam) is cost-effective and significantly reduces heat loss. This should be done before interior insulation to avoid thermal bridges and ensure even heat distribution.
+
+2. **Insulate Floor Above Crawl Space:**
+   - The floor above the crawl space is uninsulated. Adding insulation (e.g., rigid foam boards or mineral wool) will prevent heat loss to the crawl space and improve comfort.
+
+3. **Insulate Flat Roof (if applicable):**
+   - If there is a flat roof extension (not mentioned in the description but common in older houses), insulating it should be prioritized as heat rises.
+
+#### Phase 2: Window Performance (Medium Priority)
+4. **Replace Single Glazing with Double or Triple Glazing:**
+   - The windows have single glazing, leading to significant heat loss. Replacing them with double or triple glazing (depending on budget) will drastically improve thermal performance. Since the frames are in good condition, consider retrofitting with new glazing to reduce costs.
+
+#### Phase 3: Heating System Transition (Medium Priority)
+5. **Replace Boiler with Air-Water Heat Pump:**
+   - The current heating systems (radiators, underfloor heating, air heating, and electric convectors) are outdated. An air-water heat pump is the most sustainable and efficient replacement, especially after improving the thermal envelope.
+
+6. **Upgrade Emission Systems to Low-Temperature:**
+   - Replace old radiators with low-temperature radiators or underfloor heating to maximize the heat pump's efficiency.
+
+#### Phase 4: Ventilation Upgrade (Low Priority)
+7. **Upgrade Natural Ventilation to Mechanical Ventilation with Heat Recovery (MVHR):**
+   - The current natural ventilation system is inefficient. Upgrading to an MVHR system will maintain indoor air quality while recovering heat from exhausted air, reducing energy loss.
+
+#### Phase 5: Sustainable Energy Generation (Long-Term)
+8. **Install Photovoltaic (PV) Panels:**
+   - The house has potential for PV panels. Installing them will offset the electricity consumption of the heat pump and ventilation system, further improving the EPC score.
+
+### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls** | Reduces heat loss through exterior walls, the largest source of energy loss. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents heat loss to the crawl space and improves comfort. |
+| **3** | **Replace Glazing** | Reduces heat loss through windows, improving thermal performance. |
+| **4** | **Replace Boiler with Air-Water Heat Pump** | Switches to a sustainable, efficient heating system tailored to the new lower heat demand. |
+| **5** | **Upgrade Emission Systems to Low-Temperature** | Maximizes the heat pump's efficiency. |
+| **6** | **Upgrade Ventilation to MVHR** | Maintains indoor air quality in a now-sealed envelope. |
+| **7** | **Install PV Panels** | Offsets electricity consumption and further improves the EPC score. |
+
+### Additional Notes:
+- **Cost-Effectiveness:** Prioritize cavity wall insulation and glazing replacement first, as these offer the highest return on investment.
+- **Sequencing:** Always improve the thermal envelope before upgrading heating systems to avoid oversizing the new system.
+- **Historical Context:** Since the house is not historically protected, structural changes (e.g., insulation, glazing) are feasible.

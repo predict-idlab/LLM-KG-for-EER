@@ -1,0 +1,89 @@
+### Energy-Efficient and Cost-Effective Renovation Plan
+
+#### **1. Insulate the Roof Extension (Flat Roof)**
+- **Action**: Insulate the flat roof extension.
+- **Priority**: High (Ordering: 19)
+- **Details**:
+  - Replace the existing asbestos-containing roof covering if necessary (Ordering: 19).
+  - Install insulation on top of the roof covering (inverted roof structure).
+  - Ensure a vapour barrier is installed on the warm side of the insulation.
+- **Cost**: €40/m² (asbestos removal) + €50/m² (insulation).
+- **Benefits**: Reduces heat loss through the roof, improves thermal comfort, and lowers energy consumption.
+
+#### **2. Insulate the Gable Roof (Main Roof)**
+- **Action**: Insulate the gable roof.
+- **Priority**: Medium (Ordering: 28)
+- **Details**:
+  - Install insulation between the rafters or on the underside of the roof deck.
+  - Ensure a vapour barrier is installed to prevent condensation.
+  - Pay attention to air- and watertightness when installing the roof underlayment.
+- **Cost**: €60/m².
+- **Benefits**: Enhances thermal performance and reduces heating costs.
+
+#### **3. Insulate the Walls (Exterior or Interior)**
+- **Action**: Insulate the front and rear walls.
+- **Priority**: Medium (Ordering: 34 for cavity wall or 37 for interior wall)
+- **Details**:
+  - For exterior insulation, ensure compliance with building line regulations.
+  - For interior insulation, relocate sockets, pipes, and radiators as necessary.
+  - Consider external wall insulation if historical protection is not an issue.
+- **Cost**: €22/m² (cavity wall) or €150/m² (interior wall).
+- **Benefits**: Significantly improves the building's thermal envelope and reduces heat loss.
+
+#### **4. Insulate the Floor Above the Basement**
+- **Action**: Insulate the floor above the basement.
+- **Priority**: Low (Ordering: 49)
+- **Details**:
+  - Install insulation on the underside of the floor or on the ceiling of the basement.
+  - Ensure proper sealing to prevent drafts.
+- **Cost**: €30/m².
+- **Benefits**: Reduces heat loss through the floor and improves overall energy efficiency.
+
+#### **5. Replace the Ventilation System**
+- **Action**: Upgrade the ventilation system from type A to type C or D.
+- **Priority**: Medium (Ordering: 52)
+- **Details**:
+  - Install mechanical supply and exhaust ventilation.
+  - Ensure proper ductwork and grilles are installed.
+- **Cost**: €3,500 (fixed) + €17/m².
+- **Benefits**: Improves indoor air quality and reduces the risk of condensation and mold.
+
+#### **6. Replace the Emission System**
+- **Action**: Replace the existing radiator system with a low-temperature emission system.
+- **Priority**: High (Ordering: 70)
+- **Details**:
+  - Install underfloor heating or low-temperature radiators.
+  - Ensure compatibility with the existing boiler or consider upgrading to a heat pump.
+- **Cost**: €100/m².
+- **Benefits**: Enhances heating efficiency and reduces energy consumption.
+
+#### **7. Install Photovoltaic (PV) Panels**
+- **Action**: Install PV panels on the roof.
+- **Priority**: Medium (Ordering: 85)
+- **Details**:
+  - Check the roof's orientation and potential shading.
+  - Ensure the roof structure is free of asbestos before installation.
+  - Consider the financial and environmental benefits of PV panels.
+- **Cost**: €275/m².
+- **Benefits**: Generates renewable energy, reduces electricity costs, and lowers carbon footprint.
+
+#### **8. Replace Windows (If Necessary)**
+- **Action**: Replace windows if they are in poor condition or have single glazing.
+- **Priority**: Medium (Ordering: 46)
+- **Details**:
+  - Ensure window frames are straight and strong enough for new glass.
+  - Install double or triple glazing for better insulation.
+- **Cost**: €800/m².
+- **Benefits**: Improves thermal and acoustic performance, reduces heat loss.
+
+### **Summary of Prioritized Actions**
+1. **Insulate the Flat Roof Extension** (High Priority)
+2. **Insulate the Gable Roof** (Medium Priority)
+3. **Insulate the Walls** (Medium Priority)
+4. **Insulate the Floor Above the Basement** (Low Priority)
+5. **Upgrade the Ventilation System** (Medium Priority)
+6. **Replace the Emission System** (High Priority)
+7. **Install PV Panels** (Medium Priority)
+8. **Replace Windows** (Medium Priority)
+
+This plan focuses on maximizing energy efficiency while being cost-effective. The sequence of actions ensures that each renovation step builds on the previous one, optimizing the benefits of each upgrade.

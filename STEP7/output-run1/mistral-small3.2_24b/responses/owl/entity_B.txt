@@ -1,0 +1,15 @@
+1. insulate wall cavity
+2. insulate wall on exterior
+3. replace windows
+4. insulate attic floor
+5. replace ventilation system
+6. place vertical geothermal heatpump
+7. place horizontal geothermal heatpump
+8. place air-water heatpump
+9. place emission system on low temperature
+10. place air-water heatpump with cooling
+11. place heatpumpboiler
+12. place sunshade
+13. place PV-panels on roof
+14. place PV-panels in garden
+15. place plug and play PV-panels

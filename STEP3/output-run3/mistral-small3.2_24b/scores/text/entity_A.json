@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "place emission system on low temperature"], "extra_actions": ["install external wall insulation", "replace boiler", "install smart thermostat"]}, "sequence": {"order_errors": []}}

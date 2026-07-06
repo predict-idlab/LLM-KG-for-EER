@@ -1,0 +1,82 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### Building Overview:
+- **Type:** Semi-detached building
+- **Construction Year:** 1951
+- **Current EPC Score:** 388 (D Label)
+- **Motivation:** Improve EPC
+- **Potential for PV:** True
+- **Heat Grid Presence:** False
+- **Geothermal Potential:** False
+
+#### Key Observations:
+1. **Thermal Envelope:**
+   - **Roofs:**
+     - Flat roof (RoofExtension) is moderately insulated.
+     - Gable roof (RoofMain) is not insulated.
+   - **Walls:**
+     - All external walls (Wall_Front, Wall_Rear, Wall_Right) are full brick and not insulated.
+   - **Floor:**
+     - Floor above basement (FloorAboveBasement) is not insulated.
+
+2. **Windows:**
+   - All windows have double glazing and wooden frames in good condition.
+
+3. **Heating and Ventilation:**
+   - Current heating system includes radiators and floor heating.
+   - Current ventilation system is Type A (natural).
+
+4. **PV Potential:**
+   - The building has potential for photovoltaic (PV) panel installation.
+
+#### Proposed Renovation Path:
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+1. **Insulate Gable Roof:**
+   - **Action:** Insulate the gable roof (RoofMain).
+   - **Rationale:** The gable roof is currently not insulated, making it a priority to prevent heat loss through the roof.
+   - **Cost:** €60 per m².
+
+2. **Insulate Walls on Exterior:**
+   - **Action:** Insulate the exterior walls (Wall_Front, Wall_Rear, Wall_Right).
+   - **Rationale:** Exterior wall insulation is more effective for full brick walls and eliminates thermal bridges.
+   - **Cost:** €200 per m².
+
+3. **Insulate Floor Above Basement:**
+   - **Action:** Insulate the floor above the basement.
+   - **Rationale:** Prevents cold drafts from the basement and improves overall thermal comfort.
+   - **Cost:** €30 per m².
+
+**Phase 2: Heating System Transition**
+4. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Rationale:** More energy-efficient and sustainable, especially with a well-insulated building envelope.
+   - **Cost:** €8,000 (fixed) + €35 per m².
+
+5. **Place Emission System on Low Temperature:**
+   - **Action:** Upgrade the existing radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the Coefficient of Performance (COP) of the new heat pump.
+   - **Cost:** €100 per m².
+
+**Phase 3: Ventilation Upgrade**
+6. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System A to System C or D.
+   - **Rationale:** Ensures proper air exchange and maintains indoor air quality in a sealed envelope.
+   - **Cost:** €3,500 (fixed) + €17 per m².
+
+**Phase 4: Sustainable Energy Generation**
+7. **Place PV-Panels on Roof:**
+   - **Action:** Install photovoltaic panels on the roof.
+   - **Rationale:** Generates renewable electricity to power the heat pump and other systems, further improving the EPC label.
+   - **Cost:** €275 per m².
+
+#### Summary of Optimal Sequence:
+1. **Insulate Gable Roof**
+2. **Insulate Exterior Walls**
+3. **Insulate Floor Above Basement**
+4. **Install Air-Water Heat Pump**
+5. **Upgrade to Low-Temperature Emission System**
+6. **Replace Ventilation System**
+7. **Install PV-Panels on Roof**
+
+This plan follows the "Insulate → Ventilate → Generate" sequence, ensuring that the building's thermal envelope is optimized before upgrading heating and ventilation systems. This approach maximizes energy efficiency and cost-effectiveness while improving the EPC score.

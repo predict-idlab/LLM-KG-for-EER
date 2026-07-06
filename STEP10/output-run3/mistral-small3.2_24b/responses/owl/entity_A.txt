@@ -1,0 +1,65 @@
+### Renovation Plan for 1951 Semi-Detached Building (EPC Score: 388)
+
+#### Objective:
+Improve the EPC rating to a higher level (e.g., from F to D or better) through cost-effective, energy-efficient upgrades.
+
+#### Priority: Thermal Envelope Optimization (Fabric First)
+The building has significant heat loss due to uninsulated elements. Addressing these will have the highest impact on energy efficiency.
+
+1. **Insulate Flat Roof (`RoofExtension`)**
+   - Current State: Moderately Insulated
+   - Action: Insulate to bring it to "Well Insulated" grade.
+   - Rationale: Flat roofs have high heat loss potential due to direct heat transfer.
+
+2. **Insulate Gable Roof (`RoofMain`)**
+   - Current State: Not Insulated
+   - Action: Insulate the gable roof to prevent heat loss through the roof structure.
+   - Rationale: Since the roof is already in good condition, adding insulation will reduce heat loss with minimal invasive work.
+
+3. **Insulate Wall on Exterior (`Wall_Front`, `Wall_Rear`, `Wall_Right`)**
+   - Current State: Not Insulated
+   - Action: Apply exterior insulation to all three walls to eliminate thermal bridges.
+   - Rationale: Exterior insulation is more cost-effective than interior insulation for full brick walls.
+
+4. **Insulate Floor Above Basement (`FloorAboveBasement`)**
+   - Current State: Not Insulated
+   - Action: Insulate the floor to prevent cold air infiltration from the basement.
+   - Rationale: Insulating the floor above the basement reduces drafts and improves comfort.
+
+#### Priority: Window Performance
+The windows are already double-glazed, so no action is needed here.
+
+#### Priority: High-Efficiency Heating Transition
+With the thermal envelope improved, the heating system can be optimized.
+
+5. **Replace Ventilation System (`VentilationSystem`)**
+   - Current Type: Ventilation System A (Natural)
+   - Action: Upgrade to Ventilation System C (Mechanical Supply & Natural Exhaust) or System D (Mechanical Supply & Exhaust).
+   - Rationale: A more efficient ventilation system prevents moisture buildup and maintains air quality in a now-sealed envelope.
+
+6. **Place Air-Water Heat Pump (`Generation_System`)**
+   - Current System: Boiler
+   - Action: Replace with an Air-Water Heat Pump.
+   - Rationale: Heat pumps are more energy-efficient than boilers, especially when paired with low-temperature emissions.
+
+7. **Place Emission System on Low Temperature (`EmissionSystem`)**
+   - Current Type: Radiators (High-Temperature Emissions)
+   - Action: Transition to low-temperature emissions (e.g., underfloor heating).
+   - Rationale: Low-temperature emissions maximize the Coefficient of Performance (COP) of the heat pump.
+
+#### Priority: Sustainable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+8. **Place PV-Panels on Roof (`RoofExtension`)**
+   - Potential: Confirmed
+   - Action: Install solar panels to generate renewable electricity.
+   - Rationale: PV panels will reduce dependency on grid electricity and lower the energy bill.
+
+#### Summary of Optimal Sequence
+The renovation should follow this sequence to maximize energy efficiency and cost-effectiveness:
+
+1. **Insulate Flat Roof** → **Insulate Gable Roof** → **Insulate Walls on Exterior** → **Insulate Floor Above Basement**
+2. **Upgrade Ventilation System** → **Install Air-Water Heat Pump** → **Transition to Low-Temperature Emissions**
+3. **Install PV Panels on Roof**
+
+This plan ensures that the building is thermally optimized before upgrading heating systems, preventing the need for oversized and more expensive HVAC equipment. The final step of adding solar panels further enhances energy independence and sustainability.

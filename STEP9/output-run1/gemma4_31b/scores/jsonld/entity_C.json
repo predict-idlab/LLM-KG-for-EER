@@ -1,0 +1,14 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "place emission system on low temperature"
+    ],
+    "extra_actions": [
+      "replace glazing with triple glazing",
+      "install heat pump boiler"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

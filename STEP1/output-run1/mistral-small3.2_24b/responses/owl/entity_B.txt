@@ -1,0 +1,79 @@
+### **Renovation Plan for the Attached Building**
+
+#### **1. Insulate the Flat Roof (Roof Extension)**
+- **Action**: Insulate the flat roof (Roof Extension) with an inverted roof structure.
+- **Reason**: The flat roof is currently not insulated, and insulation will significantly improve energy efficiency.
+- **Estimated Cost**: €65/m² (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: High.
+
+#### **2. Insulate the Gable Roof (Roof Main)**
+- **Action**: Insulate the gable roof (Roof Main) with a vapor barrier on the warm side of the insulation.
+- **Reason**: The gable roof is moderately insulated, and further insulation will enhance thermal comfort and energy efficiency.
+- **Estimated Cost**: €60/m² (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: Medium.
+
+#### **3. Insulate the Floor Above Basement**
+- **Action**: Insulate the floor above the basement.
+- **Reason**: The floor above the basement is not insulated, which can lead to heat loss.
+- **Estimated Cost**: €30/m² (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: Medium.
+
+#### **4. Insulate the Walls (Wall Front and Wall Rear)**
+- **Action**: Insulate the walls (Wall Front and Wall Rear) on the exterior.
+- **Reason**: The walls are not insulated, and exterior insulation will improve thermal comfort and energy efficiency.
+- **Estimated Cost**: €200/m² (including labor and materials).
+- **Permit Needed**: Only if the thickness of the total pack >26cm or the building line is overrun (Flanders).
+- **Priority**: High.
+
+#### **5. Replace the Ventilation System**
+- **Action**: Replace the ventilation system (Ventilation System A) with a more efficient system, such as Ventilation System D.
+- **Reason**: A more efficient ventilation system will improve indoor air quality and reduce energy consumption.
+- **Estimated Cost**: €3,500 (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: Medium.
+
+#### **6. Replace the Emission System**
+- **Action**: Replace the radiator (Emission System) with a low-temperature emission system, such as underfloor heating.
+- **Reason**: A low-temperature emission system will improve thermal comfort and reduce energy consumption.
+- **Estimated Cost**: €100/m² (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: High.
+
+#### **7. Replace the Generation System**
+- **Action**: Replace the boiler (Generation System) with a heat pump boiler or an air-water heat pump.
+- **Reason**: A heat pump boiler or an air-water heat pump will significantly reduce energy consumption and lower carbon emissions.
+- **Estimated Cost**: €4,000 (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: High.
+
+#### **8. Install PV Panels**
+- **Action**: Install photovoltaic (PV) panels on the roof (Roof Main).
+- **Reason**: The building has potential for PV, and installing PV panels will generate renewable energy and reduce electricity costs.
+- **Estimated Cost**: €275/m² (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: Medium.
+
+#### **9. Install Sun Shades**
+- **Action**: Install sun shades on the windows (Windows Bedrooms and Windows Living Area).
+- **Reason**: Sun shades will reduce solar gain in the summer, improving thermal comfort and reducing energy consumption.
+- **Estimated Cost**: €750 (including labor and materials).
+- **Permit Needed**: No (Flanders).
+- **Priority**: Low.
+
+### **Summary of Actions and Priorities**
+| **Action**                          | **Priority** |
+|-------------------------------------|-------------|
+| Insulate the flat roof               | High        |
+| Insulate the gable roof              | Medium      |
+| Insulate the floor above basement    | Medium      |
+| Insulate the walls                  | High        |
+| Replace the ventilation system      | Medium      |
+| Replace the emission system         | High        |
+| Replace the generation system       | High        |
+| Install PV panels                   | Medium      |
+| Install sun shades                  | Low         |
+
+This renovation plan is designed to maximize energy efficiency, reduce energy consumption, and improve thermal comfort. The actions are prioritized based on their impact on energy efficiency and cost-effectiveness. The plan is tailored to the specific characteristics of the building and the available information in the RENO ontology.

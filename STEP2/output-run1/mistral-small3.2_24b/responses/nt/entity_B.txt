@@ -1,0 +1,89 @@
+### Renovation Plan for Energy Efficiency
+
+#### Initial Assessment
+1. **Current State:**
+   - **Building Type:** Attached (single-family)
+   - **Construction Year:** 1832
+   - **Current Energy Performance Certificate (EPC) Score:** 262 (D Label)
+   - **Potential for PV Installation:** Yes
+   - **Presence of Heat Grid:** No
+   - **Potential for Vertical Geothermal Drilling:** No
+   - **Potential for Horizontal Geothermal Captation:** No
+
+2. **Key Problem Areas Identified:**
+   - **Roof Insulation:** The main roof (gable) is moderately insulated, while the extension roof (flat) is not insulated.
+   - **Wall Insulation:** Both front and rear walls are not insulated.
+   - **Floor Insulation:** The floor above basement is not insulated.
+   - **Windows:** Single glazing with wooden frames in bedrooms and double glazing in living area.
+   - **Heating System:** Current system is a radiator (heat pump boiler).
+   - **Ventilation System:** Type A (natural air supply and mechanical air exhaust).
+
+3. **Owner’s Motivation:** To improve the EPC label.
+
+#### Renovation Strategy
+The proposed plan focuses on improving thermal comfort and reducing energy consumption through a phased approach, prioritizing interventions with the highest impact on energy efficiency and cost-effectiveness. The plan also considers the historical and architectural context of the building, avoiding interventions that could compromise its heritage value.
+
+**Phase 1: Immediate Actions (High Impact, Low Cost)**
+1. **Replace Flat Roof (Extension):**
+   - **Intervention:** Replace the current flat roof with a new insulated flat roof.
+   - **Rationale:** The current extension roof is not insulated, contributing significantly to heat loss. Replacing it with a properly insulated roof will improve thermal performance.
+   - **Estimated Cost:** €120/m² (including insulation).
+   - **Potential Energy Savings:** 15-20% reduction in heating demand.
+
+2. **Insulate Gable Roof (Main Roof):**
+   - **Intervention:** Insulate the existing gable roof from the inside to avoid altering its external appearance.
+   - **Rationale:** The current gable roof is moderately insulated. Enhancing its insulation will further reduce heat loss and improve thermal comfort.
+   - **Estimated Cost:** €60/m².
+   - **Potential Energy Savings:** 10-15% reduction in heating demand.
+
+3. **Insulate Walls (Exterior):**
+   - **Intervention:** Apply external wall insulation to both front and rear walls.
+   - **Rationale:** Uninsulated walls are a major source of heat loss. Exterior insulation will minimize disruption and maintain the building’s aesthetic.
+   - **Estimated Cost:** €200/m² (including cladding).
+   - **Potential Energy Savings:** 20-25% reduction in heating demand.
+
+4. **Insulate Floor Above Basement:**
+   - **Intervention:** Install insulation in the floor above the basement.
+   - **Rationale:** Uninsulated floors contribute to heat loss. Insulating the floor will improve comfort and reduce energy consumption.
+   - **Estimated Cost:** €30/m².
+   - **Potential Energy Savings:** 5-10% reduction in heating demand.
+
+**Phase 2: Medium-Term Actions (Moderate Impact, Moderate Cost)**
+1. **Replace Windows:**
+   - **Intervention:** Replace single-glazed windows in bedrooms with double-glazed windows.
+   - **Rationale:** Single glazing has poor thermal performance. Upgrading to double glazing will improve insulation and reduce heat loss.
+   - **Estimated Cost:** €800/unit.
+   - **Potential Energy Savings:** 10-15% reduction in heating demand.
+
+2. **Replace Ventilation System:**
+   - **Intervention:** Upgrade the current ventilation system from Type A to Type C (mechanical air supply and exhaust).
+   - **Rationale:** Type A systems have limited efficiency. Type C systems provide better control over air quality and temperature.
+   - **Estimated Cost:** €17/m².
+   - **Potential Energy Savings:** 5-10% reduction in energy consumption.
+
+**Phase 3: Long-Term Actions (High Impact, High Cost)**
+1. **Install PV Panels:**
+   - **Intervention:** Install photovoltaic (PV) panels on the main roof.
+   - **Rationale:** The building has good potential for PV installation. Generating renewable energy will reduce reliance on the grid and lower electricity costs.
+   - **Estimated Cost:** €275/m².
+   - **Potential Energy Savings:** 30-50% reduction in electricity consumption.
+
+2. **Connect to Heat Grid (Future Consideration):**
+   - **Intervention:** Explore the possibility of connecting to a heat grid in the future.
+   - **Rationale:** Although the current presence of a heat grid is negative, future expansion or changes in local infrastructure could make this a viable option.
+   - **Estimated Cost:** €7000 (connection fee).
+   - **Potential Energy Savings:** Significant reduction in heating demand, depending on the heat grid’s efficiency.
+
+#### Expected Outcomes
+- **Improved EPC Label:** From D to B or A+.
+- **Reduced Energy Consumption:** Estimated 40-60% reduction in heating demand and 30-50% reduction in electricity consumption.
+- **Enhanced Thermal Comfort:** Better insulation and ventilation will improve living conditions.
+- **Cost Savings:** Lower energy bills and potential income from PV panels.
+
+#### Next Steps
+1. **Consult with Professionals:** Engage architects, contractors, and energy experts to finalize the plan and ensure compliance with regulations.
+2. **Obtain Permits:** Check local regulations and obtain necessary permits for the interventions.
+3. **Implement Phase 1:** Prioritize immediate actions to start seeing benefits quickly.
+4. **Monitor and Adjust:** Regularly monitor energy consumption and adjust the plan as needed.
+
+This phased approach ensures a balance between immediate gains, long-term benefits, and cost-effectiveness, tailored to the building’s specific needs and constraints.

@@ -1,0 +1,50 @@
+To move a house from an EPC of 165 to a high-performance rating, you must follow the **"Fabric First"** principle. The most common mistake is replacing a heating system before insulating the shell; this leads to oversized, inefficient equipment and wasted money.
+
+Given that your house is in Ghent (Flanders), you should also align this plan with the **Vlaamse renovatiepremie** (Flemish renovation grants) to maximize cost-effectiveness.
+
+Here is the optimal step-by-step renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Heat Loss)
+*Goal: Reduce the amount of energy needed to keep the house warm.*
+
+1.  **Cavity Wall Insulation (Priority: High):** Since you have cavity walls, **injection insulation** (spouwisolatie) is the most cost-effective upgrade available. It is non-invasive, relatively cheap, and provides an immediate drop in energy consumption.
+2.  **Window Upgrade (Priority: High):** Single glazing is a massive thermal bridge. Since the wooden frames are in good condition, investigate if **slim-profile double glazing** can be retrofitted. If not, replace them with high-efficiency double or triple glazing. This eliminates drafts and condensation.
+3.  **Crawl Space Floor Insulation (Priority: Medium):** A cold floor creates a "chimney effect," pulling cold air upward. Insulating the ceiling of the crawl space (using XPS boards or projection foam) will significantly improve the comfort of the ground floor.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is sealed.*
+
+4.  **Mechanical Ventilation (Priority: High):** Once you insulate the walls and windows, "natural ventilation" is no longer sufficient and can lead to mold and humidity issues. 
+    *   **Recommendation:** Install a **Balanced Ventilation system with Heat Recovery (Type D)**. This recovers heat from outgoing air to warm the incoming fresh air, drastically reducing the load on your heating system.
+
+### Phase 3: Heating System Overhaul
+*Goal: Transition to a low-carbon, high-efficiency heat source.*
+
+5.  **Heat Emission Modernization (Priority: High):** Your current mix (electric convectors, radiators, etc.) is highly inefficient. 
+    *   **Action:** Remove electric convectors (the most expensive way to heat a home). 
+    *   **Action:** Replace old radiators with **Low-Temperature Radiators** or expand the **Underfloor Heating**. This is critical because heat pumps work most efficiently at lower flow temperatures.
+6.  **Heat Pump Installation (Priority: Medium):** Now that the house is insulated and the emitters are modernized, your heat demand is significantly lower. 
+    *   **Recommendation:** Install an **Air-to-Water Heat Pump**. Because you have already insulated the shell, you can install a smaller, cheaper unit that will operate at maximum efficiency (COP).
+
+### Phase 4: Energy Generation
+*Goal: Offset the operational costs of the new heating system.*
+
+7.  **Photovoltaic (PV) Panels (Priority: Medium):** With a heat pump and ventilation system, your electricity consumption will increase, but your gas/oil consumption will vanish.
+    *   **Action:** Install PV panels on the pitched roof. This turns your home into a "prosumer" and protects you from volatile energy prices.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Why? | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **Step 1** | Cavity + Floor Insulation | Stops the primary heat leaks. | Very High (Fast ROI) |
+| **Step 2** | Double/Triple Glazing | Eliminates cold spots and drafts. | High |
+| **Step 3** | Mechanical Ventilation | Prevents moisture/mold in a sealed house. | Essential for Health |
+| **Step 4** | New Emitters $\rightarrow$ Heat Pump | Lowers energy source costs. | High (Long-term) |
+| **Step 5** | Solar Panels | Powers the heat pump for "free." | High (Offset cost) |
+
+### Final Expert Tip for Ghent/Flanders:
+Before starting, contact an **EPC-certified advisor** to perform a "Renovation Advice" (Renovatieadvies). In Flanders, having a formal renovation plan is often a prerequisite to unlocking the highest tiers of government subsidies (**Premies**), which can cover a significant percentage of the costs for insulation, glazing, and heat pumps.

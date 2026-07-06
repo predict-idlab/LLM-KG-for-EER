@@ -1,0 +1,53 @@
+Based on the provided building information, here's a concise and actionable renovation plan to improve the energy efficiency of the building while remaining cost-effective. The plan is tailored to the specific characteristics of the building and its components, and prioritizes interventions based on practicality and long-term benefits:
+
+### **1. Immediate Recommendations (High Priority)**
+#### **Replace Gable Roof**
+- **Action**: Replace the main gable roof.
+- **Reason**: The main roof is not insulated and has historical protection, which could impact energy efficiency. Replacing it with an insulated roof will significantly reduce heat loss.
+- **Estimated Cost**: ~€260/m² (based on provided suggestion list).
+- **Potential Energy Savings**: High.
+
+#### **Insulate Attic Floor**
+- **Action**: Insulate the attic floor to reduce heat loss through the ceiling.
+- **Reason**: The attic floor above the basement is not insulated, leading to potential heat loss.
+- **Estimated Cost**: ~€60/m² (based on provided suggestion list).
+- **Potential Energy Savings**: Moderate.
+
+### **2. Medium-Term Recommendations (Moderate Priority)**
+#### **Insulate Wall on Exterior**
+- **Action**: Insulate the walls on the exterior.
+- **Reason**: The walls are not insulated, leading to heat loss. Exterior insulation is more effective for full brick walls.
+- **Estimated Cost**: ~€200/m² (based on provided suggestion list).
+- **Potential Energy Savings**: High.
+
+#### **Replace Ventilation System**
+- **Action**: Replace the existing ventilation system (Type A) with a more efficient system (Type C or D).
+- **Reason**: A more efficient ventilation system can improve indoor air quality and reduce energy consumption.
+- **Estimated Cost**: ~€3500 + €17/m² (based on provided suggestion list).
+- **Potential Energy Savings**: Moderate.
+
+### **3. Long-Term Recommendations (Lower Priority)**
+#### **Place Air-Water Heat Pump**
+- **Action**: Install an air-water heat pump for space heating and domestic hot water.
+- **Reason**: The current emission system (radiators) is outdated and inefficient. A heat pump can provide significant energy savings.
+- **Estimated Cost**: ~€8000 + €35/m² (based on provided suggestion list).
+- **Potential Energy Savings**: High.
+
+#### **Place PV-Panels on Roof**
+- **Action**: Install photovoltaic (PV) panels on the roof to generate renewable energy.
+- **Reason**: The building has potential for PV installation, and the roof is suitable for panels.
+- **Estimated Cost**: ~€275/m² (based on provided suggestion list).
+- **Potential Energy Savings**: High.
+
+### **4. Additional Considerations**
+- **Asbestos Removal**: Before any roof replacement or insulation work, ensure that any asbestos-containing materials are safely removed.
+- **Historical Protection**: Ensure that any changes to historically protected elements are in compliance with local regulations.
+
+### **Optimal Sequence for Maximum Benefits**
+1. **Replace Gable Roof**: Start with the roof replacement to address the largest source of heat loss.
+2. **Insulate Attic Floor**: Follow up with attic floor insulation to further reduce heat loss.
+3. **Insulate Exterior Walls**: Proceed with exterior wall insulation to enhance overall thermal performance.
+4. **Replace Ventilation System**: Upgrade the ventilation system to improve air quality and energy efficiency.
+5. **Install Heat Pump and PV Panels**: Finally, install the heat pump and PV panels to transition to renewable energy sources.
+
+This plan is designed to maximize energy efficiency improvements while considering cost-effectiveness and practical implementation. The sequence ensures that each intervention builds on the benefits of the previous one, leading to a more sustainable and comfortable living environment.

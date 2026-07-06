@@ -1,0 +1,47 @@
+To maximize energy efficiency while remaining cost-effective for this 1862 detached building, the renovation should follow the "fabric-first" approach. This means we first reduce the energy demand by improving the building envelope before upgrading the heating and energy generation systems.
+
+### **Analysis of Current State**
+*   **Strengths:** The gable roof is already well-insulated, and the wooden window frames are in good state.
+*   **Weaknesses:** All four external walls (cavity walls) are not insulated; all windows use single glazing (high heat loss); the ventilation system is the most basic type (System A).
+*   **Constraints:** No access to a heat grid and no potential for geothermal energy.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: The Building Envelope (Reducing Heat Loss)**
+*The goal here is to stop energy leaks. These are the most cost-effective steps with the highest immediate impact on the EPC score.*
+
+1.  **Insulate Wall Cavities:** Since all walls are `CavityWall` and currently `NotInsulated`, injecting insulation into the cavities is the most cost-effective wall upgrade (Unit Price: 22/m²) compared to interior or exterior insulation.
+2.  **Replace Glazing:** The building has `SingleGlazing`. Since the wooden frames are in `GoodState`, we should **replace the glazing** (Unit Price: 200/m²) rather than replacing the entire window unit (Unit Price: 800/m²). This significantly reduces drafts and heat loss.
+3.  **Insulate Floor Above Basement:** To prevent cold air from the crawl space from entering the living areas, the floor above the basement should be insulated (Unit Price: 30/m²).
+
+#### **Phase 2: Air Quality and Ventilation**
+*Once the envelope is sealed with better glazing and insulation, the natural ventilation (System A) may no longer be sufficient to prevent humidity and ensure air quality.*
+
+4.  **Replace Ventilation System:** Upgrade from System A to a more efficient system (e.g., System C or D) to ensure a healthy indoor climate and minimize heat loss through uncontrolled ventilation.
+
+#### **Phase 3: Heating Generation and Emission (System Upgrade)**
+*With a lowered energy demand, we can now install a smaller, more efficient heating system.*
+
+5.  **Place Emission System on Low Temperature:** Since there is a recorded reason to change the emission system, upgrading to low-temperature emitters is a prerequisite for maximizing the efficiency of a heat pump.
+6.  **Place Air-Water Heat Pump:** Given the lack of geothermal and heat grid options, an Air-Water Heat Pump is the most sustainable and efficient choice to replace the existing boiler.
+
+#### **Phase 4: Renewable Energy (Energy Production)**
+*The final step to maximize the EPC label and reduce operational costs.*
+
+7.  **Place PV-Panels on Roof:** The building has `potentialForPV`. Installing solar panels will offset the electricity consumption of the new heat pump and ventilation system, moving the building toward a net-zero energy balance.
+
+---
+
+### **Summary of Sequence & Logic**
+
+| Sequence | Action | Logic | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Wall Cavity Insulation** | Lowest cost, high impact on thermal mass. | Very High |
+| **2** | **Replace Glazing** | Eliminates the largest source of heat loss. | High (Glazing only) |
+| **3** | **Floor Insulation** | Improves ground-floor thermal comfort. | High |
+| **4** | **Upgrade Ventilation** | Necessary after sealing the envelope. | Moderate |
+| **5** | **Low-Temp Emission** | Prepares the house for a heat pump. | Moderate |
+| **6** | **Air-Water Heat Pump** | Switches to sustainable energy generation. | Moderate/Long-term |
+| **7** | **PV-Panels on Roof** | Offsets the electricity used by new systems. | High (Long-term ROI) |

@@ -1,0 +1,58 @@
+### Renovation Plan for Detached Building (1862)
+
+**Current EPC Score:** 165 (B Label)
+**Primary Goal:** Improve EPC and energy efficiency in a cost-effective manner.
+
+#### Phase 1: Insulation and Thermal Envelope (High Priority)
+1. **Insulate Wall Cavity**
+   - **Action:** Insulate the cavities of `Wall_Front`, `Wall_Left`, `Wall_Rear`, and `Wall_Right` (all cavity walls).
+   - **Rationale:** Cavity wall insulation is cost-effective and significantly reduces heat loss through external walls.
+   - **Note:** Ensure the cavity is suitable for insulation (check for contamination, adequate width, etc.).
+
+2. **Insulate Floor Above Crawl Space**
+   - **Action:** Add insulation to `FloorAboveCrawlSpace`.
+   - **Rationale:** Prevents heat loss to the unconditioned crawl space below.
+
+#### Phase 2: Window Upgrades (Medium Priority)
+3. **Replace Glazing**
+   - **Action:** Upgrade `WindowGlazingBedrooms` and `WindowGlazingLivingArea` from single to double or triple glazing.
+   - **Rationale:** Single glazing contributes to high heat loss. Double glazing will improve thermal performance.
+
+#### Phase 3: Heating System Transition (Medium Priority)
+4. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump to replace the existing boiler (`Generation_System`).
+   - **Rationale:** More energy-efficient than the current system, especially with a well-insulated envelope.
+
+5. **Place Emission System on Low Temperature**
+   - **Action:** Adapt the emission system (radiators, floor heating) to operate at lower temperatures.
+   - **Rationale:** Maximizes the efficiency of the heat pump.
+
+#### Phase 4: Ventilation and Air Quality (Low Priority)
+6. **Replace Ventilation System**
+   - **Action:** Upgrade from `VentilationSystemA` (natural) to a more efficient system (e.g., `VentilationSystemC` or `D`).
+   - **Rationale:** Ensures proper air exchange in a now-sealed envelope.
+
+#### Phase 5: Sustainable Energy Generation (Optional)
+7. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on the gable roof (`RoofMain`).
+   - **Rationale:** Offsets the electricity consumption of the heat pump and ventilation system.
+
+---
+
+### Summary of Sequence and Rationale
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Reduces heat loss through external walls. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents heat loss to the crawl space. |
+| **3** | **Replace Glazing** | Improves thermal performance of windows. |
+| **4** | **Place Air-Water Heat Pump** | More efficient heating with a lower heat demand. |
+| **5** | **Low-Temperature Emission Upgrade** | Maximizes heat pump efficiency. |
+| **6** | **Replace Ventilation System** | Maintains air quality in a sealed envelope. |
+| **7** | **Place PV-Panels on Roof** | Generates renewable energy for the heat pump. |
+
+---
+
+### Notes:
+- **Ordering:** Follow the sequence to maximize cost-effectiveness and energy savings.
+- **Permits:** Check local regulations for any required permits, especially for historical buildings.
+- **Asbestos:** Ensure no asbestos is present before renovations, particularly when working on the roof or walls.

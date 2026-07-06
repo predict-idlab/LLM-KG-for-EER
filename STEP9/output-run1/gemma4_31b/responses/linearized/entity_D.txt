@@ -1,0 +1,43 @@
+### Analysis of Building State
+The building is a relatively modern semi-detached house (constructed in 2017) with an already high level of energy efficiency, indicated by an **EPC score of 87** (which falls within the **A label** category). 
+
+**Current Strengths:**
+*   **Walls & Floors:** The front, rear, and left walls, as well as the floor above the basement, are all classified as **Well Insulated**.
+*   **Flat Roof:** The roof extension (flat roof) is **Well Insulated** and in good state.
+*   **Windows:** Existing windows feature **Double Glazing** and wooden frames in good condition.
+*   **Systems:** The home is already equipped with a **Heat Pump** (Generation System) and a **Ventilation System D** (Mechanical supply and exhaust), both of which are high-performance choices.
+*   **Renewables:** The building already possesses **PV Panels**.
+
+**Identified Weakness:**
+*   **Main Roof:** The `RoofMain` (Gable Roof) is the only significant building element that is only **Moderately Insulated**. 
+
+---
+
+### Proposed Renovation Path
+
+Given the owner's motivation to **Improve the EPC**, and the fact that almost all other elements are already optimized, the renovation strategy should be surgical rather than comprehensive to remain cost-effective.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** This is the only element not rated as "Well Insulated." Improving the insulation of the gable roof will reduce heat loss through the top of the building, providing the most significant gain in energy efficiency for the lowest relative cost.
+*   **Practical Note:** Based on the ontology, ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation problems.
+
+#### Step 2: Glazing Upgrade (Low Priority / Long-term)
+*   **Action:** `replace glazing` (Upgrade to Triple Glazing)
+*   **Reasoning:** While the current double glazing is sufficient for an A-label, upgrading to triple glazing is the only remaining path to further lower the EPC score. 
+*   **Cost-Effectiveness Warning:** Because the EPC is already 87, the marginal utility of triple glazing is low. This should only be pursued if the budget allows and the goal is to reach an A+ rating.
+
+#### Step 3: Systems Maintenance
+*   **Action:** No replacements suggested.
+*   **Reasoning:** The current Heat Pump and Ventilation System D are already state-of-the-art. Replacing them would be a waste of capital and would not significantly improve the EPC.
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | High $\uparrow$ | **Very High** |
+| **2** | **Replace Glazing** | `Windows` | Low $\uparrow$ | **Low** (Diminishing returns) |
+
+**Final Recommendation:** Focus exclusively on **insulating the gable roof**. Since the rest of the building is already "Well Insulated" and uses high-efficiency systems, this single intervention is the most practical and cost-effective way to maximize energy performance and satisfy the owner's motivation to improve the EPC.

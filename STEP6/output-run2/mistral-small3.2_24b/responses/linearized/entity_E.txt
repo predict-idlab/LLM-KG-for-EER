@@ -1,0 +1,85 @@
+### Step 1: Analyze the Building Characteristics
+- **Construction Year**: 1862 (Older building, likely with poor insulation)
+- **Type**: Detached building
+- **Net Floor Area**: 136.0 m²
+- **EPC Score**: 165 (B Label)
+- **Heating System**: Air heating with electric convector and floor heating
+- **Insulation Status**:
+  - `Wall_Rear`, `Wall_Left`, `Wall_Right`, `Wall_Front`: Not insulated
+  - `FloorAboveCrawlSpace`: Not insulated
+  - `RoofMain`: Well insulated
+- **Windows**:
+  - Single glazing (poor thermal performance)
+  - Wooden frames in good condition
+- **Ventilation System**: Type A (natural ventilation)
+- **Potential for PV**: True
+- **Presence of Heat Grid**: False
+- **Potential for Geothermal**: False
+
+### Step 2: Identify Key Renovation Priorities
+1. **Thermal Envelope Improvement** (High Priority):
+   - Insulate walls (exterior or cavity)
+   - Insulate floor above crawl space
+   - Upgrade windows (replace single glazing)
+2. **Heating System Upgrade** (Medium Priority):
+   - Replace electric convector with more efficient system
+   - Consider heat pump if feasible
+3. **Ventilation Upgrade** (Medium Priority):
+   - Upgrade from Type A to Type C or D
+4. **Sustainable Energy Generation** (Long-Term Priority):
+   - Install PV panels if roof is suitable
+
+### Step 3: Propose Renovation Path
+#### Phase 1: Thermal Envelope Optimization
+1. **Insulate Walls On Exterior**:
+   - All four walls are not insulated. Exterior insulation is preferred for cavity walls.
+   - *Reason*: Reduces thermal bridges and improves overall thermal performance.
+
+2. **Insulate Floor Above Crawl Space**:
+   - Currently not insulated. Adding insulation prevents cold air infiltration.
+   - *Reason*: Eliminates drafts and improves comfort.
+
+3. **Replace Glazing**:
+   - All windows have single glazing. Replacing with double or triple glazing improves thermal performance.
+   - *Reason*: Reduces heat loss through windows.
+
+#### Phase 2: Heating System Upgrade
+4. **Place Air-Water Heat Pump**:
+   - Since geothermal potential is "false" and no heat grid is present, an air-water heat pump is a viable alternative.
+   - *Reason*: More efficient than electric convector and compatible with lower temperature emissions.
+
+5. **Place Emission System on Low Temperature**:
+   - Before installing the heat pump, ensure the emission system (floor heating) is compatible with low temperatures.
+   - *Reason*: Maximizes the efficiency of the heat pump.
+
+#### Phase 3: Ventilation Upgrade
+6. **Replace Ventilation System**:
+   - Upgrade from Type A (natural) to Type C or D (mechanical).
+   - *Reason*: Ensures proper air exchange in a now-sealed envelope.
+
+#### Phase 4: Sustainable Energy Generation
+7. **Place PV-Panels on Roof**:
+   - Install solar panels to offset the electricity consumption of the heat pump and ventilation system.
+   - *Reason*: Reduces reliance on grid electricity and improves sustainability.
+
+### Step 4: Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Walls On Exterior** | Reduces thermal bridges and improves overall thermal performance. |
+| **2** | **Insulate Floor Above Crawl Space** | Eliminates drafts and improves comfort. |
+| **3** | **Replace Glazing** | Reduces heat loss through windows. |
+| **4** | **Place Air-Water Heat Pump** | More efficient than electric convector and compatible with lower temperature emissions. |
+| **5** | **Place Emission System on Low Temperature** | Maximizes the efficiency of the heat pump. |
+| **6** | **Replace Ventilation System** | Ensures proper air exchange in a now-sealed envelope. |
+| **7** | **Place PV-Panels on Roof** | Reduces reliance on grid electricity and improves sustainability. |
+
+### Step 5: Final Renovation Plan
+1. **Insulate Walls On Exterior**
+2. **Insulate Floor Above Crawl Space**
+3. **Replace Glazing**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Replace Ventilation System**
+7. **Place PV-Panels on Roof**
+
+This plan ensures a **fabric-first** approach, maximizing energy efficiency while remaining cost-effective. The sequence prioritizes thermal envelope improvements before upgrading heating and ventilation systems, ensuring the most effective use of resources.

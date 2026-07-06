@@ -1,0 +1,53 @@
+### Renovation Plan for Energy Efficiency
+
+Given the building's current state and the ontology, here's a step-by-step renovation plan to maximize energy efficiency while being cost-effective:
+
+#### 1. **Insulation Upgrades**
+   - **Insulate Attic Floor**: The attic floor is not mentioned in the entity, but it's a critical area for heat loss. Insulating it will improve overall thermal performance.
+     - *Cost*: €60 per m²
+     - *Nuisance Level*: Low
+   - **Insulate Gable Roof**: The gable roof (RoofMain) is moderately insulated. Upgrading its insulation will further reduce heat loss.
+     - *Cost*: €60 per m²
+     - *Nuisance Level*: Low
+   - **Insulate Wall Cavity**: The walls (Wall_Front and Wall_Rear) are well insulated, so this step is not necessary.
+
+#### 2. **Window and Glazing Upgrades**
+   - **Replace Glazing**: The windows (WindowsBedrooms and WindowsLivingArea) have double glazing, which is good but not optimal. Upgrading to triple glazing will improve insulation.
+     - *Cost*: €200 per m²
+     - *Nuisance Level*: High
+   - **Replace Windows**: If the window frames (WoodenWindowFrame) are in good condition (state value 8), replacing the glazing alone might suffice. However, if the frames are old or damaged, consider replacing the entire window for better performance.
+     - *Cost*: €800 per m²
+     - *Nuisance Level*: High
+
+#### 3. **Ventilation System Upgrade**
+   - **Replace Ventilation System**: The current ventilation system (VentilationSystemD) is mechanical. Ensure it's energy-efficient and properly maintained.
+     - *Cost*: €3500 (fixed) + €17 per m²
+     - *Nuisance Level*: Moderate
+
+#### 4. **Heating System Upgrade**
+   - **Place Heat Pump Boiler**: The current heating system (EmissionSystem) is a combination of electric convector and floor heating. Replacing it with a heat pump boiler will significantly improve energy efficiency.
+     - *Cost*: €4000 (fixed)
+     - *Nuisance Level*: Moderate
+
+#### 5. **Renewable Energy Integration**
+   - **Place PV-Panels on Roof**: The roof (RoofMain and RoofExtension) is suitable for PV panels. This will generate renewable energy and reduce electricity costs.
+     - *Cost*: €275 per m²
+     - *Nuisance Level*: Low
+   - **Place Sunshade**: Installing sunshades can reduce cooling needs in summer.
+     - *Cost*: €750 (fixed)
+     - *Nuisance Level*: Low
+
+#### 6. **Other Considerations**
+   - **Connect to Heat Grid**: Not applicable as the building does not have a heat grid available (presenceOfHeatGrid false).
+   - **Place Air-Water Heat Pump**: Not necessary as the building already has a heat pump boiler.
+
+### Optimal Sequence
+1. **Insulate Attic Floor**
+2. **Insulate Gable Roof**
+3. **Replace Glazing** (or **Replace Windows** if frames are old)
+4. **Replace Ventilation System**
+5. **Place Heat Pump Boiler**
+6. **Place PV-Panels on Roof**
+7. **Place Sunshade**
+
+This plan prioritizes insulation and heating system upgrades first, followed by renewable energy integration, to maximize energy efficiency and cost savings.

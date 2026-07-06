@@ -1,0 +1,52 @@
+Based on the information provided, here is a step-by-step renovation plan tailored to your semi-detached house in Ghent, Belgium. The plan prioritizes energy efficiency and cost-effectiveness while considering the optimal sequence of upgrades:
+
+### 1. **Insulate the Exterior Walls**
+   - **Action**: Install external wall insulation (EWI) on the solid brick walls.
+   - **Benefits**: This is one of the most impactful upgrades for reducing heat loss and improving the energy performance certificate (EPC) score.
+   - **Considerations**: External insulation is less disruptive than internal insulation and can improve the appearance of the house. Ensure the chosen insulation material is suitable for the local climate.
+
+### 2. **Insulate the Pitched Roof**
+   - **Action**: Add insulation to the pitched roof, which is currently uninsulated.
+   - **Benefits**: Roof insulation is highly effective in reducing heat loss, especially in a pitched roof where heat rises.
+   - **Considerations**: Use high-performance insulation materials like mineral wool or rigid foam boards. Ensure proper ventilation to prevent condensation.
+
+### 3. **Upgrade the Heating System**
+   - **Action**: Replace the existing boiler and outdated heat emission systems (radiators, underfloor heating, and air heating) with a modern, energy-efficient system.
+   - **Options**:
+     - **Heat Pump**: Consider an air-source heat pump, which is suitable for your climate and can significantly reduce energy consumption.
+     - **Condensing Boiler**: If a heat pump is not feasible, install a high-efficiency condensing boiler.
+   - **Benefits**: A modern heating system will improve comfort and reduce energy bills.
+
+### 4. **Insulate the Flat-Roof Extension**
+   - **Action**: Enhance the existing moderate insulation in the flat-roof extension to match the performance of the pitched roof insulation.
+   - **Benefits**: Ensures consistent insulation levels across the entire roof area.
+
+### 5. **Insulate the Floor Above the Basement**
+   - **Action**: Install insulation on the floor above the basement to reduce heat loss through the ground.
+   - **Benefits**: This is a cost-effective way to improve the overall thermal performance of the house.
+
+### 6. **Improve Ventilation System**
+   - **Action**: Upgrade the basic natural ventilation system to a more efficient mechanical ventilation system with heat recovery (MVHR).
+   - **Benefits**: MVHR systems improve indoor air quality and reduce heat loss by recovering heat from exhausted air.
+
+### 7. **Install Photovoltaic (PV) Panels**
+   - **Action**: Assess the suitability of your roof for PV panel installation and consider installing them to generate renewable energy.
+   - **Benefits**: Reduces reliance on grid electricity and lowers energy costs. In Belgium, there may be incentives or feed-in tariffs for solar energy.
+
+### 8. **Window Upgrades (Optional)**
+   - **Action**: Although your windows have double glazing, consider upgrading to triple glazing or high-performance double glazing if your budget allows.
+   - **Benefits**: Further reduces heat loss through windows.
+
+### Optimal Sequence:
+1. **Insulate the exterior walls** (most impactful upgrade).
+2. **Insulate the pitched roof** (next most impactful upgrade).
+3. **Upgrade the heating system** (improves comfort and efficiency).
+4. **Insulate the flat-roof extension and floor above the basement** (ensures consistent insulation).
+5. **Improve the ventilation system** (enhances indoor air quality and efficiency).
+6. **Install PV panels** (generates renewable energy).
+
+### Additional Considerations:
+- **Budgeting**: Prioritize upgrades based on your budget, starting with the most cost-effective and impactful measures.
+- **Professional Consultation**: Consult with energy experts or contractors to ensure the chosen materials and systems are suitable for your specific needs and local building regulations.
+
+This plan should significantly improve your home's energy performance, comfort, and long-term operational efficiency.

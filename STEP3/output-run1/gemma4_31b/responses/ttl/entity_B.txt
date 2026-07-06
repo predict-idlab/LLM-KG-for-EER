@@ -1,0 +1,46 @@
+To maximize energy efficiency and cost-effectiveness for this 1832 attached building, I propose a **"Fabric First"** renovation strategy. This approach ensures that we first reduce the energy demand of the building by improving the thermal envelope before investing in high-efficiency heating systems.
+
+### Analysis of Current State
+*   **Energy Performance:** The EPC score is **262.0 (C Label)**, indicating significant room for improvement.
+*   **Critical Weaknesses:** The flat roof, the floor above the basement, and both main walls (front and rear) are **not insulated**. The ventilation is **Type A** (natural), which is the least efficient.
+*   **Existing Assets:** The windows are already double-glazed with wooden frames in good condition, so replacing them is not a priority.
+*   **Constraints:** Geothermal and heat grid options are unavailable.
+
+---
+
+### Proposed Renovation Path
+
+The sequence is designed to prevent "over-sizing" the heating system and to maximize the ROI of each step.
+
+#### Phase 1: Thermal Envelope (Demand Reduction)
+*Goal: Stop heat loss from the most vulnerable areas.*
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a high-priority area for heat loss.
+2.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated; addressing this prevents cold drafts from the basement.
+3.  **Insulate Walls on Exterior:** Both the front and rear walls are full brick and not insulated. Exterior insulation is preferred over interior insulation to avoid thermal bridging and maintain internal living space.
+
+#### Phase 2: Ventilation & Air Quality
+*Goal: Ensure healthy air exchange without losing the heat gained in Phase 1.*
+4.  **Replace Ventilation System:** Upgrading from **Ventilation System A** to a more modern system (such as Type C or D) will reduce heat loss through uncontrolled air infiltration.
+
+#### Phase 3: Heating System Upgrade (Efficiency)
+*Goal: Transition from fossil fuels to a low-carbon, high-efficiency system.*
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be replaced or modified to low-temperature emitters. This is critical because heat pumps are significantly less efficient when forced to produce high-temperature water.
+6.  **Place Air-Water Heat Pump:** Since geothermal and heat grids are unavailable, an air-water heat pump is the most cost-effective and efficient generation system to replace the old boiler.
+
+#### Phase 4: Renewable Energy (Operational Cost Reduction)
+*Goal: Offset the electricity consumption of the new heat pump.*
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower the long-term operational costs of the electricity-driven heat pump.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Target Element | Justification |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate flat roof` | RoofExtension | High heat loss; not currently insulated. |
+| **2** | `insulate floor above basement` | FloorAboveBasement | Eliminates cold floor effect. |
+| **3** | `insulate wall on exterior` | Wall_Front / Wall_Rear | Primary thermal barrier for the building. |
+| **4** | `replace ventilation system` | VentilationSystem | Prevents heat loss from air leakage. |
+| **5** | `place emission system on low temperature` | EmissionSystem | Necessary prerequisite for heat pump efficiency. |
+| **6** | `place air-water heatpump` | Generation_System | High-efficiency replacement for the boiler. |
+| **7** | `place PV-panels on roof` | RoofMain | Reduces electricity bills for the heat pump. |

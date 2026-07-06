@@ -1,0 +1,53 @@
+Based on the information provided, here’s a concise and actionable renovation plan tailored to your home in Ghent, Belgium. The goal is to maximize energy efficiency while remaining cost-effective, focusing on practical upgrades that reduce energy consumption and improve long-term operational performance.
+
+### 1. **Replace Heating Systems**
+   - **Action:** Replace the existing boiler and heat emission systems (underfloor heating and electric convectors) with a more efficient system.
+   - **Recommendation:** Consider a modern gas condensing boiler paired with low-temperature underfloor heating or a heat pump system (if feasible). Heat pumps are more energy-efficient but may require additional investment.
+   - **Benefit:** Improved heating efficiency, reduced energy consumption, and better EPC score.
+
+### 2. **Upgrade Ventilation System**
+   - **Action:** Ensure the existing ventilation system (D) is well-maintained and optimized for energy efficiency.
+   - **Recommendation:** Install a heat recovery ventilation (HRV) system if not already present. This recovers heat from exhaust air and preheats incoming fresh air, reducing heating demands.
+   - **Benefit:** Improved indoor air quality, reduced heat loss, and lower energy consumption.
+
+### 3. **Enhance Roof Insulation**
+   - **Action:** Improve the insulation of the main pitched roof, which currently has a moderate level of insulation.
+   - **Recommendation:** Add an additional layer of insulation (e.g., mineral wool or rigid foam boards) to the existing insulation to achieve higher thermal performance.
+   - **Benefit:** Reduced heat loss through the roof, improved overall energy efficiency.
+
+### 4. **Optimize Photovoltaic (PV) System**
+   - **Action:** Ensure the existing PV panels are functioning optimally and consider expanding the system if feasible.
+   - **Recommendation:** Check the performance of the PV system and consider adding more panels or a battery storage system to maximize self-consumption of generated electricity.
+   - **Benefit:** Increased renewable energy usage, reduced reliance on grid electricity, and lower energy bills.
+
+### 5. **Seal Air Leakages**
+   - **Action:** Conduct an air tightness test to identify and seal any air leakages around windows, doors, and other openings.
+   - **Recommendation:** Use weatherstripping, sealants, or draft stoppers to minimize air infiltration.
+   - **Benefit:** Reduced heat loss, improved comfort, and better energy efficiency.
+
+### 6. **Smart Thermostat and Controls**
+   - **Action:** Install a smart thermostat and programmable controls for the heating system.
+   - **Recommendation:** Choose a smart thermostat that can learn your habits and optimize heating schedules to reduce energy waste.
+   - **Benefit:** Improved energy management, reduced heating costs, and enhanced comfort.
+
+### 7. **Energy-Efficient Lighting**
+   - **Action:** Replace any remaining incandescent or halogen bulbs with LED lighting.
+   - **Recommendation:** Use LED bulbs and smart lighting controls to further reduce energy consumption.
+   - **Benefit:** Lower electricity usage, reduced energy bills, and longer lifespan of lighting fixtures.
+
+### 8. **Regular Maintenance**
+   - **Action:** Schedule regular maintenance for the heating system, ventilation system, and PV panels.
+   - **Recommendation:** Follow manufacturer guidelines for maintenance to ensure optimal performance and longevity of systems.
+   - **Benefit:** Preventative maintenance can identify issues early, reducing the risk of costly repairs and ensuring systems operate efficiently.
+
+### Optimal Sequence:
+1. **Replace Heating Systems** (High impact on energy efficiency and comfort)
+2. **Upgrade Ventilation System** (Ensures good indoor air quality and energy efficiency)
+3. **Enhance Roof Insulation** (Reduces heat loss through the roof)
+4. **Optimize Photovoltaic System** (Maximizes renewable energy usage)
+5. **Seal Air Leakages** (Minimizes heat loss and drafts)
+6. **Install Smart Thermostat and Controls** (Optimizes heating schedules)
+7. **Replace Lighting** (Low-cost, high-impact improvement)
+8. **Regular Maintenance** (Ensures long-term efficiency and performance)
+
+This plan prioritizes upgrades that have the highest impact on energy efficiency and cost savings, ensuring a practical and effective renovation path.

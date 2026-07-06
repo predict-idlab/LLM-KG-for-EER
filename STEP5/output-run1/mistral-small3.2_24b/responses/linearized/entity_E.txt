@@ -1,0 +1,75 @@
+### Renovation Plan for Detached Building (1862, 136 m², EPC 165)
+
+**Objective:** Improve energy efficiency and EPC label cost-effectively through a phased approach.
+
+---
+
+#### **Phase 1: Thermal Envelope Optimization**
+**Goal:** Minimize heat loss through the building envelope.
+
+1. **Insulate Wall Cavity (Front, Left, Rear)**
+   - *Rationale:* All walls are cavity walls with no insulation. Cavity wall insulation is cost-effective and reduces thermal bridges.
+   - *Priority:* High (immediate impact on heat retention).
+
+2. **Insulate Floor Above Crawl Space**
+   - *Rationale:* The crawl space floor is uninsulated, leading to cold drafts. Insulation here improves comfort and reduces heat loss.
+   - *Priority:* Medium.
+
+3. **Insulate Gable Roof**
+   - *Rationale:* The roof is well-insulated, but gable sections may have gaps. Adding insulation here completes the thermal envelope.
+   - *Priority:* Low (secondary to walls and floor).
+
+---
+
+#### **Phase 2: Window Performance**
+**Goal:** Reduce heat loss through single-glazed windows.
+
+4. **Replace Glazing (All Windows)**
+   - *Rationale:* Single glazing leads to significant heat loss. Upgrading to double or triple glazing will improve thermal performance.
+   - *Priority:* High (critical for comfort and efficiency).
+
+---
+
+#### **Phase 3: Heating System Transition**
+**Goal:** Replace inefficient electric convector with a low-temperature, high-efficiency system.
+
+5. **Place Air-Water Heat Pump**
+   - *Rationale:* The current boiler is inefficient. An air-water heat pump is sustainable and suitable for the building’s new lower heat demand.
+   - *Priority:* Medium.
+
+6. **Place Emission System on Low Temperature**
+   - *Rationale:* Prepares the system for the heat pump by ensuring compatibility with low-temperature operation.
+   - *Priority:* Medium.
+
+---
+
+#### **Phase 4: Ventilation & Air Quality**
+**Goal:** Ensure proper air exchange in a sealed envelope.
+
+7. **Replace Ventilation System (A → C or D)**
+   - *Rationale:* The current natural ventilation (System A) is inadequate for a sealed envelope. Upgrading to System C or D ensures controlled air exchange.
+   - *Priority:* Low (post-insulation).
+
+---
+
+#### **Phase 5: Renewable Energy Generation**
+**Goal:** Offset electricity consumption and improve EPC label.
+
+8. **Place PV-Panels on Roof**
+   - *Rationale:* The building has confirmed PV potential. Installing solar panels will provide renewable electricity for the heat pump and reduce grid dependency.
+   - *Priority:* Low (long-term investment).
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **1** | **Insulate Wall Cavity** | Reduces heat loss through walls. |
+| **2** | **Insulate Floor Above Crawl Space** | Eliminates cold drafts. |
+| **3** | **Replace Glazing** | Reduces heat loss through windows. |
+| **4** | **Place Air-Water Heat Pump** | Replaces inefficient boiler. |
+| **5** | **Place Low-Temperature Emission System** | Prepares for heat pump. |
+| **6** | **Replace Ventilation System** | Ensures air quality in sealed envelope. |
+| **7** | **Place PV-Panels on Roof** | Provides renewable electricity. |
+
+This plan follows the **"Insulate → Ventilate → Generate"** principle, ensuring cost-effective energy efficiency improvements.

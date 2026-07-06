@@ -1,0 +1,49 @@
+### Renovation Analysis & Proposal
+
+**Building Status Overview:**
+The building is a modern (2017) semi-detached house with an exceptionally high baseline energy efficiency. With an **EPC score of 87**, it already falls within the **"A Label"** category (0-100 kWh/m²year). Most critical elements—including the walls, floor above basement, and flat roof extension—are already "Well Insulated." The heating and ventilation systems are also high-performance (Heat Pump and Ventilation System D).
+
+Since the owner's motivation is to further improve the EPC, the focus must shift from major systemic overhauls to "fine-tuning" the thermal envelope and optimizing summer performance.
+
+---
+
+### Proposed Renovation Path
+
+Given the existing high efficiency, the most cost-effective path avoids replacing functioning high-end systems and focuses on the few remaining areas of moderate performance.
+
+#### Phase 1: Thermal Envelope Optimization (High Impact)
+**Target: Gable Roof**
+*   **Observation:** While most of the house is well-insulated, the main gable roof is only **"Moderately Insulated."** This is the primary source of potential heat loss.
+*   **Action:** **Insulate Gable Roof** (`InsulateGableRoof`).
+*   **Rationale:** Improving the roof insulation is the most logical step to push the EPC score lower. It is a low-nuisance intervention that provides a high return on investment in terms of energy retention.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### Phase 2: Glazing Upgrade (Moderate Impact)
+**Target: Windows**
+*   **Observation:** The building currently uses double glazing with wooden frames in "Good State."
+*   **Action:** **Replace Glazing** (`ReplaceGlazing`) to upgrade to Triple Glazing.
+*   **Rationale:** Since the wooden frames are in good condition, it is significantly more cost-effective to replace only the glass panes rather than the entire window unit (`ReplaceWindows`). This reduces the U-value of the windows, further decreasing energy consumption.
+*   **Point of Attention:** Verify that the existing wooden frames have sufficient thickness to support the added weight of triple-pane glass.
+
+#### Phase 3: Passive Cooling & Comfort (Low Cost/High Efficiency)
+**Target: Solar Gain Management**
+*   **Observation:** High-efficiency homes with high insulation and double/triple glazing can suffer from overheating during summer.
+*   **Action:** **Place Sunshade** (`PlaceSunShade`).
+*   **Rationale:** This is a low-cost, low-nuisance upgrade. By reducing solar heat gain, the building reduces its reliance on active cooling (if any) and improves overall operational performance.
+*   **Point of Attention:** Opt for outdoor blinds, as they are more efficient than indoor alternatives.
+
+---
+
+### Summary of Optimal Sequence & Costs
+
+| Sequence | Intervention | Priority | Nuisance | Cost Basis | Goal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Critical | Low | $\approx 60/m^2$ | Eliminate primary heat leak |
+| **2** | **Replace Glazing** | Secondary | High | $\approx 200/m^2$ | Lower U-value of windows |
+| **3** | **Place Sunshade** | Tertiary | Low | Fixed $\approx 750$ | Prevent summer overheating |
+
+**Excluded Interventions:**
+*   **Wall/Floor Insulation:** Already "Well Insulated"; no further gain.
+*   **HVAC Replacement:** The Heat Pump and Ventilation D are already optimal.
+*   **Geothermal/Heat Grid:** Site data indicates no potential for geothermal drilling/captation, and no heat grid is present.
+*   **PV Panels:** Already installed; site has no further potential for expansion.

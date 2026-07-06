@@ -1,0 +1,32 @@
+Based on the provided building data, your house in Ghent, Belgium, is relatively new (built in 2023) and already has a good energy performance certificate (EPC) score of 50. The thermal envelope is well insulated, and the windows are in good condition with double glazing. The house also has photovoltaic (PV) panels installed, which is a great start for renewable energy generation. However, the heating system (boiler with underfloor heating and electric convectors) is no longer in good condition and needs replacement.
+
+Given these factors, the renovation plan should focus on upgrading the heating system to a more efficient and sustainable solution while maintaining the current high level of energy efficiency. Here’s a concise and actionable renovation plan:
+
+### Proposed Renovation Path
+
+**Phase 1: Heating System Upgrade (Priority: High)**
+Since the thermal envelope is already well insulated and the windows are in good condition, the primary focus should be on replacing the outdated heating system with a more efficient and sustainable solution.
+
+1. **Replace Boiler with an Air-Water Heat Pump:**
+   - Given the lack of district heating and geothermal potential, an air-water heat pump is the most viable and efficient alternative to the current boiler.
+   - Ensure the heat pump is sized appropriately for the house’s reduced heat demand due to the well-insulated envelope.
+
+2. **Upgrade Heat Emission Systems:**
+   - Replace the underfloor heating and electric convectors with low-temperature emission systems (e.g., modern underfloor heating or low-temperature radiators) to maximize the efficiency of the heat pump.
+
+**Phase 2: Ventilation System Optimization (Priority: Medium)**
+The house already has a ventilation system D, which is efficient. However, you can optimize it further to ensure it works seamlessly with the new heat pump and maintains indoor air quality.
+
+3. **Integrate Heat Recovery Ventilation (HRV):**
+   - If not already present, integrate a heat recovery ventilation system to preheat incoming air with the heat from outgoing air, reducing the load on the heating system.
+
+**Phase 3: Sustainable Energy Generation (Priority: Low)**
+The house already has PV panels, which is excellent. To further enhance the renewable energy generation, consider the following:
+
+4. **Expand PV Panel Capacity (if feasible):**
+   - Assess the potential to add more PV panels or optimize the existing ones to generate more electricity, which can be used to power the heat pump and other household needs.
+
+### Summary of Optimal Sequence
+**Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **Heat Recovery Ventilation Integration** $\rightarrow$ **PV Panel Expansion (if feasible)**.
+
+This renovation plan ensures that you maximize energy efficiency while remaining cost-effective, focusing on practical upgrades that reduce energy consumption and improve long-term operational performance.

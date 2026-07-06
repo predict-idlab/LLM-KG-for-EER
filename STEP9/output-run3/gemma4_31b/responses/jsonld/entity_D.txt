@@ -1,0 +1,38 @@
+### Analysis of Building State
+The building is a relatively modern **semi-detached house (constructed in 2017)** with an already high level of energy efficiency, evidenced by an **EPC score of 87 (A Label)**. 
+
+Most major components are already optimized:
+*   **Walls and Floors:** All external walls and the floor above the basement are "Well Insulated."
+*   **Windows:** Equipped with double glazing and wooden frames in good condition.
+*   **Technical Systems:** The home already possesses a heat pump, a high-end Ventilation System D, and PV panels.
+*   **Site Constraints:** There is no potential for further geothermal drilling or connection to a heat grid.
+
+The only significant opportunity for improvement in the building envelope is the **main gable roof**, which is currently only **"Moderately Insulated."**
+
+---
+
+### Proposed Renovation Path
+
+Given that the building is already highly efficient, the goal is to move from "A" toward "A+" through targeted, low-impact upgrades rather than expensive overhauls.
+
+#### Step 1: Thermal Envelope Optimization (Priority: High)
+*   **Action:** **Insulate Gable Roof**
+*   **Reasoning:** The `RoofMain` is the only structural element not yet "well insulated." Increasing the insulation grade of the gable roof will reduce heat loss in winter and heat gain in summer, directly lowering the energy score.
+*   **Cost-Effectiveness:** This is more cost-effective than replacing the roof entirely, as the roof is already in a "Good State."
+*   **Ordering:** According to the ontology, this is a primary step (Ordering: 28).
+
+#### Step 2: Passive Cooling & Comfort (Priority: Medium)
+*   **Action:** **Place Sunshades**
+*   **Reasoning:** With an A-label home, the building is likely very airtight. This can lead to overheating during summer months. Installing sunshades is a practical, low-cost way to reduce the cooling load on the heat pump, thereby reducing operational energy consumption.
+*   **Cost-Effectiveness:** This is a low-fixed-cost intervention that prevents the need for higher-energy active cooling (like air conditioning).
+
+---
+
+### Summary of the Plan
+
+| Sequence | Action | Target Element | Impact | Cost Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | Reduces thermal transmission; improves EPC score. | Moderate (Per $m^2$) |
+| **2** | **Place Sunshades** | Windows/Facades | Prevents summer overheating; reduces electricity for cooling. | Low (Fixed Price) |
+
+**Final Conclusion:** Because the building was built in 2017 and is already highly efficient, the most cost-effective path is to avoid "replacement" actions (which would be wasteful) and focus on "insulation" and "passive protection" to maximize the long-term operational performance.

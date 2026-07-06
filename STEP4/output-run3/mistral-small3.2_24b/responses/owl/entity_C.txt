@@ -1,0 +1,16 @@
+Based on the provided building data and the RENO ontology, the property is a recently constructed attached building (2023) with an EPC score of 50 (E Label). The owner's primary motivation is to improve the EPC rating. Given the already high insulation levels and the presence of double-glazed windows, the renovation should focus on optimizing the heating system and improving sustainability.
+
+### Proposed Renovation Path
+
+**Phase 1: Heating System Optimization (Priority: High)**
+1. **Replace Ventilation System (if necessary):** Since the building already has a `VentilationSystemD`, which is a high-efficiency system, no immediate upgrade is needed.
+2. **Place Air-Water Heat Pump:** Given the absence of geothermal potential and heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+3. **Place Emission System on Low Temperature:** Before installing a heat pump, the current electric convectors and floor heating should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+**Phase 2: Sustainable Energy Generation (Priority: Medium)**
+4. **Place PV-Panels on Roof:** Although the building has no confirmed potential for PV, installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system, further improving the EPC label.
+
+**Summary of Optimal Sequence:**
+**Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+This plan ensures that the building's energy efficiency is maximized while remaining cost-effective, focusing on the most impactful upgrades first.

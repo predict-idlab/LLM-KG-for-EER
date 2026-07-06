@@ -1,0 +1,56 @@
+Here's a concise and actionable renovation plan tailored to your home in Ghent, Belgium, focusing on energy efficiency and cost-effectiveness:
+
+### 1. **Insulate the Flat-Roof Extension**
+   - **Priority**: High
+   - **Action**: Install insulation on the flat-roof extension to match the moderate level of insulation in the main pitched roof.
+   - **Benefit**: Reduces heat loss through the roof, improving overall thermal performance.
+   - **Cost-Effectiveness**: High, as it directly addresses a significant heat loss area.
+
+### 2. **Insulate the Exterior Walls**
+   - **Priority**: High
+   - **Action**: Apply external wall insulation (EWI) to the solid brick walls at the front and rear of the house.
+   - **Benefit**: Significantly reduces heat loss through the walls, improving the building's energy performance.
+   - **Cost-Effectiveness**: Moderate to high, considering the long-term energy savings and the avoidance of internal disruption.
+   - **Note**: Ensure the chosen insulation system is compatible with the historic character of the building.
+
+### 3. **Insulate the Floor Above the Basement**
+   - **Priority**: Moderate
+   - **Action**: Install floor insulation above the basement to minimize heat loss through the floor.
+   - **Benefit**: Enhances comfort and reduces heating costs.
+   - **Cost-Effectiveness**: Moderate, as it is less impactful than wall or roof insulation but still beneficial.
+
+### 4. **Replace the Heating System**
+   - **Priority**: High
+   - **Action**: Replace the old boiler and radiator system with a modern, energy-efficient heat pump or condensing boiler.
+   - **Benefit**: Improves heating efficiency and reduces energy consumption.
+   - **Cost-Effectiveness**: High, given the long-term energy savings and potential government incentives for renewable heating systems.
+   - **Note**: Consider a heat pump if the building's insulation levels are significantly improved (steps 1-3).
+
+### 5. **Upgrade the Ventilation System**
+   - **Priority**: Moderate
+   - **Action**: Install a mechanical ventilation system with heat recovery (MVHR) to improve air quality and reduce heat loss.
+   - **Benefit**: Enhances indoor air quality and recovers heat from exhaust air, reducing heating demand.
+   - **Cost-Effectiveness**: Moderate, as it is more expensive than natural ventilation but offers long-term energy savings.
+
+### 6. **Install Photovoltaic Panels**
+   - **Priority**: Moderate
+   - **Action**: Assess the suitability of the roof for photovoltaic (PV) panels and install them to generate renewable electricity.
+   - **Benefit**: Reduces electricity costs and carbon footprint.
+   - **Cost-Effectiveness**: High, considering the potential for feed-in tariffs or net metering in Belgium.
+
+### 7. **Review and Upgrade Windows**
+   - **Priority**: Low
+   - **Action**: Although the current windows have double glazing, consider upgrading to triple glazing or secondary glazing if budget allows.
+   - **Benefit**: Further reduces heat loss through windows.
+   - **Cost-Effectiveness**: Low to moderate, as the existing double glazing is already an improvement over single glazing.
+
+### Optimal Sequence:
+1. **Insulate the flat-roof extension** (quick win with immediate impact).
+2. **Insulate the exterior walls** (most significant impact on energy performance).
+3. **Insulate the floor above the basement** (complements wall insulation).
+4. **Replace the heating system** (ensure it is sized appropriately for the improved insulation).
+5. **Upgrade the ventilation system** (enhances comfort and efficiency).
+6. **Install photovoltaic panels** (generates renewable energy to offset consumption).
+7. **Review and upgrade windows** (if budget and priorities allow).
+
+This plan prioritizes actions that deliver the most significant energy savings and cost-effectiveness, ensuring a practical and phased approach to renovation.

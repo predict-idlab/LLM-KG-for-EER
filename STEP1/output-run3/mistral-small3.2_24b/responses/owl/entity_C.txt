@@ -1,0 +1,71 @@
+### Renovation Plan for the Attached Building
+
+#### **1. Replace Window Glazing (Order 43)**
+- **Action:** Replace the glazing of all windows in the bedrooms and living area.
+- **Type of Glazing:** Double glazing.
+- **Nuisance Level:** High.
+- **Cost:** €200 per m².
+- **Permit Needed:** Not necessary (Flanders).
+- **Note:** Check the condition of the window frames to ensure they are suitable for the new glazing.
+
+#### **2. Insulate Attic Floor (Order 31)**
+- **Action:** Insulate the attic floor.
+- **Nuisance Level:** Low.
+- **Cost:** €60 per m².
+- **Permit Needed:** Not necessary (Flanders).
+- **Note:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation problems.
+
+#### **3. Replace Ventilation System (Order 52)**
+- **Action:** Replace the ventilation system with a new system.
+- **Type of System:** Ventilation system D (mechanical air supply and exhaust).
+- **Nuisance Level:** Moderate.
+- **Cost:** €3500 fixed + €17 per m².
+- **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+- **Note:** Ensure the new system is compatible with the existing ductwork and meets the building's ventilation needs.
+
+#### **4. Replace Generation System (Order 76)**
+- **Action:** Replace the current generation system (boiler) with a heat pump boiler.
+- **Nuisance Level:** Moderate.
+- **Cost:** €4000 fixed.
+- **Permit Needed:** Not necessary (Flanders).
+- **Note:** Ensure the new system is compatible with the existing emission system and meets the building's heating needs.
+
+#### **5. Replace Emission System (Order 70)**
+- **Action:** Replace the current emission system (electric convector and floor heating) with a low-temperature emission system.
+- **Nuisance Level:** Moderate.
+- **Cost:** €100 per m².
+- **Permit Needed:** Not necessary (Flanders).
+- **Note:** Ensure the new system is compatible with the new generation system (heat pump boiler) and meets the building's heating needs.
+
+#### **6. Insulate Walls (Order 40)**
+- **Action:** Insulate the walls on the exterior.
+- **Nuisance Level:** High.
+- **Cost:** €200 per m².
+- **Permit Needed:** Only if the thickness of the total pack >26cm or the building line is overrun (Flanders).
+- **Note:** Ensure the insulation is compatible with the existing cladding and meets the building's insulation needs.
+
+#### **7. Insulate Roof (Order 28)**
+- **Action:** Insulate the main gable roof and the flat roof extension.
+- **Nuisance Level:** Low.
+- **Cost:** €60 per m² for the gable roof and €50 per m² for the flat roof.
+- **Permit Needed:** Not necessary (Flanders).
+- **Note:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation problems.
+
+#### **8. Install PV Panels (Order 85)**
+- **Action:** Install photovoltaic (PV) panels on the roof.
+- **Nuisance Level:** Low.
+- **Cost:** €275 per m².
+- **Permit Needed:** Not necessary if the panels are in the same plane (Flanders).
+- **Note:** Check the orientation and shading of the roof to ensure optimal solar exposure. Also, ensure the roof is free of asbestos before installation.
+
+### Summary of the Renovation Plan:
+1. Replace Window Glazing (Order 43)
+2. Insulate Attic Floor (Order 31)
+3. Replace Ventilation System (Order 52)
+4. Replace Generation System (Order 76)
+5. Replace Emission System (Order 70)
+6. Insulate Walls (Order 40)
+7. Insulate Roof (Order 28)
+8. Install PV Panels (Order 85)
+
+This plan prioritizes the replacement of the glazing and insulation of the attic floor, followed by the replacement of the ventilation, generation, and emission systems. The walls and roofs are then insulated, and finally, PV panels are installed. This sequence ensures that the building is properly insulated and ventilated before the generation and emission systems are replaced, and the PV panels are installed to maximize energy efficiency.

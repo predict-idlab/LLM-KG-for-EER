@@ -1,0 +1,47 @@
+### Renovation Plan for the Semi-Detached Building
+
+#### **1. Insulate Attic Floor (Ordering: 31)**
+   - **Objective**: Improve thermal comfort and reduce energy consumption.
+   - **Action**: Insulate the attic floor using walkable insulation if possible.
+   - **Cost**: €60/m².
+   - **Nuisance Level**: Low.
+   - **Point of Attention**:
+     - Install a vapour barrier on the warm side of the insulation to prevent condensation.
+     - Choose insulation that is walkable if the attic floor is used frequently.
+   - **Permit Needed**: Not necessary in Flanders.
+
+#### **2. Replace Glazing (Ordering: 43)**
+   - **Objective**: Enhance thermal performance of windows.
+   - **Action**: Replace the glazing of the windows in the bedrooms and living area.
+   - **Cost**: €200/m².
+   - **Nuisance Level**: High.
+   - **Point of Attention**:
+     - Ensure window frames are in good condition and have the right thickness for the new glazing.
+   - **Permit Needed**: Not necessary in Flanders if measurements are kept.
+
+#### **3. Connect to Heat Grid (Ordering: 55)**
+   - **Objective**: Transition to a more sustainable heating solution.
+   - **Action**: Connect the building to the local heat grid.
+   - **Cost**: €7000 (fixed).
+   - **Nuisance Level**: Low.
+   - **Point of Attention**:
+     - Check if the emission system corresponds to the supply and return temperatures of the heat grid.
+     - Contact the municipality or grid operator for more information.
+   - **Permit Needed**: Not necessary in Flanders.
+
+#### **4. Place Air-Water Heat Pump with Cooling (Ordering: 73)**
+   - **Objective**: Upgrade the heating system for better efficiency and cooling capability.
+   - **Action**: Install an air-water heat pump with cooling functionality.
+   - **Cost**: €9000 (fixed) + €35/m².
+   - **Nuisance Level**: Moderate.
+   - **Point of Attention**:
+     - Ensure the above-ground parts are at least 2m away from the parcel boundary.
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+### **Summary**
+1. **Insulate Attic Floor** - Improves thermal comfort and reduces energy consumption.
+2. **Replace Glazing** - Enhances the thermal performance of windows.
+3. **Connect to Heat Grid** - Transition to a more sustainable heating solution.
+4. **Place Air-Water Heat Pump with Cooling** - Upgrades the heating system for better efficiency and cooling capability.
+
+This plan maximizes energy efficiency while remaining cost-effective, prioritizing actions that provide the most significant benefits first.

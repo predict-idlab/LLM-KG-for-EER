@@ -1,0 +1,50 @@
+### Renovation Plan:
+
+#### **Current Building Status:**
+- **Type:** Semi-detached building from 2017.
+- **EPC Score:** 87 (A+ label).
+- **Key Elements:**
+  - **RoofMain (Gable Roof):** Moderately insulated.
+  - **RoofExtension (Flat Roof):** Well insulated.
+  - **Walls (Front, Rear, Left):** All well insulated.
+  - **FloorAboveBasement:** Well insulated.
+  - **Windows:**
+    - Living Area: Double-glazed with wooden frames (Good State).
+    - Bedrooms: Double-glazed with wooden frames (Good State).
+  - **Ventilation System:** Type D.
+  - **Heating System:** Heat Pump.
+  - **PV Panels Installed:** Yes.
+
+#### **Owner's Motivation:**
+- **ToImproveEPC:** The owner aims to further improve the EPC label.
+
+#### **Renovation Recommendations:**
+1. **Replace Ventilation System:**
+   - **Action:** Upgrade from **Ventilation System D** to **Ventilation System C**.
+   - **Rationale:** System C is more energy-efficient and better suited for modern, well-insulated homes.
+
+2. **Replace Glazing (Living Area & Bedrooms):**
+   - **Action:** Replace **Double Glazing** with **Triple Glazing** for all windows.
+   - **Rationale:** Triple glazing further reduces heat loss, improving thermal comfort and lowering energy consumption.
+
+3. **Insulate Gable Roof:**
+   - **Action:** Improve insulation of **RoofMain** from "Moderately Insulated" to "Well Insulated".
+   - **Rationale:** Enhances thermal performance and reduces heat loss through the gable roof.
+
+4. **Place Sun Shade (Optional but Recommended):**
+   - **Action:** Install **sun shades** on south-facing windows.
+   - **Rationale:** Reduces solar heat gain in summer, lowering cooling needs and improving comfort.
+
+#### **Optimal Sequence:**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Replace Ventilation System (D → C)** | Reduces energy consumption and improves air quality. |
+| **2** | **Replace Glazing (Double → Triple)** | Enhances thermal performance and reduces heat loss. |
+| **3** | **Insulate Gable Roof** | Improves insulation and lowers energy demand. |
+| **4** | **Place Sun Shade (Optional)** | Reduces solar heat gain and improves summer comfort. |
+
+#### **Cost-Effectiveness & Energy Efficiency:**
+- **Cost-Effective:** The proposed upgrades focus on high-impact, cost-effective measures that maximize energy savings.
+- **Energy Efficiency:** Each step is designed to reduce energy consumption while improving thermal comfort and sustainability.
+
+This plan ensures that the building remains at the forefront of energy efficiency while maintaining cost-effectiveness.

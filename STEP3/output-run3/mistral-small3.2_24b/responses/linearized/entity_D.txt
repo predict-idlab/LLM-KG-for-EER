@@ -1,0 +1,65 @@
+### Step-by-Step Renovation Plan
+
+1. **Insulate Attic Floor**
+   - **Reasoning**: The attic floor is above the living area and bedrooms, and is currently not insulated. Insulating it will improve thermal comfort and energy efficiency.
+   - **Action**: Install insulation with a vapour barrier on the warm side. Ensure the insulation is walkable if needed.
+   - **Nuisance Level**: Low
+
+2. **Insulate Wall Cavity**
+   - **Reasoning**: The walls (Front, Rear, Left) are well insulated but could benefit from cavity wall insulation to further improve thermal performance.
+   - **Action**: Have an inspection carried out by a contractor to determine suitability. Inject insulation if appropriate.
+   - **Nuisance Level**: Low
+
+3. **Replace Glazing (Living Area and Bedrooms)**
+   - **Reasoning**: The windows have double glazing, but replacing them with triple glazing will improve insulation and reduce heat loss.
+   - **Action**: Replace the glazing in the windows, ensuring the frames are in good condition and have the right thickness.
+   - **Nuisance Level**: High
+
+4. **Insulate Gable Roof**
+   - **Reasoning**: The gable roof is moderately insulated. Improving insulation will enhance energy efficiency and comfort.
+   - **Action**: Install insulation, ensuring a vapour barrier is included to prevent condensation. Pay attention to roof underlayment for air- and watertightness.
+   - **Nuisance Level**: Low
+
+5. **Insulate Flat Roof (Extension)**
+   - **Reasoning**: The flat roof is not insulated. Insulating it will improve thermal performance and reduce energy loss.
+   - **Action**: Opt for an inverted roof structure and place insulation on top of the roof covering. Ensure proper drainage.
+   - **Nuisance Level**: High
+
+6. **Place Roof Underlayment**
+   - **Reasoning**: Proper roof underlayment ensures air- and watertightness, which is crucial for insulation performance.
+   - **Action**: Install roof underlayment, paying extra attention to ensure it is completely air- and watertight.
+   - **Nuisance Level**: Low
+
+7. **Replace Ventilation System**
+   - **Reasoning**: The current ventilation system (Type D) may not be optimal. Upgrading will improve air quality and energy efficiency.
+   - **Action**: Replace with a more efficient ventilation system, ensuring proper installation of grilles if needed.
+   - **Nuisance Level**: Moderate
+
+8. **Place Air-Water Heatpump**
+   - **Reasoning**: Installing an air-water heatpump will provide an efficient heating solution, reducing energy consumption.
+   - **Action**: Place the heatpump, ensuring it meets the requirements for the building’s heating needs.
+   - **Nuisance Level**: Moderate
+
+9. **Place Sunshade**
+   - **Reasoning**: Outdoor blinds or shades can reduce solar heat gain, improving thermal comfort and reducing cooling needs.
+   - **Action**: Install sunshades, ensuring they are efficient and durable.
+   - **Nuisance Level**: Low
+
+10. **Place PV Panels on Roof**
+    - **Reasoning**: Installing PV panels will generate renewable energy, reducing the building’s carbon footprint and energy costs.
+    - **Action**: Check roof orientation and potential shading. Install PV panels, ensuring they are securely fixed and meet regulatory requirements.
+    - **Nuisance Level**: Low
+
+### Final Renovation Plan:
+1. **Insulate Attic Floor**
+2. **Insulate Wall Cavity**
+3. **Replace Glazing (Living Area and Bedrooms)**
+4. **Insulate Gable Roof**
+5. **Insulate Flat Roof (Extension)**
+6. **Place Roof Underlayment**
+7. **Replace Ventilation System**
+8. **Place Air-Water Heatpump**
+9. **Place Sunshade**
+10. **Place PV Panels on Roof**
+
+This plan prioritizes actions that maximize energy efficiency and comfort while considering the nuisance level and practicality of each intervention. The sequence ensures that foundational improvements (e.g., insulation) are addressed before more complex installations (e.g., heatpumps and PV panels).

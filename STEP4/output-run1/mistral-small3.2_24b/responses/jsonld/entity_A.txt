@@ -1,0 +1,58 @@
+### Renovation Plan:
+
+**Objective:** Improve the Energy Performance Certificate (EPC) score of the property from 388 (D label) to a higher rating through cost-effective measures.
+
+**Building Details:**
+- **Type:** Semi-detached building
+- **Construction Year:** 1951
+- **Location:** Belgium (Postal Code: 9000)
+- **EPC Score:** 388 (D label)
+- **Owner's Motivation:** To improve the EPC rating
+- **Potential for PV:** True
+- **Presence of Heat Grid:** False
+- **Reason to Change Emission System:** True
+
+**Renovation Path:**
+
+1. **Insulate Roof Main (Gable Roof)**
+   - **Action:** Insulate the main roof which is currently not insulated.
+   - **Rationale:** Gable roofs are more complex to insulate, but it is a priority to prevent heat loss through the top of the building.
+   - **Expected Impact:** Significant improvement in thermal performance.
+
+2. **Insulate Wall on Exterior (Front and Rear Walls)**
+   - **Action:** Insulate the exterior walls which are full brick and not insulated.
+   - **Rationale:** Exterior insulation is more effective for full brick walls and helps eliminate thermal bridges.
+   - **Expected Impact:** Reduces heat loss through walls and improves overall energy efficiency.
+
+3. **Insulate Flat Roof (Roof Extension)**
+   - **Action:** Insulate the flat roof extension which is currently moderately insulated.
+   - **Rationale:** Flat roofs are prone to heat loss, and improving insulation here will enhance energy efficiency.
+   - **Expected Impact:** Improves thermal comfort and reduces energy consumption.
+
+4. **Replace Ventilation System (Ventilation System A to Ventilation System D)**
+   - **Action:** Upgrade the ventilation system from natural air supply and exhaust (System A) to mechanical air supply and exhaust (System D).
+   - **Rationale:** A more efficient ventilation system ensures better air quality and reduces energy loss.
+   - **Expected Impact:** Enhances indoor air quality and energy efficiency.
+
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Rationale:** Air-water heat pumps are efficient and suitable for buildings without a heat grid.
+   - **Expected Impact:** Reduces reliance on fossil fuels and improves heating efficiency.
+
+6. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on the roof to generate renewable electricity.
+   - **Rationale:** The building has confirmed potential for PV, and solar panels will offset electricity consumption.
+   - **Expected Impact:** Generates clean energy and reduces electricity costs.
+
+**Summary of Sequence and Rationale:**
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| 1        | Insulate Roof Main (Gable Roof) | Prevents heat loss through the top of the building. |
+| 2        | Insulate Wall on Exterior (Front and Rear Walls) | Reduces heat loss through walls and improves overall energy efficiency. |
+| 3        | Insulate Flat Roof (Roof Extension) | Enhances energy efficiency and thermal comfort. |
+| 4        | Replace Ventilation System (System A to System D) | Ensures better air quality and reduces energy loss. |
+| 5        | Place Air-Water Heat Pump | Reduces reliance on fossil fuels and improves heating efficiency. |
+| 6        | Place PV-Panels on Roof | Generates clean energy and reduces electricity costs. |
+
+This renovation plan is designed to maximize energy efficiency and improve the EPC score in a cost-effective manner, following the "Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate" sequence.

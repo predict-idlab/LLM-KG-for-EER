@@ -1,0 +1,9 @@
+1. replace flat roof
+2. insulate gable roof
+3. replace glazing
+4. insulate wall on exterior
+5. place air-water heatpump
+6. place emission system on low temperature
+7. replace ventilation system
+8. place pv-panels on roof
+9. place sunshade

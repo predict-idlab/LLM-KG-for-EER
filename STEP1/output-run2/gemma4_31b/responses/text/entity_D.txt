@@ -1,0 +1,48 @@
+Given the specifications of your home, you are starting from a very strong baseline. A house built in 2017 with a heat pump, Type D ventilation, and PV panels is already significantly more efficient than the average Belgian housing stock. 
+
+An EPC score of 87 is respectable, but because your "envelope" (walls, floors, windows) is already mostly high-performing, the remaining gains will come from **targeting the single weakest link** and **optimizing system synergy**.
+
+Here is your concise, actionable renovation plan, ordered by priority to maximize the ROI of every euro spent.
+
+### Phase 1: The "Low-Hanging Fruit" (High Impact, Low Cost)
+*Before investing in structural changes, optimize the existing high-tech systems.*
+
+1.  **Ventilation D Tuning & Maintenance:** 
+    *   **Action:** Perform a professional balancing of your Type D ventilation system and replace all filters.
+    *   **Why:** If the air exchange rate is too high, you are wasting heat; if it's too low, air quality drops. Proper tuning ensures the heat recovery unit is operating at peak efficiency.
+2.  **Heat Pump Calibration:** 
+    *   **Action:** Audit the "flow temperature" of your heat pump. 
+    *   **Why:** Heat pumps lose efficiency rapidly as the target temperature increases. Lowering the flow temperature by even 1-2°C (while maintaining comfort) can significantly reduce electricity consumption.
+3.  **Window Seal Audit:**
+    *   **Action:** Check the perimeter seals of the 2020 double-glazing installations for drafts.
+    *   **Why:** Even high-quality glass is rendered ineffective if the frame-to-wall seal has degraded or was improperly installed.
+
+### Phase 2: The Strategic Upgrade (Medium Cost, High Impact)
+*Based on your data, the main pitched roof is the only significant thermal weakness in your building envelope.*
+
+4.  **Pitched Roof Insulation Upgrade:**
+    *   **Action:** Increase the insulation thickness of the main pitched roof. Depending on the current construction, this can be done via "over-roofing" (adding insulation above the current layer) or adding mineral wool/PIR boards in the attic space.
+    *   **Why:** Heat rises. Since your walls and floor are already "well insulated," the roof is currently your primary source of heat loss. Moving from "moderate" to "high" insulation here will have the most direct impact on lowering your EPC score.
+
+### Phase 3: Energy Management & Autonomy (Investment for Future-Proofing)
+*Since your hardware is already modern, the goal shifts from "reducing loss" to "optimizing gain."*
+
+5.  **Smart Energy Management System (HEMS):**
+    *   **Action:** Install a Home Energy Management System to synchronize your PV panels, heat pump, and appliances.
+    *   **Why:** You already have PV panels. The goal is to ensure the heat pump runs primarily during peak production hours (thermal buffering) rather than during expensive peak-tariff hours.
+6.  **Selective Window Enhancements:**
+    *   **Action:** Rather than replacing the 2020 double glazing (which would not be cost-effective), install high-quality exterior solar shading (blinds or shutters) on south-facing windows.
+    *   **Why:** This prevents overheating in the summer, reducing the need for energy-intensive cooling/ventilation.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Priority | Action | Target | Cost | Energy Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Tuning** | Ventilation D & Heat Pump | Low | Medium |
+| **2** | **Insulation** | Main Pitched Roof | Medium | High |
+| **3** | **Sealing** | Window/Frame gaps | Low | Low/Medium |
+| **4** | **Management**| Smart HEMS / PV Sync | Medium | Medium |
+
+**Expert Tip for Ghent/Flanders:** Before starting Phase 2, check the current **Mijn VerbouwPremie** (My Renovation Premium) guidelines. Since your house is from 2017, you may still be eligible for subsidies on roof insulation, which would significantly lower the cost of the most impactful step in this plan.

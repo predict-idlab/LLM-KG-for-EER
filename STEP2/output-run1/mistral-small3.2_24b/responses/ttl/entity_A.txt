@@ -1,0 +1,56 @@
+Based on the provided RENO ontology and the building's specific characteristics, here's a cost-effective and energy-efficient renovation plan that prioritizes actions with the highest impact on energy efficiency and long-term savings:
+
+### Priority 1: Roof and Wall Insulation
+1. **Insulate Gable Roof (ex:RoofMain)**
+   - Current state: Not insulated (reno:NotInsulated)
+   - Action: Insulate gable roof (reno:InsulateGableRoof)
+   - Why: Roofs account for significant heat loss; insulating will improve thermal comfort and reduce heating costs.
+   - Cost: €60/m²
+
+2. **Insulate Wall Cavity (ex:Wall_Front, ex:Wall_Rear, ex:Wall_Right)**
+   - Current state: Not insulated (reno:NotInsulated)
+   - Action: Insulate wall cavity (reno:InsulateWallCavity)
+   - Why: Walls are another major source of heat loss; cavity insulation is cost-effective.
+   - Cost: €22/m²
+
+### Priority 2: Windows and Glazing
+3. **Replace Glazing (ex:WindowGlazingBedrooms, ex:WindowGlazingLivingArea)**
+   - Current state: Double glazing (reno:DoubleGlazing)
+   - Action: Upgrade to triple glazing (reno:ReplaceGlazing with reno:TripleGlazing)
+   - Why: Triple glazing provides better insulation, reducing heat loss through windows.
+   - Cost: €200/m²
+
+### Priority 3: Ventilation and Heating System
+4. **Replace Ventilation System (ex:VentilationSystem)**
+   - Current state: Natural ventilation (reno:VentilationSystemA)
+   - Action: Upgrade to mechanical ventilation with heat recovery (reno:ReplaceVentilationSystem with reno:VentilationSystemD)
+   - Why: Mechanical ventilation with heat recovery improves air quality and recovers heat from exhaust air.
+   - Cost: €3500 (fixed) + €17/m²
+
+### Priority 4: Floor Insulation
+5. **Insulate Floor Above Basement (ex:FloorAboveBasement)**
+   - Current state: Not insulated (reno:NotInsulated)
+   - Action: Insulate floor above basement (reno:InsulateFloorAboveBasement)
+   - Why: Insulating floors reduces heat loss to unheated spaces.
+   - Cost: €30/m²
+
+### Priority 5: Renewable Energy
+6. **Place PV-Panels on Roof (ex:RoofMain)**
+   - Current state: No PV panels
+   - Action: Install PV panels on the roof (reno:PlacePVPanelsOnRoof)
+   - Why: Generates renewable energy, reducing reliance on grid electricity.
+   - Cost: €275/m²
+
+### Additional Considerations:
+- **Asbestos Check**: Before starting any roof or wall insulation work, check for asbestos (reno:RemoveAsbestosFlatRoof, reno:RemoveAsbestosGableRoof).
+- **Emission System**: Consider upgrading the emission system to a low-temperature system (reno:PlaceLowTemperatureEmission) if the heating system is also being upgraded.
+
+### Implementation Sequence:
+1. Start with roof insulation (high impact on heat loss).
+2. Proceed with wall cavity insulation.
+3. Upgrade windows and glazing.
+4. Replace the ventilation system.
+5. Insulate the floor above the basement.
+6. Install PV panels as a final step to maximize energy generation.
+
+This plan focuses on maximizing energy efficiency through insulation and upgrading systems, while also incorporating renewable energy generation. The sequence ensures that each step builds on the previous improvements, enhancing overall effectiveness.

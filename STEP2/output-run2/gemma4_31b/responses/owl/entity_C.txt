@@ -1,0 +1,43 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation plan.
+
+### Building Analysis
+The building is a modern **attached house (constructed in 2023)** with an already excellent energy performance score (**EPC: 50**, which falls within the **A label** category). Most structural elements—walls, flat roof, and floor above basement—are already "Well Insulated." The ventilation system (System D) is also high-performing.
+
+However, there are two primary areas for improvement to further maximize energy efficiency and operational performance:
+1.  **Thermal Envelope Gap:** The gable roof is only "Moderately Insulated," making it the weakest point in the building's thermal shell.
+2.  **Heating Inefficiency:** The building currently relies on **electric convectors** (which are energy-intensive) and a boiler. The data explicitly indicates a **reason to change the emission system**.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow a **"Fabric First"** approach—optimizing the building shell before upgrading the technical installations.
+
+#### Step 1: Thermal Envelope Optimization
+*   **Action:** **Insulate Gable Roof**
+*   **Reasoning:** While the rest of the house is well-insulated, the gable roof is the only element rated as "moderately insulated." Improving this prevents heat loss through the top of the building.
+*   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+*   **Cost-Effectiveness:** High. This is a lower-cost intervention compared to replacing the roof and provides immediate reductions in heating demand.
+
+#### Step 2: Heating System Modernization
+*   **Action:** **Place Air-Water Heat Pump**
+*   **Reasoning:** The building has a stated need to change its emission system and currently uses inefficient electric convectors. Since the building already has **floor heating** (a low-temperature emission system), it is perfectly suited for an air-water heat pump.
+*   **Constraint Check:** Geothermal options (vertical and horizontal) were ruled out based on the site's potential data. A heat grid is also unavailable.
+*   **Benefit:** This replaces the boiler and electric convectors with a sustainable, high-efficiency system, significantly lowering long-term operational costs.
+
+#### Step 3: Domestic Hot Water Efficiency
+*   **Action:** **Place Heat Pump Boiler**
+*   **Reasoning:** To complement the air-water heat pump, upgrading the water heating to a heat pump boiler ensures that domestic hot water is produced using the most energy-efficient method available.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Renovation Action | Priority | Focus | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Thermal Shell | Reduces heat loss; closes the "gap" in insulation. |
+| **2** | **Place Air-Water Heat Pump** | High | Generation | Replaces inefficient electric heating with sustainable tech. |
+| **3** | **Place Heat Pump Boiler** | Medium | Generation | Optimizes domestic hot water energy consumption. |
+
+### Final Expert Recommendation
+Because the building is nearly new (2023) and already has an A-label EPC, **avoid** replacing windows or walls, as the return on investment (ROI) would be negligible. The focus is strictly on **closing the thermal gap in the roof** and **transitioning from electric/boiler heating to heat pump technology** to minimize the carbon footprint and operational costs.

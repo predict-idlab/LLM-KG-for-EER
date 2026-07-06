@@ -1,0 +1,44 @@
+Based on the provided building data and the RENO ontology, the property is a historic attached building (1832) with a current EPC score of 262 (C label). While the owner's primary motivation is to improve the EPC, the building has significant "thermal leaks" in the roof extension, walls, and flooring.
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow the **"Fabric First"** principle: reduce the energy demand through insulation before upgrading the technical heating and generation systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Highest ROI)
+*These steps address the "Not Insulated" elements to drastically reduce heat loss.*
+1.  **Insulate Flat Roof (Roof Extension):** The flat roof is currently not insulated. This is a high-priority area for heat loss. 
+    *   *Action:* **Insulate flat roof** (Ordering: 25). 
+    *   *Attention:* Use an inverted roof structure; place insulation on top of the roof covering.
+2.  **Exterior Wall Insulation (Front & Rear Walls):** Both full-brick walls are not insulated. Since there is no historical protection, exterior insulation is the most effective method.
+    *   *Action:* **Insulate wall on exterior** (Ordering: 40).
+    *   *Attention:* Be mindful of the building line; a permit is needed if the total pack thickness exceeds 26cm.
+3.  **Floor Insulation:** The floor above the basement is not insulated.
+    *   *Action:* **Insulate floor above basement** (Ordering: 49).
+
+#### Phase 2: Ventilation and Air Quality
+*Once the building is sealed via insulation, mechanical ventilation is necessary to prevent condensation and ensure air quality.*
+4.  **Upgrade Ventilation:** The building currently uses Ventilation System A (natural supply/exhaust), which is the least efficient.
+    *   *Action:* **Replace ventilation system** (Ordering: 52).
+    *   *Attention:* Consider a System D (mechanical supply and exhaust) for maximum energy recovery.
+
+#### Phase 3: High-Efficiency Heating Transition
+*With a reduced thermal load, the heating system can be downsized and electrified.*
+5.  **Replace Boiler with Heat Pump:** There is a confirmed reason to change the emission system, and geothermal options are not viable for this site. Given the existing radiator system, an air-to-water system is the most compatible.
+    *   *Action:* **Place air-water heatpump** (Ordering: 67).
+    *   *Attention:* Ensure the heat pump is placed at least 2m from the parcel boundary to avoid permit requirements.
+
+#### Phase 4: Renewable Energy Integration
+*Offset the electricity consumption of the new heat pump and ventilation system.*
+6.  **Solar Energy Installation:** The building has confirmed potential for PV.
+    *   *Action:* **Place PV-panels on roof** (Ordering: 85).
+    *   *Attention:* Ensure the roof is properly oriented (South) for maximum yield.
+
+### Summary of Optimal Sequence
+| Sequence | Intervention | Focus | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor | **Insulation** | Reduces energy demand first. |
+| **2** | Ventilation System | **Air Quality** | Prevents moisture in a sealed envelope. |
+| **3** | Air-Water Heat Pump | **Generation** | Replaces old boiler with efficient electric heat. |
+| **4** | PV Panels | **Renewables** | Lowers operational costs of the new systems. |
+
+**Cost-Effectiveness Note:** By insulating first, the required capacity (and therefore the cost) of the Air-Water Heat Pump can be reduced, as the building will require significantly less energy to maintain temperature.

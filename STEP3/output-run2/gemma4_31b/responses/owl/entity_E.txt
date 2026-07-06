@@ -1,0 +1,38 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century detached building, I propose a **"Fabric First"** renovation strategy. By first reducing the energy demand of the building envelope, we can install a smaller, more efficient heating system and maximize the impact of renewable energy.
+
+### Phase 1: Thermal Envelope Optimization (Low-Hanging Fruit)
+The priority is to stop heat loss using the most cost-effective methods available.
+
+1.  **Insulate Wall Cavities:** The building has four cavity walls that are currently not insulated. This is the most cost-effective upgrade available (Unit Price: 22/m², Nuisance: Low). 
+2.  **Insulate Floor Above Basement:** Since the building has a floor above a basement, adding insulation here prevents cold drafts from the crawl space (Unit Price: 30/m², Nuisance: Low).
+3.  **Replace Glazing:** The window frames are in good condition (State: 8), so replacing the entire window is unnecessary and costly. Instead, replace the **Single Glazing** with high-efficiency double or triple glazing to significantly reduce thermal loss (Unit Price: 200/m², Nuisance: High).
+
+### Phase 2: Ventilation and Air Quality
+Before sealing the house further or upgrading heating, we must ensure healthy air exchange.
+
+4.  **Replace Ventilation System:** The current "System A" (natural ventilation) is inefficient. Upgrading to a more modern system (e.g., System C or D) will prevent moisture buildup and heat loss associated with natural drafts (Fixed Price: 3500, Unit Price: 17/m²).
+
+### Phase 3: High-Efficiency Heating Transition
+With a well-insulated envelope, the energy required to heat the home is now minimized, allowing for a more efficient system.
+
+5.  **Place Air-Water Heat Pump:** Since the building owner wants to change the emission system, and geothermal options are not viable for this site, an Air-Water Heat Pump is the optimal choice. It replaces the inefficient electric convectors and air heating with a sustainable, low-carbon alternative (Fixed Price: 8000, Unit Price: 35/m²).
+
+### Phase 4: Renewable Energy Integration
+The final step is to offset the electricity consumption of the new heat pump.
+
+6.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels on the roof will lower operational costs and further improve the EPC label, aligning with the owner's primary motivation (Unit Price: 275/m², Nuisance: Low).
+
+---
+
+### Summary of the Renovation Path & Sequence
+
+| Sequence | Action | Logic | Cost Profile |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavities** | Highest ROI; easiest installation. | Very Low |
+| **2** | **Insulate Floor** | Prevents ground-level heat loss. | Low |
+| **3** | **Replace Glazing** | Eliminates major thermal bridges. | Moderate |
+| **4** | **Upgrade Ventilation** | Ensures air quality in a sealed home. | Moderate |
+| **5** | **Air-Water Heat Pump** | Efficient heating for a reduced load. | High |
+| **6** | **PV-Panels on Roof** | Offsets electricity costs of the pump. | Moderate |
+
+**Expected Outcome:** This path transforms a building from 1862 into a modern, energy-efficient home, significantly improving the EPC score while avoiding the unnecessary cost of replacing structural elements (like the roof or window frames) that are already in good condition.

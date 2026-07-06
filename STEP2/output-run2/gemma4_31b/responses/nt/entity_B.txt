@@ -1,0 +1,34 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building, the renovation should follow the **"Envelope First"** principle. By first reducing heat loss, we can install a smaller, more efficient heating system, thereby reducing both capital expenditure and long-term operational costs.
+
+### **Phase 1: Thermal Envelope Optimization (High Priority)**
+The building has several critical gaps in insulation. Addressing these first will significantly lower the energy score (EPC) and improve thermal comfort.
+
+1.  **Insulate Flat Roof (Extension):** The extension roof is currently not insulated. This is a high-priority, cost-effective win.
+2.  **Insulate Walls on Exterior:** Both the front and rear walls are full brick and not insulated. Since there is no historical protection, exterior insulation is the most effective way to eliminate thermal bridges and reduce heat loss.
+3.  **Insulate Floor Above Basement:** The floor is currently not insulated. Adding insulation here prevents "cold feet" and reduces the heating load from the bottom up.
+4.  **Upgrade Gable Roof Insulation:** While the main roof is "moderately insulated," upgrading this to a "well insulated" state will further seal the building envelope.
+
+### **Phase 2: Ventilation & Air Quality**
+Once the envelope is sealed, the existing Ventilation System A (natural supply) will be insufficient and may lead to moisture issues.
+
+5.  **Replace Ventilation System:** Upgrade to a more modern system (e.g., System D) to introduce heat recovery, ensuring that the heat saved in Phase 1 is not lost through ventilation.
+
+### **Phase 3: Sustainable Heating & Generation**
+With a highly insulated envelope, the building's energy demand is now low enough to transition from a boiler to a high-efficiency heat pump.
+
+6.  **Place Emission System on Low Temperature:** Since the owner is motivated to change the emission system and currently uses radiators, transitioning to low-temperature emitters is essential to maximize the Coefficient of Performance (COP) of a heat pump.
+7.  **Place Air-Water Heat Pump:** Since geothermal drilling is not possible at this site and there is no heat grid, an air-water heat pump is the most cost-effective and efficient alternative to the current boiler.
+8.  **Place Heat Pump Boiler:** Install a dedicated heat pump boiler for domestic hot water to further decouple water heating from space heating.
+
+### **Phase 4: Renewable Energy Integration**
+The final step is to offset the electricity consumption of the new heat pump.
+
+9.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower operational energy costs and significantly improve the final EPC label.
+
+### **Summary of Optimal Sequence**
+**Insulation (Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor)** $\rightarrow$ **Ventilation** $\rightarrow$ **Low-Temp Emitters** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **PV Panels**.
+
+**Why this path?**
+*   **Cost-Effective:** It avoids replacing elements in "Good State" (like window frames) and focuses on adding value where it is missing (insulation).
+*   **Energy-Efficient:** It prevents the common mistake of installing a large heating system in a "leaky" house.
+*   **Practical:** It respects the site's constraints (no geothermal/heat grid) and the owner's specific motivation to improve the EPC.

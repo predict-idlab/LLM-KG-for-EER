@@ -1,0 +1,61 @@
+### **Step-by-Step Analysis and Renovation Plan**
+
+#### **1. Understanding the Building and Its Current State**
+- **Building Type:** Detached house (136 m²) built in 1862.
+- **Current EPC Score:** 165 kWh/m²/year (E label).
+- **Elements to Consider:**
+  - **Roof:** Gable roof (well insulated).
+  - **Walls:** Front, rear, left, and right walls are cavity walls (not insulated).
+  - **Windows:** Single-glazed wooden windows in bedrooms and living area (poor insulation).
+  - **Emission System:** Electric convector, radiator, floor heating, and air heating (potentially outdated or inefficient).
+  - **Ventilation System:** Type A (natural air supply and exhaust).
+  - **Generation System:** Boiler (type not specified).
+  - **Other:** No asbestos detected; potential for PV panels (but no heat grid available).
+
+#### **2. Prioritization of Renovation Actions**
+Based on the **Reno ontology** and the **suggestion list**, the most impactful and cost-effective actions are:
+
+##### **A. Roof and Wall Insulation**
+- **Replace Gable Roof (if needed):** Not necessary since the roof is already well-insulated.
+- **Insulate Wall Cavity (Front, Rear, Left, Right):** High priority due to poor current insulation. This will significantly reduce heat loss.
+- **Insulate Wall on Exterior:** Consider if the cavity wall insulation is not sufficient or if the walls are in poor condition.
+- **Insulate Attic Floor (if applicable):** Not relevant here since no attic space is mentioned.
+
+##### **B. Window Replacement**
+- **Replace Glazing:** Replace single-glazed windows with double or triple glazing (high impact on thermal comfort and energy efficiency).
+- **Replace Windows (if frames are in poor condition):** Not necessary since the wooden window frames are in good condition.
+
+##### **C. Heating and Ventilation Systems**
+- **Replace Ventilation System:** Upgrade from Type A to Type B or C for better efficiency.
+- **Connect to Heat Grid:** Not possible (no heat grid available).
+- **Place Air-Water Heat Pump:** Consider if the current emission system is inefficient (e.g., electric convectors).
+- **Place Emission System on Low Temperature:** Optimize the heating system for better efficiency.
+
+##### **D. Renewable Energy**
+- **Place PV Panels on Roof:** High potential for solar energy generation (assuming roof orientation and shading are favorable).
+
+#### **3. Proposed Renovation Plan (Ordered by Priority)**
+| **Action**                          | **Reason**                                                                                     | **Estimated Cost**       |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------|
+| **1. Insulate Wall Cavity**       | Reduce heat loss through poorly insulated walls.                                               | ~€22/m² x (Wall Area)   |
+| **2. Replace Glazing**             | Upgrade single-glazed windows to double/triple glazing for better thermal performance.          | ~€200/m²                |
+| **3. Replace Ventilation System**  | Upgrade to Type B or C for better air quality and energy efficiency.                            | ~€3500 + €17/m²         |
+| **4. Place Air-Water Heat Pump**   | Replace inefficient electric convectors/radiators with a heat pump for lower energy consumption. | ~€8000 + €35/m²         |
+| **5. Place PV Panels on Roof**     | Generate renewable energy to offset electricity consumption.                                     | ~€275/m²                |
+
+#### **4. Additional Considerations**
+- **Asbestos Removal:** Not needed (no asbestos detected).
+- **Heat Grid Connection:** Not feasible (no heat grid available).
+- **Sunshades/Air Conditioning:** Not necessary at this stage (unless thermal comfort is a major concern).
+
+#### **5. Expected Outcomes**
+- **Energy Efficiency:** Significant reduction in energy consumption (potential EPC improvement to B or A label).
+- **Thermal Comfort:** Better insulation and heating system will improve indoor comfort.
+- **Cost Savings:** Lower energy bills due to reduced consumption and renewable energy generation.
+
+#### **6. Next Steps**
+1. **Consult a Professional:** Engage a certified energy expert to assess the building and confirm the feasibility of the proposed actions.
+2. **Obtain Permits:** Check local regulations for required permits (e.g., for wall insulation or PV panel installation).
+3. **Implement Phase-by-Phase:** Prioritize actions based on budget and urgency (e.g., start with wall insulation and window glazing before upgrading the heating system).
+
+This plan ensures a **cost-effective, energy-efficient, and practical** approach to renovating the building while adhering to the **Reno ontology** and **suggestion list**.

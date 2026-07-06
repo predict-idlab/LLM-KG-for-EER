@@ -1,0 +1,59 @@
+Based on the provided RENO ontology and the building-related information, here is a practical and cost-effective renovation plan that prioritizes energy efficiency and long-term operational performance:
+
+### Step 1: Insulate Exterior Walls
+**Action:** Insulate the cavity walls (Front, Left, Rear, Right) of the building.
+**Reason:** The walls are currently not insulated (NotInsulated), which is a significant source of heat loss.
+**Method:** Use injection insulation for cavity walls. This is a cost-effective method that does not require major structural changes.
+**Estimated Cost:** Approximately €22 per m² (based on the ontology's InsulateWallCavity suggestion).
+**Priority:** High
+**Note:** Ensure the cavity is wide enough and free from contamination before injection.
+
+### Step 2: Replace Single-Glazed Windows
+**Action:** Replace the single-glazed windows in both the Bedrooms and LivingArea with double-glazed windows.
+**Reason:** Single-glazing has poor thermal and acoustic properties, leading to significant heat loss.
+**Method:** Choose double-glazed windows with a thermal break in the frame to improve insulation further.
+**Estimated Cost:** Approximately €200 per m² (based on the ontology's ReplaceGlazing suggestion).
+**Priority:** High
+**Note:** Ensure the window frames are in good condition and have the right thickness for the new glazing.
+
+### Step 3: Upgrade the Emission System
+**Action:** Replace the existing electric convectors, floor heating, and radiators with a more efficient system.
+**Reason:** The current emission system is outdated and inefficient.
+**Method:** Consider installing a low-temperature emission system compatible with a heat pump.
+**Estimated Cost:** Approximately €100 per m² (based on the ontology's PlaceEmissionSystemOnLowTemperature suggestion).
+**Priority:** Medium
+**Note:** Ensure the new system is compatible with the planned upgrades to the generation system.
+
+### Step 4: Upgrade the Ventilation System
+**Action:** Upgrade the existing natural ventilation system (VentilationSystemA) to a mechanical ventilation system with heat recovery.
+**Reason:** Improved indoor air quality and reduced heat loss.
+**Method:** Install a mechanical ventilation system with heat recovery (VentilationSystemD).
+**Estimated Cost:** Approximately €3,500 (based on the ontology's ReplaceVentilationSystem suggestion).
+**Priority:** Medium
+**Note:** Ensure the new system is properly integrated with the upgraded emission system.
+
+### Step 5: Upgrade the Generation System
+**Action:** Replace the existing boiler with a more efficient heat pump.
+**Reason:** The current boiler is likely inefficient and contributes to high energy consumption.
+**Method:** Install an air-water heat pump with cooling capability.
+**Estimated Cost:** Approximately €9,000 (based on the ontology's PlaceAirWaterHeatpumpWithCooling suggestion).
+**Priority:** Medium
+**Note:** Ensure the heat pump is properly sized for the building's heating and cooling needs.
+
+### Step 6: Install PV Panels
+**Action:** Install photovoltaic (PV) panels on the roof.
+**Reason:** Reduce electricity costs and improve the building's energy performance.
+**Method:** Choose high-efficiency PV panels and ensure they are properly oriented for maximum sunlight exposure.
+**Estimated Cost:** Approximately €275 per m² (based on the ontology's PlacePVPanelsOnRoof suggestion).
+**Priority:** Low
+**Note:** Ensure the roof is free from asbestos before installation.
+
+### Step 7: Monitor and Maintain
+**Action:** Regularly monitor the performance of the upgraded systems and maintain them as needed.
+**Reason:** Ensure the long-term efficiency and performance of the renovation.
+**Method:** Schedule annual inspections and maintenance checks.
+**Estimated Cost:** Varies
+**Priority:** Ongoing
+**Note:** Keep records of all maintenance activities and performance metrics.
+
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective. The steps are prioritized based on their impact on energy savings and long-term operational performance. The plan also considers the building's specific characteristics, such as the type of walls, windows, and existing systems, as well as the available space for PV panels.

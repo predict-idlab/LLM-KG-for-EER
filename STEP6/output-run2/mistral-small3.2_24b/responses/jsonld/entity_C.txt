@@ -1,0 +1,24 @@
+The building is a detached house from 2023 with a net floor area of 159.0m² and an A-label EPC score of 50. The owner is motivated to improve the EPC rating. The building is well-insulated and has an existing PV panel installation. The current heating system consists of electric convection and floor heating.
+
+Given the high insulation quality of the building and the presence of PV panels, the focus should be on optimizing the heating system and further improving the EPC score.
+
+### Proposed Renovation Path
+
+1. **Replace Glazing**: Although the windows are already double-glazed, upgrading to triple glazing would further improve thermal performance. This is a medium-priority intervention.
+
+2. **Place Air-Water Heat Pump with Cooling**: The current emission system (electric convection and floor heating) can be complemented with an air-water heat pump with cooling functionality. This would significantly improve the EPC score and reduce energy consumption. This is a high-priority intervention.
+
+3. **Place Emission System on Low Temperature**: To maximize the efficiency of the new heat pump, the emission system should be adapted to work at lower temperatures. This is a medium-priority intervention.
+
+4. **Place Sunshade**: Installing external sunshades can further reduce the cooling demand in summer, improving the overall energy efficiency. This is a low-priority intervention.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Upgrade Glazing** | Improves thermal performance and reduces heat loss. |
+| **2** | **Install Air-Water Heat Pump with Cooling** | Replaces inefficient electric heating with a more sustainable and efficient system. |
+| **3** | **Adapt Emission System for Low-Temperature Operation** | Maximizes the efficiency of the new heat pump. |
+| **4** | **Install Sunshades** | Reduces cooling demand and improves comfort. |
+
+This plan prioritizes interventions that provide the most significant improvements in energy efficiency and EPC score while maintaining cost-effectiveness. The sequence ensures that the building's thermal envelope is optimized before upgrading heating systems, preventing the need for oversized equipment.

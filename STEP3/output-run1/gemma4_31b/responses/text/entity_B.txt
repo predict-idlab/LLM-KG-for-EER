@@ -1,0 +1,58 @@
+To improve an EPC of 262 in a 19th-century home, the golden rule is: **Reduce the energy demand first, then address the energy production.** Replacing a heating system in an uninsulated house is a costly mistake, as you will overpay for a system that is larger than necessary.
+
+Given that your house is not historically protected, you have significant flexibility. Here is the optimal, step-by-step renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Heat Loss)
+*Goal: Stop the heat from escaping. This is the most cost-effective way to lower your EPC.*
+
+1.  **Roof Insulation (Flat Roof Priority):** 
+    *   **Action:** Insulate the flat-roof extension immediately. Since heat rises, this is your biggest "leak." 
+    *   **Pitched Roof:** Assess the "moderate" insulation. If it is below 10-15 cm, consider adding a layer of blown-in insulation (cellulose or mineral wool) to reach modern standards.
+2.  **Floor Insulation (Above Basement):** 
+    *   **Action:** Install insulation boards or inject insulation between the basement ceiling and the ground floor. This eliminates "cold feet" and prevents heat from sinking into the basement.
+3.  **Wall Insulation:** 
+    *   **Action:** Since these are solid brick walls, you have two choices:
+        *   **External Wall Insulation (ITE):** The most effective method. It protects the brickwork and doesn't take up indoor space.
+        *   **Internal Wall Insulation (ITI):** If the facade cannot be changed, use breathable internal insulation (e.g., calcium silicate or wood fiber) to prevent condensation and mold—a common risk in old Ghent houses.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is sealed.*
+
+4.  **Upgrade Ventilation:** 
+    *   **Action:** Moving from "natural ventilation" to a **Balanced Ventilation system with Heat Recovery (MVHR)** or a **Decentralized Heat Recovery system**. 
+    *   **Why:** Once you insulate the walls and roof, the house becomes more airtight. Without mechanical ventilation, you risk humidity buildup and indoor air quality degradation.
+
+### Phase 3: Heating System Modernization
+*Goal: Replace outdated emitters and the boiler with a high-efficiency, low-temperature system.*
+
+5.  **Heat Emission Replacement:** 
+    *   **Action:** Replace the old radiators. Since you are aiming for efficiency, install **Low-Temperature Radiators** (larger surface area) or underfloor heating if the floor renovation allows.
+6.  **Heat Generation (The Heat Pump):** 
+    *   **Action:** Replace the boiler with an **Air-to-Water Heat Pump**. 
+    *   **Why:** Now that the house is insulated (Phase 1) and the radiators are optimized (Step 5), the heat pump can operate at maximum efficiency. A heat pump in an uninsulated house is inefficient and expensive to run.
+
+### Phase 4: Renewable Energy
+*Goal: Offset the electrical consumption of the new heating system.*
+
+7.  **Photovoltaic (PV) Panels:** 
+    *   **Action:** Install solar panels on the pitched roof. 
+    *   **Why:** Heat pumps shift the energy load from gas to electricity. PV panels will neutralize this cost increase and potentially provide a surplus of energy.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Step | Logic | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof & Floor** | Stop the fastest heat loss (top and bottom). | High |
+| **2** | **Walls** | Address the largest surface area of heat loss. | Very High |
+| **3** | **Ventilation** | Prevent mold/dampness caused by insulation. | Medium |
+| **4** | **Radiators $\rightarrow$ Heat Pump** | Size the system to the *new* lower energy demand. | High |
+| **5** | **PV Panels** | Power the new electric system with free energy. | High |
+
+### Expert Cost-Efficiency Tips for Ghent:
+*   **Subsidies:** Check the **"Mijn VerbouwPremie"** (Flemish region). The subsidies are often tiered; ensuring you have an EPC certificate *before* and *after* is critical for reimbursement.
+*   **Avoid Window Replacement:** Since your windows are already double-glazed and in good condition, do not spend money here. The ROI is much lower than insulating the walls or roof.
+*   **The "Low-Hanging Fruit":** If the budget is tight, prioritize the **Flat Roof $\rightarrow$ Floor $\rightarrow$ PV Panels** path first, as these offer the fastest return on investment.

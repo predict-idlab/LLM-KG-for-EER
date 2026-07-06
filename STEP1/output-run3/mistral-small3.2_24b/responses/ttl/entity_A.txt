@@ -1,0 +1,56 @@
+Based on the provided RENO ontology and the building's details, here's a cost-effective and energy-efficient renovation plan:
+
+### Priority 1: Insulation Upgrades
+1. **Insulate Wall Cavities**
+   - *Action*: Inject insulation into the cavity walls (Wall_Front, Wall_Rear, Wall_Right).
+   - *Why*: Currently uninsulated, this is a cost-effective way to reduce heat loss.
+   - *Estimated Cost*: ~€22/m² (reno:InsulateWallCavity).
+
+2. **Insulate Roof Main**
+   - *Action*: Insulate the gable roof (RoofMain).
+   - *Why*: Currently uninsulated, roof insulation significantly improves thermal performance.
+   - *Estimated Cost*: ~€60/m² (reno:InsulateGableRoof).
+
+### Priority 2: Window Improvements
+3. **Replace Windows**
+   - *Action*: Replace existing windows (WindowsBedrooms, WindowsLivingArea) with double-glazed units.
+   - *Why*: Current double-glazing may be outdated; replacing with modern double-glazing improves insulation.
+   - *Estimated Cost*: ~€800/m² (reno:ReplaceWindows).
+
+### Priority 3: Floor Insulation
+4. **Insulate Floor Above Basement**
+   - *Action*: Insulate the floor above the basement (FloorAboveBasement).
+   - *Why*: Currently uninsulated, this will reduce heat loss through the floor.
+   - *Estimated Cost*: ~€30/m² (reno:InsulateFloorAboveBasement).
+
+### Priority 4: Heating System Upgrade
+5. **Place Low-Temperature Emission System**
+   - *Action*: Install a low-temperature emission system compatible with future heat pump integration.
+   - *Why*: Prepares the building for more efficient heating solutions.
+   - *Estimated Cost*: ~€100/m² (reno:PlaceLowTemperatureEmission).
+
+### Priority 5: Ventilation System Upgrade
+6. **Replace Ventilation System**
+   - *Action*: Upgrade from VentilationSystemA (natural air supply/exhaust) to VentilationSystemB or C (mechanical air supply/exhaust).
+   - *Why*: Improves indoor air quality and energy efficiency.
+   - *Estimated Cost*: ~€3500 + €17/m² (reno:ReplaceVentilationSystem).
+
+### Priority 6: Solar Panel Installation
+7. **Place PV-Panels on Roof**
+   - *Action*: Install photovoltaic panels on RoofExtension or RoofMain.
+   - *Why*: The building has potential for PV (reno:hasPotentialForPV true), and solar panels reduce energy costs.
+   - *Estimated Cost*: ~€275/m² (reno:PlacePVPanelsOnRoof).
+
+### Additional Considerations
+- **Asbestos Check**: Ensure no asbestos-containing materials are present before renovations (reno:NotAsbestosContaining).
+- **Permits**: Verify if any permits are required for structural changes (e.g., roof insulation over 26cm thickness).
+
+### Sequence of Actions
+1. Insulate walls and roofs (Priority 1).
+2. Replace windows (Priority 2).
+3. Insulate floor (Priority 3).
+4. Upgrade heating system (Priority 4).
+5. Upgrade ventilation (Priority 5).
+6. Install solar panels (Priority 6).
+
+This plan maximizes energy efficiency while keeping costs manageable, focusing on high-impact, low-disruption upgrades first.

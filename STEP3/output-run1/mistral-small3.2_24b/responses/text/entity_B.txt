@@ -1,0 +1,35 @@
+Based on the information provided, here's a step-by-step renovation plan that prioritizes energy efficiency and cost-effectiveness for your 1832 attached house in Ghent, Belgium:
+
+### Step 1: Air Sealing and Insulation
+1. **Exterior Walls Insulation**: Since the front and rear walls are uninsulated solid brick walls, consider internal wall insulation (IWI) to minimize disruption and maintain the exterior aesthetic. This will significantly reduce heat loss.
+2. **Flat-Roof Extension Insulation**: Insulate the uninsulated flat roof extension to match the moderate insulation level of the main pitched roof. Use high-performance insulation materials suitable for flat roofs.
+3. **Floor Insulation**: Insulate the floor above the basement to prevent heat loss through the ground. Use rigid insulation boards with a high R-value.
+
+### Step 2: Heating System Upgrade
+1. **Replace Boiler and Radiators**: Install a modern, condensing boiler with a high efficiency rating (e.g., ErP A-rated). Replace old radiators with new, low-water-content radiators or consider underfloor heating for better heat distribution.
+2. **Heat Pump Consideration**: While the site is not suitable for geothermal, consider an air-source heat pump (ASHP) if the climate and budget allow. ASHPs can be more efficient than boilers, especially when combined with low-temperature heating systems like underfloor heating.
+
+### Step 3: Ventilation System Upgrade
+1. **Install Mechanical Ventilation with Heat Recovery (MVHR)**: Replace the basic natural ventilation system with an MVHR system to improve indoor air quality and reduce heat loss. This is particularly important after insulating the walls and roof.
+
+### Step 4: Window Upgrades (if necessary)
+1. **Window Replacement**: Although the windows have double glazing, consider upgrading to triple glazing or high-performance double glazing with low-emissivity (Low-E) coatings and argon or krypton gas fill. Ensure the wooden frames are well-sealed to prevent air leakage.
+
+### Step 5: Photovoltaic Panels Installation
+1. **Solar Panel Installation**: Given the potential for photovoltaic panels, install a solar panel system on the roof to generate renewable energy. This can significantly reduce electricity costs and improve the energy performance certificate (EPC) score.
+
+### Step 6: Smart Controls and Monitoring
+1. **Install Smart Thermostats and Controls**: Implement smart thermostats and zoning controls to optimize heating and reduce energy waste. This can be integrated with the new boiler or heat pump for better efficiency.
+
+### Step 7: Final EPC Assessment
+1. **Post-Renovation EPC Assessment**: After completing the renovations, conduct a new EPC assessment to evaluate the improved energy performance and identify any remaining areas for improvement.
+
+### Optimal Sequence:
+1. **Insulation and Air Sealing**: Start with insulating the walls, roof, and floor to minimize heat loss.
+2. **Heating System Upgrade**: Replace the boiler and radiators to ensure efficient heat distribution.
+3. **Ventilation Upgrade**: Install MVHR to maintain indoor air quality and reduce heat loss.
+4. **Window Upgrades**: Upgrade windows if necessary to further improve insulation.
+5. **Photovoltaic Panels**: Install solar panels to generate renewable energy.
+6. **Smart Controls**: Implement smart controls to optimize energy usage.
+
+This plan prioritizes cost-effective upgrades that will have the most significant impact on energy efficiency and long-term operational performance.

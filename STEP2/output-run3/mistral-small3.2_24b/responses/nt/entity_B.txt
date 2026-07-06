@@ -1,0 +1,91 @@
+### Renovation Plan
+
+#### 1. **Insulate Attic Floor**
+   - **Action**: Insulate the attic floor to improve thermal comfort and energy efficiency.
+   - **Why**: The attic floor is currently not insulated, which can lead to significant heat loss and discomfort.
+   - **Considerations**:
+     - Not every type of insulation is walkable. Depending on your situation, walkable insulation may be preferred.
+     - Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+   - **Cost**: ~€60 per m².
+   - **Order**: 31
+
+#### 2. **Insulate Wall Cavity**
+   - **Action**: Insulate the wall cavity to enhance thermal performance.
+   - **Why**: The wall cavity is currently not insulated, which can lead to heat loss and higher energy consumption.
+   - **Considerations**:
+     - Have an inspection carried out by a contractor, who can determine whether the cavity wall is suitable for injecting insulation. Namely, it should be checked whether the cavity is wide enough, whether there is no contamination in the cavity, whether the cladding is vapour-permeable enough, etc.
+   - **Cost**: ~€22 per m².
+   - **Order**: 34
+
+#### 3. **Insulate Wall on Interior**
+   - **Action**: Insulate the interior walls to improve thermal comfort and reduce energy consumption.
+   - **Why**: The interior walls are currently not insulated, leading to heat loss and discomfort.
+   - **Considerations**:
+     - Insulating walls on the inside is a delicate job. Get assistance from an architect, contractor or craftsman for expert advice and proper execution of the works.
+     - Sockets, pipes and radiators against the outer walls will have to be relocated.
+   - **Cost**: ~€150 per m².
+   - **Order**: 37
+
+#### 4. **Insulate Wall on Exterior**
+   - **Action**: Insulate the exterior walls to enhance energy efficiency and thermal comfort.
+   - **Why**: The exterior walls are currently not insulated, leading to significant heat loss and higher energy consumption.
+   - **Considerations**:
+     - Not every type of cladding will be possible, depending on the position of the building line and the council's guidelines.
+     - Not necessary if thickness of total pack >26cm or the building line is overrun (Flanders).
+   - **Cost**: ~€200 per m².
+   - **Order**: 40
+
+#### 5. **Insulate Flat Roof**
+   - **Action**: Insulate the flat roof to improve thermal performance and reduce energy consumption.
+   - **Why**: The flat roof is currently not insulated, leading to heat loss and higher energy consumption.
+   - **Considerations**:
+     - Opt for an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering, do not insulate the flat roof on the inside.
+     - Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+   - **Cost**: ~€50 per m².
+   - **Order**: 25
+
+#### 6. **Insulate Gable Roof**
+   - **Action**: Insulate the gable roof to enhance thermal comfort and energy efficiency.
+   - **Why**: The gable roof is currently moderately insulated, which can be improved for better thermal performance.
+   - **Considerations**:
+     - Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+     - When renewing your roof, already take into account any ducts which may be needed for a ventilation system, solar water heater or solar panels.
+   - **Cost**: ~€60 per m².
+   - **Order**: 28
+
+#### 7. **Replace Ventilation System**
+   - **Action**: Replace the current ventilation system to improve indoor air quality and energy efficiency.
+   - **Why**: The current ventilation system (Type A) may not be as efficient as newer systems, leading to higher energy consumption and potential air quality issues.
+   - **Considerations**:
+     - A ventilation system C will have slightly more impact on your home, as it requires ductwork for both supply and return.
+     - For a ventilation system C, you need grilles in your window frames.
+   - **Cost**: ~€17 per m².
+   - **Order**: 52
+
+#### 8. **Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump to improve heating efficiency and reduce energy consumption.
+   - **Why**: The current heating system may not be as efficient as a heat pump, leading to higher energy consumption and costs.
+   - **Considerations**:
+     - Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+     - Maybe, depending on the system, a multi-phase connection may be required.
+   - **Cost**: ~€35 per m².
+   - **Order**: 67
+
+#### 9. **Place Sun Shade**
+   - **Action**: Install a sun shade to reduce solar heat gain and improve thermal comfort.
+   - **Why**: Reducing solar heat gain can help maintain a comfortable indoor temperature and reduce the need for cooling.
+   - **Considerations**:
+     - Outdoor blinds are generally more efficient than indoor blinds.
+   - **Cost**: ~€750 (fixed price).
+   - **Order**: 79
+
+#### 10. **Place PV Panels on Roof**
+   - **Action**: Install photovoltaic (PV) panels on the roof to generate renewable energy and reduce energy costs.
+   - **Why**: Generating solar energy can help reduce reliance on the grid and lower energy bills.
+   - **Considerations**:
+     - Check on the 'Zonnekaart' whether your roof is properly oriented and captures enough sunlight. The yield is greatest if your panels face south (south-east to south-west) at an angle of 30° to 50°.
+     - Since PV panels are attached to the roof structure, it is crucial to remove any asbestos present in the roof first. Installing solar panels on a building with an asbestos-containing roof covering or an asbestos-containing sub-roof is prohibited.
+   - **Cost**: ~€275 per m².
+   - **Order**: 85
+
+This plan focuses on improving the building's energy efficiency, thermal comfort, and indoor air quality through a combination of insulation, system upgrades, and renewable energy installation. The order of actions is based on their relative importance and interdependencies, ensuring a systematic and effective renovation process.

@@ -1,0 +1,71 @@
+### **Step-by-Step Renovation Plan**
+
+#### **1. Assess the Building**
+- **Current State**:
+  - Semi-detached building (173 m² net floor area) with a gable roof (moderately insulated) and a flat roof (well insulated).
+  - Walls (front, rear, left) are well insulated and not historically protected.
+  - Windows in living area and bedrooms have wooden frames with double glazing.
+  - Heat pump is the generation system.
+  - No heat grid, no potential for geothermal drilling or PV panels.
+  - EPC energy score: 87.
+
+- **Goals**:
+  - Improve EPC label (current: E label).
+
+#### **2. Prioritize High-Impact, Cost-Effective Renovations**
+- **Insulate Gable Roof**:
+  - **Why**: Moderately insulated gable roof contributes to higher energy consumption.
+  - **Action**: Upgrade insulation to well-insulated (ordering: 28).
+  - **Cost**: €60/m² (PER-M2).
+
+- **Replace Glazing**:
+  - **Why**: Double glazing is less efficient than triple glazing. Replacing glazing improves thermal performance.
+  - **Action**: Upgrade to triple glazing (ordering: 43).
+  - **Cost**: €200/m² (PER-M2).
+
+- **Insulate Wall on Exterior**:
+  - **Why**: Exterior insulation improves thermal comfort and reduces heat loss.
+  - **Action**: Insulate walls (ordering: 40).
+  - **Cost**: €200/m² (PER-M2).
+
+- **Replace Ventilation System**:
+  - **Why**: Current ventilation system (type D) may not be efficient. Upgrading to a more efficient system (e.g., type C) can improve air quality and reduce energy consumption.
+  - **Action**: Replace ventilation system (ordering: 52).
+  - **Cost**: €3,500 (fixed price).
+
+#### **3. Secondary Renovations (Optional)**
+- **Insulate Attic Floor**:
+  - **Why**: Attic floor is well insulated, but walkable insulation may be preferred for usability.
+  - **Action**: Insulate attic floor (ordering: 31).
+  - **Cost**: €60/m² (PER-M2).
+
+- **Place Air-Water Heat Pump**:
+  - **Why**: Upgrading the heat pump can improve efficiency and reduce energy costs.
+  - **Action**: Place air-water heat pump (ordering: 67).
+  - **Cost**: €35/m² (PER-M2).
+
+#### **4. Permits and Regulations**
+- **Check Permits**: Ensure compliance with local regulations (e.g., Flanders) for insulation, glazing, and ventilation system replacements.
+- **Asbestos Removal**: If asbestos is present, hire a licensed removal company.
+
+#### **5. Execution Plan**
+1. **Insulate Gable Roof** (immediate priority).
+2. **Replace Glazing** (next priority).
+3. **Insulate Walls on Exterior**.
+4. **Replace Ventilation System**.
+5. **Optional**: Insulate attic floor and upgrade heat pump.
+
+#### **6. Expected Outcomes**
+- **Improved EPC Label**: From E to D or higher.
+- **Reduced Energy Consumption**: Lower energy bills and better thermal comfort.
+- **Increased Property Value**: Higher market value due to improved energy efficiency.
+
+#### **7. Tools & Materials**
+- **Insulation Materials**: High-performance insulation for walls and roof.
+- **Glazing**: Triple-glazed windows.
+- **Ventilation System**: Efficient mechanical ventilation system.
+
+#### **8. Budget Estimate**
+- **Total Cost**: ~€15,000–€20,000 (depending on surface areas and additional upgrades).
+
+This plan maximizes energy efficiency while remaining cost-effective, with a clear sequence to optimize benefits.

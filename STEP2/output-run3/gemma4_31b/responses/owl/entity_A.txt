@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, the following renovation plan is proposed. This plan follows the **"Fabric First"** principle—reducing energy demand through insulation before upgrading heating systems—to ensure maximum energy efficiency and cost-effectiveness.
+
+### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+The building's EPC score is 388 (Label D), and several key elements are currently not insulated. Improving the envelope is the most cost-effective way to lower energy consumption.
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. Since it is in "Good State," a full replacement is unnecessary. Insulating the gable roof is a high-priority, low-nuisance upgrade.
+2.  **Insulate Wall Cavity:** The front, rear, and right walls are full brick and not insulated. Cavity wall insulation is significantly more cost-effective (Unit Price: 22) than exterior insulation (Unit Price: 200) and provides a substantial increase in thermal performance.
+3.  **Insulate Floor Above Basement:** This element is currently not insulated. Adding insulation here prevents heat loss to the basement, improving the overall thermal comfort of the living areas.
+
+### **Phase 2: Ventilation & Air Quality**
+Once the building is airtight and insulated, the ventilation system must be optimized to prevent moisture buildup and reduce heat loss through air exchange.
+
+4.  **Replace Ventilation System:** The building currently uses System A (natural supply/exhaust). Upgrading to a more modern system (such as System C or D) will improve air quality and energy efficiency.
+
+### **Phase 3: Heating System Modernization (Supply Optimization)**
+With the energy demand reduced via Phase 1 and 2, we can now install a right-sized, high-efficiency heating system. The owner has indicated a reason to change the emission system.
+
+5.  **Place Emission System on Low Temperature:** To maximize the efficiency of a heat pump, the existing radiators/floor heating should be transitioned to a low-temperature system.
+6.  **Place Air-Water Heat Pump:** Since there is no potential for geothermal drilling or access to a heat grid, an air-water heat pump is the most efficient electric alternative to the existing boiler.
+
+### **Phase 4: Renewable Energy Integration**
+The final step is to offset the electricity consumption of the new heat pump.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels on the roof will lower operational costs and further improve the EPC label, aligning with the owner's primary motivation.
+
+---
+
+### **Summary of the Renovation Path**
+
+| Sequence | Action | Rationale | Cost Profile |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Highest heat loss area; low nuisance. | Low/Medium |
+| **2** | **Insulate Wall Cavity** | Most cost-effective wall insulation for brick. | Low |
+| **3** | **Insulate Floor** | Prevents basement heat loss. | Low |
+| **4** | **Upgrade Ventilation** | Essential after insulation to maintain air quality. | Medium |
+| **5** | **Low-Temp Emission** | Pre-requisite for Heat Pump efficiency. | Medium |
+| **6** | **Air-Water Heat Pump** | Sustainable replacement for the boiler. | High |
+| **7** | **PV-Panels on Roof** | Offsets electricity costs of the heat pump. | Medium/High |
+
+**Estimated Impact:** This sequence will significantly lower the energy score (kWh/m²year), potentially moving the building from a **D Label** toward a **B or A Label**, while avoiding unnecessary costs (e.g., replacing windows that are already double-glazed and in good condition).

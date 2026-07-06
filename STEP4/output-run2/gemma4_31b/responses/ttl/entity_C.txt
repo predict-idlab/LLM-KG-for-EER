@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, the property is a modern attached building (constructed in 2023) with an exceptional current EPC score of **50.0 (A Label)**. 
+
+Because the building is already highly energy-efficient, the goal is not a "deep renovation" but rather "fine-tuning" to move the property toward an **A+ label** while replacing outdated or inefficient heating components.
+
+### Proposed Renovation Path
+
+Since the thermal envelope is already nearly optimized, the focus shifts from "Fabric First" to **"System Optimization."**
+
+#### Phase 1: Envelope Fine-Tuning (Priority: Low)
+The building is almost entirely well-insulated. The only remaining opportunity for thermal improvement is the main roof.
+1.  **Insulate Gable Roof:** The `RoofMain` is currently "Moderately Insulated," while all other elements are "Well Insulated." Upgrading the gable roof insulation to a "Well Insulated" grade will eliminate the last significant point of thermal leakage.
+
+#### Phase 2: High-Efficiency Generation Transition (Priority: High)
+The building currently utilizes a boiler and electric convectors. Electric convectors are highly inefficient, and the owner has explicitly indicated a reason to change the emission system.
+2.  **Place Air-Water Heat Pump:** Since there is no potential for geothermal energy and no heat grid available, an **Air-Water Heat Pump** is the most cost-effective and sustainable replacement for the existing boiler. This will significantly lower the primary energy consumption.
+
+#### Phase 3: Emission System Optimization (Priority: Medium)
+To ensure the new heat pump operates at its maximum Coefficient of Performance (COP), the system must operate at lower temperatures.
+3.  **Place Emission System on Low Temperature:** While the building already has floor heating (which is ideal for heat pumps), the presence of electric convectors suggests a mixed system. Transitioning the remaining heating needs to low-temperature emissions will maximize the efficiency of the heat pump installed in Phase 2.
+
+---
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Gable Roof Insulation** | Completes the thermal envelope to ensure minimum heat loss. |
+| **2** | **Air-Water Heat Pump** | Replaces the boiler and inefficient electric heating with a sustainable, high-efficiency generator. |
+| **3** | **Low-Temp Emission Upgrade** | Optimizes the heat pump's performance by ensuring the house can be heated with lower water temperatures. |
+
+### Final Expert Note:
+Given that the building was constructed in 2023 and already holds an **A Label**, further investments in windows or wall insulation would yield diminishing returns and would not be cost-effective. The transition from electric convectors/boiler to a heat pump is the only significant leap remaining to achieve maximum operational performance.

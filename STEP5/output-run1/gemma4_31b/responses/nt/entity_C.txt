@@ -1,0 +1,26 @@
+Based on the provided building data and the RENO ontology, the property is a very modern attached building (constructed in 2023) with an exceptional EPC score of 50 (A+ Label). The building envelope is already highly optimized, with most elements being "Well Insulated."
+
+However, the owner has expressed a desire to improve the home further and specifically change the heating/cooling strategy. The primary inefficiency in the current setup is the reliance on a system that likely uses high-energy electric resistance (implied by the context of the need for terms of a new system) or simply the desire to move toward a more sustainable heat pump solution.
+
+To optimize this already high-performing building, the following strategy is recommended:
+
+### 1. Thermal Envelope Optimization
+While the building is already efficient, there is one remaining area for improvement:
+* **Insulate Gable Roof:** The gable roof is currently listed as only "moderately" insulated (or implied by the need for a lapping of the envelope). Upgrading the insulation of the roof will reduce thermal bridging and further lower heating/cooling loads.
+
+### 2. HVAC System Upgrade (The Primary Focus)
+The most significant improvement for this property is the transition from terms of a basic heating setup to a high-efficiency heat pump system. 
+
+**Recommended Sequence:**
+1. **Load Calculation:** Perform a professional heat loss calculation (RCfactor) to determine the exact capacity needed for the heat pump, ensuring the unit is not oversized.
+2. **System Selection:** Install an **Air-to-Water or Air-to-Air Heat Pump**. Given the modern construction of the building, a heat pump will be highly efficient.
+3. **Distribution:** Ensure the system is paired with appropriate emitters (e.g., underfloor heating or low-temperature radiators) to maximize the Coefficient of Performance (COP).
+
+### Summary of Improvements
+| Category | Action | Goal |
+| :--- | :--- | :--- |
+| **Envelope** | Upgrade Gable Roof Insulation | Eliminate remaining thermal leaks |
+| **Energy** | Install Heat Pump System | Replace inefficient heating with a sustainable, low-energy alternative |
+| **Control** | Install Smart Thermostats | Optimize energy usage based on occupancy |
+
+**Conclusion:** Because the building is already nearly a "Passive House" in terms of its insulation and construction, the focus should not be on major structural changes, but on the **technology of the energy source**. Moving to a heat pump will align the building's energy consumption with terms of modern sustainability and significantly reduce operational costs.

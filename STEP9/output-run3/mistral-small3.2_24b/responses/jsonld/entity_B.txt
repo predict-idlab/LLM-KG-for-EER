@@ -1,0 +1,77 @@
+### Renovation Plan for the Attached Building
+
+#### Current State Analysis:
+- **Building Type**: Attached building (shares walls with adjacent properties)
+- **Construction Year**: 1832
+- **EPC Score**: 262 kWh/m²year (D label)
+- **Insulation**:
+  - Roof Extension (Flat Roof): Not insulated
+  - Main Roof (Gable Roof): Moderately insulated
+  - Walls (Front and Rear): Not insulated
+  - Floor Above Basement: Not insulated
+- **Windows**:
+  - Living Area: Double glazing
+  - Bedrooms: Double glazing
+- **Heating System**:
+  - Emission System: Radiators
+  - Generation System: Boiler (type not specified)
+  - Ventilation System: System A (natural air supply and air exhaust)
+- **Potential for Renewable Energy**:
+  - Potential for PV panels: Yes
+  - Potential for horizontal geothermal captation: No
+  - Potential for vertical geothermal drilling: No
+- **Heat Grid Availability**: No
+
+#### Renovation Goals:
+- Improve EPC score to a higher label (e.g., C or B)
+- Reduce energy consumption
+- Enhance thermal comfort and insulation
+
+#### Recommended Renovation Steps:
+
+1. **Replace the Flat Roof (Roof Extension)**
+   - **Action**: Replace the existing flat roof with a new insulated roof.
+   - **Rationale**: The current flat roof is not insulated, contributing significantly to heat loss. Replacing it will improve thermal performance and reduce energy consumption.
+   - **Suggestion**: `replace flat roof`
+   - **Cost**: €120 per m²
+   - **Permit Needed**: Reporting obligation in Flanders.
+
+2. **Insulate the Walls**
+   - **Action**: Insulate the front and rear walls on the exterior.
+   - **Rationale**: The walls are currently not insulated, leading to heat loss. Exterior insulation will improve thermal comfort and energy efficiency.
+   - **Suggestion**: `insulate wall on exterior`
+   - **Cost**: €200 per m²
+   - **Permit Needed**: Only if the thickness of the total pack > 26cm or the building line is overrun.
+
+3. **Replace the Windows**
+   - **Action**: Replace the existing windows with new, energy-efficient windows.
+   - **Rationale**: While the current windows have double glazing, replacing them with modern, energy-efficient windows will further reduce heat loss and improve insulation.
+   - **Suggestion**: `replace windows`
+   - **Cost**: €800 per m²
+   - **Permit Needed**: Not necessary if the measurements are kept (Flanders).
+
+4. **Install PV Panels**
+   - **Action**: Place PV panels on the roof.
+   - **Rationale**: The building has potential for PV panels, and installing them will reduce reliance on non-renewable energy sources, lowering energy costs and improving sustainability.
+   - **Suggestion**: `place PV-panels on roof`
+   - **Cost**: €275 per m²
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders).
+
+5. **Replace the Ventilation System**
+   - **Action**: Replace the existing ventilation system (System A) with a more efficient system (e.g., System C or D).
+   - **Rationale**: Upgrading the ventilation system will improve indoor air quality and energy efficiency.
+   - **Suggestion**: `replace ventilation system`
+   - **Cost**: €3,500 fixed + €17 per m²
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+#### Additional Considerations:
+- **Asbestos Removal**: Before installing PV panels, ensure that any asbestos in the roof is removed. This is a legal requirement.
+- **Cost-Effectiveness**: Prioritize actions based on cost-effectiveness and potential energy savings. For example, replacing the flat roof and insulating the walls are likely to provide the most significant energy savings.
+- **Permits and Regulations**: Ensure compliance with local permits and regulations, especially regarding roof replacements and asbestos removal.
+
+#### Expected Outcomes:
+- **Improved EPC Score**: The combined actions should significantly improve the building's EPC score, potentially moving it from a D label to a C or B label.
+- **Reduced Energy Consumption**: The building's energy consumption should decrease, leading to lower utility bills and a more sustainable property.
+- **Enhanced Thermal Comfort**: Better insulation and a more efficient heating system will improve thermal comfort for the residents.
+
+This plan provides a structured approach to renovating the building, focusing on energy efficiency, cost-effectiveness, and compliance with local regulations.

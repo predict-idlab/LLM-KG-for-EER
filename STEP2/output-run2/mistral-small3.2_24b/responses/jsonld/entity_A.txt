@@ -1,0 +1,55 @@
+### Renovation Plan for the Semi-Detached House
+
+**Objective:** Improve energy efficiency and comfort while considering cost-effectiveness.
+
+#### **Immediate Actions (High Priority)**
+1. **Insulate Walls (Interior)**
+   - **Action:** Insulate the interior walls (front, rear, right) with an insulation grade of at least "Moderately Insulated."
+   - **Cost:** ~€150 per m²
+   - **Nuisance Level:** Moderate
+   - **Rationale:** The building has no insulation on the walls, and interior insulation is a cost-effective solution that does not require external permits.
+
+2. **Replace Roof Covering (Flat & Gable)**
+   - **Action:** Replace the flat and gable roofs with new insulation-compatible coverings.
+   - **Cost:** ~€65 per m² (flat roof) and ~€260 per m² (gable roof)
+   - **Nuisance Level:** High
+   - **Rationale:** The roofs are currently uninsulated or moderately insulated. Replacing them will improve thermal performance and may allow for additional upgrades like PV panels.
+
+3. **Insulate Attic Floor**
+   - **Action:** Insulate the attic floor to prevent heat loss.
+   - **Cost:** ~€60 per m²
+   - **Nuisance Level:** Low
+   - **Rationale:** The attic floor is currently uninsulated, and this is a relatively simple and low-cost intervention.
+
+#### **Medium-Term Actions (Moderate Priority)**
+4. **Upgrade Window Glazing**
+   - **Action:** Replace the single glazing in the bedrooms with double glazing.
+   - **Cost:** ~€200 per m²
+   - **Nuisance Level:** High
+   - **Rationale:** The current single glazing has poor thermal and acoustic properties. Double glazing will improve comfort and energy efficiency.
+
+5. **Replace Ventilation System**
+   - **Action:** Upgrade the ventilation system to a more efficient model (e.g., Ventilation System C or D).
+   - **Cost:** ~€3500 (fixed) + €17 per m²
+   - **Nuisance Level:** Moderate
+   - **Rationale:** The current system may be outdated or inefficient. A more modern system will improve air quality and reduce energy consumption.
+
+#### **Long-Term Actions (Low Priority)**
+6. **Install Renewable Energy Systems**
+   - **Action:** Consider installing PV panels on the roof or in the garden.
+   - **Cost:** ~€275 per m²
+   - **Nuisance Level:** Low
+   - **Rationale:** The building has potential for PV installation, which can significantly reduce energy costs and carbon footprint.
+
+7. **Connect to Heat Grid (If Available)**
+   - **Action:** Explore the possibility of connecting to a heat grid if one becomes available in the future.
+   - **Cost:** ~€7000
+   - **Nuisance Level:** Low
+   - **Rationale:** A heat grid can provide a more sustainable and efficient heating solution.
+
+#### **Additional Considerations**
+- **Historical Protection:** Ensure that any renovations comply with local regulations, especially for elements with historical protection.
+- **Asbestos Removal:** If asbestos is present in the roofs, arrange for safe removal before any insulation work.
+- **Owner’s Motivation:** The owner’s primary goal is to improve the EPC rating. Prioritize actions that have the most significant impact on energy performance.
+
+This plan is designed to maximize energy efficiency while balancing cost and disruption. It starts with the most impactful and cost-effective interventions and progresses to more advanced solutions.

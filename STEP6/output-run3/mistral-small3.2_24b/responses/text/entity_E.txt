@@ -1,0 +1,68 @@
+### Renovation Plan for Detached House in Ghent, Belgium
+
+#### **Objective:**
+Improve the energy performance certificate (EPC) score from 165 (likely an F or G label) to a higher rating through cost-effective, energy-efficient upgrades. The focus will be on maximizing thermal efficiency, optimizing heating systems, and integrating renewable energy sources.
+
+#### **Proposed Renovation Path**
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+The primary goal is to minimize heat loss by insulating key areas of the building envelope.
+
+1. **Insulate Exterior Cavity Walls:**
+   - The house has cavity walls on all four sides (Front, Rear, Left, Right) that are currently uninsulated.
+   - Since these are cavity walls, **cavity wall insulation** is the most effective and cost-efficient solution.
+   - This will significantly reduce heat loss through the walls.
+
+2. **Insulate Floor Above Crawl Space:**
+   - The floor above the crawl space is currently not insulated.
+   - Adding insulation here will prevent heat loss to the crawl space and improve comfort.
+   - Consider using rigid insulation boards or blown-in insulation, depending on accessibility.
+
+3. **Insulate Pitched Roof (if needed):**
+   - The main roof is already well-insulated, so no further action is required here.
+
+**Phase 2: Window Performance Upgrades**
+The single-glazed windows are a major source of heat loss.
+
+4. **Replace Single Glazing with Double or Triple Glazing:**
+   - Upgrading to **double or triple glazing** will drastically improve thermal performance.
+   - Since the wooden frames are in good condition, they can be retained, reducing costs.
+
+**Phase 3: Heating System Transition**
+With a tighter thermal envelope, the heating demand will be lower, allowing for a more efficient heating system.
+
+5. **Replace Boiler with an Air-Water Heat Pump:**
+   - Since geothermal energy is not suitable and there is no district heating, an **Air-Water Heat Pump** is the best alternative to the existing boiler.
+   - This will significantly reduce energy consumption and lower operating costs.
+
+6. **Upgrade Heating Emission Systems:**
+   - Replace old radiators, underfloor heating, air heating systems, and electric convectors with **low-temperature emission systems** (e.g., modern radiators or underfloor heating designed for heat pumps).
+   - This ensures optimal performance with the new heat pump.
+
+**Phase 4: Ventilation System Upgrade**
+Once the building is sealed, indoor air quality must be maintained.
+
+7. **Replace Natural Ventilation with a Mechanical Ventilation System:**
+   - Upgrade from natural ventilation to a **mechanical ventilation system with heat recovery (System C or D)**.
+   - This ensures proper air exchange while retaining heat, improving energy efficiency.
+
+**Phase 5: Renewable Energy Integration**
+To further reduce energy costs and improve the EPC score.
+
+8. **Install Photovoltaic (PV) Panels:**
+   - The house has potential for PV installation.
+   - PV panels will generate electricity to power the heat pump and other systems, reducing reliance on the grid.
+
+#### **Summary of Optimal Sequence**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls** | Reduces heat loss through the largest surface area of the house. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents heat loss to the crawl space and improves comfort. |
+| **3** | **Replace Single Glazing with Double/Triple Glazing** | Reduces heat loss through windows. |
+| **4** | **Install Air-Water Heat Pump** | Replaces the old boiler with a more efficient, low-carbon heating solution. |
+| **5** | **Upgrade Heating Emission Systems** | Ensures compatibility with the heat pump for optimal performance. |
+| **6** | **Upgrade Ventilation System** | Maintains indoor air quality in a sealed envelope. |
+| **7** | **Install PV Panels** | Generates renewable energy to power the heat pump and reduce energy costs. |
+
+This phased approach ensures that each upgrade builds on the previous one, maximizing energy efficiency while keeping costs manageable.

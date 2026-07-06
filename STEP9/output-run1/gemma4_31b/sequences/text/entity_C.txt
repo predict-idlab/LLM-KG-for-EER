@@ -1,0 +1,10 @@
+1. increase insulation pitched roof
+2. replace boiler air-to-water heat pump
+3. remove electric convectors
+4. repair underfloor heating
+5. replace underfloor heating
+6. optimize underfloor heating low-temperature operation
+7. install low-temperature radiators
+8. extend underfloor loop
+9. link photovoltaic panels heat pump
+10. integrate heat pump ventilation system

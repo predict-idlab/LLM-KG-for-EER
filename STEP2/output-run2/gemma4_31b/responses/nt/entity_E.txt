@@ -1,0 +1,30 @@
+Based on the provided building data and the RENO ontology, the building is a detached house from 1862 with a current energy score of 165 kWh/m²year (B Label). While the roof is already well-insulated, there are significant opportunities to improve the energy envelope and modernize the heating system.
+
+To maximize energy efficiency while remaining cost-effective, I propose the following renovation path, sequenced according to the "envelope-first" principle (reducing demand before upgrading supply).
+
+### Phase 1: The Thermal Envelope (High ROI)
+The priority is to stop heat loss through the walls, windows, and floors.
+1.  **Insulate Wall Cavities:** All four exterior walls are cavity walls and are currently **not insulated**. This is the most cost-effective upgrade available, as it typically requires minimal disruption to the building structure.
+2.  **Replace Glazing:** The building currently uses **single glazing** in both the bedrooms and living area. This is a major source of thermal leakage. Since the wooden window frames are in a "Good State" (value 8), I recommend **replacing the glazing** (upgrading to double or triple glazing) rather than replacing the entire window unit to save costs.
+3.  **Insulate Floor Above Basement:** To eliminate cold drafts from the crawl space, the floor above the basement should be insulated.
+
+### Phase 2: Air Quality and Ventilation
+Once the envelope is tightened, ventilation must be addressed to prevent moisture buildup and ensure air quality.
+4.  **Replace Ventilation System:** The current "System A" is basic. Upgrading to a more modern system (such as System D) will improve heat recovery and overall operational performance.
+
+### Phase 3: Sustainable Heating & Generation
+With a reduced heating load, the building can now transition to a more efficient energy source.
+5.  **Place Air-Water Heat Pump:** The building owner has indicated a desire to change the emission system, and the site lacks potential for geothermal drilling or a heat grid. An air-water heat pump is the most efficient alternative, especially as it integrates well with the existing radiator and floor heating systems.
+6.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will offset the electricity consumption of the new heat pump, significantly reducing long-term operational costs and improving the EPC label.
+
+### Summary of the Optimal Sequence
+| Step | Action | Primary Benefit | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavities** | Rapid reduction in heat loss | Very High |
+| **2** | **Replace Glazing** | Eliminates major thermal bridges | High |
+| **3** | **Insulate Floor** | Improves ground-level comfort | Medium |
+| **4** | **Upgrade Ventilation** | Maintains air quality in tight envelope | Medium |
+| **5** | **Air-Water Heat Pump** | Decarbonizes heating source | Medium (Long-term) |
+| **6** | **PV Panels on Roof** | Lowers electricity bills | High (ROI) |
+
+**Final Result:** This path transforms the building from a traditional 19th-century structure into a modern, energy-efficient home, moving the EPC label toward an A or A+ rating while avoiding unnecessary costs (like replacing perfectly good window frames).

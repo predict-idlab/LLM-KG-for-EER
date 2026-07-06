@@ -1,0 +1,42 @@
+### Proposed Renovation Path for Your Semi-Detached House in Ghent
+
+To maximize energy efficiency and improve the EPC score (currently 388) in a cost-effective manner, the renovation should follow a "fabric-first" approach. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is a 1951 semi-detached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Pitched Roof:** The main roof is a pitched roof without insulation. This is a priority as heat rises; insulating the pitched roof is one of the most effective ways to lower energy consumption.
+2. **Insulate Exterior Walls:** All exterior walls are solid brick and not insulated. Insulating the walls on the interior is significantly more cost-effective than wall cavity insulation and provides a substantial increase in thermal retention.
+3. **Insulate Floor Above Basement:** The floor above the basement is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+
+#### Phase 2: Window Performance
+The window performance should be enhanced, since the single glazing leads to significant heat losses.
+
+4. **Replace Glazing:** All glazing should be replaced, as all windows still have double glazing. Adding triple glazing would drastically improve the thermal performance.
+
+#### Phase 3: High-Efficiency Heating Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+5. **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+#### Phase 4: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### Phase 5: Sustainable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Pitched Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **5** | **PV Panels** | Provides renewable electricity to power the heat pump and ventilation system. |
+
+This plan ensures that you maximize energy efficiency while remaining cost-effective, following a logical sequence that prioritizes the most impactful upgrades first.

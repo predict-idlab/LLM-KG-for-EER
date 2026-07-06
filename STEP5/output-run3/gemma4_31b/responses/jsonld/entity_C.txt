@@ -1,0 +1,29 @@
+Based on the provided building data and the RENO ontology, the property is a very modern attached building (constructed in 2023) with an exceptionally high energy efficiency rating, evidenced by an **EPC score of 50 (A Label)**. 
+
+Because the building is already highly optimized, the remaining opportunities for improvement are marginal. However, to satisfy the owner's motivation to further improve the EPC and address the noted need to change the emission system, the following targeted renovation path is proposed.
+
+### Proposed Renovation Path
+
+Since the "fabric" is already nearly perfect, this plan focuses on the final remaining thermal weakness and the transition from traditional/electric heating to a sustainable, high-efficiency heat pump system.
+
+#### Phase 1: Final Envelope Optimization
+While most of the house is "Well Insulated," the main gable roof is currently only "Moderately Insulated."
+1.  **Insulate Gable Roof:** Upgrading the `RoofMain` from moderately to well-insulated will eliminate the final significant point of heat loss, ensuring the thermal envelope is fully optimized.
+
+#### Phase 2: Heating System Modernization
+The building currently relies on a Boiler and Electric Convectors. Electric convectors are notoriously inefficient and likely the primary reason for the `hasReasonToChangeEmissionSystem: true` flag.
+2.  **Place Emission System on Low Temperature:** To maximize the efficiency of a modern heat pump, the existing emission system (specifically replacing the electric convectors) should be transitioned to low-temperature emitters.
+3.  **Place Air-Water Heat Pump:** With geothermal potential and heat grid access both unavailable, an **Air-Water Heat Pump** is the most cost-effective and energy-efficient replacement for the existing boiler. This will shift the home from combustible or high-resistance electric heating to a sustainable energy source.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Completes the "Fabric First" approach by bringing the only moderately insulated element up to the "Well Insulated" standard of the rest of the house. |
+| **2** | **Low-Temp Emission Upgrade** | Prepares the building's interior to handle the lower flow temperatures of a heat pump, which is essential for a high Coefficient of Performance (COP). |
+| **3** | **Air-Water Heat Pump** | Replaces the boiler with a sustainable generator, leveraging the already excellent insulation to minimize the energy required for heating. |
+
+**Final Note on Cost-Effectiveness:** 
+Because the building is already an "A" label, the ROI on these upgrades will be lower than in an older home. However, replacing electric convectors with a heat pump system provides the most significant long-term operational cost reduction and the most substantial remaining boost to the EPC score.

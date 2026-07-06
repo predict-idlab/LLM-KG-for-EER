@@ -1,0 +1,108 @@
+### Renovation Plan for Example Building
+
+**Objective:** Improve the Energy Performance Certificate (EPC) of the building from its current score of 50 to at least a C label (energy score between 200 and 300 kWh/m²year), while maximizing energy efficiency and cost-effectiveness.
+
+**Current Building Details:**
+- **Type:** Attached Building
+- **Net Floor Area:** 159.0 m²
+- **Elements:**
+  - **Roofs:**
+    - RoofMain (Gable Roof) - Insulation Grade: Moderately Insulated
+    - RoofExtension (Flat Roof) - Insulation Grade: Well Insulated
+  - **Walls:**
+    - WallFront (Full Brick Wall) - Insulation Grade: Well Insulated
+    - WallRear (Full Brick Wall) - Insulation Grade: Well Insulated
+  - **Windows:**
+    - WindowsLivingArea (Double Glazing) - Framed with WoodenWindowFrame (Good State)
+    - WindowsBedrooms (Double Glazing) - Framed with WoodenWindowFrame (Good State)
+  - **Floors:**
+    - FloorAboveBasement - Insulation Grade: Well Insulated
+  - **Systems:**
+    - VentilationSystem (Type D)
+    - GenerationSystem (Boiler)
+    - EmissionSystem (Electric Convector and Floor Heating)
+  - **Potential for PV Panels:** False
+  - **Presence of Heat Grid:** False
+  - **Potential for Vertical Geothermal Drilling:** False
+  - **Potential for Horizontal Geothermal Captation:** False
+  - **Address:** Postal Code 9000, Country: Belgium
+
+**Renovation Motivation:** To improve the EPC of the dwelling.
+
+**Renovation Plan:**
+
+1. **Insulate Flat Roof (RoofExtension)**
+   - **Reasoning:** The flat roof (RoofExtension) is currently well insulated, but there is still room for improvement to achieve a higher insulation grade.
+   - **Action:** Insulate the flat roof to further improve its insulation grade.
+   - **Suggestion Ordering:** 25
+   - **Permit Needed:** Only if thickness of total pack >26cm (Flanders)
+   - **Nuisance Level:** High
+   - **Price Unit:** €50/m²
+   - **Point of Attention:** Opt for an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering, do not insulate the flat roof on the inside.
+
+2. **Insulate Gable Roof (RoofMain)**
+   - **Reasoning:** The gable roof (RoofMain) is currently moderately insulated and can benefit from better insulation to improve the overall building performance.
+   - **Action:** Insulate the gable roof to enhance its insulation grade.
+   - **Suggestion Ordering:** 28
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Nuisance Level:** Low
+   - **Price Unit:** €60/m²
+   - **Point of Attention:** Pay extra attention when installing the roof underlayment so that it is completely air- and watertight. Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+
+3. **Insulate Attic Floor**
+   - **Reasoning:** The attic floor (if present) can be a significant source of heat loss and should be well insulated to improve energy efficiency.
+   - **Action:** Insulate the attic floor to minimize heat loss.
+   - **Suggestion Ordering:** 31
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Nuisance Level:** Low
+   - **Price Unit:** €60/m²
+   - **Point of Attention:** In many cases, a vapour barrier is necessary when insulating the attic floor. Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+
+4. **Insulate Wall Cavity**
+   - **Reasoning:** The walls (WallFront and WallRear) are currently well insulated, but cavity wall insulation can further improve thermal performance.
+   - **Action:** Insulate the wall cavity to enhance the walls' insulation grade.
+   - **Suggestion Ordering:** 34
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Nuisance Level:** Low
+   - **Price Unit:** €22/m²
+   - **Point of Attention:** Have an inspection carried out by a contractor, who can determine whether the cavity wall is suitable for injecting insulation. Namely, it should be checked whether the cavity is wide enough, whether there is no contamination in the cavity, whether the cladding is vapour-permeable enough, etc.
+
+5. **Insulate Wall on Interior**
+   - **Reasoning:** Interior wall insulation can be a cost-effective way to improve thermal comfort and energy efficiency, especially if exterior insulation is not feasible.
+   - **Action:** Insulate the walls on the interior to enhance their insulation grade.
+   - **Suggestion Ordering:** 37
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Nuisance Level:** Moderate
+   - **Price Unit:** €150/m²
+   - **Point of Attention:** Sockets, pipes and radiators against the outer walls will have to be relocated. Insulating walls on the inside is a delicate job. Get assistance from an architect, contractor or craftsman for expert advice and proper execution of the works.
+
+6. **Replace Ventilation System**
+   - **Reasoning:** The current ventilation system (Type D) may not be the most energy-efficient option available.
+   - **Action:** Replace the ventilation system with a more efficient model.
+   - **Suggestion Ordering:** 52
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Nuisance Level:** Moderate
+   - **Price Unit:** €17/m²
+   - **Point of Attention:** For a ventilation system C, you need grilles in your window frames.
+
+7. **Place Low-Temperature Emission System**
+   - **Reasoning:** A low-temperature emission system can improve the efficiency of the heating system and reduce energy consumption.
+   - **Action:** Install a low-temperature emission system to enhance the heating system's efficiency.
+   - **Suggestion Ordering:** 70
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Nuisance Level:** Moderate
+   - **Price Unit:** €100/m²
+   - **Point of Attention:** Check that your emission system corresponds to the supply and return temperatures of the heat grid.
+
+**Total Estimated Cost:** The total cost will depend on the specific dimensions and materials used, but a rough estimate can be calculated based on the price units and the building's net floor area. For example, insulating the flat roof at €50/m² for 159 m² would cost approximately €7,950, not including labor and other potential costs.
+
+**Implementation Sequence:**
+1. Insulate Flat Roof
+2. Insulate Gable Roof
+3. Insulate Attic Floor
+4. Insulate Wall Cavity
+5. Insulate Wall on Interior
+6. Replace Ventilation System
+7. Place Low-Temperature Emission System
+
+**Note:** The exact sequence and details of each step should be reviewed and adjusted by a professional based on the specific conditions and requirements of the building and local regulations. Additionally, consider consulting with an energy expert to ensure the most effective and efficient renovation plan tailored to your needs.

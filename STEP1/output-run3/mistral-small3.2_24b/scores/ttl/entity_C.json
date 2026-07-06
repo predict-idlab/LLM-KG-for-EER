@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": [], "extra_actions": ["insulate flat roof", "replace gable roof", "upgrade window glazing", "install pv panels", "upgrade ventilation system", "insulate walls", "connect to heat grid", "place sun shades"]}, "sequence": {"order_errors": ["place air-water heatpump"]}}

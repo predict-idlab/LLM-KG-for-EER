@@ -1,0 +1,70 @@
+### Renovation Plan for Semi-Detached Building (Example Address, 9000, Belgium)
+
+#### **Priority 1: Improve Insulation (Energy Efficiency)**
+1. **Insulate Roof Extension (Flat Roof)**
+   - **Action:** Insulate the existing moderately insulated flat roof to enhance thermal performance.
+   - **Reason:** The current insulation grade is "Moderately Insulated," which can be improved to "Well Insulated."
+   - **Estimated Cost:** ~€50/m² (based on the suggestion list).
+
+2. **Insulate Gable Roof (Main Roof)**
+   - **Action:** Insulate the gable roof, which is currently "Not Insulated."
+   - **Reason:** Improving insulation will significantly reduce heat loss and improve energy efficiency.
+   - **Estimated Cost:** ~€60/m².
+
+3. **Insulate Wall Cavity (Exterior Walls)**
+   - **Action:** Inject insulation into the wall cavities of the exterior walls (Front, Rear, and Right).
+   - **Reason:** The walls are "Not Insulated," and cavity wall insulation is a cost-effective way to improve thermal performance.
+   - **Estimated Cost:** ~€22/m².
+
+4. **Insulate Floor Above Basement**
+   - **Action:** Insulate the floor above the basement to reduce heat loss through the floor.
+   - **Reason:** The floor is currently "Not Insulated," and insulation will improve comfort and energy efficiency.
+   - **Estimated Cost:** ~€30/m².
+
+#### **Priority 2: Upgrade Windows and Glazing**
+1. **Replace Glazing (Windows in Bedrooms and Living Area)**
+   - **Action:** Replace existing double-glazed windows with triple-glazed windows.
+   - **Reason:** Triple glazing will improve thermal and acoustic performance, reducing heat loss and noise.
+   - **Estimated Cost:** ~€200/m².
+
+#### **Priority 3: Ventilation and Heating System Upgrades**
+1. **Replace Ventilation System**
+   - **Action:** Upgrade from Ventilation System A (natural air supply and exhaust) to Ventilation System B or C (mechanical air supply and/or exhaust).
+   - **Reason:** Improving ventilation will enhance indoor air quality and comfort.
+   - **Estimated Cost:** ~€3,500 (fixed) + €17/m².
+
+2. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump to replace the existing boiler system.
+   - **Reason:** Heat pumps are more energy-efficient and can reduce heating costs significantly.
+   - **Estimated Cost:** ~€8,000 (fixed) + €35/m².
+
+#### **Priority 4: Solar Energy Integration**
+1. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on the gable roof.
+   - **Reason:** The building has potential for PV installation, and solar energy can reduce electricity costs and carbon footprint.
+   - **Estimated Cost:** ~€275/m².
+
+#### **Optional Upgrades (Future Considerations)**
+1. **Place Sunshade**
+   - **Action:** Install external sunshades on windows facing south or west to reduce solar heat gain in summer.
+   - **Reason:** This can improve comfort and reduce cooling needs.
+   - **Estimated Cost:** ~€750 per window.
+
+2. **Place Air Conditioning**
+   - **Action:** Install air conditioning units in key living areas.
+   - **Reason:** This can improve comfort during hot summer months.
+   - **Estimated Cost:** ~€1,000 per unit.
+
+### **Summary of Key Actions:**
+| **Action**                          | **Estimated Cost (€)** | **Priority** |
+|--------------------------------------|-----------------------|-------------|
+| Insulate Flat Roof (Roof Extension)  | ~€50/m²               | 1           |
+| Insulate Gable Roof                  | ~€60/m²               | 1           |
+| Insulate Wall Cavity (Exterior Walls)| ~€22/m²               | 1           |
+| Insulate Floor Above Basement         | ~€30/m²               | 1           |
+| Replace Glazing (Windows)             | ~€200/m²              | 2           |
+| Replace Ventilation System            | ~€3,500 + €17/m²       | 3           |
+| Install Air-Water Heat Pump          | ~€8,000 + €35/m²       | 3           |
+| Install PV-Panels on Roof            | ~€275/m²              | 4           |
+
+This plan focuses on improving energy efficiency, comfort, and long-term cost savings through strategic upgrades. The actions are prioritized based on cost-effectiveness and potential energy savings.

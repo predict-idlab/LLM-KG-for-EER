@@ -1,0 +1,46 @@
+Given that your home was built in 2017 and already features a heat pump, Ventilation System D, and photovoltaic panels, you are starting from a very strong baseline. An EPC score of 87 is already quite efficient for a house of this size in Belgium.
+
+To further improve the EPC and reduce operational costs, the focus should shift from "major overhaul" to **"precision optimization."** Because the house is relatively modern, the marginal gains are smaller, so cost-effectiveness is key.
+
+Here is the proposed renovation path, sequenced by priority and ROI.
+
+### Step 1: Thermal Envelope Optimization (The "Quick Win")
+The only identified weakness in your building envelope is the **moderate insulation of the main pitched roof**. Heat rises, and this is likely your primary source of thermal loss.
+
+*   **Action:** Upgrade the insulation of the pitched roof. Depending on the construction, this can be done by adding insulation blankets (mineral wool or cellulose) in the attic space or upgrading the existing layers.
+*   **Goal:** Bring the roof insulation level up to "well insulated" to match the walls and flat roof.
+*   **Cost-Effectiveness:** High. This is the most direct way to lower the workload on your heat pump and improve the EPC score.
+
+### Step 2: Thermal Imaging & Air-Tightness Audit
+Since the house is already well-insulated, the remaining energy losses are likely caused by "thermal bridges" (small gaps where heat escapes) rather than a lack of insulation material.
+
+*   **Action:** Conduct a professional **thermographic scan** (infrared camera) during winter. This will identify specific cold spots around window frames, roof junctions, or the party wall.
+*   **Action:** Check the seals of the Ventilation System D to ensure there are no leaks in the ducting, maximizing heat recovery.
+*   **Cost-Effectiveness:** Very High. Identifying a specific leak is much cheaper than replacing an entire component.
+
+### Step 3: Glazing Performance Review
+Your windows were renewed in 2020 and are in good condition. Replacing them entirely would be **not cost-effective**. However, there is a middle ground.
+
+*   **Action:** Verify if the current double glazing is "High Efficiency" (HR++). If not, and if the wooden frames allow, consider replacing only the glass units with **triple glazing or low-emissivity (Low-E) glass**.
+*   **Action:** Install external solar shading (e.g., adjustable blinds or awnings) on south-facing windows to reduce cooling loads during summer, which reduces the energy consumption of the heat pump in cooling mode.
+*   **Cost-Effectiveness:** Moderate. Only pursue glass replacement if the thermographic scan shows significant heat loss through the windows.
+
+### Step 4: Smart Energy Management (HEMS)
+Since you have both a heat pump and PV panels, the goal is to maximize "self-consumption"—using your own solar electricity to heat your home rather than buying it from the grid.
+
+*   **Action:** Install a **Home Energy Management System (HEMS)**. This allows you to automate the heat pump to run more intensively during peak PV production hours (thermal buffering).
+*   **Action:** If the budget allows, consider a small battery storage system to shift solar energy from day to night, though the ROI on batteries in Belgium varies based on current grid tariffs.
+*   **Cost-Effectiveness:** Moderate to High (Long-term operational savings).
+
+---
+
+### Summary of the Optimal Sequence
+
+| Priority | Action | Focus | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Pitched Roof Insulation** | Thermal Envelope | High | Very High |
+| **2** | **Thermographic Audit** | Precision Fixing | Low/Medium | Very High |
+| **3** | **HEMS / Smart Control** | Operational Efficiency | Medium | High |
+| **4** | **Glass Upgrade/Shading** | Thermal Envelope | Medium | Moderate |
+
+**Expert Final Tip:** Before starting, check for **Flemish energy grants (Premies)**. Since you are in Ghent, you may be eligible for subsidies on insulation and energy audits, which significantly increases the cost-effectiveness of Step 1 and Step 2.

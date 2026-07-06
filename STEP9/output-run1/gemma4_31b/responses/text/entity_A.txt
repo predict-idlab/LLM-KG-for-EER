@@ -1,0 +1,58 @@
+To move your house from an EPC score of 388 to a high-performance rating, you must follow the **"Fabric First"** principle. The most common mistake is replacing the heating system before insulating the shell; this leads to oversized, inefficient equipment and higher costs.
+
+Given the 1951 construction and the specific constraints of a semi-detached home in Ghent, here is the optimal, step-by-step renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*Goal: Stop heat loss so you can install a smaller, cheaper, and more efficient heating system.*
+
+1.  **Roof Insulation (Highest Priority):** 
+    *   **Action:** Insulate the pitched roof. Since it is in good condition, you can use blown-in insulation (cellulose or mineral wool) if it's a crawl space, or internal insulation boards if it's a living space.
+    *   **Why:** Heat rises; this is the fastest way to drop your EPC score and reduce immediate energy bills.
+2.  **Floor Insulation (Basement Ceiling):**
+    *   **Action:** Insulate the ceiling of the basement. 
+    *   **Why:** This is a cost-effective "quick win" that eliminates the "cold feet" effect and prevents heat from leaking into the basement.
+3.  **Wall Insulation (The Biggest Challenge):**
+    *   **Action:** Since these are solid brick walls, cavity wall insulation is not possible. I propose **External Wall Insulation (EWI)**. If the semi-detached nature or budget prevents EWI, focus on **Internal Wall Insulation (IWI)** for the most exposed rooms.
+    *   **Why:** Solid brick walls are thermal bridges. EWI is the most effective way to improve the EPC score and protect the structure from moisture.
+
+### Phase 2: Ventilation & Airtightness
+*Goal: Ensure air quality and prevent mold once the house is "sealed."*
+
+4.  **Upgrade Ventilation:**
+    *   **Action:** Move from "basic natural ventilation" to a **Mechanical Ventilation system (Type C or preferably Type D with heat recovery)**.
+    *   **Why:** Once you insulate the walls and roof, the house becomes more airtight. Without mechanical ventilation, you risk condensation and mold. A heat-recovery system (Type D) pre-warms incoming fresh air using the heat from outgoing stale air.
+
+### Phase 3: The Heating System (The "Engine")
+*Goal: Replace outdated emitters and the boiler with a low-carbon alternative.*
+
+5.  **Emission System Upgrade:**
+    *   **Action:** Replace the old radiators and air heating with **low-temperature radiators** or expand the **underfloor heating**.
+    *   **Why:** Modern heat pumps do not work efficiently with old, high-temperature radiators. You need a larger surface area for heat emission to operate at lower temperatures.
+6.  **Heat Pump Installation:**
+    *   **Action:** Install an **Air-to-Water Heat Pump**.
+    *   **Why:** Since geothermal and district heating are unavailable, an air-to-water pump is the most sustainable choice. Because you completed Phase 1, the pump can be smaller (cheaper) and operate at maximum efficiency.
+
+### Phase 4: Renewable Energy (Offsetting Costs)
+*Goal: Transition from an energy consumer to a prosumer.*
+
+7.  **Photovoltaic (PV) Panels:**
+    *   **Action:** Install solar panels on the pitched roof.
+    *   **Why:** A heat pump increases your electricity consumption. PV panels offset this cost and provide a hedge against fluctuating energy prices.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Order | Step | Focus | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof & Floor Insulation** | Shell | High | Very High (Quick ROI) |
+| **2** | **Wall Insulation** | Shell | Very High | Medium (Higher Capex) |
+| **3** | **Mechanical Ventilation** | Health/Air | Medium | High (Preventative) |
+| **4** | **Low-Temp Emitters** | Distribution | Low | Medium |
+| **5** | **Air-to-Water Heat Pump** | Generation | High | High (Long-term) |
+| **6** | **PV Panels** | Generation | Medium | High (Operational) |
+
+### Expert Tip for Ghent/Flanders:
+Before starting, check the **"Mijn VerbouwPremie"** (My Renovation Premium) in Flanders. The Flemish government provides significant subsidies for this exact sequence. Ensure you hire a recognized auditor to document the "before" and "after" states to maximize your grant eligibility.

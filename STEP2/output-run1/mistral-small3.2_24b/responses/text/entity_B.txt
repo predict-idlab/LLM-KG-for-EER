@@ -1,0 +1,58 @@
+Given the specifics of your 1832 attached house in Ghent, Belgium, here’s a cost-effective, step-by-step renovation plan to improve energy efficiency while prioritizing practical upgrades:
+
+### **1. Improve Insulation**
+**Priority:** High
+**Focus Areas:**
+- **Exterior Walls (Front & Rear):** Install external wall insulation (EWI) on the solid brick walls. This minimizes heat loss and avoids disrupting the interior. Use a high-performance insulation material like mineral wool or rigid foam.
+- **Flat-Roof Extension:** Add insulation to the uninsulated flat roof. Use a suitable material (e.g., polyisocyanurate foam) to ensure thermal performance.
+- **Floor Above Basement:** Insulate this area to reduce heat loss to the basement. Use a thin but effective insulation material to avoid reducing headroom.
+
+**Why First?** Insulation is the most cost-effective way to reduce heat loss and improve the EPC score.
+
+### **2. Upgrade Heating System**
+**Priority:** High
+**Options:**
+- Replace the old boiler with a **condensing boiler** (higher efficiency than conventional boilers).
+- Consider a **heat pump** (air-source or hybrid) if budget allows, as they are more energy-efficient in the long run.
+- Upgrade radiators to **low-temperature or underfloor heating** to work better with modern boilers/heat pumps.
+
+**Why Next?** A more efficient heating system complements insulation upgrades.
+
+### **3. Optimize Ventilation**
+**Priority:** Medium
+**Action:**
+- Replace the basic natural ventilation with a **heat recovery ventilation (HRV) system**. This reduces heat loss while maintaining air quality.
+
+**Why?** Proper ventilation prevents drafts and improves indoor air quality without wasting energy.
+
+### **4. Install Photovoltaic (PV) Panels**
+**Priority:** Medium-Low
+**Action:**
+- Assess the roof’s suitability for PV panels (south-facing, minimal shading).
+- Install a **PV system** to generate electricity, reducing reliance on the grid.
+
+**Why Later?** PV panels are beneficial but depend on initial insulation and heating upgrades for maximum impact.
+
+### **5. Window Upgrades (If Needed)**
+**Priority:** Low
+**Action:**
+- Since your windows have double glazing and are in good condition, **no immediate upgrade is needed**. However, if drafts are an issue, consider **secondary glazing** or **weatherstripping** as a low-cost alternative.
+
+### **6. Smart Controls & Monitoring**
+**Priority:** Low
+**Action:**
+- Install a **smart thermostat** to optimize heating schedules and reduce energy waste.
+
+### **Optimal Renovation Sequence:**
+1. **Insulation** (walls, flat roof, floor above basement).
+2. **Heating system upgrade** (boiler/heat pump + radiators).
+3. **Ventilation upgrade** (HRV system).
+4. **Photovoltaic panels** (if feasible).
+5. **Minor window improvements** (if needed).
+
+### **Expected Benefits:**
+- **Lower energy bills** due to reduced heat loss and efficient heating.
+- **Higher EPC score**, potentially improving property value.
+- **Long-term cost savings** from lower energy consumption.
+
+Would you like cost estimates or specific product recommendations for any of these steps?

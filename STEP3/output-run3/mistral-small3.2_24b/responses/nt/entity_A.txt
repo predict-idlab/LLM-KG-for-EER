@@ -1,0 +1,72 @@
+Based on the provided ontology and suggestion list, I've analyzed the building-related information and formulated the following renovation plan:
+
+### Renovation Plan:
+
+#### 1. **Replace the Flat Roof (RoofExtension)**
+   - **Reasoning**: The flat roof (RoofExtension) is currently not insulated and has a moderately insulated state. Replacing it will improve the building's energy efficiency.
+   - **Action**: Replace the entire flat roof with a new, properly insulated roof.
+   - **Ordering**: 10 (as per the suggestion list)
+   - **Nuisance Level**: High
+   - **Permit Needed**: Only if the thickness of the total pack >26cm (Flanders)
+
+#### 2. **Replace the Gable Roof (RoofMain)**
+   - **Reasoning**: The gable roof (RoofMain) is currently not insulated and has a good state. Replacing it will further enhance the building's energy performance.
+   - **Action**: Replace the entire gable roof with a new, insulated roof.
+   - **Ordering**: 13 (as per the suggestion list)
+   - **Nuisance Level**: High
+   - **Permit Needed**: Only if the roof framework is renewed (Flanders)
+
+#### 3. **Insulate the Attic Floor (FloorAboveBasement)**
+   - **Reasoning**: The attic floor (FloorAboveBasement) is currently not insulated. Insulating it will improve the building's thermal comfort and energy efficiency.
+   - **Action**: Insulate the attic floor with appropriate insulation material.
+   - **Ordering**: 31 (as per the suggestion list)
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+
+#### 4. **Insulate the Walls (Wall_Front, Wall_Rear, Wall_Right)**
+   - **Reasoning**: All three walls (Wall_Front, Wall_Rear, Wall_Right) are currently not insulated. Insulating them will significantly enhance the building's energy efficiency.
+   - **Action**: Insulate the interior of the walls with appropriate insulation material.
+   - **Ordering**: 37 for interior insulation (as per the suggestion list)
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary (Flanders)
+
+#### 5. **Replace the Ventilation System (VentilationSystem)**
+   - **Reasoning**: The current ventilation system (VentilationSystem) is of type A. Replacing it with a more efficient system will improve air quality and comfort.
+   - **Action**: Install a new, more efficient ventilation system.
+   - **Ordering**: 52 (as per the suggestion list)
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+
+#### 6. **Replace the Windows (WindowsBedrooms, WindowsLivingArea)**
+   - **Reasoning**: The windows in the bedrooms and living area (WindowsBedrooms, WindowsLivingArea) have wooden frames and double glazing. Replacing them with more energy-efficient windows will enhance the building's overall energy performance.
+   - **Action**: Replace the existing windows with new, energy-efficient windows.
+   - **Ordering**: 46 (as per the suggestion list)
+   - **Nuisance Level**: High
+   - **Permit Needed**: Not necessary if the measurements are kept (Flanders)
+
+#### 7. **Install a New Emission System (EmissionSystem)**
+   - **Reasoning**: The current emission system (EmissionSystem) is a radiator. Installing a more efficient system will improve the building's heating efficiency.
+   - **Action**: Install a new, low-temperature emission system.
+   - **Ordering**: 70 (as per the suggestion list)
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary (Flanders)
+
+#### 8. **Consider Installing Solar Panels**
+   - **Reasoning**: The building has potential for PV (solar panels) as indicated by the `hasPotentialForPV` property.
+   - **Action**: Evaluate the feasibility of installing solar panels on the roof or in the garden.
+   - **Ordering**: 85 for roof panels, 88 for garden panels (as per the suggestion list)
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders) for roof panels, not necessary (Flanders) for garden panels
+
+### Additional Recommendations:
+- **Monitor and Maintain**: Regularly monitor the performance of the new systems and maintain them to ensure optimal efficiency.
+- **Energy Audit**: Consider conducting a comprehensive energy audit to identify further opportunities for energy savings.
+
+This plan prioritizes actions that will have the most significant impact on the building's energy efficiency and thermal comfort. The ordering of the actions is based on the suggestion list provided, ensuring that each step maximizes the benefits of the previous ones.
+
+### Notes:
+- **Permit Requirements**: Always check local regulations and obtain necessary permits before starting any renovation work.
+- **Professional Assistance**: For complex tasks like roof replacement and ventilation system installation, consider hiring professionals to ensure proper execution.
+- **Cost Considerations**: While the plan focuses on energy efficiency, it's essential to balance the cost of renovations with the expected benefits.
+
+This plan is designed to be both practical and cost-effective, focusing on the most impactful upgrades first.

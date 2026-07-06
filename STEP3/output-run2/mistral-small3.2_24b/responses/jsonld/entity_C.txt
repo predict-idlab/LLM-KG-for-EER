@@ -1,0 +1,21 @@
+Based on the information provided, here's a step-by-step renovation plan for the building described:
+
+1. **Assess Current State**: The building has an energy score of 50 kWh/m²year (EPC label D). The walls are well insulated, but the roofs have moderate insulation, and the windows have single glazing. The building has potential for PV panels but lacks current installations.
+
+2. **Prioritize Energy Efficiency**: Given the motivation to improve the EPC, prioritize renovations that will have the most significant impact on energy efficiency.
+
+3. **Immediate Actions**:
+   - **Replace Glazing**: Replace the single glazing with double glazing on all windows (ordering: 43). This will significantly improve the thermal performance of the windows.
+   - **Insulate Roofs**: Insulate the gable roof (ordering: 28) and the flat roof (ordering: 25) to bring them up to the same standard as the walls. This will reduce heat loss through the roof.
+
+4. **Medium-Term Actions**:
+   - **Replace Ventilation System**: Consider replacing the ventilation system with a more efficient model (ordering: 52). This could be a system D, which has higher efficiency but requires more ductwork.
+   - **Place PV Panels**: Given the potential for PV panels and the desire to improve the EPC, consider installing PV panels on the roof (ordering: 85) or in the garden (ordering: 88). This will reduce the reliance on grid electricity and lower energy costs.
+
+5. **Long-Term Considerations**:
+   - **Heat Pump**: Consider replacing the current emission system with a heat pump (ordering: 58, 61, 64, 67, 70, 73, 76). This could be an air-air heat pump, air-water heat pump, or a geothermal heat pump, depending on the feasibility and cost.
+   - **Sunshade**: Install a sunshade (ordering: 79) to reduce solar heat gain in the summer, which can help maintain a comfortable indoor temperature without excessive air conditioning.
+
+6. **Monitor and Maintain**: Regularly monitor the energy performance of the building to ensure that the renovations are having the desired effect. Maintain the new systems to ensure their longevity and efficiency.
+
+This plan focuses on improving the energy efficiency of the building, which aligns with the owner's motivation to improve the EPC. The suggested renovations are practical and cost-effective, with a focus on maximizing energy savings and reducing long-term operational costs.

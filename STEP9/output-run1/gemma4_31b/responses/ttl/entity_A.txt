@@ -1,0 +1,47 @@
+To maximize energy efficiency and cost-effectiveness for this 1951 semi-detached building, I propose a **"Fabric First"** renovation strategy. The goal is to first minimize heat loss (reducing the required heating load) before upgrading the generation systems. This ensures that the heating system installed is correctly sized and operates at maximum efficiency.
+
+### Phase 1: Building Envelope (Thermal Insulation)
+The building currently has an EPC score of 388 (D label), primarily due to a lack of insulation in the main structure.
+
+1.  **Insulate Gable Roof (`RoofMain`):** The main roof is not insulated. This is the highest priority as heat rises. 
+    *   *Action:* **Insulate gable roof**.
+2.  **Insulate Exterior Walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`):** All three external walls are full brick and not insulated. Since these are full brick (not cavity), cavity injection is not possible.
+    *   *Action:* **Insulate wall on exterior**. This is more cost-effective and efficient in the long run than interior insulation and avoids reducing indoor living space.
+3.  **Insulate Floor Above Basement (`FloorAboveBasement`):** The floor is currently not insulated.
+    *   *Action:* **Insulate floor above basement** to prevent cold drafts from the basement.
+
+*Note: Windows are already double-glazed and the wooden frames are in good state, so replacing them is not recommended at this time to remain cost-effective.*
+
+### Phase 2: Ventilation and Air Quality
+Once the building is insulated, it becomes more airtight, which can lead to moisture issues if ventilation is not addressed.
+
+4.  **Upgrade Ventilation System:** The building currently uses "Ventilation System A" (natural supply/exhaust), which is the least efficient.
+    *   *Action:* **Replace ventilation system** (upgrading to System C or D) to ensure healthy indoor air quality and reduce heat loss through uncontrolled ventilation.
+
+### Phase 3: Heating System Modernization
+With the thermal load significantly reduced by Phase 1, we can now replace the outdated boiler with a high-efficiency system.
+
+5.  **Optimize Emission System:** The building has a noted reason to change its emission system. Heat pumps work most efficiently with low-temperature emitters.
+    *   *Action:* **Place emission system on low temperature**.
+6.  **Replace Generation System:** Since there is no access to a heat grid and no potential for geothermal energy, an air-source system is the optimal choice.
+    *   *Action:* **Place air-water heatpump**. This integrates well with the existing floor heating and radiators.
+
+### Phase 4: Renewable Energy Integration
+To further lower the EPC score and reduce operational energy costs, the building should generate its own electricity.
+
+7.  **Solar Energy:** The building is flagged as having potential for PV.
+    *   *Action:* **Place PV-panels on roof**. This will offset the electricity consumption of the new air-water heat pump.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Target Element | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | Stop the largest source of heat loss. |
+| **2** | **Insulate Exterior Walls** | `Walls` | Create a thermal envelope. |
+| **3** | **Insulate Floor** | `FloorAboveBasement` | Eliminate cold floors. |
+| **4** | **Replace Ventilation** | `VentilationSystem` | Prevent condensation in an insulated home. |
+| **5** | **Low-Temp Emission** | `EmissionSystem` | Prepare for heat pump efficiency. |
+| **6** | **Air-Water Heat Pump** | `Generation_System` | Replace fossil fuel boiler with green tech. |
+| **7** | **Install PV Panels** | `Roof` | Offset electrical costs of the heat pump. |

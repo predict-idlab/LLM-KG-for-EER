@@ -1,0 +1,45 @@
+Based on the provided building data and the RENO ontology, the property is a detached building from 1862 with a current energy score of 165 (B Label). While the building is already performing relatively well, the owner's motivation is to further improve the EPC.
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** approach. We will first reduce the energy demand of the building through insulation and glazing before upgrading the heating and energy generation systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Reducing Heat Loss)
+*The goal here is to stop energy leaks using the most cost-effective methods available.*
+
+1.  **Insulate Wall Cavities:** 
+    *   **Action:** `insulate wall cavity`
+    *   **Justification:** All four exterior walls are cavity walls and currently "Not Insulated." This is the most cost-effective insulation upgrade (Unit Price: 22/m²) and has a low nuisance level.
+2.  **Insulate Floor Above Basement:** 
+    *   **Action:** `insulate floor above basement`
+    *   **Justification:** The building has a floor above a crawl space. Insulating this area (Unit Price: 30/m²) prevents cold air from entering the living spaces from below.
+3.  **Upgrade Window Glazing:** 
+    *   **Action:** `replace glazing`
+    *   **Justification:** The bedrooms and living area currently have "Single Glazing," which is a major source of thermal loss. Since the wooden frames are in "Good State" (Value: 8), replacing only the glass is significantly more cost-effective than replacing the entire window unit.
+
+#### Phase 2: High-Efficiency System Upgrade (Reducing Energy Consumption)
+*Once the building is "tight," we can install a smaller, more efficient heating system.*
+
+4.  **Transition to Heat Pump:** 
+    *   **Action:** `place air-water heatpump`
+    *   **Justification:** There is a stated reason to change the emission system, and a heat grid is unavailable. Since the site has no potential for geothermal drilling/captation, an air-water heat pump is the most efficient alternative to the existing boiler. This aligns with the goal of improving the EPC score.
+
+#### Phase 3: Sustainable Energy Generation (Lowering Operational Costs)
+*The final step is to offset the electricity used by the new heat pump.*
+
+5.  **Install Solar Energy:** 
+    *   **Action:** `place PV-panels on roof`
+    *   **Justification:** The building has confirmed potential for PV. Installing panels on the roof will reduce reliance on the grid and lower the overall energy score of the dwelling.
+
+---
+
+### Summary of Strategic Sequencing & Cost-Effectiveness
+
+| Sequence | Intervention | Cost Profile | Impact | Why this order? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Wall & Floor Insulation | Low | High | Lowest cost per unit of energy saved. |
+| **2** | Glazing Upgrade | Moderate | High | Eliminates major thermal bridges without replacing frames. |
+| **3** | Air-Water Heat Pump | High | Very High | Reduced heat demand from Ph 1 allows for a more efficient system. |
+| **4** | PV Panels | Moderate | High | Offsets the electricity cost of the new heat pump. |
+
+**Estimated Performance Gain:** By addressing the single glazing and uninsulated cavity walls first, the building's heat demand will drop significantly, allowing the new heat pump to operate at maximum efficiency and pushing the EPC score toward an **A or A+ label**.

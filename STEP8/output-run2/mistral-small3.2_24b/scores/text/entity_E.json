@@ -1,0 +1,6 @@
+{"completeness": {
+    "missing_actions": ["insulate wall on interior", "place air-water heatpump", "place emission system on low temperature", "place PV-panels on roof"],
+    "extra_actions": ["insulate cavity walls", "insulate floor above crawl space", "replace single glazing with double glazing", "install low-temperature heat emission system", "replace boiler with air-water heat pump", "install photovoltaic panels on roof"]
+}, "sequence": {
+    "order_errors": []
+}}

@@ -1,0 +1,127 @@
+To maximize energy efficiency while remaining cost-effective, the renovation should follow a "fabric-first" approach. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+Proposed Renovation Path
+
+Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is a 1967 semi-detached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Flat Roof:** The roof is currently not insulated. This is a priority as heat rises; insulating the flat roof is one of the most effective ways to lower energy consumption.
+2. **Insulate Wall On Interior:** All three external walls (Front, Rear, and Right) are full brick and not insulated. **Insulating the wall on the interior** is significantly more cost-effective than wall cavity insulation and provides a substantial increase in thermal retention.
+3. **Insulate Floor Above Basement:** The floor above the basement is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+
+Phase 2: Window Performance
+The window performance should be enhanced, since the single glazing leads to significant heat losses.
+
+4. **Replace Glazing:** All glazing should be replaced, as all windows still have single glazing. Adding double or even triple glazing would drastically improve the thermal performance.
+
+Phase 3: High-Efficiency Heating Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+5. **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+Phase 4: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+
+### Entity Information:
+<http://example.com/WindowsLivingArea> <https://w3id.org/reno#hasGlazing> <http://example.com/WindowGlazingLivingArea> .
+<http://example.com/Site> <https://w3id.org/reno#potentialForVerticalGeothermalDrilling> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/Wall_Left> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#FullBrickWall> .
+<http://example.com/RoofExtension> <https://w3id.org/reno#hasInsulationGrade> <https://w3id.org/reno#WellInsulated> .
+<http://example.com/Building> <https://w3id.org/reno#hasPotentialForPV> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/FloorAboveBasement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#FloorAboveBasement> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/PVPanels> .
+<http://example.com/Wall_Front> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#FullBrickWall> .
+<http://example.com/Renovation> <https://w3id.org/reno#hasRenovationIntervention> <http://example.com/RenovationIntervention> .
+<http://example.com/Generation_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#HeatPump> .
+<http://example.com/Wall_Rear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Wall> .
+<http://example.com/WindowsBedrooms> <https://w3id.org/reno#hasGlazing> <http://example.com/WindowGlazingBedrooms> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/EmissionSystem> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/Wall_Rear> .
+<http://example.com/RoofMain> <https://w3id.org/reno#hasState> <http://example.com/GoodState> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/VentilationSystem> .
+<http://example.com/WindowGlazingLivingArea> <https://w3id.org/reno#changedDuring> <http://example.com/RenovationIntervention> .
+<http://example.com/RoofMain> <https://w3id.org/reno#hasInsulationGrade> <https://w3id.org/reno#ModeratelyInsulated> .
+<http://example.com/Building> <https://w3id.org/bot#hasResident> <http://example.com/Resident> .
+<http://example.com/GoodState> <https://w3id.org/reno#hasStateValue> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.com/WindowGlazingLivingArea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#WindowGlazing> .
+<http://example.com/Wall_Left> <https://w3id.org/reno#hasInsulationGrade> <https://w3id.org/reno#WellInsulated> .
+<http://example.com/EPC> <https://w3id.org/reno#hasEnergyScore> "87"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://example.com/RoofExtension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Roof> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/RoofMain> .
+<http://example.com/Wall_Left> <https://w3id.org/reno#hasProtection> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/WindowGlazingBedrooms> <https://w3id.org/reno#changedDuring> <http://example.com/RenovationIntervention> .
+<http://example.com/GoodState> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#State> .
+<http://example.com/Address> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#Address> .
+<http://example.com/Building> <https://w3id.org/reno#hasOwner> <http://example.com/Owner> .
+<http://example.com/Wall_Rear> <https://w3id.org/reno#hasInsulationGrade> <https://w3id.org/reno#WellInsulated> .
+<http://example.com/Address> <https://w3id.org/reno#hasPostalCode> "9000" .
+<http://example.com/Wall_Left> <https://w3id.org/reno#hasHistoricalProtection> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/Building> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#SemiDetachedBuilding> .
+<http://example.com/Building> <https://w3id.org/reno#hasConstructionYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://example.com/Building> <https://w3id.org/reno#presenceOfHeatGrid> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/Building> <https://w3id.org/reno#hasReasonToChangeEmissionSystem> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/WoodenWindowFrame> <https://w3id.org/reno#hasState> <http://example.com/GoodState> .
+<http://example.com/Wall_Front> <https://w3id.org/reno#hasHistoricalProtection> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/Resident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#Resident> .
+<http://example.com/Renovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#Renovation> .
+<http://example.com/RoofMain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Roof-GABLE_ROOF> .
+<http://example.com/Renovation> <https://w3id.org/reno#hasEndDate> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.com/Wall_Left> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Wall> .
+<http://example.com/Owner> <https://w3id.org/reno#hasMotivation> <https://w3id.org/reno#ToImproveEPC> .
+<http://example.com/Owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#Owner> .
+<http://example.com/WoodenWindowFrame> <https://w3id.org/reno#hasFrameMaterial> <https://w3id.org/reno#Wood> .
+<http://example.com/EPC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#EnergyPerformanceCertificate> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/RoofExtension> .
+<http://example.com/Wall_Front> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Wall> .
+<http://example.com/RenovationIntervention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#RenovationIntervention> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/FloorAboveBasement> .
+<http://example.com/Wall_Rear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#FullBrickWall> .
+<http://example.com/RoofExtension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Roof-FLAT_ROOF> .
+<http://example.com/Address> <https://w3id.org/reno#hasCountry> "Belgium" .
+<http://example.com/Bedrooms> <https://w3id.org/bot#hasElement> <http://example.com/WindowsBedrooms> .
+<http://example.com/Bedrooms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/bot#Space> .
+<http://example.com/FloorAboveBasement> <https://w3id.org/reno#hasInsulationGrade> <https://w3id.org/reno#WellInsulated> .
+<http://example.com/LivingArea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/bot#Space> .
+<http://example.com/Site> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/bot#Site> .
+<http://example.com/EmissionSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://saref.etsi.org/saref4bldg/SpaceHeater> .
+<http://example.com/WindowGlazingLivingArea> <https://w3id.org/reno#hasGlazingType> <https://w3id.org/reno#DoubleGlazing> .
+<http://example.com/Wall_Front> <https://w3id.org/reno#hasInsulationGrade> <https://w3id.org/reno#WellInsulated> .
+<http://example.com/FloorAboveBasement> <https://w3id.org/reno#hasProtection> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/Resident> <https://w3id.org/reno#hasAddress> <http://example.com/Address> .
+<http://example.com/Building> <https://w3id.org/bot#hasSpace> <http://example.com/Bedrooms> .
+<http://example.com/Wall_Front> <https://w3id.org/reno#hasProtection> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/WindowsLivingArea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Window> .
+<http://example.com/WindowsBedrooms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Window> .
+<http://example.com/Building> <https://w3id.org/reno#hasNetFloorArea> "173.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://example.com/Site> <https://w3id.org/bot#hasBuilding> <http://example.com/Building> .
+<http://example.com/WindowsLivingArea> <https://w3id.org/reno#hasFrame> <http://example.com/WoodenWindowFrame> .
+<http://example.com/Building> <https://w3id.org/bot#hasSpace> <http://example.com/LivingArea> .
+<http://example.com/Building> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/bot#Building> .
+<http://example.com/Wall_Rear> <https://w3id.org/reno#hasProtection> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/WindowsBedrooms> <https://w3id.org/reno#hasFrame> <http://example.com/WoodenWindowFrame> .
+<http://example.com/Building> <https://w3id.org/reno#hasEnergyPerformanceCertificate> <http://example.com/EPC> .
+<http://example.com/RoofExtension> <https://w3id.org/reno#hasState> <http://example.com/GoodState> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/Wall_Front> .
+<http://example.com/VentilationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#VentilationSystem> .
+<http://example.com/PVPanels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://saref.etsi.org/saref4bldg/SolarDevice> .
+<http://example.com/LivingArea> <https://w3id.org/bot#hasElement> <http://example.com/WindowsLivingArea> .
+<http://example.com/Site> <https://w3id.org/reno#potentialForHorizontalGeothermalCaptation> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/WindowGlazingBedrooms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#WindowGlazing> .
+<http://example.com/WindowGlazingBedrooms> <https://w3id.org/reno#hasGlazingType> <https://w3id.org/reno#DoubleGlazing> .
+<http://example.com/WoodenWindowFrame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#WindowFrame> .
+<http://example.com/Wall_Rear> <https://w3id.org/reno#hasHistoricalProtection> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/Wall_Left> .
+<http://example.com/Building> <https://w3id.org/bot#hasElement> <http://example.com/Generation_System> .
+<http://example.com/RoofMain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://pi.pauwel.be/voc/buildingelement#Roof> .
+<http://example.com/VentilationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/reno#VentilationSystemD> .

@@ -1,0 +1,41 @@
+To maximize energy efficiency and improve the Energy Performance Certificate (EPC) for this 19th-century attached building, I propose a **"Fabric First"** renovation path. This strategy ensures that the building's envelope is optimized to reduce heat loss before upgrading the heating systems, preventing the installation of oversized and more expensive equipment.
+
+### Phase 1: Thermal Envelope Optimization (The "Fabric First" Approach)
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+
+1.  **Insulate Flat Roof (Extension):** The flat roof is currently not insulated. This is a high-priority upgrade to prevent heat from escaping through the top of the extension. 
+    *   *Note:* Opt for an inverted roof structure to avoid condensation.
+2.  **Insulate Floor Above Basement:** The floor is not insulated. This is a low-cost, high-impact renovation that significantly improves thermal comfort in the living areas.
+3.  **Insulate Exterior Walls:** Both the front and rear walls are full brick and not insulated. Since they are full brick (not cavity walls), cavity insulation is not possible. 
+    *   *Recommendation:* **Insulate wall on exterior**. While more expensive, it is far more effective for EPC improvement and prevents thermal bridging compared to interior insulation. Since there is no historical protection on these walls, this is the optimal choice.
+
+### Phase 2: Ventilation & Air Quality
+As the building becomes more airtight due to insulation, the current Ventilation System A (natural supply/exhaust) will be insufficient and may lead to humidity issues.
+
+4.  **Replace Ventilation System:** Upgrade to a more efficient system (such as System D with heat recovery). This ensures a healthy indoor climate and recovers heat from exhausted air, further reducing the load on the heating system.
+
+### Phase 3: Heating System Transition
+With a reduced thermal load, the building can now move away from its current boiler to a sustainable, low-carbon alternative.
+
+5.  **Upgrade Emission System:** The current radiators are likely high-temperature. To make a heat pump efficient, you must first **place the emission system on low temperature** (e.g., larger radiators or underfloor heating).
+6.  **Install Air-Water Heat Pump:** Since heat grid and geothermal options are unavailable for this site, an air-water heat pump is the most efficient generation system to replace the existing boiler.
+
+### Phase 4: Renewable Energy Integration
+Finally, to offset the electricity consumption of the new heat pump and further improve the EPC label, the building should generate its own power.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels on the roof will provide the electricity needed for the heat pump, significantly lowering long-term operational costs.
+
+---
+
+### Summary of the Optimal Sequence & Logic
+
+| Sequence | Action | Logic | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof & Floor** | Stop immediate heat loss via easiest paths. | High (Low cost/High impact) |
+| **2** | **Insulate Exterior Walls** | Major reduction in energy demand. | Medium (High cost/Essential for EPC) |
+| **3** | **Upgrade Ventilation** | Prevent mold/moisture in a sealed house. | Medium |
+| **4** | **Low-Temp Emitters** | Prerequisite for heat pump efficiency. | Medium |
+| **5** | **Air-Water Heat Pump** | Transition to sustainable heating. | Medium |
+| **6** | **PV-Panels** | Power the new system with green energy. | High (Long-term ROI) |
+
+**Final Result:** This path systematically moves the building from a **C Label (262 kWh/m²year)** toward an **A or B Label**, fulfilling the owner's primary motivation while ensuring that every Euro spent on technology (heat pumps/PV) is supported by a high-performance building shell.

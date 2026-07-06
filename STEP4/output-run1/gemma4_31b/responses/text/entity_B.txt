@@ -1,0 +1,36 @@
+**Renovation Plan**
+
+Based on the provided building data, this is an attached property from 1832 with a significant floor area (212 m²) and an EPC score of 262. To maximize energy efficiency and cost-effectiveness, the renovation must follow the **"Fabric First"** principle: reducing the energy demand of the building envelope before upgrading the heating and generation systems. This prevents the installation of an oversized, expensive HVAC system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The building has several critical "thermal holes" where heat escapes rapidly. Addressing these first provides the highest return on investment.
+1.  **Insulate Flat Roof:** The flat-roof extension is currently uninsulated. Because heat rises, this is a primary priority to reduce heat loss.
+2.  **Insulate Exterior Walls:** The front and rear walls are solid brick and uninsulated. Since the house is not historically protected, **exterior wall insulation** is the most effective method to eliminate thermal bridges. If exterior modification is not possible due to urban constraints, interior insulation is the alternative.
+3.  **Insulate Floor Above Basement:** The uninsulated floor above the basement should be addressed to eliminate cold drafts and improve the thermal comfort of the ground floor.
+*Note: The windows are already double-glazed and the frames are in good condition; therefore, replacing them is not recommended at this stage to maintain cost-effectiveness.*
+
+#### Phase 2: Ventilation Upgrade (Priority: Medium)
+Once the envelope is sealed and insulated, the natural ventilation system will no longer be sufficient to maintain indoor air quality and prevent moisture/mold buildup.
+4.  **Upgrade Ventilation System:** Transition from a basic natural system (System A) to a more controlled system (such as System C or a balanced System D with heat recovery). This ensures that the energy gains from Phase 1 are not lost through uncontrolled air leakage.
+
+#### Phase 3: Low-Carbon Heating Transition (Priority: Medium)
+With a significantly reduced heat demand, the house can now transition from a traditional boiler to a high-efficiency, low-temperature system.
+5.  **Replace Emission Systems:** Since the existing radiators are in poor condition, they should be replaced with **low-temperature emitters** (e.g., underfloor heating or oversized low-temp radiators). This is essential to maximize the efficiency (COP) of a heat pump.
+6.  **Install Air-Water Heat Pump:** Given the lack of geothermal potential and district heating, an **Air-Water Heat Pump** is the most sustainable and cost-effective replacement for the existing boiler.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+7.  **Install Photovoltaic (PV) Panels:** Utilizing the confirmed PV potential of the roof will allow the homeowner to generate renewable electricity, further lowering operational costs and improving the final EPC rating.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Drastically reduces the total energy demand of the building. |
+| **2** | **Ventilation Upgrade** | Prevents humidity and ensures air quality in a newly sealed envelope. |
+| **3** | **Low-Temp Emitters $\rightarrow$ Heat Pump** | Switches to a sustainable energy source sized correctly for the new, lower demand. |
+| **4** | **PV Panel Installation** | Offsets the electrical load of the heat pump and ventilation. |

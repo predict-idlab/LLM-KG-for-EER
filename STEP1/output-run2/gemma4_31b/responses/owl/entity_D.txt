@@ -1,0 +1,42 @@
+Based on the provided RENO ontology and the specific data for the building, here is the professional renovation analysis and proposed path.
+
+### 1. Building Status Analysis
+The building is a relatively modern (2017) semi-detached house with an exceptionally high energy performance baseline (**EPC score of 87**, which places it in the **A/B label** category). 
+
+*   **Thermal Envelope:** The walls (front, left, and rear) and the floor above the basement are already "Well Insulated." The flat roof extension is also "Well Insulated."
+*   **Weak Point:** The **Main Gable Roof** is only "**Moderately Insulated**." This is the primary area for energy efficiency gains.
+*   **Windows:** Currently equipped with double glazing and wooden frames in good condition.
+*   **Systems:** The building already utilizes a high-efficiency Heat Pump and a Ventilation System D (mechanical supply and exhaust). There is no current need or potential for geothermal drilling or heat grid connection.
+
+### 2. Proposed Renovation Path
+Since the building is already highly efficient, the goal is to eliminate the remaining thermal bridges and prevent future operational issues (like overheating) to further improve the EPC.
+
+#### **Step 1: Roof Insulation (Priority: High)**
+*   **Action:** **Insulate Gable Roof** (`InsulateGableRoof`).
+*   **Justification:** This is the only major structural element not yet "Well Insulated." Improving this from "Moderately" to "Well" insulated will significantly reduce heat loss through the top of the building.
+*   **Cost-Effectiveness:** At **€60/m²**, this is significantly cheaper than a full roof replacement (€260/m²), which is unnecessary given the roof is in "Good" state.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### **Step 2: Glazing Upgrade (Priority: Medium)**
+*   **Action:** **Replace Glazing** (`ReplaceGlazing`).
+*   **Justification:** Upgrading from double glazing to **triple glazing** will further lower the U-value of the windows.
+*   **Cost-Effectiveness:** Because the wooden frames are in "Good" state and are structurally sound, replacing only the glass panes (**€200/m²**) is far more cost-effective than replacing the entire window unit (**€800/m²**).
+*   **Point of Attention:** Verify that the existing wooden frames have the required thickness to support the heavier triple-pane glass.
+
+#### **Step 3: Solar Heat Management (Priority: Low/Operational)**
+*   **Action:** **Place Sunshade** (`PlaceSunShade`).
+*   **Justification:** In highly insulated, modern homes (EPC < 100), "overheating" in summer often becomes a larger issue than "heating" in winter.
+*   **Cost-Effectiveness:** This is a low-cost fixed investment (**€750**) that reduces the energy load on any cooling systems.
+*   **Point of Attention:** Opt for outdoor blinds rather than indoor ones for maximum thermal efficiency.
+
+### 3. Optimal Sequence & Summary
+
+The sequence follows the ontology's `ordering` logic (lower numbers first) to ensure the building envelope is sealed before addressing secondary comforts.
+
+| Sequence | Intervention | Target Element | Estimated Cost | Efficiency Gain |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | €60 / m² | High (Reduces heat loss) |
+| **2** | **Replace Glazing** | Windows | €200 / m² | Medium (Improves U-value) |
+| **3** | **Place Sunshade** | Facades | €750 (Fixed) | Operational (Prevents overheating) |
+
+**Final Expert Verdict:** The building is already in the top tier of energy efficiency. By targeting the Gable Roof and upgrading to triple glazing, the owner can push the EPC score even lower, potentially reaching the **A+ label**, while avoiding expensive and unnecessary structural replacements.

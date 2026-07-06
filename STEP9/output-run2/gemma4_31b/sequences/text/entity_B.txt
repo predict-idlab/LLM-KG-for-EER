@@ -1,0 +1,11 @@
+1. insulate flat roof
+2. insulate basement ceiling
+3. insulate pitched roof
+4. insulate walls externally
+5. insulate walls internally
+6. install mvhr ventilation system
+7. install decentralized heat-recovery vents
+8. replace radiators with low-temperature radiators
+9. install underfloor heating
+10. install air-to-water heat pump
+11. install pv panels on pitched roof

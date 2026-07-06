@@ -1,0 +1,30 @@
+Based on the provided information, the property is a modern attached house (built in 2023) with an already excellent EPC score of 50. The thermal envelope is largely optimized, and the house is already equipped with high-efficiency ventilation (System D) and photovoltaic panels.
+
+Since the "Fabric First" approach is already mostly realized, the renovation focus shifts from sealing the building to **optimizing the energy generation and distribution systems**. The primary inefficiency lies in the heating generator (boiler) and the use of electric convectors, which are energy-intensive.
+
+### Proposed Renovation Path
+
+#### Phase 1: Minor Envelope Refinement (Priority: Low)
+While the house is generally well-insulated, there is a slight discrepancy in the roof performance.
+1. **Enhance Pitched Roof Insulation:** The main pitched roof has "moderate" insulation compared to the "well-insulated" flat roof and walls. Increasing the insulation level here will further reduce heat loss through the top of the house, ensuring the thermal envelope is uniform.
+
+#### Phase 2: High-Efficiency Heating Transition (Priority: High)
+The current heating setup (boiler and electric convectors) is the weakest link in the home's energy performance and is in poor condition.
+2. **Install Air-Water Heat Pump:** Given that the site is unsuitable for geothermal energy and lacks a district heating network, an **Air-Water Heat Pump** is the most efficient choice. Because the house is already well-insulated and has PV panels, a heat pump will operate at a very high Coefficient of Performance (COP), utilizing the existing solar energy to minimize operational costs.
+
+#### Phase 3: Emission System Optimization (Priority: High)
+The current heat emission system is inefficient and needs replacement.
+3. **Eliminate Electric Convectors:** Electric convectors are highly inefficient. These should be removed entirely.
+4. **Optimize/Expand Low-Temperature Emission:** Since the house already has underfloor heating (which is ideal for heat pumps), the system should be checked and potentially expanded to the areas previously served by electric convectors. This ensures the entire house is heated via a low-temperature system, maximizing the efficiency of the new heat pump.
+
+---
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Pitched Roof Insulation** | Brings the entire thermal envelope up to a "well-insulated" standard. |
+| **2** | **Air-Water Heat Pump** | Replaces the outdated boiler with a sustainable generator powered by existing PV panels. |
+| **3** | **Remove Electric Convectors $\rightarrow$ Expand Underfloor Heating** | Transitions the house to a fully low-temperature emission system, eliminating energy-hungry electric heaters. |
+
+**Final Result:** By focusing on the heating generator and emission systems, you transition the home from a "modern" house to a "near-zero energy" house, significantly reducing operational costs while maintaining a very low EPC score.

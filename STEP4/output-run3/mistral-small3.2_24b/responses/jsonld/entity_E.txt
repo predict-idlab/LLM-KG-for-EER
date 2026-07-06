@@ -1,0 +1,71 @@
+### Renovation Plan for Detached Building (1862)
+
+**Current State:**
+- **EPC Score:** 165 (B Label)
+- **Construction Year:** 1862
+- **Building Type:** Detached
+- **Insulation Grade:**
+  - All walls: Not Insulated (Cavity Walls)
+  - Floor Above Crawl Space: Not Specified (Assumed Uninsulated)
+  - Roof: Well Insulated
+- **Windows:**
+  - Glazing: Single Glazing (Poor Thermal Performance)
+  - Frame Material: Wood (State: Good)
+- **Heating System:** Boiler
+- **Ventilation System:** Natural (System A)
+- **PV Potential:** True
+- **Heat Grid Availability:** False
+
+**Owner's Motivation:** Improve EPC
+
+---
+
+### Proposed Renovation Path (Cost-Effective & Energy Efficiency Focused)
+
+**Phase 1: Building Envelope Optimization (High Priority)**
+1. **Insulate Cavity Walls (Exterior)**
+   - *Action:* Inject insulation into cavity walls (Front, Rear, Left, Right).
+   - *Rationale:* Eliminates thermal bridges and reduces heat loss through walls. Exterior insulation is more cost-effective for cavity walls.
+   - *Estimated Impact:* ~10-20% reduction in heat loss.
+
+2. **Insulate Floor Above Crawl Space**
+   - *Action:* Add insulation to the floor to prevent heat loss to the crawl space.
+   - *Rationale:* Prevents cold drafts and improves thermal comfort on the ground floor.
+   - *Estimated Impact:* ~5-10% reduction in heat loss.
+
+3. **Replace Single Glazing with Double or Triple Glazing**
+   - *Action:* Replace all windows with double or triple glazing.
+   - *Rationale:* Single glazing is a significant source of heat loss. Upgrading to double/triple glazing improves thermal performance.
+   - *Estimated Impact:* ~15-25% reduction in heat loss.
+
+**Phase 2: Heating System Transition (Medium Priority)**
+4. **Replace Boiler with Air-Water Heat Pump**
+   - *Action:* Install an air-water heat pump.
+   - *Rationale:* More energy-efficient than a boiler and suitable for the building’s lower heat demand after insulation improvements.
+   - *Estimated Impact:* ~20-30% reduction in energy consumption.
+
+5. **Upgrade Ventilation System**
+   - *Action:* Replace natural ventilation (System A) with a mechanical system (System C or D).
+   - *Rationale:* Ensures proper air exchange in a sealed building envelope.
+   - *Estimated Impact:* Improves indoor air quality and thermal comfort.
+
+**Phase 3: Sustainable Energy Generation (Long-Term Priority)**
+6. **Install PV Panels on Roof**
+   - *Action:* Install photovoltaic panels on the roof.
+   - *Rationale:* Generates renewable electricity to offset the heat pump’s energy consumption.
+   - *Estimated Impact:* Reduces reliance on the grid and lowers energy costs.
+
+---
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls (Exterior)** | Eliminates thermal bridges and reduces heat loss. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents cold drafts and improves thermal comfort. |
+| **3** | **Replace Single Glazing with Double/Triple Glazing** | Improves thermal performance of windows. |
+| **4** | **Replace Boiler with Air-Water Heat Pump** | More energy-efficient heating. |
+| **5** | **Upgrade Ventilation System** | Ensures proper air exchange in a sealed envelope. |
+| **6** | **Install PV Panels on Roof** | Generates renewable electricity. |
+
+**Note:** The proposed plan follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence to ensure that the building’s thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.

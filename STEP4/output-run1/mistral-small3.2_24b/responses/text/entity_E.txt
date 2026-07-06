@@ -1,0 +1,42 @@
+Given the details of your detached house in Ghent, Belgium, built in 1862, with a current EPC score of 165, here’s a cost-effective and energy-efficient renovation plan. The focus will be on optimizing the thermal envelope, upgrading heating systems, and integrating sustainable energy generation.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Fabric First)
+1. **Insulate Cavity Walls**:
+   - Since the exterior walls (front, rear, left, and right) are cavity walls and currently uninsulated, injecting insulation into the cavities is a cost-effective solution. This will significantly reduce heat loss through the walls.
+   - *Note*: If the cavity walls are not suitable for injection (e.g., due to dampness or structural issues), consider internal or external wall insulation, but these are more expensive.
+
+2. **Insulate Floor Above Crawl Space**:
+   - The floor above the crawl space should be insulated to prevent heat loss to the unconditioned crawl space. This can be done by adding insulation boards to the underside of the floor or by insulating the crawl space walls and floor.
+
+#### Phase 2: Window Performance
+3. **Replace Single Glazing with Double or Triple Glazing**:
+   - The current single-glazed windows are a major source of heat loss. Replacing them with double or triple glazing will improve thermal performance. Since the frames are in good condition, you may only need to replace the glazing (secondary glazing) if the budget is tight.
+
+#### Phase 3: Heating System Transition
+4. **Install Air-Water Heat Pump**:
+   - Replace the old boiler with an air-water heat pump, which is a sustainable and efficient heating solution. Ensure the heat pump is appropriately sized for the reduced heat demand after insulation improvements.
+   - *Note*: Since the site is not suitable for geothermal energy and there is no district heating network, an air-water heat pump is the best alternative.
+
+5. **Upgrade Heat Emission Systems**:
+   - Replace the old radiators, underfloor heating, air heating systems, and electric convectors with low-temperature emission systems (e.g., modern radiators or underfloor heating designed for heat pumps) to maximize the efficiency of the new heat pump.
+
+#### Phase 4: Ventilation System Upgrade
+6. **Replace Natural Ventilation with Mechanical Ventilation with Heat Recovery (MVHR)**:
+   - Upgrade from the basic natural ventilation system to a more efficient system like MVHR. This will ensure good indoor air quality while recovering heat from exhaust air, reducing heating demands.
+
+#### Phase 5: Sustainable Energy Generation
+7. **Install Photovoltaic (PV) Panels**:
+   - Given the potential for PV panels, installing them will generate renewable electricity to power the heat pump and other electrical systems, further improving the EPC score and reducing energy bills.
+
+### Summary of Optimal Sequence
+1. **Insulate Cavity Walls** → **Insulate Floor Above Crawl Space** → **Replace Single Glazing with Double/Triple Glazing** → **Install Air-Water Heat Pump** → **Upgrade Heat Emission Systems** → **Replace Ventilation System** → **Install PV Panels**.
+
+### Rationale
+- **Fabric First**: Addressing the thermal envelope first reduces heat loss and lowers the heating demand, making the heating system more efficient and cost-effective.
+- **Heating System Upgrade**: Transitioning to a heat pump after improving insulation ensures the system is appropriately sized and operates efficiently.
+- **Ventilation Upgrade**: Ensures good air quality and reduces heat loss through controlled ventilation.
+- **PV Panels**: Generate renewable energy to offset the electricity consumption of the heat pump and other systems.
+
+This sequence maximizes energy efficiency and cost-effectiveness while improving the EPC score.

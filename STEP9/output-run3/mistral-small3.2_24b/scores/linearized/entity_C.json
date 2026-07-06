@@ -1,0 +1,19 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "place emission system on low temperature"
+    ],
+    "extra_actions": [
+      "replace flat roof",
+      "replace windows",
+      "replace ventilation system",
+      "connect to heat grid",
+      "insulate attic floor",
+      "insulate wall cavity"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}
+  

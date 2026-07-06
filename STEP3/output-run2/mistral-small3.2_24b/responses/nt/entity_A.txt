@@ -1,0 +1,76 @@
+### Renovation Plan for the Building at http://example.com/Building
+
+#### **1. Initial Assessment**
+The building is a semi-detached structure with a net floor area of 149.0 m². It was constructed in 1951 and has several key elements that can be renovated to improve energy efficiency and overall comfort.
+
+#### **2. Key Elements for Renovation**
+- **Roofs**: The building has two roofs, `RoofMain` and `RoofExtension`. Both are currently not insulated (`NotInsulated`).
+- **Walls**: Three walls are identified: `Wall_Front`, `Wall_Right`, and `Wall_Rear`. All are full brick walls and currently not insulated (`NotInsulated`).
+- **Floors**: `FloorAboveBasement` is not insulated.
+- **Windows**: Windows in the living area and bedrooms have wooden frames and double glazing. The glazing in the living area is in good condition, while the glazing in the bedrooms is not specified.
+- **Ventilation System**: The building has a ventilation system type A.
+- **Heating System**: The building uses a radiator system for heating.
+- **Energy Performance**: The building has an Energy Performance Certificate (EPC) with an energy score of 388 kWh/m²year.
+
+#### **3. Renovation Suggestions**
+Based on the ontology and the building's current state, the following renovations are suggested:
+
+1. **Insulate the Flat Roof (`RoofExtension`)**
+   - **Action**: Insulate the flat roof to improve thermal performance.
+   - **Type**: `InsulateFlatRoof`
+   - **Nuisance Level**: High
+   - **Unit Price**: €50 per m²
+   - **Point of Attention**: Opt for an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering, do not insulate the flat roof on the inside.
+
+2. **Insulate the Gable Roof (`RoofMain`)**
+   - **Action**: Insulate the gable roof to improve thermal performance.
+   - **Type**: `InsulateGableRoof`
+   - **Nuisance Level**: Low
+   - **Unit Price**: €60 per m²
+   - **Point of Attention**: Pay extra attention when installing the roof underlayment so that it is completely air- and watertight.
+
+3. **Insulate the Attic Floor (`FloorAboveBasement`)**
+   - **Action**: Insulate the attic floor to reduce heat loss.
+   - **Type**: `InsulateAtticFloor`
+   - **Nuisance Level**: Low
+   - **Unit Price**: €60 per m²
+   - **Point of Attention**: In many cases, a vapour barrier is necessary when insulating the attic floor. Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+
+4. **Insulate the Walls (Exterior)**
+   - **Action**: Insulate the exterior walls (`Wall_Front`, `Wall_Right`, `Wall_Rear`) to improve thermal performance.
+   - **Type**: `InsulateWallExterior`
+   - **Nuisance Level**: High
+   - **Unit Price**: €200 per m²
+   - **Point of Attention**: Not every type of cladding will be possible, depending on the position of the building line and the council's guidelines.
+
+5. **Replace the Ventilation System**
+   - **Action**: Upgrade the ventilation system to a more efficient type.
+   - **Type**: `ReplaceVentilationSystem`
+   - **Nuisance Level**: Moderate
+   - **Unit Price**: €17 per m²
+   - **Point of Attention**: A ventilation system D will have slightly more impact on your home, as it requires ductwork for both supply and return.
+
+6. **Replace the Windows**
+   - **Action**: Replace the windows with new ones that have better insulation properties.
+   - **Type**: `ReplaceWindows`
+   - **Nuisance Level**: High
+   - **Unit Price**: €800 per window
+   - **Point of Attention**: Do you currently have a ventilation system type A or C, or are you planning to install a natural supply system? If so, be sure to provide enough grilles on your window frames so that enough fresh air can flow into your home.
+
+#### **4. Implementation Sequence**
+To maximize the benefits of each renovation step, the following sequence is recommended:
+1. **Insulate the Flat Roof (`RoofExtension`)**
+2. **Insulate the Gable Roof (`RoofMain`)**
+3. **Insulate the Attic Floor (`FloorAboveBasement`)**
+4. **Insulate the Walls (Exterior)**
+5. **Replace the Ventilation System**
+6. **Replace the Windows**
+
+This sequence ensures that the building's envelope is first improved to reduce heat loss, followed by upgrading the ventilation and windows to enhance overall comfort and energy efficiency.
+
+#### **5. Additional Considerations**
+- **Energy Performance Certificate (EPC)**: After the renovations, the building's EPC should be reassessed to reflect the improvements.
+- **Cost-Effectiveness**: The suggested renovations are prioritized based on their cost-effectiveness and the potential energy savings they offer.
+- **Permits**: Check local regulations for any necessary permits, especially for exterior wall insulation.
+
+By following this renovation plan, the building's energy efficiency will be significantly improved, leading to lower energy costs and enhanced comfort for its residents.

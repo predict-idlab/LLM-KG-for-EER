@@ -1,0 +1,38 @@
+Based on the provided building data and the RENO ontology, the property is already highly efficient (EPC score of 50, which falls into the **A label** category) and is a very recent construction (2023). However, to maximize energy efficiency and satisfy the owner's motivation to further improve the EPC, I propose the following renovation path.
+
+The strategy follows the "Fabric First" principle: optimizing the building envelope before upgrading the technical installations.
+
+### Proposed Renovation Path
+
+#### Phase 1: Envelope Optimization (High Impact, Low-to-Moderate Cost)
+Although most of the building is "Well Insulated," the main gable roof is only "Moderately Insulated." This is the primary weakness in the thermal envelope.
+*   **Action:** **Insulate gable roof**
+    *   **Reasoning:** Improving the insulation of the main roof reduces heat loss through the top of the building, directly lowering the energy required for heating.
+    *   **Sequence:** This must be done first to ensure that any subsequent heating system is sized correctly for a more efficient envelope.
+
+#### Phase 2: System Modernization (High Impact, Moderate-to-High Cost)
+The building currently uses a boiler and electric convectors. The data explicitly indicates a `hasReasonToChangeEmissionSystem: true`. Electric convectors are among the least efficient ways to heat a home.
+*   **Action:** **Place air-water heat pump**
+    *   **Reasoning:** Since geothermal options are not viable for this site (`potentialForVertical...` and `potentialForHorizontal...` are both false) and there is no heat grid, an air-water heat pump is the most efficient alternative. It is perfectly compatible with the existing **Floor Heating** system already present in the building.
+*   **Action:** **Place heat pump boiler**
+    *   **Reasoning:** To further reduce electricity consumption for domestic hot water, replacing the traditional boiler with a heat pump boiler is a cost-effective way to maximize operational performance.
+
+#### Phase 3: Operational Performance & Comfort (Low Cost, Long-term Gain)
+To prevent the "overheating" effect often found in highly insulated, modern homes (especially those with an A-label EPC), passive cooling is recommended.
+*   **Action:** **Place sunshade**
+    *   **Reasoning:** Installing outdoor sunshades reduces solar gain during summer, lowering the need for active cooling (air conditioning) and improving long-term energy consumption.
+
+---
+
+### Summary Table: Optimal Sequence
+
+| Sequence | Renovation Action | Target Element | Priority | Logic |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate gable roof** | RoofMain | High | Reduce energy demand before upgrading supply. |
+| **2** | **Place air-water heat pump** | Generation System | High | Replace inefficient electric convectors/boiler. |
+| **3** | **Place heat pump boiler** | Generation System | Medium | Optimize domestic hot water production. |
+| **4** | **Place sunshade** | Windows/Facades | Medium | Prevent summer overheating in a tight envelope. |
+
+### Cost-Effectiveness Analysis
+*   **Avoided Costs:** We skip wall and floor insulation as they are already "Well Insulated." We also skip window replacement as they are in "Good State" and already double-glazed.
+*   **Efficiency Gain:** By moving from electric convectors/boilers to a heat pump system and tightening the roof insulation, the building will likely move from an **A** label toward an **A+** label, significantly reducing yearly operational costs.

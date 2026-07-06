@@ -1,0 +1,47 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation plan.
+
+### Building Analysis Summary
+The building is a very modern **Attached Building (constructed in 2023)** with an excellent energy profile (**EPC Score: 50**, which corresponds to an **A label**). Most elements (walls, flat roof, and floor above basement) are already "Well Insulated." The primary opportunities for improvement lie in the transition from inefficient electric heating to a sustainable system and a minor upgrade to the gable roof insulation.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the **"Envelope First, Systems Second"** logic.
+
+#### Phase 1: Thermal Envelope Optimization
+Although the building is highly efficient, the main gable roof is only "Moderately Insulated." Improving this first ensures that the subsequent heating system is sized correctly and operates at peak efficiency.
+
+*   **Action: Insulate Gable Roof**
+    *   **Reasoning:** The main roof is the only remaining element not rated as "Well Insulated."
+    *   **Point of Attention:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+    *   **Impact:** Reduces heat loss through the top of the building, further lowering the energy required for space heating.
+
+#### Phase 2: Emission System Overhaul
+The building currently utilizes **Electric Convectors**, which are highly inefficient. The entity data explicitly indicates a `hasReasonToChangeEmissionSystem = true`. Given that geothermal options and heat grids are unavailable for this site, an air-to-water system is the most viable path.
+
+*   **Action: Place Air-Water Heat Pump**
+    *   **Reasoning:** Replacing electric resistance heating (convectors) with a heat pump significantly reduces electricity consumption.
+    *   **Sequence:** This follows the roof insulation to ensure the heat pump is not oversized.
+*   **Action: Place Emission System on Low Temperature**
+    *   **Reasoning:** The building already has **Floor Heating**, which is ideal for low-temperature operation. Optimizing the system for low temperatures maximizes the Coefficient of Performance (COP) of the new heat pump.
+
+#### Phase 3: Water Heating & Operational Efficiency
+To complete the transition away from high-cost electric heating, the domestic hot water system should be modernized.
+
+*   **Action: Place Heat Pump Boiler**
+    *   **Reasoning:** To align the water heating efficiency with the space heating efficiency, replacing standard electric boilers with a heat pump boiler is the most cost-effective way to lower the overall energy bill.
+
+---
+
+### Summary of Sequence & Logic
+
+| Sequence | Action | Priority | Cost-Effectiveness | Energy Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | High (Low nuisance) | Medium |
+| **2** | **Place Air-Water Heat Pump** | High | Medium (High CAPEX, High OPEX saving) | Very High |
+| **3** | **Optimize Low-Temp Emission** | Medium | High (System tuning) | High |
+| **4** | **Place Heat Pump Boiler** | Medium | Medium | Medium |
+
+### Final Expert Note
+Because the building is already an **A-label** property, I have **excluded** replacing windows or glazing. The existing double glazing and wooden frames are in "Good State," and the marginal gain of moving to triple glazing would not justify the cost in this specific case. Similarly, since `hasPotentialForPV` is false, no further solar installations are recommended. This plan focuses strictly on the most impactful "low-hanging fruit": **eliminating electric resistance heating.**

@@ -1,0 +1,19 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "place emission system on low temperature",
+      "place PV-panels on roof"
+    ],
+    "extra_actions": [
+      "insulate walls exterior",
+      "connect to heat grid",
+      "install geothermal heat pump"
+    ]
+    }
+  ,
+  "sequence": {
+    "order_errors": []
+  }
+}
+
+ 	 	 	 	 	 	 	 	 	 	

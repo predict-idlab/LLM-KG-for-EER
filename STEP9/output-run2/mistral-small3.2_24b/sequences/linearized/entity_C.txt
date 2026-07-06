@@ -1,0 +1,10 @@
+1. insulate flat roof
+2. insulate gable roof
+3. replace glazing
+4. place air-water heatpump
+5. place heatpumpboiler
+6. insulate wall interior
+7. insulate wall exterior
+8. replace ventilation system
+9. place pv-panels roof
+10. place sunshade

@@ -1,0 +1,43 @@
+Based on the provided building data and the RENO ontology, the property is an attached building from 1832 with an EPC score of 262 (C Label). The owner's primary motivation is to improve the EPC. 
+
+The most energy-efficient and cost-effective strategy follows the **"Fabric First"** principle: reducing heat loss through the building envelope before upgrading the heating systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (High Impact, Immediate Savings)
+The building has several critical areas of heat loss. Addressing these first ensures that any future heating system is downsized and operates at maximum efficiency.
+1.  **Insulate Flat Roof (RoofExtension):** The roof extension is currently not insulated. This is a priority as heat rises. 
+2.  **Insulate Exterior Walls (Wall_Front & Wall_Rear):** Both front and rear walls are full brick and not insulated. Given there is no historical protection, **exterior wall insulation** is the most effective method to eliminate thermal bridges and significantly lower the EPC score.
+3.  **Insulate Floor Above Basement:** The floor is currently not insulated. This prevents "cold feet" and reduces heat loss to the basement.
+
+#### Phase 2: Air Quality & Ventilation (System Balance)
+As the building becomes more airtight through insulation, mechanical ventilation becomes necessary to prevent moisture buildup and maintain indoor air quality.
+4.  **Replace Ventilation System:** Upgrade from the current Ventilation System A (natural) to a more efficient system (e.g., System B or D) to ensure controlled airflow.
+
+#### Phase 3: Heating System Modernization (Operational Performance)
+With a reduced thermal load, the heating system can be transitioned from a traditional boiler to a high-efficiency heat pump.
+5.  **Install Low-Temperature Emission System:** To maximize the efficiency of a heat pump, the current radiators should be supplemented or replaced with low-temperature emitters (e.g., floor heating), as heat pumps perform significantly better at lower flow temperatures.
+6.  **Install Air-Water Heat Pump:** Since the site has no potential for geothermal drilling or access to a heat grid, an **Air-Water Heat Pump** is the most viable sustainable alternative to the existing boiler.
+
+#### Phase 4: Renewable Energy Integration (Cost Offset)
+The final step is to offset the electricity consumption of the new heat pump.
+7.  **Place PV Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will reduce long-term operational costs and further improve the energy performance certificate.
+
+---
+
+### Summary Table of Sequence & Logic
+
+| Sequence | Intervention | Target Element | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | `InsulateFlatRoof` | RoofExtension | Stop heat loss at the highest point. |
+| **2** | `InsulateWallExterior` | Wall_Front/Rear | Largest surface area for heat loss. |
+| **3** | `InsulateFloorAboveBasement` | FloorAboveBasement | Eliminate drafts from below. |
+| **4** | `ReplaceVentilationSystem` | VentilationSystem | Prevent condensation in a sealed house. |
+| **5** | `PlaceLowTemperatureEmission`| EmissionSystem | Prepare for heat pump efficiency. |
+| **6** | `PlaceAirWaterHeatpump` | Generation_System | Switch to sustainable heat generation. |
+| **7** | `PlacePVPanelsOnRoof` | RoofMain | Power the heat pump with green energy. |
+
+### Expert Notes on Cost-Effectiveness:
+*   **Avoid Window Replacement:** The existing windows are already double-glazed and the frames are in "Good State." Replacing them now would offer diminishing returns compared to wall and roof insulation.
+*   **Permit Awareness:** Note that exterior wall insulation and flat roof insulation may require reporting/permits if the total thickness exceeds 26cm (per Flanders regulations in the ontology).
+*   **EPC Impact:** Following this sequence will likely move the building from a **C Label** toward an **A or B Label**, directly satisfying the owner's primary motivation.

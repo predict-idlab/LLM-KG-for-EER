@@ -1,0 +1,60 @@
+### Renovation Plan for Attached Building
+
+**Building Overview:**
+- **Type:** Attached (2023)
+- **Net Floor Area:** 159.0 m²
+- **EPC Score:** 50 (A Label)
+- **Potential for PV:** False
+- **Heat Grid:** Not Present
+- **Construction Year:** 2023
+- **Existing Systems:**
+  - Electric Convector (SpaceHeater)
+  - Boiler (Generation System)
+  - Ventilation System D
+  - Well-Insulated Walls (Front, Rear)
+  - Well-Insulated Floor Above Basement
+  - Well-Insulated Flat Roof
+  - Well-Insulated Gable Roof (Moderately Insulated)
+  - Double Glazing (Windows)
+  - Wooden Window Frames
+
+**Owner's Motivation:** Improve EPC (already excellent at A Label).
+
+**Observations:**
+1. **Excellent Thermal Envelope:** All walls, floors, and roofs are well-insulated, and windows are double-glazed.
+2. **Outdated Heating System:** The building uses an electric convector, which is inefficient compared to modern heat pumps.
+3. **High-Performance Ventilation:** Ventilation System D is already installed, ensuring good indoor air quality.
+4. **No PV Potential:** The building cannot install solar panels due to lack of potential.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Optimize Heating System (Priority: High)**
+1. **Replace Electric Convector with Heat Pump:**
+   - **Action:** Replace the existing electric convector with an **Air-Water Heat Pump**.
+   - **Rationale:** Heat pumps are significantly more energy-efficient than electric convectors, reducing energy consumption while maintaining comfort.
+
+2. **Upgrade Emission System to Low-Temperature:**
+   - **Action:** Install low-temperature emissions (e.g., underfloor heating) to maximize the efficiency of the new heat pump.
+   - **Rationale:** Low-temperature emissions work best with heat pumps, improving their Coefficient of Performance (COP).
+
+**Phase 2: Improve Ventilation Efficiency (Priority: Medium)**
+3. **Optimize Ventilation System:**
+   - **Action:** Ensure the existing Ventilation System D is properly balanced and maintained.
+   - **Rationale:** Proper ventilation is crucial for maintaining indoor air quality in a well-sealed, insulated building.
+
+**Phase 3: Monitor and Maintain (Priority: Ongoing)**
+4. **Regular Maintenance:**
+   - **Action:** Schedule annual maintenance for the heat pump and ventilation system.
+   - **Rationale:** Regular maintenance ensures optimal performance and longevity of the systems.
+
+**Summary of Optimal Sequence:**
+1. **Air-Water Heat Pump Installation**
+2. **Low-Temperature Emission System Upgrade**
+3. **Ventilation System Optimization**
+
+**Cost-Effectiveness and Energy Efficiency:**
+- The proposed plan focuses on upgrading the heating system to a more efficient technology (heat pump) while ensuring the building envelope remains well-sealed and insulated.
+- No additional insulation or glazing is needed, as the building already meets high-performance standards.
+- The lack of PV potential eliminates the need for solar panel installation, simplifying the renovation process.
+
+This plan ensures the building maintains its excellent EPC rating while improving energy efficiency and comfort.

@@ -1,0 +1,87 @@
+Based on the provided information, here's a step-by-step renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+### **1. Assess the Current State**
+- **Energy Performance Certificate (EPC)**: The building has an EPC score of 262, which indicates significant room for improvement.
+- **Building Type**: The building is an attached structure built in 1832, with a net floor area of 212.0 m².
+- **Elements to Consider**:
+  - **Roofs**: Main roof (gable roof) and extension roof (flat roof) with moderate insulation.
+  - **Walls**: Front and rear walls are full brick walls with no insulation.
+  - **Windows**: Wooden frames with double glazing in both bedrooms and living area.
+  - **Floors**: Floor above basement with no insulation.
+  - **Systems**: Emission system (radiators), ventilation system (type A), and generation system (boiler).
+
+### **2. Prioritize Based on Ontology and Suggestion List**
+The ontology suggests that certain renovations are more critical for energy efficiency. The suggestion list includes actions like replacing roofs, insulating walls, replacing windows, and upgrading heating systems.
+
+### **3. Step-by-Step Renovation Plan**
+
+#### **Phase 1: Roof and Wall Insulation**
+1. **Insulate the Gable Roof (Main Roof)**
+   - **Action**: Insulate the gable roof with a vapour barrier on the warm side.
+   - **Reason**: The main roof is already moderately insulated, but improving it further will enhance thermal performance.
+   - **Cost**: ~€60/m².
+
+2. **Insulate the Flat Roof (Extension Roof)**
+   - **Action**: Insulate the flat roof with an inverted roof structure to avoid condensation issues.
+   - **Reason**: The flat roof has no insulation, making it a significant source of heat loss.
+   - **Cost**: ~€50/m².
+
+3. **Insulate the Walls on the Exterior**
+   - **Action**: Insulate the front and rear walls with exterior cladding.
+   - **Reason**: Full brick walls with no insulation are major contributors to heat loss. Exterior insulation avoids reducing interior space.
+   - **Cost**: ~€200/m².
+
+#### **Phase 2: Floor and Window Upgrades**
+4. **Insulate the Floor Above Basement**
+   - **Action**: Insulate the floor above the basement to reduce heat loss to unconditioned spaces.
+   - **Reason**: The floor above the basement is currently uninsulated, leading to heat loss.
+   - **Cost**: ~€30/m².
+
+5. **Replace Glazing on Windows**
+   - **Action**: Upgrade the double glazing to triple glazing for better thermal performance.
+   - **Reason**: Double glazing is less efficient than triple glazing, which will improve the overall energy efficiency of the windows.
+   - **Cost**: ~€200/m².
+
+#### **Phase 3: System Upgrades**
+6. **Replace the Ventilation System**
+   - **Action**: Upgrade from a type A ventilation system to a more efficient type (e.g., type B or C).
+   - **Reason**: Type A systems are less efficient and can be upgraded to improve indoor air quality and energy efficiency.
+   - **Cost**: ~€3,500 + €17/m².
+
+7. **Place a Heat Pump Boiler**
+   - **Action**: Install a heat pump boiler to replace the existing boiler.
+   - **Reason**: Heat pump boilers are more energy-efficient and can significantly reduce energy consumption.
+   - **Cost**: ~€4,000.
+
+8. **Place an Emission System on Low Temperature**
+   - **Action**: Install a low-temperature emission system compatible with the heat pump.
+   - **Reason**: Low-temperature systems work more efficiently with heat pumps, enhancing overall system performance.
+   - **Cost**: ~€100/m².
+
+#### **Phase 4: Optional Upgrades**
+9. **Place PV-Panels on the Roof**
+   - **Action**: Install photovoltaic (PV) panels on the roof to generate renewable energy.
+   - **Reason**: The building has potential for PV installation, which can offset energy consumption and reduce costs.
+   - **Cost**: ~€275/m².
+
+10. **Place Sunshades**
+    - **Action**: Install outdoor blinds or sunshades to reduce solar heat gain.
+    - **Reason**: Sunshades can help maintain comfortable indoor temperatures and reduce cooling needs.
+    - **Cost**: ~€750.
+
+### **4. Implementation Timeline**
+- **Phase 1**: 1-2 months (roof and wall insulation).
+- **Phase 2**: 1 month (floor and window upgrades).
+- **Phase 3**: 1-2 months (system upgrades).
+- **Phase 4**: Optional (PV panels and sunshades).
+
+### **5. Estimated Costs and Savings**
+- **Total Estimated Cost**: ~€40,000 - €50,000 (excluding optional upgrades).
+- **Expected Savings**: Significant reduction in energy consumption and improved comfort, potentially offset by PV panel generation.
+
+### **6. Recommendations**
+- **Consult Professionals**: Engage architects or contractors for expert advice, especially for historical protection considerations.
+- **Permits**: Check local regulations for necessary permits, especially for roof and wall insulation.
+- **Monitor Progress**: Regularly assess the impact of each renovation phase to ensure energy efficiency goals are met.
+
+This plan is designed to maximize energy efficiency while considering cost-effectiveness and the specific characteristics of the building.

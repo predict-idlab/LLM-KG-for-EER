@@ -1,0 +1,29 @@
+Based on the provided building data and the RENO ontology, the property is a nearly new attached building (constructed in 2023) with an exceptional EPC score of 50 (A+ Label). Most of the building envelope is already "Well Insulated," and it possesses a high-end Ventilation System D.
+
+Despite the high current performance, the owner's motivation is to further improve the EPC. To achieve this while remaining cost-effective, the focus shifts from major structural insulation to optimizing the heating generation and emission systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Final Envelope Optimization (Priority: Low)
+The building envelope is almost perfect, with only one area showing room for improvement.
+1. **Insulate Gable Roof:** While most elements are "Well Insulated," the `RoofMain` is currently "Moderately Insulated." Upgrading the insulation of the gable roof to a "Well Insulated" grade will eliminate the last significant point of thermal leakage.
+
+#### Phase 2: Transition to Sustainable Generation (Priority: Medium)
+The building currently relies on a `Boiler` for heat generation. To further lower the EPC and move toward a carbon-neutral footprint:
+2. **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and there is no available heat grid, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the existing boiler. This will leverage the already high insulation levels of the house to operate at maximum efficiency (COP).
+
+#### Phase 3: Emission System Refinement (Priority: Medium)
+The data indicates a conflict in the emission system, listing both `Floor Heating` (efficient) and `Electric Convectors` (highly inefficient).
+3. **Remove/Replace Electric Convectors:** Electric convectors are energy-intensive and negatively impact the EPC score. The building should transition to relying solely on the existing `Floor Heating` system, which is perfectly compatible with the low-temperature output of the proposed Air-Water Heat Pump.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Gable Roof Insulation** | Completes the thermal envelope, ensuring no heat is wasted. |
+| **2** | **Air-Water Heat Pump** | Replaces the fossil-fuel/gas boiler with a sustainable, high-efficiency generator. |
+| **3** | **Eliminate Electric Convectors** | Removes the most inefficient heating elements to maximize the energy score. |
+
+**Final Assessment:** Because the building is a 2023 construction with an A+ rating, the "Fabric First" approach is largely already complete. The remaining gains are found in **decarbonizing the heat source** and **standardizing the emission system** to remove inefficient electric heating.

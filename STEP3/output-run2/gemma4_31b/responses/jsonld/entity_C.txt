@@ -1,0 +1,47 @@
+### Analysis of Building Status
+The building is a modern **Attached Building** (constructed in 2023) with an already high energy efficiency rating (**EPC score: 50**, which falls under the **A label**). Most building elements, including the front and rear walls, the flat roof extension, and the floor above the basement, are already **well insulated**. The ventilation system is already a **Type D** (the most advanced mechanical system).
+
+However, there are two primary opportunities for improvement:
+1.  **Thermal Envelope:** The main gable roof is only **moderately insulated**.
+2.  **Heating System:** The building data explicitly indicates a **reason to change the emission system** (`hasReasonToChangeEmissionSystem: true`).
+
+**Constraints:** 
+*   No potential for PV panels on the roof.
+*   No potential for geothermal drilling (horizontal or vertical).
+*   No access to a district heat grid.
+
+---
+
+### Proposed Renovation Path
+To maximize energy efficiency while remaining cost-effective, the plan follows the "Fabric First" principle: improving the envelope before upgrading the technical installations.
+
+#### Step 1: Envelope Optimization (Priority: High)
+*   **Action:** **Insulate gable roof**.
+*   **Reasoning:** This is the only major building element not yet "well insulated." Improving the roof insulation reduces the overall heat load of the house, allowing for a smaller, more cost-effective heating system in the next step.
+*   **Ordering:** This should be done first to ensure the new heating system is not oversized.
+
+#### Step 2: Heating System Upgrade (Priority: High)
+*   **Action:** **Place air-water heat pump**.
+*   **Reasoning:** Since the owner wants to change the emission system and geothermal/heat grid options are unavailable, an air-water heat pump is the most efficient alternative. It is highly compatible with the existing **floor heating** mentioned in the entity information.
+*   **Ordering:** Executed after roof insulation to optimize the system's capacity.
+
+#### Step 3: Domestic Hot Water Efficiency (Priority: Medium)
+*   **Action:** **Place heat pump boiler**.
+*   **Reasoning:** Replacing the traditional boiler with a heat pump boiler significantly reduces the electricity required for water heating, further improving the EPC score and lowering operational costs.
+
+#### Step 4: Passive Cooling & Comfort (Priority: Low/Optional)
+*   **Action:** **Place sunshade**.
+*   **Reasoning:** To prevent overheating in a well-insulated modern home (which can lead to high air-conditioning costs), external sunshades are a low-cost, high-impact way to maintain thermal comfort passively.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Renovation Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate gable roof** | $\downarrow$ Heat loss | High (prevents system oversize) |
+| **2** | **Place air-water heat pump** | $\downarrow$ Energy consumption | High (replaces old generation) |
+| **3** | **Place heat pump boiler** | $\downarrow$ Water heating cost | Medium (long-term savings) |
+| **4** | **Place sunshade** | $\downarrow$ Summer overheating | High (low investment) |
+
+**Final Result:** This path addresses the specific "reason to change" the heating system while closing the only remaining gap in the building's thermal envelope, ensuring the building moves toward a near-zero energy standard while avoiding unnecessary expenses on already efficient elements.

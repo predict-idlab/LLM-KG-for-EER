@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. 
+
+### **Building Analysis Summary**
+The building is a very modern **Attached Building (constructed in 2023)** with an already excellent energy profile (**EPC score of 50**, which typically falls within the A/A+ range). Most elements—including the front and rear walls, the floor above the basement, and the flat roof extension—are already **Well Insulated**. The ventilation system is already at the highest standard (System D).
+
+However, there are two primary opportunities for improvement to further lower the EPC and satisfy the owner's motivation:
+1.  **Roof Insulation:** The main gable roof is only "Moderately Insulated," making it the weakest link in the thermal envelope.
+2.  **Heating System:** There is a documented reason to change the emission system, and the current boiler can be replaced with a more sustainable alternative.
+
+---
+
+### **Proposed Renovation Plan**
+
+To maximize energy efficiency and cost-effectiveness, the renovation should follow a **"Fabric First"** approach—optimizing the building envelope before upgrading the technical installations.
+
+#### **Step 1: Thermal Envelope Optimization**
+*   **Action:** **Insulate Gable Roof**
+*   **Reasoning:** The `RoofMain` is the only major structural element not categorized as "Well Insulated." Improving this will reduce heat loss through the top of the building, reducing the overall heating load.
+*   **Cost-Effectiveness:** High. Roof insulation typically offers one of the fastest returns on investment in terms of energy savings.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### **Step 2: Sustainable Heating Upgrade**
+*   **Action:** **Place Air-Water Heat Pump**
+*   **Reasoning:** The building has a documented need to change its emission system (`hasReasonToChangeEmissionSystem, true`). Since the building already possesses **Floor Heating** (a low-temperature emission system) and has no potential for geothermal drilling or access to a heat grid, an Air-Water Heat Pump is the most efficient and practical choice.
+*   **Cost-Effectiveness:** Moderate to High. While the initial investment is higher than a boiler, it leverages the existing floor heating for maximum COP (Coefficient of Performance) and significantly reduces operational energy costs.
+
+---
+
+### **Summary of Sequence and Impact**
+
+| Sequence | Renovation Action | Target Element | Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | Reduces heat loss; lowers the required capacity of the new heating system. |
+| **2** | **Place Air-Water Heat Pump** | Generation System | Shifts from fossil fuel/electric boiler to renewable energy; maximizes efficiency via existing floor heating. |
+
+**Excluded Actions:**
+*   **Windows/Glazing:** Not recommended. The building is from 2023 with double glazing and wooden frames in good state; the marginal gain of triple glazing would not be cost-effective given the current EPC of 50.
+*   **Wall/Floor Insulation:** Not recommended. These are already "Well Insulated."
+*   **PV Panels:** Not recommended. The building already has PV panels installed.
+*   **Geothermal:** Not possible. Site data confirms no potential for horizontal or vertical geothermal captation.

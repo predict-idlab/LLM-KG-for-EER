@@ -1,0 +1,58 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building, the renovation must follow the **"Fabric First"** principle. This means reducing energy demand through insulation before upgrading the heating systems. Upgrading a heating system in a "leaky" house is a waste of capital and results in oversized, inefficient equipment.
+
+Given the building's current EPC score of **262.0 (C Label)** and the owner's motivation to improve the EPC, here is the optimal renovation path.
+
+### Phase 1: Thermal Envelope (Reducing Heat Loss)
+The building has several critical gaps in insulation. We prioritize these by the magnitude of heat loss (top-down).
+
+1.  **Roof Insulation:** 
+    *   **Action:** `insulate flat roof` (for the RoofExtension) and `insulate gable roof` (to upgrade the RoofMain from "moderately" to "well" insulated).
+    *   **Reasoning:** Heat rises; the flat roof is currently not insulated, representing a major energy leak.
+2.  **Wall Insulation:**
+    *   **Action:** `insulate wall on exterior`.
+    *   **Reasoning:** Both the front and rear walls are full brick and not insulated. Since they are full brick, cavity insulation is impossible. Exterior insulation is more effective than interior insulation and prevents thermal bridging.
+3.  **Floor Insulation:**
+    *   **Action:** `insulate floor above basement`.
+    *   **Reasoning:** This is a cost-effective upgrade (lowest unit price at 30/m²) that significantly reduces cold drafts from the basement.
+
+*Note: Windows are already double-glazed and in good state, so replacing them is not currently a cost-effective priority.*
+
+### Phase 2: Ventilation (Air Quality & Moisture Control)
+Once the building is "sealed" with insulation, natural ventilation (System A) is no longer sufficient and can lead to condensation and mold.
+
+4.  **Ventilation Upgrade:**
+    *   **Action:** `replace ventilation system`.
+    *   **Reasoning:** Moving from System A (natural) to a more mechanical system (C or D) ensures a healthy indoor climate and recovers some heat that would otherwise be lost.
+
+### Phase 3: Heating System Transition (Efficient Generation)
+Now that the energy demand is lowered, we can install a high-efficiency system. The owner has specifically indicated a reason to change the emission system.
+
+5.  **Emission System Upgrade:**
+    *   **Action:** `place emission system on low temperature`.
+    *   **Reasoning:** Heat pumps are significantly less efficient when paired with traditional high-temperature radiators. Upgrading the emission system first is a prerequisite for the heat pump's performance.
+6.  **Heat Generation Upgrade:**
+    *   **Action:** `place air-water heatpump`.
+    *   **Reasoning:** Geothermal options are unavailable for this site. An air-water heat pump is the most sustainable replacement for the existing boiler.
+7.  **Water Heating:**
+    *   **Action:** `place heatpumpboiler`.
+    *   **Reasoning:** To further decouple domestic hot water from the space heating system for maximum efficiency.
+
+### Phase 4: Renewable Energy (Offsetting Consumption)
+The final step is to produce the electricity required to run the new heat pump.
+
+8.  **Solar Installation:**
+    *   **Action:** `place PV-panels on roof`.
+    *   **Reasoning:** The building has confirmed PV potential. Generating electricity on-site will lower the operational costs of the air-water heat pump and significantly improve the final EPC score.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Category | Action | Primary Benefit | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Envelope | Roof & Wall Insulation | Drastic reduction in heat loss | High (Long-term savings) |
+| **2** | Envelope | Floor Insulation | Eliminates basement drafts | Very High (Low cost) |
+| **3** | Air | Replace Ventilation | Prevents mold/moisture | Moderate |
+| **4** | Heating | Low-Temp Emission | Enables Heat Pump efficiency | Moderate |
+| **5** | Heating | Air-Water Heat Pump | Decarbonization of heat | High (Operational) |
+| **6** | Energy | PV-Panels on Roof | Offsets electricity costs | High (ROI) |

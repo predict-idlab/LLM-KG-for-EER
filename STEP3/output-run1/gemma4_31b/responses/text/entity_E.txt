@@ -1,0 +1,47 @@
+To move a house from an EPC of 165 to a high-performance rating, you must follow the **"Envelope First"** principle. Replacing a heating system in a "leaky" house is a waste of money because the new system will have to work harder and will likely be oversized and inefficient.
+
+Given the specific characteristics of your 1862 home in Ghent, here is the most optimal, cost-effective renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Heat Loss)
+*Goal: Reduce the energy demand of the building before upgrading the source.*
+
+1.  **Cavity Wall Insulation (High Priority/Low Cost):** Since you have cavity walls, **injection insulation** is your most cost-effective win. It is non-invasive and provides a massive jump in EPC points. 
+2.  **Window Upgrades (High Priority):** Single glazing is the primary source of heat loss and drafts. Since the wooden frames are in good condition, investigate if **slim-profile double glazing** can be fitted. If not, replace them with high-efficiency A++ rated windows. This is critical before installing a heat pump.
+3.  **Crawl Space Floor Insulation:** Since the floor is not protected, you likely have "cold feet" syndrome. Insulating the ceiling of the crawl space (using mineral wool or EPS) is relatively inexpensive and prevents heat from escaping into the ground.
+4.  **Airtightness Check:** Being built in 1862, the house likely has significant air infiltration. Seal gaps around window frames, skirting boards, and utility penetrations.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Preventing mold and moisture once the house is sealed.*
+
+1.  **Upgrade to Mechanical Ventilation:** Once you insulate the walls and upgrade windows, "natural ventilation" is no longer sufficient and can lead to condensation/mold. 
+    *   **Recommendation:** Install a **Decentralized Heat Recovery Ventilation (dHRV)** system or a centralized MVHR system. This recovers heat from outgoing air to warm the incoming fresh air, significantly reducing the load on your heating system.
+
+### Phase 3: The Heating Transition (The "Heart" Upgrade)
+*Goal: Switching from inefficient fossil fuels/electric heaters to a sustainable system.*
+
+1.  **Standardize Heat Emission:** You currently have a fragmented system (radiators, underfloor, air, electric). This is highly inefficient. 
+    *   **Action:** Remove the electric convectors and air heating. 
+    *   **Optimization:** Replace old radiators with **low-temperature radiators** or expand the underfloor heating. This is a prerequisite for a heat pump to operate efficiently.
+2.  **Install an Air-to-Water Heat Pump:** Since geothermal is not possible and there is no district heating, a heat pump is the gold standard for Ghent. Because you have already insulated the walls, floor, and windows (Phase 1), the heat pump can be smaller, cheaper to install, and operate at a much higher Coefficient of Performance (COP).
+
+### Phase 4: Energy Generation (Offsetting Costs)
+*Goal: Lowering operational costs to near zero.*
+
+1.  **Photovoltaic (PV) Panels:** Now that you have a heat pump (which runs on electricity) and a highly insulated house, your electricity demand is predictable. Install PV panels on your pitched roof to offset the electricity consumption of the heat pump and your household appliances.
+
+---
+
+### Summary Table: The Optimal Sequence
+
+| Step | Action | Impact on EPC | Cost-Effectiveness | Why this order? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Cavity Wall & Floor Insulation | $\uparrow \uparrow \uparrow$ | Very High | Lowest cost per EPC point gained. |
+| **2** | Double Glazing | $\uparrow \uparrow$ | High | Eliminates the biggest thermal bridges. |
+| **3** | Ventilation System | $\uparrow$ | Medium | Prevents humidity issues caused by Step 1 & 2. |
+| **4** | Low-Temp Emitters $\rightarrow$ Heat Pump | $\uparrow \uparrow \uparrow$ | Medium | Requires a sealed house to be efficient. |
+| **5** | PV Panels | $\uparrow$ | High | Offsets the power used by the Heat Pump. |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, apply for the **"Mijn VerbouwPremie"** (My Renovation Premium). The Flemish government provides significant subsidies for these specific steps, but the subsidies often require you to work with certified contractors and, in some cases, a certified energy advisor to validate the EPC improvement. **Do not start the work before confirming your eligibility for these premiums.**

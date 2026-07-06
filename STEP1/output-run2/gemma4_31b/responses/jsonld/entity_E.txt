@@ -1,0 +1,44 @@
+Based on the provided building data and the RENO ontology, the building is a detached house from 1862 with an EPC score of 165. While it is currently in a relatively good energy bracket, the owner's goal is to further improve the EPC. 
+
+The most cost-effective and energy-efficient strategy follows the **"Envelope First"** principle: reduce heat loss through the building shell before upgrading the heating and energy generation systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (High Impact, Low-to-Medium Cost)
+*   **1. Cavity Wall Insulation (`InsulateWallCavity`):** 
+    *   **Analysis:** All four exterior walls are cavity walls and currently **not insulated**. This is the most cost-effective upgrade available (Unit Price: 22/m²).
+    *   **Action:** Inject insulation into the wall cavities.
+*   **2. Glazing Upgrade (`ReplaceGlazing`):** 
+    *   **Analysis:** The windows in the bedrooms and living area currently have **single glazing**, which is a major source of thermal loss. Since the wooden frames are in "Good State," replacing only the glass is more cost-effective than replacing the entire window unit.
+    *   **Action:** Upgrade single glazing to double or triple glazing.
+*   **3. Floor Insulation (`InsulateFloorAboveBasement`):** 
+    *   **Analysis:** The building has a floor above a crawl space. Insulating this area prevents cold air from entering the living spaces from below.
+    *   **Action:** Install insulation on the floor above the crawl space (Unit Price: 30/m²).
+
+#### Phase 2: Air Quality and System Efficiency (Medium Cost)
+*   **4. Ventilation Upgrade (`ReplaceVentilationSystem`):** 
+    *   **Analysis:** The building currently uses Ventilation System A. Improving the ventilation system is critical after sealing the envelope (insulation/glazing) to prevent moisture buildup and ensure air quality.
+    *   **Action:** Upgrade to a more efficient system (e.g., System C or D).
+
+#### Phase 3: Sustainable Energy Generation & Heating (Higher Investment)
+*   **5. Heat Pump Installation (`PlaceAirWaterHeatpump`):** 
+    *   **Analysis:** The building has a documented reason to change its emission system, and geothermal options are not viable for this site. Given the existing radiator and floor heating infrastructure, an air-to-water heat pump is the optimal choice.
+    *   **Action:** Replace the current boiler with an air-water heat pump.
+*   **6. Solar Energy (`PlacePVPanelsOnRoof`):** 
+    *   **Analysis:** The building has high potential for PV panels. Since the roof is already "Well Insulated," it is ready for installation.
+    *   **Action:** Install PV panels on the roof to offset the electricity consumption of the new heat pump.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Order | Intervention | Logic | Cost Profile |
+| :--- | :--- | :--- | :--- |
+| **1** | **Wall Insulation** | Lowest cost per m², immediate reduction in heat loss. | Very Low |
+| **2** | **Glazing Replace** | Eliminates the weakest thermal points (single glass). | Medium |
+| **3** | **Floor Insulation** | Completes the thermal shell. | Low |
+| **4** | **Ventilation** | Ensures healthy air exchange in a now-tight house. | Medium |
+| **5** | **Heat Pump** | Right-sized for the new, lower energy demand. | High |
+| **6** | **PV Panels** | Powers the heat pump with renewable energy. | Medium/High |
+
+**Expert Note:** By insulating the walls and upgrading the glazing *before* installing the heat pump, you significantly reduce the required capacity of the heating system, thereby lowering both the installation cost and the long-term operational energy bills.

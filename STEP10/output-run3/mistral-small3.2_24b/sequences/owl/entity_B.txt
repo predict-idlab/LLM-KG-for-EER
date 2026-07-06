@@ -1,0 +1,6 @@
+1. insulate walls on exterior
+2. insulate floor above basement
+3. insulate flat roof
+4. place air-water heat pump
+5. place emission system on low temperature
+6. place pv-panels on roof

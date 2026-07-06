@@ -1,0 +1,38 @@
+To maximize energy efficiency and improve the EPC score (currently 388.0, a "D" label) while remaining cost-effective, the renovation should follow the **"Fabric First"** principle: reduce energy demand through insulation before upgrading heating systems and adding renewables.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Reducing Energy Demand)
+The building's envelope is currently the weakest point, with most elements being "Not Insulated."
+1.  **Insulate Gable Roof:** The main roof is not insulated. Heat rises, making this the most cost-effective high-impact upgrade.
+2.  **Insulate Walls on Exterior:** The front, rear, and right walls are full brick and not insulated. While exterior insulation has a higher unit price, it is significantly more efficient than interior insulation and avoids reducing internal living space.
+3.  **Insulate Floor Above Basement:** This element is currently not insulated and provides a low-cost way to reduce cold drafts from below.
+
+#### Phase 2: Air Quality & Ventilation
+As the building envelope becomes more airtight through insulation, the current natural ventilation (System A) will no longer be sufficient to prevent moisture buildup and ensure air quality.
+4.  **Replace Ventilation System:** Upgrade to a mechanical system (System C or D) to maintain a healthy indoor climate and recover heat.
+
+#### Phase 3: Heating System Transition
+With the energy demand lowered, the heating system can be downsized and transitioned from a traditional boiler to a sustainable source.
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the existing radiators/heating should be optimized for low-temperature operation to maximize the efficiency of the new generation system.
+6.  **Place Air-Water Heat Pump:** Since geothermal and heat grid options are unavailable for this site, an air-water heat pump is the most efficient replacement for the current boiler, leveraging the existing floor/radiator heating.
+
+#### Phase 4: Renewable Energy Generation
+The final step is to offset the electricity consumption of the new heat pump.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower operational costs and significantly improve the final EPC label.
+
+---
+
+### Summary Table: Sequence and Logic
+
+| Sequence | Action | Target Element | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | RoofMain | Highest ROI; prevents maximum heat loss. |
+| **2** | `insulate wall on exterior` | Wall_Front, Rear, Right | Critical for EPC improvement; removes thermal bridges. |
+| **3** | `insulate floor above basement`| FloorAboveBasement | Low-cost, prevents heat loss to basement. |
+| **4** | `replace ventilation system` | VentilationSystem | Necessary after insulation to prevent mold/damp. |
+| **5** | `place emission system on low temperature` | EmissionSystem | Prerequisite for efficient heat pump operation. |
+| **6** | `place air-water heatpump` | Generation_System | Shifts from fossil fuel to sustainable electricity. |
+| **7** | `place PV-panels on roof` | RoofMain | Offsets electricity costs of the heat pump. |
+
+**Estimated Outcome:** This sequence transforms the building from a "leaky" 1951 structure into a high-performance home, moving the EPC from a **D label** toward an **A or B label** by systematically reducing demand before addressing supply.

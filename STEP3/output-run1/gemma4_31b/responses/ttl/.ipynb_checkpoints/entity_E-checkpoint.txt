@@ -1,0 +1,43 @@
+To maximize energy efficiency while maintaining cost-effectiveness for this 1862 detached building, the renovation should follow the "Fabric First" principle: optimize the building envelope before upgrading the heating and energy systems.
+
+### **Analysis of Current State**
+*   **The Shell:** The roof is already well-insulated, but the four cavity walls are not insulated, and all windows use inefficient single glazing.
+*   **The Systems:** The building uses a basic Ventilation System A and has a heating system that is flagged for replacement. Geothermal and heat grid options are unavailable.
+*   **The Goal:** The owner specifically wants to improve the EPC (Energy Performance Certificate) score.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (The "Quick Wins")**
+*Priority: High | Impact: Immediate reduction in heat loss*
+1.  **Insulate Wall Cavities:** Since the building has cavity walls that are currently not insulated, this is the most cost-effective upgrade available. It has a low unit price (22/m²) and low nuisance.
+2.  **Insulate Floor Above Basement:** To prevent cold drafts from the crawl space, insulating the floor above the basement is a low-cost, low-nuisance addition.
+3.  **Replace Glazing:** Single glazing is a major source of heat loss. Since the wooden window frames are in "Good State," I recommend **replacing the glazing** rather than the entire window unit to save costs while significantly improving the U-value.
+
+#### **Phase 2: Ventilation & Air Quality**
+*Priority: Medium | Impact: Prevents moisture buildup and improves efficiency*
+4.  **Replace Ventilation System:** Upgrading from Ventilation System A (natural) to a more modern system (e.g., System C or D) is crucial after insulating the walls and windows to ensure healthy indoor air quality and reduce heat loss through uncontrolled ventilation.
+
+#### **Phase 3: Heating System Modernization**
+*Priority: Medium | Impact: Shift to sustainable energy*
+5.  **Place Emission System on Low Temperature:** Before installing a new heat pump, the emission system should be optimized for low temperatures to maximize the efficiency (COP) of the new generator.
+6.  **Place Air-Water Heat Pump:** Given that geothermal and heat grids are not options, an air-water heat pump is the most efficient replacement for the current boiler. This is placed *after* the envelope is sealed to ensure the pump is not oversized.
+
+#### **Phase 4: Renewable Energy Generation**
+*Priority: Low | Impact: Reduction of operational costs*
+7.  **Place PV-Panels on Roof:** With the building's potential for PV marked as "true," installing solar panels is the final step to lower the energy consumption of the newly installed heat pump and improve the EPC score.
+
+---
+
+### **Summary of Sequence & Logic**
+
+| Order | Action | Logic | Cost Profile |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls** | Highest ROI; lowest cost per m². | Very Low |
+| **2** | **Insulate Floor** | Eliminates ground-level heat loss. | Low |
+| **3** | **Replace Glazing** | Fixes the weakest point in the envelope. | Moderate |
+| **4** | **Upgrade Ventilation** | Necessary balance to a sealed envelope. | Moderate |
+| **5** | **Low-Temp Emission** | Pre-requisite for Heat Pump efficiency. | Moderate |
+| **6** | **Air-Water Heat Pump** | Replaces fossil fuel/electric boilers. | High |
+| **7** | **PV Panels on Roof** | Offsets the electricity cost of the HP. | Moderate |

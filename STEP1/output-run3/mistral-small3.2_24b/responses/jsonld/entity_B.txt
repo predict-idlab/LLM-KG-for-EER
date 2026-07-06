@@ -1,0 +1,71 @@
+### **Renovation Plan for the Attached Building**
+
+**Objective:**
+Improve the energy efficiency of the attached building (constructed in 1832) while considering cost-effectiveness and practicality. The current EPC score is 262 kWh/m²/year (D label), and the owner wants to improve the EPC.
+
+**Key Considerations:**
+1. **Current State:**
+   - The building has no heat grid connection.
+   - The floor above the basement and the rear wall are not insulated.
+   - The flat roof extension is not insulated.
+   - The main gable roof is moderately insulated.
+   - The ventilation system is of type A (natural supply and natural exhaust).
+   - The windows have wooden frames with double glazing.
+   - The emission system consists of radiators.
+   - The generation system is a boiler.
+   - The building has potential for PV installation.
+
+2. **Owner’s Motivation:**
+   - The owner wants to improve the EPC.
+
+3. **Potential Renovations:**
+   - Insulate the floor above the basement.
+   - Insulate the rear wall.
+   - Insulate the flat roof extension.
+   - Replace the ventilation system (consider upgrading to a more efficient system).
+   - Install PV panels on the roof.
+
+4. **Prioritization:**
+   - **High Priority:**
+     - **Insulate the rear wall:** This is a significant source of heat loss and will have a substantial impact on improving the EPC. The cost is €200 per m², and it does not require a permit.
+     - **Insulate the floor above the basement:** This is another area of significant heat loss. The cost is €30 per m², and it does not require a permit.
+   - **Medium Priority:**
+     - **Insulate the flat roof extension:** This will help reduce heat loss through the roof. The cost is €50 per m², and it does not require a permit.
+   - **Low Priority:**
+     - **Replace the ventilation system:** Consider upgrading to a more efficient system (e.g., Ventilation System B or C) to improve indoor air quality and energy efficiency. The cost is €3,500 plus €17 per m².
+     - **Install PV panels on the roof:** This will generate renewable energy and further reduce the building’s carbon footprint. The cost is €275 per m², and it may require a permit if the panels are not in the same plane as the roof.
+
+5. **Actionable Steps:**
+   - **Step 1: Insulate the rear wall.**
+     - **Action:** Hire a contractor to install exterior insulation on the rear wall.
+     - **Cost:** €200 per m².
+     - **Timeframe:** 2-4 weeks.
+   - **Step 2: Insulate the floor above the basement.**
+     - **Action:** Hire a contractor to install insulation on the floor above the basement.
+     - **Cost:** €30 per m².
+     - **Timeframe:** 1-2 weeks.
+   - **Step 3: Insulate the flat roof extension.**
+     - **Action:** Hire a contractor to install insulation on the flat roof extension.
+     - **Cost:** €50 per m².
+     - **Timeframe:** 1-2 weeks.
+   - **Step 4: Replace the ventilation system (optional).**
+     - **Action:** Consult with an HVAC specialist to determine the best ventilation system for the building (e.g., Ventilation System B or C) and install it.
+     - **Cost:** €3,500 plus €17 per m².
+     - **Timeframe:** 1-2 weeks.
+   - **Step 5: Install PV panels on the roof (optional).**
+     - **Action:** Consult with a solar energy specialist to assess the roof’s suitability for PV panels and install them.
+     - **Cost:** €275 per m².
+     - **Timeframe:** 2-4 weeks.
+
+6. **Expected Outcomes:**
+   - **Improved EPC:** The building’s EPC score is expected to improve significantly, potentially moving it from a D label to a C or B label.
+   - **Reduced Energy Consumption:** The building’s energy consumption is expected to decrease, leading to lower utility bills.
+   - **Increased Comfort:** The insulation improvements will enhance thermal comfort, and the ventilation system upgrade will improve indoor air quality.
+   - **Renewable Energy Generation:** The installation of PV panels will generate renewable energy, further reducing the building’s carbon footprint.
+
+7. **Next Steps:**
+   - **Consult with a professional:** Engage a certified energy auditor or contractor to assess the building’s current state and provide detailed recommendations and cost estimates.
+   - **Obtain necessary permits:** Ensure that any required permits are obtained before starting the renovations.
+   - **Plan the renovation schedule:** Coordinate the renovation schedule to minimize disruption to the building’s occupants.
+
+By following this renovation plan, the building’s energy efficiency will be significantly improved, leading to a better EPC, reduced energy consumption, increased comfort, and potentially lower utility bills.

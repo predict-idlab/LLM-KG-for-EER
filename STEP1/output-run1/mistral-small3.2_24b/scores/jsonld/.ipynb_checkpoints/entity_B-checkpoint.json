@@ -1,0 +1,24 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "insulate flat roof",
+      "insulate wall on interior",
+      "place air-water heatpump",
+      "place emission system on low temperature"
+    ],
+    "extra_actions": [
+      "replace the roof extension with a well-insulated flat roof",
+      "replace windows with energy-efficient triple-glazed windows",
+      "upgrade the emission system to a heat pump boiler",
+      "replace the ventilation system with a more advanced type"
+    ]
+  },
+  "sequence": {
+    "order_errors": [
+      "replace the roof extension with a well-insulated flat roof",
+      "replace windows with energy-efficient triple-glazed windows",
+      "upgrade the emission system to a heat pump boiler",
+      "replace the ventilation system with a more advanced type"
+    ]
+  }
+}

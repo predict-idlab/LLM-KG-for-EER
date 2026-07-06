@@ -1,0 +1,33 @@
+The building is a 1951 semi-detached house with an EPC score of 388 (D Label). The owner's primary motivation is to improve the EPC rating.
+
+### Proposed Renovation Path:
+
+#### **Phase 1: Strengthen the Building Envelope**
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+
+1. **Insulate Wall on Exterior**: Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Since they are not cavity walls, exterior insulation is the most effective method to eliminate thermal bridges.
+2. **Insulate Floor Above Basement**: The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+3. **Insulate Gable Roof**: The `RoofMain` is currently not insulated. This is a priority as heat rises rapidly through pitched sections.
+
+*Note: Windows are already double-glazed and frames are in a "Good State," so replacing them is not recommended at this stage to maintain cost-effectiveness.*
+
+#### **Phase 2: Heating & Emission System Transition**
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+4. **Place Air-Water Heat Pump**: Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+5. **Place Emission System on Low Temperature**: Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+#### **Phase 3: Air Quality & Ventilation**
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System**: Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### **Phase 4: Sustainable Energy Generation**
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+**Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Gable Roof Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**.
+
+This sequence follows the "Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate" principle, ensuring that the building's energy efficiency is maximized in the most cost-effective way.

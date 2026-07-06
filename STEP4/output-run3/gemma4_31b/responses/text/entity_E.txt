@@ -1,0 +1,46 @@
+Based on the provided building data, this is a detached house from 1862 with an EPC score of 165. While the EPC is lower than in the previous examples, the building's age and current components (single glazing, uninsulated cavity walls, and an inefficient heating mix) present significant opportunities for energy reduction.
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow the **"Fabric First"** principle: reducing the energy demand of the building before upgrading the systems that supply that energy.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The goal is to minimize heat loss through the building's shell. Because the house has cavity walls, this phase is particularly cost-effective.
+
+1.  **Cavity Wall Insulation:** Since all four exterior walls are cavity walls and currently uninsulated, **cavity wall injection** is the highest priority. This is one of the most cost-effective upgrades available, as it requires no major structural work while drastically reducing heat loss.
+2.  **Insulate Floor Above Crawl Space:** The floor above the crawl space is likely a major source of heat loss and cold drafts. Adding insulation here will improve thermal comfort and prevent the "cold floor" effect.
+*Note: The pitched roof is already well-insulated, so no further action is required there.*
+
+#### Phase 2: Window Performance (Priority: High)
+Single glazing acts as a "thermal hole" in the building envelope, regardless of how well the walls are insulated.
+
+3.  **Replace Single Glazing:** The wooden frames are in good condition, but single glazing is highly inefficient. Replacing the glass with **double or triple glazing** (or replacing the units entirely if the frames cannot be adapted) is essential to stop significant heat leakage and improve the EPC score.
+
+#### Phase 3: Heating & Emission System Transition (Priority: Medium)
+Now that the building is sealed and the heat demand is lowered, the outdated and inefficient heating system can be replaced with a modern, low-temperature alternative.
+
+4.  **Upgrade Emission Systems:** The current combination of radiators and electric convectors is inefficient. These should be replaced with **low-temperature emission systems** (e.g., oversized radiators or expanded underfloor heating). This is a prerequisite for the heat pump to operate at maximum efficiency (COP).
+5.  **Install Air-Water Heat Pump:** With geothermal and district heating unavailable, an **Air-Water Heat Pump** is the most sustainable and cost-effective generator to replace the existing boiler.
+
+#### Phase 4: Ventilation and Air Quality (Priority: Medium)
+Increasing the airtightness of an 1862 house via insulation and new windows can lead to moisture buildup and poor indoor air quality.
+
+6.  **Upgrade Ventilation System:** Transition from basic natural ventilation to a **mechanical ventilation system (System C or D)**. This ensures a constant flow of fresh air and prevents condensation/mold in the newly insulated envelope.
+
+#### Phase 5: Sustainable Energy Generation (Priority: Long-term)
+To further lower the EPC score and offset the electricity costs of the heat pump and ventilation.
+
+7.  **Install PV-Panels:** Since the property has confirmed potential for photovoltaics, installing solar panels is the final step to transition the home toward energy independence.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Cavity Wall & Floor Insulation** | Lowest cost per unit of energy saved; reduces overall heat demand. |
+| **2** | **Glazing Replacement** | Eliminates the primary source of thermal leakage. |
+| **3** | **Low-Temp Emission Upgrade** | Prepares the house for a high-efficiency heat pump. |
+| **4** | **Air-Water Heat Pump** | Switches to a sustainable energy source tailored to the reduced demand. |
+| **5** | **Ventilation Upgrade** | Maintains healthy indoor air quality in a sealed building. |
+| **6** | **PV-Panel Installation** | Offsets operational energy costs with renewable electricity. |

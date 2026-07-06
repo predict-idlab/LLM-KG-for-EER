@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate gable roof", "insulate wall on interior", "replace glazing"], "extra_actions": ["insulate walls on exterior", "replace emission system on low temperature", "install air-water heat pump", "install pv-panels on roof"]}, "sequence": {"order_errors": ["insulate floor above basement", "replace ventilation system"]}}

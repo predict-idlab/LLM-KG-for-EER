@@ -1,0 +1,29 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building (EPC 262), the renovation should follow the "fabric first" approach. By sealing the building envelope before upgrading the heating system, we reduce the required capacity of the new system, thereby lowering both installation and operational costs.
+
+### Phase 1: Thermal Envelope Optimization (The "Shell")
+The building has several elements that are currently **Not Insulated**. Addressing these is the highest priority to prevent heat loss.
+
+1.  **Insulate Flat Roof:** The `RoofExtension` is not insulated. This is a high-priority "quick win" for energy reduction.
+2.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. This prevents cold drafts from the basement into the living spaces.
+3.  **Insulate Wall on Exterior:** Both the `Wall_Front` and `Wall_Rear` are full brick walls and are not insulated. Since there is no historical protection, exterior insulation is the most effective way to eliminate thermal bridges and significantly lower the EPC score.
+
+### Phase 2: Ventilation and Air Quality
+Once the building is insulated and "sealed," air exchange must be managed to prevent humidity issues and ensure health.
+
+4.  **Replace Ventilation System:** The current `VentilationSystemA` (natural supply) is inefficient. Upgrading to a more modern system (e.g., System C or D) will improve air quality and reduce heat loss through uncontrolled ventilation.
+
+### Phase 3: Heating System Modernization
+With a reduced thermal load due to Phase 1, the heating system can now be transitioned from a traditional boiler to a sustainable alternative.
+
+5.  **Place Emission System on Low Temperature:** Current `Radiators` typically require high temperatures. To maximize the efficiency of a heat pump, the emission system should be converted to low-temperature (e.g., underfloor heating or oversized radiators).
+6.  **Place Air-Water Heatpump:** Since the site has no potential for geothermal captation (both horizontal and vertical are `false`), an Air-Water Heat Pump is the most cost-effective and efficient choice to replace the existing boiler.
+
+### Phase 4: Renewable Energy Integration
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+
+7.  **Place PV-panels on Roof:** The building has `hasPotentialForPV: true`. Installing solar panels will provide the electricity needed for the heat pump, drastically reducing long-term operational costs and further improving the EPC label.
+
+### Summary of Optimal Sequence
+**Insulation (Flat Roof $\rightarrow$ Floor $\rightarrow$ Walls) $\rightarrow$ Ventilation $\rightarrow$ Low-Temp Emission $\rightarrow$ Air-Water Heatpump $\rightarrow$ PV Panels.**
+
+This path ensures that you do not over-invest in a heating system that is too large for a well-insulated house, while systematically moving the building toward a high energy-efficiency class.

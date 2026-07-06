@@ -1,0 +1,27 @@
+Based on the provided building data and the RENO ontology, the property is a semi-detached house built in 1951 with an EPC score of 388 (D Label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow a **"Fabric First"** approach. By optimizing the thermal envelope first, we reduce the overall heat demand, which allows for the installation of a smaller, more efficient, and less expensive heating system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: Critical)
+The building has significant heat loss through several uninsulated structural elements. Addressing these is the most impactful way to lower the energy score.
+1. **Insulate Gable Roof:** The `RoofMain` is currently not insulated. Since heat rises, this is the highest priority for reducing energy consumption.
+2. **Insulate Walls:** The Front, Rear, and Right walls are full brick and not insulated. Because they are not cavity walls, **Insulating the Walls on the Interior** is recommended as a cost-effective way to improve thermal retention without requiring extensive exterior permits or altering the building line.
+3. **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents heat loss to the basement and eliminates cold drafts.
+*Note: The `RoofExtension` is already moderately insulated and the windows are double-glazed with frames in good state; therefore, these elements do not require immediate intervention.*
+
+#### Phase 2: Heating & System Upgrades
+Once the envelope is sealed and insulated, the focus shifts to the energy source.
+4. **Transition to Heat Pump/Efficient Heating:** With the reduced heat loss from Phase 1, the building can now effectively utilize a lower-temperature heating system. 
+5. **Upgrade/Optimize Ventilation:** To ensure air quality remains high after improving insulation, a check of the ventilation system is recommended.
+
+#### Phase 3: Renewable Energy Integration
+6. **Solar PV Installation:** Since the building is now energy-efficient, installing solar panels (PV) will provide the highest return on investment by powering the new efficient heating system and reducing reliance on the grid.
+
+---
+
+### Summary of Strategy & Logic
+*   **The Logic:** Insulation $\rightarrow$ Efficient Heating $\rightarrow$ Renewable Energy.
+*   **Why this order?** Installing a heat pump or solar panels before insulating the building is inefficient, as the heat pump would have to work harder to compensate for the heat leaking through uninsulated walls and roofs.
+*   **Key/Critical Path:** The most urgent priority is the **Roof and Wall Insulation**, as this provides the immediate reduction in energy demand.

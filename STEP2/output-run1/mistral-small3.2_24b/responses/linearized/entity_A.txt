@@ -1,0 +1,70 @@
+Based on the provided ontology and entity information, here's a cost-effective and energy-efficient renovation plan for the semi-detached building:
+
+### Phase 1: Pre-Renovation Assessment and Planning
+1. **Energy Audit**: Confirm current energy performance (EPC 388) and identify key areas for improvement.
+2. **Asbestos Inspection**: Check for asbestos in roofing materials before any structural work.
+
+### Phase 2: Roof and Insulation Upgrades
+1. **Insulate Gable Roof (RoofMain)**:
+   - Ordering: 28
+   - Install vapour barrier and insulation
+   - Point of Attention: Condensation problems can occur without a vapour barrier
+   - Nuisance Level: Low
+   - Price: €60/m²
+
+2. **Insulate Flat Roof (RoofExtension)**:
+   - Ordering: 25
+   - Opt for an inverted roof structure
+   - Point of Attention: Place insulation on top of the roof covering
+   - Nuisance Level: High
+   - Price: €50/m²
+
+3. **Insulate Attic Floor**:
+   - Ordering: 31
+   - Install vapour barrier if necessary
+   - Nuisance Level: Low
+   - Price: €60/m²
+
+### Phase 3: Wall Insulation
+1. **Insulate Wall Cavity (Wall_Right, Wall_Rear, Wall_Front)**:
+   - Ordering: 34
+   - Conduct inspection first to verify suitability
+   - Nuisance Level: Low
+   - Price: €22/m²
+
+### Phase 4: Window and Glazing Improvements
+1. **Replace Glazing (WindowsLivingArea, WindowsBedrooms)**:
+   - Ordering: 43
+   - Verify frame condition and thickness
+   - Nuisance Level: High
+   - Price: €200/m²
+
+### Phase 5: Emission System Upgrades
+1. **Place Air-Water Heatpump**:
+   - Ordering: 67
+   - Consider system requirements
+   - Nuisance Level: Moderate
+   - Price: €35/m²
+
+2. **Place Heat Pump Boiler**:
+   - Ordering: 76
+   - Nuisance Level: Moderate
+   - Price: €4000 (fixed)
+
+### Phase 6: Renewable Energy Integration
+1. **Place PV Panels on Roof**:
+   - Ordering: 85
+   - Check roof orientation and potential shading
+   - Nuisance Level: Low
+   - Price: €275/m²
+
+### Optimal Sequence and Justification:
+1. Start with roof insulation to address thermal bridges and prevent heat loss through the roof
+2. Proceed to wall insulation to create a comprehensive thermal envelope
+3. Upgrade glazing to reduce heat loss through windows
+4. Install new emission systems to maximize efficiency of the improved thermal envelope
+5. Add renewable energy sources to further reduce energy consumption
+
+This sequence ensures each upgrade builds on the benefits of previous ones, maximizing energy efficiency improvements while maintaining cost-effectiveness. The plan focuses on high-impact, non-disruptive upgrades first, saving more invasive work for later phases.
+
+Would you like me to provide more detailed cost estimates or alternative options for any of these renovations?

@@ -1,0 +1,44 @@
+Based on the provided building data and the RENO ontology, the property is a detached building constructed in 1862. While it currently holds a relatively good EPC score of 165 (B Label), there are significant opportunities to improve its long-term energy performance and sustainability.
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow a **"Fabric First"** approach. By optimizing the thermal envelope first, we reduce the total heat demand, which allows for the installation of a smaller, more efficient heating system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The goal is to eliminate heat leakage through the building's skin. Because the walls are cavity walls, we can use highly cost-effective injection methods.
+
+1.  **Insulate Wall Cavity:** All four external walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`) are cavity walls and are currently not insulated. **Insulating the wall cavity** is the most cost-effective way to drastically reduce heat loss through the walls without altering the building's exterior appearance.
+2.  **Insulate Floor Above Basement:** The `FloorAboveCrawlSpace` is currently uninsulated. Adding insulation here prevents heat loss to the crawl space and eliminates cold drafts at the floor level.
+
+#### Phase 2: Window Performance (Priority: High)
+The building currently utilizes single glazing, which is a major source of thermal bridging.
+
+3.  **Replace Glazing:** The window frames (`WoodenWindowFrame`) are reported to be in a "Good State." Therefore, instead of replacing the entire window unit, the most cost-effective move is to **replace the glazing** (upgrading from single to double or triple glazing). This maintains the existing frames while significantly improving the U-value.
+
+#### Phase 3: High-Efficiency Heating Transition (Priority: Medium)
+With the thermal envelope sealed, the building's heat demand is lowered, making it possible to transition from a traditional boiler to a sustainable system.
+
+4.  **Place Emission System on Low Temperature:** Before installing a new generator, the existing mixed emission system (radiators, etc.) should be upgraded to **low-temperature emissions**. This is critical to ensure the high efficiency (COP) of a heat pump.
+5.  **Place Air-Water Heat Pump:** Given that the site has no potential for geothermal drilling/captation and no access to a heat grid, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the current boiler.
+
+#### Phase 4: Air Quality and Ventilation (Priority: Medium)
+Increasing the airtightness of the building (via insulation and new glazing) necessitates a controlled ventilation strategy to prevent humidity buildup.
+
+6.  **Replace Ventilation System:** Upgrade from the current Ventilation System A (natural) to a more modern system (such as System C or D). This ensures a healthy indoor climate and prevents the loss of heat through uncontrolled air leakage.
+
+#### Phase 5: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity required by the new heat pump and ventilation system.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for solar energy. Installing **PV-panels on the roof** will lower operational costs and further improve the EPC rating.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Cavity Wall $\rightarrow$ Floor Insulation** | Lowest cost per unit of energy saved; reduces overall heat demand. |
+| **2** | **Glazing Replacement** | Addresses the highest remaining points of heat loss (single glazing). |
+| **3** | **Low-Temp Emission $\rightarrow$ Heat Pump** | Transitions to sustainable heating tailored to the new, lower energy demand. |
+| **4** | **Ventilation Upgrade** | Maintains air quality in a now-sealed, energy-efficient envelope. |
+| **5** | **PV Panel Installation** | Provides renewable energy to power the new electrical systems. |

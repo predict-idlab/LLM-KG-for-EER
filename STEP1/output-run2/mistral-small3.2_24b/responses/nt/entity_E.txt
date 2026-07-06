@@ -1,0 +1,62 @@
+Based on the provided building-related information, here is a concise and actionable renovation plan that is grounded in the RENO ontology and tailored to the entity:
+
+### Renovation Plan for Detached Building at Example Address
+
+#### **1. Building Assessment and Prioritization**
+- **Current Energy Performance**: The building has an Energy Performance Certificate (EPC) with an energy score of **165 kWh/m²year**, which is classified as a **C label**.
+- **Key Issues Identified**:
+  - **Insulation**: The walls (Front, Rear, Left, Right) and the roof are not insulated, which contributes to energy inefficiency.
+  - **Heating System**: The current heating system is an electric convector, which is not energy-efficient.
+  - **Ventilation**: The building has a ventilation system type A, which may not be optimal for energy efficiency.
+  - **Windows**: The windows have wooden frames with single glazing, which can be improved for better thermal performance.
+
+#### **2. Energy Efficiency Upgrades**
+- **Insulation of Walls and Roof**:
+  - **Insulate Exterior Walls**: Apply exterior wall insulation to improve thermal performance. This is recommended for the Cavity Walls (Front, Rear, Left, Right).
+    - **Estimated Cost**: ~€200 per m² (based on the RENO ontology).
+    - **Nuisance Level**: High (requires significant construction work).
+  - **Insulate Roof**: Insulate the gable roof to improve energy efficiency.
+    - **Estimated Cost**: ~€50 per m².
+    - **Nuisance Level**: High (requires significant construction work).
+
+- **Window Upgrades**:
+  - **Replace Single Glazing with Double Glazing**: Improve the thermal performance of the windows by replacing single glazing with double glazing.
+    - **Estimated Cost**: ~€200 per m².
+    - **Nuisance Level**: High (requires significant construction work).
+
+- **Heating System Upgrade**:
+  - **Replace Electric Convector with Heat Pump**: Install an air-water heat pump for more efficient heating.
+    - **Estimated Cost**: ~€8,000 (fixed price).
+    - **Nuisance Level**: Moderate (requires installation work).
+
+#### **3. Ventilation System Upgrade**
+- **Upgrade to Ventilation System D**:
+  - **Estimated Cost**: ~€17 per m².
+  - **Nuisance Level**: Moderate (requires installation work).
+
+#### **4. Additional Recommendations**
+- **Solar Panel Installation**:
+  - **Place PV Panels on Roof**: Install photovoltaic panels to generate renewable energy.
+    - **Estimated Cost**: ~€275 per m².
+    - **Nuisance Level**: Low (minimal disruption).
+
+- **Energy Performance Certificate (EPC) Improvement**:
+  - **Target**: Improve the EPC label from C to B or better by implementing the above upgrades.
+
+#### **5. Implementation Timeline**
+1. **Initial Assessment and Planning**: 1-2 weeks
+2. **Insulation and Window Upgrades**: 2-4 weeks
+3. **Heating System Upgrade**: 1-2 weeks
+4. **Ventilation System Upgrade**: 1 week
+5. **Solar Panel Installation**: 1 week
+
+#### **6. Estimated Total Cost**
+- **Low Estimate**: €15,000
+- **High Estimate**: €25,000
+
+#### **7. Expected Outcomes**
+- **Energy Efficiency**: Significant reduction in energy consumption and improvement in the EPC label.
+- **Comfort**: Enhanced thermal comfort within the building.
+- **Cost Savings**: Long-term savings on energy bills.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, with a focus on practical upgrades that reduce energy consumption and improve long-term operational performance. The plan is tailored to the specific characteristics of the building and is grounded in the RENO ontology.

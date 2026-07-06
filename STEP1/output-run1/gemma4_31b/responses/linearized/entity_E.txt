@@ -1,0 +1,43 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. This plan follows the "Envelope First" principle—reducing energy demand through insulation and glazing before upgrading the heating generation system—to ensure the most cost-effective and energy-efficient outcome.
+
+### **Phase 1: Thermal Envelope Optimization (High Impact, Low Cost)**
+The building's primary energy loss occurs through the walls and windows. Since the roof is already well-insulated, the focus is on the remaining shell.
+
+1.  **Wall Cavity Insulation (`InsulateWallCavity`):** 
+    *   **Analysis:** All four walls (Front, Left, Right, Rear) are identified as **Cavity Walls** and are currently **Not Insulated**. 
+    *   **Action:** Inject insulation into the wall cavities. This is one of the most cost-effective upgrades with low nuisance levels and high thermal returns.
+2.  **Glazing Upgrade (`ReplaceGlazing`):** 
+    *   **Analysis:** Both the living area and bedrooms currently have **Single Glazing**, which is highly inefficient. However, the wooden window frames are in **Good State**.
+    *   **Action:** Replace the single glazing with double or triple glazing. Since the frames are in good condition, replacing only the glass is significantly more cost-effective than replacing the entire window unit.
+
+### **Phase 2: Emission System Modernization**
+Before upgrading the boiler, the system that delivers heat to the rooms must be optimized for low-temperature operation.
+
+3.  **Low-Temperature Emission Upgrade (`PlaceLowTemperatureEmission`):**
+    *   **Analysis:** The current emission system is fragmented and inefficient, utilizing **Electric Convectors** (high energy cost) and **Air Heating**. 
+    *   **Action:** Transition to low-temperature emitters (e.g., updated radiators or expanding the existing floor heating). This is a prerequisite for the efficient operation of a heat pump.
+
+### **Phase 3: Sustainable Heating Generation**
+With a tightened envelope and updated emitters, the building can now transition from a traditional boiler to a sustainable source.
+
+4.  **Air-Water Heat Pump Installation (`PlaceAirWaterHeatpump`):**
+    *   **Analysis:** The building has a reason to change its emission system and lacks a heat grid. Geothermal options (vertical and horizontal) are explicitly marked as **not possible** for this site.
+    *   **Action:** Install an Air-Water Heat Pump to replace the existing boiler. This maximizes energy efficiency by utilizing ambient air for heating.
+
+### **Phase 4: Energy Production & Air Quality**
+The final phase focuses on offsetting the electricity consumption of the new heat pump and improving indoor air quality.
+
+5.  **Solar Energy Integration (`PlacePVPanelsOnRoof`):**
+    *   **Analysis:** The building is a detached house with **potential for PV** marked as true.
+    *   **Action:** Install PV panels on the roof. This provides a long-term operational cost reduction by powering the heat pump with renewable energy.
+6.  **Ventilation Upgrade (`ReplaceVentilationSystem`):**
+    *   **Analysis:** The building currently uses **Ventilation System A** (natural supply/exhaust), which can lead to significant heat loss.
+    *   **Action:** Upgrade to a more controlled ventilation system (e.g., System C or D) to maintain air quality without compromising the newly achieved thermal efficiency.
+
+### **Summary of Optimal Sequence**
+**Wall Cavity Insulation** $\rightarrow$ **Glazing Upgrade** $\rightarrow$ **Low-Temp Emitters** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **PV Panels** $\rightarrow$ **Ventilation Upgrade**.
+
+**Key Efficiency Gains:**
+*   **Cost-Effectiveness:** Utilizes cavity injection and glass replacement rather than full wall/window overhauls.
+*   **Operational Performance:** The heat pump's efficiency is maximized because it only has to heat a well-insulated building via low-temperature emitters.
+*   **Sustainability:** Transitions the building from fossil-fuel/electric resistance heating to a renewable-powered electric system.

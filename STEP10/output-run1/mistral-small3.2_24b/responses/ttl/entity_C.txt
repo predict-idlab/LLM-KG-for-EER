@@ -1,0 +1,55 @@
+### Renovation Plan for the Provided Building
+
+Given the building's current state and the goal of improving the EPC (Energy Performance Certificate) score, the renovation plan should focus on maximizing energy efficiency while remaining cost-effective. The building is an attached structure constructed in 2023, with an EPC score of 50.0 (A+ label), indicating it already has a high energy efficiency rating. However, there are still opportunities for improvement.
+
+#### Key Observations:
+1. **High EPC Score**: The building already has an A+ label, indicating excellent energy performance.
+2. **Well-Insulated Elements**: Most building elements (walls, floor above basement, roof extension) are well-insulated.
+3. **Moderately Insulated Gable Roof**: The gable roof is moderately insulated, which could be improved.
+4. **Double Glazing**: Windows have double glazing, which is good for thermal performance.
+5. **Electric Convector and Floor Heating**: The emission system uses electric convectors and floor heating.
+6. **Ventilation System D**: The building has a high-efficiency ventilation system (System D).
+7. **PV Panels**: The building has solar panels, contributing to renewable energy generation.
+
+#### Proposed Renovation Path:
+
+1. **Insulate Gable Roof**:
+   - **Action**: Upgrade the insulation of the gable roof from "Moderately Insulated" to "Well Insulated".
+   - **Rationale**: Improving the insulation of the gable roof will further reduce heat loss and enhance the overall thermal performance of the building.
+   - **Cost**: Approximately 60 €/m².
+   - **Nuisance Level**: Low.
+
+2. **Replace Ventilation System**:
+   - **Action**: Consider upgrading the ventilation system to a more advanced system if necessary, though the current System D is already highly efficient.
+   - **Rationale**: Ensuring the ventilation system is optimally configured for the building's current insulation levels.
+   - **Cost**: Approximately 3500 € (fixed) + 17 €/m².
+   - **Nuisance Level**: Moderate.
+
+3. **Place Air-Water Heat Pump with Cooling**:
+   - **Action**: Install an air-water heat pump with cooling capability.
+   - **Rationale**: Transitioning to a heat pump will improve energy efficiency and reduce reliance on electric convectors. Adding cooling capability enhances comfort during warmer months.
+   - **Cost**: Approximately 9000 € (fixed) + 35 €/m².
+   - **Nuisance Level**: Moderate.
+
+4. **Place Low-Temperature Emission System**:
+   - **Action**: Upgrade the emission system to operate at lower temperatures to maximize the efficiency of the new heat pump.
+   - **Rationale**: Low-temperature emission systems work more efficiently with heat pumps, improving overall energy performance.
+   - **Cost**: Approximately 100 €/m².
+   - **Nuisance Level**: Moderate.
+
+5. **Place Sunshade**:
+   - **Action**: Install external sunshades or blinds on windows facing direct sunlight.
+   - **Rationale**: Reducing solar heat gain in summer will decrease the need for cooling, further improving energy efficiency.
+   - **Cost**: Approximately 750 € (fixed).
+   - **Nuisance Level**: Low.
+
+6. **Maintain and Optimize PV Panels**:
+   - **Action**: Ensure the existing PV panels are well-maintained and consider adding more if there is unused roof space with good solar potential.
+   - **Rationale**: Maximizing solar energy generation will offset the electricity consumption of the heat pump and other appliances.
+   - **Cost**: Varies based on the number of additional panels and installation complexity.
+   - **Nuisance Level**: Low.
+
+#### Summary of Optimal Sequence:
+1. **Insulate Gable Roof** → **Replace Ventilation System** → **Place Air-Water Heat Pump with Cooling** → **Place Low-Temperature Emission System** → **Place Sunshade** → **Maintain and Optimize PV Panels**.
+
+This sequence ensures that the building's thermal envelope is further optimized, the heating system is upgraded to a more efficient and sustainable option, and additional measures are taken to enhance overall energy performance and comfort. The proposed actions are grounded in the RENO ontology and the provided suggestion list, ensuring they are practical and cost-effective.

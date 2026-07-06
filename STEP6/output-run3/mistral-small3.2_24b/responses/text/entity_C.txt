@@ -1,0 +1,32 @@
+Given the information provided, your house in Ghent, Belgium, is relatively new (built in 2023) and already has a high level of insulation and a good EPC score of 50. The primary focus for renovation should be on improving the heating system and maintaining the existing high energy efficiency. Here’s a step-by-step renovation plan:
+
+### Proposed Renovation Path
+
+#### Phase 1: Heating System Upgrade (Priority: High)
+Since the thermal envelope of the house is already well-insulated, the next step is to optimize the heating system for better energy efficiency and comfort.
+
+1. **Replace Boiler and Heat Emission Systems:**
+   - The current boiler and heat emission systems (underfloor heating and electric convectors) are no longer in good condition. Replacing them with a more efficient system will significantly improve energy performance.
+   - **Option 1:** Install an **Air-Water Heat Pump** (if the existing underfloor heating can be adapted to work with a heat pump).
+   - **Option 2:** If the underfloor heating cannot be adapted, consider installing a **high-efficiency condensing boiler** combined with **low-temperature emission systems** (e.g., new underfloor heating or low-temperature radiators).
+
+#### Phase 2: Ventilation System Optimization (Priority: Medium)
+The house already has a ventilation system D, which is efficient. However, you can ensure it is working optimally.
+
+2. **Maintain and Optimize Ventilation System D:**
+   - Regularly clean and maintain the ventilation system to ensure it operates at peak efficiency.
+   - Consider adding **heat recovery** if not already present to further improve energy efficiency.
+
+#### Phase 3: Sustainable Energy Integration (Priority: Low)
+The house already has photovoltaic (PV) panels installed, which is excellent for reducing electricity costs and carbon footprint. No immediate action is needed here, but you can monitor their performance and consider expanding if feasible.
+
+3. **Monitor and Maintain PV Panels:**
+   - Ensure the PV panels are clean and functioning optimally.
+   - Consider adding a **battery storage system** if you want to store excess energy for later use, although this is more of a long-term investment.
+
+### Summary of Optimal Sequence
+1. **Replace Boiler and Heat Emission Systems** (e.g., with an Air-Water Heat Pump or high-efficiency condensing boiler).
+2. **Maintain and Optimize Ventilation System D**.
+3. **Monitor and Maintain PV Panels**.
+
+This plan focuses on upgrading the heating system to match the already high level of insulation, ensuring the house remains energy-efficient and cost-effective to operate.

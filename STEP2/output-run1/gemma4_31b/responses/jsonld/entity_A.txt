@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, the property is a 1951 semi-detached house with a high energy score (EPC: 388), indicating significant energy loss. The owner's primary motivation is to improve the EPC label.
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** approach. This means reducing the energy demand through insulation before upgrading the heating systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Reducing Energy Demand)
+*The most cost-effective way to lower an EPC score is to stop heat from escaping.*
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. Since it is in "Good State," there is no need for a full replacement. Adding insulation here is the highest-priority intervention due to the volume of heat lost through the top of the building.
+2.  **Insulate Wall Cavities:** The front, rear, and right walls are full brick and not insulated. I recommend starting with **cavity wall insulation** as it is significantly more cost-effective than exterior or interior insulation.
+3.  **Insulate Floor Above Basement:** The floor above the basement is not insulated. This is a practical upgrade to prevent cold drafts and improve the thermal comfort of the ground floor.
+
+#### Phase 2: Ventilation & Air Quality
+*As the building becomes more airtight through insulation, ventilation must be upgraded to prevent moisture buildup and ensure air quality.*
+
+4.  **Replace Ventilation System:** Upgrade from the current System A to a more efficient system (e.g., System C or D) to maintain a healthy indoor climate in the now-insulated home.
+
+#### Phase 3: Sustainable Heating (Generation & Emission)
+*With a reduced energy load, the building can now transition from a traditional boiler to a high-efficiency heat pump.*
+
+5.  **Place Emission System on Low Temperature:** The building has a "reason to change emission system." To make a heat pump viable and efficient, the radiators/heating elements should be converted to low-temperature emissions.
+6.  **Place Air-Water Heat Pump:** Since there is no potential for geothermal drilling and no heat grid available, an **Air-Water Heat Pump** is the most effective and sustainable replacement for the existing boiler.
+
+#### Phase 4: Renewable Energy (Offsetting Consumption)
+*The final step is to generate the electricity needed to run the new heat pump.*
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will significantly lower operational costs and further improve the EPC score by reducing the building's reliance on the grid.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale | Cost/Efficiency Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof & Wall Insulation** | Stops the majority of heat loss. | High Efficiency / Low-Med Cost |
+| **2** | **Floor Insulation** | Eliminates basement heat loss. | Med Efficiency / Low Cost |
+| **3** | **Ventilation Upgrade** | Prevents condensation in airtight home. | Essential for Health / Med Cost |
+| **4** | **Low-Temp Emission** | Prerequisite for Heat Pump efficiency. | Med Efficiency / Med Cost |
+| **5** | **Air-Water Heat Pump** | Switches to sustainable energy. | High Efficiency / High Cost |
+| **6** | **PV-Panels** | Offsets electricity costs. | Long-term Savings / Med Cost |
+
+**Conclusion:** By following this sequence, the owner avoids "over-sizing" a new heating system for a leaky house. This path ensures that the transition to a heat pump is technically sound and that the EPC score is reduced as aggressively as possible.

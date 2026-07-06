@@ -1,0 +1,32 @@
+Based on the provided building data, this is a very modern home (built in 2023) that already exhibits high energy efficiency, as evidenced by the low EPC score of 50 and the presence of Ventilation System D and PV panels. The building envelope is largely optimized. 
+
+The primary areas for improvement are the heating generation and emission systems, which are reported to be in poor condition, and a slight optimization of the roof insulation.
+
+To maximize efficiency and cost-effectiveness, the renovation should follow a targeted approach: **Optimize $\rightarrow$ Transition $\rightarrow$ Refine**.
+
+### Proposed Renovation Path
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low-Medium)
+While the house is generally well-insulated, there is one remaining area for improvement to further reduce the energy load before upgrading the heating system.
+1. **Upgrade Pitched Roof Insulation:** The main pitched roof currently has "moderate" insulation, while the rest of the house is "well insulated." Increasing the insulation level here will eliminate the remaining primary source of heat loss, ensuring the heating system can operate at the lowest possible capacity.
+
+#### Phase 2: Heating Generation Transition (Priority: High)
+The current boiler is in poor condition and represents an outdated technology for a 2023 build.
+2. **Install Air-Water Heat Pump:** Since district heating and geothermal energy are not options, an Air-Water Heat Pump is the most efficient choice. Because the house already has **photovoltaic panels**, the electricity required to run the heat pump can be generated on-site, drastically reducing operational costs and further lowering the EPC score.
+
+#### Phase 3: Emission System Optimization (Priority: High)
+The current combination of underfloor heating and electric convectors is inefficient. Electric convectors, in particular, are energy-intensive and often conflict with the goal of a high EPC rating.
+3. **Remove Electric Convectors:** These should be eliminated entirely.
+4. **Repair/Upgrade Underfloor Heating:** Since the underfloor heating is in poor condition, it should be refurbished. Underfloor heating is a low-temperature emission system, which is the perfect partner for an Air-Water Heat Pump, allowing the system to operate at a higher Coefficient of Performance (COP).
+
+---
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Pitched Roof Insulation** | Brings the entire thermal envelope up to a "well insulated" standard, minimizing heat demand. |
+| **2** | **Air-Water Heat Pump** | Replaces the failing boiler with a sustainable system powered by existing PV panels. |
+| **3** | **Emission System Upgrade** | Removes inefficient electric convectors and optimizes underfloor heating to maximize the heat pump's efficiency. |
+
+**Final Note:** Because the house already possesses **Ventilation System D** (the most efficient balanced ventilation with heat recovery) and **PV panels**, no further upgrades are needed in the ventilation or energy generation categories. The focus remains strictly on the transition to a low-temperature heating cycle.

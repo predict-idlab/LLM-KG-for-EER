@@ -1,0 +1,21 @@
+### Renovation Plan
+The building in question is a **semi-detached house** built in **2017** with a **C-label EPC score of 87**. The owner's primary goal is to **improve the EPC rating**. Since the building is relatively new, it already has double glazing and well-insulated walls and roofs. The focus should be on **optimizing the existing systems** and **adding renewable energy sources**.
+
+#### Proposed Renovation Path
+1. **Replace Glazing (Priority: Medium)**
+   - The **`WindowGlazingLivingArea`** and **`WindowGlazingBedrooms`** are currently double-glazed. To further improve energy efficiency, consider upgrading to **triple glazing** if the budget allows. This will enhance thermal performance and reduce heat loss.
+
+2. **Install PV-Panels (Priority: High)**
+   - The building has **no potential for PV installations**, but given the relatively low EPC score, installing **PV-panels** could be a cost-effective way to improve the energy rating. The panels can offset the electricity consumption of the heat pump and other systems, lowering the overall energy demand.
+
+3. **Optimize Heat Pump (Priority: High)**
+   - The **`Generation_System`** is currently a heat pump. Ensure it is **properly sized** and **optimized** for the building's heat demand. If the heat pump is old or inefficient, consider replacing it with a newer, more efficient model.
+
+4. **Ventilation System Check (Priority: Medium)**
+   - The **`VentilationSystem`** is a **Ventilation System D**, which is a balanced system. Ensure it is **properly maintained** and **balanced** to avoid excessive energy use.
+
+5. **Energy Efficiency Measures (Priority: Low)**
+   - Given the well-insulated building envelope, additional measures like **solar thermal panels for hot water** or **smart thermostats** can further improve energy efficiency.
+
+#### Summary of Optimal Sequence
+**Glazing Upgrade** $\rightarrow$ **PV-Panels Installation** $\rightarrow$ **Heat Pump Optimization** $\rightarrow$ **Ventilation System Check** $\rightarrow$ **Additional Energy Efficiency Measures**.

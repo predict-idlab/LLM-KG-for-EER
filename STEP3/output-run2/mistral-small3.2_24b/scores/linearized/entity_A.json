@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate gable roof", "insulate wall on interior", "insulate floor above basement", "place emission system on low temperature"], "extra_actions": ["insulate wall exterior", "insulate attic floor", "insulate wall cavity", "connect to heat grid"]}, "sequence": {"order_errors": ["insulate flat roof"]}}

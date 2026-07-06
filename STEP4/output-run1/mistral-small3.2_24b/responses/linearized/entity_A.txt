@@ -1,0 +1,79 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **Building Overview**
+- **Type**: Semi-detached building
+- **Construction Year**: 1951
+- **Current EPC Score**: 388 (D Label)
+- **Potential for PV**: Yes
+- **Heating System**: Air heating with radiators
+- **Ventilation System**: Ventilation System A (natural)
+- **Insulation Status**:
+  - **Roof Main**: Not insulated
+  - **Roof Extension**: Moderately insulated
+  - **Walls (Front, Rear, Right)**: Not insulated
+  - **Floor Above Basement**: Not insulated
+- **Windows**:
+  - **Living Area**: Double glazing, wooden frame
+  - **Bedrooms**: Double glazing, wooden frame
+
+#### **Renovation Objectives**
+1. **Improve Energy Performance (EPC Score)**
+2. **Maximize Energy Efficiency**
+3. **Ensure Cost-Effectiveness**
+
+#### **Proposed Renovation Path**
+
+##### **Phase 1: Thermal Envelope Optimization (Fabric First)**
+1. **Insulate Walls on Exterior**
+   - **Action**: Insulate the exterior walls (Front, Rear, Right) using exterior insulation.
+   - **Rationale**: Exterior insulation is more effective for solid brick walls and eliminates thermal bridges. It also avoids reducing interior space.
+   - **Estimated Cost**: Moderate
+   - **Expected Energy Savings**: High
+
+2. **Insulate Roof Main**
+   - **Action**: Insulate the main roof (gable roof) with a vapor barrier.
+   - **Rationale**: The main roof is currently not insulated, leading to significant heat loss.
+   - **Estimated Cost**: Moderate
+   - **Expected Energy Savings**: High
+
+3. **Insulate Floor Above Basement**
+   - **Action**: Insulate the floor above the basement to prevent heat loss to the basement.
+   - **Rationale**: The floor above the basement is currently not insulated, contributing to heat loss.
+   - **Estimated Cost**: Low to Moderate
+   - **Expected Energy Savings**: Medium
+
+##### **Phase 2: Window and Ventilation Upgrades**
+4. **Upgrade Ventilation System**
+   - **Action**: Replace Ventilation System A with Ventilation System C or D.
+   - **Rationale**: A more efficient ventilation system ensures controlled air exchange, preventing moisture buildup and maintaining air quality in a sealed envelope.
+   - **Estimated Cost**: Moderate
+   - **Expected Energy Savings**: Medium
+
+##### **Phase 3: High-Efficiency Heating Transition**
+5. **Place Air-Water Heat Pump**
+   - **Action**: Install an Air-Water Heat Pump to replace the existing boiler.
+   - **Rationale**: The site has no potential for geothermal energy and no heat grid, making an Air-Water Heat Pump the most viable and efficient alternative.
+   - **Estimated Cost**: High
+   - **Expected Energy Savings**: High
+
+##### **Phase 4: Sustainable Energy Generation**
+6. **Place PV-Panels on Roof**
+   - **Action**: Install photovoltaic (PV) panels on the roof to generate renewable electricity.
+   - **Rationale**: The building has confirmed potential for PV. Installing solar panels will offset the electricity consumption of the heat pump and ventilation system.
+   - **Estimated Cost**: High
+   - **Expected Energy Savings**: High
+
+#### **Summary of Optimal Sequence**
+1. **Insulate Exterior Walls** → **Insulate Roof Main** → **Insulate Floor Above Basement** → **Upgrade Ventilation System** → **Place Air-Water Heat Pump** → **Place PV-Panels on Roof**
+
+#### **Expected Outcomes**
+- **Improved EPC Score**: The renovation plan aims to significantly lower the EPC score, potentially moving from a D Label to a B or A Label.
+- **Energy Efficiency**: The combination of insulation, efficient heating, and renewable energy generation will maximize energy efficiency.
+- **Cost-Effectiveness**: The proposed sequence ensures that each renovation step is cost-effective and provides a high return on investment.
+
+#### **Additional Considerations**
+- **Permits**: Ensure that all necessary permits are obtained for the renovation work.
+- **Professional Assistance**: Consult with architects, contractors, or craftsmen for expert advice and proper execution of the works.
+- **Long-Term Maintenance**: Plan for regular maintenance of the new systems to ensure their longevity and efficiency.
+
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective, tailored to the specific needs and characteristics of the building.

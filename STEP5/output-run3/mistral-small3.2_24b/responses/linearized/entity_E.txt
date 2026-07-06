@@ -1,0 +1,52 @@
+### Renovation Plan for Detached Building (1862, 136m², EPC: 165)
+
+**Objective:** Improve EPC rating by optimizing thermal performance and transitioning to a sustainable heating system.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+1. **Insulate Wall Cavity** (Wall_Front, Wall_Rear, Wall_Left, Wall_Right)
+   - *Rationale:* All walls are cavity walls with "Not Insulated" grade. Insulating the cavity is cost-effective and eliminates thermal bridges.
+   - *Note:* Verify structural suitability and contamination before injection.
+
+2. **Insulate Floor Above Crawl Space**
+   - *Rationale:* Prevents cold air infiltration from the crawl space, reducing heat loss.
+
+3. **Insulate Attic Floor**
+   - *Rationale:* Minimizes heat loss through the roof, as heat naturally rises.
+
+**Phase 2: Window Upgrades**
+4. **Replace Glazing** (WindowsLivingArea, WindowsBedrooms)
+   - *Rationale:* Single glazing is inefficient. Replace with double or triple glazing to reduce heat loss through windows.
+
+**Phase 3: Heating System Transition**
+5. **Place Air-Water Heat Pump**
+   - *Rationale:* Replaces the existing boiler with a more energy-efficient system. Suitable for the building's size and lack of geothermal potential.
+
+6. **Place Low-Temperature Emission System**
+   - *Rationale:* Ensures compatibility with the new heat pump, maximizing efficiency.
+
+**Phase 4: Ventilation Upgrade**
+7. **Replace Ventilation System** (VentilationSystemA → VentilationSystemB or C)
+   - *Rationale:* Improves air quality and maintains indoor comfort after sealing the envelope.
+
+**Phase 5: Sustainable Energy Generation**
+8. **Place PV-Panels on Roof**
+   - *Rationale:* Offsets electricity consumption of the heat pump and ventilation system.
+
+**Summary of Optimal Sequence:**
+1. Insulate Wall Cavity → 2. Insulate Floor Above Crawl Space → 3. Insulate Attic Floor → 4. Replace Glazing → 5. Place Air-Water Heat Pump → 6. Place Low-Temperature Emission → 7. Replace Ventilation System → 8. Place PV-Panels on Roof.
+
+**Cost-Effectiveness Notes:**
+- Prioritize cavity wall insulation due to low cost and high impact.
+- Glazing replacement is necessary but should be done after insulation to avoid cold bridges.
+- PV panels are a long-term investment to reduce energy costs and improve EPC.
+
+**Permit Requirements:**
+- Insulation work and ventilation system replacement may require permits depending on local regulations.
+
+**Next Steps:**
+- Conduct a detailed energy audit to confirm insulation feasibility and identify asbestos risks.
+- Consult with a certified installer for heat pump sizing and system integration.
+
+This plan adheres to the "Insulate → Ventilate → Generate" principle and aligns with the building's historical context and current EPC rating.

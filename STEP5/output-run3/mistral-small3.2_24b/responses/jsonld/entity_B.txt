@@ -1,0 +1,73 @@
+### Renovation Plan
+
+**Property Details:**
+- **Type:** Attached building (pre-1900)
+- **EPC Label:** C (262 kWh/m²)
+- **Primary Motivation:** Improve EPC label
+- **Key Issues:**
+  - Non-insulated exterior walls (`Wall_Front`, `Wall_Rear`)
+  - Non-insulated floor above basement (`FloorAboveBasement`)
+  - Non-insulated flat roof (`RoofExtension`)
+  - Current ventilation system is `VentilationSystemA` (natural)
+  - Double-glazed windows in good condition
+  - Potential for PV generation (`true`)
+  - No heat grid available (`false`)
+
+**Renovation Strategy:**
+To maximize energy efficiency and improve the EPC label in a cost-effective manner, the renovation must follow the **"Insulate → Ventilate → Generate"** sequence. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Thermal Envelope Optimization (Priority: High)**
+The primary goal here is to stop heat leakage. Since the building is an attached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Wall On Exterior (`Wall_Front`, `Wall_Rear`):**
+   - Both walls are full brick and not insulated.
+   - Exterior insulation is recommended to eliminate thermal bridges and improve thermal performance.
+   - Expected to have a significant impact on the EPC label.
+
+2. **Insulate Floor Above Basement (`FloorAboveBasement`):**
+   - Currently not insulated.
+   - Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+
+3. **Insulate Flat Roof (`RoofExtension`):**
+   - Currently not insulated.
+   - Insulating the flat roof is one of the most effective ways to lower energy consumption, especially since heat rises rapidly through flat sections.
+
+**Phase 2: Window Performance (Priority: Medium)**
+The window performance is already relatively good (double-glazed windows in good condition), so no immediate action is recommended for the windows.
+
+**Phase 3: High-Efficiency Heating Transition (Priority: Medium)**
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+4. **Place Air-Water Heat Pump:**
+   - Since the site has no potential for geothermal energy and no heat grid, an Air-Water Heat Pump is the most viable and efficient alternative to the current boiler.
+   - This will significantly improve the EPC label and reduce energy consumption.
+
+**Phase 4: Air Quality and Ventilation (Priority: Medium)**
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+5. **Replace Ventilation System:**
+   - Upgrade from `VentilationSystemA` (natural) to a more efficient system (such as `VentilationSystemC` or `VentilationSystemD`).
+   - This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+**Phase 5: Sustainable Energy Generation (Priority: Long-term)**
+To offset the electricity consumption of the new heat pump and further improve the EPC label, consider installing PV panels.
+
+6. **Place PV-Panels on Roof:**
+   - The building has confirmed potential for PV.
+   - Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system, further improving the EPC label.
+
+**Summary of Sequence and Rationale:**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Exterior Walls $\rightarrow$ Floor $\rightarrow$ Flat Roof)** | Reduces the total energy demand of the house. |
+| **2** | **Heat Pump Replacement** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **3** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **4** | **PV Panels** | Offsets the electricity consumption of the heat pump and further improves the EPC label. |
+
+**Additional Notes:**
+- The historical protection status of the building should be verified before proceeding with any insulation work.
+- The state of the emission system (`EmissionSystem`) should be assessed to ensure compatibility with the new heat pump.
+- The renovation plan is designed to be cost-effective while significantly improving the EPC label and energy efficiency of the building.

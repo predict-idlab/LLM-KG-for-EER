@@ -1,0 +1,59 @@
+### Renovation Plan for Semi-Detached Building
+
+#### **Objective**
+Improve the energy efficiency of the semi-detached building, targeting a higher EPC label.
+
+#### **Key Considerations**
+1. **Current State**:
+   - The building has a C-label EPC (87 kWh/m²year).
+   - The building is semi-detached and constructed in 2017.
+   - The roof (gable and flat) and walls are moderately to well insulated.
+   - The ventilation system is type D (mechanical supply and exhaust).
+   - The glazing in the living area and bedrooms is double-glazed.
+   - The emission system is a heat pump.
+
+2. **Potential for Improvement**:
+   - **Insulation**: The flat roof and walls could be further insulated to enhance thermal performance.
+   - **Ventilation**: The current ventilation system (type D) is efficient but could be complemented with additional measures to improve air quality and comfort.
+   - **Glazing**: While the glazing is already double-glazed, upgrading to triple-glazing could further reduce heat loss.
+   - **Renewable Energy**: The building has potential for PV panels, which could significantly reduce energy consumption and costs.
+
+#### **Recommended Renovation Steps**
+
+1. **Insulation Upgrades**
+   - **Insulate the Flat Roof**:
+     - **Action**: Apply additional insulation to the flat roof to achieve better thermal performance.
+     - **Benefit**: Reduces heat loss through the roof, improving overall energy efficiency.
+   - **Insulate the Walls**:
+     - **Action**: Add external or internal insulation to the walls to enhance thermal resistance.
+     - **Benefit**: Improves thermal comfort and reduces energy consumption for heating.
+
+2. **Ventilation System Enhancement**
+   - **Action**: Install additional air quality sensors or improve the existing ventilation system to ensure optimal air exchange rates.
+     - **Benefit**: Enhances indoor air quality and comfort.
+
+3. **Glazing Upgrade**
+   - **Action**: Replace existing double-glazing with triple-glazing in key areas such as the living area and bedrooms.
+     - **Benefit**: Further reduces heat loss through windows, improving thermal comfort and energy efficiency.
+
+4. **Renewable Energy Integration**
+   - **Action**: Install PV panels on the roof or in the garden to generate renewable energy.
+     - **Benefit**: Reduces reliance on grid electricity, lowering energy bills and carbon footprint.
+
+5. **Heat Pump Optimization**
+   - **Action**: Ensure the existing heat pump is operating at peak efficiency by scheduling regular maintenance and checking for potential upgrades.
+     - **Benefit**: Maximizes the efficiency of the heating system, reducing energy consumption.
+
+#### **Expected Outcomes**
+- **Improved EPC Label**: Target a B-label or higher through these upgrades.
+- **Reduced Energy Consumption**: Lower energy bills and a smaller carbon footprint.
+- **Enhanced Comfort**: Better thermal comfort and indoor air quality.
+
+#### **Priority Order**
+1. Insulate the flat roof and walls.
+2. Upgrade glazing to triple-glazing.
+3. Install PV panels.
+4. Enhance the ventilation system.
+5. Optimize the heat pump.
+
+This plan leverages the existing strengths of the building while addressing areas for improvement, ensuring a cost-effective and energy-efficient renovation.

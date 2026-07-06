@@ -1,0 +1,50 @@
+To move your home from an energy score of 388 toward a high-performance rating, you must follow the **"Fabric First"** principle. The most common mistake is replacing a heating system before insulating the shell; this leads to oversized, inefficient equipment and higher costs.
+
+Given the characteristics of your 1951 semi-detached home in Ghent, here is the optimal renovation sequence to maximize energy efficiency and cost-effectiveness.
+
+---
+
+### Phase 1: The Thermal Envelope (Demand Reduction)
+*Goal: Stop heat from escaping so you can install a smaller, cheaper heating system.*
+
+1.  **Roof Insulation (Priority #1):** Since heat rises, the uninsulated pitched roof is your biggest source of energy loss. 
+    *   **Action:** Install high-performance mineral wool or PIR insulation. If the attic is unused, insulating the floor of the attic is the most cost-effective method.
+2.  **Wall Insulation:** Solid brick walls are "thermal bridges."
+    *   **Action:** Since it is a semi-detached house, **External Wall Insulation (EWI)** is the most effective but may be limited by the shared wall. If EWI is not feasible, opt for **Internal Wall Insulation (IWI)** using breathable materials (e.g., calcium silicate or wood fiber) to prevent condensation and mold.
+3.  **Floor Insulation:** The uninsulated basement floor allows cold to seep into the living areas.
+    *   **Action:** Install insulation boards (XPS) on the basement ceiling or, if the basement floor is being renovated, install insulation beneath a new screed.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure a healthy indoor climate now that the house is "tighter."*
+
+4.  **Ventilation Upgrade:** Natural ventilation is insufficient once you insulate walls and roofs, as it can lead to humidity buildup and mold.
+    *   **Action:** Install a **Balanced Ventilation system with Heat Recovery (MVHR)**. This recovers heat from outgoing stale air to warm incoming fresh air, drastically reducing the load on your heating system.
+
+### Phase 3: Heating System Transition (The Energy Shift)
+*Goal: Switch from fossil fuels to a low-carbon, high-efficiency system.*
+
+5.  **Emission System Overhaul:** Your current mix of radiators, underfloor heating, and air heating is inefficient and likely incompatible with modern low-temperature heat sources.
+    *   **Action:** Replace old radiators with **low-temperature radiators** or expand the **underfloor heating** to more rooms. This allows the heating system to run at a lower flow temperature, which is critical for the efficiency of a heat pump.
+6.  **Heat Source Replacement:** 
+    *   **Action:** Install an **Air-to-Water Heat Pump**. Since geothermal and district heating are unavailable, this is the most sustainable choice. Because you insulated the shell in Phase 1, you can now install a smaller, more affordable unit that operates at peak efficiency.
+
+### Phase 4: Renewable Energy (Operational Cost Zeroing)
+*Goal: Power your new efficient systems for free.*
+
+7.  **Photovoltaic (PV) Panels:** 
+    *   **Action:** Install solar panels on the pitched roof. The electricity generated will power the heat pump and the ventilation system, significantly reducing your monthly operational costs.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Step | Focus | Why? |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulation** | Roof $\rightarrow$ Walls $\rightarrow$ Floor | Reduces the total energy demand of the house. |
+| **2** | **Ventilation** | MVHR System | Prevents mold and retains heat in a sealed envelope. |
+| **3** | **Emitters** | Low-temp Radiators/UFH | Prepares the house for low-temperature heating. |
+| **4** | **Heat Source** | Air-to-Water Heat Pump | Replaces the boiler with a high-efficiency electric source. |
+| **5** | **Renewables** | Solar PV Panels | Offsets the electricity cost of the heat pump. |
+
+### Expert Tip for Ghent/Flanders:
+Before starting, check the **Flemish Energy Premium (Mijn VerbouwPremie)**. The Belgian government provides significant subsidies for these specific steps, but the amount often depends on the order of execution and the professional certifications of the contractors used. Always secure the subsidies *before* signing contracts.

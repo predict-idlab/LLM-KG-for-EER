@@ -1,0 +1,50 @@
+### Renovation Plan for the Attached Building (1832, 212 m², EPC 262)
+
+#### **1. Insulate Thermal Envelope (Priority: High)**
+- **Insulate Flat Roof (RoofExtension)**
+  - Currently uninsulated, which leads to significant heat loss.
+  - **Action:** Insulate the flat roof to reduce upward heat transfer.
+  - **Rationale:** Flat roofs lose a lot of heat due to convection; insulation here is cost-effective.
+
+- **Insulate Wall on Exterior (Wall_Front, Wall_Rear)**
+  - Both walls are full brick and uninsulated.
+  - **Action:** Apply exterior insulation to eliminate thermal bridges.
+  - **Rationale:** Exterior insulation is more effective than interior insulation for historic buildings.
+
+- **Insulate Floor Above Basement (FloorAboveBasement)**
+  - Currently uninsulated.
+  - **Action:** Add insulation to prevent cold air infiltration from the basement.
+  - **Rationale:** Prevents drafts and improves overall thermal comfort.
+
+#### **2. Upgrade Heating System (Priority: Medium)**
+- **Place Air-Water Heat Pump (Replace Boiler)**
+  - The current boiler is inefficient.
+  - **Action:** Install an air-water heat pump to reduce energy consumption.
+  - **Rationale:** Heat pumps are more efficient than boilers, especially in well-insulated buildings.
+
+- **Place Emission System on Low Temperature**
+  - **Action:** Upgrade the radiators to low-temperature emissions.
+  - **Rationale:** Improves the efficiency of the heat pump.
+
+#### **3. Improve Ventilation (Priority: Medium)**
+- **Replace Ventilation System (VentilationSystemA → System D)**
+  - The current natural ventilation system is inefficient.
+  - **Action:** Upgrade to a mechanical ventilation system (e.g., System D).
+  - **Rationale:** Ensures proper air exchange without heat loss.
+
+#### **4. Add Renewable Energy (Priority: Long-term)**
+- **Place PV-Panels on Roof**
+  - The building has potential for PV.
+  - **Action:** Install solar panels to offset the electricity consumption of the heat pump.
+  - **Rationale:** Reduces reliance on grid electricity and lowers energy costs.
+
+### **Summary of Optimal Sequence**
+1. **Insulate Flat Roof**
+2. **Insulate Wall on Exterior**
+3. **Insulate Floor Above Basement**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Replace Ventilation System**
+7. **Place PV-Panels on Roof**
+
+This plan follows the **"Insulate → Ventilate → Generate"** principle, ensuring that the building is optimized for energy efficiency before transitioning to renewable energy sources. The sequence maximizes cost-effectiveness while improving the EPC label.

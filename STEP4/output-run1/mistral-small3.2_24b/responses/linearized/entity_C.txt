@@ -1,0 +1,54 @@
+### Renovation Plan for Attached Building (2023)
+
+#### Building Context:
+- **Type:** AttachedBuilding
+- **Construction Year:** 2023
+- **Net Floor Area:** 159.0 m²
+- **Current EPC Score:** 50 (A+ Label)
+- **Owner's Motivation:** ToImproveEPC
+- **Potential for PV:** False
+- **Presence of Heat Grid:** False
+- **Insulation Status:**
+  - `Wall_Front`: WellInsulated (FullBrickWall)
+  - `Wall_Rear`: WellInsulated (FullBrickWall)
+  - `FloorAboveBasement`: WellInsulated
+  - `RoofMain`: ModeratelyInsulated (Gable Roof)
+  - `RoofExtension`: WellInsulated (Flat Roof)
+- **Windows:**
+  - `WindowsLivingArea`: DoubleGlazing, Wooden Frame (Good State)
+  - `WindowsBedrooms`: DoubleGlazing, Wooden Frame (Good State)
+- **Current Systems:**
+  - `EmissionSystem`: ElectricConvector, FloorHeating
+  - `Generation_System`: Boiler
+  - `VentilationSystem`: VentilationSystemD
+- **Additional Elements:** PV Panels (SolarDevice)
+
+#### Key Observations:
+1. **High-Efficiency Envelope:** The building already has well-insulated walls and roofs, reducing the need for extensive envelope upgrades.
+2. **Double-Glazed Windows:** The windows are in good condition and meet modern standards, so replacement is unnecessary.
+3. **Sustainable Energy Generation:** The presence of PV panels indicates a proactive approach to renewable energy.
+4. **EPC Optimization Opportunity:** The EPC score of 50 is already excellent (A+ Label), but further improvements could be made through system optimizations.
+
+#### Proposed Renovation Path:
+Since the building envelope is already well-insulated and the windows are in good condition, the focus should shift to optimizing the heating and emission systems to maximize energy efficiency and further improve the EPC score.
+
+1. **Replace Electric Convector with Air-Water Heat Pump:**
+   - **Rationale:** The current electric convector is less efficient than a heat pump. An air-water heat pump can leverage the existing well-insulated envelope to provide low-temperature heating, reducing energy consumption.
+   - **Action:** Install an **Air-Water Heat Pump** to replace the electric convector.
+
+2. **Upgrade Ventilation System to a More Efficient Model:**
+   - **Rationale:** The current ventilation system (System D) is already efficient, but further improvements could be made by ensuring it is properly balanced and integrated with the new heat pump.
+   - **Action:** Conduct a **ventilation system check-up** and make adjustments as needed to ensure optimal air quality and energy efficiency.
+
+3. **Optimize PV Panel Performance:**
+   - **Rationale:** The PV panels are already in place, but their performance can be maximized by ensuring they are properly maintained and aligned with the building's energy consumption patterns.
+   - **Action:** Perform a **PV panel maintenance check** and consider adding a **solar optimizer** or **battery storage system** to maximize self-consumption and further reduce grid dependency.
+
+4. **Monitor and Adjust Heating Emission System:**
+   - **Rationale:** With the new heat pump in place, the emission system (floor heating) should be fine-tuned to work optimally with the low-temperature heat source.
+   - **Action:** Conduct a **heating emission system check-up** to ensure it is compatible with the heat pump and make adjustments as needed.
+
+#### Summary of Optimal Sequence:
+**Air-Water Heat Pump Replacement** $\rightarrow$ **Ventilation System Check-Up** $\rightarrow$ **PV Panel Optimization** $\rightarrow$ **Heating Emission System Adjustment**.
+
+This plan focuses on maximizing the building's existing strengths (well-insulated envelope and PV panels) while making strategic upgrades to the heating and ventilation systems to further improve energy efficiency and the EPC score. The proposed actions are cost-effective and prioritize long-term sustainability.

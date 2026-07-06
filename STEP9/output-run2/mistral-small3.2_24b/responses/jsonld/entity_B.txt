@@ -1,0 +1,68 @@
+To create a renovation plan for the given building, we need to analyze the current state of the building and identify the most effective and cost-efficient upgrades that can improve energy efficiency. Here's a step-by-step approach:
+
+### Step 1: Analyze the Current State
+1. **Building Type**: The building is an attached building constructed in 1832.
+2. **Energy Performance**: The building has an Energy Performance Certificate (EPC) with a score of 262 kWh/m²year, which is quite low (F label).
+3. **Insulation**: Most of the building elements (walls, roof, floor) are either not insulated or only moderately insulated.
+4. **Heating System**: The building has a radiator system as the emission system.
+5. **Windows**: The windows have wooden frames and double glazing.
+6. **Potential for PV**: The building has potential for PV panels.
+7. **Potential for Geothermal**: The site does not have potential for horizontal or vertical geothermal captation.
+
+### Step 2: Identify Key Areas for Improvement
+Based on the ontology and suggestion list, the key areas for improvement are:
+1. **Roof Insulation**: The flat roof (RoofExtension) is not insulated. Insulating the flat roof can significantly improve energy efficiency.
+2. **Wall Insulation**: Both the front and rear walls are not insulated. Insulating these walls can reduce heat loss.
+3. **Floor Insulation**: The floor above the basement is not insulated. Insulating the floor can improve thermal comfort.
+4. **Window Replacement**: Although the windows have double glazing, replacing them with more energy-efficient windows can further improve insulation.
+5. **PV Panels**: Given the potential for PV panels, installing them can help generate renewable energy.
+
+### Step 3: Prioritize Renovations
+Based on the ordering in the suggestion list and the current state of the building, the following renovations are prioritized:
+1. **Replace Flat Roof**: This is the highest priority as the flat roof is not insulated and is a significant source of heat loss.
+2. **Insulate Flat Roof**: After replacing the roof, insulate it to improve energy efficiency.
+3. **Insulate Wall on Exterior**: Insulate the exterior walls to reduce heat loss through the walls.
+4. **Replace Windows**: Replace the existing windows with more energy-efficient ones.
+5. **Place PV-Panels on Roof**: Install PV panels on the roof to generate renewable energy.
+
+### Step 4: Detailed Renovation Plan
+Here is the detailed renovation plan:
+
+1. **Replace Flat Roof**
+   - **Action**: Remove the existing flat roof and replace it with a new one.
+   - **Cost**: €40 per m² (based on the suggestion list).
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Reporting obligation in Flanders.
+
+2. **Insulate Flat Roof**
+   - **Action**: Insulate the new flat roof to improve energy efficiency.
+   - **Cost**: €50 per m² (based on the suggestion list).
+   - **Nuisance Level**: Low.
+   - **Permit Needed**: Not necessary in Flanders.
+
+3. **Insulate Wall on Exterior**
+   - **Action**: Insulate the exterior walls (front and rear) to reduce heat loss.
+   - **Cost**: €200 per m² (based on the suggestion list).
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Only if the thickness of the total pack >26cm or the building line is overrun (Flanders).
+
+4. **Replace Windows**
+   - **Action**: Replace the existing windows with more energy-efficient ones.
+   - **Cost**: €800 per m² (based on the suggestion list).
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Not necessary if the measurements are kept (Flanders).
+
+5. **Place PV-Panels on Roof**
+   - **Action**: Install PV panels on the roof to generate renewable energy.
+   - **Cost**: €275 per m² (based on the suggestion list).
+   - **Nuisance Level**: Low.
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders).
+
+### Step 5: Additional Considerations
+- **Ventilation System**: The building has a ventilation system type A. Ensure that the new windows have enough grilles for proper ventilation.
+- **Heating System**: Consider upgrading the heating system to a more energy-efficient one, such as a heat pump, if the current system is old or inefficient.
+
+### Conclusion
+The proposed renovation plan focuses on improving the insulation of the building, replacing windows, and installing PV panels. These actions are prioritized based on their potential to improve energy efficiency and reduce energy consumption. The plan also considers the nuisance level and permit requirements for each action.
+
+This plan is actionable and grounded in the provided ontology and suggestion list.

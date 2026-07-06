@@ -1,0 +1,30 @@
+Based on the building's current state (an attached building from 1832 with an EPC score of 262) and the owner's motivation to improve the EPC label, I propose the following renovation path. 
+
+This plan follows the **"Fabric First" principle**, ensuring the building envelope is optimized to reduce energy demand before upgrading the heating and generation systems.
+
+### Phase 1: Thermal Envelope Optimization (High Impact, Low-to-Moderate Cost)
+The building has several critical gaps in insulation that are the primary drivers of energy loss.
+1.  **Insulate Floor Above Basement:** The floor is currently not insulated. This is a cost-effective starting point to prevent heat loss to the basement.
+2.  **Insulate Walls on Exterior:** Both the front and rear walls (full brick) are not insulated and have no historical protection. Exterior insulation is the most effective way to reduce the thermal bridge of a 19th-century brick structure.
+3.  **Insulate Flat Roof:** While the main gable roof is moderately insulated, the roof extension is not insulated. Addressing this is crucial to stop heat from escaping through the top of the home.
+
+### Phase 2: Ventilation & Air Quality
+Once the building envelope is sealed through insulation, the natural ventilation (System A) will no longer be sufficient to maintain air quality and prevent condensation.
+4.  **Replace Ventilation System:** Upgrade from Ventilation System A to a more controlled system to ensure a healthy indoor climate and maintain the energy gains from Phase 1.
+
+### Phase 3: Heating System Modernization
+With a reduced energy demand, the heating system can be downsized and transitioned to a more sustainable source. The owner has already expressed a desire to change the emission system.
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be replaced or updated to low-temperature emitters to maximize the efficiency (COP) of the new heat pump.
+6.  **Place Air-Water Heat Pump:** Since geothermal options are not viable for this site and there is no heat grid, an air-water heat pump is the most cost-effective and efficient replacement for the existing boiler.
+
+### Phase 4: Renewable Energy Integration
+The final step is to shift the building toward energy neutrality.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower operational costs and significantly improve the final EPC score.
+
+### Summary of Optimal Sequence
+**Insulation (Floor $\rightarrow$ Walls $\rightarrow$ Flat Roof) $\rightarrow$ Ventilation $\rightarrow$ Low-Temp Emitters $\rightarrow$ Air-Water Heat Pump $\rightarrow$ PV Panels.**
+
+**Why this path?**
+*   **Cost-Effectiveness:** It avoids replacing the windows (which are already double-glazed and in good state).
+*   **Efficiency:** It prevents "over-sizing" the heat pump by reducing the building's heat loss first.
+*   **Compliance:** It directly addresses the owner's goal of improving the EPC label by tackling the most inefficient elements first.

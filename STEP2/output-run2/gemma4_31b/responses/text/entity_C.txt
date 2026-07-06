@@ -1,0 +1,45 @@
+Given the specific characteristics of your home in Ghent, you are in a strong position. Your "envelope" (walls, floors, and windows) is already performing well, and you have a high-efficiency ventilation system (System D) and PV panels.
+
+The primary "energy leak" and cost driver in your home is the **heating generation and emission system**. The combination of an old boiler and electric convectors is highly inefficient and is the main reason for your low EPC score.
+
+Here is the most optimal, cost-effective renovation path, sequenced to maximize the efficiency of each investment.
+
+---
+
+### 🛠️ Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (The "Quick Win")
+Before upgrading the heating system, you must ensure the house retains as much heat as possible to allow for a smaller, cheaper, and more efficient heat pump.
+*   **Target:** The pitched roof.
+*   **Action:** Upgrade the "moderate" insulation of the pitched roof to "high" (e.g., adding a layer of mineral wool or PIR boards). 
+*   **Why:** Heat rises. Improving the roof insulation reduces the total heating load (kWh) required, which directly lowers the capacity (and price) of the heat pump you will install in Phase 2.
+
+#### Phase 2: Heating Emission Overhaul (The "Efficiency Core")
+You cannot simply replace the boiler; you must replace the *way* heat is delivered. Electric convectors are the most expensive way to heat a home and are incompatible with modern heat pump logic.
+*   **Target:** Electric convectors and old underfloor heating components.
+*   **Action:** 
+    1.  **Remove all electric convectors.**
+    2.  **Extend the underfloor heating (UFH)** to the rooms previously served by convectors, or install **low-temperature radiators/fan coils**.
+    3.  **Optimize UFH:** Ensure the existing underfloor system is flushed and the manifolds are modernized to handle low-temperature water.
+*   **Why:** Heat pumps operate most efficiently at low output temperatures (approx. 35°C). Electric convectors and old radiators require high temperatures, which would force a heat pump to work harder and consume significantly more electricity.
+
+#### Phase 3: Heat Generation Upgrade (The "Final Step")
+Now that the house is well-insulated and the emission system is low-temperature, you can install the most efficient heat source.
+*   **Target:** The boiler.
+*   **Action:** Install an **Air-to-Water Heat Pump**.
+*   **Why:** Since geothermal and district heating are unavailable, an air-to-water system is the gold standard. Because you already have PV panels, you can power the heat pump with your own renewable energy, drastically reducing operational costs.
+
+---
+
+### 📈 Summary of the Strategic Sequence
+
+| Sequence | Action | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1. Insulation** | Upgrade pitched roof | Moderate Increase | High (Low cost $\rightarrow$ Lower equipment cost) |
+| **2. Emissions** | Replace convectors $\rightarrow$ UFH | High Increase | High (Eliminates highest energy cost) |
+| **3. Generation**| Boiler $\rightarrow$ Heat Pump | Massive Increase | High (Synergy with PV panels) |
+
+### 💡 Expert Tips for Ghent/Flanders:
+1.  **Check Premiums:** Flanders often provides significant subsidies (*premiën*) for replacing oil/gas boilers with heat pumps and for improving roof insulation. Ensure you apply for these *before* starting the work.
+2.  **PV Synergy:** Since you have PV panels, consider a **smart controller** for your heat pump. This allows the system to "overheat" the floor slightly during peak sun hours (thermal storage), reducing reliance on the grid at night.
+3.  **Ventilation D:** You already have a System D system; ensure it is well-maintained and filters are changed. This system is your best ally in maintaining air quality while the house becomes more "airtight" through insulation.

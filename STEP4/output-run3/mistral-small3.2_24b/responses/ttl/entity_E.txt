@@ -1,0 +1,77 @@
+### Renovation Plan for Detached Building (EPC: 165)
+
+Given the building's characteristics—detached, constructed in 1862, with an EPC score of 165 (B Label)—the renovation plan will focus on improving energy efficiency while maintaining cost-effectiveness. The strategy follows the "fabric-first" approach, prioritizing thermal envelope upgrades before addressing heating systems.
+
+#### Key Observations:
+1. **Building Type**: Detached (high heat loss through external walls).
+2. **Construction Year**: 1862 (likely poor insulation standards).
+3. **Current EPC**: 165 (B Label).
+4. **Walls**: Four cavity walls, uninsulated (high priority for improvement).
+5. **Roof**: Well-insulated (no immediate action needed).
+6. **Windows**: Single-glazed (poor thermal performance).
+7. **Heating System**: Electric convector and radiators (inefficient).
+8. **Ventilation**: Natural (System A, inadequate for modern standards).
+9. **PV Potential**: Confirmed (opportunity for renewable energy).
+
+---
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (High Priority)
+1. **Insulate Wall Cavity**
+   - **Action**: Inject insulation into the cavities of all four external walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`).
+   - **Rationale**: Cavity wall insulation is cost-effective and significantly reduces heat loss. Ensure the cavities are clean and wide enough for proper installation.
+   - **Estimated Cost**: ~€22/m² (based on RENO ontology).
+
+2. **Replace Glazing**
+   - **Action**: Upgrade all windows from single to double glazing.
+   - **Rationale**: Single glazing contributes to high heat loss. Double glazing improves thermal performance without altering the window frames.
+   - **Estimated Cost**: ~€200/m² (based on RENO ontology).
+
+3. **Insulate Floor Above Crawl Space**
+   - **Action**: Add insulation to the floor above the crawl space.
+   - **Rationale**: Prevents heat loss to unconditioned spaces below.
+   - **Estimated Cost**: ~€30/m² (based on RENO ontology).
+
+#### Phase 2: Heating System Upgrade (Medium Priority)
+4. **Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump to replace the existing boiler and electric convector.
+   - **Rationale**: Heat pumps are more efficient and sustainable, especially after improving the thermal envelope.
+   - **Estimated Cost**: ~€8,000 (fixed) + €35/m² (based on RENO ontology).
+
+5. **Place Emission System on Low Temperature**
+   - **Action**: Modify the radiators or underfloor heating to operate at lower temperatures.
+   - **Rationale**: Optimizes the heat pump's efficiency.
+   - **Estimated Cost**: ~€100/m² (based on RENO ontology).
+
+#### Phase 3: Ventilation Upgrade (Medium Priority)
+6. **Replace Ventilation System**
+   - **Action**: Upgrade from Ventilation System A (natural) to System C or D (mechanical).
+   - **Rationale**: Ensures proper air exchange and reduces moisture buildup in a now-sealed envelope.
+   - **Estimated Cost**: ~€3,500 (fixed) + €17/m² (based on RENO ontology).
+
+#### Phase 4: Renewable Energy Integration (Long-Term)
+7. **Place PV-Panels on Roof**
+   - **Action**: Install photovoltaic (PV) panels on the well-insulated gable roof.
+   - **Rationale**: Generates renewable electricity to power the heat pump and reduce grid dependence.
+   - **Estimated Cost**: ~€275/m² (based on RENO ontology).
+
+---
+
+### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **1** | Insulate Wall Cavity | Reduces heat loss through external walls. |
+| **2** | Replace Glazing | Improves window thermal performance. |
+| **3** | Insulate Floor Above Crawl Space | Eliminates heat loss to unconditioned spaces. |
+| **4** | Install Air-Water Heat Pump | Replaces inefficient heating systems. |
+| **5** | Upgrade Emission System to Low Temperature | Optimizes heat pump efficiency. |
+| **6** | Upgrade Ventilation System | Ensures air quality in a sealed envelope. |
+| **7** | Install PV Panels | Generates renewable electricity. |
+
+### Additional Notes:
+- **Permits**: Check local regulations for wall insulation and PV panel installation.
+- **Historical Protection**: None, so no restrictions on modifications.
+- **Nuisance Level**: Most actions have low to moderate disruption.
+
+This plan ensures a systematic approach to improving energy efficiency, starting with the building envelope and progressing to sustainable energy generation. The sequence maximizes cost savings and long-term operational performance.

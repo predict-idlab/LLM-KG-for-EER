@@ -1,0 +1,79 @@
+### Step-by-Step Renovation Plan
+
+**Objective:** Improve the energy efficiency of the attached building while keeping the renovations cost-effective and practical.
+
+#### 1. **Assessment and Prioritization**
+   - **Current State:** The building has an energy score of 50 (EPC label E) and is moderately insulated.
+   - **Motivation:** The owner wants to improve the EPC value.
+   - **Constraints:** The building is located in Belgium, has no heat grid nearby, and has potential for neither vertical nor horizontal geothermal drilling.
+   - **Key Areas to Address:** Roofs, walls, windows, insulation, heating, and ventilation systems.
+
+#### 2. **Immediate Actions (High Priority)**
+   - **Insulate the Roofs:**
+     - **Action:** Insulate the flat roof (RoofExtension) and gable roof (RoofMain).
+     - **Reason:** Roofs are significant sources of heat loss. Insulating them will improve thermal comfort and reduce energy consumption.
+     - **Suggestion:** Use `insulate flat roof` and `insulate gable roof` from the suggestion list.
+   - **Improve Window Insulation:**
+     - **Action:** Replace the glazing on the windows in the living area and bedrooms.
+     - **Reason:** Double glazing (current type) can be upgraded to triple glazing for better insulation.
+     - **Suggestion:** Use `replace glazing` from the suggestion list.
+   - **Upgrade Heating System:**
+     - **Action:** Replace the current emission system (ElectricConvector) with a more efficient system.
+     - **Reason:** The current system is inefficient and contributes to high energy consumption.
+     - **Suggestion:** Consider `place air-water heatpump` or `place heatpumpboiler` from the suggestion list.
+
+#### 3. **Medium Priority Actions**
+   - **Wall Insulation:**
+     - **Action:** Insulate the walls on the interior or exterior, depending on feasibility and cost.
+     - **Reason:** Walls are another major source of heat loss. Insulating them will further improve energy efficiency.
+     - **Suggestion:** Use `insulate wall on interior` or `insulate wall on exterior` from the suggestion list.
+   - **Ventilation System:**
+     - **Action:** Replace the current ventilation system (VentilationSystemD) with a more efficient one.
+     - **Reason:** Improving ventilation can enhance indoor air quality and reduce energy loss.
+     - **Suggestion:** Use `replace ventilation system` from the suggestion list.
+
+#### 4. **Long-Term Actions (Low Priority)**
+   - **Renewable Energy Integration:**
+     - **Action:** Install PV panels on the roof.
+     - **Reason:** Generating renewable energy on-site can further reduce energy costs and carbon footprint.
+     - **Suggestion:** Use `place PV-panels on roof` from the suggestion list.
+   - **Additional Measures:**
+     - **Action:** Consider placing a sunshade to reduce solar gain in summer.
+     - **Reason:** This can help maintain a comfortable indoor temperature without excessive cooling.
+     - **Suggestion:** Use `place sunshade` from the suggestion list.
+
+#### 5. **Implementation Sequence**
+   - **Phase 1:** Insulate roofs and replace glazing.
+   - **Phase 2:** Upgrade heating system and insulate walls.
+   - **Phase 3:** Replace ventilation system and install PV panels.
+
+#### 6. **Cost and Benefit Analysis**
+   - **Immediate Actions:** High impact on energy efficiency with moderate cost.
+   - **Medium Priority Actions:** Balanced cost and benefit, improving overall efficiency.
+   - **Long-Term Actions:** Higher initial cost but long-term savings and sustainability benefits.
+
+### Final Renovation Plan
+
+1. **Insulate Roofs:**
+   - Insulate flat roof (RoofExtension).
+   - Insulate gable roof (RoofMain).
+
+2. **Improve Window Insulation:**
+   - Replace glazing on windows in the living area and bedrooms.
+
+3. **Upgrade Heating System:**
+   - Replace the current emission system with a more efficient system (e.g., air-water heatpump or heatpumpboiler).
+
+4. **Wall Insulation:**
+   - Insulate walls on the interior or exterior.
+
+5. **Ventilation System:**
+   - Replace the current ventilation system with a more efficient one.
+
+6. **Renewable Energy Integration:**
+   - Install PV panels on the roof.
+
+7. **Additional Measures:**
+   - Place a sunshade to reduce solar gain.
+
+By following this plan, the building's energy efficiency will be significantly improved, leading to lower energy costs and a more comfortable living environment. The sequence of actions ensures that the most impactful measures are addressed first, followed by those with longer-term benefits.

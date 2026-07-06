@@ -1,0 +1,35 @@
+The building in question is an **attached building** constructed in **2023** with an **energy score of 50 (A Label)**. The owner's primary motivation is to **improve the EPC rating**. Given the high baseline energy efficiency, the focus should be on **maintaining and slightly enhancing** the performance while ensuring cost-effectiveness and alignment with the owner's goals.
+
+### Proposed Renovation Path:
+1. **Insulate Gable Roof:**
+   - The **RoofMain** is moderately insulated. Although it is already in good condition, upgrading to **well-insulated** status will further reduce heat loss through the roof.
+   - *Rationale:* Even small improvements in well-insulated elements can have a significant impact on energy efficiency due to the large surface area of roofs.
+
+2. **Replace Glazing:**
+   - The **WindowGlazingLivingArea** and **WindowGlazingBedrooms** are both double-glazed. Since the windows are in good condition, replacing the glazing with **triple glazing** will enhance thermal performance without requiring window frame replacement.
+   - *Rationale:* Triple glazing provides better insulation than double glazing, reducing heat loss through windows and improving overall comfort.
+
+3. **Place Air-Water Heat Pump:**
+   - The **Generation_System** is currently a boiler. Replacing it with an **Air-Water Heat Pump** will improve energy efficiency and reduce reliance on fossil fuels.
+   - *Rationale:* Heat pumps are more energy-efficient than traditional boilers, especially when paired with well-insulated buildings.
+
+4. **Place Emission System on Low Temperature:**
+   - The **EmissionSystem** consists of electric convectors and floor heating. Transitioning to a **low-temperature emission system** will optimize the performance of the new heat pump.
+   - *Rationale:* Low-temperature systems work more efficiently with heat pumps, increasing the overall energy efficiency of the building.
+
+5. **Insulate Flat Roof:**
+   - The **RoofExtension** is well insulated. However, since it is a flat roof, further insulation improvements can be made to reduce heat loss through this surface.
+   - *Rationale:* Flat roofs can be more challenging to insulate effectively, so additional insulation will ensure optimal thermal performance.
+
+### Summary of Optimal Sequence:
+The proposed sequence ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| **2** | **Replace Glazing** | Enhances thermal performance of windows. |
+| **3** | **Place Air-Water Heat Pump** | Improves energy efficiency and reduces reliance on fossil fuels. |
+| **4** | **Place Emission System on Low Temperature** | Optimizes the performance of the new heat pump. |
+| **5** | **Insulate Flat Roof** | Ensures optimal thermal performance of the flat roof. |
+
+This plan ensures that the building remains energy-efficient while minimizing unnecessary costs and maximizing the benefits of each renovation step.

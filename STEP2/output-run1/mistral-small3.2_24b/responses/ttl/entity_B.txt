@@ -1,0 +1,52 @@
+Based on the provided RENO ontology and entity information, here's a cost-effective and energy-efficient renovation plan for the attached building (ex:Building) with an F-label energy performance (262.0 kWh/m²year). The plan focuses on practical upgrades that reduce energy consumption and improve long-term operational performance, considering the optimal sequence of renovations:
+
+### Priority 1: Roof and Wall Insulation (High Impact)
+1. **Replace Flat Roof (ex:RoofExtension)**
+   - Replace the uninsulated flat roof (ex:RoofExtension) with a properly insulated roof.
+   - Cost: €120/m² (including insulation).
+   - Reason: Flat roofs are prone to heat loss and moisture issues.
+
+2. **Insulate Gable Roof (ex:RoofMain)**
+   - Improve insulation of the moderately insulated gable roof (ex:RoofMain).
+   - Cost: €60/m².
+   - Reason: Roofs account for significant heat loss.
+
+3. **Insulate Walls on Exterior (ex:Wall_Front, ex:Wall_Rear)**
+   - Insulate the uninsulated front and rear walls (ex:Wall_Front, ex:Wall_Rear).
+   - Cost: €200/m².
+   - Reason: Walls are major sources of heat loss in older buildings.
+
+### Priority 2: Window and Glazing Upgrades
+4. **Replace Windows (ex:WindowsBedrooms, ex:WindowsLivingArea)**
+   - Replace wooden-framed windows with modern, energy-efficient windows.
+   - Cost: €800/m² (including double glazing).
+   - Reason: Old wooden windows (ex:WoodenWindowFrame) are drafty and poorly insulated.
+
+### Priority 3: Ventilation and Heating System Upgrades
+5. **Replace Ventilation System (ex:VentilationSystem)**
+   - Upgrade from natural ventilation (VentilationSystemA) to a more efficient system (e.g., VentilationSystemC or D).
+   - Cost: €3,500 (fixed) + €17/m².
+   - Reason: Better ventilation improves air quality and energy efficiency.
+
+6. **Place Air-Water Heat Pump (ex:Generation_System)**
+   - Replace the old boiler with an air-water heat pump.
+   - Cost: €8,000 (fixed) + €35/m².
+   - Reason: Heat pumps are more energy-efficient than traditional boilers.
+
+### Priority 4: Additional Recommendations
+7. **Place PV-Panels on Roof (ex:RoofMain, ex:RoofExtension)**
+   - Install photovoltaic panels on the roof to generate renewable energy.
+   - Cost: €275/m².
+   - Reason: Reduces reliance on grid electricity and lowers energy bills.
+
+8. **Insulate Floor Above Basement (ex:FloorAboveBasement)**
+   - Insulate the uninsulated floor above the basement.
+   - Cost: €30/m².
+   - Reason: Basement floors can be a source of heat loss.
+
+### Notes:
+- **Asbestos Consideration**: Check for asbestos in the roof and walls before renovation, as asbestos removal may be required.
+- **Historical Protection**: Ensure that the building's historical protection status does not restrict any of the proposed renovations.
+- **Permits**: Verify if permits are required for specific renovations, especially those affecting the building's exterior.
+
+This plan prioritizes high-impact, cost-effective upgrades to improve the building's energy efficiency and reduce long-term operational costs. The sequence ensures that renovations are carried out in a logical order, maximizing the benefits of each step.

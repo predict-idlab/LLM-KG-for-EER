@@ -1,0 +1,104 @@
+### Renovation Plan for Example Building
+
+#### **Objective:**
+Improve the energy efficiency of the building to reduce energy consumption and costs, while enhancing thermal comfort and sustainability.
+
+#### **Current Building Characteristics:**
+- **Type:** Attached Building
+- **Construction Year:** 2023
+- **Net Floor Area:** 159.0 m²
+- **Energy Performance Certificate (EPC) Score:** 50 (E Label)
+- **Energy Performance Certificate (EPC) Label:** E Label
+- **Resident:** Present
+- **Potential for PV:** No
+- **Potential for Horizontal Geothermal Captation:** No
+- **Potential for Vertical Geothermal Drilling:** No
+- **Presence of Heat Grid:** No
+- **Reason to Change Emission System:** Yes
+- **Heat Grid Connection:** No
+- **Insulation Grades:**
+  - Roof Main: Moderately Insulated
+  - Roof Extension: Well Insulated
+  - Wall Front: Well Insulated
+  - Wall Rear: Well Insulated
+  - Floor Above Basement: Well Insulated
+
+#### **Renovation Suggestions:**
+1. **Replace Flat Roof**
+   - **Action:** Replace the flat roof with a more energy-efficient option.
+   - **Reason:** The current flat roof (Roof Extension) is well insulated but replacing it could further improve energy efficiency.
+   - **Nuisance Level:** High
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Ordering:** 10
+
+2. **Replace Gable Roof**
+   - **Action:** Replace the gable roof (Roof Main) with a more energy-efficient option.
+   - **Reason:** The current gable roof is moderately insulated and replacing it could improve energy efficiency.
+   - **Nuisance Level:** High
+   - **Permit Needed:** Only if roof framework is renewed (Flanders)
+   - **Ordering:** 13
+
+3. **Insulate Gable Roof**
+   - **Action:** Improve the insulation of the gable roof.
+   - **Reason:** The current gable roof is moderately insulated and further insulation could enhance thermal comfort.
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Ordering:** 28
+
+4. **Insulate Floor Above Basement**
+   - **Action:** Improve the insulation of the floor above the basement.
+   - **Reason:** The current floor above the basement is well insulated but further insulation could enhance thermal comfort.
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Ordering:** 49
+
+5. **Replace Ventilation System**
+   - **Action:** Replace the existing ventilation system (Ventilation System D) with a more efficient system.
+   - **Reason:** Upgrading the ventilation system could improve indoor air quality and energy efficiency.
+   - **Nuisance Level:** Moderate
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Ordering:** 52
+
+6. **Place Air-Water Heatpump**
+   - **Action:** Install an air-water heat pump.
+   - **Reason:** Replacing the current emission system (Electric Convector) with an air-water heat pump could reduce energy consumption.
+   - **Nuisance Level:** Moderate
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Ordering:** 67
+
+7. **Place Sunshade**
+   - **Action:** Install sunshades to reduce solar heat gain.
+   - **Reason:** Sunshades can help reduce cooling needs in summer, improving energy efficiency.
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+   - **Ordering:** 79
+
+8. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on the roof.
+   - **Reason:** PV panels can generate renewable energy, reducing the building's reliance on the grid.
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary if the panels are in the same plane (Flanders)
+   - **Ordering:** 85
+
+#### **Implementation Sequence:**
+1. **Initial Assessment and Planning**
+   - Conduct a detailed energy audit to identify specific areas for improvement.
+   - Develop a detailed cost-benefit analysis for each suggested renovation.
+
+2. **Permits and Approvals**
+   - Obtain necessary permits for renovations requiring approval.
+
+3. **Renovation Execution**
+   - Follow the suggested ordering to maximize the benefits of each renovation step.
+
+4. **Post-Renovation Evaluation**
+   - Conduct a post-renovation energy audit to assess the improvements.
+   - Monitor energy consumption and costs to ensure the expected benefits are achieved.
+
+#### **Expected Benefits:**
+- **Energy Efficiency:** Improved insulation and replacement of outdated systems will reduce energy consumption.
+- **Cost Savings:** Lower energy bills due to reduced energy consumption.
+- **Thermal Comfort:** Enhanced insulation and upgraded heating systems will improve indoor comfort.
+- **Sustainability:** Installation of renewable energy sources like PV panels will reduce the building's carbon footprint.
+
+By following this renovation plan, the building can achieve significant improvements in energy efficiency, cost savings, and sustainability.

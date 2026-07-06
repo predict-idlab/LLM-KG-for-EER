@@ -1,0 +1,51 @@
+Based on the provided building information and the RENO ontology, here’s a practical and cost-effective energy-efficient renovation plan:
+
+### **Phase 1: Immediate and Cost-Effective Upgrades**
+1. **Insulate Attic Floor** (Ordering: 31)
+   - **Action**: Insulate the attic floor to reduce heat loss.
+   - **Rationale**: The attic floor is a significant area for heat loss, and insulating it will improve thermal comfort and energy efficiency.
+   - **Cost**: ~€60/m².
+
+2. **Insulate Wall Cavity** (Ordering: 34)
+   - **Action**: Inject insulation into the cavity walls.
+   - **Rationale**: Cavity wall insulation is a straightforward and effective way to improve the building's thermal performance.
+   - **Cost**: ~€22/m².
+
+3. **Replace Ventilation System** (Ordering: 52)
+   - **Action**: Upgrade to a more efficient ventilation system (e.g., Ventilation System C).
+   - **Rationale**: Improves indoor air quality and energy efficiency.
+   - **Cost**: ~€3500 + €17/m².
+
+### **Phase 2: Structural and Long-Term Upgrades**
+1. **Insulate Wall on Exterior** (Ordering: 40)
+   - **Action**: Add exterior wall insulation.
+   - **Rationale**: Exterior insulation is more effective than interior insulation and reduces heat loss significantly.
+   - **Cost**: ~€200/m².
+
+2. **Replace Windows** (Ordering: 46)
+   - **Action**: Replace all windows with double-glazed units.
+   - **Rationale**: Windows are a major source of heat loss; replacing them with double-glazed units will improve thermal comfort and reduce energy consumption.
+   - **Cost**: ~€800/m².
+
+3. **Place Air-Water Heatpump** (Ordering: 67)
+   - **Action**: Install an air-water heat pump for space heating.
+   - **Rationale**: Heat pumps are more energy-efficient than traditional heating systems.
+   - **Cost**: ~€8000 + €35/m².
+
+### **Phase 3: Advanced and Future-Proofing Upgrades**
+1. **Place PV-Panels on Roof** (Ordering: 85)
+   - **Action**: Install photovoltaic (PV) panels on the roof.
+   - **Rationale**: Generates renewable energy, reducing reliance on grid electricity.
+   - **Cost**: ~€275/m².
+
+2. **Place PV-Panels in Garden** (Ordering: 88)
+   - **Action**: Install PV panels in the garden if space permits.
+   - **Rationale**: Maximizes solar energy capture and reduces energy costs.
+   - **Cost**: ~€275/m².
+
+### **Additional Recommendations**
+- **Monitor and Maintain**: Regularly monitor the performance of the new systems and maintain them to ensure optimal efficiency.
+- **Energy Audit**: Conduct a follow-up energy audit to assess the impact of the renovations and identify further improvement opportunities.
+
+### **Conclusion**
+This phased approach ensures that immediate, cost-effective measures are taken first, followed by more significant structural upgrades, and finally, advanced future-proofing measures. This strategy maximizes energy efficiency while remaining mindful of cost and practicality.

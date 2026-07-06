@@ -1,0 +1,47 @@
+Based on the information provided, here's a concise and actionable renovation plan tailored to your attached house in Ghent, Belgium. The plan focuses on maximizing energy efficiency while remaining cost-effective, considering the current state of your home and the most optimal sequence for renovations.
+
+### **1. Upgrade the Heating System**
+**Priority: High**
+- **Action:** Replace the existing boiler with a **condensing gas boiler** (if natural gas is available) or a **heat pump** (if electric heating is preferred).
+- **Why:** The current heating system is inefficient, and upgrading to a more efficient system will significantly improve energy performance.
+- **Cost-Effectiveness:** A heat pump may have a higher upfront cost but provides long-term savings, especially if combined with underfloor heating upgrades.
+
+### **2. Improve the Ventilation System**
+**Priority: Medium**
+- **Action:** Upgrade the existing ventilation system (D) to a **heat recovery ventilation (HRV) system**.
+- **Why:** HRV systems reduce heat loss while maintaining good indoor air quality, improving overall energy efficiency.
+- **Cost-Effectiveness:** Moderate upfront cost but leads to long-term energy savings.
+
+### **3. Optimize Underfloor Heating**
+**Priority: Medium**
+- **Action:** If replacing the heating system with a heat pump, consider **upgrading the underfloor heating system** to work efficiently with the new heat source.
+- **Why:** Ensures better heat distribution and compatibility with the new heating system.
+- **Cost-Effectiveness:** Depends on the condition of the existing underfloor heating; partial upgrades may be sufficient.
+
+### **4. Roof Insulation (Pitched Roof)**
+**Priority: Low (but still beneficial)**
+- **Action:** Improve insulation in the main pitched roof (currently moderate).
+- **Why:** Better insulation reduces heat loss, especially since the flat roof is already well insulated.
+- **Cost-Effectiveness:** Moderate cost, but provides long-term energy savings.
+
+### **5. Smart Thermostat & Control Systems**
+**Priority: Low**
+- **Action:** Install a **smart thermostat** to optimize heating schedules and reduce energy waste.
+- **Why:** Helps manage energy usage more efficiently, especially with the new heating system.
+- **Cost-Effectiveness:** Low upfront cost, with immediate energy savings.
+
+### **6. Solar Panel Optimization**
+**Priority: Low (but still beneficial)**
+- **Action:** Ensure the existing **photovoltaic panels** are functioning optimally and consider **battery storage** if feasible.
+- **Why:** Maximizes self-consumption of generated electricity, reducing reliance on the grid.
+- **Cost-Effectiveness:** Battery storage has a higher upfront cost but can be beneficial in the long run.
+
+### **Optimal Renovation Sequence:**
+1. **Upgrade the heating system** (boiler or heat pump).
+2. **Improve ventilation** (HRV system).
+3. **Optimize underfloor heating** (if needed).
+4. **Enhance pitched roof insulation**.
+5. **Install a smart thermostat**.
+6. **Optimize solar panel performance**.
+
+This plan ensures that each upgrade builds on the previous one, maximizing energy efficiency while keeping costs manageable. Would you like more details on any specific step?

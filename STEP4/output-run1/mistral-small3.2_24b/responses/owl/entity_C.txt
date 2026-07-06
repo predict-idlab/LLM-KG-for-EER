@@ -1,0 +1,39 @@
+The building is a detached structure constructed in 2023 with a high EPC score (50), indicating it already meets modern energy efficiency standards. The owner aims to improve the EPC further, but the current building envelope is already well-insulated. The focus should now be on optimizing the existing systems for maximum efficiency.
+
+### Renovation Plan:
+
+1. **Upgrade Glazing to Triple Glazing**
+   - **Reasoning:** The windows are currently double-glazed, which is good but not optimal. Upgrading to triple glazing will further reduce heat loss and improve thermal comfort.
+   - **Implementation:** Replace all existing glazing with triple-glazed units.
+
+2. **Improve Roof Insulation**
+   - **Reasoning:** The main roof (`RoofMain`) is only moderately insulated, while the flat roof extension (`RoofExtension`) is well-insulated. Upgrading the gable roof insulation to match the flat roof will ensure a consistent thermal envelope.
+   - **Implementation:** Insulate the gable roof to the same standard as the flat roof extension.
+
+3. **Transition to Low-Temperature Emission System**
+   - **Reasoning:** The current emission system includes floor heating and electric convectors, which may not be operating at optimal temperatures for energy efficiency. Transitioning to a low-temperature emission system will ensure better compatibility with the planned heat pump.
+   - **Implementation:** Upgrade the emission system to operate at lower temperatures, ensuring compatibility with the new heat pump.
+
+4. **Install Air-Water Heat Pump**
+   - **Reasoning:** The existing boiler is outdated and likely less efficient than modern heat pump technology. An air-water heat pump will provide more efficient heating and cooling, reducing energy consumption.
+   - **Implementation:** Replace the existing boiler with an air-water heat pump.
+
+5. **Enhance Ventilation System**
+   - **Reasoning:** The current ventilation system (System D) is already efficient, but ensuring it works in tandem with the new heat pump will optimize indoor air quality and energy efficiency.
+   - **Implementation:** Review and adjust the ventilation system settings to ensure they complement the new heat pump installation.
+
+6. **Consider Adding PV Panels**
+   - **Reasoning:** Although the building currently has no PV panels, the potential for PV is not indicated. Adding PV panels could further reduce the building’s reliance on grid electricity, especially if the heat pump is electric.
+   - **Implementation:** Evaluate the feasibility of installing PV panels on the roof, considering structural constraints and local regulations.
+
+### Summary of Actionable Steps:
+| Step | Action | Priority | Expected Benefit |
+|------|--------|-----------|------------------|
+| 1 | Upgrade glazing to triple glazing | High | Improved thermal comfort and reduced heat loss |
+| 2 | Insulate gable roof to match flat roof | Medium | Consistent thermal envelope |
+| 3 | Transition to low-temperature emission system | Medium | Better compatibility with heat pump |
+| 4 | Install air-water heat pump | High | More efficient heating and cooling |
+| 5 | Enhance ventilation system | Low | Optimized indoor air quality |
+| 6 | Evaluate PV panel installation | Low | Reduced grid electricity dependency |
+
+This plan prioritizes actions that will provide the most significant energy savings and comfort improvements, while ensuring that all upgrades work synergistically to maximize efficiency.

@@ -1,0 +1,77 @@
+To create an energy-efficient and cost-effective renovation plan for the building, we'll focus on the most impactful upgrades that reduce energy consumption and improve long-term operational performance. Here's the proposed renovation path, ordered by priority and taking into account the optimal sequence for maximizing benefits:
+
+### 1. **Insulate Roof-Gable Roof (RoofMain)**
+   - **Reasoning**: The roof is currently well-insulated (WellInsulated), so no action is needed here.
+   - **Action**: None
+
+### 2. **Replace Single Glazing with Double Glazing (WindowsBedrooms & WindowsLivingArea)**
+   - **Reasoning**: The windows currently have single glazing (SingleGlazing), which has poor thermal properties. Replacing them with double glazing will significantly improve insulation and reduce heat loss.
+   - **Action**: Replace all single-glazed windows with double-glazed windows (DoubleGlazing).
+   - **Ordering**: 43 (ReplaceGlazing)
+   - **Nuisance Level**: High
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Price Unit**: PER-M2
+   - **Unit Price**: 200
+
+### 3. **Insulate Cavity Walls (Wall_Left, Wall_Right, Wall_Rear, Wall_Front)**
+   - **Reasoning**: All cavity walls (Wall_Left, Wall_Right, Wall_Rear, Wall_Front) are currently not insulated (NotInsulated). Insulating these walls will further reduce heat loss and improve energy efficiency.
+   - **Action**: Inject insulation into the cavity walls.
+   - **Ordering**: 34 (InsulateWallCavity)
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Price Unit**: PER-M2
+   - **Unit Price**: 22
+
+### 4. **Place Low-Temperature Emission System (PlaceLowTemperatureEmission)**
+   - **Reasoning**: The current emission system (EmissionSystem) includes radiators (Radiator), air heating (AirHeating), electric convectors (ElectricConvector), and floor heating (FloorHeating). Transitioning to a low-temperature emission system will improve energy efficiency.
+   - **Action**: Install a low-temperature emission system compatible with the existing heating systems.
+   - **Ordering**: 70
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary
+   - **Price Unit**: PER-M2
+   - **Unit Price**: 100
+
+### 5. **Replace Ventilation System (VentilationSystem)**
+   - **Reasoning**: The current ventilation system (VentilationSystemA) works on the basis of natural air supply and air exhaust. Upgrading to a more efficient system (e.g., VentilationSystemC) will improve indoor air quality and energy efficiency.
+   - **Action**: Replace the ventilation system with a more efficient model.
+   - **Ordering**: 52 (ReplaceVentilationSystem)
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Fixed Price**: 3500
+
+### 6. **Place Air-Water Heat Pump (PlaceAirWaterHeatpump)**
+   - **Reasoning**: The current generation system (Generation_System) is a boiler (Boiler). Transitioning to an air-water heat pump will improve energy efficiency and reduce carbon emissions.
+   - **Action**: Install an air-water heat pump.
+   - **Ordering**: 67
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Price Unit**: PER-M2
+   - **Unit Price**: 35
+
+### 7. **Place Sun Shade (PlaceSunShade)**
+   - **Reasoning**: Installing sun shades will help reduce solar heat gain during the summer, improving thermal comfort and reducing cooling needs.
+   - **Action**: Install sun shades on the windows.
+   - **Ordering**: 79
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Fixed Price**: 750
+
+### 8. **Insulate Floor Above Basement (FloorAboveCrawlSpace)**
+   - **Reasoning**: The floor above the crawl space (FloorAboveCrawlSpace) is not insulated. Insulating this floor will reduce heat loss through the floor and improve energy efficiency.
+   - **Action**: Insulate the floor above the crawl space.
+   - **Ordering**: 49 (InsulateFloorAboveBasement)
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Price Unit**: PER-M2
+   - **Unit Price**: 30
+
+### Summary of Recommendations:
+1. **Replace Single Glazing with Double Glazing** (WindowsBedrooms & WindowsLivingArea)
+2. **Insulate Cavity Walls** (Wall_Left, Wall_Right, Wall_Rear, Wall_Front)
+3. **Place Low-Temperature Emission System** (PlaceLowTemperatureEmission)
+4. **Replace Ventilation System** (VentilationSystem)
+5. **Place Air-Water Heat Pump** (PlaceAirWaterHeatpump)
+6. **Place Sun Shade** (PlaceSunShade)
+7. **Insulate Floor Above Basement** (FloorAboveCrawlSpace)
+
+This plan prioritizes high-impact, cost-effective upgrades that will significantly improve the energy efficiency of the building while considering the optimal sequence for maximizing benefits.

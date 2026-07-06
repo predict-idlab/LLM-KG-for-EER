@@ -1,0 +1,56 @@
+To move your energy performance certificate (EPC) from a score of 388 to a high-efficiency rating, you must follow the **"Envelope First" principle**. Replacing a heating system in an uninsulated house is a common mistake that leads to oversized, expensive, and inefficient equipment.
+
+Because your house is a 1951 build in Ghent, you are likely dealing with significant thermal bridging and heat loss through the walls and roof. Here is the most optimal, cost-effective sequence for your renovation.
+
+---
+
+### Phase 1: The Thermal Envelope (Stop the Heat Leak)
+*Goal: Reduce the total energy demand of the house so you can install a smaller, cheaper heating system.*
+
+1.  **Roof Insulation (Highest Priority):** 
+    *   **Action:** Insulate the pitched roof. Since the roof is in good condition, you can use blown-in cellulose or mineral wool between the rafters or install a layer under the roofing material.
+    *   **Why:** Heat rises. This is the most cost-effective way to see an immediate drop in your EPC score.
+2.  **Wall Insulation:**
+    *   **Action:** Since you have solid brick walls, **External Wall Insulation (EWI)** is the gold standard for energy efficiency and protecting the structure from moisture. If budget or aesthetics are a constraint, consider **Internal Wall Insulation (IWI)**, though this reduces living space.
+    *   **Why:** Solid brick walls from 1951 act as thermal bridges, leaking massive amounts of heat.
+3.  **Floor Insulation (Basement Ceiling):**
+    *   **Action:** Insulate the ceiling of the basement (the floor of the ground level).
+    *   **Why:** This prevents "cold feet" and stops heat from escaping into the basement, which is a common issue in Belgian homes of this era.
+
+### Phase 2: Air Quality & Ventilation (The Health Layer)
+*Goal: Ensure the house can "breathe" once it is sealed.*
+
+4.  **Mechanical Ventilation:**
+    *   **Action:** Upgrade from basic natural ventilation to a **Balanced Ventilation system with Heat Recovery (MVHR)** or decentralized ventilation units.
+    *   **Why:** Once you insulate the walls and roof, the house becomes more airtight. Without mechanical ventilation, you risk condensation and mold growth. Heat recovery ensures you don't lose the heat you just spent money saving.
+
+### Phase 3: System Modernization (The Energy Source)
+*Goal: Shift from fossil fuels to high-efficiency electric heating.*
+
+5.  **Heat Emission Replacement:**
+    *   **Action:** Replace the old radiators and air heating systems. Since you already have some underfloor heating, expand this to the rest of the house or install **low-temperature radiators**.
+    *   **Why:** High-efficiency heat pumps require low-temperature emitters to work optimally. Old radiators require high temperatures, which would force a heat pump to work harder and cost more in electricity.
+6.  **Heat Pump Installation:**
+    *   **Action:** Install an **Air-to-Water Heat Pump**. 
+    *   **Why:** Since geothermal is not possible and district heating is unavailable, an air-to-water system is the most sustainable choice for the Ghent climate, especially after the envelope has been insulated.
+
+### Phase 4: Energy Generation (The Offset)
+*Goal: Lower operational costs to near zero.*
+
+7.  **Photovoltaic (PV) Panels:**
+    *   **Action:** Install solar panels on the pitched roof.
+    *   **Why:** Heat pumps run on electricity. By generating your own power, you offset the increased electrical load of the heat pump and significantly reduce your monthly utility bills.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Action | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Walls $\rightarrow$ Floor** | $\text{Very High}$ | $\text{High (Immediate ROI)}$ |
+| **2** | **Ventilation Upgrade** | $\text{Medium}$ | $\text{Essential for health}$ |
+| **3** | **Low-Temp Emitters $\rightarrow$ Heat Pump** | $\text{High}$ | $\text{High (if done after insulation)}$ |
+| **4** | **PV Panels** | $\text{High}$ | $\text{High (Long-term savings)}$ |
+
+### Expert Tip for Ghent Residents:
+Before starting, check the **Vlaamse Energie- en Klimaatagentschap (VEKA)** and the City of Ghent's local subsidies. Flanders offers significant premiums for wall and roof insulation, as well as heat pump installations, which can drastically reduce the initial investment cost.

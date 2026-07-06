@@ -1,0 +1,69 @@
+### Energy-Efficient and Cost-Effective Renovation Plan
+
+**Objective:** Improve energy efficiency while maintaining cost-effectiveness for the semi-detached building constructed in 2017.
+
+#### **1. Roof and Insulation Upgrades**
+- **Replace Gable Roof (RoofMain):**
+  - **Action:** Replace the gable roof to improve insulation and energy efficiency.
+  - **Reason:** The current roof is moderately insulated (reno:ModeratelyInsulated).
+  - **Cost:** €260/m² (high nuisance level, permit required if roof framework is renewed).
+
+- **Insulate Gable Roof:**
+  - **Action:** Insulate the gable roof to enhance thermal performance.
+  - **Reason:** The roof is currently moderately insulated.
+  - **Cost:** €60/m² (low nuisance level, no permit required).
+
+- **Insulate Attic Floor:**
+  - **Action:** Insulate the attic floor to reduce heat loss.
+  - **Reason:** The attic floor is not mentioned in the current state, assuming it is not insulated.
+  - **Cost:** €60/m² (low nuisance level, no permit required).
+
+#### **2. Window and Glazing Upgrades**
+- **Replace Glazing:**
+  - **Action:** Replace the existing double glazing with triple glazing to improve insulation.
+  - **Reason:** The current windows have double glazing (reno:DoubleGlazing), which can be upgraded for better performance.
+  - **Cost:** €200/m² (high nuisance level, no permit required).
+
+- **Replace Windows:**
+  - **Action:** Replace the wooden window frames with more energy-efficient frames (e.g., PVC or aluminum with thermal breaks).
+  - **Reason:** Wooden frames (reno:Wood) may not provide optimal insulation.
+  - **Cost:** €800/m² (high nuisance level, no permit required if measurements are kept).
+
+#### **3. Ventilation System Upgrade**
+- **Replace Ventilation System:**
+  - **Action:** Upgrade the existing ventilation system (reno:VentilationSystemD) to a more efficient model.
+  - **Reason:** Improve indoor air quality and energy efficiency.
+  - **Cost:** €3,500 (fixed) + €17/m² (moderate nuisance level, no permit required).
+
+#### **4. Emission System Upgrade**
+- **Place Emission System on Low Temperature:**
+  - **Action:** Install a low-temperature emission system to work efficiently with heat pumps or other low-temperature heat sources.
+  - **Reason:** Enhances compatibility with renewable energy sources.
+  - **Cost:** €100/m² (moderate nuisance level, no permit required).
+
+#### **5. Renewable Energy Integration**
+- **Place PV-Panels on Roof:**
+  - **Action:** Install photovoltaic (PV) panels on the roof to generate renewable energy.
+  - **Reason:** The roof is well-insulated and suitable for PV installation.
+  - **Cost:** €275/m² (low nuisance level, permit not required if panels are in the same plane).
+
+#### **6. Additional Recommendations**
+- **Place Roof Underlayment:**
+  - **Action:** Install a roof underlayment to ensure air- and watertightness.
+  - **Reason:** Critical for long-term roof performance and energy efficiency.
+  - **Cost:** €65/m² (low nuisance level, no permit required).
+
+### **Optimal Sequence of Renovations**
+1. **Replace Gable Roof** (high impact on insulation and energy efficiency).
+2. **Insulate Gable Roof and Attic Floor** (complementary to roof replacement).
+3. **Replace Glazing and Windows** (improves thermal performance of windows).
+4. **Replace Ventilation System** (ensures proper air quality and energy efficiency).
+5. **Place Emission System on Low Temperature** (optimizes heating system).
+6. **Install PV-Panels on Roof** (generates renewable energy).
+7. **Place Roof Underlayment** (final step to ensure roof integrity).
+
+### **Cost Estimate**
+- **Total Cost:** Approximately €XX,XXX (depending on surface areas and specific costs).
+- **Energy Savings:** Significant reduction in energy consumption and improved EPC rating.
+
+This plan prioritizes high-impact renovations first, ensuring that each step maximizes energy efficiency and cost-effectiveness.

@@ -1,0 +1,53 @@
+### Renovation Plan for the Building (EPC Score: 388)
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization**
+1. **Insulate Gable Roof (RoofMain):**
+   - The `RoofMain` is currently not insulated. This is a priority as heat rises through the gable roof.
+   - Action: Insulate the gable roof with appropriate insulation material.
+   - Estimated Cost: €60/m².
+
+2. **Insulate Walls on Exterior (Wall_Front $\rightarrow$ Wall_Right $\rightarrow$ Wall_Rear):**
+   - All three external walls (Front, Rear, and Right) are full brick and not insulated.
+   - Action: Insulate the exterior walls to eliminate thermal bridges.
+   - Estimated Cost: €200/m².
+
+3. **Insulate Floor Above Basement:**
+   - The `FloorAboveBasement` is currently not insulated.
+   - Action: Add insulation to the floor above the basement to prevent cold drafts.
+   - Estimated Cost: €30/m².
+
+4. **Insulate Flat Roof (RoofExtension):**
+   - The `RoofExtension` is currently only moderately insulated.
+   - Action: Insulate the flat roof to improve thermal retention.
+   - Estimated Cost: €50/m².
+
+**Phase 2: Window Performance**
+5. **Replace Glazing (WindowsBedrooms $\rightarrow$ WindowsLivingArea):**
+   - All glazing should be replaced, as all windows still have double glazing. Adding triple glazing would drastically improve the thermal performance.
+   - Action: Replace the glazing with triple glazing.
+   - Estimated Cost: €200/m².
+
+**Phase 3: High-Efficiency Heating Transition**
+6. **Place Air-Water Heat Pump:**
+   - Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+   - Action: Install an air-water heat pump to replace the existing boiler.
+   - Estimated Cost: €8000 (fixed) + €35/m² for emissions system.
+
+**Phase 4: Air Quality and Ventilation**
+7. **Replace Ventilation System:**
+   - Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+   - Action: Install a modern ventilation system to maintain air quality in a now-sealed envelope.
+   - Estimated Cost: €3500 (fixed) + €17/m² for emissions system.
+
+**Summary of Sequence and Rationale**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor $\rightarrow$ RoofExtension)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+
+This plan ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.

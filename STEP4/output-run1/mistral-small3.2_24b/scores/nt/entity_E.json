@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "place emission system on low temperature", "place PV-panels on roof"], "extra_actions": ["insulate walls (cavity insulation)", "insulate floor above crawl space"]}, "sequence": {"order_errors": []}}

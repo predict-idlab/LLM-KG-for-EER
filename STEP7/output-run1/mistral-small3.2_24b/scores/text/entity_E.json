@@ -1,0 +1,18 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "place air-water heatpump"
+    ],
+    "extra_actions": [
+      "insulate floor above crawl space",
+      "upgrade boiler to a high-efficiency condensing boiler",
+      "install underfloor heating in main living areas",
+      "add smart thermostats and zoning controls for heating system",
+      "seal air leaks around windows, doors, and other openings"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}
+  

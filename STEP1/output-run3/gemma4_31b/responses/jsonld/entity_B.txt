@@ -1,0 +1,40 @@
+Based on the provided RENO ontology and the specific building data, the objective is to move the property from a **C Label (EPC 262)** to a higher energy class. Following the "Fabric First" principle, the renovation path is sequenced to first reduce energy demand through insulation, then optimize delivery via high-efficiency systems, and finally integrate renewable energy.
+
+### **Phase 1: Thermal Envelope Optimization (Reducing Demand)**
+The building is a 19th-century attached house with significant insulation gaps. Addressing these first prevents "over-sizing" the heating system in Phase 3.
+
+1.  **Insulate Flat Roof (`InsulateFlatRoof`):** The `RoofExtension` is currently not insulated. This is a priority as heat rises and flat roofs are often major sources of thermal loss.
+2.  **Insulate Floor Above Basement (`InsulateFloorAboveBasement`):** The `FloorAboveBasement` is not insulated. Adding insulation here reduces cold drafts from the basement.
+3.  **Insulate Exterior Walls (`InsulateWallExterior`):** Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Since they are full brick (no cavity), exterior insulation is the most effective way to drastically lower the EPC score. *Note: No historical protection is present, making this feasible.*
+
+### **Phase 2: Air Quality & Heat Recovery**
+Once the building is sealed with insulation, ventilation must be upgraded to prevent condensation and recover heat.
+
+4.  **Upgrade Ventilation (`ReplaceVentilationSystem`):** The current system is Type A (natural supply/exhaust). Upgrading to a more advanced system (e.g., Type D) will allow for heat recovery, ensuring that the warmth gained from the new insulation is not lost through ventilation.
+
+### **Phase 3: High-Efficiency Heating Transition**
+With a tightened envelope, the building can now transition from a traditional boiler to a low-carbon system.
+
+5.  **Emission System Upgrade (`PlaceLowTemperatureEmission`):** The building has a "reason to change emission system." Before installing a heat pump, the current radiators should be transitioned to low-temperature emitters to maximize the Coefficient of Performance (COP) of the pump.
+6.  **Install Heat Pump (`PlaceAirWaterHeatpump`):** Since geothermal options are not viable for this site and there is no heat grid, an Air-Water Heat Pump is the most cost-effective, high-efficiency alternative to the existing boiler.
+
+### **Phase 4: Renewable Energy Integration**
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+
+7.  **Install Solar Panels (`PlacePVPanelsOnRoof`):** The building has confirmed potential for PV. Installing panels on the `RoofMain` (which is in good state) will lower operational costs and further improve the EPC rating.
+
+---
+
+### **Summary of the Renovation Path**
+
+| Sequence | Intervention | Target Element | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | `InsulateFlatRoof` | RoofExtension | High impact, eliminates major heat loss. |
+| **2** | `InsulateFloorAboveBasement` | FloorAboveBasement | Low-cost improvement for thermal comfort. |
+| **3** | `InsulateWallExterior` | Wall_Front / Wall_Rear | Most significant impact on EPC score. |
+| **4** | `ReplaceVentilationSystem` | VentilationSystem | Prevents mold and recovers heat in a sealed house. |
+| **5** | `PlaceLowTemperatureEmission`| EmissionSystem | Prerequisite for heat pump efficiency. |
+| **6** | `PlaceAirWaterHeatpump` | Generation_System | Transitions to sustainable, electric heating. |
+| **7** | `PlacePVPanelsOnRoof` | RoofMain | Offsets energy costs of new installations. |
+
+**Cost-Effectiveness Note:** By insulating the walls and roof first, the required capacity of the Air-Water Heat Pump is reduced, lowering both the initial installation cost and the long-term monthly energy bills.

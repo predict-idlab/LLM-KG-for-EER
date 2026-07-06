@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place emission system on low temperature"], "extra_actions": ["insulate attic floor", "upgrade window glazing to triple glazing", "replace ventilation system", "insulate flat roof", "place pv panels on roof"]}, "sequence": {"order_errors": ["insulate gable roof", "place air-water heatpump"]}}

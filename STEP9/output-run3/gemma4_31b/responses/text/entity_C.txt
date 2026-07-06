@@ -1,0 +1,47 @@
+### Analysis of Current State
+Your home is in a very strong position. With a net area of 159 m², an EPC of 50 (which is already quite efficient), a Ventilation D system, and recent window upgrades (2024), the "shell" of your house is largely optimized. 
+
+The critical weakness is the **heating system**. The reliance on electric convectors is the primary source of energy waste (as they are highly inefficient), and the failing condition of the underfloor heating means your current energy delivery is compromised. Since you already have photovoltaic (PV) panels, you are perfectly positioned to transition to a fully electrified heating system.
+
+Here is the most optimal, cost-effective renovation path, sequenced to ensure that the new heating system is not oversized and operates at peak efficiency.
+
+---
+
+### Proposed Renovation Plan
+
+#### Step 1: Thermal Envelope Finalization (The "Quick Win")
+Before installing a new heating system, you must ensure the heat stays inside.
+*   **Action:** Upgrade the insulation of the **main pitched roof**. 
+*   **Why:** You noted this is only "moderately" insulated. Heat rises; a pitched roof is the most common point of thermal leakage. Improving this now reduces the total heat load of the house, allowing you to install a smaller, cheaper, and more efficient heat pump in Step 3.
+*   **Method:** Depending on access, add an extra layer of mineral wool or PIR boards in the attic/roof space.
+
+#### Step 2: Heating Emission Overhaul (The "Efficiency Core")
+Replacing the heat source (the boiler) without fixing the emission system (how heat is delivered) is a common and costly mistake.
+*   **Action A: Repair/Replace Underfloor Heating (UFH).** Ensure the UFH loops are fully functional and balanced. UFH is the ideal partner for low-temperature heating.
+*   **Action B: Eliminate Electric Convectors.** These are "energy sinks." Replace them with:
+    *   **Low-temperature radiators** (if UFH cannot be extended).
+    *   **Extension of the UFH** to those rooms (if flooring allows).
+*   **Why:** Heat pumps cannot efficiently heat a home via electric convectors or high-temperature radiators. By moving to a low-temperature emission system, you maximize the Coefficient of Performance (COP) of your future heat pump.
+
+#### Step 3: Heat Generation Transition (The "Green Shift")
+Now that the house is airtight and the emission system is low-temperature, you can replace the boiler.
+*   **Action:** Install an **Air-to-Water Heat Pump**.
+*   **Why:** 
+    *   **Synergy with PV:** Since you already have photovoltaic panels, you can use your own solar electricity to power the heat pump, potentially bringing your operational heating costs close to zero.
+    *   **Compatibility:** It integrates perfectly with the updated UFH and Ventilation D system.
+    *   **Constraint Check:** Since geothermal is not viable and district heating is unavailable, a high-efficiency air-to-water pump is the gold standard for your location in Ghent.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Focus | Action | Impact |
+| :--- | :--- | :--- | :--- |
+| **1. Insulation** | Roof | Upgrade pitched roof insulation | Lowers total energy demand $\rightarrow$ lowers equipment cost. |
+| **2. Emission** | Distribution | Fix UFH $\rightarrow$ Remove electric convectors | Enables the use of low-temperature heating. |
+| **3. Generation** | Heat Source | Replace boiler with Air-to-Water Heat Pump | Maximizes PV usage and slashes carbon emissions. |
+
+### Final Expert Tips for Ghent/Flanders:
+1.  **Check Flemish Premiums:** The Flemish government often provides significant subsidies (*premiën*) for switching to heat pumps and improving roof insulation. Ensure you contact a recognized contractor to remain eligible.
+2.  **Ventilation D Synergy:** Your Ventilation D system is a huge asset. Ensure it is well-maintained (filter changes), as it prevents humidity buildup and maintains air quality, which is essential when you have a highly insulated "tight" house.
+3.  **Smart Control:** When replacing the heating system, install a **smart thermostat** that can modulate the heat pump based on the weather forecast and your PV production levels.

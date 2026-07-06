@@ -1,0 +1,59 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+**Objective:**
+Maximize energy efficiency while keeping costs manageable through a phased renovation approach.
+
+**Step 1: Assess Current State**
+- **Energy Performance Certificate (EPC):** Score 165 (E label, 400-500 kWh/m²year).
+- **Insulation Grades:**
+  - Walls: Not Insulated (Front, Left, Right, Rear).
+  - Roof: Well Insulated.
+  - Floor Above Crawl Space: Not Insulated.
+- **Glazing:** Single Glazing (Bedrooms, Living Area).
+- **Emission System:** Electric Convector, Floor Heating, Air Heating.
+- **Potential for PV:** True.
+
+**Step 2: Prioritize Renovations**
+1. **Roof and Attic:**
+   - Insulate Attic Floor (Ordering: 31, Nuisance: Low, Price Unit: PER-M2, Unit Price: 60).
+   - Place Roof Underlayment (Ordering: 16, Nuisance: Low, Price Unit: PER-M2, Unit Price: 65).
+2. **Walls:**
+   - Insulate Wall Cavity (Ordering: 34, Nuisance: Low, Price Unit: PER-M2, Unit Price: 22).
+   - Insulate Wall Interior (Ordering: 37, Nuisance: Moderate, Price Unit: PER-M2, Unit Price: 150).
+3. **Windows:**
+   - Replace Glazing (Ordering: 43, Nuisance: High, Price Unit: PER-M2, Unit Price: 200).
+   - Replace Windows (Ordering: 46, Nuisance: High, Price Unit: PER-M2, Unit Price: 800).
+4. **Heating and Ventilation:**
+   - Replace Ventilation System (Ordering: 52, Nuisance: Moderate, Price Unit: PER-M2, Unit Price: 17).
+   - Place Low Temperature Emission (Ordering: 70, Nuisance: Moderate, Price Unit: PER-M2, Unit Price: 100).
+5. **Renewable Energy:**
+   - Place PV Panels on Roof (Ordering: 85, Nuisance: Low, Price Unit: PER-M2, Unit Price: 275).
+
+**Step 3: Phased Implementation**
+**Phase 1: Immediate Actions (Low Nuisance, High Impact)**
+1. Insulate Attic Floor.
+2. Place Roof Underlayment.
+3. Insulate Wall Cavity.
+
+**Phase 2: Intermediate Actions (Moderate Nuisance)**
+1. Insulate Wall Interior.
+2. Replace Glazing.
+3. Replace Ventilation System.
+
+**Phase 3: Long-Term Actions (High Nuisance, High Impact)**
+1. Replace Windows.
+2. Place Low Temperature Emission.
+3. Place PV Panels on Roof.
+
+**Step 4: Cost-Effectiveness Considerations**
+- **Prioritize Insulation:** Focus on attic and walls first for maximum heat retention.
+- **Glazing Upgrades:** Replace glazing before full window replacement to save costs.
+- **Renewable Energy:** Install PV panels after ensuring the roof is well-insulated and glazing is upgraded.
+
+**Step 5: Additional Recommendations**
+- **Monitor Progress:** Regularly assess energy consumption to measure the impact of each renovation phase.
+- **Consult Experts:** Engage with energy experts for tailored advice and permits where necessary.
+- **Future-Proofing:** Plan for potential future upgrades like geothermal heat pumps or advanced emission systems.
+
+**Conclusion:**
+This phased approach ensures a balanced renovation plan that maximizes energy efficiency while keeping costs manageable. Prioritize insulation and glazing upgrades first, followed by heating and renewable energy installations. Regular monitoring and expert consultation will help achieve the best results.

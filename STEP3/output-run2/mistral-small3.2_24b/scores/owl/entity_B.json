@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior"], "extra_actions": ["insulate wall on exterior", "place sunshades"]}, "sequence": {"order_errors": ["insulate flat roof"]}}

@@ -1,0 +1,35 @@
+### Renovation Plan for Attached House in Ghent, Belgium (Built in 1832)
+
+**Current EPC Score:** 262
+**Net Floor Area:** 212 m²
+**Key Priorities:** Improve EPC, cost-effective, energy efficiency
+
+#### Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+1. **Insulate Flat Roof:** The uninsulated flat-roof extension is a priority as heat rises. Insulating this will significantly reduce heat loss.
+2. **Insulate Exterior Walls:** The front and rear solid brick walls are uninsulated. Interior insulation is recommended due to cost-effectiveness and ease of installation.
+3. **Insulate Floor Above Basement:** Adding insulation here will prevent cold drafts and reduce heat loss to the basement.
+
+**Phase 2: Heating System Upgrade**
+4. **Replace Boiler with Air-Water Heat Pump:** Since geothermal energy is not feasible and there is no district heating, an air-water heat pump is the most sustainable and efficient replacement for the current boiler.
+5. **Upgrade Radiator System to Low-Temperature Emission:** Before installing the heat pump, ensure the radiators are compatible with low-temperature operation to maximize the heat pump’s efficiency.
+
+**Phase 3: Ventilation Upgrade**
+6. **Replace Natural Ventilation with a Modern System:** Upgrade to a controlled mechanical ventilation system (e.g., System C or D) to maintain indoor air quality and reduce heat loss.
+
+**Phase 4: Sustainable Energy Generation (Optional but Recommended)**
+7. **Install Photovoltaic Panels:** Given the potential for PV panels, installing them will offset the electricity consumption of the heat pump and further improve the EPC score.
+
+#### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof** | Reduces heat loss from the uninsulated flat roof. |
+| **2** | **Insulate Exterior Walls** | Improves thermal retention of the solid brick walls. |
+| **3** | **Insulate Floor Above Basement** | Prevents cold drafts and reduces heat loss to the basement. |
+| **4** | **Replace Boiler with Air-Water Heat Pump** | Switches to a sustainable, efficient heating source. |
+| **5** | **Upgrade Radiator System to Low-Temperature Emission** | Maximizes the efficiency of the new heat pump. |
+| **6** | **Upgrade Ventilation System** | Ensures proper air quality in a now-sealed envelope. |
+| **7** | **Install PV Panels** | Offsets electricity consumption and improves EPC. |
+
+This plan follows a "fabric first" approach, ensuring cost-effective improvements before transitioning to high-efficiency systems. The sequence maximizes energy savings and long-term operational performance.

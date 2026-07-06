@@ -1,0 +1,54 @@
+### Renovation Plan for the 2017 Semi-Detached Building
+
+#### Overview
+The building is a **2017 semi-detached house** with an EPC score of **87** (B Label). The owner's primary motivation is to improve the EPC rating.
+
+#### Key Observations:
+1. **Building Envelope:**
+   - **Roof Main:** Moderately insulated.
+   - **Walls:** All walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`) are well-insulated.
+   - **Floor Above Basement:** Well-insulated.
+   - **Windows:** All windows have double glazing.
+
+2. **Energy Systems:**
+   - **Emission System:** The current system is not detailed, but the EPC score suggests it is efficient.
+   - **Generation System:** The building uses a heat pump, which is already a sustainable option.
+
+3. **Potential for PV:** The building has **no potential for PV panels**, which limits options for renewable energy generation.
+
+#### Proposed Renovation Path
+Since the building is already well-insulated and has a heat pump, the focus should be on **optimizing existing systems** and **exploring additional sustainability measures**.
+
+| **Priority** | **Action** | **Rationale** |
+|-------------|------------|--------------|
+| **High**    | **Roof Insulation Upgrade** | The `RoofMain` is only moderately insulated. Upgrading to full insulation will improve thermal retention. |
+| **Medium**  | **Ventilation System Upgrade** | The current ventilation system is a "VentilationSystemD". Ensuring it is properly maintained and efficient is key for air quality. |
+| **Medium**  | **Heat Pump Maintenance** | Regular maintenance of the heat pump ensures optimal performance and efficiency. |
+| **Low**     | **Explore Heat Grid Connection** | If feasible, connecting to a heat grid could further reduce the carbon footprint. |
+
+#### Detailed Steps:
+
+1. **Roof Insulation Upgrade:**
+   - **Action:** Insulate the `RoofMain` to the same level as the other walls (`WellInsulated`).
+   - **Expected Outcome:** Improved thermal performance and reduced heat loss through the roof.
+
+2. **Ventilation System Maintenance:**
+   - **Action:** Schedule regular maintenance for the `VentilationSystem` to ensure it operates efficiently.
+   - **Expected Outcome:** Maintains indoor air quality and prevents moisture buildup.
+
+3. **Heat Pump Maintenance:**
+   - **Action:** Schedule annual maintenance for the heat pump to ensure optimal performance.
+   - **Expected Outcome:** Ensures the heat pump operates at peak efficiency, reducing energy consumption.
+
+4. **Explore Heat Grid Connection:**
+   - **Action:** Investigate the feasibility of connecting to a heat grid.
+   - **Expected Outcome:** If feasible, this could further reduce the carbon footprint of the building.
+
+#### Summary
+The building is already in good condition with a B Label EPC score. The primary focus should be on **optimizing the existing systems** (roof insulation, ventilation, and heat pump maintenance) and **exploring additional sustainability measures** (heat grid connection). This approach ensures cost-effectiveness while maximizing energy efficiency.
+
+#### Additional Notes
+- **PV Potential:** Since the building has no potential for PV panels, other renewable energy options (such as wind or heat grid connection) should be explored.
+- **EPC Improvement:** The current EPC score is already good (B Label), so the focus should be on **maintaining and optimizing** rather than **major overhauls**.
+
+This plan aligns with the **Fabric-First** approach, prioritizing the building envelope and systems before considering major changes.

@@ -1,0 +1,52 @@
+To transform a 1951 semi-detached house with an EPC of 388 into an energy-efficient home, you must follow the **"Fabric First" principle**. This means reducing the energy demand of the building *before* upgrading the heating systems. Installing a high-efficiency heater in an uninsulated house is a waste of capital.
+
+Here is the optimal, sequenced renovation path tailored for your property in Ghent.
+
+---
+
+### Phase 1: The Thermal Envelope (Immediate Priority)
+*Goal: Stop heat loss. This is the most cost-effective way to lower your EPC score.*
+
+1.  **Roof Insulation (Pitched Roof):** This is your highest priority. Heat rises, and an uninsulated roof is your biggest energy leak.
+    *   **Action:** Install high-performance mineral wool or PIR boards in the roof space.
+2.  **Floor Insulation (Above Basement):** To eliminate "cold feet" and stop heat from escaping into the basement.
+    *   **Action:** Install rigid insulation boards (XPS or PIR) to the ceiling of the basement.
+3.  **Wall Insulation:** Solid brick walls are thermal bridges. Since it is a semi-detached house, exterior insulation (ITE) may be difficult or costly.
+    *   **Action:** Prioritize **Interior Wall Insulation (IWI)** using breathable materials (like wood fiber or calcium silicate) to prevent condensation and mold, which is common in older Belgian brick homes.
+
+### Phase 2: Ventilation & Airtightness (The "Health" Step)
+*Goal: Prevent moisture buildup and ensure air quality once the house is sealed.*
+
+1.  **Ventilation Upgrade:** Once you insulate the walls and roof, "natural ventilation" is no longer sufficient and can lead to humidity issues.
+    *   **Action:** Install a **Balanced Ventilation system with Heat Recovery (HRV)**. This recovers heat from outgoing air to warm the incoming fresh air, significantly reducing the load on your heating system.
+
+### Phase 3: Heating System Modernization (The "Technical" Step)
+*Goal: Replace outdated emitters and the boiler with a low-carbon alternative.*
+
+1.  **Emitter Replacement:** Your current radiators and air heating are inefficient.
+    *   **Action:** Replace old radiators with **Low-Temperature Radiators** or expand the **Underfloor Heating** zones. This is critical because modern heat pumps require lower flow temperatures to operate efficiently.
+2.  **Heat Source Transition:** Now that the house is insulated, you need a much smaller heating capacity.
+    *   **Action:** Install an **Air-to-Water Heat Pump**. Since geothermal is not viable, an air-source pump is the gold standard for Ghent's climate, especially when paired with the insulation from Phase 1.
+
+### Phase 4: Renewable Energy (The "Offset" Step)
+*Goal: Neutralize the electricity cost of the heat pump.*
+
+1.  **Solar Energy:**
+    *   **Action:** Install **Photovoltaic (PV) Panels** on the pitched roof. 
+    *   **Synergy:** The PV panels will power the heat pump and the HRV ventilation system, moving you toward a "Net Zero" operational cost.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Action | Why? | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1. Roof & Floor** | Insulation | Lowest cost, highest immediate ROI. | $\downarrow \downarrow \downarrow$ |
+| **2. Walls** | Interior Insulation | Stops the bulk of heat loss through the shell. | $\downarrow \downarrow$ |
+| **3. Ventilation** | HRV System | Prevents mold; recovers waste heat. | $\downarrow$ |
+| **4. Emitters** | Low-Temp Radiators | Prepares the house for a heat pump. | $\downarrow$ |
+| **5. Heat Pump** | Air-to-Water | Replaces fossil fuels with electricity. | $\downarrow \downarrow \downarrow$ |
+| **6. PV Panels** | Solar Array | Offsets the electricity used by the pump. | $\downarrow \downarrow$ |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Check the **Vlaamse EnergiePremies** (Flemish Energy Premiums). The Flemish government provides significant subsidies for wall, roof, and floor insulation, as well as for the installation of heat pumps and ventilation systems. By following this sequence, you can often stack these premiums to significantly reduce the total investment cost.

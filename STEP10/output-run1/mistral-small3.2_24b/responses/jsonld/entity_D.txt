@@ -1,0 +1,15 @@
+### Analysis:
+The building is a semi-detached house from 2017 with a B label (EPC score 87). The owner's motivation is to improve the EPC. The building has well-insulated walls (Front, Rear, and Left), a moderately insulated gable roof, and a well-insulated attic floor. The glazing in the living area and bedrooms is double-glazed and in good condition. The ventilation system is a type D system, and there is no reason to change the emission system.
+
+### Renovation Plan:
+Since the building is already in good condition, the focus should be on maintaining and optimizing the current setup rather than major renovations. However, to further improve the EPC score, the following steps can be considered:
+
+1. **Insulate Gable Roof**: The gable roof is moderately insulated. Improving the insulation to "well-insulated" can further reduce heat loss.
+2. **Insulate Attic Floor**: The attic floor is already well-insulated. However, checking for any gaps or areas that could benefit from additional insulation is recommended.
+3. **Replace Glazing with Triple Glazing**: Although the current double-glazing is in good condition, replacing it with triple glazing can significantly improve thermal performance and further lower the EPC score.
+4. **Install PV Panels**: Given the potential for PV is false, this suggestion is not applicable. However, if there is a change in the potential for PV, this could be a valuable addition to further reduce the energy consumption.
+
+### Summary of Optimal Sequence:
+**Insulate Gable Roof** $\rightarrow$ **Insulate Attic Floor** $\rightarrow$ **Replace Glazing with Triple Glazing**.
+
+This plan focuses on optimizing the existing setup to achieve the best possible EPC score while minimizing costs and disruption.

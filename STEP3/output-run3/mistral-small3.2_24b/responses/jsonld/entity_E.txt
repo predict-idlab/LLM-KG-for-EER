@@ -1,0 +1,68 @@
+The renovation plan is structured based on the specific needs of the building and its components. The goal is to improve the energy performance of the building (EPC value) from 165 to below 100, while also considering the potential for solar panel installation and the possibility to change the emission system.
+
+### Step 1: Insulate the Walls
+The building has four cavity walls that are not insulated. Insulating these walls will significantly reduce heat loss and improve the overall energy efficiency of the building.
+- **Action**: Insulate wall on exterior for Wall_Front, Wall_Left, Wall_Rear, Wall_Right.
+- **Order**: 40
+- **Unit Price**: €200/m²
+- **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders)
+- **Multi-phase**: No
+
+### Step 2: Replace the Roof
+The roof is a gable roof that is well insulated. However, replacing the roof will further improve the energy performance and can be an opportunity to install solar panels if desired.
+- **Action**: Replace gable roof
+- **Order**: 13
+- **Unit Price**: €260/m²
+- **Permit Needed**: Only if roof framework is renewed (Flanders)
+- **Multi-phase**: No
+
+### Step 3: Replace the Windows
+The windows in the living area and bedrooms have single glazing, which is not energy efficient. Replacing these windows with double or triple glazing will further improve the energy performance.
+- **Action**: Replace windows
+- **Order**: 46
+- **Unit Price**: €800/m²
+- **Permit Needed**: Not necessary if the measurements are kept (Flanders)
+- **Multi-phase**: No
+
+### Step 4: Insulate the Attic Floor
+The attic floor is not insulated, which can lead to significant heat loss. Insulating the attic floor will improve the overall energy efficiency of the building.
+- **Action**: Insulate attic floor
+- **Order**: 31
+- **Unit Price**: €60/m²
+- **Permit Needed**: Not necessary (Flanders)
+- **Multi-phase**: No
+
+### Step 5: Replace the Emission System
+The emission system is an electric convector, which is not the most energy-efficient option. Replacing it with a more efficient system, such as a heat pump, will further improve the energy performance.
+- **Action**: Place air-water heatpump
+- **Order**: 67
+- **Unit Price**: €8000 + €35/m²
+- **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+- **Multi-phase**: Maybe, depending on the system
+
+### Step 6: Install Solar Panels (Optional)
+The building has potential for solar panel installation. Installing solar panels will generate renewable energy, further reducing the energy consumption and costs.
+- **Action**: Place PV-panels on roof
+- **Order**: 85
+- **Unit Price**: €275/m²
+- **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+- **Multi-phase**: Maybe, depending on the system
+
+### Step 7: Replace the Ventilation System (Optional)
+The ventilation system is a natural ventilation system (type A). Replacing it with a more efficient system, such as a mechanical ventilation system with heat recovery, will further improve the energy performance.
+- **Action**: Replace ventilation system
+- **Order**: 52
+- **Unit Price**: €3500 + €17/m²
+- **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+- **Multi-phase**: Maybe, depending on the system
+
+### Summary of the Renovation Plan:
+1. **Insulate the Walls**: Insulate wall on exterior for Wall_Front, Wall_Left, Wall_Rear, Wall_Right.
+2. **Replace the Roof**: Replace gable roof.
+3. **Replace the Windows**: Replace windows.
+4. **Insulate the Attic Floor**: Insulate attic floor.
+5. **Replace the Emission System**: Place air-water heatpump.
+6. **Install Solar Panels (Optional)**: Place PV-panels on roof.
+7. **Replace the Ventilation System (Optional)**: Replace ventilation system.
+
+This plan aims to maximize energy efficiency while remaining cost-effective and practical. The steps are ordered based on their impact on energy performance and cost-effectiveness. The optional steps can be considered based on the budget and specific needs of the owner.

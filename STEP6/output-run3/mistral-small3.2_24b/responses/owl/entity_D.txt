@@ -1,0 +1,30 @@
+The building is a semi-detached house constructed in 2017, with an energy performance certificate (EPC) score of 87. The owner's primary motivation is to improve the EPC rating. The building has potential for photovoltaic (PV) panels, but there is no heat grid present.
+
+### Renovation Plan:
+
+1. **Insulate Gable Roof**:
+   - The gable roof is currently moderately insulated. Improving its insulation will further reduce heat loss and improve energy efficiency.
+
+2. **Place PV-Panels on Roof**:
+   - Since the building has potential for PV panels, installing them on the roof will generate renewable energy, reducing reliance on the grid and further improving the EPC score.
+
+3. **Place Sunshade**:
+   - Installing sunshades will help regulate indoor temperatures by reducing solar heat gain during summer, thereby improving thermal comfort and reducing cooling needs.
+
+4. **Place Air-Water Heatpump with Cooling**:
+   - The current generation system is a heat pump. Upgrading to an air-water heat pump with cooling capabilities will enhance both heating and cooling efficiency, especially beneficial given the presence of PV panels to offset electricity consumption.
+
+5. **Place Airconditioning**:
+   - Installing an air conditioning system will improve thermal comfort during hot weather, which is particularly important if the building is used for purposes that require precise temperature control (e.g., office space, server room).
+
+### Summary of Sequence and Rationale:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Improves thermal performance of the roof, reducing heat loss. |
+| **2** | **Place PV-Panels on Roof** | Generates renewable energy, reducing electricity costs and improving EPC score. |
+| **3** | **Place Sunshade** | Reduces solar heat gain, improving thermal comfort and reducing cooling needs. |
+| **4** | **Place Air-Water Heatpump with Cooling** | Enhances both heating and cooling efficiency, leveraging the PV panels for renewable energy. |
+| **5** | **Place Airconditioning** | Ensures thermal comfort during hot weather, particularly important for specific use cases. |
+
+This plan focuses on maximizing energy efficiency and improving the EPC score while ensuring cost-effectiveness and leveraging the building's potential for renewable energy. The sequence ensures that the most impactful improvements are made first, followed by enhancements that complement the initial upgrades.

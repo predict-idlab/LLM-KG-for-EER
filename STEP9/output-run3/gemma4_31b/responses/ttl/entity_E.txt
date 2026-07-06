@@ -1,0 +1,45 @@
+To maximize energy efficiency while remaining cost-effective for this specific property, I propose a **"Fabric First"** renovation strategy. The goal is to first minimize heat loss (the building envelope) before upgrading the heating systems and adding renewable energy sources.
+
+### Building Analysis Summary
+*   **Strengths:** The roof is already well-insulated, and the window frames are wooden and in good condition.
+*   **Weaknesses:** The building has significant energy leaks through **non-insulated cavity walls**, **single-glazed windows**, and a **non-insulated floor** above the crawl space.
+*   **Systems:** The current ventilation (System A) is basic, and there is a stated need to change the emission system.
+
+---
+
+### Proposed Renovation Path
+
+#### Phase 1: The Building Envelope (High Impact, Cost-Effective)
+The priority is to stop heat from escaping. Since the roof is already handled, we focus on walls, floors, and glass.
+1.  **Insulate Wall Cavities:** All four walls are cavity walls and currently not insulated. This is the most cost-effective upgrade available (low unit price, low nuisance) and provides an immediate reduction in heating demand.
+2.  **Insulate Floor Above Basement:** The floor above the crawl space is currently uninsulated. Adding insulation here prevents cold air from entering the living areas from below.
+3.  **Replace Glazing:** The bedrooms and living area use single glazing. Since the wooden frames are in "Good State," it is more cost-effective to **replace the glazing** (upgrading to double or triple glazing) rather than replacing the entire window unit.
+
+#### Phase 2: Air Quality & Thermal Comfort
+Once the house is "tightened" via insulation, air circulation must be improved to prevent condensation and maintain health.
+4.  **Replace Ventilation System:** Upgrading from Ventilation System A (natural) to a more modern system (e.g., System C or D) ensures a healthy indoor climate now that the building is better insulated.
+
+#### Phase 3: Heating System Modernization
+With a reduced energy load due to Phase 1, we can now install a smaller, more efficient heating system.
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the emission system (radiators/floor heating) must be optimized for low-temperature operation to ensure the heat pump operates at maximum efficiency.
+6.  **Place Air-Water Heat Pump:** Since geothermal options are not viable for this site and there is no heat grid, an Air-Water Heat Pump is the most efficient choice for replacing the current boiler.
+
+#### Phase 4: Renewable Energy Generation
+The final step is to offset the remaining electricity consumption.
+7.  **Place PV-Panels on Roof:** The building has high potential for PV. Installing solar panels on the roof will lower operational costs and significantly improve the EPC score.
+
+---
+
+### Summary of Sequence and Rationale
+
+| Order | Action | Rationale | Cost/Nuisance |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Lowest cost per $\text{m}^2$; massive energy gain. | Low / Low |
+| **2** | **Insulate Floor** | Prevents heat loss to crawl space. | Low / Low |
+| **3** | **Replace Glazing** | Eliminates major thermal bridges (single glass). | Moderate / High |
+| **4** | **Upgrade Ventilation** | Prevents moisture/mold in a tighter home. | Moderate / Moderate |
+| **5** | **Low-Temp Emission** | Pre-requisite for heat pump efficiency. | Moderate / Moderate |
+| **6** | **Air-Water Heat Pump** | Switches to a sustainable energy source. | High / Moderate |
+| **7** | **PV-Panels on Roof** | Reduces dependency on the grid. | Moderate / Low |
+
+**Final Outcome:** This path transforms the building from a 19th-century structure with high heat loss into a modern, energy-efficient home, directly addressing the owner's motivation to improve the EPC label.

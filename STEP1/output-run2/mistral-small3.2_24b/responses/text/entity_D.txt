@@ -1,0 +1,47 @@
+Based on the information provided, here’s a concise and actionable renovation plan for your semi-detached house in Ghent, Belgium, focusing on energy efficiency and cost-effectiveness:
+
+### 1. **Improve Roof Insulation (Pitched Roof)**
+   - **Action:** Upgrade the insulation of the main pitched roof to match the well-insulated flat-roof extension.
+   - **Reason:** The pitched roof has only moderate insulation, which is likely the weakest link in the building envelope.
+   - **Materials:** Use high-performance insulation materials like mineral wool or rigid foam boards.
+   - **Cost-Effectiveness:** This is a high-impact upgrade that will significantly reduce heat loss and improve the energy performance certificate (EPC) score.
+
+### 2. **Upgrade Ventilation System (Ventilation System D)**
+   - **Action:** Replace the existing ventilation system with a more efficient **heat recovery ventilation (HRV) system**.
+   - **Reason:** HRV systems pre-heat incoming air with heat from outgoing air, reducing the workload on the heat pump and improving indoor air quality.
+   - **Cost-Effectiveness:** Although HRV systems have a higher upfront cost, they provide long-term energy savings and are eligible for subsidies in Belgium.
+
+### 3. **Optimize Heat Pump Performance**
+   - **Action:** Conduct a **professional audit** of the heat pump system to ensure it is operating at peak efficiency.
+   - **Reason:** Even if the system is in good condition, small optimizations (e.g., adjusting temperature settings, cleaning filters) can improve performance.
+   - **Cost-Effectiveness:** Low-cost, high-impact improvement with immediate energy savings.
+
+### 4. **Seal Air Leaks**
+   - **Action:** Conduct a **blower door test** to identify and seal any air leaks around windows, doors, and other openings.
+   - **Reason:** Air leaks can significantly reduce energy efficiency by allowing heated air to escape.
+   - **Cost-Effectiveness:** Sealing air leaks is a low-cost measure that can lead to noticeable energy savings.
+
+### 5. **Upgrade Thermostat and Smart Controls**
+   - **Action:** Install a **smart thermostat** to optimize heating schedules and integrate with the heat pump.
+   - **Reason:** Smart thermostats allow for more precise temperature control, reducing energy waste.
+   - **Cost-Effectiveness:** Smart thermostats are relatively affordable and provide long-term energy savings.
+
+### 6. **Consider Solar Battery Storage**
+   - **Action:** Evaluate the feasibility of adding a **solar battery storage system** to store excess energy from the photovoltaic panels.
+   - **Reason:** This would allow you to use more of the self-generated solar energy, further reducing reliance on the grid.
+   - **Cost-Effectiveness:** While the upfront cost is higher, subsidies and long-term energy savings make this a viable option.
+
+### 7. **Improve Window Glazing (If Budget Allows)**
+   - **Action:** Replace double-glazed windows with **triple-glazed windows** (if feasible).
+   - **Reason:** Triple glazing provides even better insulation, further reducing heat loss.
+   - **Cost-Effectiveness:** This is a more expensive upgrade, so prioritize it after other high-impact measures.
+
+### Optimal Sequence:
+1. **Seal air leaks** (low-cost, immediate impact).
+2. **Upgrade roof insulation** (high-impact improvement).
+3. **Install HRV system** (long-term efficiency gains).
+4. **Optimize heat pump performance** (low-cost efficiency boost).
+5. **Upgrade thermostat** (smart control for energy savings).
+6. **Consider solar battery storage** (if budget allows).
+
+This plan prioritizes upgrades that provide the highest energy savings and EPC score improvements while remaining cost-effective.

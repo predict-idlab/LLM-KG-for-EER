@@ -1,0 +1,46 @@
+### Renovation Plan for Semi-Detached House in Ghent, Belgium
+
+**Objective:** Improve the energy performance certificate (EPC) score from 388 while maximizing energy efficiency and cost-effectiveness.
+
+#### Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+1. **Insulate Pitched Roof:**
+   - The main roof is a pitched roof without insulation. Insulating this area is a priority as heat rises, and this will significantly reduce heat loss.
+2. **Insulate Exterior Walls (Interior Insulation):**
+   - All exterior walls are solid brick and uninsulated. Interior insulation is more cost-effective than exterior insulation for solid brick walls and will improve thermal retention.
+3. **Insulate Floor Above Basement:**
+   - The floor above the basement is uninsulated. Adding insulation here will reduce heat loss to the basement and improve comfort.
+
+**Phase 2: Window Performance**
+4. **Upgrade Glazing (if necessary):**
+   - The windows already have double glazing, which is good. However, if the frames are old or the glazing is not performing well, consider upgrading to triple glazing or ensuring the existing double glazing is in good condition.
+
+**Phase 3: High-Efficiency Heating Transition**
+5. **Replace Boiler with Air-Water Heat Pump:**
+   - Since the site is not suitable for geothermal energy and there is no district heating network, an air-water heat pump is the most viable and efficient alternative to the current boiler.
+6. **Upgrade Emission Systems to Low-Temperature:**
+   - Before installing the heat pump, ensure that the radiators and underfloor heating systems are compatible with low-temperature operation to maximize the heat pump's efficiency.
+
+**Phase 4: Air Quality and Ventilation**
+7. **Upgrade Ventilation System:**
+   - Replace the basic natural ventilation system with a more efficient system, such as a mechanical ventilation system with heat recovery (System C or D), to maintain indoor air quality and prevent moisture buildup.
+
+**Phase 5: Sustainable Energy Generation**
+8. **Install Photovoltaic (PV) Panels:**
+   - Utilize the potential for PV panel installation to generate renewable electricity, which can power the heat pump and ventilation system, further improving the EPC score and reducing energy costs.
+
+#### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Pitched Roof** | Reduces heat loss through the roof, which is a significant source of heat loss. |
+| **2** | **Insulate Exterior Walls (Interior Insulation)** | Improves thermal retention and reduces heat loss through the walls. |
+| **3** | **Insulate Floor Above Basement** | Reduces heat loss to the basement and improves comfort. |
+| **4** | **Upgrade Glazing (if necessary)** | Ensures windows are performing optimally to reduce heat loss. |
+| **5** | **Replace Boiler with Air-Water Heat Pump** | Switches to a sustainable and efficient heating system tailored to the new lower heat demand. |
+| **6** | **Upgrade Emission Systems to Low-Temperature** | Maximizes the efficiency of the heat pump. |
+| **7** | **Upgrade Ventilation System** | Maintains indoor air quality in a now-sealed envelope. |
+| **8** | **Install PV Panels** | Generates renewable electricity to power the heat pump and ventilation system, further improving the EPC score. |
+
+This renovation plan follows a logical sequence to maximize energy efficiency and cost-effectiveness, ensuring that each step builds on the previous improvements.

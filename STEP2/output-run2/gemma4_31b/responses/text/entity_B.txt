@@ -1,0 +1,47 @@
+To improve an EPC score of 262 in a 19th-century Belgian home, you must follow the **"Fabric First"** principle. The most common mistake is replacing the heating system before insulating the envelope; this leads to oversized, inefficient systems and higher costs.
+
+Because this is an attached house in Ghent, your primary heat loss occurs through the roof, the front/rear walls, and the basement floor.
+
+Here is the optimal, sequenced renovation path to maximize energy efficiency and cost-effectiveness.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leak)
+*Goal: Reduce the energy demand of the house so that a smaller, cheaper heating system can be used.*
+
+1.  **Flat Roof Insulation (High Priority):** Since the flat roof is currently uninsulated, this is your fastest "win." Use inverted roof insulation ( XPS boards) or internal insulation to stop massive heat loss.
+2.  **Basement Ceiling Insulation (High Priority):** Insulating the floor above the basement is one of the most cost-effective upgrades. It prevents "cold feet" and stops heat from escaping into the cellar.
+3.  **Internal Wall Insulation (Medium Priority):** Since the house is attached and the walls are solid brick, external insulation is likely impossible or too expensive. Focus on **internal insulation** (using breathable materials like wood-fiber boards or calcium silicate) for the front and rear facades to prevent mold and reduce heat loss.
+4.  **Roof Top-up:** Since the pitched roof has "moderate" insulation, check if it meets current Flemish standards. If not, add a layer of blown-in cellulose or mineral wool.
+
+### Phase 2: Ventilation & Air Quality (The Balance)
+*Goal: Prevent humidity and mold issues that occur once a house is made "airtight" through insulation.*
+
+5.  **Upgrade Ventilation:** Natural ventilation is insufficient for a renovated 1832 house. Install a **Mechanical Ventilation system with Heat Recovery (MVHR)** or, at minimum, a balanced ventilation system. This ensures fresh air without losing the heat you just spent money to keep inside.
+
+### Phase 3: The Heating System (The Engine)
+*Goal: Transition from fossil fuels to a high-efficiency, low-carbon system.*
+
+6.  **Low-Temperature Radiators:** Before installing a new boiler/pump, replace the old radiators with **low-temperature (oversized) radiators**. Heat pumps work most efficiently at lower water temperatures; old radiators require high heat and will make a heat pump inefficient.
+7.  **Heat Pump Installation:** Now that the house is insulated and the radiators are optimized, install an **Air-to-Water Heat Pump**. Because you insulated first, the required capacity (kW) of the pump will be smaller, reducing both the purchase price and monthly electricity bills.
+
+### Phase 4: Renewable Energy (The Offset)
+*Goal: Neutralize the electricity cost of the new heat pump.*
+
+8.  **Photovoltaic (PV) Panels:** Install PV panels on the pitched roof. The electricity generated will power the heat pump and the ventilation system, moving your house toward a "Net Zero" energy balance.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Why? | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **Step 1** | Roof & Floor Insulation | Lowest hanging fruit; immediate heat retention. | High $\downarrow$ |
+| **Step 2** | Internal Wall Insulation | Stops the main heat leak in solid brick walls. | High $\downarrow$ |
+| **Step 3** | Ventilation Upgrade | Prevents moisture/mold in the new airtight shell. | Medium $\downarrow$ |
+| **Step 4** | Low-Temp Radiators | Prepares the house for efficient heat pump use. | Medium $\downarrow$ |
+| **Step 5** | Heat Pump | Switches energy source to electricity. | Very High $\downarrow$ |
+| **Step 6** | PV Panels | Offsets the energy cost of the heat pump. | Very High $\downarrow$ |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Check the **"Mijn VerbouwPremie"** (My Renovation Premium) guidelines. The Flemish government offers significant subsidies for this exact sequence. To maximize these premiums, you may need to hire a recognized energy auditor to certify the steps as you complete them.

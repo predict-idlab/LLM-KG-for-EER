@@ -1,0 +1,29 @@
+Based on the provided building data, this is a very modern home (built in 2023) with an already excellent EPC score of 50. The thermal envelope is largely optimized, and high-efficiency systems (Ventilation D and PV panels) are already in place. 
+
+The primary inefficiency lies in the current heating generation and the presence of electric convectors, which are energy-intensive. To maximize efficiency and cost-effectiveness, the renovation should focus on transitioning to a sustainable heating system while slightly refining the remaining thermal weakness.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Refinement (Priority: Low)
+Since the house is nearly airtight and well-insulated, the gains here are marginal but necessary to ensure the heating system is right-sized.
+1. **Improve Pitched Roof Insulation:** While the flat roof and walls are "well insulated," the main pitched roof is only "moderately insulated." Upgrading this to a "high" level of insulation will minimize the remaining heat loss through the top of the building.
+
+#### Phase 2: Heating Emission Upgrade (Priority: High)
+The current mix of emission systems is inconsistent. Electric convectors are highly inefficient and often lead to higher electricity bills.
+2. **Eliminate Electric Convectors:** Replace the electric convectors with a more efficient system. Since the house already has underfloor heating, the goal should be to extend the hydronic (water-based) system to those rooms or install high-efficiency low-temperature radiators.
+
+#### Phase 3: Sustainable Heat Generation (Priority: High)
+With the envelope optimized and the emission systems updated to low-temperature standards, the heat generator can be replaced.
+3. **Install Air-Water Heat Pump:** Since there is no district heating or geothermal potential, an Air-Water Heat Pump is the most logical replacement for the existing boiler. Because the house already has underfloor heating and a tight envelope, the heat pump will operate at a very high Coefficient of Performance (COP), maximizing the energy produced per unit of electricity consumed.
+
+---
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Pitched Roof Insulation** | Addresses the only remaining "moderate" point in the thermal envelope to further reduce heat demand. |
+| **2** | **Remove Electric Convectors** | Eliminates the most inefficient heating element in the house. |
+| **3** | **Air-Water Heat Pump** | Replaces the failing boiler with a sustainable source that leverages the existing PV panels for power. |
+
+**Final Note:** Because the house is already equipped with **Ventilation System D** and **PV Panels**, no further upgrades are required in the ventilation or energy generation categories. The focus is purely on the transition from a boiler/electric-convector setup to a fully electrified, low-temperature heat pump system.

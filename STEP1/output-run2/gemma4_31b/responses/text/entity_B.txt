@@ -1,0 +1,48 @@
+To improve an EPC score of 262 in a 19th-century home, you must follow the **"Fabric First" principle**. Replacing a heating system before insulating the envelope is a common and costly mistake; it leads to oversized systems and inefficiency.
+
+Given that your house is not historically protected, you have significant flexibility. Here is the optimal, sequenced renovation path for your home in Ghent.
+
+---
+
+### Phase 1: The Thermal Envelope (Stop the Heat Loss)
+*Goal: Reduce the energy demand of the house so that a smaller, cheaper heating system can be installed.*
+
+1.  **Flat-Roof Insulation (High Priority):** Since the flat roof is currently uninsulated, this is your quickest win. Heat rises; insulating this area will drastically reduce thermal loss. Use high-density PIR boards or mineral wool.
+2.  **Floor Insulation (High Priority):** The floor above the basement is a major source of "cold feet" and heat loss. Since you have basement access, insulate from below (upside-down insulation) to avoid tearing up the existing flooring.
+3.  **Wall Insulation (Medium/High Priority):** Solid brick walls are thermal bridges. 
+    *   **Recommendation:** Since the house is not protected, **Exterior Wall Insulation (EWI)** is the most effective method. It protects the brickwork from moisture and provides the best thermal break.
+    *   **Alternative:** If EWI is too expensive or aesthetically undesirable, use **Interior Wall Insulation (IWI)**, but ensure a vapor barrier is installed to prevent interstitial condensation (mold) between the insulation and the old brick.
+4.  **Pitched Roof Top-up:** Since it has "moderate" insulation, check if it meets current Flemish standards. Adding a layer of blown-in cellulose or wool is a low-cost way to maximize efficiency.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Prevent moisture buildup and mold resulting from a tighter, insulated envelope.*
+
+5.  **Upgrade Ventilation:** Natural ventilation is insufficient for a highly insulated home. 
+    *   **Recommendation:** Install a **Balanced Ventilation system with Heat Recovery (HRV)**. This recovers heat from outgoing stale air to warm incoming fresh air, significantly reducing the load on your heating system.
+
+### Phase 3: Heating System Modernization
+*Goal: Switch from fossil fuels to a high-efficiency, low-carbon system.*
+
+6.  **Heat Emission Replacement:** Since your radiators are in poor condition, replace them with **Low-Temperature Radiators** or **Underfloor Heating** (if renovating floors). Heat pumps require larger surface areas to radiate heat effectively at lower temperatures.
+7.  **Heat Generation:** Replace the boiler with an **Air-to-Water Heat Pump**. 
+    *   *Why:* Now that the house is insulated (Phase 1) and the radiators are optimized (Step 6), a heat pump will operate at maximum COP (Coefficient of Performance), drastically lowering your monthly energy bills.
+
+### Phase 4: Renewable Energy Generation
+*Goal: Offset the electricity consumption of the heat pump.*
+
+8.  **Photovoltaic (PV) Panels:** Install solar panels on the pitched roof. This is the final step to move the house toward "Net Zero." The electricity generated will power the heat pump and the ventilation system, shielding you from volatile energy prices.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Action | Impact on EPC | Cost-Effectiveness | Why this order? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Roof & Floor Insulation | High | Very High | Lowest cost per degree of heat saved. |
+| **2** | Wall Insulation | Very High | Medium | Prevents the need for a massive heating system. |
+| **3** | Ventilation (HRV) | Medium | Medium | Essential for health/mold prevention after insulation. |
+| **4** | Heat Pump + New Radiators | High | Medium | Only efficient once the "leakage" is stopped. |
+| **5** | PV Panels | Medium | High | Offsets the electrical load of the new system. |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, apply for the **Mijn VerbouwPremie** (My Renovation Premium). The Flemish government provides significant subsidies for these specific steps (especially insulation and heat pumps), which can drastically reduce the total investment cost. Ensure you hire a certified auditor to document the "before" and "after" EPC scores to maximize your subsidy claims.

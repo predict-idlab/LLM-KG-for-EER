@@ -1,0 +1,37 @@
+To maximize energy efficiency and improve the EPC score (currently 388) in a cost-effective manner, the renovation should follow a "fabric-first" approach. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is a 1951 semi-detached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is a priority as heat rises; insulating the gable roof is one of the most effective ways to lower energy consumption.
+2.  **Insulate Wall Cavities:** All three external walls (Front, Rear, and Right) are full brick and not insulated. **Insulating the wall cavities** is significantly more cost-effective than exterior wall insulation and provides a substantial increase in thermal retention.
+3.  **Insulate Floor Above Basement:** The floor above the basement is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+
+#### Phase 2: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+4.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### Phase 3: High-Efficiency Heating Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the existing radiators/heating systems should be optimized for low-temperature operation to ensure the heat pump operates at maximum efficiency (COP).
+6.  **Place Air-Water Heat Pump:** Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+#### Phase 4: Renewable Energy Integration
+The final step is to transition from reducing energy consumption to generating clean energy on-site.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will significantly reduce operational costs and further improve the EPC label.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **3** | **Low-Temp Emission $\rightarrow$ Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **PV-Panels** | Offsets the electricity consumption of the new heat pump. |
+
+**Cost-Effectiveness Note:** This plan avoids replacing the windows, as they already feature double glazing and are in good condition, focusing instead on the elements with the highest thermal deficit (the roof and walls).

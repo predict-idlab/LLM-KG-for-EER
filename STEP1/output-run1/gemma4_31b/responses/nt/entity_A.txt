@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, the property is a **semi-detached house from 1951** with an energy score of **388 kWh/m²year (Label D)**. The owner's primary motivation is to **improve the EPC label**.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. This ensures that the building's thermal envelope is optimized before investing in expensive heating technology, preventing the installation of an oversized (and thus more expensive) system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Highest ROI)
+The building has significant heat loss through uninsulated structural elements. These should be addressed first.
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the most cost-effective way to reduce energy consumption as heat rises.
+2.  **Insulate Exterior Walls:** All three primary walls (Front, Right, Rear) are full brick and not insulated. Since there is no historical protection, **Exterior Wall Insulation** is recommended to maximize efficiency and avoid losing internal living space.
+3.  **Insulate Floor Above Basement:** The floor is currently not insulated and has no protection constraints. Adding insulation here prevents cold drafts and improves thermal comfort.
+
+#### Phase 2: System Upgrades (Operational Performance)
+Once the heat demand is lowered through insulation, the generation system can be modernized.
+4.  **Replace Boiler with Air-Water Heat Pump:** The owner has expressed a desire to change the emission system. Since geothermal options are unavailable and there is no heat grid, an **Air-Water Heat Pump** is the most efficient sustainable alternative. 
+    *   *Note:* By insulating first, the required capacity (and cost) of the heat pump will be significantly lower.
+5.  **Upgrade to Ventilation System D:** With a highly insulated envelope, natural ventilation (System A) may be insufficient. Upgrading to **System D (Mechanical supply and exhaust)** will improve air quality and allow for heat recovery.
+
+#### Phase 3: Energy Generation & Final Touches
+6.  **Install PV Panels on Roof:** The building has confirmed potential for PV. Installing solar panels now will offset the electricity costs of the new heat pump and ventilation system, drastically lowering the long-term operational cost.
+7.  **Glazing Review:** The windows are already double-glazed with frames in good condition. To remain cost-effective, I recommend **maintaining the current windows** rather than replacing them, as the ROI on triple glazing is lower once the walls and roof are already insulated.
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Intervention | Logic |
+| :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Wall $\rightarrow$ Floor Insulation** | Reduces total energy demand; prevents "over-specing" the heating system. |
+| **2** | **Air-Water Heat Pump** | Switches from fossil fuels to a high-efficiency electric system. |
+| **3** | **Ventilation System D** | Ensures healthy indoor air in a now-airtight, insulated home. |
+| **4** | **PV Panels** | Transitions the home from an energy consumer to a partial producer. |
+
+**Estimated Outcome:** This path will significantly lower the energy score from **388 (Label D)** toward **Label B or A**, directly satisfying the owner's motivation while ensuring each Euro spent provides the maximum possible reduction in kWh/m²year.

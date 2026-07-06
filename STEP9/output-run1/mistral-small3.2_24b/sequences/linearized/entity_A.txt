@@ -1,0 +1,14 @@
+1. replace flat roof (roofextension)
+2. insulate gable roof (roofmain)
+3. place roof underlayment
+4. remove asbestos flat roof
+5. insulate wall cavity (wall_front, wall_right, wall_rear)
+6. insulate exterior walls
+7. replace glazing (windowslivingarea, windowsbedrooms)
+8. replace window frames
+9. replace ventilation system (ventilationsystema)
+10. install air-water heat pump
+11. install heat pump boiler
+12. install pv-panels roof
+13. connect heat grid
+14. install sunshades

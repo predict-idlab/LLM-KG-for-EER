@@ -1,0 +1,34 @@
+Based on the provided building data and the RENO ontology, the property is an attached building from 1832 with an EPC score of 262 (C Label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Fabric First"** principle: reducing the energy demand of the building envelope before upgrading the technical installations. This prevents the installation of oversized heating systems and ensures the highest return on investment.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The building has significant heat loss through several uninsulated elements. Addressing these first is the most effective way to lower the energy score.
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. Since heat rises, this is a critical priority to prevent thermal leakage.
+2.  **Insulate Walls on Exterior:** Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Because they are full brick (not cavity walls), **exterior insulation** is the most effective method to eliminate thermal bridges and significantly improve the EPC score.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts and reduces heat loss to the lower level.
+*Note: The main gable roof is already moderately insulated and the windows are double-glazed with frames in a "Good State," so these are not prioritized for replacement to maintain cost-effectiveness.*
+
+#### Phase 2: Ventilation Upgrade (Priority: Medium)
+Once the building envelope is sealed through insulation, the natural air exchange rate will decrease.
+4.  **Replace Ventilation System:** The current `VentilationSystemA` (natural) should be upgraded to a more efficient system (such as System C or D). This is essential to prevent moisture buildup and maintain indoor air quality in a now-insulated home.
+
+#### Phase 3: High-Efficiency Heating Transition (Priority: Medium)
+With a reduced heat demand, the building can now transition from a traditional boiler to a sustainable, low-temperature system.
+5.  **Place Emission System on Low Temperature:** Before installing a new generator, the existing radiators should be upgraded to low-temperature emissions. This ensures the new heat pump operates at its maximum efficiency (Coefficient of Performance).
+6.  **Place Air-Water Heat Pump:** Given that there is no heat grid and no potential for geothermal energy, an **Air-Water Heat Pump** is the most viable and sustainable replacement for the existing boiler.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To further lower the energy score and offset the electricity consumption of the new heat pump.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide renewable energy to power the heat pump and ventilation system, potentially moving the EPC label toward the A or B range.
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Flat Roof $\rightarrow$ Exterior Walls $\rightarrow$ Floor)** | Drastically reduces the total energy demand of the house. |
+| **2** | **Ventilation Upgrade** | Prevents humidity and ensures air quality in a sealed envelope. |
+| **3** | **Low-Temp Emission $\rightarrow$ Air-Water Heat Pump** | Switches to a sustainable energy source optimized for the new lower demand. |
+| **4** | **PV Panels** | Offsets operational energy costs with renewable generation. |

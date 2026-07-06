@@ -1,0 +1,38 @@
+Based on the provided building data and the RENO ontology, the building is already in an excellent state (constructed in 2023) with an energy score of 50 (A label). However, there is a specific trigger for renovation: the building has a documented **reason to change the emission system**, and the main roof is only **moderately insulated**.
+
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the "fabric-first" approach—optimizing the building envelope before upgrading the technical installations.
+
+### Proposed Renovation Path
+
+#### Step 1: Envelope Optimization (Roof)
+The main roof is currently "moderately insulated," while the walls and floors are already "well insulated." To reduce the overall thermal load on the heating system, the roof should be the first priority.
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** Improving the gable roof to a "well insulated" grade prevents heat loss from the top of the building, ensuring that the subsequent heating system is sized correctly and operates more efficiently.
+*   **Cost-Effectiveness:** This is a targeted upgrade focusing only on the one element that is not yet fully optimized.
+
+#### Step 2: Heating Generation Upgrade
+The building currently utilizes electric convectors (which are highly inefficient) and has a flag indicating the emission system needs changing. Since geothermal potential is absent and no heat grid is available, an air-to-water system is the most logical high-efficiency choice.
+*   **Action:** `place air-water heatpump`
+*   **Reasoning:** Replacing inefficient electric heating with a heat pump significantly reduces primary energy consumption. Because the building already has floor heating, it is perfectly suited for the low-temperature output of a heat pump.
+*   **Ordering:** This follows the roof insulation to ensure the heat pump doesn't have to work harder than necessary to compensate for roof heat loss.
+
+#### Step 3: Emission System Tuning
+To maximize the Coefficient of Performance (COP) of the new heat pump, the system that delivers the heat must be optimized for low temperatures.
+*   **Action:** `place emission system on low temperature`
+*   **Reasoning:** Heat pumps are significantly more efficient when delivering water at lower temperatures. Tuning the emission system ensures the maximum possible energy savings from the investment made in Step 2.
+
+---
+
+### Summary of the Plan
+
+| Sequence | Renovation Action | Target Element | Priority | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | Main Roof | High | Reduces thermal load |
+| **2** | `place air-water heatpump` | Generation System | High | Switches to high-efficiency energy source |
+| **3** | `place emission system on low temperature` | Emission System | Medium | Maximizes heat pump efficiency |
+
+**Excluded Actions & Justification:**
+*   **Wall/Floor Insulation:** Skipped, as these are already "well insulated."
+*   **Window Replacement:** Skipped; frames are in "good state" and double glazing is already present in a 2023 build.
+*   **PV Panels:** Skipped, as the building data explicitly states `hasPotentialForPV: false`.
+*   **Geothermal:** Skipped, as site data confirms no potential for horizontal or vertical drilling.

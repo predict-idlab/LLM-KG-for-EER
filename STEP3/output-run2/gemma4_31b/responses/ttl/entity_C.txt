@@ -1,0 +1,43 @@
+Based on the provided ontology and the specific data for the building, here is the proposed renovation plan.
+
+### Building Analysis
+The building is a very modern **Attached Building (constructed in 2023)** with an already excellent energy profile (**EPC Score: 50.0**, which falls under the **A label**). Most elements—including the front and rear walls, the floor above the basement, and the flat roof extension—are already **Well Insulated**. The ventilation system is already a **Type D** (the most efficient mechanical system).
+
+However, there are two primary areas for improvement to further maximize energy efficiency and satisfy the owner's motivation to improve the EPC:
+1.  **The Roof:** The main gable roof is only **Moderately Insulated**.
+2.  **The Heating System:** The building currently uses **Electric Convectors** (which are energy-intensive) and the owner has explicitly indicated a **reason to change the emission system**.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the following sequence is recommended. We follow the "Fabric First" principle: improving the building envelope before upgrading the technical installations to ensure the new systems are sized correctly and operate at peak efficiency.
+
+#### Step 1: Enhance the Thermal Envelope
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** While most of the house is well-insulated, the main gable roof is the "weak link" (Moderately Insulated). Improving this first reduces the overall heat loss of the building, which minimizes the capacity (and cost) required for the heating system in the next step.
+*   **Constraint Check:** No asbestos is mentioned for the roof, and the state is "Good," making this a straightforward upgrade.
+
+#### Step 2: Upgrade the Heat Generation System
+*   **Action:** `place air-water heatpump`
+*   **Reasoning:** The current use of electric convectors is inefficient. An air-water heat pump is the most logical upgrade because the building already possesses **Floor Heating** (a low-temperature emission system), which is the ideal partner for a heat pump to achieve maximum COP (Coefficient of Performance).
+*   **Constraint Check:** 
+    *   *Geothermal:* Ruled out (Site potential for horizontal and vertical drilling is `false`).
+    *   *Heat Grid:* Ruled out (Presence of heat grid is `false`).
+    *   *Air-Water:* This is the most efficient viable alternative.
+
+#### Step 3: Optimize Domestic Hot Water
+*   **Action:** `place heatpumpboiler`
+*   **Reasoning:** To further decouple the building from inefficient electric heating and improve the EPC, a dedicated heat pump boiler for domestic hot water should be installed. This complements the air-water heat pump for space heating.
+
+---
+
+### Summary of Exclusions (Cost-Effectiveness & Constraints)
+*   **PV Panels:** Although typically high-value, the building data explicitly states `reno:hasPotentialForPV false`. Therefore, `place PV-panels on roof` and `place PV-panels in garden` are excluded.
+*   **Windows:** The building has `DoubleGlazing` in `GoodState` and was built in 2023. Upgrading to triple glazing at this stage would provide diminishing returns relative to the cost, given the already high EPC.
+*   **Wall/Floor Insulation:** These are already `WellInsulated`; further investment here would not be cost-effective.
+
+### Final Sequence Summary
+1.  **`insulate gable roof`** $\rightarrow$ (Reduce heat demand)
+2.  **`place air-water heatpump`** $\rightarrow$ (Efficient space heating via existing floor heating)
+3.  **`place heatpumpboiler`** $\rightarrow$ (Efficient water heating)

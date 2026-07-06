@@ -1,0 +1,61 @@
+Based on the provided building data and the RENO ontology, the property is a detached building from 1862 with an EPC score of 165 (B Label). The owner's primary motivation is to improve the EPC rating. The building has a significant potential for energy efficiency improvements due to its age and the state of its building elements.
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+Proposed Renovation Path
+
+Phase 1: Strengthening the Building Envelope (Priority: High)
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+1. **Insulate Wall Cavity:** All four external walls (`Wall_Front`, `Wall_Rear`, `Wall_Left`, `Wall_Right`) are cavity walls and not insulated. Insulating the cavity is the most effective method to eliminate thermal bridges in this case.
+2. **Insulate Floor Above Crawl Space:** The `FloorAboveCrawlSpace` is currently not insulated. Adding insulation here prevents cold drafts from the crawl space.
+
+Phase 2: Window Performance (Priority: Medium)
+The window performance should be enhanced, since the single glazing leads to significant heat losses.
+3. **Replace Glazing:** All glazing should be replaced, as all windows still have single glazing. Adding double or even triple glazing would drastically improve the thermal performance.
+
+Phase 3: Heating & Emission System Transition (Priority: Medium)
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+4. **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+5. **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+6. **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+Phase 5: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+7. **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+Summary of Optimal Sequence
+**Wall Cavity Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Glazing Replacement** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels** $\rightarrow$ **Ventilation Upgrade**.
+
+### Actionable Steps:
+1. **Insulate Wall Cavity:**
+   - **Action:** Hire a contractor to inspect the cavity walls and confirm their suitability for insulation.
+   - **Note:** Ensure the insulation material chosen is vapor-permeable to prevent condensation issues.
+
+2. **Insulate Floor Above Crawl Space:**
+   - **Action:** Apply insulation material (e.g., rigid foam boards) to the underside of the floor above the crawl space.
+   - **Note:** Install a vapor barrier on the warm side of the insulation to prevent moisture buildup.
+
+3. **Replace Glazing:**
+   - **Action:** Replace all single-glazed windows with double-glazed units. Ensure the new glazing meets the required U-value for the region.
+   - **Note:** Verify that the window frames are in good condition and compatible with the new glazing units.
+
+4. **Install Air-Water Heat Pump:**
+   - **Action:** Consult with a certified HVAC professional to select and install an appropriately sized air-water heat pump.
+   - **Note:** Ensure the system is compatible with the existing low-temperature emission system.
+
+5. **Place Emission System on Low Temperature:**
+   - **Action:** Modify the existing radiators to operate at lower temperatures (e.g., by adding larger radiators or underfloor heating).
+   - **Note:** Work with the HVAC professional to ensure the emission system is optimized for the heat pump's output.
+
+6. **Install PV Panels:**
+   - **Action:** Contact a solar energy provider to design and install a rooftop PV system that maximizes solar gain based on the roof's orientation and shading.
+   - **Note:** Ensure the PV system is connected to the grid and complies with local regulations.
+
+7. **Upgrade Ventilation System:**
+   - **Action:** Install a mechanical ventilation system with heat recovery (MVHR) to maintain indoor air quality while minimizing heat loss.
+   - **Note:** Ensure the new system is properly balanced and integrated with the existing heating system.
+
+By following this plan, the building's energy efficiency will be significantly improved, leading to a better EPC label and reduced energy costs for the owner.

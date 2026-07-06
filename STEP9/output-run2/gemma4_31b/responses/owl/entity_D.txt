@@ -1,0 +1,58 @@
+### Analysis of Building State
+The building is a relatively modern semi-detached house (constructed in 2017) with an already high level of energy efficiency, as evidenced by its **EPC score of 87**. 
+
+**Current Strengths:**
+*   **Walls & Floors:** All exterior walls and the floor above the basement are already "Well Insulated."
+*   **Roofing:** The flat roof extension is "Well Insulated."
+*   **Systems:** The home is already equipped with a Heat Pump (Generation System), PV Panels, and a high-efficiency Ventilation System D.
+*   **Windows:** Existing windows feature wooden frames and double glazing.
+
+**Identified Weaknesses:**
+*   **Main Roof:** The gable roof is only "Moderately Insulated," representing the primary area for thermal improvement.
+*   **Glazing:** While double glazing is present, upgrading to triple glazing is the remaining path to further lower the EPC score.
+
+---
+
+### Proposed Renovation Plan
+
+Given the owner's motivation **"To Improve EPC"** and the building's already high performance, the focus is on "fine-tuning" the thermal envelope. Because the house is modern, we avoid invasive structural changes and focus on high-impact, low-nuisance upgrades.
+
+#### Step 1: Thermal Envelope Optimization (Roof)
+**Action: Insulate Gable Roof**
+*   **Reasoning:** This is the only major building element not yet "Well Insulated." Since the roof is in good state, adding insulation is the most cost-effective way to reduce heat loss.
+*   **Ordering:** 28 (Priority: High)
+*   **Cost:** €60/m²
+*   **Nuisance Level:** Low
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### Step 2: Glazing Upgrade
+**Action: Replace Glazing (Upgrade to Triple Glazing)**
+*   **Reasoning:** To move the EPC score from the 80s into the top tier (A+), the thermal transmittance of the windows must be reduced. Since the wooden frames are in "Good State," replacing only the glass (glazing) is significantly more cost-effective than replacing entire window units.
+*   **Ordering:** 43 (Priority: Medium)
+*   **Cost:** €200/m²
+*   **Nuisance Level:** High
+*   **Point of Attention:** Verify that the existing wooden frames have sufficient thickness to support the increased weight and depth of triple-pane glass.
+
+#### Step 3: Passive Energy Management
+**Action: Place Sunshades**
+*   **Reasoning:** With a high-efficiency envelope and a heat pump, preventing summer overheating is crucial to avoid the need for energy-intensive air conditioning. This is a low-cost addition that improves long-term operational performance.
+*   **Ordering:** 79 (Priority: Low)
+*   **Cost:** €750 (Fixed)
+*   **Nuisance Level:** Low
+*   **Point of Attention:** Opt for outdoor blinds, as they are more efficient at blocking solar gain than indoor options.
+
+---
+
+### Summary of Operational Path
+
+| Sequence | Action | Impact | Cost Profile | Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High $\Delta$ Energy | Low (€60/m²) | Low |
+| **2** | **Replace Glazing** | Medium $\Delta$ EPC | Medium (€200/m²) | High |
+| **3** | **Place Sunshades** | High Comfort | Low (€750) | Low |
+
+**Excluded Actions:** 
+*   *Wall/Floor Insulation:* Already well-insulated.
+*   *PV Panels:* Building has no further potential for PV.
+*   *Heat Grid/Geothermal:* Site constraints (potential = false) and existing heat pump make these unnecessary.
+*   *Asbestos Removal:* Not applicable for a 2017 construction.

@@ -1,0 +1,72 @@
+### Renovation Plan:
+
+**Building Information:**
+- **Construction Year:** 2023
+- **EPC Score:** 50
+- **Net Floor Area:** 159 m²
+- **Building Type:** Attached
+- **Potential for PV:** False
+- **Potential for Geothermal:** False
+- **Presence of Heat Grid:** False
+- **Reason to Change Emission System:** True
+
+**Key Elements:**
+1. **Roof Main:**
+   - **Type:** Gable Roof
+   - **Insulation Grade:** Moderately Insulated
+   - **State:** Good
+2. **Roof Extension:**
+   - **Type:** Flat Roof
+   - **Insulation Grade:** Well Insulated
+   - **State:** Good
+3. **Walls:**
+   - **Front Wall:** Full Brick Wall, Well Insulated
+   - **Rear Wall:** Full Brick Wall, Well Insulated
+4. **Floor Above Basement:**
+   - **Insulation Grade:** Well Insulated
+5. **Windows:**
+   - **Living Area Windows:** Double Glazing, Wooden Frames
+   - **Bedrooms Windows:** Double Glazing, Wooden Frames
+6. **Ventilation System:** Ventilation System D
+7. **Emission System:** Electric Convector
+8. **Generation System:** Boiler
+9. **PV Panels:** Present
+
+**Renovation Motivation:**
+- **Primary Goal:** Improve EPC
+
+---
+
+### Proposed Renovation Path:
+
+**Phase 1: Upgrade Insulation (High Priority)**
+1. **Insulate Flat Roof (Roof Extension):**
+   - **Action:** Insulate the flat roof to further improve insulation performance.
+   - **Rationale:** The flat roof is currently well insulated, but upgrading it will enhance thermal performance and reduce heat loss.
+
+**Phase 2: Enhance Window Performance (Medium Priority)**
+2. **Replace Glazing (Living Area and Bedrooms):**
+   - **Action:** Replace double glazing with triple glazing to reduce heat loss and improve thermal comfort.
+   - **Rationale:** Upgrading from double to triple glazing will significantly improve the thermal performance of the windows, reducing heat loss and enhancing indoor comfort.
+
+**Phase 3: Transition to High-Efficiency Heating (Medium Priority)**
+3. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Rationale:** Given the absence of geothermal potential and heat grid, an air-water heat pump is the most sustainable and efficient heating solution. It will work well with the improved insulation and triple-glazed windows.
+
+**Phase 4: Improve Air Quality and Ventilation (Medium Priority)**
+4. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System D to a more efficient system (such as System C).
+   - **Rationale:** Upgrading the ventilation system will ensure proper air exchange, maintain indoor air quality, and prevent moisture buildup in the well-insulated and sealed building.
+
+**Phase 5: Sustainable Energy Generation (Long-term Priority)**
+5. **Place PV Panels on Roof:**
+   - **Action:** Install photovoltaic panels on the gable roof.
+   - **Rationale:** Although the building has no potential for PV, installing solar panels will provide renewable electricity to power the heat pump and other electrical systems, further reducing the carbon footprint.
+
+---
+
+### Summary of Optimal Sequence:
+**Insulate Flat Roof** $\rightarrow$ **Replace Glazing** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **PV Panels**.
+
+This plan ensures that the building's thermal envelope is optimized before transitioning to high-efficiency heating systems, maximizing energy savings and improving the EPC score in a cost-effective manner.

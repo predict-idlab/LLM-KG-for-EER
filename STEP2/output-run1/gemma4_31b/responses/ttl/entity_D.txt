@@ -1,0 +1,43 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation plan.
+
+### **Executive Summary**
+The building is a relatively modern semi-detached house (constructed in 2017) with an already high energy efficiency rating (**EPC Score: 87.0**, which falls under **Label A**). Most building elements—including the walls, flat roof extension, and floor above the basement—are already "Well Insulated." The owner's primary motivation is to further improve the EPC. 
+
+Because the building is already highly efficient, the focus shifts from major overhauls to **targeted "fine-tuning"** of the remaining moderately insulated components to maximize the energy-to-cost ratio.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Priority 1: Thermal Envelope Optimization (High Impact/Cost-Effective)**
+The only significant thermal weakness in the building envelope is the main gable roof.
+*   **Action:** **Insulate Gable Roof**
+*   **Justification:** While the flat roof and walls are "Well Insulated," the **RoofMain (Gable Roof)** is currently only **"Moderately Insulated."** Heat loss through the roof is one of the most significant factors in energy consumption. Upgrading this to a "Well Insulated" state is the most direct way to lower the energy score further.
+*   **Practical Note:** Ensure a vapor barrier is installed on the warm side of the insulation to prevent condensation, as per the ontology's point of attention.
+*   **Cost/Nuisance:** This is a low-nuisance intervention with a moderate unit price (60/m²), making it highly cost-effective.
+
+#### **Priority 2: Glazing Upgrade (Optional/Long-term)**
+*   **Action:** **Replace Glazing** (Upgrade from Double to Triple Glazing)
+*   **Justification:** The building currently has double glazing. While sufficient for an "A" label, moving to triple glazing would further reduce heat loss and improve thermal comfort.
+*   **Constraint:** This is a higher-cost intervention (200/m²) and has a high nuisance level. Given that the building is already very efficient, this should only be pursued if the budget allows after the roof is addressed.
+
+---
+
+### **Elements Excluded from the Plan (and Why)**
+
+*   **Wall Insulation:** All walls (Front, Left, Rear) are already **Well Insulated**. Further insulation would provide negligible returns.
+*   **Floor Insulation:** The floor above the basement is already **Well Insulated**.
+*   **Flat Roof:** The roof extension is already **Well Insulated** and in **Good State**.
+*   **Heating/Generation System:** The building already utilizes a **Heat Pump** and a **Ventilation System D** (the most advanced mechanical supply/exhaust system). There is no reason to change the emission system (`hasReasonToChangeEmissionSystem false`).
+*   **Renewable Energy (PV):** The building data explicitly states `hasPotentialForPV false`, making the installation of solar panels unfeasible.
+*   **Geothermal:** The site data explicitly states that there is no potential for either horizontal or vertical geothermal captation.
+
+---
+
+### **Optimal Execution Sequence**
+
+1.  **Step 1: Insulate Gable Roof** $\rightarrow$ This provides the immediate "biggest win" for the EPC score with the lowest relative cost and nuisance.
+2.  **Step 2: Replace Glazing** $\rightarrow$ Only if further marginal gains are desired and budget is available.
+
+### **Final Assessment**
+By focusing exclusively on the **Gable Roof**, the owner can move the building from a "Good" energy state to an "Excellent" one without wasting capital on elements that are already performing optimally. This path maximizes energy efficiency while remaining strictly cost-effective.

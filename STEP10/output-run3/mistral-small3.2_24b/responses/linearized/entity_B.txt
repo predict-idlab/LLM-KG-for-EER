@@ -1,0 +1,53 @@
+### Renovation Plan
+
+**Building Overview:**
+- **Type:** Attached Building
+- **Year Built:** 1832
+- **Current EPC Score:** 262 (C Label)
+- **Primary Goal:** Improve EPC Label
+- **Key Issues:**
+  - Non-insulated walls (Front and Rear)
+  - Non-insulated floor above basement
+  - Non-insulated flat roof (RoofExtension)
+  - Existing ventilation system (Type A)
+
+**Proposed Renovation Path:**
+
+1. **Insulate Walls on Exterior (Priority: High)**
+   - **Action:** Insulate both `Wall_Front` and `Wall_Rear` on the exterior.
+   - **Rationale:** These walls are full brick and not insulated, leading to significant heat loss. Exterior insulation is the most effective method to eliminate thermal bridges and improve the building's thermal envelope.
+
+2. **Insulate Floor Above Basement (Priority: High)**
+   - **Action:** Insulate the `FloorAboveBasement`.
+   - **Rationale:** The floor is currently not insulated, leading to cold drafts from the basement. Insulating this floor will prevent heat loss and improve thermal comfort.
+
+3. **Insulate Flat Roof (Priority: High)**
+   - **Action:** Insulate the `RoofExtension`.
+   - **Rationale:** The flat roof is currently not insulated, and heat rises rapidly through flat sections. Insulating the roof will significantly reduce heat loss.
+
+4. **Replace Ventilation System (Priority: Medium)**
+   - **Action:** Upgrade from Ventilation System A to a more efficient system (such as System C or D).
+   - **Rationale:** The existing ventilation system (Type A) is not sufficient to maintain air quality in a now-sealed envelope. Upgrading the ventilation system will ensure proper air exchange and prevent moisture buildup.
+
+5. **Place Air-Water Heat Pump (Priority: Medium)**
+   - **Action:** Install an Air-Water Heat Pump.
+   - **Rationale:** The building has no potential for geothermal energy and no heat grid. An Air-Water Heat Pump is the most viable and efficient alternative to the existing boiler, providing sustainable heating.
+
+6. **Place Emission System on Low Temperature (Priority: Medium)**
+   - **Action:** Transition the current radiators to low-temperature emissions.
+   - **Rationale:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+7. **Place PV-Panels on Roof (Priority: Long-term)**
+   - **Action:** Install solar panels on the roof.
+   - **Rationale:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system, further improving the EPC label.
+
+**Summary of Optimal Sequence:**
+1. **Insulate Exterior Walls**
+2. **Insulate Floor Above Basement**
+3. **Insulate Flat Roof**
+4. **Upgrade Ventilation System**
+5. **Install Air-Water Heat Pump**
+6. **Transition to Low-Temperature Emissions**
+7. **Install PV Panels**
+
+This sequence ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system. It also focuses on cost-effective measures that provide the highest return on investment.

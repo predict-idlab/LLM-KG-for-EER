@@ -1,0 +1,43 @@
+Based on the information provided, here's a step-by-step renovation plan tailored to your semi-detached house in Ghent, Belgium, focusing on energy efficiency and cost-effectiveness:
+
+### 1. **Insulation Upgrades (Prioritize High Impact Areas)**
+   - **Exterior Walls**: Install external wall insulation (EWI) to solid brick walls. This is a high-impact area for heat loss and will significantly improve the building's thermal performance.
+   - **Roof Insulation**: Insulate the pitched roof with high-performance insulation materials. The flat-roof extension already has moderate insulation, so focus on the pitched roof.
+   - **Floor Insulation**: Insulate the floor above the basement to prevent heat loss through the ground.
+
+   *Why first?* Insulation is the foundation of energy efficiency and will maximize the effectiveness of subsequent upgrades like heating systems.
+
+### 2. **Heating System Replacement**
+   - Replace the old boiler with a modern, high-efficiency condensing boiler.
+   - Upgrade the heat emission systems (radiators, underfloor heating, and air heating) to more efficient models. Consider low-temperature systems like underfloor heating to pair well with the new boiler.
+   - *Optional*: If budget allows, explore the possibility of a heat pump (air-source or hybrid), but ensure the house is well-insulated first to make this investment worthwhile.
+
+### 3. **Ventilation Upgrade**
+   - Replace the basic natural ventilation system with a **mechanical ventilation system with heat recovery (MVHR)**. This will improve indoor air quality while recovering heat from exhausted air, reducing heating demands.
+
+### 4. **Photovoltaic (PV) Panels**
+   - Install PV panels on the roof to generate renewable electricity. Given your location in Belgium, this is a practical and cost-effective way to reduce energy bills and carbon footprint.
+
+### 5. **Window Upgrades (If Needed)**
+   - Although your windows already have double glazing, consider upgrading to **triple glazing** or **high-performance double glazing** if you notice significant heat loss or drafts. However, this is a lower priority compared to insulation and heating upgrades.
+
+### 6. **Smart Thermostat and Controls**
+   - Install a smart thermostat to optimize heating schedules and reduce energy waste. This is a low-cost upgrade with high impact on energy savings.
+
+### 7. **Air Sealing**
+   - Ensure the house is properly air-sealed after insulation upgrades to prevent drafts and heat loss. Focus on areas around windows, doors, and gaps in the roof/floor.
+
+### Optimal Sequence for Maximum Benefits:
+1. **Insulate exterior walls, roof, and floor** (foundation for efficiency).
+2. **Replace heating system** (new boiler + efficient heat emitters).
+3. **Upgrade ventilation to MVHR** (improves air quality and retains heat).
+4. **Install PV panels** (generate renewable energy).
+5. **Upgrade windows if necessary** (lower priority but can further reduce heat loss).
+6. **Add smart controls** (optimize energy use).
+
+### Estimated Impact:
+- **Energy Performance Certificate (EPC)**: Significant improvement, potentially bringing the score below 150 (Belgian target for near-zero energy buildings).
+- **Cost Savings**: Reduced heating bills and lower energy consumption.
+- **Comfort**: Better indoor air quality and consistent temperatures.
+
+This plan balances immediate energy savings with long-term performance improvements.

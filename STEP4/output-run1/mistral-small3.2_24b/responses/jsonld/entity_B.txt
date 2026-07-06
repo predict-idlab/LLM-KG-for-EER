@@ -1,0 +1,54 @@
+### Renovation Plan for the Attached Building (1832, 212 m²)
+
+**Motivation:** The owner seeks to improve the EPC label from **C** (262 kWh/m²/year) to **B** or better.
+
+**Key Challenges:**
+- Historical building (1832) with mostly uninsulated elements.
+- High potential for heat loss through walls, roof, and floor.
+- No geothermal or heat grid access; PV potential is high.
+
+**Optimal Renovation Sequence:**
+
+1. **Insulate Walls on Exterior (Priority)**
+   - *Action:* Insulate `Wall_Front` and `Wall_Rear` using exterior cladding.
+   - *Rationale:* Full brick walls are not cavity walls, so exterior insulation is the most effective solution. This prevents thermal bridges and reduces heat loss significantly.
+
+2. **Insulate Flat Roof (Priority)**
+   - *Action:* Insulate `RoofExtension` using an inverted roof structure with insulation on top of the roof covering.
+   - *Rationale:* Flat roofs are particularly prone to heat loss. Insulating the roof extension is crucial for thermal retention.
+
+3. **Insulate Floor Above Basement**
+   - *Action:* Add insulation to the `FloorAboveBasement`.
+   - *Rationale:* Prevents cold drafts from the basement and improves overall thermal comfort.
+
+4. **Upgrade Ventilation System**
+   - *Action:* Replace the existing Ventilation System A with a more efficient system (e.g., System C or D).
+   - *Rationale:* Ensures proper air exchange in a now-sealed envelope, maintaining indoor air quality.
+
+5. **Transition to Low-Temperature Emissions**
+   - *Action:* Modify the existing radiators to work with low-temperature emissions.
+   - *Rationale:* Prepares the building for a heat pump by ensuring compatibility with low-temperature heating.
+
+6. **Install Air-Water Heat Pump**
+   - *Action:* Replace the existing boiler with an Air-Water Heat Pump.
+   - *Rationale:* Heat pumps are highly efficient and suitable for the building’s reduced heat demand after insulation.
+
+7. **Install PV Panels on Roof**
+   - *Action:* Place PV panels on the `RoofMain` (gable roof) to offset the heat pump’s electricity consumption.
+   - *Rationale:* Leverages the building’s high PV potential to generate renewable energy for the heat pump and other loads.
+
+**Cost-Effectiveness & Long-Term Benefits:**
+- **Insulate First:** Reduces the building’s overall heat demand, making subsequent heating system upgrades more efficient and cost-effective.
+- **PV Integration:** Offsets the electricity consumption of the heat pump, further lowering operational costs.
+- **Sequential Upgrades:** Each phase builds upon the previous one to ensure maximum energy efficiency and cost savings.
+
+**Summary of Sequence:**
+1. Insulate Exterior Walls
+2. Insulate Flat Roof
+3. Insulate Floor
+4. Upgrade Ventilation
+5. Modify Emission System
+6. Install Heat Pump
+7. Install PV Panels
+
+This plan ensures a structured, cost-effective approach to improving the building’s EPC label while maximizing energy efficiency and long-term savings.

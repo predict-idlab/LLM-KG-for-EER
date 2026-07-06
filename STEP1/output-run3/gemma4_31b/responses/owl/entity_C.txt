@@ -1,0 +1,43 @@
+Based on the provided RENO ontology and the building data, the property is a modern (2023), highly efficient attached building with an EPC score of 50 (A label). Most structural elements (walls, floor, flat roof) are already "Well Insulated." 
+
+However, the building owner's motivation is to further improve the EPC, and there is an explicit "reason to change the emission system," as the current heating relies on electric convectors, which are energy-intensive and less cost-effective over time.
+
+To maximize energy efficiency while remaining cost-effective, I propose the following **"Fabric First, then Systems"** renovation path.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (The Shell)
+Before upgrading heating systems, we must ensure the building envelope is as tight as possible to reduce the required capacity of the new system.
+*   **Action: Insulate Gable Roof**
+    *   **Reasoning:** While the flat roof is well-insulated, the main gable roof is only "Moderately Insulated." Upgrading this is the most logical first step to prevent heat loss through the top of the house.
+    *   **Ontology Reference:** `InsulateGableRoof` (Ordering: 28).
+    *   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### Phase 2: High-Efficiency Heating Transition (The Systems)
+The building currently uses electric convectors and floor heating. Since the owner has a reason to change the emission system and the site lacks potential for geothermal drilling, we transition to an air-source system.
+*   **Action: Install Air-Water Heat Pump**
+    *   **Reasoning:** This is the most energy-efficient alternative to electric convectors. It integrates perfectly with the existing floor heating system to provide low-temperature heating, significantly lowering operational energy costs.
+    *   **Ontology Reference:** `PlaceAirWaterHeatpump` (Ordering: 67).
+    *   **Practical Note:** Verify that the above-ground unit is placed at least 2m from the parcel boundary to comply with Flanders regulations.
+
+#### Phase 3: Domestic Hot Water Optimization
+To finalize the transition to a sustainable energy profile, the water heating system should be decoupled from general space heating.
+*   **Action: Install Heat Pump Boiler**
+    *   **Reasoning:** Replacing traditional boiler functions with a heat pump boiler for domestic hot water further reduces electricity consumption compared to standard electric heating.
+    *   **Ontology Reference:** `PlaceHeatPumpBoiler` (Ordering: 76).
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Renovation Step | Priority | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Reduces heat loss | High (Low nuisance, high ROI) |
+| **2** | **Air-Water Heat Pump** | High | Lowers energy consumption | High (Long-term OPEX reduction) |
+| **3** | **Heat Pump Boiler** | Medium | Optimizes water heating | Medium (Incremental efficiency gain) |
+
+### Exclusions & Justifications
+*   **Wall/Floor Insulation:** Excluded. Both are already marked as `WellInsulated`.
+*   **Window Replacement:** Excluded. The building is from 2023 and already has double glazing in a good state; replacing these would not be cost-effective for a marginal EPC gain.
+*   **Geothermal Systems:** Excluded. The site data explicitly states `potentialForVerticalGeothermalDrilling` and `potentialForHorizontalGeothermalCaptation` are **false**.
+*   **PV Panels:** Excluded. The building already has PV panels, and `hasPotentialForPV` is marked as **false** (indicating no further capacity for expansion).

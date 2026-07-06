@@ -1,0 +1,39 @@
+To maximize energy efficiency and improve the EPC label (currently **D**, score 388) for this 1951 semi-detached building, the renovation should follow the "fabric first" principle: reduce heat loss through the building envelope before upgrading the heating generation system.
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Building Envelope (The "Shell")**
+*Goal: Minimize thermal leakage to reduce the load on future heating systems.*
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently not insulated. As heat rises, this is the most critical point of energy loss. Insulating the gable roof is a high-impact, cost-effective first step.
+2.  **Insulate Wall Exterior:** All three main walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`) are full brick and not insulated. Since there is no historical protection, exterior insulation is the most effective way to significantly drop the EPC score and prevent thermal bridging.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. Adding insulation here prevents heat loss to the basement and improves the thermal comfort of the living spaces.
+
+#### **Phase 2: Ventilation & Air Quality**
+*Goal: Ensure a healthy indoor climate after the house is sealed with insulation.*
+
+4.  **Replace Ventilation System:** The building currently uses `VentilationSystemA` (natural supply/exhaust), which is the least efficient. Upgrading to a more modern system (e.g., System B or C) will reduce heat loss associated with uncontrolled air infiltration.
+
+#### **Phase 3: Heating Generation & Emission**
+*Goal: Transition from fossil fuels to high-efficiency electric heating.*
+
+5.  **Place Emission System on Low Temperature:** To maximize the efficiency of a heat pump, the emission system (currently radiators/air heating) should be optimized. Upgrading to low-temperature emitters ensures the heat pump doesn't have to work harder (and consume more energy) to reach the setpoint.
+6.  **Place Air-Water Heat Pump:** With no potential for geothermal drilling or access to a heat grid, an air-water heat pump is the most viable and cost-effective alternative to the current boiler. This directly addresses the owner's motivation to improve the EPC.
+
+#### **Phase 4: Renewable Energy**
+*Goal: Offset the electricity consumption of the new heat pump.*
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels is the final step to lower operational costs and move the building toward a more sustainable energy balance.
+
+---
+
+### **Summary of Sequence & Logic**
+
+| Order | Action | Logic |
+| :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Walls $\rightarrow$ Floor Insulation** | Reduces total heat demand; allows for a smaller, cheaper heat pump. |
+| **2** | **Ventilation Upgrade** | Prevents humidity/air quality issues created by a tighter, insulated envelope. |
+| **3** | **Low-Temp Emission $\rightarrow$ Heat Pump** | Ensures the new heating technology operates at peak efficiency. |
+| **4** | **PV-Panels** | Provides "free" energy to power the new electric heating system. |
+
+**Cost-Effectiveness Note:** By insulating the roof and walls first, you avoid over-specifying the capacity of the air-water heat pump, reducing both the initial installation cost and the long-term electricity bill.

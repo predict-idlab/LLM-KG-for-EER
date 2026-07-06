@@ -1,0 +1,11 @@
+{
+  "completeness": {
+    "missing_actions": [],
+    "extra_actions": [
+      "install smart thermostats and zoning controls for optimized heating"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

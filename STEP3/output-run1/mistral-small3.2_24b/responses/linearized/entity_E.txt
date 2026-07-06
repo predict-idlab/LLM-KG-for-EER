@@ -1,0 +1,67 @@
+To create an energy-efficient and cost-effective renovation plan for the given building, we need to analyze the current state of the building and identify the most impactful upgrades. Here's a step-by-step approach:
+
+### Current State Analysis:
+1. **Building Type**: Detached building constructed in 1862.
+2. **Energy Performance**: EPC score of 165 kWh/m²year (F-label).
+3. **Walls**: All external walls (Front, Rear, Left, Right) are cavity walls with insulation grade "NotInsulated".
+4. **Roof**: Gable roof with insulation grade "WellInsulated".
+5. **Windows**:
+   - Living area windows: Wooden frames with single glazing.
+   - Bedroom windows: Wooden frames with single glazing.
+6. **Ventilation System**: Type A (natural air supply and exhaust).
+7. **Heating Systems**:
+   - Floor heating (Electric Convector).
+   - Radiators.
+   - Air heating.
+   - Space heaters.
+8. **Potential for PV**: True.
+9. **Geothermal Potential**: No potential for vertical or horizontal geothermal captation.
+
+### Key Issues:
+1. **Poor Insulation**: All external walls are not insulated, leading to significant heat loss.
+2. **Single Glazing**: Inefficient windows contribute to heat loss and poor thermal comfort.
+3. **Outdated Heating Systems**: Multiple heating systems, some of which are inefficient (e.g., electric convectors).
+4. **High Energy Consumption**: EPC score indicates significant room for improvement.
+
+### Renovation Plan:
+Given the ontology and suggestion list, here's the optimal sequence of upgrades:
+
+1. **Insulate External Walls**:
+   - **Action**: Insulate wall cavity (Wall_Front, Wall_Rear, Wall_Left, Wall_Right).
+   - **Reasoning**: Walls account for ~30% of heat loss in uninsulated homes. Cavity wall insulation is cost-effective and provides significant energy savings.
+   - **Ordering**: 34 (from the ontology).
+
+2. **Replace Windows**:
+   - **Action**: Replace windows with double glazing (WindowsLivingArea, WindowsBedrooms).
+   - **Reasoning**: Single glazing has poor thermal performance. Double glazing can reduce heat loss by up to 50%.
+   - **Ordering**: 46.
+
+3. **Upgrade Heating System**:
+   - **Action**: Place air-water heat pump with cooling.
+   - **Reasoning**: Current heating systems are inefficient. Air-water heat pumps are energy-efficient and can provide both heating and cooling.
+   - **Ordering**: 67.
+
+4. **Improve Ventilation**:
+   - **Action**: Replace ventilation system (from Type A to Type C).
+   - **Reasoning**: Improved ventilation can enhance indoor air quality and thermal comfort.
+   - **Ordering**: 52.
+
+5. **Install Solar Panels**:
+   - **Action**: Place PV-panels on roof.
+   - **Reasoning**: The building has potential for PV, and solar panels can significantly reduce energy consumption.
+   - **Ordering**: 85.
+
+6. **Additional Considerations**:
+   - **Roof Underlayment**: The roof is already well-insulated, but ensuring a proper roof underlayment can prevent heat loss and improve durability.
+   - **Asbestos Removal**: Check for asbestos in the roof before installing solar panels, as required by the ontology.
+
+### Cost-Effectiveness and Energy Efficiency:
+- **Sequencing**: The plan starts with the most cost-effective measures (wall insulation, window replacement) and progresses to more substantial upgrades (heating system, PV panels).
+- **Energy Savings**: Each step is chosen to maximize energy savings while considering the building's specific characteristics.
+- **Compatibility**: The upgrades are compatible with the building's existing structure and local regulations (e.g., permit requirements).
+
+### Final Notes:
+- **Permits**: Some actions may require permits (e.g., wall insulation, heating system replacement), so ensure compliance with local regulations.
+- **Professional Assistance**: For complex tasks like wall insulation and heating system replacement, consult professionals to ensure proper execution.
+
+This plan prioritizes energy efficiency and cost-effectiveness while adhering to the provided ontology and suggestion list.

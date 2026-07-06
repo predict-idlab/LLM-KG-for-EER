@@ -1,0 +1,36 @@
+Given the characteristics of your 1832 attached house in Ghent, Belgium, here’s a practical and cost-effective renovation plan to improve energy efficiency while maximizing long-term operational performance. The plan prioritizes upgrades based on the most impactful and feasible changes, considering the current condition of the house and available options:
+
+### 1. **Improve Insulation (Priority)**
+   - **Exterior Walls**: Since the front and rear walls are uninsulated solid brick walls, consider internal wall insulation (IWI) or external wall insulation (EWI). Given that the house is not historically protected, EWI might be more disruptive but provides better thermal performance and eliminates cold bridges. IWI is less disruptive but may reduce floor space slightly.
+   - **Flat-Roof Extension**: Insulate the flat roof extension to match the moderate insulation level of the main pitched roof. This will reduce heat loss significantly.
+   - **Floor Above Basement**: Insulate the floor above the basement to prevent heat loss through the uninsulated space below.
+
+### 2. **Upgrade Heating System**
+   - Replace the old boiler and radiator system with a modern, high-efficiency condensing boiler. Consider pairing it with smart thermostats and zoning controls to optimize heating.
+   - Alternatively, explore the feasibility of a heat pump system (air-source or hybrid), which can be more energy-efficient in the long run, especially if combined with renewable energy sources.
+
+### 3. **Ventilation System**
+   - Upgrade the basic natural ventilation system to a balanced mechanical ventilation system with heat recovery (MVHR). This will improve indoor air quality and reduce heat loss through ventilation.
+
+### 4. **Windows**
+   - Although the windows have double glazing, consider upgrading to triple glazing or high-performance double glazing with low-emissivity (Low-E) coatings and argon or krypton gas fills. This will further reduce heat loss through the windows.
+
+### 5. **Photovoltaic (PV) Panels**
+   - Install photovoltaic panels on the roof to generate renewable energy. Given the potential for PV installation mentioned, this can significantly reduce electricity costs and carbon footprint.
+
+### 6. **Additional Measures**
+   - **Draft Proofing**: Seal gaps around windows, doors, and other openings to prevent drafts and heat loss.
+   - **Thermal Bridging**: Address any remaining thermal bridges, especially around windows, doors, and where walls meet the roof or floor.
+
+### Optimal Sequence of Renovations
+1. **Insulation**: Start with the most critical areas (exterior walls, flat roof, and floor above basement) to minimize heat loss.
+2. **Heating System**: Replace the boiler and radiator system with a more efficient model.
+3. **Ventilation**: Upgrade to an MVHR system to complement the improved insulation and heating.
+4. **Windows**: Upgrade windows to higher-performance models.
+5. **Photovoltaic Panels**: Install PV panels to generate renewable energy.
+
+### Cost-Effectiveness and Energy Efficiency
+- Prioritize insulation and heating system upgrades first, as these typically offer the highest return on investment in terms of energy savings.
+- Consider applying for any available grants or subsidies for energy-efficient renovations in Belgium, which can help offset costs.
+
+This plan should significantly improve your home’s energy performance certificate (EPC) score and reduce long-term operational costs.

@@ -1,0 +1,42 @@
+Based on the provided ontology, suggestion list, and entity information, here's a concise and actionable renovation plan for the building at http://example.com/Building:
+
+### Renovation Plan:
+
+1. **Insulate Walls (Priority)**
+   - **Action**: Insulate the cavity walls (Wall_Front, Wall_Left, Wall_Rear, Wall_Right)
+   - **Reason**: All cavity walls are currently not insulated (NotInsulated), which contributes to poor energy performance (EPC score of 165).
+   - **Method**: Use injection insulation for cavity walls as it is less invasive and suitable for existing walls.
+   - **Estimated Cost**: ~€22/m² per wall (total ~€1,760 for all four walls, assuming ~40m² per wall).
+
+2. **Replace Glazing (Priority)**
+   - **Action**: Replace single glazing with double or triple glazing for all windows (WindowsLivingArea, WindowsBedrooms)
+   - **Reason**: Single glazing has poor thermal and acoustic performance, contributing to heat loss.
+   - **Method**: Choose double glazing with low-emissivity (Low-E) coating for better insulation.
+   - **Estimated Cost**: ~€200/m² for double glazing (total ~€2,400 for ~12 windows, assuming ~1m² per window).
+
+3. **Improve Roof Insulation (If Applicable)**
+   - **Action**: Check if the flat roof (RoofMain) can be insulated further (currently WellInsulated).
+   - **Reason**: Ensures comprehensive energy efficiency improvements.
+   - **Method**: Use an inverted roof structure with insulation on top of the roof covering.
+   - **Estimated Cost**: ~€50/m² (total ~€500 for ~10m², if applicable).
+
+4. **Upgrade Heating System (If Needed)**
+   - **Action**: Consider replacing the current emission system (EmissionSystem) with a more efficient system.
+   - **Reason**: The building has a reason to change the emission system (reno:hasReasonToChangeEmissionSystem=true).
+   - **Options**:
+     - Heat pump (air-water or geothermal) if the budget allows.
+     - Modern radiators with better heat distribution.
+   - **Estimated Cost**: Varies significantly based on the chosen system.
+
+5. **Solar Panel Installation (Optional)**
+   - **Action**: Install PV panels on the roof if the orientation and space allow.
+   - **Reason**: The building has potential for PV installation (reno:hasPotentialForPV=true).
+   - **Method**: Use plug-and-play PV panels for easier installation.
+   - **Estimated Cost**: ~€275/m² (total ~€2,750 for ~10m²).
+
+### Notes:
+- The plan prioritizes actions that address the most significant sources of heat loss and energy inefficiency.
+- The estimated costs are rough approximations and can vary based on material choices, labor rates, and local conditions.
+- Ensure compliance with local regulations and permits, especially for structural changes or electrical work.
+
+This plan focuses on maximizing energy efficiency while remaining cost-effective and actionable based on the provided information.

@@ -1,0 +1,97 @@
+### Analysis of the Building and Prioritization of Renovations
+
+#### Key Observations:
+1. **Building Type**: Semi-detached (1951 construction year).
+2. **Energy Performance Certificate (EPC)**: 388.0 (Label E).
+3. **Insulation Status**:
+   - **RoofExtension (Flat Roof)**: Moderately Insulated.
+   - **RoofMain (Gable Roof)**: Not Insulated.
+   - **Wall_Front, Wall_Rear, Wall_Right**: Not Insulated.
+   - **FloorAboveBasement**: Not Insulated.
+   - **Windows**: Double Glazing (Moderate Insulation).
+4. **Ventilation System**: Type A (Natural air supply and exhaust).
+5. **Emission System**: Air Heating (Radiator, Floor Heating).
+6. **Potential for PV**: True.
+7. **Heat Grid**: Not Available.
+8. **Owner's Motivation**: To improve EPC.
+
+#### Prioritization Criteria:
+1. **High-Impact, Cost-Effective Insulation**: Focus on elements with the largest surface area and poor insulation.
+2. **Roof and Wall Insulation**: These typically offer the highest return on investment for energy savings.
+3. **Window Upgrades**: If double glazing is already in place, further upgrades may not be immediately necessary.
+4. **Ventilation System**: Consider upgrading to a more efficient system (e.g., Type B or C).
+5. **Renewable Energy Integration**: Assess the feasibility of PV panels given the potential for PV is true.
+
+---
+
+### Proposed Renovation Plan:
+
+#### Phase 1: Roof and Wall Insulation
+1. **Insulate Gable Roof (RoofMain)**
+   - **Action**: Install insulation in the gable roof.
+   - **Cost**: €60/m².
+   - **Nuisance Level**: Low.
+   - **Rationale**: The gable roof is currently uninsulated, representing a significant opportunity for energy savings.
+
+2. **Insulate Flat Roof (RoofExtension)**
+   - **Action**: Upgrade insulation in the flat roof (opt for an inverted roof structure).
+   - **Cost**: €50/m².
+   - **Nuisance Level**: High.
+   - **Rationale**: Improve insulation where it is already moderately insulated.
+
+3. **Insulate Walls on Exterior (Wall_Front, Wall_Rear, Wall_Right)**
+   - **Action**: Apply exterior wall insulation.
+   - **Cost**: €200/m².
+   - **Nuisance Level**: High.
+   - **Rationale**: Walls are currently uninsulated, and exterior insulation avoids reducing interior space.
+
+#### Phase 2: Floor and Ventilation Upgrades
+4. **Insulate Floor Above Basement**
+   - **Action**: Insulate the floor above the basement.
+   - **Cost**: €30/m².
+   - **Nuisance Level**: Low.
+   - **Rationale**: The floor is uninsulated, and insulation will reduce heat loss to the basement.
+
+5. **Replace Ventilation System**
+   - **Action**: Upgrade from Type A to Type B or C (mechanical supply and natural exhaust).
+   - **Cost**: €3500 (fixed) + €17/m².
+   - **Nuisance Level**: Moderate.
+   - **Rationale**: Improve air quality and energy efficiency.
+
+#### Phase 3: Renewable Energy Integration
+6. **Place PV-Panels on Roof**
+   - **Action**: Install PV panels on the roof.
+   - **Cost**: €275/m².
+   - **Nuisance Level**: Low.
+   - **Rationale**: The building has potential for PV, and the roof is a suitable location.
+
+#### Phase 4: Optional Upgrades (Based on Budget and Motivation)
+7. **Replace Glazing (If Budget Allows)**
+   - **Action**: Upgrade from double to triple glazing.
+   - **Cost**: €200/m².
+   - **Nuisance Level**: High.
+   - **Rationale**: Further improve thermal performance of windows.
+
+8. **Place Sunshade**
+   - **Action**: Install outdoor blinds or sunshades.
+   - **Cost**: €750 (fixed).
+   - **Nuisance Level**: Low.
+   - **Rationale**: Reduce solar heat gain in summer.
+
+---
+
+### Summary of Key Recommendations:
+1. **Immediate Actions**:
+   - Insulate the gable roof (highest priority).
+   - Insulate the exterior walls (significant impact).
+   - Upgrade the ventilation system.
+
+2. **Medium-Term Actions**:
+   - Install PV panels on the roof.
+   - Insulate the flat roof and floor above the basement.
+
+3. **Optional Actions**:
+   - Replace glazing with triple glazing.
+   - Install sunshades.
+
+This plan prioritizes high-impact, cost-effective upgrades to significantly improve the building's energy efficiency and EPC rating.

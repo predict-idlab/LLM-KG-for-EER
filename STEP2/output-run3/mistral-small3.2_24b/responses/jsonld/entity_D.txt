@@ -1,0 +1,70 @@
+### Renovation Plan for Semi-Detached Building in Ghent (Belgium)
+
+#### **Building Overview:**
+- **Type:** Semi-detached building
+- **Construction Year:** 2017
+- **Net Floor Area:** 173.0 m²
+- **Current Energy Performance Certificate (EPC) Score:** 87 kWh/m²year
+- **Heating System:** Heat pump
+- **Ventilation System:** Type D
+- **PV Potential:** No
+- **Heat Grid Presence:** No
+- **Resident:** Present
+
+#### **Renovation Objectives:**
+1. **Improve EPC Score** (current motivation of the owner)
+2. **Optimize energy efficiency** while maintaining or improving thermal comfort
+3. **Prioritize cost-effective and practical upgrades**
+
+---
+
+### **Step 1: Building Envelope Improvements**
+1. **Insulate Wall on Exterior (Wall_Front, Wall_Left, Wall_Rear)**
+   - **Reasoning:** The building has full brick walls with well-insulated insulation grades. However, external wall insulation can further improve thermal performance and reduce heat loss.
+   - **Action:** Insulate the exterior walls to reduce thermal bridging and improve overall insulation.
+   - **Expected Impact:** Reduce heating demand and improve thermal comfort.
+
+2. **Insulate Roof (RoofMain, RoofExtension)**
+   - **Reasoning:** The roof structures (gable roof and flat roof) are already moderately to well-insulated. However, reinforcing insulation can enhance energy efficiency further.
+   - **Action:** Check for opportunities to improve insulation (e.g., adding reflective insulation or improving roof underlayment).
+   - **Expected Impact:** Minimize heat loss through the roof and improve overall building energy efficiency.
+
+---
+
+### **Step 2: Windows and Glazing Upgrades**
+1. **Replace Glazing (WindowsLivingArea, WindowsBedrooms)**
+   - **Reasoning:** The windows have wooden frames and double glazing, which is a good start. However, upgrading to triple glazing can significantly reduce heat loss.
+   - **Action:** Replace single-pane glazing with triple glazing to improve insulation and reduce heat transfer.
+   - **Expected Impact:** Enhance thermal comfort and reduce energy consumption for heating.
+
+---
+
+### **Step 3: Heating and Ventilation System Optimization**
+1. **Replace Ventilation System (VentilationSystemD)**
+   - **Reasoning:** The current ventilation system (Type D) is mechanical with both supply and exhaust. Depending on the building’s needs, upgrading to a more efficient system (e.g., Type C) could be beneficial.
+   - **Action:** Evaluate the need for a ventilation system upgrade and consider installing a more efficient system if required.
+   - **Expected Impact:** Improve indoor air quality and potentially reduce energy consumption.
+
+---
+
+### **Step 4: Additional Considerations**
+1. **Assess Emission System (EmissionSystem)**
+   - **Reasoning:** The current heat pump system is efficient, and there is no immediate need to change it. However, monitor its performance and consider maintenance or upgrades in the future.
+   - **Action:** Schedule regular maintenance checks for the heat pump and assess its performance annually.
+   - **Expected Impact:** Ensure the heating system operates at peak efficiency.
+
+2. **PV Potential**
+   - **Reasoning:** The building does not have the potential for PV panels. However, if this changes in the future, consider installing PV panels to generate renewable energy.
+   - **Action:** Monitor changes in PV potential and explore options for future installation.
+   - **Expected Impact:** Reduce reliance on grid electricity and lower energy costs.
+
+---
+
+### **Summary of Recommendations:**
+1. **Insulate exterior walls** to reduce thermal bridging and improve energy efficiency.
+2. **Upgrade glazing** to triple glazing to enhance thermal comfort and reduce heat loss.
+3. **Evaluate ventilation system** for potential upgrades to improve indoor air quality.
+4. **Maintain and monitor heating system** to ensure optimal performance.
+5. **Explore future PV potential** if conditions change.
+
+This plan focuses on **practical, cost-effective upgrades** that align with the owner’s motivation to improve the EPC score while enhancing energy efficiency and thermal comfort. Each step is grounded in the provided ontology and suggestion list, ensuring relevance and feasibility.

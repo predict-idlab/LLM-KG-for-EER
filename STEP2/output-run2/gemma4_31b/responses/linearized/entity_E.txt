@@ -1,0 +1,36 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century detached building, the renovation should follow the "fabric first" principle: sealing the building envelope before upgrading the technical installations. 
+
+The building currently has a significant energy leak through **single-glazed windows** and **uninsulated cavity walls**, despite the roof being well-insulated.
+
+### Proposed Renovation Path
+
+#### Phase 1: The Building Envelope (Immediate Energy Gains)
+*   **1. Insulate Wall Cavities (`insulate wall cavity`):** 
+    All four exterior walls are cavity walls and are currently not insulated. Injecting insulation into the cavities is the most cost-effective way to reduce heat loss without altering the building's facade or reducing interior space.
+*   **2. Upgrade Glazing (`replace glazing`):** 
+    The living area and bedrooms currently use single glazing, which is highly inefficient. Since the wooden window frames are reported to be in "Good State," replacing only the glazing (moving to double or triple glazing) is more cost-effective than replacing the entire window unit.
+
+#### Phase 2: Technical Systems (Operational Efficiency)
+*   **3. Low-Temperature Emission System (`place emission system on low temperature`):** 
+    Before installing a new heat source, the emission system should be prepared. Low-temperature emitters are essential to maximize the Coefficient of Performance (COP) of a heat pump.
+*   **4. Transition to Heat Pump (`place air-water heatpump`):** 
+    The owner wants to change the emission system, and the building has no potential for geothermal energy. An air-water heat pump is the most efficient alternative to the current boiler, significantly lowering the EPC score and operational costs.
+*   **5. Upgrade Ventilation (`replace ventilation system`):** 
+    The current Ventilation System A (natural supply/exhaust) is the least efficient. Upgrading to a mechanical system will improve indoor air quality and prevent heat loss associated with uncontrolled ventilation.
+
+#### Phase 3: Renewable Energy (Final Optimization)
+*   **6. Solar Energy Installation (`place PV-panels on roof`):** 
+    The building has confirmed potential for PV. Installing solar panels is the final step to offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Action | Primary Benefit | Cost-Effectiveness Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall Insulation** | Massive reduction in heat loss | Low cost, high ROI, non-intrusive. |
+| **2** | **Replace Glazing** | Eliminates thermal bridges | Reuses existing "Good State" frames. |
+| **3** | **Low-Temp Emitters** | Prepares for Heat Pump | Ensures the heat pump runs efficiently. |
+| **4** | **Air-Water Heat Pump** | Decarbonizes heating | Replaces inefficient boiler/electric heaters. |
+| **5** | **Ventilation Upgrade** | Controls air exchange | Prevents heat loss from new insulation. |
+| **6** | **Roof PV Panels** | Lowers energy bills | Offsets the power used by the heat pump. |
+
+**Outcome:** This path transforms the building from a high-leakage structure with outdated heating into a modern, low-energy home, directly satisfying the owner's motivation to **Improve EPC** while avoiding unnecessary costs (like full window replacement or expensive geothermal drilling).

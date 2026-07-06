@@ -1,0 +1,48 @@
+Based on the provided RENO ontology and the specific data for the building, the property is a **1951 semi-detached house** with an energy score of **388 (D Label)**. The owner's primary motivation is to **improve the EPC (Energy Performance Certificate)**.
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow a "Fabric First" approach: reducing heat loss before upgrading heating systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (High Impact, Low-to-Moderate Cost)
+The goal here is to stop energy leakage. The building currently has significant gaps in insulation.
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the most critical step as heat rises. 
+    *   *Priority:* Very High | *Nuisance:* Low.
+2.  **Insulate Floor Above Basement:** The floor is not insulated. This is a cost-effective way to prevent cold drafts from the basement.
+    *   *Priority:* High | *Nuisance:* Low.
+3.  **Insulate Walls on Exterior:** The front, rear, and right walls are full brick and not insulated. Exterior insulation is more efficient than interior insulation for full brick structures.
+    *   *Priority:* Medium-High | *Nuisance:* High.
+
+#### Phase 2: Air Quality & Ventilation
+Once the house is sealed and insulated, the existing natural ventilation (System A) will be insufficient and may lead to moisture issues.
+4.  **Replace Ventilation System:** Upgrade from System A to a more efficient mechanical system (e.g., System C or D) to maintain air quality and thermal comfort.
+    *   *Priority:* Medium | *Nuisance:* Moderate.
+
+#### Phase 3: Sustainable Heating Transition
+With a reduced thermal load due to Phase 1, the building can now transition from a traditional boiler to a high-efficiency system.
+5.  **Place Air-Water Heat Pump:** Since geothermal drilling is not possible at this site and there is no heat grid, an air-water heat pump is the most sustainable alternative to the current boiler.
+    *   *Priority:* Medium | *Nuisance:* Moderate.
+6.  **Place Emission System on Low Temperature:** To maximize the efficiency (COP) of the new heat pump, the existing radiators/heating should be transitioned to a low-temperature emission system.
+    *   *Priority:* Medium | *Nuisance:* Moderate.
+
+#### Phase 4: Renewable Energy Production
+The final step is to offset the electricity consumption of the new heat pump.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing panels on the roof will lower operational costs and significantly boost the EPC label.
+    *   *Priority:* Low (Operational) / High (EPC) | *Nuisance:* Low.
+
+---
+
+### Summary Table for Implementation
+
+| Sequence | Intervention | Target Element | Nuisance | Cost Basis | Rationale |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | Insulate Gable Roof | RoofMain | Low | €60/m² | Stop primary heat loss. |
+| **2** | Insulate Floor | FloorAboveBasement | Low | €30/m² | Eliminate basement cold. |
+| **3** | Insulate Wall Exterior | Walls (Front/Rear/Right) | High | €200/m² | Create a thermal shell. |
+| **4** | Replace Ventilation | VentilationSystem | Moderate | €3500 + €17/m² | Prevent condensation/mold. |
+| **5** | Air-Water Heat Pump | Generation System | Moderate | €8000 + €35/m² | Decarbonize heating. |
+| **6** | Low-Temp Emission | Emission System | Moderate | €100/m² | Optimize Heat Pump COP. |
+| **7** | PV-Panels on Roof | RoofMain | Low | €275/m² | Energy autonomy/EPC boost. |
+
+### Expert Note on Cost-Effectiveness:
+By insulating the roof, floor, and walls **before** installing the heat pump, you can likely install a **smaller, less expensive heat pump unit** because the total heat demand of the building will have decreased. This sequence ensures the highest possible return on investment and the maximum jump in the EPC label.

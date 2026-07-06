@@ -1,0 +1,38 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. This plan follows the **"Fabric First"** principle: we first reduce energy demand by improving the building envelope, then upgrade the heating systems to be more efficient, and finally integrate renewable energy.
+
+### **Phase 1: Building Envelope & Thermal Shell (Demand Reduction)**
+*The goal here is to stop heat loss. Since the building dates back to 1832 and has several "Not Insulated" elements, this is the most cost-effective way to improve the EPC score.*
+
+1.  **Insulate Flat Roof (Extension):** The roof extension is currently not insulated. This is a high-priority "low-hanging fruit" for energy efficiency.
+2.  **Insulate Exterior Walls (Front & Rear):** Both the front and rear full-brick walls are not insulated and have no historical protection. Exterior insulation is the most effective method for old brick structures to prevent thermal bridging.
+3.  **Insulate Floor Above Basement:** The floor above the basement is currently not insulated. Addressing this prevents cold drafts from the basement into the living areas.
+4.  **Note on Windows:** No action is recommended for windows at this time. The existing double glazing and wooden frames are in "Good State," meaning the return on investment for replacing them would be low compared to wall and roof insulation.
+
+### **Phase 2: Air Quality & Ventilation**
+*As the building becomes more airtight through insulation, mechanical ventilation is required to prevent condensation and mold.*
+
+5.  **Replace Ventilation System:** Upgrade from the current Ventilation System A to a more modern system (e.g., System C or D) to ensure a healthy indoor climate and maintain the efficiency gains from Phase 1.
+
+### **Phase 3: Heating System Modernization (System Efficiency)**
+*With the heat demand reduced, we can now install a smaller, more efficient heating system. Since geothermal and heat grids are unavailable for this site, air-source technology is the optimal path.*
+
+6.  **Place Emission System on Low Temperature:** Before installing a new boiler, transition the radiators to a low-temperature system. This is a prerequisite for maximizing the efficiency (COP) of a heat pump.
+7.  **Place Air-Water Heat Pump:** Replace the existing boiler with an air-water heat pump. This aligns with the "reason to change emission system" identified in the data and significantly lowers the carbon footprint compared to traditional boilers.
+
+### **Phase 4: Renewable Energy (Energy Generation)**
+*The final step is to offset the electricity consumption of the new heat pump.*
+
+8.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower operational costs and provide the cleanest energy source for the newly installed heat pump.
+
+---
+
+### **Summary of Optimal Sequence & Logic**
+
+| Sequence | Action | Logic |
+| :--- | :--- | :--- |
+| **1. Insulation** | Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor | Reduces the total energy load required to heat the home. |
+| **2. Ventilation** | Replace Ventilation System | Prevents moisture build-up caused by the new airtight shell. |
+| **3. Heating** | Low-Temp Emission $\rightarrow$ Air-Water HP | Upgrades the generation system to match the new, lower energy demand. |
+| **4. Renewables** | PV-Panels on Roof | Offsets the electrical cost of the heat pump and improves EPC. |
+
+**Estimated Impact:** This path maximizes the **EPC improvement** (the owner's primary motivation) by addressing the most significant thermal leaks first, ensuring the heating system is not oversized, and utilizing the building's solar potential.

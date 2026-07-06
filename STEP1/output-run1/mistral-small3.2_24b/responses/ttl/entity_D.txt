@@ -1,0 +1,58 @@
+Based on the provided RENO ontology and the building information, here's a cost-effective and energy-efficient renovation plan for the semi-detached building:
+
+### Immediate Recommendations:
+1. **Replace Ventilation System (Ordering 52)**
+   - Current: Ventilation System D (mechanical supply and exhaust)
+   - Recommendation: Consider upgrading to a more energy-efficient system if the current one is outdated or inefficient.
+   - Cost: €3,500 fixed + €17/m² (estimate based on 173m² floor area: ~€6,761)
+   - Nuisance Level: Moderate
+
+2. **Insulate Wall Cavity (Ordering 34)**
+   - Current: Well-insulated full brick walls
+   - Recommendation: Verify insulation quality and consider cavity wall insulation if not already present.
+   - Cost: €22/m² (estimate for all walls: ~€1,980)
+   - Nuisance Level: Low
+
+3. **Place Air-Water Heat Pump (Ordering 67)**
+   - Current: Heat pump generation system
+   - Recommendation: Consider upgrading to an air-water heat pump with cooling (Ordering 73) for better efficiency.
+   - Cost: €8,000 fixed + €35/m² (estimate: ~€14,355)
+   - Nuisance Level: Moderate
+
+### Medium-Term Recommendations:
+4. **Replace Glazing (Ordering 43)**
+   - Current: Double glazing
+   - Recommendation: Consider upgrading to triple glazing for better insulation.
+   - Cost: €200/m² (estimate for all windows: ~€1,600)
+   - Nuisance Level: High
+
+5. **Place PV Panels on Roof (Ordering 85)**
+   - Current: PV panels present but potential not utilized
+   - Recommendation: Optimize PV panel placement based on roof orientation and sunlight exposure.
+   - Cost: €275/m² (estimate: ~€4,792)
+   - Nuisance Level: Low
+
+### Long-Term Recommendations:
+6. **Insulate Flat Roof (Ordering 25)**
+   - Current: Well-insulated flat roof extension
+   - Recommendation: Review insulation and consider upgrading if needed.
+   - Cost: €50/m² (estimate: ~€250)
+   - Nuisance Level: High
+
+### Additional Considerations:
+- **Heat Pump Boiler (Ordering 76)**: Evaluate the need for a heat pump boiler based on current heating requirements.
+- **Low-Temperature Emission System (Ordering 70)**: Consider placing emission systems on low temperature for better efficiency.
+- **Sun Shade (Ordering 79)**: Install outdoor blinds for better temperature control in living areas.
+
+### Optimization Sequence:
+1. Start with immediate recommendations to address the most critical energy efficiency improvements.
+2. Proceed with medium-term recommendations to enhance insulation and renewable energy utilization.
+3. Plan long-term recommendations based on budget and priority.
+
+### Cost Estimate Summary:
+- Immediate: ~€21,011
+- Medium-Term: ~€6,392
+- Long-Term: ~€250
+- Total Estimated Cost: ~€27,653
+
+This plan prioritizes energy efficiency, cost-effectiveness, and practical execution, ensuring optimal benefits from each renovation step.

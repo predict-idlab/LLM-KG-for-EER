@@ -1,0 +1,5 @@
+1. insulate gable roof
+2. place emission system on low temperature
+3. place air-water heat pump
+4. place pv-panels in garden
+5. place sunshade

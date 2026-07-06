@@ -1,0 +1,54 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path. This plan follows the "fabric-first" principle: we first optimize the building envelope to reduce energy demand before upgrading the heating systems and adding renewable energy.
+
+### **Executive Summary: Building Analysis**
+*   **Current State:** The building is a detached house from 1862 with a surprisingly good EPC score (165), but it possesses several critical energy leaks: **single-glazed windows** and **uninsulated cavity walls**.
+*   **Primary Goal:** Improve the EPC label and long-term operational performance.
+*   **Constraints:** Geothermal options are not viable for this site, and there is no available heat grid.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: The Thermal Envelope (Immediate ROI)**
+The goal here is to stop heat loss. Upgrading the envelope first ensures that any new heating system installed later is downsized and more efficient.
+
+1.  **Insulate Wall Cavities:** 
+    *   **Action:** `insulate wall cavity`
+    *   **Justification:** All four walls (Front, Left, Right, Rear) are cavity walls and currently **Not Insulated**. Cavity wall insulation is one of the most cost-effective ways to reduce heat loss without altering the building's facade (crucial for a house from 1862).
+2.  **Upgrade Window Glazing:** 
+    *   **Action:** `replace glazing`
+    *   **Justification:** Both the living area and bedrooms currently have **Single Glazing**, which is highly inefficient. Since the wooden frames are in a **Good State** (value 8), replacing only the glazing (rather than the entire window) is the most cost-effective way to improve thermal performance.
+3.  **Insulate the Floor:** 
+    *   **Action:** `insulate floor above basement`
+    *   **Justification:** The building has a floor above a crawl space. Insulating this prevents cold air from entering the living areas from below.
+
+#### **Phase 2: System Modernization (Operational Efficiency)**
+With the heat loss minimized, we can now address the inefficient heating and ventilation systems.
+
+4.  **Upgrade Heating Generation:** 
+    *   **Action:** `place air-water heatpump`
+    *   **Justification:** The current system uses inefficient electric convectors and an old boiler. Since geothermal is not possible and no heat grid exists, an **Air-Water Heat Pump** is the optimal sustainable alternative to replace the boiler.
+5.  **Optimize Emission Systems:** 
+    *   **Action:** `place emission system on low temperature`
+    *   **Justification:** To maximize the efficiency of the new heat pump, the existing radiators and floor heating should be optimized for low-temperature operation.
+6.  **Ventilation Upgrade:** 
+    *   **Action:** `replace ventilation system`
+    *   **Justification:** The building currently uses **Ventilation System A** (natural supply). Upgrading to a more modern system (e.g., System B or D) will improve air quality and reduce heat loss caused by uncontrolled ventilation.
+
+#### **Phase 3: Renewable Energy (Sustainability)**
+The final step is to transition from reducing consumption to generating clean energy.
+
+7.  **Install Solar Energy:** 
+    *   **Action:** `place PV-panels on roof`
+    *   **Justification:** The building data explicitly confirms `hasPotentialForPV = true`. Installing PV panels will significantly lower the electricity costs associated with the new heat pump and further improve the EPC label.
+
+---
+
+### **Optimal Sequence Summary**
+| Order | Intervention | Target Element | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Walls (All) | Lowest cost, highest immediate impact on heat retention. |
+| **2** | **Replace Glazing** | Windows | Eliminates the biggest "thermal holes" in the building. |
+| **3** | **Insulate Floor** | Floor Above Basement | Completes the thermal shell. |
+| **4** | **Air-Water Heat Pump** | HVAC System | Replaces old heating with a sustainable, efficient system. |
+| **5** | **Solar PV Panels** | Roof/Energy | Offsets the electricity cost of the new heat pump. |

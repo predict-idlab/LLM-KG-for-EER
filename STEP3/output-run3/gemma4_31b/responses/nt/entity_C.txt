@@ -1,0 +1,39 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. 
+
+### Building Analysis
+The building is an exceptionally modern **Attached Building (constructed in 2023)** with an already high energy performance (**EPC score of 50 kWh/m²year**, which corresponds to an **A label**). Most elements—including the walls, floor above basement, and the flat roof extension—are already "Well Insulated." The ventilation system is already a **System D** (the most efficient mechanical supply and exhaust type).
+
+However, the owner has expressed a motivation to **improve the EPC** further and has a stated **reason to change the emission system**.
+
+---
+
+### Proposed Renovation Plan
+
+To maximize energy efficiency while remaining cost-effective, the focus should be on the few remaining "moderately" performing elements and the transition to a more sustainable heating source.
+
+#### Step 1: Envelope Optimization (Insulation)
+Before upgrading heating systems, it is critical to ensure the thermal envelope is airtight and efficient to prevent energy loss and allow for a smaller, more cost-effective heat pump.
+*   **Action: Insulate Gable Roof.**
+    *   **Reasoning:** While most of the house is well-insulated, the main gable roof is currently only "Moderately Insulated." This is the primary thermal weak point of the building.
+    *   **Benefit:** Reducing heat loss through the roof will lower the overall energy demand, directly improving the EPC score.
+
+#### Step 2: Heating System Upgrade (Generation & Emission)
+The owner has indicated a desire to change the emission system. Given that the building already possesses **Floor Heating** (a low-temperature emission system) but currently relies on electric convectors and a boiler, there is a significant opportunity for efficiency gains.
+*   **Action: Place Air-Water Heat Pump.**
+    *   **Reasoning:** 
+        *   **Constraint Check:** The site has **no potential** for vertical or horizontal geothermal drilling, and there is **no heat grid** available.
+        *   **Compatibility:** An Air-Water Heat Pump is the most efficient viable alternative. It pairs perfectly with the existing floor heating, as heat pumps operate most efficiently at the lower temperatures that floor heating requires.
+    *   **Benefit:** This replaces inefficient electric heating/boilers with a high-COP (Coefficient of Performance) system, drastically reducing operational energy costs and carbon emissions.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Intervention | Priority | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | **Envelope First:** Eliminates the only remaining moderate insulation gap to minimize heat loss. |
+| **2** | **Place Air-Water Heat Pump** | High | **System Upgrade:** Leverages the existing floor heating and the newly optimized envelope for maximum efficiency. |
+
+### Cost-Effectiveness & Practicality Note
+*   **Avoided Actions:** I have excluded replacing windows/glazing (already double-glazed and in good state), insulating walls (already well-insulated), or installing PV panels (the building data explicitly states `hasPotentialForPV` is **false**).
+*   **Long-term Performance:** By focusing only on the gable roof and the heat pump, the owner avoids "over-renovating" a building that is already highly efficient, ensuring that every euro spent provides a measurable improvement to the EPC and operational costs.

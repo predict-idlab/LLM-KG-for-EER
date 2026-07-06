@@ -1,0 +1,45 @@
+Given that your home was built in 2017 and already features high-efficiency systems (Heat Pump, Ventilation D, and PV panels), you are starting from a very strong baseline. An EPC of 87 is already quite efficient for a house of this size in Belgium.
+
+To further lower this score while remaining cost-effective, the focus must shift from "major replacements" to **"targeted optimization."** Because your walls, floors, and HVAC are already high-performing, the marginal gains will come from the few remaining weak points.
+
+Here is the proposed renovation path, sequenced by impact and cost-effectiveness.
+
+---
+
+### Phase 1: The High-Impact Win (Thermal Envelope)
+**Target: Main Pitched Roof**
+The "moderate" insulation in the pitched roof is the most significant thermal leak in your home. Since heat rises, this is your primary area for improvement.
+
+*   **Action:** Upgrade the insulation of the pitched roof to meet current high-efficiency standards (aiming for an R-value $\geq$ 5.0 $\text{m}^2\text{K/W}$). 
+*   **Method:** Depending on the roof structure, consider adding high-performance mineral wool or PIR boards in the attic space or via the interior ceiling.
+*   **Why:** This is the most cost-effective way to lower your EPC score and reduce the workload on your heat pump during winter.
+
+### Phase 2: The Technical Audit (Marginal Gains)
+**Target: Glazing and Air Tightness**
+Your windows were updated in 2020, meaning they are likely high-quality double glazing. Replacing them with triple glazing now would likely be **cost-ineffective** (the ROI is too low). Instead, focus on optimization.
+
+*   **Action A: Thermal Imaging/Blower Door Test.** Conduct a professional energy audit to identify "thermal bridges" or air leaks around window frames and the junction between the semi-detached wall and your neighbor.
+*   **Action B: Window Seals.** Ensure all wooden frames have high-quality, intact rubber seals to prevent drafts, maximizing the efficiency of your Ventilation D system.
+*   **Why:** Small leaks can force a heat pump to work harder; sealing them is cheap and provides immediate comfort.
+
+### Phase 3: Operational Optimization (Smart Energy)
+**Target: PV $\rightarrow$ Heat Pump Synergy**
+Since you already have the hardware (PV panels + Heat Pump), the goal is to maximize **self-consumption** to reduce operational costs.
+
+*   **Action A: Smart Energy Management System (HEMS).** Install a system that allows your heat pump to "overheat" the house slightly or the hot water tank during peak PV production hours (thermal storage).
+*   **Action B: Heat Pump Tuning.** Have a technician optimize the "heating curve" of your heat pump. A poorly tuned curve can lead to unnecessary energy consumption even in a well-insulated house.
+*   **Why:** This does not change the EPC score as much as insulation does, but it drastically reduces your monthly energy bills.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Project | Priority | Cost-Effectiveness | Impact on EPC |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Pitched Roof Insulation** | Critical | High | High |
+| **2** | **Air Tightness/Sealing** | Medium | Very High | Low/Medium |
+| **3** | **HEMS / HP Tuning** | Medium | High | Low (Operational) |
+| **4** | **Triple Glazing** | Low | Low | Medium |
+
+### Expert Final Advice:
+**Do not replace your windows.** Because they were renewed in 2020, the cost of replacing them with triple glazing will not be recovered through energy savings. **Focus your budget entirely on the pitched roof.** Once the roof is upgraded from "moderate" to "well-insulated," your home will be nearly a passive-standard house, and your EPC score will drop significantly.

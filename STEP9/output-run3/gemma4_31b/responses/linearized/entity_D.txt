@@ -1,0 +1,39 @@
+### Analysis of Current Building State
+The building is a relatively modern **Semi-Detached Building** (constructed in 2017) with an already strong energy performance profile (**EPC score: 87**). 
+
+**Strengths:**
+*   **Walls & Floors:** The front, left, and rear walls, as well as the floor above the basement, are all **Well Insulated**.
+*   **Windows:** Both bedrooms and living area windows feature **Double Glazing** and wooden frames in **Good State**.
+*   **Technical Systems:** The building is already equipped with high-efficiency systems, including a **Heat Pump** for generation and a **Ventilation System D** (mechanical supply and exhaust).
+*   **Renewables:** PV panels are already installed.
+*   **Flat Roof:** The roof extension is already **Well Insulated**.
+
+**Weakness:**
+*   **Main Roof:** The `RoofMain` (Gable Roof) is currently only **Moderately Insulated**. This represents the primary thermal bridge in the building envelope.
+
+---
+
+### Proposed Renovation Path
+
+Given that the owner's motivation is **To Improve EPC** and the building is already highly efficient, the strategy is to target the remaining "moderately insulated" element to push the EPC score into the A+ range. Because the HVAC and ventilation systems are already modern, further mechanical upgrades would be cost-ineffective.
+
+#### Step 1: Roof Envelope Optimization
+The most practical and cost-effective path to reducing energy consumption further is to upgrade the thermal resistance of the main roof.
+
+1.  **Insulate Gable Roof**: This is the highest priority. Upgrading the `RoofMain` from "Moderately Insulated" to "Well Insulated" will significantly reduce heat loss through the top of the building.
+2.  **Place Roof Underlayment**: To maximize the benefits of the insulation, a roof underlayment should be installed. This ensures the roof is completely air- and watertight, preventing drafts and moisture issues that could degrade the new insulation.
+
+#### Step 2: Evaluation of Marginal Gains (Optional/Long-term)
+While the windows are in good state, if the budget allows for further EPC improvement after the roof is addressed:
+*   **Replace Glazing**: Upgrading from double to **Triple Glazing** could be considered, though the cost-to-benefit ratio is lower here than in the roof insulation because the current windows are already efficient.
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Target Element | Justification |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | Only remaining envelope element not "Well Insulated." |
+| **2** | **Place Roof Underlayment** | `RoofMain` | Ensures air-tightness and protects insulation from moisture. |
+
+**Cost-Effectiveness Note:** Since the building already possesses a Heat Pump and Ventilation System D, there is no need to invest in new generation or ventilation systems. The focus remains strictly on the building envelope to achieve the lowest possible energy score.

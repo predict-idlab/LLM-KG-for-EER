@@ -1,0 +1,49 @@
+Given that your home was built in 2017 and already features high-efficiency systems (Heat Pump, Ventilation D, and PV panels), you are starting from a very strong baseline. An EPC score of 87 is already quite efficient for a Belgian semi-detached house. 
+
+To further lower this score while remaining cost-effective, you should move away from "major overhauls" and focus on **surgical optimizations**. Since the walls, floors, and heating systems are already optimized, the remaining gains are found in the "moderate" areas and energy management.
+
+Here is your tailored renovation path, sequenced by ROI and impact on the EPC.
+
+### Phase 1: High Impact / Low-to-Medium Cost (The "Quick Wins")
+**Target: The Thermal Envelope (Roof)**
+The main pitched roof is the only part of your insulation described as "moderate." Because heat rises, this is your primary source of energy leakage.
+
+*   **Action:** Upgrade the insulation of the main pitched roof. 
+    *   **Method:** Depending on the roof structure, consider adding high-performance mineral wool or PIR boards to reach modern "Passive House" standards (R-value optimization).
+    *   **Why:** This is the most cost-effective way to lower your energy demand and directly improve your EPC score.
+*   **Action:** Air-tightness audit (Blower Door Test).
+    *   **Method:** Check for "invisible" leaks around window frames, electrical outlets, and the attic hatch.
+    *   **Why:** Even with System D ventilation, uncontrolled infiltration can lower efficiency.
+
+### Phase 2: Medium Impact / Medium-to-High Cost (The "Precision" Upgrades)
+**Target: Glazing and Solar Synergy**
+Your windows were updated in 2020 with double glazing. While good, the jump from double to triple glazing is often what separates a "good" EPC from an "excellent" one.
+
+*   **Action:** Selective upgrade to Triple Glazing (HR+++).
+    *   **Method:** Rather than replacing all windows, prioritize the **North-facing** rooms. Since your wooden frames are in good condition, check if the glass units can be replaced without replacing the entire frame.
+    *   **Why:** This reduces radiative heat loss and eliminates cold spots, allowing the heat pump to operate at a lower, more efficient flow temperature.
+*   **Action:** PV System Audit & Expansion.
+    *   **Method:** Analyze your annual production vs. consumption. If your heat pump is causing a deficit in winter, consider adding a few additional high-efficiency panels if roof space permits.
+    *   **Why:** Increasing self-consumption reduces reliance on the grid and lowers the operational carbon footprint.
+
+### Phase 3: Long-term Operational Optimization (The "Smart" Layer)
+**Target: Energy Management**
+Since your hardware (Heat Pump, PV, Vent D) is already installed, the goal is now to make these systems "talk" to each other.
+
+*   **Action:** Install a Home Energy Management System (HEMS).
+    *   **Method:** Implement a smart controller that triggers the heat pump to run (e.g., heating a buffer tank or floor) specifically during peaks of PV production.
+    *   **Why:** This maximizes the use of your own "free" electricity, reducing operational costs without requiring structural changes.
+
+---
+
+### Summary Table: Proposed Renovation Sequence
+
+| Sequence | Intervention | Focus Area | Cost-Effectiveness | EPC Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof Insulation** | Main Pitched Roof | High | High |
+| **2** | **Air-Tightness** | Joints & Seals | Very High | Low-Medium |
+| **3** | **Triple Glazing** | North-facing Windows | Medium | Medium |
+| **4** | **HEMS / PV Opt.** | Energy Management | Medium | Low (Operational) |
+
+### Expert Final Tip for Ghent/Flanders:
+Before starting, check the **Vlaamse EnergiePremies** (Flemish Energy Premiums). Since your house is relatively new (2017), some subsidies may differ from those for older homes, but roof insulation and energy audits are frequently supported. Always perform a professional energy audit *before* and *after* these steps to officially certify the improvement in your EPC score.

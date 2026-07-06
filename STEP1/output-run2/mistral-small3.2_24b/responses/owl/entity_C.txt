@@ -1,0 +1,50 @@
+### Energy-Efficient and Cost-Effective Renovation Plan
+
+**Objective:**
+Improve the energy efficiency of the attached building located in Belgium, focusing on practical upgrades that reduce energy consumption and improve long-term operational performance.
+
+**Renovation Steps:**
+
+1. **Insulate the Flat Roof (RoofExtension)**
+   - **Action:** Insulate the flat roof to improve thermal performance.
+   - **Reasoning:** The flat roof is currently well insulated but can benefit from additional insulation to enhance energy efficiency.
+   - **Cost:** €65 per m² (insulation) + €40 per m² (removal of asbestos, if applicable).
+   - **Order:** 16 (PlaceRoofUnderlayment) or 25 (InsulateFlatRoof).
+
+2. **Replace the Gable Roof (RoofMain)**
+   - **Action:** Remove asbestos and insulate the gable roof.
+   - **Reasoning:** The gable roof is in good condition but can be improved with better insulation and asbestos removal for safety and efficiency.
+   - **Cost:** €45 per m² (asbestos removal) + €60 per m² (insulation).
+   - **Order:** 19 (RemoveAsbestosFlatRoof) or 22 (RemoveAsbestosGableRoof) followed by 28 (InsulateGableRoof).
+
+3. **Upgrade Windows (WindowsLivingArea and WindowsBedrooms)**
+   - **Action:** Replace the glazing with double glazing.
+   - **Reasoning:** The current windows have wooden frames and single glazing, which can be upgraded to double glazing to improve thermal and acoustic performance.
+   - **Cost:** €200 per m² (replace glazing).
+   - **Order:** 43 (ReplaceGlazing).
+
+4. **Improve Emission System (EmissionSystem)**
+   - **Action:** Replace the electric convector and floor heating with a more efficient system.
+   - **Reasoning:** The current emission system is outdated and can be replaced with a heat pump or another efficient heating system to reduce energy consumption.
+   - **Cost:** Varies by system (e.g., heat pump boiler at €4000).
+   - **Order:** 55 (ConnectToHeatGrid) or 61 (PlaceVerticalGeothermalHeatpump) if conditions allow.
+
+5. **Install Photovoltaic (PV) Panels (PVPanels)**
+   - **Action:** Place PV panels on the roof or in the garden.
+   - **Reasoning:** The building has potential for PV installation, which can generate renewable energy and reduce electricity costs.
+   - **Cost:** €275 per m² (roof) or €275 per m² (garden).
+   - **Order:** 85 (PlacePVPanelsOnRoof) or 88 (PlacePVPanelsInGarden).
+
+6. **Ventilation System Upgrade (VentilationSystem)**
+   - **Action:** Replace the ventilation system with a more efficient model.
+   - **Reasoning:** The current ventilation system can be upgraded to improve air quality and energy efficiency.
+   - **Cost:** €3500 (ventilation system D).
+   - **Order:** 52 (ReplaceVentilationSystem).
+
+**Additional Considerations:**
+- **Permits:** Check local regulations for necessary permits, especially for structural changes like roof replacements.
+- **Professional Assistance:** Consult with an architect or contractor for expert advice, especially for complex tasks like asbestos removal and system replacements.
+- **Budget:** Ensure the renovation budget aligns with the estimated costs of the proposed upgrades.
+
+**Conclusion:**
+This renovation plan focuses on practical and cost-effective upgrades that maximize energy efficiency and long-term operational performance. The steps are ordered based on the ontology's suggested sequence and practical considerations.

@@ -1,0 +1,36 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. The strategy follows the **"Fabric First"** principle: reducing energy demand through insulation and glazing before upgrading heating systems and adding renewable energy.
+
+### **Phase 1: Thermal Envelope Optimization (Low-Hanging Fruit)**
+*Focus: High energy savings with low-to-moderate cost and nuisance.*
+
+1.  **Insulate Wall Cavities:** The building has four cavity walls (Front, Right, Left, Rear) that are currently **Not Insulated**. Since there is no historical protection, injecting insulation into these cavities is the most cost-effective way to reduce heat loss.
+2.  **Insulate Floor Above Basement:** The `FloorAboveCrawlSpace` is currently uninsulated. Insulating this area will prevent cold drafts from the basement, significantly improving thermal comfort in the living areas.
+
+### **Phase 2: Glazing Upgrade**
+*Focus: Eliminating the primary source of heat loss.*
+
+3.  **Replace Glazing:** The windows in both the bedrooms and living area currently use **Single Glazing**, which is highly inefficient. Because the `WoodenWindowFrames` are reported to be in **Good State (Value: 8)**, it is more cost-effective to replace only the glass (upgrading to double or triple glazing) rather than replacing the entire window units.
+
+### **Phase 3: Heating System Modernization**
+*Focus: Transitioning to high-efficiency, low-carbon heating.*
+
+4.  **Place Air-Water Heat Pump:** The building has a reason to change its emission system and currently relies on a boiler. Since the site has **no potential for geothermal drilling** and the building already uses radiators and floor heating, an **Air-Water Heat Pump** is the most practical and energy-efficient replacement for the existing generation system.
+5.  **Optimize Emission System:** Consider placing the emission system on **low temperature** to maximize the efficiency (COP) of the newly installed heat pump.
+
+### **Phase 4: Renewable Energy Integration**
+*Focus: Reducing operational costs and carbon footprint.*
+
+6.  **Place PV-Panels on Roof:** The building is a detached house with confirmed **potential for PV**. Since the roof is already **Well Insulated**, it is an ideal candidate for solar panels to offset the electricity consumption of the new heat pump.
+
+---
+
+### **Summary of Renovation Sequence & Logic**
+
+| Sequence | Action | Logic | Cost/Nuisance |
+| :--- | :--- | :--- | :--- |
+| **1** | **Wall & Floor Insulation** | Reduces overall heat demand first. | Low / Low |
+| **2** | **Replace Glazing** | Stops significant heat leakage via single panes. | Moderate / High |
+| **3** | **Air-Water Heat Pump** | Right-sizes the heating system to the new, lower demand. | High / Moderate |
+| **4** | **PV-Panels** | Provides clean energy to power the heat pump. | Moderate / Low |
+
+**Estimated Impact:** This path will significantly lower the energy score (currently 165), moving the building toward a more efficient EPC label (A or B), fulfilling the owner's primary motivation.

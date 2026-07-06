@@ -1,0 +1,36 @@
+Here's the step-by-step reasoning:
+
+1. **Building Type**: Detached building, with a gable roof.
+2. **Current Insulation**:
+   - Walls (left, right, front, rear): Not insulated.
+   - Roof: Well insulated.
+   - Floor above crawl space: Not mentioned.
+3. **Windows**:
+   - Bedrooms: Single glazing, wooden frames.
+   - Living area: Single glazing, wooden frames.
+4. **Emission System**: Air heating (electric convector, floor heating, radiator).
+5. **PV Potential**: Yes.
+6. **Heat Grid**: No.
+7. **Renovation Motivation**: To improve EPC.
+
+Given these observations, here are the actionable renovation steps:
+
+1. replace flat roof
+2. replace gable roof
+3. place roof underlayment
+4. insulate wall on interior
+5. replace glazing
+6. replace windows
+7. insulate floor above basement
+8. replace ventilation system
+9. place air-air heatpump
+10. place vertical geothermal heatpump
+11. place horizontal geothermal heatpump
+12. place air-water heatpump
+13. place emission system on low temperature
+14. place air-water heatpump with cooling
+15. place heatpumpboiler
+16. place sunshade
+17. place airconditioning
+18. place PV-panels on roof
+19. place PV-panels in garden

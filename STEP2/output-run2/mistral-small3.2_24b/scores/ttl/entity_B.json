@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "place emission system on low temperature"], "extra_actions": ["replace flat roof", "insulate wall cavity", "connect to heatgrid", "place heat pump boiler", "place sunshade"]}, "sequence": {"order_errors": []}}

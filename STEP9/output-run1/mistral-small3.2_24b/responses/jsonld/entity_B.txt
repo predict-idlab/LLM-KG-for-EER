@@ -1,0 +1,51 @@
+Based on the information provided, here's a concise and actionable renovation plan tailored to the building:
+
+### **Renovation Plan**
+
+#### **1. Replace Gable Roof**
+- **Priority**: High
+- **Action**: Replace the existing gable roof with a new, well-insulated roof.
+- **Reason**: The current roof (`RoofMain`) is moderately insulated but may not meet modern energy efficiency standards. Replacing it will improve thermal comfort and energy performance.
+- **Consideration**: Ensure proper installation of roof underlayment and insulation to prevent condensation issues.
+
+#### **2. Insulate Flat Roof**
+- **Priority**: Medium
+- **Action**: Insulate the flat roof (`RoofExtension`) of the extension.
+- **Reason**: The flat roof is currently not insulated, contributing to heat loss. Insulating it will enhance energy efficiency.
+- **Consideration**: Opt for an inverted roof structure with insulation on top of the roof covering.
+
+#### **3. Insulate Walls (Front and Rear)**
+- **Priority**: Medium
+- **Action**: Insulate the front and rear walls (`Wall_Front` and `Wall_Rear`) on the exterior.
+- **Reason**: Both walls are full brick walls and not insulated, leading to significant heat loss. Exterior insulation will improve thermal performance without reducing interior space.
+- **Consideration**: Check local regulations regarding insulation thickness and building line overrun.
+
+#### **4. Insulate Floor Above Basement**
+- **Priority**: Low
+- **Action**: Insulate the floor above the basement (`FloorAboveBasement`).
+- **Reason**: The floor above the basement is not insulated, which can lead to heat loss. Insulating it will improve overall energy efficiency.
+- **Consideration**: Ensure proper installation of a vapour barrier to prevent condensation issues.
+
+#### **5. Replace Ventilation System**
+- **Priority**: Medium
+- **Action**: Replace the existing ventilation system (`VentilationSystem`) with a more efficient system.
+- **Reason**: The current ventilation system may not be optimal for energy efficiency. Upgrading to a more efficient system will improve air quality and reduce energy consumption.
+- **Consideration**: Choose a system that fits the building's layout and complies with local regulations.
+
+#### **6. Install PV Panels**
+- **Priority**: High
+- **Action**: Install photovoltaic (PV) panels on the roof.
+- **Reason**: The building has potential for PV installation and the owner wants to improve the EPC value. PV panels will generate renewable energy, reducing reliance on conventional energy sources.
+- **Consideration**: Ensure the panels are properly oriented and installed to maximize sunlight exposure.
+
+#### **7. Consider Connecting to a Heat Grid**
+- **Priority**: Low
+- **Action**: Evaluate the possibility of connecting to a heat grid.
+- **Reason**: Although there is no heat grid currently available near the building, future expansion or changes in local infrastructure might make this option viable.
+- **Consideration**: Monitor local developments and consult with energy experts for feasibility.
+
+### **Additional Recommendations**
+- **Energy Audit**: Conduct a comprehensive energy audit to identify further areas for improvement.
+- **Regular Maintenance**: Schedule regular maintenance for the new systems to ensure optimal performance and longevity.
+
+This plan prioritizes actions that will have the most significant impact on energy efficiency and thermal comfort while considering the building's specific characteristics and local regulations.

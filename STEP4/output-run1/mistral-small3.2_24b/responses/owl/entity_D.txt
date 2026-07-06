@@ -1,0 +1,17 @@
+Based on the provided building data and the RENO ontology, the property is a semi-detached house from 2017 with an EPC score of 87 (B Label). The owner's primary motivation is to improve the EPC rating. The building has already undergone several renovations, including glazing replacement and the installation of a heat pump. However, opportunities remain to further optimize energy efficiency while remaining cost-effective.
+
+Proposed Renovation Path:
+
+1. **Insulate Gable Roof**: The roof insulation is currently rated as "Moderately Insulated." Upgrading to "Well Insulated" status will reduce heat loss through the roof, improving overall energy efficiency. This is a priority action as heat rises naturally, and the roof represents a significant heat loss area.
+
+2. **Replace Ventilation System**: The building currently has a Ventilation System D, which is relatively efficient but may not be optimized for the current building envelope. Upgrading to a more advanced system (such as System C or B) can improve air quality and reduce energy loss through air exchange.
+
+3. **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide renewable electricity, further improving the EPC rating and reducing dependence on the grid.
+
+Summary of Optimal Sequence:
+
+**Roof Insulation** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **PV Panels Installation**.
+
+This sequence ensures that the building's thermal performance is maximized before investing in additional energy generation systems, ensuring the most cost-effective and sustainable outcome.
+
+This plan aligns with the ontology by focusing on practical upgrades that reduce energy consumption and improve long-term operational performance. The sequence is optimized to maximize benefits at each renovation step.

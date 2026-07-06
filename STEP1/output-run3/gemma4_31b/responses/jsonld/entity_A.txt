@@ -1,0 +1,51 @@
+Based on the provided building data and the RENO ontology, the building is a **1951 semi-detached house** with an EPC score of **388 (D Label)**. The owner's primary motivation is to **improve the EPC label**. 
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow the "fabric first" principle: reduce energy demand through insulation before upgrading heating systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Demand Reduction)
+*These steps provide the highest return on investment by permanently reducing heat loss.*
+
+1.  **Insulate Gable Roof (`InsulateGableRoof`):** 
+    *   **Reasoning:** The main roof is currently not insulated. Since heat rises, this is the most critical step for immediate energy savings.
+    *   **Ordering:** 28 (High Priority).
+2.  **Insulate External Walls (`InsulateWallExterior`):**
+    *   **Reasoning:** All three main walls (Front, Rear, Right) are full brick and not insulated. Exterior insulation is more effective than interior and avoids reducing living space.
+    *   **Ordering:** 40.
+3.  **Insulate Floor Above Basement (`InsulateFloorAboveBasement`):**
+    *   **Reasoning:** The floor is currently not insulated. This eliminates cold drafts from the basement.
+    *   **Ordering:** 49.
+
+#### Phase 2: Air Quality & Ventilation
+*Once the building is sealed with insulation, ventilation must be upgraded to prevent condensation and maintain health.*
+
+4.  **Replace Ventilation System (`ReplaceVentilationSystem`):**
+    *   **Reasoning:** The current System A is basic. Upgrading to a more efficient system (like System C or D) ensures a healthy indoor climate after the thermal envelope is tightened.
+    *   **Ordering:** 52.
+
+#### Phase 3: High-Efficiency Generation
+*Now that the energy demand is significantly lower, we can install a smaller, more cost-effective heating system.*
+
+5.  **Install Air-Water Heat Pump (`PlaceAirWaterHeatpump`):**
+    *   **Reasoning:** The building has a stated reason to change its emission system. Since there is no potential for geothermal drilling or a heat grid, an Air-Water heat pump is the most efficient electric alternative to the existing boiler, compatible with the existing radiator/floor heating.
+    *   **Ordering:** 67.
+
+#### Phase 4: Renewable Energy (Operational Cost Offset)
+*The final step is to generate the electricity needed to power the new heat pump.*
+
+6.  **Install PV Panels on Roof (`PlacePVPanelsOnRoof`):**
+    *   **Reasoning:** The building has confirmed PV potential. This reduces long-term operational costs and further improves the EPC score.
+    *   **Ordering:** 85.
+
+### Summary of Strategy
+| Step | Intervention | Priority | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Roof Insulation | Critical | Very High | High |
+| 2 | Wall Insulation | High | High | Medium |
+| 3 | Floor Insulation | Medium | Medium | High |
+| 4 | Ventilation Upgrade | Medium | Health/Comfort | Medium |
+| 5 | Air-Water Heat Pump | Medium | Very High | Medium (Long-term) |
+| 6 | PV Panels | Low | Cost Offset | High |
+
+**Note on Windows:** The existing windows are already double-glazed and in a "Good State." Replacing them now would be cost-ineffective compared to the gains from wall and roof insulation.

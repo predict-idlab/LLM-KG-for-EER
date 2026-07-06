@@ -1,0 +1,111 @@
+### Renovation Plan for the Attached Building (1832)
+
+#### **1. Initial Assessment**
+- **Building Type**: Attached (shared walls with adjacent buildings).
+- **Construction Year**: 1832 (old building, likely poor insulation).
+- **Current EPC Score**: 262.0 (E label, poor energy performance).
+- **Owner's Motivation**: Improve EPC.
+- **Potential for PV**: Yes.
+- **Heat Grid Availability**: No.
+- **Ventilation System**: Natural (VentilationSystemA).
+
+#### **2. Key Priorities**
+- **Insulation**: Walls, roof, and floor are not insulated or poorly insulated.
+- **Windows**: Replace or upgrade glazing.
+- **Roof**: Replace or insulate (asbestos not mentioned, but check).
+- **Heating System**: Consider upgrading to a more efficient system.
+
+#### **3. Step-by-Step Renovation Plan**
+
+**Phase 1: Roof and Exterior Work**
+1. **Replace Gable Roof (RoofMain)**
+   - **Action**: Replace the gable roof if it's in poor condition or has asbestos.
+   - **Ordering**: 13 (high priority).
+   - **Nuisance**: High (major renovation).
+   - **Cost**: €260/m².
+
+2. **Insulate Gable Roof (RoofMain)**
+   - **Action**: Insulate the gable roof if it's in good condition.
+   - **Ordering**: 28 (moderate priority).
+   - **Nuisance**: Low.
+   - **Cost**: €60/m².
+   - **Note**: Ensure vapour barrier is installed.
+
+3. **Replace Flat Roof (RoofExtension)**
+   - **Action**: Replace the flat roof if it's in poor condition or has asbestos.
+   - **Ordering**: 10 (high priority).
+   - **Nuisance**: High.
+   - **Cost**: €120/m².
+
+4. **Insulate Flat Roof (RoofExtension)**
+   - **Action**: Insulate the flat roof if it's in good condition.
+   - **Ordering**: 25 (moderate priority).
+   - **Nuisance**: High.
+   - **Cost**: €50/m².
+   - **Note**: Opt for an inverted roof structure.
+
+**Phase 2: Wall and Floor Insulation**
+5. **Insulate Wall on Interior (Wall_Front, Wall_Rear)**
+   - **Action**: Insulate the interior walls if exterior insulation is not feasible.
+   - **Ordering**: 37 (moderate priority).
+   - **Nuisance**: Moderate.
+   - **Cost**: €150/m².
+   - **Note**: Relocate sockets, pipes, and radiators.
+
+6. **Insulate Floor Above Basement (FloorAboveBasement)**
+   - **Action**: Insulate the floor above the basement.
+   - **Ordering**: 49 (moderate priority).
+   - **Nuisance**: Low.
+   - **Cost**: €30/m².
+
+**Phase 3: Windows and Ventilation**
+7. **Replace Windows (WindowsBedrooms, WindowsLivingArea)**
+   - **Action**: Replace windows with better-insulated frames and glazing.
+   - **Ordering**: 46 (moderate priority).
+   - **Nuisance**: High.
+   - **Cost**: €800/m².
+
+8. **Replace Glazing (WindowGlazingBedrooms, WindowGlazingLivingArea)**
+   - **Action**: Upgrade to triple glazing if possible.
+   - **Ordering**: 43 (moderate priority).
+   - **Nuisance**: High.
+   - **Cost**: €200/m².
+
+9. **Replace Ventilation System (VentilationSystem)**
+   - **Action**: Upgrade to a mechanical ventilation system (e.g., VentilationSystemD).
+   - **Ordering**: 52 (moderate priority).
+   - **Nuisance**: Moderate.
+   - **Cost**: €3500 (fixed) + €17/m².
+
+**Phase 4: Heating and Renewable Energy**
+10. **Place Air-Water Heat Pump (Generation_System)**
+    - **Action**: Install an air-water heat pump for efficient heating.
+    - **Ordering**: 67 (moderate priority).
+    - **Nuisance**: Moderate.
+    - **Cost**: €8000 (fixed) + €35/m².
+
+11. **Place PV Panels on Roof (RoofMain)**
+    - **Action**: Install PV panels on the gable roof.
+    - **Ordering**: 85 (low priority).
+    - **Nuisance**: Low.
+    - **Cost**: €275/m².
+    - **Note**: Check roof orientation and shading.
+
+**Phase 5: Final Touches**
+12. **Place Sunshade (WindowsBedrooms, WindowsLivingArea)**
+    - **Action**: Install sunshades to reduce solar gain in summer.
+    - **Ordering**: 79 (low priority).
+    - **Nuisance**: Low.
+    - **Cost**: €750 (fixed).
+
+#### **4. Expected Outcomes**
+- **Improved EPC**: Significant reduction in energy consumption and better thermal comfort.
+- **Cost-Effectiveness**: Prioritize high-impact, low-cost actions first (e.g., insulation, roof replacement).
+- **Long-Term Savings**: Lower energy bills and potential government incentives for renewable energy installations.
+
+#### **5. Notes**
+- **Asbestos Check**: Ensure asbestos removal if present in roofs or walls.
+- **Permits**: Check local regulations for permits, especially for exterior work.
+- **Phasing**: Work from top to bottom (roof → walls → floor) to minimize disruption.
+
+This plan ensures a structured, cost-effective approach to improving the building's energy efficiency while maximizing long-term benefits.

@@ -1,0 +1,43 @@
+To maximize energy efficiency while remaining cost-effective for this 1951 semi-detached building (EPC score: 388), the renovation should follow the **"Fabric First"** principle. This means we prioritize reducing energy demand through insulation before upgrading the systems that generate heat.
+
+Based on the provided ontology and building data, here is the optimal renovation path.
+
+### Phase 1: Thermal Envelope (Demand Reduction)
+*The goal here is to stop heat loss. These are the most cost-effective upgrades with the highest immediate impact on the EPC label.*
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently not insulated. Since heat rises, this is the highest priority to prevent thermal leakage.
+2.  **Insulate Wall Cavity:** The front, rear, and right walls are full brick and not insulated. Cavity wall insulation is significantly more cost-effective ($\approx 22/m^2$) and less disruptive than exterior insulation.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. This prevents "cold feet" and reduces the load on the heating system.
+4.  **Insulate Flat Roof:** The `RoofExtension` is only moderately insulated; adding further insulation here will bring the entire building envelope up to a consistent standard.
+
+### Phase 2: Ventilation & Air Quality
+*Once the house is sealed with insulation, proper ventilation is required to prevent condensation and maintain air quality.*
+
+5.  **Replace Ventilation System:** The building currently uses Ventilation System A (natural supply/exhaust). Upgrading to a more modern system (such as System D with heat recovery) will prevent the newly insulated home from losing heat through ventilation.
+
+### Phase 3: Energy Generation & Emission (System Upgrade)
+*With a reduced energy demand, we can now install a smaller, more efficient heating system. Geothermal options were ruled out based on the site data.*
+
+6.  **Place Air-Water Heat Pump:** Since there is a reason to change the emission system and no heat grid is available, an air-water heat pump is the most efficient replacement for the existing boiler, especially as the building already has radiators and floor heating.
+7.  **Place Heat Pump Boiler:** To further reduce reliance on the main heating system for domestic hot water, a dedicated heat pump boiler should be installed.
+
+### Phase 4: Renewable Energy (Operational Cost Reduction)
+*The final step is to offset the electricity consumption of the new heat pumps.*
+
+8.  **Place PV-Panels on Roof:** The building has high potential for PV. Installing solar panels will provide the electricity needed to run the air-water heat pump and the heat pump boiler, drastically lowering long-term operational costs.
+
+---
+
+### Summary of the Renovation Sequence
+| Sequence | Action | Target Element | Efficiency Gain | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | Very High | High |
+| **2** | **Insulate Wall Cavity** | Walls (Front/Rear/Right) | High | Very High |
+| **3** | **Insulate Floor** | FloorAboveBasement | Medium | High |
+| **4** | **Upgrade Ventilation** | VentilationSystem | Medium | Medium |
+| **5** | **Air-Water Heat Pump** | Generation System | Very High | Medium |
+| **6** | **Heat Pump Boiler** | Water Heating | High | Medium |
+| **7** | **PV-Panels** | Roof | Very High (OpEx) | High (Long-term) |
+
+**Why skip window replacement?**
+The current windows are double-glazed and the wooden frames are in a "Good State." Replacing them with triple glazing is very expensive ($\approx 800/m^2$) and provides diminishing returns compared to the massive gains found in insulating the non-insulated roof, walls, and floor.

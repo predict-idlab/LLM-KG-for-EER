@@ -1,0 +1,75 @@
+### Renovation Plan for Detached Building (1862, EPC: 165)
+
+**Building Overview:**
+- **Type:** Detached building (1862)
+- **EPC Score:** 165 (B Label)
+- **Current Issues:**
+  - All external walls (`Wall_Front`, `Wall_Rear`, `Wall_Left`, `Wall_Right`) are cavity walls with **no insulation**.
+  - **Single-glazed windows** in both living area and bedrooms.
+  - **FloorAboveCrawlSpace** is uninsulated.
+  - **Presence of electric convectors** (high energy consumption).
+  - **No ventilation system** (air quality concerns).
+
+**Renovation Goals:**
+1. **Improve thermal comfort** (reduce heat loss).
+2. **Lower energy consumption** (reduce reliance on electric convectors).
+3. **Upgrade to a more efficient heating system** (reduce carbon footprint).
+4. **Ensure adequate ventilation** (prevent moisture buildup).
+
+**Proposed Renovation Path:**
+
+#### **Phase 1: Thermal Envelope Optimization (Fabric First)**
+*(Highest ROI—reduce heat loss first.)*
+1. **Insulate Wall Cavity (Exterior Walls)**
+   - Since all walls are cavity walls, **injecting insulation** is the most cost-effective method.
+   - **Action:** Insulate all four walls (`Wall_Front`, `Wall_Rear`, `Wall_Left`, `Wall_Right`).
+   - **Expected Benefit:** Significant reduction in heat loss through walls.
+
+2. **Insulate Floor Above Crawl Space**
+   - The **uninsulated floor** allows cold air from the crawl space to seep into the living area.
+   - **Action:** Insulate the floor to prevent heat loss downward.
+   - **Expected Benefit:** Warmer floors and reduced heating demand.
+
+3. **Replace Glazing (Double Glazing)**
+   - The single-glazed windows are a major source of heat loss.
+   - **Action:** Replace all single-glazed windows with **double-glazed units** (or triple-glazed if budget allows).
+   - **Expected Benefit:** Reduced heat loss through windows.
+
+#### **Phase 2: Heating System Upgrade**
+*(Transition to a more efficient system after reducing heat loss.)*
+4. **Replace Electric Convector with Air-Water Heat Pump**
+   - The current **electric convectors** are inefficient and costly to run.
+   - **Action:** Install an **air-water heat pump** (AWHP) with **low-temperature emissions**.
+   - **Expected Benefit:** Lower energy bills and reduced carbon footprint.
+
+#### **Phase 3: Ventilation & Air Quality**
+*(Ensure proper air exchange in a now-sealed envelope.)*
+5. **Install Ventilation System (Ventilation System B or C)**
+   - The absence of a ventilation system may lead to moisture buildup.
+   - **Action:** Install a **mechanical ventilation system** (e.g., System B or C) with heat recovery.
+   - **Expected Benefit:** Improved indoor air quality and reduced condensation risks.
+
+#### **Phase 4: Sustainable Energy Generation (Optional)**
+*(Further reduce dependency on grid electricity.)*
+6. **Install PV Panels (If Roof is Suitable)**
+   - The building has **potential for PV panels**.
+   - **Action:** Install **plug-and-play PV panels** on the roof (if structurally feasible).
+   - **Expected Benefit:** Generates renewable electricity to power the heat pump and reduce energy costs.
+
+### **Summary of Optimal Sequence**
+| **Sequence** | **Action** | **Rationale** |
+|-------------|------------|-------------|
+| **1** | **Insulate Wall Cavity** (All 4 walls) | Reduces heat loss through walls. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents cold air from seeping upward. |
+| **3** | **Replace Glazing (Double Glazing)** | Reduces heat loss through windows. |
+| **4** | **Replace Electric Convector with AWHP** | More efficient heating system. |
+| **5** | **Install Ventilation System (B or C)** | Ensures proper air exchange. |
+| **6** | **Install PV Panels (If Roof is Suitable)** | Generates renewable electricity. |
+
+### **Cost-Effectiveness & Practicality**
+- **Prioritize insulation** (highest ROI) before upgrading heating systems.
+- **Replace glazing** before installing a heat pump (to avoid oversizing).
+- **Consider ventilation** after sealing the envelope (to prevent moisture issues).
+- **PV panels** are optional but recommended for long-term savings.
+
+This plan ensures **maximum energy efficiency** while remaining **cost-effective**.

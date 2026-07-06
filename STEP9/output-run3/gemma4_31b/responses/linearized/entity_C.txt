@@ -1,0 +1,30 @@
+### Analysis of Building State
+The building is a very modern **Attached Building** (constructed in 2023) with an already excellent energy profile (**EPC score: 50**, which corresponds to an **A+ label**). Most elements—including the walls, floor above basement, and the flat roof extension—are already **Well Insulated**. The windows feature **Double Glazing** in good condition.
+
+However, there are three primary areas for improvement to satisfy the owner's motivation to further improve the EPC:
+1.  **Thermal Envelope Gap:** The main gable roof is only **Moderately Insulated**, creating a thermal inconsistency compared to the rest of the building.
+2.  **Heating Generation:** The building currently relies on a **Boiler**. Given that the building has a stated reason to change the emission system and is already highly insulated, transitioning to a renewable heat source is the logical step.
+3.  **Emission Inefficiency:** The building uses a mix of **Floor Heating** (efficient) and **Electric Convectors** (highly inefficient).
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the "Fabric First" principle—optimizing the shell before upgrading the technical installations.
+
+#### Step 1: Optimize the Thermal Shell
+*   **Action:** **Insulate gable roof**.
+*   **Reasoning:** This is the only remaining "moderate" point in the building's insulation. Improving the gable roof to "Well Insulated" will minimize heat loss through the top of the house, ensuring that the subsequent heating system upgrade is sized correctly and operates at maximum efficiency.
+
+#### Step 2: Upgrade Heating Generation
+*   **Action:** **Place air-water heat pump**.
+*   **Reasoning:** The site lacks potential for geothermal drilling (both vertical and horizontal) and there is no available heat grid. An air-water heat pump is the most cost-effective and efficient alternative to a boiler, especially since the building already possesses a low-temperature emission system (floor heating).
+
+#### Step 3: Standardize Emission Systems
+*   **Action:** **Place emission system on low temperature**.
+*   **Reasoning:** The current use of electric convectors is an energy drain. By replacing these with low-temperature emitters (such as low-temp radiators or extending the floor heating), the building can fully leverage the efficiency of the air-water heat pump, eliminating the need for high-energy electric resistance heating.
+
+### Summary of the Sequence
+1.  **Insulate Gable Roof** $\rightarrow$ (Reduces energy demand).
+2.  **Place Air-Water Heat Pump** $\rightarrow$ (Transitions to renewable energy generation).
+3.  **Place Emission System on Low Temperature** $\rightarrow$ (Removes inefficient electric convectors and optimizes heat distribution).
+
+This path is highly cost-effective because it avoids unnecessary replacements (like windows or walls that are already well-insulated) and focuses strictly on the remaining weaknesses of a nearly new, high-performance home.

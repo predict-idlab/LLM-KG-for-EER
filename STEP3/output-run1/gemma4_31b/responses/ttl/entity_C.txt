@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path.
+
+### **Building Analysis**
+The building is a very modern attached house (constructed in 2023) with an already excellent energy performance certificate (EPC score: 50.0, which falls under the **A Label**). Most elements—including the walls, floor above basement, and flat roof—are already "Well Insulated." The ventilation system is already at the highest standard (System D).
+
+However, the owner's motivation is to further improve the EPC, and the data indicates a specific reason to change the emission system. The primary opportunities for improvement lie in the gable roof, the window glazing, and the heating generation system.
+
+---
+
+### **Proposed Renovation Plan**
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the "envelope-first" principle: improve the building's shell to reduce heat loss before upgrading the heating system.
+
+#### **Phase 1: Thermal Envelope Optimization**
+*Goal: Reduce heat loss to the lowest possible level to allow for a smaller, more efficient heating system.*
+
+1.  **Insulate Gable Roof:** The main roof is currently only "Moderately Insulated." Upgrading this to "Well Insulated" is the most immediate gain for the building shell.
+2.  **Replace Glazing:** The windows currently have double glazing and the wooden frames are in "Good State" (Value: 8). To be cost-effective, **replace only the glazing** (upgrading to triple glazing) rather than replacing the entire window unit. This leverages the existing high-quality frames.
+
+#### **Phase 2: Emission System Alignment**
+*Goal: Prepare the home for high-efficiency heat generation.*
+
+3.  **Place Emission System on Low Temperature:** Since the building already has floor heating, optimizing the emission system for low temperatures is a crucial prerequisite for the efficiency of a heat pump. This ensures the system doesn't have to work harder than necessary to maintain comfort.
+
+#### **Phase 3: Sustainable Heat Generation**
+*Goal: Replace fossil-fuel or inefficient electric heating with a high-performance renewable source.*
+
+4.  **Place Air-Water Heat Pump:** The building has a reason to change its emission system and currently uses electric convectors (which are energy-intensive). Since geothermal options are not viable for this site, an air-water heat pump is the most efficient choice. It integrates perfectly with the existing floor heating and the newly optimized low-temperature emission system.
+
+---
+
+### **Summary of Sequence and Logic**
+
+| Sequence | Action | Logic |
+| :--- | :--- | :--- |
+| **1** | `insulate gable roof` | Addresses the only "moderate" insulation point in the shell. |
+| **2** | `replace glazing` | Improves U-value while preserving existing high-quality frames. |
+| **3** | `place emission system on low temperature` | Optimizes heat distribution for the upcoming heat pump. |
+| **4** | `place air-water heatpump` | Transitions to a high-efficiency, sustainable heat source. |
+
+**Cost-Effectiveness Note:** By upgrading only the glazing and avoiding unnecessary wall/floor insulation (which is already optimal), the budget is focused on the highest-impact areas. The sequence ensures that the heat pump is sized correctly for a highly insulated home, preventing over-investment in equipment.

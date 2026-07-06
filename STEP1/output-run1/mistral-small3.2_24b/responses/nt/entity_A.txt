@@ -1,0 +1,64 @@
+### Renovation Plan
+
+#### **1. Insulate the Roof (Main and Extension)**
+- **Affected Element**: RoofMain, RoofExtension
+- **Reason**: Both roofs are currently not insulated (grade: NotInsulated) and have a good state (state value: 8).
+- **Action**: Insulate the roofs with an inverted roof structure (not a cold roof). Place the insulation on top of the roof covering, do not insulate the flat roof on the inside.
+- **Nuisance Level**: High
+- **Permit Needed**: Only if thickness of total pack >26cm (Flanders)
+- **Ordering**: 25 (RoofExtension) and 26 (RoofMain)
+
+#### **2. Insulate the Walls (Front, Rear, Right)**
+- **Affected Elements**: Wall_Front, Wall_Rear, Wall_Right
+- **Reason**: All walls are currently not insulated (grade: NotInsulated) and do not have any historical protection.
+- **Action**: Insulate the walls on the exterior. Ensure the cladding is vapour-permeable enough and check that the building line and council's guidelines allow for the desired type of cladding.
+- **Nuisance Level**: High
+- **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders)
+- **Ordering**: 40 (all walls)
+
+#### **3. Replace the Emission System**
+- **Affected Element**: EmissionSystem
+- **Reason**: The building has a reason to change the emission system (true).
+- **Action**: Consider replacing the current emission system with a more efficient one, such as a heat pump or a modern boiler.
+- **Nuisance Level**: Moderate
+- **Permit Needed**: Not necessary (Flanders)
+- **Ordering**: 70
+
+#### **4. Insulate the Floor Above Basement**
+- **Affected Element**: FloorAboveBasement
+- **Reason**: The floor above the basement is currently not insulated (grade: NotInsulated) and does not have any historical protection.
+- **Action**: Insulate the floor above the basement. Ensure a vapour barrier is installed on the warm side of the insulation.
+- **Nuisance Level**: Low
+- **Permit Needed**: Not necessary (Flanders)
+- **Ordering**: 49
+
+#### **5. Replace the Ventilation System**
+- **Affected Element**: VentilationSystem
+- **Reason**: The current ventilation system is of type A, which may not be the most efficient.
+- **Action**: Consider upgrading to a more efficient ventilation system, such as type C, which requires ducts for both supply and return.
+- **Nuisance Level**: Moderate
+- **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+- **Ordering**: 52
+
+#### **6. Replace the Windows in the Living Area and Bedrooms**
+- **Affected Elements**: WindowsLivingArea, WindowsBedrooms
+- **Reason**: The windows currently have double glazing, but the frames are made of wood, which may not be the most thermally efficient material.
+- **Action**: Replace the windows with more energy-efficient ones, considering the type of glazing and the condition of the window frames.
+- **Nuisance Level**: High
+- **Permit Needed**: Not necessary if the measurements are kept (Flanders)
+- **Ordering**: 46 (all windows)
+
+#### **7. Consider Solar Panels**
+- **Affected Element**: Building
+- **Reason**: The building has potential for PV panels (true).
+- **Action**: Consider installing solar panels on the roof or in the garden, ensuring they are properly oriented and capture enough sunlight.
+- **Nuisance Level**: Low
+- **Permit Needed**: Not necessary if the panels are in the same plane (Flanders) for roof panels; not necessary (Flanders) for garden panels.
+- **Ordering**: 85 (roof) or 88 (garden)
+
+### **Additional Considerations**
+- **Energy Performance Certificate (EPC)**: The current EPC score is 388, which indicates a significant opportunity for improvement. The goal should be to improve the EPC to at least a C label (score between 200 and 300 kWh/m²year).
+- **Historical Protection**: None of the elements have historical protection, so no additional constraints apply.
+- **Motivation**: The owner's motivation is to improve the EPC, which aligns well with the proposed actions.
+
+This plan prioritizes actions that address the most significant energy inefficiencies first, ensuring a comprehensive approach to improving the building's energy performance.

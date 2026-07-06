@@ -1,0 +1,9 @@
+{
+    "completeness":{
+        "missing_actions":["place PV-panels on roof"],
+        "extra_actions":["place air-water heatpump"]
+    },
+    "sequence":{
+        "order_errors":["insulate floor above basement"]
+    }
+}

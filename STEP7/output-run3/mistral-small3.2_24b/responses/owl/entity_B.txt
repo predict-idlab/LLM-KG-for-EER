@@ -1,0 +1,11 @@
+1. insulate wall cavity in wall_rear
+2. insulate wall cavity in wall_front
+3. insulate floor above basement in floor_above_basement
+4. insulate gable roof in roof_main
+5. insulate flat roof in roof_extension
+6. replace glazing in windows_living_area
+7. replace glazing in windows_bedrooms
+8. place pv-panels on roof in roof_main
+9. replace ventilation system in ventilation_system
+10. place emission system on low temperature in emission_system
+11. place air-water heatpump in generation_system

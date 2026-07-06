@@ -1,0 +1,56 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. 
+
+The strategy follows the **"Fabric First"** principle: we first minimize heat loss through the building envelope before upgrading the heating and energy generation systems. This prevents the installation of oversized, inefficient heating systems and maximizes the return on investment.
+
+### **Phase 1: Thermal Envelope Optimization (High Priority)**
+The building currently has an EPC score of **388.0 (Label D)**, indicating significant energy leakage. The primary goal here is to move the building toward a lower energy score by addressing "Not Insulated" elements.
+
+1.  **Roof Insulation (Gable Roof):** 
+    *   **Action:** `reno:InsulateGableRoof`.
+    *   **Reasoning:** The main roof is currently not insulated. Heat rises, making this the most cost-effective way to reduce energy consumption.
+    *   **Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+2.  **Wall Insulation (Front, Rear, and Right Walls):**
+    *   **Action:** `reno:InsulateWallExterior` (Preferred) or `reno:InsulateWallInterior`.
+    *   **Reasoning:** All three external walls are "Full Brick" and "Not Insulated." Since they are not cavity walls, injection is not possible. Exterior insulation is more efficient; interior is more cost-effective but reduces living space.
+3.  **Floor Insulation:**
+    *   **Action:** `reno:InsulateFloorAboveBasement`.
+    *   **Reasoning:** The floor above the basement is currently not insulated. This eliminates cold drafts from the basement.
+
+### **Phase 2: Ventilation & Air Quality (Medium Priority)**
+Once the building is "sealed" with insulation, the existing ventilation becomes insufficient.
+
+4.  **Ventilation System Upgrade:**
+    *   **Action:** `reno:ReplaceVentilationSystem`.
+    *   **Reasoning:** The building currently uses **Ventilation System A** (natural supply/exhaust). Upgrading to System C or D will prevent moisture buildup and improve thermal comfort now that the envelope is tighter.
+
+### **Phase 3: Heating System Modernization (Systemic Upgrade)**
+The building has a flagged need to change the emission system (`hasReasonToChangeEmissionSystem true`).
+
+5.  **Heating Generation Upgrade:**
+    *   **Action:** `reno:PlaceAirWaterHeatpump`.
+    *   **Reasoning:** Geothermal options are unavailable for this site, and there is no heat grid. An air-water heat pump is the most efficient electric alternative to a traditional boiler, especially when paired with the existing floor heating and radiators.
+6.  **Emission System Optimization:**
+    *   **Action:** `reno:PlaceLowTemperatureEmission`.
+    *   **Reasoning:** To maximize the efficiency of the heat pump, the emission system should be transitioned to low-temperature operation.
+
+### **Phase 4: Renewable Energy Integration (Final Step)**
+To offset the increased electricity demand from the heat pump and further improve the EPC label.
+
+7.  **Solar Energy Installation:**
+    *   **Action:** `reno:PlacePVPanelsOnRoof`.
+    *   **Reasoning:** The building has `hasPotentialForPV true`. Installing PV panels on the roof is the final step to lower operational costs and achieve a high energy performance rating.
+
+---
+
+### **Summary of the Optimal Sequence**
+
+| Sequence | Renovation Step | Target Element | Priority | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | Critical | High $\downarrow$ Heat Loss |
+| **2** | **Insulate Exterior Walls** | Wall_Front, Rear, Right | High | High $\downarrow$ Heat Loss |
+| **3** | **Insulate Floor** | FloorAboveBasement | Medium | Medium $\downarrow$ Heat Loss |
+| **4** | **Upgrade Ventilation** | VentilationSystem | Medium | Air Quality / Health |
+| **5** | **Air-Water Heat Pump** | Generation_System | High | $\downarrow$ Carbon / Energy Cost |
+| **6** | **Install PV Panels** | RoofMain | Medium | $\downarrow$ Operational Cost |
+
+**Cost-Effectiveness Note:** By insulating first, the required capacity of the Heat Pump (Step 5) will be smaller, reducing both the initial purchase price and the long-term electricity bills.

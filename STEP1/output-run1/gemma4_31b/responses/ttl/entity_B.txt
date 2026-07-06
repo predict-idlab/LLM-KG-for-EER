@@ -1,0 +1,50 @@
+Based on the provided building data and the RENO ontology, the property is a mid-19th-century attached building with an EPC score of **262.0 (C Label)**. The owner's primary motivation is to improve the EPC. 
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** approach. The most critical error in renovations is upgrading heating systems before reducing the heat demand of the building envelope.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Reducing Demand)
+The building has significant heat loss through uninsulated elements. These should be addressed first to ensure that any future heating system is correctly sized and efficient.
+
+1.  **Insulate Flat Roof (RoofExtension):** The flat roof is currently not insulated. This is a high-priority area for heat loss. 
+    *   *Suggestion:* `reno:InsulateFlatRoof`.
+2.  **Insulate Floor Above Basement:** The floor above the basement is not insulated. This is a cost-effective way to eliminate "cold feet" and reduce base heat loss.
+    *   *Suggestion:* `reno:InsulateFloorAboveBasement`.
+3.  **External Wall Insulation (Wall_Front & Wall_Rear):** Both walls are "Full Brick" (meaning no cavity for injection) and not insulated. 
+    *   *Suggestion:* `reno:InsulateWallExterior`. While higher in cost and nuisance, this provides the most significant jump in EPC performance.
+
+#### Phase 2: Air Quality & Ventilation
+Increasing insulation creates an airtight seal, which can lead to moisture and mold issues if ventilation is not upgraded from the current natural system (System A).
+
+4.  **Upgrade Ventilation:** Move from Ventilation System A to a more controlled system to maintain indoor air quality.
+    *   *Suggestion:* `reno:ReplaceVentilationSystem` (Targeting System C or D).
+
+#### Phase 3: Low-Carbon Heating Transition
+Now that the heat demand is lowered, the current boiler and radiator system can be replaced. The owner has explicitly indicated a reason to change the emission system.
+
+5.  **Low-Temperature Emission System:** Heat pumps are inefficient when paired with traditional high-temperature radiators.
+    *   *Suggestion:* `reno:PlaceLowTemperatureEmission` (e.g., underfloor heating or oversized radiators).
+6.  **Air-Water Heat Pump:** Since geothermal potential is `false` and there is no heat grid, an air-to-water system is the most sustainable choice.
+    *   *Suggestion:* `reno:PlaceAirWaterHeatpump`.
+
+#### Phase 4: Renewable Energy Integration
+To offset the electricity consumption of the new heat pump and further improve the EPC score.
+
+7.  **Solar PV Installation:** The building has confirmed potential for PV.
+    *   *Suggestion:* `reno:PlacePVPanelsOnRoof`.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Order | Action | RENO Class | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof & Floor Insulation** | `InsulateFlatRoof` $\rightarrow$ `InsulateFloorAboveBasement` | Quickest wins for reducing heat loss. |
+| **2** | **Wall Insulation** | `InsulateWallExterior` | Essential for moving from C Label to B/A. |
+| **3** | **Ventilation** | `ReplaceVentilationSystem` | Prevents condensation in a newly insulated home. |
+| **4** | **Emission Upgrade** | `PlaceLowTemperatureEmission` | Prerequisite for efficient Heat Pump operation. |
+| **5** | **Generation Upgrade** | `PlaceAirWaterHeatpump` | Replaces the old boiler with a low-carbon source. |
+| **6** | **Renewables** | `PlacePVPanelsOnRoof` | Lowers operational costs and maximizes EPC. |
+
+**Cost-Effectiveness Note:** By following this sequence, you avoid "over-specifying" the heat pump (buying a unit larger than necessary because the walls were leaky), which reduces both initial capital expenditure and monthly energy bills.

@@ -1,0 +1,84 @@
+Based on the provided RENO ontology and the building information, here’s a cost-effective and energy-efficient renovation plan for the building:
+
+### **Renovation Plan for Attached Building (2023 Construction)**
+**Goal:** Improve the Energy Performance Certificate (EPC) score from 50 to a higher label (e.g., C or B) while ensuring cost-effectiveness and minimal disruption.
+
+---
+
+#### **1. Insulate the Roof (RoofMain and RoofExtension)**
+   - **Action:** Insulate the gable roof (RoofMain) and flat roof (RoofExtension).
+   - **Why:** Roof insulation is critical for reducing heat loss, especially in gable and flat roofs with moderate insulation (RoofMain) and well-insulated (RoofExtension) grades.
+   - **Recommendation:**
+     - For the gable roof (RoofMain), use walkable insulation if needed (e.g., attic floor access).
+     - Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+   - **Cost:** ~€50–€60/m² (RoofMain) and €50/m² (RoofExtension).
+
+#### **2. Insulate the Walls (Wall_Front and Wall_Rear)**
+   - **Action:** Insulate the front (Wall_Front) and rear (Wall_Rear) walls, both of which are well-insulated (FullBrickWall type).
+   - **Why:** Wall insulation reduces heat loss and improves thermal comfort.
+   - **Recommendation:**
+     - If the walls are exterior-facing, consider exterior insulation (permits may be required).
+     - For interior insulation, relocate sockets, pipes, and radiators against the walls.
+   - **Cost:** ~€150–€200/m² (interior insulation).
+
+#### **3. Upgrade Window Glazing (WindowsLivingArea and WindowsBedrooms)**
+   - **Action:** Replace or upgrade the glazing of the windows in the living area and bedrooms.
+   - **Why:** The current double glazing (WindowGlazingLivingArea and WindowGlazingBedrooms) can be improved to triple glazing for better thermal performance.
+   - **Recommendation:**
+     - Ensure the window frames (WoodenWindowFrame) are in good condition and can support the new glazing.
+     - Check for thermal breaks in the frames to prevent heat loss.
+   - **Cost:** ~€200–€300/m² (triple glazing).
+
+#### **4. Replace the Emission System (EmissionSystem)**
+   - **Action:** Replace the electric convector (EmissionSystem) with a more efficient system.
+   - **Why:** Electric convectors are energy-intensive and less efficient than alternatives like heat pumps.
+   - **Recommendation:**
+     - Consider a low-temperature emission system (e.g., underfloor heating) or an air-water heat pump.
+     - Ensure the new system is compatible with the existing floor heating (EmissionSystem).
+   - **Cost:** ~€35–€100/m² (low-temperature emission system).
+
+#### **5. Upgrade the Ventilation System (VentilationSystem)**
+   - **Action:** Replace the existing ventilation system (VentilationSystemD) with a more efficient system (e.g., VentilationSystemA or B).
+   - **Why:** Ventilation systems impact air quality and energy efficiency.
+   - **Recommendation:**
+     - Choose a system that works on natural air supply and mechanical air exhaust (VentilationSystemA).
+     - Ensure proper ductwork is installed.
+   - **Cost:** ~€17–€35/m² (VentilationSystemA).
+
+#### **6. Consider Solar Panels (PVPanels)**
+   - **Action:** Install plug-and-play PV panels on the roof (PVPanels).
+   - **Why:** Solar panels can reduce energy costs and improve sustainability.
+   - **Recommendation:**
+     - Check the roof’s orientation and shading to ensure optimal sunlight exposure.
+     - Ensure the panels are securely installed and comply with local regulations.
+   - **Cost:** ~€275/m² (PVPanelsOnRoof).
+
+#### **7. Address Asbestos (If Applicable)**
+   - **Action:** Remove asbestos from the roof (RoofMain) if present.
+   - **Why:** Asbestos removal is necessary for safety and compliance.
+   - **Recommendation:**
+     - Hire a licensed asbestos removal company for non-bonded asbestos.
+   - **Cost:** ~€40–€45/m² (RoofMain).
+
+---
+
+### **Prioritization and Order of Execution**
+1. **Roof Insulation** (High priority due to significant heat loss).
+2. **Wall Insulation** (Critical for thermal comfort and energy savings).
+3. **Window Glazing Upgrade** (Improves thermal performance).
+4. **Emission System Replacement** (Enhances heating efficiency).
+5. **Ventilation System Upgrade** (Improves air quality and energy efficiency).
+6. **Solar Panels Installation** (Optional but beneficial for long-term savings).
+7. **Asbestos Removal** (If applicable).
+
+### **Expected Outcomes**
+- **Improved EPC Label:** From E to C or B (depending on the extent of renovations).
+- **Reduced Energy Consumption:** Lower heating costs and improved thermal comfort.
+- **Cost-Effectiveness:** Prioritized upgrades ensure maximum energy savings per euro spent.
+
+### **Next Steps**
+- Obtain detailed quotes from contractors for the proposed renovations.
+- Check local regulations and permits for insulation and ventilation system upgrades.
+- Consider financing options or government incentives for energy-efficient renovations.
+
+This plan is designed to maximize energy efficiency while minimizing costs and disruption.

@@ -1,0 +1,43 @@
+### Analysis of Building Status
+The building is a relatively modern semi-detached house (constructed in 2017) with an already impressive energy profile. With an **EPC score of 87**, it currently sits in the **'A' label** category. Most critical elements—including the walls, flat roof, and floor above the basement—are already classified as **"Well Insulated."** Furthermore, the building is already equipped with high-efficiency systems: a **Heat Pump** for generation and a **Ventilation System D** (the most efficient type).
+
+However, to maximize energy efficiency and further improve the EPC toward the A+ range, there is one clear structural weakness and a few operational opportunities.
+
+---
+
+### Proposed Renovation Path
+
+Given that the building is already high-performing, the focus shifts from "major overhaul" to "fine-tuning." The goal is to eliminate the remaining thermal bridges and reduce seasonal energy peaks.
+
+#### Step 1: Thermal Envelope Optimization (Priority: High)
+*   **Action:** **Insulate Gable Roof**
+*   **Reasoning:** While most of the house is "Well Insulated," the main gable roof is only **"Moderately Insulated."** In a building where walls and floors are already optimized, the roof becomes the primary path for heat loss in winter and heat gain in summer. 
+*   **Cost-Effectiveness:** With a unit price of **60/m²**, this is a high-impact, mid-cost upgrade.
+*   **Sequence Note:** This must be done first to ensure the building envelope is fully sealed before addressing internal climate controls.
+
+#### Step 2: Passive Cooling & Operational Efficiency (Priority: Medium)
+*   **Action:** **Place Sunshade**
+*   **Reasoning:** Modern, well-insulated houses with high-efficiency glazing often suffer from overheating during summer. Adding external sunshades is the most cost-effective way to reduce the cooling load on the heat pump, thereby lowering electricity consumption.
+*   **Cost-Effectiveness:** This is a low-cost intervention (**fixed price of 750**) with a significant impact on summer energy operational performance.
+*   **Sequence Note:** This is a "finishing touch" that complements the high insulation levels.
+
+#### Step 3: Long-term Glazing Upgrade (Priority: Low/Optional)
+*   **Action:** **Replace Glazing** (Upgrade from Double to Triple Glazing)
+*   **Reasoning:** The building currently has double glazing in a good state. While triple glazing would further reduce the EPC score, the marginal gain is lower because the house is already at an 'A' label.
+*   **Cost-Effectiveness:** At **200/m²**, this is expensive. It is recommended only if the owner has a specific desire to reach a near-zero energy state or if thermal comfort near windows is an issue.
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Target Element | Impact | Cost Profile |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | High (Thermal Loss) | Mid (per m²) |
+| **2** | **Place Sunshade** | Windows/Facades | Mid (Summer Cooling) | Low (Fixed) |
+| **3** | **Replace Glazing** | Windows | Low (Marginal Gain) | High (per m²) |
+
+### Exclusions & Justifications
+*   **PV Panels:** Not proposed because the building data explicitly states `hasPotentialForPV = false`.
+*   **Geothermal Heat Pumps:** Not proposed as the site lacks the potential for horizontal or vertical drilling and the building already possesses a functioning Heat Pump.
+*   **Wall/Floor Insulation:** Not proposed as these are already "Well Insulated."
+*   **Ventilation/Emission Systems:** Not proposed as System D and the existing Heat Pump are already optimal.

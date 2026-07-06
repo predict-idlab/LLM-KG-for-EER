@@ -1,0 +1,67 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **1. Insulate the Attic Floor**
+- **Action**: Insulate the attic floor to reduce heat loss.
+- **Why**: The attic floor is often a significant source of heat loss in older homes. Insulating it will improve thermal comfort and reduce energy consumption.
+- **Cost**: €60 per m².
+- **Nuisance Level**: Low.
+
+#### **2. Insulate the Gable Roof**
+- **Action**: Insulate the gable roof to further reduce heat loss.
+- **Why**: The gable roof is currently well-insulated, but adding additional insulation can enhance energy efficiency.
+- **Cost**: €60 per m².
+- **Nuisance Level**: Low.
+
+#### **3. Replace Glazing on Windows**
+- **Action**: Replace the single glazing on all windows with double glazing.
+- **Why**: Single glazing has poor thermal and acoustic properties. Double glazing will improve insulation and reduce heat loss.
+- **Cost**: €200 per m².
+- **Nuisance Level**: High.
+
+#### **4. Replace the Roof Underlayment**
+- **Action**: Place a roof underlayment to ensure air- and watertightness.
+- **Why**: This will prevent condensation problems and enhance the roof's durability.
+- **Cost**: €65 per m².
+- **Nuisance Level**: Low.
+
+#### **5. Insulate the Wall Cavity**
+- **Action**: Inject insulation into the cavity walls.
+- **Why**: Cavity walls can be effectively insulated to improve thermal performance without significant structural changes.
+- **Cost**: €22 per m².
+- **Nuisance Level**: Low.
+
+#### **6. Replace the Ventilation System**
+- **Action**: Upgrade the ventilation system to a more efficient model.
+- **Why**: An efficient ventilation system can improve air quality and reduce energy consumption.
+- **Cost**: €17 per m².
+- **Nuisance Level**: Moderate.
+
+#### **7. Place PV Panels on the Roof**
+- **Action**: Install photovoltaic (PV) panels on the roof.
+- **Why**: Solar panels can generate renewable energy, reducing reliance on grid electricity and lowering energy costs.
+- **Cost**: €275 per m².
+- **Nuisance Level**: Low.
+
+#### **8. Place a Heat Pump Boiler**
+- **Action**: Install a heat pump boiler for more efficient heating.
+- **Why**: Heat pumps are more energy-efficient than traditional boilers, reducing energy consumption and costs.
+- **Cost**: €4,000 (fixed price).
+- **Nuisance Level**: Moderate.
+
+### **Optimized Sequence of Actions**
+1. **Insulate the Attic Floor**
+2. **Insulate the Gable Roof**
+3. **Replace Glazing on Windows**
+4. **Replace the Roof Underlayment**
+5. **Insulate the Wall Cavity**
+6. **Replace the Ventilation System**
+7. **Place PV Panels on the Roof**
+8. **Place a Heat Pump Boiler**
+
+### **Rationale for Sequence**
+- **Attic and Roof Insulation First**: These actions address the most significant sources of heat loss and are relatively non-disruptive.
+- **Window Glazing and Roof Underlayment**: These improvements enhance the building's thermal envelope and are essential before installing more complex systems.
+- **Wall Cavity Insulation and Ventilation System**: These steps further improve energy efficiency and indoor air quality.
+- **PV Panels and Heat Pump Boiler**: These are the final steps, providing renewable energy generation and efficient heating solutions.
+
+This plan ensures a systematic approach to maximizing energy efficiency while minimizing disruption and cost.

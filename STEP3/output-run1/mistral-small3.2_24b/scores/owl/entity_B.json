@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate gable roof", "insulate wall on interior", "replace glazing", "insulate floor above basement"], "extra_actions": ["insulate wall on exterior"]}, "sequence": {"order_errors": ["replace ventilation system"]}}

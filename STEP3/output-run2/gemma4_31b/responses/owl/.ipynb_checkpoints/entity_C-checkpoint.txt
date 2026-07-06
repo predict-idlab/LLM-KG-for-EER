@@ -1,0 +1,55 @@
+Based on the provided RENO ontology and the building's current state, here is the proposed renovation path. 
+
+### **Building Analysis Summary**
+The building is a very modern construction (2023) with an already excellent energy profile (EPC score of 50, which is an 'A' label). Most elements—including the walls, flat roof, and floor above the basement—are already "Well Insulated." However, there are specific opportunities to move from "excellent" to "optimal" energy performance, particularly regarding the main roof and the heating system.
+
+---
+
+### **Proposed Renovation Plan**
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the **"Envelope First, Systems Second"** logic. This ensures that the heating system is sized correctly for a highly efficient shell.
+
+#### **Phase 1: Thermal Envelope Optimization**
+*Focus: Reducing heat loss through the only moderately insulated remaining shell element.*
+
+1.  **Insulate Gable Roof**
+    *   **Reasoning:** While most of the building is well-insulated, the main gable roof is only "Moderately Insulated." This is the most significant gap in the thermal envelope.
+    *   **Benefit:** Reduces heat loss through the top of the house.
+    *   **Cost-Effectiveness:** High (low nuisance level and relatively low unit price).
+2.  **Replace Glazing (Double $\rightarrow$ Triple)**
+    *   **Reasoning:** The building currently has double glazing and the wooden frames are in "Good State." Replacing only the glazing rather than the entire window unit is the most cost-effective way to further reduce U-values.
+    *   **Benefit:** Significant reduction in thermal bridging and improved acoustic insulation.
+
+#### **Phase 2: Heating and Emission System Upgrade**
+*Focus: Replacing inefficient electrical heating with a sustainable, high-efficiency alternative.*
+
+3.  **Place Air-Water Heat Pump**
+    *   **Reasoning:** The building currently uses Electric Convectors (which are energy-intensive) and has a flagged "reason to change emission system." Geothermal options are ruled out due to lack of site potential, and a heat grid is unavailable.
+    *   **Benefit:** Shifts the building away from expensive electric resistance heating to a highly efficient heat pump system.
+    *   **Synergy:** This system integrates perfectly with the existing Floor Heating already present in the building.
+4.  **Place Emission System on Low Temperature**
+    *   **Reasoning:** To maximize the Coefficient of Performance (COP) of the new heat pump, the emission system should be optimized for low-temperature operation.
+
+#### **Phase 3: Passive Gains & Final Touches**
+*Focus: Low-cost additions to reduce summer cooling loads.*
+
+5.  **Place Sunshades**
+    *   **Reasoning:** With high-performance glazing and insulation, overheating in the summer can become an issue.
+    *   **Benefit:** Reduces the need for active cooling (air conditioning), further lowering long-term operational costs.
+
+---
+
+### **Summary of Optimal Sequence & Logic**
+
+| Sequence | Action | Priority | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Fix the weakest part of the thermal envelope first. |
+| **2** | **Replace Glazing** | Medium | Upgrade to Triple Glazing while leveraging existing good frames. |
+| **3** | **Air-Water Heat Pump** | High | Replace inefficient electric convectors with a sustainable source. |
+| **4** | **Low Temp Emission** | Medium | Optimize the heat pump's efficiency. |
+| **5** | **Place Sunshades** | Low | Prevent summer overheating cost-effectively. |
+
+**Excluded Actions:**
+*   **PV Panels:** Not proposed because the building data explicitly states `hasPotentialForPV = false`.
+*   **Wall/Floor Insulation:** Not proposed as these are already "Well Insulated."
+*   **Window Replacement:** Not proposed as frames are in "Good State"; replacing only the glazing is more cost-effective.

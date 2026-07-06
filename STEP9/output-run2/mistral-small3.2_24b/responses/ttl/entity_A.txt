@@ -1,0 +1,83 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### 1. **Insulation Upgrades**
+   - **Insulate Gable Roof (RoofMain)**
+     - **Action**: Insulate the gable roof to improve thermal performance.
+     - **Rationale**: The gable roof is currently not insulated, which can lead to significant heat loss. Insulation will improve energy efficiency.
+     - **Cost**: €60 per m².
+     - **Nuisance Level**: Low.
+
+   - **Insulate Flat Roof (RoofExtension)**
+     - **Action**: Insulate the flat roof to enhance thermal performance.
+     - **Rationale**: The flat roof is moderately insulated but can benefit from additional insulation to reduce heat loss.
+     - **Cost**: €50 per m².
+     - **Nuisance Level**: High.
+
+   - **Insulate Walls (Wall_Front, Wall_Rear, Wall_Right)**
+     - **Action**: Insulate the walls on the interior to improve thermal performance.
+     - **Rationale**: The walls are currently not insulated, leading to heat loss. Interior insulation is more feasible given the historical protection constraints.
+     - **Cost**: €150 per m².
+     - **Nuisance Level**: Moderate.
+
+   - **Insulate Floor Above Basement (FloorAboveBasement)**
+     - **Action**: Insulate the floor above the basement to reduce heat loss.
+     - **Rationale**: The floor above the basement is not insulated, which can lead to heat loss.
+     - **Cost**: €30 per m².
+     - **Nuisance Level**: Low.
+
+#### 2. **Roof and Window Upgrades**
+   - **Replace Flat Roof (RoofExtension)**
+     - **Action**: Replace the flat roof to improve insulation and durability.
+     - **Rationale**: The flat roof is moderately insulated and may need replacement to enhance energy efficiency.
+     - **Cost**: €120 per m².
+     - **Nuisance Level**: High.
+
+   - **Replace Gable Roof (RoofMain)**
+     - **Action**: Replace the gable roof to improve insulation and durability.
+     - **Rationale**: The gable roof is not insulated and may need replacement to enhance energy efficiency.
+     - **Cost**: €260 per m².
+     - **Nuisance Level**: High.
+
+   - **Replace Glazing (WindowsBedrooms, WindowsLivingArea)**
+     - **Action**: Replace the glazing to improve thermal and acoustic performance.
+     - **Rationale**: The current double glazing can be upgraded to triple glazing for better insulation.
+     - **Cost**: €200 per m².
+     - **Nuisance Level**: High.
+
+#### 3. **Ventilation and Heating System Upgrades**
+   - **Replace Ventilation System (VentilationSystem)**
+     - **Action**: Replace the ventilation system to improve air quality and energy efficiency.
+     - **Rationale**: The current ventilation system is type A, which can be upgraded to a more efficient system.
+     - **Cost**: €3500 (fixed) + €17 per m².
+     - **Nuisance Level**: Moderate.
+
+   - **Place Air-Water Heat Pump (Generation_System)**
+     - **Action**: Install an air-water heat pump to replace the current boiler.
+     - **Rationale**: Heat pumps are more energy-efficient and can reduce energy consumption.
+     - **Cost**: €8000 (fixed) + €35 per m².
+     - **Nuisance Level**: Moderate.
+
+#### 4. **Additional Recommendations**
+   - **Place PV-Panels on Roof (RoofMain, RoofExtension)**
+     - **Action**: Install PV-panels on the roof to generate renewable energy.
+     - **Rationale**: The building has potential for PV installation, which can reduce energy costs.
+     - **Cost**: €275 per m².
+     - **Nuisance Level**: Low.
+
+   - **Place Sunshade (WindowsBedrooms, WindowsLivingArea)**
+     - **Action**: Install sunshades to reduce solar heat gain and improve comfort.
+     - **Rationale**: Sunshades can help regulate indoor temperatures and reduce energy consumption.
+     - **Cost**: €750 (fixed).
+     - **Nuisance Level**: Low.
+
+### Summary of Prioritized Actions
+1. **Insulate Gable Roof (RoofMain)**
+2. **Insulate Walls (Wall_Front, Wall_Rear, Wall_Right)**
+3. **Replace Ventilation System (VentilationSystem)**
+4. **Place Air-Water Heat Pump (Generation_System)**
+5. **Insulate Flat Roof (RoofExtension)**
+6. **Replace Glazing (WindowsBedrooms, WindowsLivingArea)**
+7. **Place PV-Panels on Roof (RoofMain, RoofExtension)**
+8. **Place Sunshade (WindowsBedrooms, WindowsLivingArea)**
+
+This plan prioritizes actions that provide the most significant energy savings and cost-effectiveness while considering the building's specific characteristics and constraints.

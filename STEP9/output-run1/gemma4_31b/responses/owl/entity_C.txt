@@ -1,0 +1,36 @@
+To propose a renovation path for this building, we must first recognize that the property is very modern (constructed in 2023) and already possesses a high energy efficiency rating (EPC score of 50, which corresponds to an **A label**). Most building elements—walls, floors, and the flat roof—are already "Well Insulated."
+
+However, the owner is motivated to further improve the EPC and there is an explicit reason to change the emission system. The current reliance on **Electric Convectors** is the primary inefficiency in an otherwise high-performing home.
+
+Here is the optimized, cost-effective renovation plan.
+
+### 1. Thermal Envelope Optimization (Fabric First)
+Before upgrading heating systems, we must ensure the building envelope is as tight as possible to minimize the capacity required for the new heat pump.
+*   **Action:** **Insulate Gable Roof**.
+*   **Reasoning:** While the flat roof is well-insulated, the main gable roof is only "Moderately Insulated." Upgrading this to "Well Insulated" is the most logical first step to prevent heat loss through the top of the building.
+*   **Sequence:** This must be done first to ensure the subsequent heat pump is sized correctly for the actual heat load of the house.
+
+### 2. Emission & Generation System Upgrade
+The building currently uses electric convectors, which are expensive to operate and inefficient. Since the building already has **Floor Heating**, it is perfectly primed for a low-temperature heating system.
+*   **Action:** **Place Air-Water Heat Pump**.
+*   **Reasoning:** The site data explicitly rules out geothermal options (both vertical and horizontal) and the heat grid. An air-water heat pump is the most cost-effective and efficient alternative to replace electric convectors, leveraging the existing floor heating for maximum COP (Coefficient of Performance).
+*   **Action:** **Place Heat Pump Boiler**.
+*   **Reasoning:** To maximize the EPC improvement, the domestic hot water system should be decoupled from the main heating or upgraded to a dedicated heat pump boiler, reducing the energy load on the primary system.
+
+### 3. Operational Efficiency & Comfort
+To prevent the "overheating" often associated with highly insulated modern homes (which would otherwise require energy-intensive air conditioning), we implement passive cooling.
+*   **Action:** **Place Sunshade**.
+*   **Reasoning:** This is a low-cost, low-nuisance intervention. By reducing solar gain during summer, the owner reduces the need for active cooling, further lowering the building's total energy consumption.
+
+---
+
+### Summary of the Renovation Path
+
+| Sequence | Renovation Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | $\downarrow$ Heat Loss | High (Low cost/High gain) |
+| **2** | **Place Air-Water Heat Pump** | Generation System | $\downarrow\downarrow$ Energy Use | High (Replaces electrics) |
+| **3** | **Place Heat Pump Boiler** | Water Heating | $\downarrow$ Energy Use | Moderate |
+| **4** | **Place Sunshade** | Windows/Facade | $\downarrow$ Summer Cooling | High (Passive) |
+
+**Final Result:** This path transforms the building from a "high-performing but inefficiently heated" home into a near-zero energy dwelling, directly satisfying the owner's motivation to improve the EPC while avoiding unnecessary and costly replacements of already efficient windows and walls.

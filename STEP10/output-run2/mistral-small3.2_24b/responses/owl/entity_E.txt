@@ -1,0 +1,30 @@
+The building is a detached house from 1862 with a relatively low energy score of 165 (C label). The owner's primary motivation is to improve the EPC rating. Since the building is old and has non-insulated walls, the renovation should follow a **"Fabric First"** approach. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+Proposed Renovation Path:
+
+1. **Insulate Cavity Walls**: The building has cavity walls (Front, Rear, Left, and Right) that are not insulated. Insulating these walls is a priority as it is one of the most effective ways to lower energy consumption.
+
+2. **Insulate Floor Above Crawl Space**: The floor above the crawl space is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the crawl space.
+
+3. **Replace Glazing**: All windows still have single glazing. Adding double or even triple glazing would drastically improve the thermal performance.
+
+4. **Place Air-Water Heat Pump**: Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+5. **Replace Ventilation System**: Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+6. **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+7. **Place Sunshade**: To further reduce solar heat gain in the summer, installing a sunshade would be beneficial.
+
+Summary of Sequence and Rationale:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Walls)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **5** | **PV Panels** | Provides renewable electricity for the heat pump and ventilation system. |
+| **6** | **Sunshade** | Reduces solar heat gain in the summer. |
+
+This sequence ensures that the building is first made as energy-efficient as possible through insulation and glazing upgrades before transitioning to a more efficient heating system and generating renewable energy. This approach is both cost-effective and maximizes the building's energy efficiency.

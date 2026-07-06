@@ -1,0 +1,11 @@
+1. insulate gable roof
+2. insulate flat roof
+3. insulate walls
+4. insulate floor above basement
+5. replace flat roof
+6. replace gable roof
+7. replace glazing
+8. replace ventilation system
+9. install air-water heat pump
+10. install pv-panels on roof
+11. install sunshades

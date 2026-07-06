@@ -1,0 +1,78 @@
+### Renovation Plan for Detached Building (1862, 136 m², EPC Score: 165)
+
+#### Current State:
+- **Building Type**: Detached (standalone structure)
+- **Construction Year**: 1862 (likely pre-existing insulation standards)
+- **EPC Score**: 165 (B Label) – already relatively efficient, but further improvements are possible.
+- **Heating System**: Combination of radiators, electric convectors, and floor heating.
+- **Insulation**:
+  - **Roof**: Well-insulated (good condition).
+  - **Walls**: All four walls (Front, Left, Rear, Right) are cavity walls and currently not insulated.
+  - **Floor**: Floor above crawl space is uninsulated.
+  - **Windows**: Single glazing with wooden frames (frames are in good condition but glazing is outdated).
+
+#### Key Observations:
+1. **High Potential for PV**: The building has confirmed potential for photovoltaic (PV) panels, making it a good candidate for renewable energy generation.
+2. **Presence of Heat Grid**: No heat grid available, so alternatives like heat pumps are viable.
+3. **Ventilation System**: Currently a basic ventilation system (System A), which may need upgrading after sealing the envelope.
+4. **Historical Protection**: No historical protection constraints on walls, allowing for insulation upgrades.
+
+#### Proposed Renovation Path:
+
+##### Phase 1: Thermal Envelope Optimization (Priority: High)
+The primary goal is to reduce heat loss through the building envelope, which is currently the weakest link in energy efficiency.
+
+1. **Insulate Wall Cavity**
+   - **Walls**: All four walls (Front, Left, Rear, Right) are cavity walls and uninsulated. Insulating these will significantly reduce heat loss.
+   - **Method**: Inject insulation into the cavity. This is cost-effective and non-disruptive compared to exterior or interior insulation.
+   - **Cost**: ~€22/m² (based on the ontology).
+
+2. **Insulate Floor Above Crawl Space**
+   - The floor above the crawl space is currently uninsulated. Adding insulation here will prevent heat loss to the crawl space.
+   - **Method**: Install insulation on the underside of the floor.
+   - **Cost**: ~€30/m².
+
+3. **Replace Glazing**
+   - The windows currently have single glazing, which is highly inefficient. Replacing this with double or triple glazing will improve thermal performance.
+   - **Method**: Retrofit double or triple glazing into existing wooden frames (frames are in good condition).
+   - **Cost**: ~€200/m².
+
+##### Phase 2: Heating System Upgrade (Priority: Medium)
+With a sealed envelope, the building's heat demand is now lower, allowing for a more efficient heating system.
+
+4. **Place Air-Water Heat Pump**
+   - The current heating system includes electric convectors and radiators, which are inefficient. An air-water heat pump is a sustainable and efficient alternative.
+   - **Method**: Install a heat pump to replace the existing boiler.
+   - **Cost**: Fixed price of €8,000 + €35/m² (based on the ontology).
+
+5. **Place Emission System on Low Temperature**
+   - Before installing the heat pump, transition the existing radiators to low-temperature emissions to maximize the efficiency of the heat pump.
+   - **Cost**: ~€100/m².
+
+##### Phase 3: Renewable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the heat pump and further improve the EPC label.
+
+6. **Place PV-Panels on Roof**
+   - The building has confirmed potential for PV. Installing solar panels will provide renewable electricity for the heat pump and other appliances.
+   - **Method**: Install PV panels on the roof.
+   - **Cost**: ~€275/m².
+
+##### Phase 4: Ventilation Upgrade (Priority: Medium)
+After sealing the building envelope, a more efficient ventilation system is necessary to maintain air quality.
+
+7. **Replace Ventilation System**
+   - Upgrade from Ventilation System A (natural) to a more efficient system (e.g., System C or D) to ensure proper air exchange and moisture control.
+   - **Cost**: Fixed price of €3,500 + €17/m².
+
+#### Summary of Optimal Sequence:
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Reduces heat loss through external walls. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents heat loss to the crawl space. |
+| **3** | **Replace Glazing** | Improves thermal performance of windows. |
+| **4** | **Place Air-Water Heat Pump** | Replaces inefficient heating systems with a sustainable alternative. |
+| **5** | **Place Emission System on Low Temperature** | Maximizes heat pump efficiency. |
+| **6** | **Place PV-Panels on Roof** | Offsets electricity consumption and improves EPC label. |
+| **7** | **Replace Ventilation System** | Ensures proper air quality in a sealed envelope. |
+
+This plan follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence, ensuring that the building's thermal envelope is optimized before upgrading heating systems and installing renewable energy sources. This approach maximizes energy efficiency while remaining cost-effective.

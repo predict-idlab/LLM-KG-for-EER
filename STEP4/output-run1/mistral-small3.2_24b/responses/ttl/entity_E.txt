@@ -1,0 +1,69 @@
+### **Renovation Plan for Detached Building (1862, EPC Score: 165.0, B Label)**
+
+The building is a **detached structure from 1862** with **poorly insulated cavity walls** and **single-glazed windows**, leading to high energy losses. The owner aims to **improve the EPC rating**, which currently stands at **165.0 (B Label)**. The renovation strategy follows the **"Fabric-First"** approach, ensuring cost-effective thermal upgrades before transitioning to sustainable energy systems.
+
+---
+
+### **Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Wall Cavity**
+   - The four external walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`, `Wall_Right`) are **cavity walls** and currently **not insulated**.
+   - **Action:** Inject insulation into the cavity to eliminate thermal bridges.
+   - **Cost:** ~€22/m² (low nuisance, no permit required).
+   - **Rationale:** This is the most cost-effective way to improve thermal performance.
+
+2. **Insulate Floor Above Crawl Space**
+   - The floor above the crawl space is currently **not insulated**.
+   - **Action:** Add insulation to reduce heat loss to unconditioned spaces.
+   - **Cost:** ~€30/m² (low nuisance, no permit required).
+   - **Rationale:** Prevents cold drafts and improves comfort.
+
+3. **Replace Single Glazing with Double Glazing**
+   - All windows (`WindowsBedrooms`, `WindowsLivingArea`) have **single glazing**, leading to significant heat loss.
+   - **Action:** Replace glazing with **double glazing** (or triple if cost-effective).
+   - **Cost:** ~€200/m² (high nuisance, but necessary for long-term efficiency).
+   - **Rationale:** Windows contribute significantly to heat loss; upgrading improves insulation.
+
+---
+
+### **Phase 2: Heating System Upgrade (Medium Priority)**
+4. **Replace Boiler with Air-Water Heat Pump**
+   - The current **boiler** is inefficient and does not align with sustainability goals.
+   - **Action:** Install an **air-water heat pump** to reduce energy consumption.
+   - **Cost:** €8,000 (fixed) + €35/m² (if low-temperature emission system is needed).
+   - **Rationale:** Heat pumps are more efficient than boilers, especially with a well-insulated envelope.
+
+5. **Replace Ventilation System (if needed)**
+   - The current ventilation system is **Ventilation System A (natural)**, which may not be sufficient after sealing the envelope.
+   - **Action:** Upgrade to **Ventilation System D (mechanical supply and exhaust)** if moisture issues arise.
+   - **Cost:** €3,500 (fixed) + €17/m².
+   - **Rationale:** Ensures proper air exchange in a now-sealed building.
+
+---
+
+### **Phase 3: Sustainable Energy Generation (Long-Term Priority)**
+6. **Install PV Panels on Roof**
+   - The building has **potential for PV panels**.
+   - **Action:** Install **PV panels on the gable roof** (south-facing if possible).
+   - **Cost:** €275/m².
+   - **Rationale:** Generates renewable electricity to offset heat pump consumption.
+
+---
+
+### **Optimal Renovation Sequence**
+| **Phase** | **Action** | **Rationale** |
+|-----------|-----------|--------------|
+| **1** | **Insulate Cavity Walls** | Reduces heat loss through walls. |
+| **2** | **Insulate Floor Above Crawl Space** | Prevents cold drafts from below. |
+| **3** | **Replace Single Glazing** | Improves window insulation. |
+| **4** | **Install Air-Water Heat Pump** | Transition to a sustainable heating system. |
+| **5** | **Upgrade Ventilation System** | Ensures proper air exchange. |
+| **6** | **Install PV Panels** | Generates renewable energy. |
+
+---
+
+### **Final Notes**
+- **Permits:** Most renovations do not require permits in Flanders, except for roof thickness changes.
+- **Cost-Effectiveness:** Prioritizing insulation first ensures long-term energy savings.
+- **Sustainability:** Transitioning to a heat pump and PV panels ensures a **low-carbon footprint**.
+
+This plan ensures **maximum energy efficiency** while remaining **cost-effective**, aligning with the owner’s goal of improving the EPC rating.

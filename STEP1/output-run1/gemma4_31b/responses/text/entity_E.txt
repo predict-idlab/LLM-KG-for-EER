@@ -1,0 +1,47 @@
+To move your house from an EPC of 165 to a high-performance rating, you must follow the **"Fabric First" principle**. This means we reduce the energy demand of the building before upgrading the heating systems. Installing a high-efficiency boiler or heat pump in a house with single glazing and uninsulated walls is a waste of investment, as the heat will simply escape.
+
+Given that your house is not historically protected, you have significant flexibility. Here is the optimal, sequenced renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leaks)
+*Goal: Reduce heat loss to the minimum possible to allow for a smaller, cheaper heating system.*
+
+1.  **Window Upgrade (Highest Priority):** Single glazing is your biggest source of heat loss. Since the wooden frames are in good condition, check if they can accommodate **double or triple glazing**. If the frames are too thin, replace them with high-efficiency A++ rated windows. This will immediately eliminate drafts and reduce the "cold wall" effect.
+2.  **Cavity Wall Insulation:** Since you have cavity walls, **injection insulation** (e.g., using expanded polystyrene beads or mineral wool) is the most cost-effective method. It requires no demolition and provides a massive jump in EPC performance.
+3.  **Crawl Space Floor Insulation:** Since the floor above the crawl space is unprotected, install **rigid insulation boards (EPS or PIR)** or spray foam. This prevents "cold feet" and stops heat from escaping into the ground.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Prevent moisture buildup and mold once the house is "sealed."*
+
+4.  **Upgrade Ventilation:** Moving from natural ventilation to a **Mechanical Ventilation system with Heat Recovery (MVHR)** or at least a demand-controlled system. When you insulate a 19th-century house, you remove its natural "breathability." Proper ventilation is essential to maintain indoor air quality and protect the structure from humidity.
+
+### Phase 3: Heating System Modernization
+*Goal: Switch from inefficient, fragmented emitters to a centralized, low-temperature system.*
+
+5.  **Emitter Replacement:** Your current mix (electric convectors, old radiators) is highly inefficient. 
+    *   **Action:** Remove all electric convectors (the most expensive way to heat).
+    *   **Action:** Expand the **underfloor heating** to as many rooms as possible. For the remaining rooms, install **low-temperature radiators** (oversized radiators that work efficiently with lower water temperatures).
+6.  **Heat Source Transition:** Once the house is insulated and the emitters are updated, replace the old boiler with an **Air-to-Water Heat Pump**. 
+    *   *Why now?* A heat pump requires a well-insulated house and low-temperature emitters to be cost-effective. If installed before Phase 1, it would consume too much electricity.
+
+### Phase 4: Renewable Energy
+*Goal: Offset the electricity consumption of the heat pump and ventilation.*
+
+7.  **Photovoltaic (PV) Panels:** Install solar panels on your pitched roof. Because you are moving toward an electric-based heating system (heat pump), your electricity demand will increase, but your gas demand will vanish. PV panels will hedge against rising electricity costs and further lower your EPC score.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1. Envelope** | Windows $\rightarrow$ Wall Injection $\rightarrow$ Floor | Massive reduction in heat loss | High (High ROI) |
+| **2. Air** | Upgrade to Mechanical Ventilation | Health & Moisture Control | Medium |
+| **3. Heating** | New Emitters $\rightarrow$ Heat Pump | Drastic reduction in fuel bills | Medium (High CapEx) |
+| **4. Energy** | Photovoltaic Panels | Near-zero operational cost | High (Long-term) |
+
+### Expert Tips for Ghent/Flanders:
+*   **Premiums:** Check the **"Mijn VerbouwPremie"** (My Renovation Premium) in Flanders. Many of these steps (wall insulation, windows, heat pumps) are heavily subsidized.
+*   **EPC Audit:** Before starting, hire an EPC certified expert to perform a "detailed energy audit." This will give you the exact $\text{kWh/m}^2$ savings for each step and ensure you maximize your subsidies.
+*   **Avoid:** Do not replace the boiler *before* insulating the walls and windows, or you will likely over-specify the size of the new unit, leading to inefficiency.

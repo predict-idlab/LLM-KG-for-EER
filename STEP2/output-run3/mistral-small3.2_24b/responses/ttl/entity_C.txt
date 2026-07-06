@@ -1,0 +1,66 @@
+### Energy-Efficient and Cost-Effective Renovation Plan
+
+#### **1. Insulation Upgrades**
+- **Insulate Gable Roof (Priority)**
+  - **Action**: Insulate the gable roof to improve thermal performance.
+  - **Justification**: The gable roof is currently only moderately insulated. Upgrading insulation will reduce heat loss and improve energy efficiency.
+  - **Cost**: €60 per m².
+
+- **Insulate Flat Roof (Priority)**
+  - **Action**: Insulate the flat roof to enhance energy efficiency.
+  - **Justification**: The flat roof is well insulated, but further insulation can improve performance.
+  - **Cost**: €50 per m².
+
+- **Insulate Attic Floor**
+  - **Action**: Insulate the attic floor to prevent heat loss through the roof.
+  - **Justification**: The attic floor is a significant area for heat loss. Insulation will improve overall thermal comfort and reduce energy consumption.
+  - **Cost**: €60 per m².
+
+- **Insulate Wall Cavity**
+  - **Action**: Insulate the wall cavities to improve thermal performance.
+  - **Justification**: The walls are well insulated, but cavity insulation can further enhance energy efficiency.
+  - **Cost**: €22 per m².
+
+#### **2. Roof and Window Upgrades**
+- **Replace Glazing**
+  - **Action**: Replace the existing double glazing with triple glazing to improve insulation.
+  - **Justification**: Triple glazing offers better thermal and acoustic insulation, reducing heat loss and improving comfort.
+  - **Cost**: €200 per m².
+
+- **Replace Windows**
+  - **Action**: Replace the existing windows with more energy-efficient models.
+  - **Justification**: New windows with better frames and glazing will enhance insulation and reduce drafts.
+  - **Cost**: €800 per m².
+
+#### **3. Ventilation and Heating System Upgrades**
+- **Replace Ventilation System**
+  - **Action**: Upgrade the ventilation system to a more efficient model.
+  - **Justification**: A more efficient ventilation system will improve air quality and reduce energy consumption.
+  - **Cost**: €3,500 fixed + €17 per m².
+
+- **Place Air-Water Heat Pump**
+  - **Action**: Install an air-water heat pump to replace the existing emission system.
+  - **Justification**: Heat pumps are more energy-efficient and can significantly reduce heating costs.
+  - **Cost**: €8,000 fixed + €35 per m².
+
+#### **4. Solar Energy Installation**
+- **Place PV-Panels on Roof**
+  - **Action**: Install photovoltaic (PV) panels on the roof to generate renewable energy.
+  - **Justification**: PV panels will reduce electricity costs and contribute to a lower carbon footprint.
+  - **Cost**: €275 per m².
+
+#### **5. Additional Recommendations**
+- **Place Sunshade**
+  - **Action**: Install sunshades to reduce solar heat gain in summer.
+  - **Justification**: Sunshades can help maintain a comfortable indoor temperature and reduce the need for cooling.
+  - **Cost**: €750 fixed.
+
+### **Optimal Sequence of Renovations**
+1. **Insulation Upgrades** (Gable Roof, Flat Roof, Attic Floor, Wall Cavity)
+2. **Roof and Window Upgrades** (Replace Glazing, Replace Windows)
+3. **Ventilation and Heating System Upgrades** (Replace Ventilation System, Place Air-Water Heat Pump)
+4. **Solar Energy Installation** (Place PV-Panels on Roof)
+5. **Additional Recommendations** (Place Sunshade)
+
+### **Conclusion**
+This renovation plan focuses on maximizing energy efficiency while remaining cost-effective. By prioritizing insulation upgrades, replacing windows and glazing, upgrading the heating and ventilation systems, and installing solar panels, the building will achieve significant energy savings and improved comfort. The suggested sequence ensures that each renovation step builds on the previous one, maximizing the benefits of each upgrade.

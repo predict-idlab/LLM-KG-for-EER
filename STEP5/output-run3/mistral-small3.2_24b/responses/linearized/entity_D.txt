@@ -1,0 +1,39 @@
+### Renovation Plan
+
+**Objective:** Improve the EPC score (currently 87) while maintaining cost-effectiveness and maximizing energy efficiency.
+
+**Building Characteristics:**
+- **Type:** Semi-detached house (2017)
+- **EPC Score:** 87 (A+ Label)
+- **Current State:** Well-insulated walls and roof, double-glazed windows, and a heat pump system.
+- **Potential for PV:** False
+- **Reason to Change Emission System:** False
+
+**Renovation Strategy:**
+Since the building is already well-insulated and has a relatively new heat pump system, the focus should be on optimizing the existing systems and ensuring long-term energy efficiency.
+
+**Proposed Renovation Path:**
+
+1. **Maintain Current Insulation:**
+   - The building already has well-insulated walls, roof, and floor. No additional insulation is required at this stage.
+
+2. **Optimize Ventilation System:**
+   - **Replace Ventilation System:** Upgrade the current Ventilation System D to a more efficient system (e.g., System C) to ensure better air quality and energy efficiency.
+
+3. **Enhance Window Performance:**
+   - **Replace Glazing:** Although the windows are already double-glazed, consider upgrading to triple glazing to further reduce heat loss and improve thermal comfort.
+
+4. **Sustainable Energy Generation:**
+   - **Place PV-Panels on Roof:** Although the potential for PV is marked as false, reconsider this option. Installing solar panels can provide renewable energy to power the heat pump and other electrical systems, further improving the EPC score.
+
+5. **Maintain Heat Pump System:**
+   - The existing heat pump system is efficient and does not require replacement. Ensure regular maintenance to keep it operating at peak performance.
+
+**Summary of Optimal Sequence:**
+
+1. **Ventilation Upgrade**
+2. **Glazing Replacement**
+3. **PV Panel Installation**
+4. **Heat Pump Maintenance**
+
+This plan ensures that the building remains energy-efficient and cost-effective while improving the EPC score.

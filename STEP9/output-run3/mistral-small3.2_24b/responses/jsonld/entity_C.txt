@@ -1,0 +1,117 @@
+To provide a concise and actionable renovation plan, we'll follow these steps:
+
+1. **Identify the current state of the building and its elements.**
+2. **Determine the owner's motivation and goals.**
+3. **Review the suggestion list and select appropriate actions.**
+4. **Consider the constraints and requirements (e.g., permits, nuisance levels).**
+5. **Prioritize the actions based on the ordering provided in the suggestion list.**
+6. **Ensure the actions are cost-effective and energy-efficient.**
+
+### Current State Analysis:
+- **Building Type:** Attached building with a net floor area of 159 m².
+- **Construction Year:** 2023.
+- **Energy Performance Certificate (EPC):** 50 kWh/m²year (A label).
+- **Elements:**
+  - **Roofs:**
+    - Flat roof (extension) is well insulated.
+    - Gable roof (main) is moderately insulated.
+  - **Walls:**
+    - Front and rear walls are full brick walls and well insulated.
+  - **Floors:**
+    - Floor above basement is well insulated.
+  - **Windows:**
+    - Living area windows have wooden frames and double glazing.
+    - Bedroom windows have wooden frames and double glazing.
+  - **Heating System:**
+    - Electric convector and floor heating as emission systems.
+    - No information on the generation system.
+  - **Ventilation System:** Ventilation system D.
+  - **PV Panels:** Present but no information on the current state or production.
+  - **Potential for PV:** False.
+  - **Potential for Geothermal:** False for both horizontal and vertical drilling.
+  - **Heat Grid:** Not present.
+
+### Owner's Motivation:
+The owner's primary motivation is to improve the EPC of the dwelling. This indicates a focus on energy efficiency and potentially lowering energy costs.
+
+### Selected Actions:
+1. **Insulate Gable Roof:**
+   - **Action:** Insulate the gable roof.
+   - **Reason:** The main gable roof is currently moderately insulated. Improving insulation can further enhance energy efficiency.
+   - **Details:**
+     - **Nuisance Level:** Low.
+     - **Price:** €60 per m².
+     - **Permit Needed:** Not necessary.
+     - **Multi-Phase Requirement:** No.
+   - **Ordering:** 28.
+
+2. **Replace Ventilation System:**
+   - **Action:** Replace the ventilation system.
+   - **Reason:** The current system is a ventilation system D. Replacing it with a more efficient system can improve indoor air quality and energy efficiency.
+   - **Details:**
+     - **Nuisance Level:** Moderate.
+     - **Price:** €3,500 fixed + €17 per m².
+     - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+     - **Multi-Phase Requirement:** Maybe, depending on the system.
+   - **Ordering:** 52.
+
+3. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump.
+   - **Reason:** The current emission system is an electric convector and floor heating. Replacing it with a more energy-efficient system like an air-water heat pump can significantly reduce energy consumption and improve the EPC.
+   - **Details:**
+     - **Nuisance Level:** Moderate.
+     - **Price:** €8,000 fixed + €35 per m².
+     - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+     - **Multi-Phase Requirement:** Maybe, depending on the system.
+   - **Ordering:** 67.
+
+4. **Place PV Panels on Roof:**
+   - **Action:** Install PV panels on the roof.
+   - **Reason:** The building currently has PV panels, but their efficiency and state are not specified. Replacing or upgrading them can further improve energy generation and reduce reliance on external energy sources.
+   - **Details:**
+     - **Nuisance Level:** Low.
+     - **Price:** €275 per m².
+     - **Permit Needed:** Not necessary if the panels are in the same plane.
+     - **Multi-Phase Requirement:** Maybe, depending on the system.
+   - **Ordering:** 85.
+
+### Renovation Plan:
+1. **Insulate Gable Roof:**
+   - **Action:** Insulate the gable roof.
+   - **Details:**
+     - **Nuisance Level:** Low.
+     - **Price:** €60 per m².
+     - **Permit Needed:** Not necessary.
+     - **Multi-Phase Requirement:** No.
+
+2. **Replace Ventilation System:**
+   - **Action:** Replace the ventilation system.
+   - **Details:**
+     - **Nuisance Level:** Moderate.
+     - **Price:** €3,500 fixed + €17 per m².
+     - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+     - **Multi-Phase Requirement:** Maybe, depending on the system.
+
+3. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump.
+   - **Details:**
+     - **Nuisance Level:** Moderate.
+     - **Price:** €8,000 fixed + €35 per m².
+     - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+     - **Multi-Phase Requirement:** Maybe, depending on the system.
+
+4. **Place PV Panels on Roof:**
+   - **Action:** Install PV panels on the roof.
+   - **Details:**
+     - **Nuisance Level:** Low.
+     - **Price:** €275 per m².
+     - **Permit Needed:** Not necessary if the panels are in the same plane.
+     - **Multi-Phase Requirement:** Maybe, depending on the system.
+
+### Notes:
+- **Permits:** Ensure that all necessary permits are obtained, especially for actions that may require them.
+- **Cost-Effectiveness:** The suggested actions are prioritized based on their potential to improve energy efficiency and reduce costs.
+- **Energy Efficiency:** The plan focuses on actions that can significantly improve the EPC and overall energy performance of the building.
+- **Future Considerations:** Regular maintenance and monitoring of the installed systems are essential to ensure long-term performance and efficiency.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, tailored to the specific needs and constraints of the building and its owner.

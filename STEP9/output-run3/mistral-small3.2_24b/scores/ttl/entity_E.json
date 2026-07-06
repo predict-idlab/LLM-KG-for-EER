@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "place air-water heatpump"], "extra_actions": ["insulate wall cavity", "insulate attic floor", "insulate floor above crawl space", "replace windows", "place roof underlayment", "place heat pump boiler", "place plug and play pv-panels", "place sunshade", "place airconditioning"]}, "sequence": {"order_errors": []}}

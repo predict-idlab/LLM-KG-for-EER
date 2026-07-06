@@ -1,0 +1,57 @@
+### Renovation Plan:
+
+The building is a semi-detached house constructed in 2017 with a net floor area of 173.0 m². The current EPC score is 87, which falls under the A label category. The owner's primary motivation is to improve the EPC rating. The building has no potential for PV and no heat grid is present. The emission system is currently in good condition and does not need to be replaced.
+
+Given the well-insulated walls and floor, the focus should be on optimizing the existing systems and ensuring the building remains energy-efficient.
+
+### Proposed Renovation Path:
+
+1. **Insulate Gable Roof:**
+   - The `RoofMain` is currently moderately insulated. Insulating the gable roof will further improve the thermal performance of the building.
+   - **Cost:** Approximately €60 per m².
+   - **Nuisance Level:** Low.
+   - **Permit Needed:** Not necessary.
+
+2. **Insulate Attic Floor:**
+   - The `RoofExtension` is well-insulated, but ensuring the attic floor is also properly insulated will prevent heat loss through the top of the building.
+   - **Cost:** Approximately €60 per m².
+   - **Nuisance Level:** Low.
+   - **Permit Needed:** Not necessary.
+
+3. **Replace Ventilation System:**
+   - The current ventilation system is of type D. Consider replacing it with a more efficient system to ensure proper air exchange and maintain indoor air quality.
+   - **Cost:** Approximately €3,500 plus €17 per m².
+   - **Nuisance Level:** Moderate.
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+
+4. **Place Sunshade:**
+   - Installing sunshades can help reduce solar heat gain during summer, improving comfort and reducing the need for cooling.
+   - **Cost:** Approximately €750.
+   - **Nuisance Level:** Low.
+   - **Permit Needed:** Not necessary.
+
+5. **Place Airconditioning:**
+   - Given the well-insulated building, installing an air conditioning system can help maintain comfortable indoor temperatures during hot weather.
+   - **Cost:** Approximately €1,000.
+   - **Nuisance Level:** Low.
+   - **Permit Needed:** Not necessary.
+
+### Summary of Optimal Sequence:
+
+| Sequence | Action                     | Rationale                                                                                     |
+|----------|----------------------------|-------------------------------------------------------------------------------------------------|
+| **1**    | **Insulate Gable Roof**    | Further improve the thermal performance of the building.                                       |
+| **2**    | **Insulate Attic Floor**   | Prevent heat loss through the top of the building.                                           |
+| **3**    | **Replace Ventilation System** | Ensure proper air exchange and maintain indoor air quality.                                   |
+| **4**    | **Place Sunshade**         | Reduce solar heat gain and improve comfort.                                                  |
+| **5**    | **Place Airconditioning**  | Maintain comfortable indoor temperatures during hot weather.                               |
+
+### Additional Recommendations:
+
+- **Maintenance of Existing Systems:**
+  - Regularly maintain the existing heat pump and emission systems to ensure they operate at peak efficiency.
+
+- **Monitoring and Optimization:**
+  - Consider installing smart thermostats or energy monitoring systems to optimize energy usage and further reduce the EPC score.
+
+This renovation plan focuses on enhancing the building's energy efficiency while maintaining cost-effectiveness and minimizing disruption. The sequence ensures that the most impactful improvements are addressed first, leading to a more comfortable and energy-efficient home.

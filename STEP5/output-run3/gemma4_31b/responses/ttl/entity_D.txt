@@ -1,0 +1,25 @@
+Based on the provided building data and the RENO ontology, this is a modern semi-detached building (constructed in 2017) that is already performing at a very high level of energy efficiency, with an **EPC score of 87 (A Label)**. 
+
+Since the building already possesses a heat pump, a high-end ventilation system (System D), and well-insulated walls and floors, the "low-hanging fruit" of renovation has already been picked. To further improve the EPC score toward an **A+ label** while remaining cost-effective, the focus must shift to the few remaining marginal gains.
+
+### Proposed Renovation Path
+
+Given the current state, a full-scale renovation is not necessary. Instead, I propose a targeted "Fine-Tuning" phase.
+
+#### Phase 1: Thermal Envelope Refinement
+The only building element not currently rated as "Well Insulated" is the main roof.
+1.  **Insulate Gable Roof:** The `RoofMain` is currently "Moderately Insulated." Upgrading this to a "Well Insulated" state is the most logical priority to eliminate the remaining primary source of heat loss.
+
+#### Phase 2: High-Performance Glazing
+While the windows are already double-glazed and the frames are in good condition, the glazing remains a potential area for improvement in a high-efficiency home.
+2.  **Replace Glazing:** Upgrading from double glazing to **triple glazing** would further reduce thermal transmission. Since the frames are in a "Good State" (value 8), replacing only the glazing (rather than the entire window unit) is the most cost-effective way to achieve this.
+
+### Summary of Recommendations
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "Moderately Insulated" element in the building envelope. |
+| **2** | **Replace Glazing** | Transitioning to triple glazing to push the building from an 'A' to an 'A+' energy label. |
+
+**Note on HVAC and Renewables:** 
+No changes are recommended for the heating or ventilation systems, as the building is already equipped with a **Heat Pump** and **Ventilation System D**, which are the gold standards for energy efficiency. Additionally, as the building already has **PV Panels** and no further potential for geothermal energy or heat grid connection, no further generation upgrades are viable.

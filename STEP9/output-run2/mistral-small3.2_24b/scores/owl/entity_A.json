@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "place emission system on low temperature"], "extra_actions": ["insulate exterior walls", "install vertical geothermal heat pump", "connect to heat grid", "install pv panels in garden"]}, "sequence": {"order_errors": []}}

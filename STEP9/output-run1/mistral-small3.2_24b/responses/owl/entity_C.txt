@@ -1,0 +1,61 @@
+Based on the provided RENO ontology, the suggestion list, and the entity information, I will create a renovation plan that is cost-effective and maximizes energy efficiency. The plan will be actionable and tailored to the specific building described.
+
+### Renovation Plan:
+
+1. **Insulate Roof Extension (Flat Roof)**
+   - **Action**: Insulate the flat roof extension.
+   - **Rationale**: The roof extension is currently well insulated, but improving insulation can further enhance energy efficiency.
+   - **Suggestion**: "insulate flat roof" (ordering: 25).
+   - **Cost**: 50 €/m².
+   - **Considerations**: Opt for an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering.
+
+2. **Insulate Gable Roof (Main Roof)**
+   - **Action**: Insulate the gable roof.
+   - **Rationale**: The main roof is moderately insulated. Improving insulation will reduce heat loss and improve energy efficiency.
+   - **Suggestion**: "insulate gable roof" (ordering: 28).
+   - **Cost**: 60 €/m².
+   - **Considerations**: Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+
+3. **Replace Windows in Bedrooms and Living Area**
+   - **Action**: Replace the windows in the bedrooms and living area with more energy-efficient windows.
+   - **Rationale**: The current windows have double glazing, but replacing them with triple glazing or better frames can improve insulation and reduce energy loss.
+   - **Suggestion**: "replace windows" (ordering: 46).
+   - **Cost**: 800 €/m².
+   - **Considerations**: Do you currently have a ventilation system type A or C, or are you planning to install a natural supply system? If so, be sure to provide enough grilles on your window frames so that enough fresh air can flow into your home.
+
+4. **Replace Ventilation System**
+   - **Action**: Replace the current ventilation system (type D) with a more efficient system.
+   - **Rationale**: The current ventilation system (type D) may not be the most energy-efficient. Replacing it with a system type A, B, or C can improve air quality and energy efficiency.
+   - **Suggestion**: "replace ventilation system" (ordering: 52).
+   - **Cost**: 3500 € + 17 €/m².
+   - **Considerations**: A ventilation system D will have slightly more impact on your home, as it requires ductwork for both supply and return. For a ventilation system C, you need grilles in your window frames.
+
+5. **Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump.
+   - **Rationale**: The current emission system (electric convector and floor heating) may not be the most energy-efficient. An air-water heat pump can provide heating and cooling more efficiently.
+   - **Suggestion**: "place air-water heatpump" (ordering: 67).
+   - **Cost**: 8000 € + 35 €/m².
+   - **Considerations**: Check that your emission system corresponds to the supply and return temperatures of the heat grid. Contact your municipality or grid operator for more information.
+
+6. **Place Solar Panels on Roof**
+   - **Action**: Install photovoltaic (PV) panels on the roof.
+   - **Rationale**: The building has potential for PV panels, and installing them can significantly reduce energy costs and improve sustainability.
+   - **Suggestion**: "place PV-panels on roof" (ordering: 85).
+   - **Cost**: 275 €/m².
+   - **Considerations**: Check on the 'Zonnekaart' whether your roof is properly oriented and captures enough sunlight. The yield is greatest if your panels face south (south-east to south-west) at an angle of 30° to 50°. The yield of solar panels decreases when shaded by buildings, chimneys or trees. Since PV panels are attached to the roof structure, it is crucial to remove any asbestos present in the roof first. Installing solar panels on a building with an asbestos-containing roof covering or an asbestos-containing sub-roof is prohibited.
+
+### Optimal Sequence:
+The suggested actions are ordered based on their "ordering" attribute in the ontology, which indicates the priority of execution. The sequence is as follows:
+1. Insulate Roof Extension
+2. Insulate Gable Roof
+3. Replace Windows
+4. Replace Ventilation System
+5. Place Air-Water Heat Pump
+6. Place Solar Panels on Roof
+
+### Additional Considerations:
+- **Permits**: Ensure that all necessary permits are obtained for the suggested actions.
+- **Professional Assistance**: For actions like replacing the ventilation system and installing heat pumps, professional assistance may be required.
+- **Energy Performance Certificate (EPC)**: Monitor the EPC label to ensure it improves as per the owner's motivation.
+
+This plan is designed to be cost-effective while maximizing energy efficiency, tailored to the specific building and its current state.

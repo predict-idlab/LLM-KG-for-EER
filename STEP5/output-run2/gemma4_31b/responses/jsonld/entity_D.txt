@@ -1,0 +1,26 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached building (constructed in 2017) that is already performing at a very high level of energy efficiency, with an **EPC score of 87 (A Label)**. 
+
+Most critical components—including the walls, floor above basement, and flat roof—are already "Well Insulated." Additionally, the building is already equipped with high-efficiency systems, including a heat pump, a Type D ventilation system, and PV panels.
+
+Given that the owner's motivation is to further improve the EPC rating, the remaining potential for improvement is minimal. To maximize efficiency while remaining cost-effective, the renovation should focus on the only remaining element that is not fully optimized.
+
+### Proposed Renovation Path
+
+**Phase 1: Final Thermal Envelope Optimization**
+The building's thermal envelope is nearly complete, but there is one remaining gap in insulation performance.
+
+1.  **Insulate Gable Roof:** While the flat roof extension is well insulated, the `RoofMain` (Gable Roof) is currently rated as **"Moderately Insulated."** Upgrading the insulation of the gable roof to a "Well Insulated" grade is the most direct and cost-effective way to further reduce the energy score and move closer to an A+ label.
+
+### Summary of Analysis and Rationale
+
+| Element | Current Status | Recommendation | Rationale |
+| :--- | :--- | :--- | :--- |
+| **Walls & Floor** | Well Insulated | No action needed | Already optimized. |
+| **Flat Roof** | Well Insulated | No action needed | Already optimized. |
+| **Gable Roof** | Moderately Insulated | **Insulate Gable Roof** | The only remaining thermal bridge in the envelope. |
+| **Windows** | Double Glazing / Good State | No action needed | Performance is sufficient for the current EPC grade. |
+| **HVAC/Energy** | Heat Pump & PV installed | No action needed | Already utilizing sustainable generation and efficient heating. |
+| **Ventilation** | System D | No action needed | Already using the most efficient ventilation type. |
+
+**Final Conclusion:**
+Because the building is already highly efficient, a "fabric-first" approach confirms that no major structural or system overhauls are required. The only actionable and cost-effective step to improve the EPC score is to **upgrade the insulation of the gable roof**. All other elements are already performing at or near peak efficiency.

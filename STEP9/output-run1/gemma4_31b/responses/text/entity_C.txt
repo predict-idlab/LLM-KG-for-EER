@@ -1,0 +1,40 @@
+Given the specifics of your home in Ghent, you are in a very strong starting position. You already have a high-performing ventilation system (System D), recent glazing (2024), and photovoltaic panels. 
+
+The primary "energy leaks" in your home are the **moderate insulation in the pitched roof** and the **inefficient heating emission systems** (specifically the electric convectors and the aging boiler). 
+
+To maximize energy efficiency and cost-effectiveness, you must follow the "Insulate First, Install Later" principle. This ensures that your new heating system is sized correctly for a lower heat load, reducing both installation and operational costs.
+
+### Proposed Renovation Path
+
+#### Step 1: Thermal Envelope Optimization (The "Passive" Phase)
+Before touching the heating system, address the weakest point of your building shell.
+*   **Pitched Roof Insulation:** You mentioned the pitched roof has "moderate" insulation. Since heat rises, this is your primary area for heat loss. 
+    *   **Action:** Increase the insulation thickness in the pitched roof. Depending on the current construction, this can be done via internal insulation (mineral wool/pir boards) or by adding a layer of insulation on top of the ceiling.
+    *   **Goal:** Bring the pitched roof up to the "well insulated" standard of your flat roof and walls. This reduces the total kilowatt requirement for your future heating system.
+
+#### Step 2: Heating System Overhaul (The "Active" Phase)
+Now that the house is airtight and well-insulated, you can replace the outdated heating generation and emission systems.
+*   **Replace Boiler with an Air-to-Water Heat Pump:** Since geothermal and district heating are unavailable, an air-source heat pump is the most cost-effective and efficient choice for the Ghent climate.
+*   **Eliminate Electric Convectors:** Electric convectors are the most expensive way to heat a home. 
+    *   **Action:** Remove all electric convectors.
+*   **Overhaul Heat Emission:** Since the underfloor heating is in poor condition, this is the time to repair or replace it.
+    *   **Action:** Ensure the underfloor heating is optimized for **low-temperature operation** (which is where heat pumps are most efficient). If certain rooms lack underfloor heating, install low-temperature radiators or extend the underfloor loop rather than returning to electric heating.
+
+#### Step 3: System Integration & Optimization
+Maximize the synergy between your existing assets and the new upgrades.
+*   **PV Integration:** Your existing photovoltaic panels will now power the heat pump instead of just general electricity. This significantly lowers your operational costs (OPEX) and improves your EPC score.
+*   **Ventilation D Synergy:** Your System D ventilation already recovers heat. Ensure that the heat pump is integrated with the ventilation system (if applicable) to maintain a constant, comfortable temperature with minimal energy input.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Why? | Impact |
+| :--- | :--- | :--- | :--- |
+| **1. Roof** | Upgrade pitched roof insulation | Reduces heat loss $\rightarrow$ allows for a smaller, cheaper heat pump. | $\downarrow$ Energy Demand |
+| **2. Emission** | Remove electric convectors / Fix underfloor | Eliminates high-cost electricity use and inefficient heat delivery. | $\downarrow$ Energy Cost |
+| **3. Generation** | Install Air-to-Water Heat Pump | Replaces fossil fuel boiler with a high-efficiency electric source. | $\downarrow$ Carbon / $\uparrow$ EPC |
+| **4. Synergy** | Link PV $\rightarrow$ Heat Pump | Uses self-generated green energy to run the heating. | $\downarrow$ Utility Bills |
+
+### Final Expert Tip for Ghent/Flanders:
+Since you are located in Ghent, I strongly recommend checking the **Vlaamse Energiebonus** or current **Premies** (premiums) offered by the Flemish government. Upgrading to a heat pump and improving insulation often qualifies for significant subsidies, which will drastically improve the "cost-effective" aspect of this plan.

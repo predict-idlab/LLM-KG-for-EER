@@ -1,0 +1,41 @@
+Based on the provided building information and the ontology, here's a concise and actionable renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+### Step-by-Step Renovation Plan:
+
+1. **Insulate Flat Roof (RoofExtension)**
+   - **Action**: Insulate the flat roof to improve thermal performance.
+   - **Reason**: The roof extension is moderately insulated but can be improved for better energy efficiency.
+   - **Order**: 16 (as per ordering in the ontology)
+
+2. **Insulate Gable Roof (RoofMain)**
+   - **Action**: Insulate the gable roof to improve thermal performance.
+   - **Reason**: The gable roof is not insulated, and insulating it will significantly enhance the building's energy efficiency.
+   - **Order**: 28 (as per ordering in the ontology)
+
+3. **Insulate Wall on Exterior (Wall_Front, Wall_Rear, Wall_Right)**
+   - **Action**: Insulate the exterior walls to improve thermal performance.
+   - **Reason**: The walls are not insulated, and exterior insulation will provide better thermal comfort and energy efficiency.
+   - **Order**: 40 (as per ordering in the ontology)
+
+4. **Replace Glazing (WindowsLivingArea, WindowsBedrooms)**
+   - **Action**: Replace the double glazing with more energy-efficient glazing, such as triple glazing.
+   - **Reason**: Upgrading the glazing will improve the thermal performance of the windows and reduce heat loss.
+   - **Order**: 43 (as per ordering in the ontology)
+
+5. **Place Air-Air Heatpump (EmissionSystem)**
+   - **Action**: Install an air-air heat pump to replace the existing air heating system.
+   - **Reason**: The current emission system is not energy-efficient, and replacing it with a heat pump will significantly reduce energy consumption.
+   - **Order**: 58 (as per ordering in the ontology)
+
+6. **Place Air-Water Heatpump (Generation_System)**
+   - **Action**: Install an air-water heat pump to replace the existing boiler.
+   - **Reason**: The current boiler is likely inefficient, and replacing it with a heat pump will improve the overall energy efficiency of the building.
+   - **Order**: 67 (as per ordering in the ontology)
+
+7. **Place PV-Panels on Roof (RoofMain)**
+   - **Action**: Install photovoltaic (PV) panels on the roof to generate renewable energy.
+   - **Reason**: The building has potential for PV installation, and generating solar power will reduce the reliance on grid electricity and lower energy costs.
+   - **Order**: 85 (as per ordering in the ontology)
+
+### Summary:
+The proposed renovation plan focuses on improving the building's thermal performance through insulation, upgrading the glazing, replacing the emission and generation systems with more energy-efficient alternatives, and installing PV panels to generate renewable energy. The plan prioritizes actions based on their potential impact on energy efficiency and cost-effectiveness, as indicated by the ordering in the ontology.

@@ -1,0 +1,74 @@
+### **Renovation Plan for the Given Building**
+
+#### **Building Summary:**
+- **Type:** Semi-detached (1951)
+- **EPC Score:** 388 (D Label)
+- **Owner Motivation:** Improve EPC
+- **Key Issues:**
+  - **Roofs:** Gable roof (not insulated), Flat roof (moderately insulated)
+  - **Walls:** All external walls (Front, Rear, Right) are full brick and not insulated
+  - **Windows:** Double-glazed, but frames are wooden and in good condition
+  - **Floor:** Not insulated
+  - **Heating:** Air heating via radiators
+  - **Ventilation:** Natural (System A)
+  - **PV Potential:** Yes
+
+---
+
+### **Step-by-Step Renovation Path**
+*(Prioritized for cost-effectiveness and energy efficiency)*
+
+#### **Phase 1: Thermal Envelope Optimization (Fabric First)**
+1. **Insulate Gable Roof**
+   - *Why?* The gable roof is currently uninsulated, allowing significant heat loss.
+   - *Method:* Interior or exterior insulation (depends on accessibility).
+
+2. **Insulate Exterior Walls**
+   - *Why?* All external walls are uninsulated full brick walls. Exterior insulation is more effective for this structure.
+   - *Method:* Apply rigid foam or mineral wool panels over the existing facade.
+
+3. **Insulate Floor Above Basement**
+   - *Why?* The floor above the basement is uninsulated, leading to cold drafts and heat loss.
+   - *Method:* Install rigid insulation boards or spray foam under the floor.
+
+#### **Phase 2: Window & Ventilation Upgrades**
+4. **Replace Ventilation System**
+   - *Why?* Current System A (natural) is inefficient. Upgrade to **System C** (mechanical exhaust) or **System D** (mechanical supply + exhaust) to improve air quality and reduce heat loss.
+   - *Note:* System D requires ductwork but offers better performance.
+
+5. **Place Sunshade (Optional)**
+   - *Why?* If the building has significant solar gain, external blinds can reduce cooling demand in summer.
+
+#### **Phase 3: Heating System Transition**
+6. **Place Air-Water Heat Pump**
+   - *Why?* The existing air heating system is inefficient. An **air-water heat pump** is a sustainable replacement, especially since geothermal potential is low and there is no heat grid.
+   - *Note:* Ensure the system is compatible with low-temperature emissions (next step).
+
+7. **Place Low-Temperature Emission System**
+   - *Why?* Optimize the heat pump’s efficiency by installing underfloor heating or low-temperature radiators.
+
+#### **Phase 4: Renewable Energy Integration**
+8. **Place PV Panels on Roof**
+   - *Why?* The building has confirmed PV potential. Solar panels will offset the electricity demand of the heat pump and ventilation system.
+
+---
+
+### **Summary of Optimal Sequence**
+| **Priority** | **Action**                     | **Rationale**                                                                 |
+|--------------|-------------------------------|-----------------------------------------------------------------------------|
+| 1            | Insulate Gable Roof            | Stops heat loss through the largest uninsulated surface (roof).                 |
+| 2            | Insulate Exterior Walls        | Eliminates thermal bridges and reduces heat loss through walls.                   |
+| 3            | Insulate Floor Above Basement  | Prevents cold drafts from the basement.                                       |
+| 4            | Replace Ventilation System     | Improves air quality and reduces uncontrolled air leakage.                        |
+| 5            | Place Air-Water Heat Pump      | Transition to a sustainable, low-carbon heating system.                           |
+| 6            | Place Low-Temperature Emission | Optimizes heat pump efficiency.                                                   |
+| 7            | Place PV Panels on Roof        | Generates renewable electricity to power the heat pump and ventilation system.    |
+
+---
+
+### **Final Notes**
+- **Cost-Effectiveness:** Insulation and ventilation upgrades are prioritized first because they have the highest return on investment.
+- **Sequencing:** Heating system upgrades are delayed until the thermal envelope is sealed to avoid oversizing the HVAC system.
+- **PV Potential:** Solar panels are installed last to ensure they power the most efficient systems possible.
+
+This plan ensures a **Fabric First** approach, maximizing energy efficiency while remaining cost-effective.

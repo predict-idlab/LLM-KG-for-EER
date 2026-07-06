@@ -1,0 +1,24 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached house (constructed in 2017) with an exceptionally high energy performance rating (EPC score of 87, which corresponds to an **A Label**). 
+
+The building is already equipped with high-efficiency systems: a heat pump, a Ventilation System D (the most advanced type), and existing PV panels. Most of the thermal envelope (walls and floor) is already "Well Insulated." Because the building is already near peak operational performance, the focus shifts from "major overhaul" to "marginal gains" to further optimize the EPC score.
+
+### Proposed Renovation Path
+
+Since the building is already highly efficient, the "Fabric First" approach is nearly complete. The remaining opportunities for improvement are focused on the few elements that are not yet "Well Insulated" or could be upgraded to the highest possible standard.
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low-Medium)
+The only remaining element of the building envelope that is not fully optimized is the main roof.
+1.  **Insulate Gable Roof:** While the `RoofMain` is currently "Moderately Insulated," upgrading this to "Well Insulated" will eliminate the final significant source of conductive heat loss, as heat naturally rises through the highest point of the structure.
+
+#### Phase 2: Glazing Optimization (Priority: Low)
+The windows currently feature double glazing and frames in a "Good State." To move the EPC score even lower, the thermal resistance of the windows can be improved.
+2.  **Replace Glazing:** Upgrading from double glazing to **triple glazing** would further reduce thermal transmittance (U-value), reducing the load on the heat pump during winter and improving thermal comfort near window surfaces.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "Moderately Insulated" structural element to complete the thermal envelope. |
+| **2** | **Replace Glazing** | Transitions the building from a high standard (Double Glazing) to a premium standard (Triple Glazing) for maximum efficiency. |
+
+**Expert Note:** Because the building already possesses a heat pump, a high-end ventilation system, and PV panels, no further upgrades to the emission or generation systems are recommended. Any further investment in these areas would yield diminishing returns. The property is already an exemplary model of energy efficiency.

@@ -1,0 +1,57 @@
+### Renovation Plan
+
+The building is a detached house from 1862 with a current EPC score of 165 (D Label). The owner's primary motivation is to improve the EPC score.
+
+Given the age of the building and the current EPC score, the renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+#### Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)**
+
+1. **Insulate Cavity Walls:**
+   - The building has four cavity walls (`Wall_Front`, `Wall_Left`, `Wall_Rear`, and `Wall_Right`) that are currently not insulated.
+   - Insulating these walls is a priority as it is one of the most effective ways to lower energy consumption.
+   - **Insulating the wall cavity** is more cost-effective than exterior insulation and provides a substantial increase in thermal retention.
+
+2. **Insulate Floor Above Crawl Space:**
+   - The `FloorAboveCrawlSpace` is currently not insulated.
+   - Adding insulation here eliminates "cold feet" and reduces heat loss to the crawl space.
+
+**Phase 2: Window Performance**
+The window performance should be enhanced, since the single glazing leads to significant heat losses.
+
+3. **Replace Glazing:**
+   - All glazing should be replaced, as all windows still have single glazing.
+   - Adding double or even triple glazing would drastically improve the thermal performance.
+
+**Phase 3: High-Efficiency Heating Transition**
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+4. **Place Air-Water Heat Pump:**
+   - Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+
+**Phase 4: Air Quality and Ventilation**
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+5. **Replace Ventilation System:**
+   - Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D).
+   - This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+**Phase 5: Sustainable Energy Generation**
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+6. **Place PV-Panels on Roof:**
+   - The building has confirmed potential for PV.
+   - Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+#### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **5** | **PV Panels** | Offsets the electricity consumption of the heat pump and further improves the EPC score. |
+
+This plan ensures that the building is made as energy-efficient as possible while remaining cost-effective and aligned with the owner's motivation to improve the EPC score.

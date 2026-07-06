@@ -1,0 +1,46 @@
+Given the information provided, here's a concise and actionable renovation plan tailored to your attached house in Ghent, Belgium. The plan focuses on improving energy efficiency while remaining cost-effective, considering the most optimal sequence of upgrades:
+
+### 1. **Upgrade Heating System**
+   - **Action**: Replace the old boiler and heat emission systems (underfloor heating and electric convectors) with a more efficient system.
+   - **Recommendation**: Consider a **heat pump** (air-source or hybrid) combined with underfloor heating or low-temperature radiators. Heat pumps are highly efficient and can significantly reduce energy consumption.
+   - **Benefit**: Improves heating efficiency and reduces energy costs. This is a priority as the current systems are in poor condition.
+
+### 2. **Improve Roof Insulation**
+   - **Action**: Enhance the insulation of the main pitched roof, which currently has a moderate level of insulation.
+   - **Recommendation**: Add an additional layer of insulation (e.g., mineral wool or rigid foam boards) to bring it up to current energy efficiency standards.
+   - **Benefit**: Reduces heat loss through the roof, improving overall energy performance.
+
+### 3. **Optimize Ventilation System**
+   - **Action**: Ensure the existing ventilation system (D) is functioning efficiently and consider upgrading to a **heat recovery ventilation (HRV) system** if not already in place.
+   - **Recommendation**: If the current system is a basic mechanical ventilation system, upgrading to an HRV system can recover heat from exhausted air, reducing heating demands.
+   - **Benefit**: Improves indoor air quality and reduces heat loss through ventilation.
+
+### 4. **Upgrade Windows (if necessary)**
+   - **Action**: Although the windows were renewed in 2024 and are in good condition, consider upgrading to **triple-glazed windows** if further improvements are needed.
+   - **Recommendation**: Triple glazing provides better insulation than double glazing, especially in colder climates like Belgium.
+   - **Benefit**: Further reduces heat loss through windows, enhancing energy efficiency.
+
+### 5. **Maximize Photovoltaic (PV) Panel Efficiency**
+   - **Action**: Ensure the existing PV panels are operating at peak efficiency.
+   - **Recommendation**: Regular maintenance and cleaning of the panels. Consider adding a **battery storage system** to store excess energy for use during peak times or when the panels are not generating electricity.
+   - **Benefit**: Increases self-consumption of solar energy, reducing reliance on the grid.
+
+### 6. **Smart Thermostat and Controls**
+   - **Action**: Install a **smart thermostat** to optimize heating schedules and reduce energy waste.
+   - **Recommendation**: Choose a programmable or learning thermostat that can adapt to your daily routines.
+   - **Benefit**: Enhances comfort and reduces energy consumption by ensuring heating is used efficiently.
+
+### 7. **Sealing and Draft Proofing**
+   - **Action**: Check for and seal any air leaks around windows, doors, and other openings.
+   - **Recommendation**: Use weatherstripping, seals, or draft excluders to minimize heat loss.
+   - **Benefit**: Simple and cost-effective way to improve energy efficiency.
+
+### **Optimal Sequence**:
+1. Upgrade the heating system (priority due to poor condition).
+2. Improve roof insulation.
+3. Optimize or upgrade the ventilation system.
+4. Consider upgrading windows to triple glazing if further improvements are needed.
+5. Maximize PV panel efficiency and add battery storage if feasible.
+6. Install a smart thermostat and perform sealing and draft proofing.
+
+This plan focuses on practical, cost-effective upgrades that will significantly improve your home's energy performance certificate (EPC) score and long-term operational performance.

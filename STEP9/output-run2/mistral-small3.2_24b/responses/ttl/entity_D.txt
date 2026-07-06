@@ -1,0 +1,86 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **1. Assess Current State**
+- **Building Type**: Semi-detached (shares a wall with another house).
+- **Construction Year**: 2017.
+- **Energy Performance Certificate (EPC) Score**: 87.0 (good but can be improved).
+- **Insulation**: Well-insulated walls, moderately insulated gable roof, well-insulated flat roof.
+- **Windows**: Double glazing, wooden frames in good condition.
+- **Heating System**: Heat pump.
+- **Ventilation System**: Ventilation system D (mechanical supply and exhaust).
+- **Solar Potential**: No PV panels installed; potential for PV is false (likely due to shading or orientation).
+- **Heat Grid**: Not present.
+- **Owner’s Motivation**: To improve EPC.
+
+#### **2. Prioritize Renovations Based on Energy Efficiency and Cost-Effectiveness**
+Given the building’s current state, the following renovations are recommended in order of priority:
+
+##### **A. Roof and Attic Improvements**
+1. **Insulate Gable Roof** (Ordering: 28)
+   - **Action**: Insulate the gable roof to improve thermal performance.
+   - **Cost**: €60/m².
+   - **Nuisance Level**: Low.
+   - **Notes**: Install a vapour barrier on the warm side of the insulation to prevent condensation.
+
+2. **Insulate Attic Floor** (Ordering: 31)
+   - **Action**: Insulate the attic floor to reduce heat loss.
+   - **Cost**: €60/m².
+   - **Nuisance Level**: Low.
+   - **Notes**: Ensure a vapour barrier is installed to prevent moisture issues.
+
+##### **B. Window and Glazing Upgrades**
+3. **Replace Glazing** (Ordering: 43)
+   - **Action**: Upgrade to triple glazing if possible, or ensure double glazing is in good condition.
+   - **Cost**: €200/m².
+   - **Nuisance Level**: High (requires careful installation).
+   - **Notes**: Check that window frames are straight and strong enough to support new glazing.
+
+##### **C. Wall Insulation**
+4. **Insulate Wall on Exterior** (Ordering: 40)
+   - **Action**: Consider external wall insulation if internal insulation is not feasible.
+   - **Cost**: €200/m².
+   - **Nuisance Level**: High (requires permits if thickness exceeds 26 cm or building line is overrun).
+   - **Notes**: Ensure compatibility with the building line and council guidelines.
+
+##### **D. Ventilation and Heating System**
+5. **Replace Ventilation System** (Ordering: 52)
+   - **Action**: Upgrade to a more efficient ventilation system if needed.
+   - **Cost**: €3,500 (fixed) + €17/m².
+   - **Nuisance Level**: Moderate.
+   - **Notes**: Ensure ducts for supply and return are properly installed.
+
+6. **Place Emission System on Low Temperature** (Ordering: 70)
+   - **Action**: Optimize the emission system to work at lower temperatures for better efficiency.
+   - **Cost**: €100/m².
+   - **Nuisance Level**: Moderate.
+   - **Notes**: Ensure compatibility with the existing heat pump.
+
+##### **E. Solar Panel Installation**
+7. **Place PV-Panels on Roof** (Ordering: 85)
+   - **Action**: Install PV panels on the roof if shading and orientation allow.
+   - **Cost**: €275/m².
+   - **Nuisance Level**: Low.
+   - **Notes**: Check the 'Zonnekaart' for optimal placement and ensure no asbestos is present in the roof.
+
+##### **F. Additional Considerations**
+8. **Place Sunshade** (Ordering: 79)
+   - **Action**: Install outdoor blinds to reduce solar gain in summer.
+   - **Cost**: €750 (fixed).
+   - **Nuisance Level**: Low.
+   - **Notes**: Outdoor blinds are more efficient than indoor blinds.
+
+#### **3. Implementation Sequence**
+1. **Roof and Attic Insulation** (Insulate gable roof and attic floor).
+2. **Window Glazing Upgrades** (Replace or ensure optimal glazing).
+3. **Exterior Wall Insulation** (If feasible and permitted).
+4. **Ventilation and Heating System Upgrades** (Replace ventilation system and optimize emission system).
+5. **Solar Panel Installation** (If feasible).
+6. **Sunshade Installation** (For summer comfort).
+
+#### **4. Expected Outcomes**
+- **Improved EPC Score**: Higher energy efficiency leading to a better EPC rating.
+- **Reduced Energy Consumption**: Lower heating costs due to better insulation and efficient systems.
+- **Increased Comfort**: Better thermal comfort and indoor air quality.
+- **Cost Savings**: Long-term savings on energy bills and potential increase in property value.
+
+This plan is designed to maximize energy efficiency while being cost-effective, prioritizing actions that provide the highest return on investment.

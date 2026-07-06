@@ -1,0 +1,30 @@
+Given the information about your semi-detached house in Ghent, Belgium, built in 2017 with a current EPC score of 87, the renovation plan should focus on incremental improvements that enhance energy efficiency while remaining cost-effective. Here’s a step-by-step renovation path:
+
+### Proposed Renovation Path
+
+#### Phase 1: Optimize Existing Insulation (Priority: Low)
+Since the house already has well-insulated walls, floors, and flat-roof extension, and the pitched roof has a moderate level of insulation, there is minimal need for insulation upgrades. However, you could consider:
+1. **Improve Pitched Roof Insulation:** Since the main pitched roof has only a moderate level of insulation, upgrading it to a higher level of insulation (e.g., adding an extra layer of insulation) could further reduce heat loss.
+
+#### Phase 2: Ventilation System Optimization (Priority: Medium)
+2. **Upgrade Ventilation System D:** Although the house already has a ventilation system D, ensuring it is operating at peak efficiency and considering upgrades to a more advanced system (e.g., a heat recovery ventilation system) could improve air quality and reduce energy losses.
+
+#### Phase 3: Sustainable Energy Generation (Priority: Medium)
+3. **Expand Photovoltaic (PV) Panels:** Since the house already has PV panels installed, expanding the PV system could help generate more renewable electricity, further reducing reliance on the grid and lowering energy costs.
+
+#### Phase 4: Heating System Maintenance (Priority: Low)
+4. **Maintain Heat Pump:** The heat pump is in good condition, so regular maintenance and servicing should be prioritized to ensure it continues to operate efficiently.
+
+### Summary of Optimal Sequence
+1. **Improve Pitched Roof Insulation** (if deemed cost-effective).
+2. **Optimize Ventilation System D** (ensure it is running efficiently).
+3. **Expand PV Panels** (to generate more renewable energy).
+4. **Maintain Heat Pump** (regular servicing to keep it in good condition).
+
+### Rationale
+- **Insulation:** The house already has well-insulated walls, floors, and flat-roof extension, so the focus should be on the pitched roof, which has only moderate insulation.
+- **Ventilation:** Upgrading the ventilation system can improve indoor air quality and energy efficiency.
+- **PV Panels:** Expanding the existing PV system can increase the amount of renewable energy generated, reducing reliance on the grid.
+- **Heat Pump Maintenance:** Ensuring the heat pump is well-maintained will keep it operating efficiently.
+
+This plan ensures that the renovations are practical, cost-effective, and tailored to the specific needs of your house.

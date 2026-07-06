@@ -1,0 +1,33 @@
+Based on the provided building data and the RENO ontology, the property is already highly energy-efficient, with an **EPC score of 87 (A Label)** and modern systems (Heat Pump, Ventilation System D, and PV Panels) installed. 
+
+Since the owner's primary motivation is to further **Improve the EPC**, the renovation strategy should shift from "major overhaul" to "marginal gains," targeting the few remaining elements that are not yet "Well Insulated."
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Highest Priority)
+The only significant thermal weakness identified in the building envelope is the main gable roof.
+*   **Action:** **Insulate Gable Roof**
+*   **Justification:** While the walls, flat roof, and floor above basement are already "Well Insulated," the main gable roof is only "Moderately Insulated." Improving this is the most direct way to lower the energy score and push the EPC toward an A+ label.
+*   **Cost-Effectiveness:** Since the roof is in "Good State," there is no need for a costly replacement (`replace gable roof`); a targeted insulation upgrade is the most cost-effective approach.
+*   **Point of Attention:** Ensure a vapor barrier is installed on the warm side to prevent condensation.
+
+#### Phase 2: Glazing Upgrade (Secondary Priority)
+The windows currently feature double glazing and wooden frames in good condition.
+*   **Action:** **Replace Glazing** (Upgrade to Triple Glazing)
+*   **Justification:** Moving from double to triple glazing will further reduce heat loss, particularly in a building that is already well-insulated elsewhere.
+*   **Cost-Effectiveness:** Because the `WoodenWindowFrame` is in "Good State" (Value: 8), it is significantly more cost-effective to **replace the glazing only** rather than replacing the entire window unit.
+*   **Point of Attention:** Verify that the existing wooden frames have the necessary thickness to support the heavier weight of triple-pane glass.
+
+#### Phase 3: Maintenance and Monitoring (Long-term Performance)
+Given the existing high-performance installations, no further hardware upgrades are recommended at this time.
+*   **Observation on HVAC:** The building already utilizes a Heat Pump and Ventilation System D (the highest standard). There is no reason to change the emission system or seek geothermal solutions, as the site lacks the potential for geothermal drilling/captation.
+*   **Observation on Renewables:** PV panels are already installed. While the suggestion list includes "plug and play" or "garden PV," the building data indicates no further potential for PV expansion.
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Target Element | Impact | Cost-Efficiency |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | High (Thermal Loss) | High (No replacement needed) |
+| **2** | **Replace Glazing** | `WindowsLivingArea` / `WindowsBedrooms` | Medium (Thermal Loss) | High (Reuse existing frames) |
+
+**Final Expert Note:** This building is in the "fine-tuning" stage of energy efficiency. By focusing exclusively on the gable roof and glazing, the owner can maximize the EPC improvement with minimal nuisance and investment, avoiding unnecessary and costly replacements of elements that are already performing well.

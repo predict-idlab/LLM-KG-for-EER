@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate gable roof", "place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["replace boiler with air-water heat pump", "replace electric convectors with low-temperature emission systems", "add heat recovery to ventilation system", "add battery storage system"]}, "sequence": {"order_errors": []}}

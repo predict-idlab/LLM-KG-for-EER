@@ -1,0 +1,62 @@
+Based on the provided information, here's a step-by-step renovation plan for the building:
+
+### **1. Insulate Walls**
+- **Action:** Insulate wall on interior
+  - **Reasoning:** All exterior walls are currently not insulated and there is no historical protection.
+  - **Priority:** High
+  - **Potential Issues:** Sockets, pipes, and radiators against the outer walls may need to be relocated.
+  - **Permit Needed:** Not necessary (Flanders)
+
+### **2. Insulate Roof**
+- **Action:** Insulate gable roof
+  - **Reasoning:** The main roof is well insulated, but there is potential to insulate the attic floor.
+  - **Priority:** Medium
+  - **Potential Issues:** Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+  - **Permit Needed:** Not necessary (Flanders)
+
+### **3. Upgrade Windows**
+- **Action:** Replace windows
+  - **Reasoning:** The windows in both the living area and bedrooms have single glazing and wooden frames, which are not energy efficient.
+  - **Priority:** High
+  - **Potential Issues:** Check that window frames are in good condition and have the right thickness for the type of glazing you want to install.
+  - **Permit Needed:** Not necessary if the measurements are kept (Flanders)
+
+### **4. Improve Ventilation System**
+- **Action:** Replace ventilation system
+  - **Reasoning:** The current ventilation system is of type A, which may not be optimal for energy efficiency.
+  - **Priority:** Medium
+  - **Potential Issues:** A ventilation system D will have slightly more impact on your home, as it requires ductwork for both supply and return.
+  - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+
+### **5. Install Solar Panels**
+- **Action:** Place PV-panels on roof
+  - **Reasoning:** The site has potential for PV installation and the owner is in favour of installing PV panels in the garden.
+  - **Priority:** Low
+  - **Potential Issues:** Check on the 'Zonnekaart' whether your roof is properly oriented and captures enough sunlight. The yield is greatest if your panels face south (south-east to south-west) at an angle of 30° to 50°.
+  - **Permit Needed:** Not necessary if the panels are in the same plane (Flanders)
+
+### **6. Install Emission System on Low Temperature**
+- **Action:** Place emission system on low temperature
+  - **Reasoning:** The current emission system is an electric convector, which is not energy efficient.
+  - **Priority:** Medium
+  - **Permit Needed:** Not necessary (Flanders)
+
+### **7. Install Sunshade**
+- **Action:** Place sunshade
+  - **Reasoning:** Outdoor blinds are generally more efficient than indoor blinds.
+  - **Priority:** Low
+  - **Permit Needed:** Not necessary (Flanders)
+
+### **8. Connect to Heat Grid**
+- **Action:** Connect to heatgrid
+  - **Reasoning:** The presence of a heat grid is not indicated, but connecting to a heat grid can significantly improve energy efficiency.
+  - **Priority:** Medium
+  - **Permit Needed:** Not necessary (Flanders)
+
+### **9. Install Heat Pump Boiler**
+- **Action:** Place heatpumpboiler
+  - **Reasoning:** The current generation system is a boiler, which can be replaced with a heat pump boiler for better energy efficiency.
+  - **Priority:** High
+  - **Permit Needed:** Not necessary (Flanders)
+
+This plan prioritizes actions based on their potential impact on energy efficiency, cost-effectiveness, and the specific characteristics of the building. The actions are ordered to maximize the benefits of each renovation step.

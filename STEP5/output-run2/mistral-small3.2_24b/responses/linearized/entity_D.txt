@@ -1,0 +1,54 @@
+### Renovation Plan for Semi-Detached Building (2017)
+
+#### **Building Overview:**
+- **Type:** Semi-detached building (2017)
+- **Current EPC Score:** 87 (A Label)
+- **Primary Motivation:** Improve EPC
+- **Current Elements:**
+  - **Roof:** Moderately insulated gable roof, well-insulated flat roof
+  - **Walls:** Well-insulated (exterior)
+  - **Floor:** Well-insulated floor above basement
+  - **Windows:** Double-glazed windows in good condition
+  - **Heating System:** Heat pump (existing)
+  - **Ventilation System:** Ventilation system D (existing)
+  - **PV Panels:** Installed
+
+#### **Renovation Strategy:**
+Since the building already has a good EPC score (87) and a heat pump installed, the focus should be on **maximizing renewable energy usage** and **optimizing existing systems** rather than major structural changes.
+
+#### **Recommended Renovation Steps:**
+
+1. **Optimize Ventilation System:**
+   - **Action:** Replace Ventilation System (if needed)
+   - **Rationale:** Since the building already has a high-efficiency heat pump and well-insulated envelope, the ventilation system may not need replacement. However, if air quality issues persist, upgrading to a more efficient system (e.g., ventilation system C) could improve comfort and energy efficiency.
+   - **Priority:** Low
+
+2. **Maximize Solar Energy Usage:**
+   - **Action:** Ensure PV Panels are operating at peak efficiency
+   - **Rationale:** The building has existing PV panels. Ensure they are properly maintained and oriented for maximum sunlight exposure.
+   - **Priority:** Medium
+
+3. **Review Heating System Performance:**
+   - **Action:** Check if the heat pump is operating optimally
+   - **Rationale:** Since the building has a heat pump, ensure it is properly sized and maintained for maximum efficiency.
+   - **Priority:** Medium
+
+4. **Monitor and Maintain Insulation:**
+   - **Action:** Regularly inspect insulation in walls, roof, and floor
+   - **Rationale:** Ensure that the existing insulation remains in good condition to maintain energy efficiency.
+   - **Priority:** Low
+
+#### **Summary of Recommendations:**
+| **Priority** | **Action** | **Rationale** |
+|--------------|------------|---------------|
+| **Low**      | Replace Ventilation System (if needed) | Optimize air quality and energy efficiency. |
+| **Medium**   | Maximize Solar Energy Usage | Ensure PV panels are operating at peak efficiency. |
+| **Medium**   | Review Heating System Performance | Ensure the heat pump is properly sized and maintained. |
+| **Low**      | Monitor and Maintain Insulation | Ensure insulation remains in good condition. |
+
+#### **Final Notes:**
+- The building is already in good condition with a high EPC score (87).
+- The primary focus should be on **maintaining and optimizing existing systems** rather than major renovations.
+- Regular inspections and maintenance of insulation, ventilation, and heating systems will ensure long-term energy efficiency.
+
+This plan ensures that the building remains energy-efficient and cost-effective while minimizing unnecessary renovations.

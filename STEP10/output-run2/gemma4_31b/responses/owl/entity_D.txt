@@ -1,0 +1,33 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached building (constructed in 2017) with an exceptionally high energy performance rating. With an **EPC score of 87 (A label)**, the building is already highly energy-efficient.
+
+Most critical energy-saving measures have already been implemented: the walls, flat roof, and floor are "Well Insulated," a Heat Pump is already the generation system, a high-efficiency Ventilation System D is in place, and PV panels are already installed.
+
+To further improve the EPC score in a cost-effective manner, the focus shifts from "major overhaul" to "marginal gains" and "fine-tuning."
+
+### Proposed Renovation Path
+
+Given the current state of the building, a traditional multi-phase renovation is not necessary. Instead, I propose a targeted optimization of the remaining thermal gaps.
+
+#### Phase 1: Thermal Envelope Refinement (Priority: Low-Medium)
+The only building element not rated as "Well Insulated" is the main gable roof.
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently **Moderately Insulated**. Upgrading this to a "Well Insulated" state is the most logical step to further reduce heat loss and lower the EPC score. Since the building is already modern, this may involve adding a layer of high-performance insulation in the attic or checking for thermal bridges.
+
+#### Phase 2: High-Performance Glazing (Priority: Low/Optional)
+The windows currently feature double glazing and frames in a "Good State."
+
+2.  **Replace Glazing:** To move the EPC score from the 80s into the 60s or 70s, the owner could consider replacing the double glazing with **Triple Glazing**. However, given the already low energy demand of the house, the return on investment (ROI) for this measure is significantly lower than in an older home. This should be viewed as a long-term luxury upgrade rather than a critical efficiency requirement.
+
+---
+
+### Summary of Analysis and Rationale
+
+| Element | Current State | Recommendation | Rationale |
+| :--- | :--- | :--- | :--- |
+| **Gable Roof** | Moderately Insulated | **Insulate Gable Roof** | The only remaining "moderate" gap in the thermal envelope. |
+| **Windows** | Double Glazed / Good State | **Replace Glazing** (Optional) | Marginal gain; only recommended if the goal is a "Passive House" standard. |
+| **Walls/Floor** | Well Insulated | No Action | Already optimized. |
+| **HVAC/PV** | Heat Pump / Vent D / PV | No Action | State-of-the-art systems are already installed. |
+
+**Final Expert Verdict:** 
+The building is already a model of energy efficiency. The most cost-effective path to further improving the EPC is to **Insulate the Gable Roof**. Beyond that, further improvements will yield diminishing returns relative to the cost of implementation.

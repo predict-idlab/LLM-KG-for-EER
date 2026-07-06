@@ -1,0 +1,72 @@
+Based on the provided ontology and entity information, here's a concise and actionable renovation plan to maximize energy efficiency while remaining cost-effective:
+
+### **Step 1: Initial Assessment**
+1. **Review Current State:**
+   - The building is an attached structure built in 1832.
+   - The current energy performance certificate (EPC) score is 262 kWh/m²year.
+   - The building has a net floor area of 212 m².
+   - The site has no potential for horizontal geothermal captation or vertical geothermal drilling.
+   - There is no heat grid present.
+
+### **Step 2: Identify Key Areas for Improvement**
+1. **Insulation:**
+   - The floor above the basement is not insulated.
+   - The rear and front walls are not insulated.
+   - The flat roof extension is not insulated.
+   - The gable roof is moderately insulated.
+
+2. **Windows and Glazing:**
+   - The windows in the living area and bedrooms have double glazing, which is better than single glazing but can be improved.
+
+3. **Heating System:**
+   - The current emission system (radiators) may need replacement or upgrading.
+
+### **Step 3: Proposed Renovation Actions**
+1. **Insulate the Floor Above the Basement:**
+   - **Action:** Insulate the floor above the basement.
+   - **Cost:** €30 per m².
+   - **Impact:** Low nuisance level, no permit needed.
+
+2. **Insulate the Walls:**
+   - **Action:** Insulate the rear and front walls on the exterior.
+   - **Cost:** €200 per m².
+   - **Impact:** High nuisance level, permit may be needed if the thickness of the total pack exceeds 26 cm or if the building line is overrun.
+
+3. **Replace the Ventilation System:**
+   - **Action:** Replace the current ventilation system (Ventilation System A) with a more efficient system (e.g., Ventilation System C or D).
+   - **Cost:** €3,500 fixed + €17 per m².
+   - **Impact:** Moderate nuisance level, permit may be needed if the above-ground parts are not at least 2 m away from the parcel boundary.
+
+4. **Upgrade the Emission System:**
+   - **Action:** Consider replacing the current radiators with a more efficient heating system, such as a heat pump boiler or air-water heat pump.
+   - **Cost:** Varies depending on the system chosen.
+   - **Impact:** Moderate nuisance level, permit may be needed.
+
+5. **Improve Glazing:**
+   - **Action:** Replace the current double glazing with triple glazing to further improve insulation.
+   - **Cost:** €200 per m².
+   - **Impact:** High nuisance level, no permit needed.
+
+### **Step 4: Prioritize Actions**
+1. **High Priority:**
+   - Insulate the floor above the basement.
+   - Insulate the walls on the exterior.
+
+2. **Medium Priority:**
+   - Replace the ventilation system.
+   - Upgrade the emission system.
+
+3. **Low Priority:**
+   - Improve glazing to triple glazing.
+
+### **Step 5: Additional Considerations**
+1. **PV Panels:**
+   - The site has potential for PV panels. Consider installing PV panels on the roof to further reduce energy consumption and costs.
+
+2. **Financial Incentives:**
+   - Investigate available financial incentives or subsidies for energy-efficient renovations.
+
+### **Conclusion**
+By following this renovation plan, you can significantly improve the energy efficiency of the building, reduce energy consumption, and potentially lower energy costs. The plan prioritizes actions based on cost-effectiveness, impact, and permitting requirements.
+
+Would you like more detailed information on any specific step or action?

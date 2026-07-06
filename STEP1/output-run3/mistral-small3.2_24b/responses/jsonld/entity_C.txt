@@ -1,0 +1,71 @@
+### **Energy-Efficient Renovation Plan for the Attached Building**
+
+#### **Key Observations and Recommendations**
+1. **EPC Rating (D) - Poor Insulation**
+   - The building has an **Energy Performance Certificate (EPC) score of 50**, indicating significant room for improvement in energy efficiency.
+   - The **floor above basement, walls (front and rear), and roof main** are **well-insulated**, but the **roof extension** is **moderately insulated**, and **windows** are **double-glazed** but may not be optimized for energy efficiency.
+
+2. **Potential for PV Panels**
+   - The **potential for PV panels is marked as false**, but this should be reassessed based on the building's orientation and roof space.
+
+3. **Reason to Change Emission System**
+   - The **emission system (electric convectors and floor heating) is outdated**, and there is a **reason to change it**.
+
+4. **Historical Protection**
+   - The walls have **no historical protection**, making them eligible for renovations.
+
+5. **Renovation Motivation**
+   - The owner's **primary motivation is to improve the EPC rating**.
+
+---
+
+### **Step-by-Step Renovation Plan**
+#### **1. Insulate the Roof Extension**
+   - **Recommendation:** Replace the **moderately insulated roof extension** with **well-insulated roofing**.
+   - **Action:**
+     - Use **high-performance insulation materials** (e.g., rigid foam or mineral wool).
+     - Ensure proper **vapour barrier installation** to prevent condensation.
+   - **Estimated Cost:** ~€50/m²
+
+#### **2. Upgrade Window Glazing**
+   - **Recommendation:** Replace **double-glazed windows** with **triple-glazed windows** or **high-performance double-glazed windows** with **low-emissivity (Low-E) coatings** and **argon gas filling**.
+   - **Action:**
+     - Choose **wooden or PVC frames** with **thermal breaks** for better insulation.
+   - **Estimated Cost:** ~€200/m²
+
+#### **3. Replace Emission System**
+   - **Recommendation:** Upgrade the **electric convectors and floor heating** to a **more energy-efficient system** (e.g., **air-source heat pump** or **ground-source heat pump**).
+   - **Action:**
+     - Conduct a **heat loss assessment** to determine the optimal system.
+     - Install a **programmable thermostat** for better temperature control.
+   - **Estimated Cost:** ~€8000 (including installation)
+
+#### **4. Assess PV Potential**
+   - **Recommendation:** Re-evaluate the **potential for PV panels** based on the building’s **orientation, roof space, and local regulations**.
+   - **Action:**
+     - Consult a **solar energy expert** to assess feasibility.
+     - If feasible, install **PV panels on the roof** to reduce electricity costs.
+   - **Estimated Cost:** ~€275/m² (including installation)
+
+#### **5. Improve Ventilation System**
+   - **Recommendation:** Replace the **ventilation system (D)** with a **more efficient system** (e.g., **heat recovery ventilation system**).
+   - **Action:**
+     - Ensure proper **airflow and filtration** to improve indoor air quality.
+   - **Estimated Cost:** ~€3500 (including installation)
+
+---
+
+### **Expected Benefits**
+- **Energy Efficiency:** Improved insulation, upgraded glazing, and a new emission system will **significantly reduce energy consumption**.
+- **Comfort:** Better **thermal comfort** and **air quality** due to improved ventilation.
+- **Cost Savings:** Lower **energy bills** and potential **income from PV panels**.
+- **EPC Rating:** Expected **upgrade to at least a C rating**, increasing the property’s **market value**.
+
+---
+
+### **Next Steps**
+1. **Consult a Renovation Expert** to finalize the plan and obtain **accurate cost estimates**.
+2. **Apply for Subsidies or Grants** for energy-efficient renovations (if available in your region).
+3. **Schedule the Renovations** in a **logical sequence** to minimize disruption.
+
+This plan prioritizes **cost-effective, energy-efficient upgrades** while maximizing **long-term operational performance**.

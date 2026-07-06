@@ -1,0 +1,67 @@
+### Renovation Plan for the Entity
+
+#### **Objective:**
+Improve the energy efficiency of the semi-detached building to achieve a better EPC label (currently E) by implementing cost-effective upgrades.
+
+#### **Key Observations:**
+- **Current EPC Score:** 87 (E Label)
+- **Building Type:** Semi-detached (173 m²)
+- **Construction Year:** 2017
+- **Current Systems:**
+  - **Ventilation:** Ventilation System D
+  - **Heating:** Heat Pump
+  - **PV Panels:** Installed but low potential
+- **Building Elements:**
+  - **Walls:** Well-insulated (FullBrickWall)
+  - **Roofs:** Well-insulated (Flat and Gable)
+  - **Windows:** Wooden frames with double glazing
+  - **Floor:** Well-insulated
+
+#### **Renovation Path:**
+1. **Replace Double Glazing with Triple Glazing**
+   - **Action:** Replace the existing double glazing in both the bedrooms and living area with triple glazing.
+   - **Rationale:** Triple glazing significantly reduces heat loss through windows, improving thermal comfort and energy efficiency.
+   - **Estimated Cost:** €200/m² (Total: €200 * (Area of Windows) ≈ €X)
+   - **Priority:** High
+
+2. **Upgrade Ventilation System**
+   - **Action:** Replace the existing Ventilation System D with a more efficient system (e.g., Ventilation System C).
+   - **Rationale:** A more efficient ventilation system can reduce energy consumption by improving air quality and reducing heat loss.
+   - **Estimated Cost:** €3500 (Fixed) + €17/m² (Total: €3500 + €17 * (Area of Ventilation) ≈ €X)
+   - **Priority:** Medium
+
+3. **Improve Insulation of Gable Roof**
+   - **Action:** Add additional insulation to the gable roof to achieve well-insulated status.
+   - **Rationale:** The gable roof is currently moderately insulated. Improving insulation will reduce heat loss through the roof.
+   - **Estimated Cost:** €60/m² (Total: €60 * (Area of Gable Roof) ≈ €X)
+   - **Priority:** Medium
+
+4. **Install Additional PV Panels**
+   - **Action:** Assess the feasibility of installing additional PV panels to increase energy generation.
+   - **Rationale:** Increasing PV panel capacity can offset electricity consumption, reducing the overall energy footprint.
+   - **Estimated Cost:** €275/m² (Total: €275 * (Area of Additional PV Panels) ≈ €X)
+   - **Priority:** Low (due to low potential for PV)
+
+5. **Replace Heat Pump with More Efficient Model**
+   - **Action:** Evaluate the current heat pump's efficiency and consider replacing it with a more energy-efficient model.
+   - **Rationale:** A more efficient heat pump can significantly reduce energy consumption for heating.
+   - **Estimated Cost:** Varies (Total: €X)
+   - **Priority:** Low (due to existing heat pump)
+
+#### **Expected Outcomes:**
+- **Improved EPC Label:** Targeting a B or A label through these upgrades.
+- **Energy Savings:** Reduced energy consumption and lower utility bills.
+- **Thermal Comfort:** Enhanced comfort levels within the living spaces.
+
+#### **Implementation Sequence:**
+1. **Phase 1:** Replace glazing and upgrade ventilation system.
+2. **Phase 2:** Improve roof insulation and install additional PV panels.
+3. **Phase 3:** Evaluate and replace the heat pump if necessary.
+
+#### **Additional Recommendations:**
+- **Monitor and Maintain:** Regularly monitor the performance of the upgraded systems to ensure continued energy efficiency.
+- **Future-Proofing:** Consider integrating smart home technologies for better energy management.
+
+This plan focuses on practical, cost-effective upgrades that align with the building's current state and the owner's motivation to improve the EPC. The sequence ensures that the most impactful upgrades are prioritized first.
+
+Would you like more detailed cost estimates or additional recommendations?

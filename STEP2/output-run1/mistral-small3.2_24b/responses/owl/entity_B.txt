@@ -1,0 +1,73 @@
+Based on the provided RENO ontology, building information, and the suggestion list, here's a practical and cost-effective renovation plan to improve the energy efficiency of the building while considering the optimal sequence of renovations:
+
+### **Renovation Plan for Attached Building (1832, 212 m², G000000000, Belgium)**
+
+#### **1. Roof Improvements**
+- **Replace Flat Roof (Roof Extension)**
+  - **Reason**: The flat roof is not insulated and is in a good state. Replacing it will improve thermal performance.
+  - **Action**: Remove existing roofing material, install insulation, and replace with a new flat roof covering.
+  - **Cost**: €120/m² * 20 m² (estimated) = €2,400 (materials) + labor (varies by contractor).
+  - **Ordering**: 10 (high priority due to weather exposure).
+
+- **Insulate Gable Roof (Roof Main)**
+  - **Reason**: The gable roof is moderately insulated and in a good state. Insulating it further will reduce heat loss.
+  - **Action**: Install insulation between rafters, ensuring proper vapor barrier installation.
+  - **Cost**: €60/m² * 50 m² (estimated) = €3,000 (materials) + labor.
+  - **Ordering**: 28 (after flat roof replacement to avoid weather-related delays).
+
+#### **2. Window Improvements**
+- **Replace Glazing (Windows Living Area & Bedrooms)**
+  - **Reason**: Double glazing is already present, but upgrading to triple glazing or low-emissivity (Low-E) coatings can further improve insulation.
+  - **Action**: Replace existing glazing with high-performance glazing (e.g., triple glazing with Low-E coating and argon filling).
+  - **Cost**: €200/m² * 20 m² (estimated) = €4,000 (materials) + labor.
+  - **Ordering**: 43 (after roof work to avoid weather-related delays).
+
+- **Replace Windows (if frames are degraded)**
+  - **Reason**: Wooden window frames are in good condition, but if they show signs of degradation, replacement may be necessary.
+  - **Action**: Replace frames with thermally broken frames (e.g., uPVC or aluminum with thermal break) and high-performance glazing.
+  - **Cost**: €800/m² * 20 m² (estimated) = €16,000 (materials) + labor.
+  - **Ordering**: 46 (after glazing replacement if frames are in good condition).
+
+#### **3. Wall Improvements**
+- **Insulate Wall on Exterior (Wall Front & Rear)**
+  - **Reason**: Full brick walls are not insulated, leading to significant heat loss. Exterior insulation will improve thermal comfort and reduce condensation risks.
+  - **Action**: Install exterior insulation (e.g., mineral wool or EPS) with a suitable cladding system.
+  - **Cost**: €200/m² * 100 m² (estimated) = €20,000 (materials) + labor.
+  - **Ordering**: 40 (after window work to ensure proper integration of insulation and window frames).
+
+#### **4. Floor Improvements**
+- **Insulate Floor Above Basement (Floor Above Basement)**
+  - **Reason**: The floor above the basement is not insulated, leading to heat loss to the unheated basement.
+  - **Action**: Install floor insulation (e.g., rigid foam boards or mineral wool) with a vapor barrier.
+  - **Cost**: €30/m² * 50 m² (estimated) = €1,500 (materials) + labor.
+  - **Ordering**: 49 (after wall insulation to avoid cold bridges).
+
+#### **5. Ventilation System Upgrade**
+- **Replace Ventilation System (Ventilation System)**
+  - **Reason**: The existing ventilation system is type A (natural supply and exhaust), which may not meet current energy efficiency standards.
+  - **Action**: Upgrade to a mechanical ventilation system with heat recovery (e.g., type B or C) to improve indoor air quality and energy efficiency.
+  - **Cost**: €3,500 (materials) + labor.
+  - **Ordering**: 52 (after floor insulation to ensure proper integration with the new system).
+
+#### **6. Heating System Upgrade**
+- **Place Air-Water Heat Pump (Heat Pump)**
+  - **Reason**: The existing heating system (radiators with a boiler) is inefficient and may not be compatible with low-temperature heating systems.
+  - **Action**: Install an air-water heat pump with underfloor heating or low-temperature radiators to improve energy efficiency.
+  - **Cost**: €8,000 (materials) + labor.
+  - **Ordering**: 67 (after ventilation system upgrade to ensure proper integration).
+
+#### **7. Solar Panel Installation**
+- **Place PV-Panels on Roof (PV Panels)**
+  - **Reason**: The building has potential for PV panels, and the roof is suitable for installation.
+  - **Action**: Install PV panels on the south-facing roof with an optimal angle (30°–50°) to maximize energy generation.
+  - **Cost**: €275/m² * 30 m² (estimated) = €8,250 (materials) + labor.
+  - **Ordering**: 85 (after heat pump installation to ensure compatibility with the electrical system).
+
+### **Estimated Total Cost**: ~€63,150 (excluding labor costs, which vary by contractor and region).
+
+### **Notes**:
+- **Permits**: Check local regulations for permits, especially for structural changes like roof replacement and exterior insulation.
+- **Multi-Phase Work**: Some renovations (e.g., heat pump installation) may require multi-phase work, so plan accordingly.
+- **Asbestos**: Ensure proper handling and disposal of any asbestos-containing materials during roof replacement.
+
+This plan prioritizes high-impact, cost-effective upgrades while considering the optimal sequence to maximize energy efficiency improvements.

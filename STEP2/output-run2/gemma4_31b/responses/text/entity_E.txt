@@ -1,0 +1,48 @@
+To move a house from an EPC of 165 to a high-performance rating, you must follow the **"Envelope-First" principle**. Replacing a heating system before insulating the shell is a common and costly mistake; it leads to oversized, inefficient systems and higher monthly bills.
+
+Given that your house is in Ghent and not historically protected, you have significant flexibility. Here is the optimal, cost-effective renovation sequence.
+
+---
+
+### Phase 1: The Thermal Shell (Stopping the Heat Loss)
+*Priority: High | Goal: Reduce the energy demand of the house.*
+
+1.  **Cavity Wall Insulation:** Since you have cavity walls, **injection insulation** is your highest ROI move. It is relatively inexpensive, fast to install, and prevents the majority of heat loss through the walls without changing the facade.
+2.  **Window Upgrade (Double/Triple Glazing):** Single glazing is a massive energy leak. Since the wooden frames are in good condition, investigate if **"slim-profile" double glazing** can be fitted into existing frames. If not, replace them with high-efficiency A++ rated windows. This eliminates drafts and condensation.
+3.  **Floor Insulation (Crawl Space):** Since the status is unknown, assume it is uninsulated. Insulating the ceiling of the crawl space (using rigid boards or spray foam) prevents the "cold feet" effect and stops dampness from rising into the living area.
+
+### Phase 2: Ventilation & Air Quality
+*Priority: Medium | Goal: Maintain air quality and prevent mold after sealing the house.*
+
+1.  **Controlled Ventilation:** Once you insulate the walls and windows, the house becomes more airtight. Natural ventilation will no longer be sufficient. 
+2.  **Recommendation:** Install a **Mechanical Ventilation system with Heat Recovery (MVHR)** or at least a decentralized heat recovery system. This ensures fresh air without letting the warmth escape, which is critical for maintaining the gains made in Phase 1.
+
+### Phase 3: Heating System Modernization
+*Priority: Medium-High | Goal: Transition to a low-carbon, efficient heat source.*
+
+Now that the house is insulated, the total heat load is significantly lower. You can now install a system sized for a *renovated* house rather than an old one.
+
+1.  **The Generator:** Transition from the boiler to an **Air-to-Water Heat Pump**. Since geothermal is not possible, a high-efficiency air-source pump is the best alternative for the Belgian climate.
+2.  **The Distribution (The "Cleanup"):** Your current mix (radiators, air heating, electric convectors) is highly inefficient.
+    *   **Remove:** All electric convectors (they are energy sinks).
+    *   **Optimize:** Expand the **underfloor heating** where possible, as it works perfectly with the low-temperature output of a heat pump.
+    *   **Replace:** Old radiators with **Low-Temperature Radiators** (larger surface area) to ensure the house stays warm without needing the heat pump to work at high, inefficient temperatures.
+
+### Phase 4: Renewable Energy Production
+*Priority: Final Step | Goal: Offset the electricity cost of the heat pump.*
+
+1.  **Photovoltaic (PV) Panels:** Install solar panels on the pitched roof. A heat pump shifts your energy consumption from gas to electricity; PV panels neutralize this cost and can potentially push your energy bill toward zero.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1. Insulation** | Cavity walls $\rightarrow$ Floor $\rightarrow$ Windows | Massive reduction in heat loss | Very High (High ROI) |
+| **2. Ventilation** | Install Heat Recovery Ventilation | Air quality & heat retention | Medium |
+| **3. Heating** | Heat Pump + Low-Temp Distribution | Decarbonization & Efficiency | High (Long-term) |
+| **4. Energy** | Photovoltaic Panels | Energy independence | High (Operational) |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, apply for the **"Mijn VerbouwPremie" (My Renovation Premium)**. The Flemish government offers significant subsidies for exactly these steps (insulation, heat pumps, and ventilation). Because your EPC is 165, you likely qualify for the highest tier of premiums, which can drastically reduce the upfront capital expenditure.

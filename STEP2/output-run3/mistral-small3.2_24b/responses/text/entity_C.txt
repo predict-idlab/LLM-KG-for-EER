@@ -1,0 +1,56 @@
+Given the information provided, here’s a concise and actionable renovation plan tailored to your home in Ghent, Belgium, focusing on energy efficiency and cost-effectiveness:
+
+### 1. **Replace the Heating System**
+   - **Action:** Replace the boiler and heat emission systems (underfloor heating and electric convectors) with a more efficient system.
+   - **Options:**
+     - **Heat Pump:** Consider an air-source heat pump (ASHP) or a hybrid system (boiler + heat pump) if the heat pump alone cannot meet the demand.
+     - **Modern Boiler:** If a heat pump is not feasible, opt for a high-efficiency condensing boiler.
+   - **Benefits:** Improved heating efficiency, reduced energy consumption, and better alignment with your photovoltaic panels.
+   - **Priority:** High
+
+### 2. **Improve Roof Insulation**
+   - **Action:** Enhance the insulation of the main pitched roof, which currently has a moderate level of insulation.
+   - **Options:**
+     - Add an extra layer of insulation (e.g., mineral wool or rigid foam boards) between the rafters.
+     - Consider adding a vapor barrier if necessary.
+   - **Benefits:** Reduced heat loss through the roof, improved overall insulation performance.
+   - **Priority:** Medium
+
+### 3. **Ventilation System Upgrade**
+   - **Action:** Ensure the existing ventilation system (Ventilation System D) is well-maintained and optimized for energy efficiency.
+   - **Options:**
+     - Regular cleaning and maintenance of the system.
+     - Consider upgrading to a heat recovery ventilation (HRV) system if the current system is not efficient.
+   - **Benefits:** Improved air quality and reduced energy loss through ventilation.
+   - **Priority:** Low-Medium
+
+### 4. **Window Upgrades (If Needed)**
+   - **Action:** Although the windows are in good condition and have double glazing, consider upgrading to triple glazing if budget allows.
+   - **Benefits:** Further reduction in heat loss through windows.
+   - **Priority:** Low
+
+### 5. **Thermal Bridging and Air Sealing**
+   - **Action:** Identify and seal any thermal bridges and air leaks, especially around windows, doors, and where the walls meet the roof and floor.
+   - **Options:**
+     - Use expanding foam, weatherstripping, or specialized sealants.
+   - **Benefits:** Reduced drafts and heat loss.
+   - **Priority:** Medium
+
+### 6. **Smart Thermostats and Controls**
+   - **Action:** Install smart thermostats and programmable controls for the heating system.
+   - **Benefits:** Optimized heating schedules, reduced energy waste.
+   - **Priority:** Low
+
+### Optimal Sequence:
+1. Replace the heating system (High Priority).
+2. Improve roof insulation (Medium Priority).
+3. Upgrade ventilation system (Low-Medium Priority).
+4. Seal thermal bridges and air leaks (Medium Priority).
+5. Consider window upgrades (Low Priority).
+6. Install smart thermostats (Low Priority).
+
+### Additional Considerations:
+- **Photovoltaic Panels:** Ensure they are well-maintained and optimized for maximum energy production.
+- **Energy Audit:** Consider a professional energy audit to identify specific areas of improvement and prioritize accordingly.
+
+This plan focuses on practical, cost-effective upgrades that will significantly improve your home’s energy performance certificate (EPC) score and long-term operational performance.

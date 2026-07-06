@@ -1,0 +1,20 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "place air-water heatpump"
+    ],
+    "extra_actions": [
+      "insulate flat roof",
+      "insulate attic floor",
+      "insulate wall cavity",
+      "insulate wall on interior",
+      "replace ventilation system",
+      "place low-temperature emission system"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}
+
+ 	 	 	 	 	 	 	 	 	 	

@@ -1,0 +1,33 @@
+Based on the provided information, here's a concise and actionable renovation plan tailored to your 1832 attached house in Ghent, Belgium:
+
+**Proposed Renovation Path**
+
+**Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Flat Roof Extension**: Highest priority as heat rises and the flat roof currently has no insulation.
+2. **Insulate Exterior Walls**: Apply exterior insulation to the solid brick front and rear walls to eliminate thermal bridges.
+3. **Insulate Floor Above Basement**: Add insulation to prevent heat loss to the basement.
+
+**Phase 2: Heating System Upgrade (Medium Priority)**
+4. **Install Air-Water Heat Pump**: Replace the old boiler with this efficient system, suitable for your location.
+5. **Upgrade to Low-Temperature Emission System**: Modify the existing radiator system to work at lower temperatures for optimal heat pump performance.
+
+**Phase 3: Ventilation Improvement (Medium Priority)**
+6. **Upgrade Ventilation System**: Replace the basic natural ventilation with a more efficient system (like System C or D) to maintain air quality in the now-sealed envelope.
+
+**Phase 4: Sustainable Energy Generation (Long-term Priority)**
+7. **Install Photovoltaic Panels**: Utilize the house's potential for PV panels to offset the heat pump's electricity consumption and further improve energy performance.
+
+**Optimal Sequence Summary**:
+1. Insulate flat roof extension
+2. Insulate exterior walls
+3. Insulate floor above basement
+4. Install air-water heat pump
+5. Upgrade to low-temperature emission system
+6. Upgrade ventilation system
+7. Install photovoltaic panels
+
+**Key Considerations**:
+- The building's age (1832) suggests potential for historical features, so work with preservation guidelines if needed.
+- Your current EPC score of 262 (D label) provides a good baseline for improvement.
+- The double glazing is already in good condition, so window replacement isn't necessary at this stage.
+- The pitched roof has moderate insulation, so focus on the uninsulated flat roof extension first.

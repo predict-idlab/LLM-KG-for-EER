@@ -1,0 +1,86 @@
+### Renovation Plan for the Semi-Detached Building
+
+#### Overview:
+The building is a semi-detached, single-story structure constructed in 1951. It has a gable roof, a flat roof extension, and a floor above the basement. The building features several key elements that could benefit from energy-efficient upgrades, including walls, roofs, windows, and heating systems. The current energy performance certificate (EPC) indicates a score of 388, which falls into the C label range (200-300 kWh/m²year), suggesting there is room for improvement.
+
+#### Key Goals:
+1. **Improve Energy Efficiency**: Reduce energy consumption and enhance the building's EPC label.
+2. **Enhance Thermal Comfort**: Increase the thermal comfort of the living spaces.
+3. **Cost-Effectiveness**: Prioritize renovations that offer the best balance of cost and energy savings.
+
+#### Step-by-Step Renovation Plan:
+
+**1. Insulate the Roofs (Immediate Action)**
+   - **Action**: Insulate the gable roof (RoofMain) and the flat roof extension (RoofExtension).
+   - **Reasoning**:
+     - Both roofs are currently not insulated (NotInsulated).
+     - Insulating roofs can significantly reduce heat loss and improve thermal comfort.
+   - **Implementation**:
+     - Use appropriate insulation materials suitable for the roof structure.
+     - Ensure proper installation to avoid condensation issues.
+   - **Ordering**: High priority due to the significant impact on energy efficiency.
+
+**2. Replace Windows (High Priority)**
+   - **Action**: Replace the windows in the living area and bedrooms with double-glazed windows.
+   - **Reasoning**:
+     - The current windows have single glazing (SingleGlazing), which has poor thermal and acoustic properties.
+     - Double glazing will improve insulation and reduce energy loss.
+   - **Implementation**:
+     - Ensure the window frames are in good condition and can support the new glazing.
+     - Choose energy-efficient glazing with low U-values.
+   - **Ordering**: High priority due to the substantial impact on energy efficiency and comfort.
+
+**3. Upgrade the Heating System (High Priority)**
+   - **Action**: Replace the current heating system with a more efficient option, such as an air-water heat pump.
+   - **Reasoning**:
+     - The current heating system (EmissionSystem) is likely outdated and inefficient.
+     - An air-water heat pump can provide significant energy savings and reduce carbon emissions.
+   - **Implementation**:
+     - Consult with a professional to select the appropriate heat pump system.
+     - Ensure the system is compatible with the existing infrastructure.
+   - **Ordering**: High priority due to the impact on energy consumption and comfort.
+
+**4. Insulate Walls (Medium Priority)**
+   - **Action**: Insulate the external walls (Wall_Front, Wall_Rear, Wall_Right).
+   - **Reasoning**:
+     - The walls are currently not insulated (NotInsulated).
+     - Insulating walls can reduce heat loss and improve thermal comfort.
+   - **Implementation**:
+     - Use appropriate insulation materials for external walls.
+     - Ensure proper installation to avoid structural issues.
+   - **Ordering**: Medium priority due to the cost and complexity of the work.
+
+**5. Upgrade the Ventilation System (Medium Priority)**
+   - **Action**: Replace the current ventilation system (VentilationSystem) with a more efficient option, such as a ventilation system C.
+   - **Reasoning**:
+     - The current ventilation system may not be efficient.
+     - A ventilation system C can improve air quality and reduce energy loss.
+   - **Implementation**:
+     - Consult with a professional to select the appropriate ventilation system.
+     - Ensure the system is compatible with the existing infrastructure.
+   - **Ordering**: Medium priority due to the impact on air quality and energy efficiency.
+
+**6. Insulate the Floor Above the Basement (Low Priority)**
+   - **Action**: Insulate the floor above the basement (FloorAboveBasement).
+   - **Reasoning**:
+     - The floor is currently not insulated (NotInsulated).
+     - Insulating the floor can reduce heat loss and improve thermal comfort.
+   - **Implementation**:
+     - Use appropriate insulation materials for floor insulation.
+     - Ensure proper installation to avoid structural issues.
+   - **Ordering**: Low priority due to the cost and complexity of the work.
+
+**7. Consider Renewable Energy Sources (Future Action)**
+   - **Action**: Explore the possibility of installing solar panels on the roof or in the garden.
+   - **Reasoning**:
+     - The building has potential for photovoltaic (PV) installations.
+     - Solar panels can reduce energy costs and contribute to sustainability goals.
+   - **Implementation**:
+     - Conduct a feasibility study to assess the potential for PV installations.
+     - Consult with a professional to design and install the system.
+   - **Ordering**: Future action due to the initial investment and planning required.
+
+#### Summary:
+The proposed renovation plan focuses on improving energy efficiency, enhancing thermal comfort, and ensuring cost-effectiveness. The plan prioritizes actions based on their impact on energy savings and the building's overall performance. By following this plan, the building can achieve a better EPC label, reduce energy consumption, and enhance the living environment for its occupants. Regular maintenance and monitoring of the renovated systems will ensure long-term benefits and sustainability.
+
+This plan is based on the RENO ontology and tailored to the specific characteristics and needs of the building. It provides a clear, actionable roadmap for achieving energy-efficient and cost-effective renovations.

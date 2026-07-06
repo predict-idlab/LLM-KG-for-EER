@@ -1,0 +1,77 @@
+To create an energy-efficient and cost-effective renovation plan, we need to analyze the building's current state, identify areas for improvement, and prioritize actions based on the ontology and suggestion list. Here's a step-by-step approach:
+
+### Step 1: Assess Current State
+1. **Building Type**: Semi-detached building.
+2. **Construction Year**: 2017 (relatively new, so likely meets basic insulation standards).
+3. **Insulation Grades**:
+   - RoofMain: Moderately Insulated
+   - RoofExtension: Well Insulated
+   - FloorAboveBasement: Well Insulated
+   - Walls (Front, Left, Rear): Well Insulated
+4. **Windows**:
+   - Bedrooms and Living Area: Double Glazing, Wooden Frames in Good State.
+5. **Energy Performance Certificate (EPC)**: Score of 87 (indicating good energy performance but room for improvement).
+6. **Potential for PV**: False (no potential for photovoltaic panels).
+7. **Heating System**: Heat Pump.
+8. **Ventilation System**: Type D (mechanical supply and exhaust).
+
+### Step 2: Identify Key Areas for Improvement
+1. **Roof Insulation**:
+   - RoofMain is only Moderately Insulated. Upgrading to Well Insulated could improve energy efficiency.
+2. **Windows**:
+   - Double Glazing is good, but ensuring the frames are well-sealed and have thermal breaks can further improve performance.
+3. **Ventilation System**:
+   - Type D is efficient but may benefit from regular maintenance or upgrades to ensure optimal performance.
+4. **Heating System**:
+   - Heat Pumps are energy-efficient, but ensuring the emission system is compatible with low temperatures can enhance efficiency.
+
+### Step 3: Prioritize Actions Based on Cost-Effectiveness and Energy Efficiency
+1. **Insulate RoofMain**:
+   - Upgrade from Moderately Insulated to Well Insulated.
+   - Action: Insulate Gable Roof (Ordering: 28, Nuisance Level: High).
+2. **Ensure Window Frames are Well-Sealed**:
+   - Action: Replace Glazing (Ordering: 43, Nuisance Level: High).
+3. **Maintain or Upgrade Ventilation System**:
+   - Action: Replace Ventilation System (Ordering: 52, Nuisance Level: Moderate).
+4. **Ensure Compatibility of Emission System with Low Temperatures**:
+   - Action: Place Low Temperature Emission System (Ordering: 70, Nuisance Level: Moderate).
+
+### Step 4: Propose Renovation Plan
+Based on the above analysis, here’s a step-by-step renovation plan:
+
+1. **Insulate Gable Roof (RoofMain)**:
+   - **Action**: Insulate Gable Roof.
+   - **Reason**: RoofMain is currently Moderately Insulated. Upgrading to Well Insulated will improve thermal performance.
+   - **Nuisance Level**: High.
+   - **Ordering**: 28.
+
+2. **Replace Glazing (Windows)**:
+   - **Action**: Replace Glazing.
+   - **Reason**: Ensure window frames are well-sealed and have thermal breaks to improve energy efficiency.
+   - **Nuisance Level**: High.
+   - **Ordering**: 43.
+
+3. **Replace Ventilation System**:
+   - **Action**: Replace Ventilation System.
+   - **Reason**: Maintain or upgrade the Ventilation System to ensure optimal performance.
+   - **Nuisance Level**: Moderate.
+   - **Ordering**: 52.
+
+4. **Place Low Temperature Emission System**:
+   - **Action**: Place Low Temperature Emission System.
+   - **Reason**: Ensure the emission system is compatible with low temperatures for enhanced efficiency.
+   - **Nuisance Level**: Moderate.
+   - **Ordering**: 70.
+
+### Step 5: Additional Considerations
+- **Maintenance**: Regular maintenance of the heat pump and ventilation system is crucial.
+- **Future Upgrades**: Monitor the potential for PV in the future if the situation changes.
+- **Cost-Effectiveness**: Prioritize actions based on their ordering and nuisance levels to ensure cost-effectiveness.
+
+### Final Renovation Plan
+1. **Insulate Gable Roof (RoofMain)**.
+2. **Replace Glazing (Windows)**.
+3. **Replace Ventilation System**.
+4. **Place Low Temperature Emission System**.
+
+This plan focuses on maximizing energy efficiency while remaining cost-effective, taking into account the building's current state and the available renovation suggestions.

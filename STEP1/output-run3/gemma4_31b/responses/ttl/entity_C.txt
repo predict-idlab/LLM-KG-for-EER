@@ -1,0 +1,40 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path.
+
+### **Building Analysis Summary**
+The building is a very recent construction (2023) and is already highly efficient, with an **EPC score of 50.0 (A Label)**. Most elements (walls, floor, flat roof) are already "Well Insulated," and it possesses a high-end ventilation system (System D). However, the owner is motivated to further improve the EPC, and there is a specific flag indicating a need to change the emission system.
+
+---
+
+### **Proposed Renovation Plan**
+
+To maximize energy efficiency while remaining cost-effective, the strategy follows the **"Fabric First"** principle: optimizing the building envelope before upgrading the technical installations.
+
+#### **Step 1: Thermal Envelope Optimization**
+*   **Action:** **Insulate Gable Roof** (`reno:InsulateGableRoof`)
+*   **Reasoning:** While most of the house is well-insulated, the main gable roof is currently only **"Moderately Insulated."** Since heat rises, this is the most significant point of thermal leakage in the current structure.
+*   **Practical Note:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation, as specified in the ontology.
+*   **Impact:** This reduces the overall heating load of the building, which is a prerequisite for sizing the heating system in Step 2.
+
+#### **Step 2: Heating System Modernization**
+*   **Action:** **Install an Air-Water Heat Pump** (`reno:PlaceAirWaterHeatpump`)
+*   **Reasoning:** The building has a flag (`reno:hasReasonToChangeEmissionSystem: true`) and currently relies on a boiler and electric convectors. 
+    *   **Why Air-Water?** The building already has **Floor Heating** (`reno:FloorHeating`), which is a low-temperature emission system perfectly suited for the high efficiency of a heat pump.
+    *   **Exclusions:** Geothermal options are ruled out as the site has no potential for horizontal or vertical captation. A heat grid is also unavailable in the area.
+*   **Impact:** Moving from electric convectors/boiler to a heat pump significantly lowers the energy score (kWh/m²year), pushing the building closer to an **A+ Label**.
+
+#### **Step 3: Long-term Operational Monitoring**
+*   **Action:** **Maintain Ventilation System D**
+*   **Reasoning:** The building already employs `reno:VentilationSystemD` (mechanical supply and exhaust), which is the most energy-efficient ventilation type. No renovation is needed here; the focus should be on regular filter maintenance to ensure the heat recovery remains optimal.
+
+---
+
+### **Optimal Sequence & Logic**
+
+| Sequence | Intervention | Priority | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Gable Roof Insulation** | High | Reduces heat loss $\rightarrow$ lowers required capacity of the new heat pump $\rightarrow$ reduces installation costs. |
+| **2** | **Air-Water Heat Pump** | Medium | Replaces inefficient electric/boiler systems with a renewable source, leveraging existing floor heating. |
+
+### **Cost-Effectiveness Summary**
+*   **Avoided Costs:** No expenditure is recommended for the walls, floor, or flat roof, as they are already "Well Insulated." Replacing the windows is also unnecessary as they are double-glazed and in good state.
+*   **High ROI:** The combination of roof insulation and a heat pump provides the highest possible reduction in energy consumption for a building that is already at an "A" level, directly satisfying the owner's motivation to improve the EPC.

@@ -1,0 +1,46 @@
+### Energy Efficiency Renovation Plan
+
+**Building Analysis Summary:**
+The property is a modern (2023), attached building with an already excellent energy profile (EPC score: 50, A-label). Most elements—including the walls, floor above basement, and flat roof extension—are already "Well Insulated." However, there is a clear opportunity to optimize the **Gable Roof** (currently "Moderately Insulated") and the **Heating System**, as the owner has expressed a specific desire to improve the EPC further and change the emission system (currently relying on inefficient electric convectors).
+
+To maximize energy efficiency while remaining cost-effective, the following sequence is proposed. This follows the "Fabric First" principle: optimize the envelope before upgrading the technical installations.
+
+---
+
+#### **Phase 1: Thermal Envelope Optimization**
+*Goal: Minimize heat loss through the only remaining moderate insulation point.*
+
+1.  **Insulate Gable Roof:** 
+    *   **Rationale:** The main gable roof is the only major building element not yet "Well Insulated." Increasing the insulation grade here will directly reduce the heating load and is a prerequisite for sizing the new heat pump correctly.
+    *   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### **Phase 2: Glazing Upgrade**
+*Goal: Reduce radiative heat loss and improve thermal comfort.*
+
+2.  **Replace Glazing (Upgrade to Triple Glazing):**
+    *   **Rationale:** The building currently uses double glazing. While efficient, upgrading to triple glazing will further lower the energy score and eliminate cold spots near windows, aligning with the owner's goal to improve the EPC.
+    *   **Practical Note:** Since the wooden frames are in "Good State," only the glazing needs replacement, making this more cost-effective than replacing entire window units.
+
+#### **Phase 3: High-Efficiency Heating Transition**
+*Goal: Replace inefficient electric heating with a sustainable, low-carbon alternative.*
+
+3.  **Place Air-Water Heat Pump:**
+    *   **Rationale:** The current use of electric convectors is highly inefficient. Given that the building already possesses **Floor Heating** (a low-temperature emission system) and has no potential for geothermal drilling or heat grid connection, an Air-Water Heat Pump is the most cost-effective and efficient choice.
+    *   **Benefit:** This will drastically reduce operational energy costs and carbon emissions compared to electric resistance heating.
+
+#### **Phase 4: Passive Cooling & Comfort**
+*Goal: Reduce summer energy consumption (cooling load).*
+
+4.  **Place Sunshades:**
+    *   **Rationale:** To prevent overheating in a well-insulated modern home, external sunshades are essential. This reduces the need for active air conditioning, further improving the overall energy performance of the dwelling.
+    *   **Practical Note:** Prioritize outdoor blinds over indoor ones for maximum efficiency.
+
+---
+
+### **Summary of Renovation Sequence**
+| Sequence | Action | Target Element | Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | $\downarrow$ Heat Loss |
+| **2** | **Replace Glazing** | Windows | $\downarrow$ Energy Score / $\uparrow$ Comfort |
+| **3** | **Place Air-Water Heat Pump** | Generation System | $\downarrow\downarrow$ Operational Cost |
+| **4** | **Place Sunshade** | Windows/Facades | $\downarrow$ Summer Cooling Load |

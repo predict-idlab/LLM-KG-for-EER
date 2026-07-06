@@ -1,0 +1,56 @@
+### Renovation Plan for the Building
+
+Given the information provided in the RENO ontology and the specific details of the building, here is a tailored renovation plan aimed at improving energy efficiency while remaining cost-effective:
+
+#### **1. Replace the Flat Roof (RoofExtension)**
+- **Action**: Replace the flat roof of the RoofExtension.
+- **Reasoning**: The current flat roof has an insulation grade of "WellInsulated," but replacing it can further improve the building's thermal performance. This is particularly important given the owner's motivation to improve the EPC.
+- **Cost**: ~€120 per m² (based on the suggestion list).
+- **Permit**: Reporting obligation required.
+
+#### **2. Insulate the Gable Roof (RoofMain)**
+- **Action**: Insulate the gable roof of the RoofMain.
+- **Reasoning**: The gable roof has an insulation grade of "ModeratelyInsulated." Improving insulation will enhance thermal comfort and reduce energy consumption.
+- **Cost**: ~€60 per m².
+- **Permit**: Not necessary.
+
+#### **3. Replace the Glazing (WindowsBedrooms and WindowsLivingArea)**
+- **Action**: Replace the glazing of the windows in the Bedrooms and LivingArea.
+- **Reasoning**: The current glazing is double glazing, which can be upgraded to triple glazing for better thermal and acoustic performance. This aligns with the owner's goal to improve the EPC.
+- **Cost**: ~€200 per m².
+- **Permit**: Not necessary.
+
+#### **4. Insulate the Floor Above Basement (FloorAboveBasement)**
+- **Action**: Insulate the floor above the basement.
+- **Reasoning**: The floor above the basement has an insulation grade of "WellInsulated," but additional insulation can further reduce heat loss, particularly if the basement is used as a living space.
+- **Cost**: ~€30 per m².
+- **Permit**: Not necessary.
+
+#### **5. Replace the Ventilation System (VentilationSystem)**
+- **Action**: Replace the ventilation system with a more energy-efficient model.
+- **Reasoning**: The current ventilation system is of type D, which is less efficient. Upgrading to a more efficient system can reduce energy consumption and improve indoor air quality.
+- **Cost**: ~€3,500 (fixed) + €17 per m².
+- **Permit**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+
+#### **6. Place a Low-Temperature Emission System (EmissionSystem)**
+- **Action**: Install a low-temperature emission system.
+- **Reasoning**: The current emission system is an electric convector, which is not the most efficient for heating. A low-temperature system can improve energy efficiency and thermal comfort.
+- **Cost**: ~€100 per m².
+- **Permit**: Not necessary.
+
+#### **7. Place Solar Panels on the Roof (PVPanels)**
+- **Action**: Install PV panels on the roof.
+- **Reasoning**: Solar panels can significantly reduce the building's reliance on grid electricity, aligning with the owner's motivation to improve the EPC and reduce energy consumption.
+- **Cost**: ~€275 per m².
+- **Permit**: Not necessary if the panels are in the same plane.
+
+### **Optimal Sequence of Actions**
+1. **Replace the Flat Roof** (High impact on EPC and thermal performance).
+2. **Insulate the Gable Roof** (Improves overall insulation).
+3. **Replace the Glazing** (Enhances thermal and acoustic performance).
+4. **Insulate the Floor Above Basement** (Reduces heat loss from the basement).
+5. **Replace the Ventilation System** (Improves indoor air quality and energy efficiency).
+6. **Place a Low-Temperature Emission System** (Enhances heating efficiency).
+7. **Place Solar Panels on the Roof** (Reduces reliance on grid electricity).
+
+This plan prioritizes actions that have the highest impact on improving the building's energy efficiency and EPC, aligning with the owner's motivations and the constraints provided in the ontology.

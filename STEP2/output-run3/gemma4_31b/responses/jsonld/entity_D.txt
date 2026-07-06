@@ -1,0 +1,47 @@
+### Energy Efficiency Renovation Analysis
+
+**Current Building Status:**
+The property is a modern semi-detached building (constructed in 2017) with an exceptionally high energy performance (EPC score of 87, placing it in the **A Label** category). The thermal envelope is largely well-insulated (walls and floors), and the building already utilizes high-efficiency systems, including a heat pump and a Type D ventilation system.
+
+**Primary Opportunity:**
+The only significant thermal weakness identified is the **Gable Roof**, which is currently only **"Moderately Insulated."** Given the owner's motivation to further improve the EPC, the focus should be on completing the thermal envelope and optimizing operational comfort.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the following sequence is recommended. This follows the "Fabric First" principle—optimizing the building shell before adding technical equipment.
+
+#### Phase 1: Thermal Envelope Optimization (High Impact)
+*   **Action: Insulate Gable Roof**
+    *   **Reasoning:** The roof is the only element not yet "Well Insulated." Increasing the insulation grade here will reduce heat loss during winter and heat gain during summer.
+    *   **Cost-Effectiveness:** High. Roof insulation typically offers one of the best returns on investment for energy reduction.
+    *   **Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### Phase 2: Glazing Upgrade (Incremental Gain)
+*   **Action: Replace Glazing (Double $\rightarrow$ Triple Glazing)**
+    *   **Reasoning:** While the current double glazing is sufficient, upgrading to triple glazing will further lower the U-value of the windows, reducing the load on the heat pump.
+    *   **Cost-Effectiveness:** Moderate. Since the wooden frames are in "Good State," replacing only the glazing (rather than the entire window) is the most cost-effective approach.
+
+#### Phase 3: Operational Comfort & Cooling (Preventative)
+*   **Action: Place Sunshades**
+    *   **Reasoning:** In highly insulated modern homes (EPC A), overheating in summer is a common risk. External sunshades are the most energy-efficient way to manage solar gain without relying on energy-intensive air conditioning.
+    *   **Cost-Effectiveness:** High. Low installation cost with a significant impact on summer energy consumption.
+
+#### Phase 4: System Optimization (Efficiency Refinement)
+*   **Action: Place Heat Pump Boiler**
+    *   **Reasoning:** The building already has a heat pump for space heating. Adding a dedicated heat pump boiler for domestic hot water ensures that water heating is performed with the same high efficiency as space heating.
+    *   **Cost-Effectiveness:** Moderate. This optimizes the "Generation System" to ensure no fossil fuels or inefficient electric resistance heaters are used for water.
+
+---
+
+### Summary of Sequence & Priority
+
+| Sequence | Renovation Action | Priority | Focus | Estimated Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Critical | Thermal Envelope | Low |
+| **2** | **Replace Glazing** | Medium | Thermal Envelope | High |
+| **3** | **Place Sunshades** | Medium | Thermal Comfort | Low |
+| **4** | **Place Heat Pump Boiler** | Low | System Efficiency | Moderate |
+
+**Final Expert Note:** Because the building is already an "A" rated property, the marginal gains of each step will be smaller than in a traditional renovation. The focus here is on **precision tuning** to reach a near-zero energy standard.

@@ -1,0 +1,57 @@
+Based on the provided building information and the RENO ontology, here is a concise and actionable renovation plan that focuses on improving energy efficiency and cost-effectiveness:
+
+### **Renovation Plan for Detached Building (Construction Year: 1862)**
+
+#### **1. Insulate Cavity Walls (Left, Front, Rear, Right)**
+   - **Action:** Insulate the cavity walls on the left, front, rear, and right sides of the building.
+   - **Reasoning:**
+     - All four walls are currently not insulated (`hasInsulationGrade`: `https://w3id.org/reno#NotInsulated`).
+     - Insulating cavity walls significantly reduces heat loss and improves thermal comfort.
+   - **Recommendation:** `https://w3id.org/reno#InsulateWallCavity`
+   - **Cost:** Approximately €22 per m².
+
+#### **2. Replace Single-Glazed Windows with Double-Glazed Windows**
+   - **Action:** Replace the single-glazed windows in the bedrooms and living area with double-glazed windows.
+   - **Reasoning:**
+     - Current glazing type is `SingleGlazing`, which has poor thermal performance.
+     - Double-glazing improves insulation and reduces heat loss.
+   - **Recommendation:** `https://w3id.org/reno#ReplaceWindows`
+   - **Cost:** Approximately €800 per m².
+
+#### **3. Insulate the Gable Roof**
+   - **Action:** Insulate the gable roof to improve its thermal performance.
+   - **Reasoning:**
+     - The roof is currently well-insulated, but further improvements can be made to ensure optimal energy efficiency.
+   - **Recommendation:** `https://w3id.org/reno#InsulateGableRoof`
+   - **Cost:** Approximately €60 per m².
+
+#### **4. Upgrade the Ventilation System**
+   - **Action:** Consider replacing the existing ventilation system (Type A) with a more efficient system (e.g., Type B or C).
+   - **Reasoning:**
+     - Upgrading the ventilation system can improve indoor air quality and energy efficiency.
+   - **Recommendation:** `https://w3id.org/reno#ReplaceVentilationSystem`
+   - **Cost:** Approximately €3500 (fixed) + €17 per m².
+
+#### **5. Install PV Panels (If Applicable)**
+   - **Action:** Assess the potential for installing PV panels on the roof.
+   - **Reasoning:**
+     - The building has potential for PV (`hasPotentialForPV`: `true`).
+     - PV panels can generate renewable energy, reducing electricity costs.
+   - **Recommendation:** `https://w3id.org/reno#PlacePVPanelsOnRoof`
+   - **Cost:** Approximately €275 per m².
+
+### **Summary of Recommendations**
+| **Renovation Action**               | **Recommendation**                          | **Cost (per m² or fixed)** |
+|-------------------------------------|--------------------------------------------|-----------------------------|
+| Insulate Cavity Walls               | `https://w3id.org/reno#InsulateWallCavity` | €22                        |
+| Replace Single-Glazed Windows       | `https://w3id.org/reno#ReplaceWindows`      | €800                       |
+| Insulate Gable Roof                 | `https://w3id.org/reno#InsulateGableRoof`   | €60                        |
+| Upgrade Ventilation System          | `https://w3id.org/reno#ReplaceVentilationSystem` | €3500 + €17               |
+| Install PV Panels (If Applicable)   | `https://w3id.org/reno#PlacePVPanelsOnRoof` | €275                       |
+
+### **Next Steps**
+1. **Prioritize Actions:** Start with insulating the cavity walls and replacing the single-glazed windows, as these have the most significant impact on energy efficiency.
+2. **Consult Professionals:** Engage with contractors to assess the feasibility and cost of each recommendation.
+3. **Check Regulations:** Ensure that all renovations comply with local building codes and regulations.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, taking into account the most optimal sequence of renovations.

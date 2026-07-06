@@ -1,0 +1,36 @@
+Given the characteristics of your home in Ghent, you are in a strong position. You already have a high-performing ventilation system (System D), recent glazing, and photovoltaic (PV) panels. The primary "energy leaks" are the moderate roof insulation and the highly inefficient electric convectors.
+
+Because you are in Flanders, the sequence of these renovations is critical to ensure you can size your heating system correctly and maximize available subsidies.
+
+### Proposed Renovation Path
+
+#### Phase 1: Envelope Optimization (The "Insulate First" Rule)
+Before replacing the heating system, you must minimize the heat demand to avoid over-investing in a larger, more expensive heat pump than necessary.
+*   **Action:** Upgrade the insulation of the **pitched roof** from "moderate" to "high" (e.g., adding a layer of mineral wool or PIR boards).
+*   **Why:** Heat rises. A moderately insulated roof is the most likely source of thermal loss in an otherwise well-insulated house. Improving this first reduces the total kilowatt requirement for your future heating system.
+
+#### Phase 2: Heat Emission Overhaul
+Electric convectors are among the most expensive and least efficient ways to heat a home. They create "cold spots" and cause spikes in electricity bills.
+*   **Action A: Eliminate Electric Convectors.** Remove all electric convectors.
+*   **Action B: Expand Low-Temperature Emission.** Depending on the layout, either extend the **underfloor heating** to the rooms currently served by convectors or install **low-temperature radiators** (oversized radiators designed for lower water temperatures).
+*   **Why:** Heat pumps operate most efficiently at low flow temperatures (approx. 35°C). Replacing convectors with low-temperature systems is a prerequisite for a cost-effective transition to a heat pump.
+
+#### Phase 3: Heat Generation Upgrade
+Now that the house is airtight (System D), well-insulated (Roof), and equipped with low-temperature emitters, you can replace the boiler.
+*   **Action:** Install an **Air-to-Water Heat Pump (ASHP)**.
+*   **Why:** Since geothermal is not feasible and district heating is unavailable, an ASHP is the gold standard. It will integrate perfectly with your existing PV panels, allowing you to use your own solar electricity to heat your home and water, drastically lowering operational costs.
+
+---
+
+### Summary Table: Implementation Sequence
+
+| Sequence | Component | Action | Energy Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Pitched Roof** | Upgrade to High Insulation | $\downarrow$ Heat Loss | High (Prevents oversized HP) |
+| **2** | **Emission** | Replace Convectors $\rightarrow$ UFH/Low-Temp | $\downarrow$ Energy Waste | High (Critical for HP efficiency) |
+| **3** | **Generation** | Boiler $\rightarrow$ Air-to-Water Heat Pump | $\downarrow$ Carbon/Fuel Cost | High (Synergy with PV panels) |
+
+### Expert Tips for the Ghent/Flemish Context:
+1.  **Subsidies:** Check the current **Flemish government premiums** for "Energy Renovations." Often, combining these steps into a single "global project" can unlock higher subsidy tiers than doing them piecemeal.
+2.  **EPC Score:** By removing the electric convectors and the boiler and replacing them with a heat pump powered by PV panels, your EPC score will improve significantly (dropping from 50 to a much lower, more efficient number).
+3.  **System D Synergy:** Ensure your ventilation system is well-maintained. Since you have System D, you are already recovering heat from extracted air; the heat pump will simply provide the "top-up" heat more efficiently.

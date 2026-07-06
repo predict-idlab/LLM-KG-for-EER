@@ -1,0 +1,49 @@
+Based on the provided RENO ontology and the specific building information, here's a practical and cost-effective renovation plan to maximize energy efficiency while remaining cost-effective:
+
+### **Renovation Plan for Attached Building**
+
+#### **1. Insulate Walls**
+- **Action**: Insulate wall on interior
+  - **Reason**: The walls (both front and rear) are currently well insulated, but insulating the interior can further improve energy efficiency.
+  - **Cost**: €150 per m²
+  - **Priority**: High (immediate action to reduce heat loss)
+
+#### **2. Upgrade Roof Insulation**
+- **Action**: Insulate flat roof (extension)
+  - **Reason**: The flat roof extension is currently well insulated, but ensuring optimal insulation can prevent heat loss.
+  - **Cost**: €50 per m²
+  - **Priority**: Medium (follow after wall insulation)
+
+#### **3. Improve Window Efficiency**
+- **Action**: Replace glazing
+  - **Reason**: The windows in the bedrooms and living area have double glazing, but replacing them with triple glazing can significantly improve thermal performance.
+  - **Cost**: €200 per m²
+  - **Priority**: High (critical for reducing heat loss through windows)
+
+#### **4. Upgrade Heating System**
+- **Action**: Place air-water heat pump with cooling
+  - **Reason**: The current electric convector and floor heating system is inefficient. An air-water heat pump with cooling will improve comfort and energy efficiency.
+  - **Cost**: €9,000 (fixed) + €35 per m²
+  - **Priority**: High (essential for long-term energy savings)
+
+#### **5. Install Solar Panels**
+- **Action**: Place PV-panels on roof
+  - **Reason**: The building has potential for PV installation, and solar panels can generate renewable energy, reducing electricity costs.
+  - **Cost**: €275 per m²
+  - **Priority**: Medium (after major insulation and heating upgrades)
+
+#### **6. Ventilation System Upgrade**
+- **Action**: Replace ventilation system
+  - **Reason**: The current ventilation system (D type) may not be optimal. Upgrading to a more efficient system can improve air quality and energy efficiency.
+  - **Cost**: €3,500 (fixed) + €17 per m²
+  - **Priority**: Low (after major upgrades are completed)
+
+### **Implementation Sequence**
+1. **Insulate interior walls** (immediate action to reduce heat loss)
+2. **Insulate flat roof** (follow-up to wall insulation)
+3. **Replace glazing** (critical for reducing heat loss through windows)
+4. **Install air-water heat pump with cooling** (essential for long-term energy savings)
+5. **Place PV-panels on roof** (after major insulation and heating upgrades)
+6. **Upgrade ventilation system** (final step to ensure optimal air quality and energy efficiency)
+
+This plan prioritizes actions that will have the most significant impact on energy efficiency and cost savings. The sequence ensures that each step builds on the previous one, maximizing the benefits of each renovation.

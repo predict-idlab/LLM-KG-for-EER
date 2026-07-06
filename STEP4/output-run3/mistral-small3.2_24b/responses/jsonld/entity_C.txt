@@ -1,0 +1,18 @@
+The building is an attached house constructed in 2023 with an A label EPC score of 50. The owner's primary motivation is to improve the EPC rating. Given the building's construction year, it is already well-insulated. However, there are some key areas for improvement that align with the owner's goal.
+
+### Proposed Renovation Path:
+
+**Phase 1: Heating & Emission System Transition (Priority: High)**
+1. **Replace Emission System:** The current system is a combination of `ElectricConvector` and `FloorHeating`. Transitioning to a low-temperature emission system will improve efficiency and comfort.
+2. **Place Air-Water Heat Pump:** The building has no potential for geothermal energy and no heat grid, so an Air-Water Heat Pump is the most viable and efficient alternative to the existing system.
+
+**Phase 2: Sustainable Energy Generation (Priority: Medium)**
+3. **Place PV-Panels on Roof:** Although the building has confirmed potential for PV, the `hasPotentialForPV` property is set to false. This should be verified and corrected if possible. Installing solar panels will provide renewable electricity to power the heat pump and other appliances.
+
+**Phase 3: Air Quality and Ventilation (Priority: Low)**
+4. **Ventilation System Upgrade:** The building already has a `VentilationSystemD`, which is the most efficient type. However, ensuring that the system is properly maintained and meets the needs of the building's occupants is important.
+
+### Summary of Optimal Sequence:
+**Emission System Replacement** $\rightarrow$ **Air-Water Heat Pump Installation** $\rightarrow$ **PV Panels Installation** $\rightarrow$ **Ventilation System Optimization**.
+
+This plan focuses on improving the existing systems to enhance efficiency and sustainability, rather than modifying the building envelope, which is already well-insulated. The sequence ensures that the building's energy performance is maximized while maintaining cost-effectiveness.

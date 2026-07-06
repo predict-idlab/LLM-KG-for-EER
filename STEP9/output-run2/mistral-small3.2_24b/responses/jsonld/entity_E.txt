@@ -1,0 +1,68 @@
+To create a renovation plan that maximizes energy efficiency while remaining cost-effective, we'll follow these steps:
+
+1. **Assess the Current State of the Building**:
+   - The building has a low EPC score of 165 kWh/m²/year, indicating significant room for improvement.
+   - The building is a detached house with a net floor area of 136 m².
+   - The construction year is 1862, suggesting the building may have poor insulation and outdated systems.
+   - The building has a ventilation system of type A, which is the most basic type.
+   - The emission system consists of electric convectors, radiators, and floor heating, which are not the most energy-efficient options.
+   - The walls are cavity walls that are not insulated.
+   - The roof is a gable roof that is well insulated.
+   - The windows have single glazing, which is inefficient.
+
+2. **Identify Key Areas for Improvement**:
+   - **Insulation**: The walls are not insulated, which is a major source of heat loss.
+   - **Windows**: The windows have single glazing, which is inefficient and can be improved to double or triple glazing.
+   - **Emission System**: The current emission system consists of electric convectors, radiators, and floor heating, which are not the most energy-efficient options. Replacing them with a heat pump or connecting to a heat grid could be beneficial.
+   - **Ventilation System**: The current ventilation system is of type A, which is the most basic type. Upgrading to a more efficient ventilation system could improve air quality and energy efficiency.
+
+3. **Prioritize Renovations Based on Cost-Effectiveness and Impact**:
+   - **Insulate Walls**: Insulating the walls can significantly reduce heat loss and improve the building's energy efficiency. The cost is €200 per m² for exterior insulation, but since the building is a historic one, it's important to check if this is allowed.
+   - **Replace Windows**: Replacing the windows with double or triple glazing can improve insulation and reduce heat loss. The cost is €800 per m².
+   - **Upgrade Ventilation System**: Upgrading to a more efficient ventilation system can improve air quality and energy efficiency. The cost is €3500 plus €17 per m².
+   - **Replace Emission System**: Replacing the emission system with a heat pump or connecting to a heat grid can significantly improve energy efficiency. The cost varies depending on the system chosen.
+
+4. **Consider Financial and Environmental Motivations**:
+   - The owner's primary motivation is to improve the EPC value of the dwelling. This suggests that they are looking for a significant improvement in energy efficiency.
+   - Financial considerations are also a motivation, so it's important to prioritize cost-effective renovations.
+
+5. **Create a Step-by-Step Renovation Plan**:
+   - **Step 1: Insulate Walls** - Insulate the walls to reduce heat loss. This is a cost-effective way to improve energy efficiency.
+   - **Step 2: Replace Windows** - Replace the windows with double or triple glazing to improve insulation and reduce heat loss.
+   - **Step 3: Upgrade Ventilation System** - Upgrade to a more efficient ventilation system to improve air quality and energy efficiency.
+   - **Step 4: Replace Emission System** - Replace the emission system with a heat pump or connect to a heat grid to significantly improve energy efficiency.
+
+### Final Renovation Plan:
+1. **Insulate Walls**:
+   - **Action**: Insulate the walls to reduce heat loss.
+   - **Suggestion**: Use "Insulate Wall Exterior" for cavity walls.
+   - **Estimated Cost**: €200 per m².
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders).
+   - **Multi-Phase**: No.
+
+2. **Replace Windows**:
+   - **Action**: Replace the windows with double or triple glazing to improve insulation and reduce heat loss.
+   - **Suggestion**: Use "Replace Windows".
+   - **Estimated Cost**: €800 per m².
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Not necessary if the measurements are kept (Flanders).
+   - **Multi-Phase**: No.
+
+3. **Upgrade Ventilation System**:
+   - **Action**: Upgrade to a more efficient ventilation system to improve air quality and energy efficiency.
+   - **Suggestion**: Use "Replace Ventilation System" and choose a more efficient type (e.g., Ventilation System C or D).
+   - **Estimated Cost**: €3500 plus €17 per m².
+   - **Nuisance Level**: Moderate.
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+   - **Multi-Phase**: Maybe, depending on the system.
+
+4. **Replace Emission System**:
+   - **Action**: Replace the emission system with a heat pump or connect to a heat grid to significantly improve energy efficiency.
+   - **Suggestion**: Use "Connect to Heatgrid" or "Place Air-Water Heatpump" or "Place Geothermal Heatpump Horizontal".
+   - **Estimated Cost**: Varies depending on the system chosen.
+   - **Nuisance Level**: Varies depending on the system chosen.
+   - **Permit Needed**: Varies depending on the system chosen.
+   - **Multi-Phase**: Maybe, depending on the system.
+
+This plan prioritizes cost-effective renovations that will have the most significant impact on improving the building's energy efficiency. The steps are ordered to maximize the benefits of each renovation, ensuring that the building is properly insulated and equipped with efficient systems.

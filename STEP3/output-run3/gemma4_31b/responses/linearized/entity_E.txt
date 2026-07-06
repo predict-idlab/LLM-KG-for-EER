@@ -1,0 +1,33 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century detached building, the renovation should follow the "fabric first" principle: first reducing heat loss through the building envelope, and then upgrading the heating and energy generation systems.
+
+### **Phase 1: Thermal Envelope Optimization (High Impact, Low-to-Medium Cost)**
+The building currently has significant heat loss through its walls, floor, and windows. Since the roof is already well-insulated, we focus on the remaining surfaces.
+
+1.  **Insulate Wall Cavities (`insulate wall cavity`):** All four walls are cavity walls and currently not insulated. Injecting insulation into these cavities is the most cost-effective way to reduce wall heat loss without altering the building's exterior.
+2.  **Insulate Floor (`insulate floor above basement`):** The floor above the crawl space is currently uninsulated. Addressing this prevents cold air from entering the living areas from below.
+3.  **Upgrade Glazing (`replace glazing`):** The bedrooms and living area both use single glazing, which is highly inefficient. Because the wooden window frames are in a **"Good State" (Value: 8)**, it is more cost-effective to replace only the glass (upgrading to double or triple glazing) rather than replacing the entire window units.
+
+### **Phase 2: HVAC and Ventilation Upgrades (System Efficiency)**
+Once the heat demand is lowered via insulation, the heating system can be downsized and modernized.
+
+4.  **Low-Temperature Emission (`place emission system on low temperature`):** To prepare for a modern heat pump, the current emission system (which includes electric convectors and radiators) should be transitioned to low-temperature emitters.
+5.  **Install Heat Pump (`place air-water heatpump`):** With geothermal options unavailable (Site potential: false) and no heat grid presence, an air-water heat pump is the most efficient alternative to replace the current boiler and electric heating.
+6.  **Modernize Ventilation (`replace ventilation system`):** Upgrading from Ventilation System A (natural) to a more controlled system will prevent moisture buildup in the now tightly insulated home and further improve the EPC score.
+
+### **Phase 3: Renewable Energy Integration (Operational Cost Reduction)**
+The final step is to offset the electricity consumption of the new heat pump.
+
+7.  **Install Solar Energy (`place PV-panels on roof`):** The building has confirmed potential for PV. Installing panels on the roof will provide clean energy to power the heat pump and other household needs, maximizing the long-term operational performance.
+
+---
+
+### **Summary of the Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Fastest and cheapest way to stop major heat loss. |
+| **2** | **Insulate Floor** | Eliminates drafts and cold floors from the crawl space. |
+| **3** | **Replace Glazing** | High EPC impact; preserves existing good-quality frames. |
+| **4** | **Low-Temp Emission** | Essential prerequisite for heat pump efficiency. |
+| **5** | **Air-Water Heat Pump** | Shifts generation from fossil/electric to high-efficiency. |
+| **6** | **Replace Ventilation** | Maintains air quality in a high-efficiency envelope. |
+| **7** | **PV-Panels on Roof** | Offsets the operational cost of the new electrical systems. |

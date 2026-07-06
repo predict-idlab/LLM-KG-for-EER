@@ -1,0 +1,85 @@
+Based on the provided RENO ontology and the specific building information, here's a cost-effective and energy-efficient renovation plan that maximizes benefits while following a logical sequence:
+
+### Phase 1: Roof and Exterior Work
+1. **Replace Flat Roof (Extension)**
+   - Action: Replace the moderately insulated flat roof with a better-insulated option
+   - Reason: Current insulation is only moderate (reno:ModeratelyInsulated)
+   - Ordering: 10
+   - Note: Ensure proper vapour barrier installation
+
+2. **Replace Gable Roof (Main)**
+   - Action: Replace the uninsulated gable roof
+   - Reason: Currently not insulated (reno:NotInsulated)
+   - Ordering: 13
+   - Note: Consider adding roof windows if using attic space
+
+3. **Place Roof Underlayment**
+   - Action: Install roof underlayment on gable roof
+   - Reason: Critical for weatherproofing before other work
+   - Ordering: 16
+
+### Phase 2: Asbestos Removal
+4. **Remove Asbestos (if present)**
+   - Action: Remove any asbestos-containing materials
+   - Reason: Safety requirement before insulation work
+   - Note: Check for asbestos in roof structures before replacement
+
+### Phase 3: Insulation Work
+5. **Insulate Gable Roof**
+   - Action: Install insulation in gable roof structure
+   - Reason: Currently uninsulated
+   - Ordering: 28
+
+6. **Insulate Flat Roof**
+   - Action: Add insulation to flat roof
+   - Reason: Current insulation is only moderate
+   - Ordering: 25
+
+7. **Insulate Attic Floor**
+   - Action: Install insulation on attic floor
+   - Reason: Typically a high-impact, cost-effective measure
+   - Ordering: 31
+
+8. **Insulate Walls**
+   - Consider insulation options based on:
+     - Wall cavity insulation (lowest cost, ordering 34)
+     - Interior wall insulation (ordering 37)
+     - Exterior wall insulation (highest impact but more disruptive, ordering 40)
+   - Recommend starting with cavity insulation if possible
+
+### Phase 4: Window Upgrades
+9. **Replace Glazing**
+   - Action: Upgrade to higher-performance glazing
+   - Reason: Current double glazing may be outdated
+   - Ordering: 43
+
+10. **Replace Windows (if needed)**
+    - Action: Consider full window replacement
+    - Reason: Wooden frames may need upgrading
+    - Ordering: 46
+
+### Phase 5: Systems Upgrades
+11. **Replace Ventilation System**
+    - Action: Upgrade from natural ventilation (System A) to a more efficient system
+    - Reason: Current system is basic
+    - Ordering: 52
+
+12. **Consider Heat Pump Options**
+    - Action: Evaluate air-water heat pump or vertical geothermal heat pump
+    - Reason: Current emission system may need replacement
+    - Note: Requires multi-phase electricity connection
+
+### Phase 6: Renewable Energy
+13. **Place PV Panels**
+    - Action: Install solar panels on roof
+    - Reason: Building has potential for PV (reno:hasPotentialForPV true)
+    - Ordering: 85
+    - Note: Check roof orientation and shading
+
+### Additional Considerations:
+- The building is semi-detached with no heat grid available
+- The current EPC score is 388 (F label), with a goal to improve this
+- The owner's primary motivation is EPC improvement
+- All walls are currently uninsulated full brick walls with no historical protection
+
+This plan follows the logical sequence suggested by the "ordering" property in the ontology, starting with structural work and moving to systems and renewable energy. The sequence maximizes the benefits of each renovation step while minimizing disruptions.

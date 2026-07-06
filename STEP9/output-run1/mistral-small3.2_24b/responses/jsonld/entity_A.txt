@@ -1,0 +1,111 @@
+Based on the provided information, I will create a renovation plan that focuses on improving the energy efficiency of the building. The plan will be based on the RENO ontology and the provided suggestion list.
+
+### Building Information:
+- **Building Type**: Semi-detached house
+- **Construction Year**: 1951
+- **Net Floor Area**: 149 m²
+- **Energy Performance Certificate (EPC) Score**: 388 kWh/m²year (D label)
+- **Emission System**: Air heating, floor heating, radiators
+- **Roofs**:
+  - **Main Roof**: Gable roof, not insulated, good state
+  - **Extension Roof**: Flat roof, moderately insulated, good state
+- **Walls**:
+  - **Front Wall**: Full brick wall, not insulated, no historical protection
+  - **Rear Wall**: Full brick wall, not insulated, no historical protection
+  - **Right Wall**: Full brick wall, not insulated, no historical protection
+- **Windows**:
+  - **Living Area**: Double glazing, wooden frame, good state
+  - **Bedrooms**: Double glazing, wooden frame, good state
+- **Floor Above Basement**: Not insulated, no protection
+- **Ventilation System**: Type A (natural air supply and air exhaust)
+- **Generation System**: Boiler
+- **Potential for PV**: Yes
+- **Potential for Horizontal Geothermal Captation**: No
+- **Potential for Vertical Geothermal Drilling**: No
+- **Presence of Heat Grid**: No
+- **Owner's Motivation**: To improve EPC
+
+### Renovation Priorities:
+1. **Insulate the Roofs**:
+   - **Main Roof (Gable Roof)**: The main roof is currently not insulated. Insulating the gable roof can significantly improve the building's energy efficiency.
+     - **Suggestion**: Insulate gable roof (Ordering: 28)
+     - **Nuisance Level**: Low
+     - **Price**: €60/m²
+   - **Extension Roof (Flat Roof)**: The extension roof is already moderately insulated, but improving its insulation could further enhance energy efficiency.
+     - **Suggestion**: Insulate flat roof (Ordering: 10)
+     - **Nuisance Level**: High
+     - **Price**: €50/m²
+
+2. **Insulate the Walls**:
+   - **Front, Rear, and Right Walls**: All walls are full brick walls and currently not insulated. Insulating these walls can significantly reduce heat loss.
+     - **Suggestion**: Insulate wall on exterior (Ordering: 40)
+     - **Nuisance Level**: High
+     - **Price**: €200/m²
+     - **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders)
+
+3. **Insulate the Floor Above Basement**:
+   - **Floor Above Basement**: The floor above the basement is not insulated. Insulating this floor can help maintain a comfortable indoor temperature.
+     - **Suggestion**: Insulate floor above basement (Ordering: 49)
+     - **Nuisance Level**: Low
+     - **Price**: €30/m²
+
+4. **Replace the Windows**:
+   - **Living Area and Bedrooms Windows**: Although the windows are in good condition, replacing them with more energy-efficient models could further improve insulation.
+     - **Suggestion**: Replace windows (Ordering: 46)
+     - **Nuisance Level**: High
+     - **Price**: €800/m²
+
+5. **Improve the Ventilation System**:
+   - **Current Ventilation System**: Type A (natural air supply and air exhaust). Upgrading to a more efficient system could improve air quality and energy efficiency.
+     - **Suggestion**: Replace ventilation system (Ordering: 52)
+     - **Nuisance Level**: Moderate
+     - **Price**: €3500 + €17/m²
+
+6. **Install Renewable Energy Solutions**:
+   - **Potential for PV**: The building has potential for photovoltaic (PV) panels.
+     - **Suggestion**: Place PV-panels on roof (Ordering: 85)
+     - **Nuisance Level**: Low
+     - **Price**: €275/m²
+     - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+
+7. **Consider Other Energy-Efficient Upgrades**:
+   - **Emission System**: The current emission system (air heating, floor heating, radiators) could be upgraded to a more energy-efficient system.
+     - **Suggestion**: Place air-water heatpump (Ordering: 67)
+     - **Nuisance Level**: Moderate
+     - **Price**: €8000 + €35/m²
+     - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+
+### Recommended Renovation Plan:
+1. **Insulate the Gable Roof**:
+   - **Action**: Insulate the main gable roof.
+   - **Estimated Cost**: €60/m² * 149 m² = €8,940 (approximate)
+   - **Nuisance Level**: Low
+
+2. **Insulate the Exterior Walls**:
+   - **Action**: Insulate the front, rear, and right walls on the exterior.
+   - **Estimated Cost**: €200/m² * 149 m² = €29,800 (approximate)
+   - **Nuisance Level**: High
+   - **Note**: Check local regulations regarding permit requirements.
+
+3. **Insulate the Floor Above Basement**:
+   - **Action**: Insulate the floor above the basement.
+   - **Estimated Cost**: €30/m² * 149 m² = €4,470 (approximate)
+   - **Nuisance Level**: Low
+
+4. **Replace the Ventilation System**:
+   - **Action**: Upgrade the ventilation system from Type A to a more efficient system (e.g., Type D).
+   - **Estimated Cost**: €3500 + €17/m² * 149 m² = €5,633 (approximate)
+   - **Nuisance Level**: Moderate
+
+5. **Install PV-Panels**:
+   - **Action**: Place photovoltaic (PV) panels on the roof.
+   - **Estimated Cost**: €275/m² * 149 m² = €40,725 (approximate)
+   - **Nuisance Level**: Low
+   - **Note**: Check local regulations regarding permit requirements.
+
+### Additional Considerations:
+- **Financial Considerations**: The owner's motivation is to improve the EPC. The suggested renovations should be prioritized based on their cost-effectiveness and impact on the EPC score.
+- **Local Regulations**: Ensure compliance with local building codes and regulations, especially regarding permits for wall insulation and PV panel installation.
+- **Professional Consultation**: Consult with energy experts and contractors to ensure the proposed renovations are feasible and align with the building's specific needs.
+
+This renovation plan focuses on improving the building's energy efficiency, which should result in a better EPC score and reduced energy consumption. The plan prioritizes actions based on their potential impact and cost-effectiveness.

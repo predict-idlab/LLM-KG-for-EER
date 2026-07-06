@@ -1,0 +1,63 @@
+### Energy-Efficient and Cost-Effective Renovation Plan
+
+#### **1. Assess Current Energy Performance**
+- **Current EPC Score**: 50.0 (F label)
+- **Goal**: Improve to at least an E label (400-500 kWh/m²year) or better.
+- **Key Areas to Address**:
+  - Roof insulation (both flat and gable)
+  - Wall insulation (front and rear)
+  - Window glazing and frames
+  - Ventilation system
+  - Heating system
+
+#### **2. Prioritized Renovation Actions**
+1. **Replace Gable Roof (High Priority)**
+   - **Action**: Replace the gable roof with a well-insulated option.
+   - **Justification**: The current gable roof is moderately insulated, and replacing it will significantly improve thermal performance.
+   - **Cost**: €260/m²
+   - **Nuisance Level**: High
+
+2. **Insulate Flat Roof (High Priority)**
+   - **Action**: Insulate the flat roof to improve thermal efficiency.
+   - **Justification**: The flat roof is well-insulated, but additional insulation will further reduce heat loss.
+   - **Cost**: €50/m²
+   - **Nuisance Level**: High
+
+3. **Replace Glazing (Medium Priority)**
+   - **Action**: Replace the existing double glazing with triple glazing to enhance insulation.
+   - **Justification**: The current double glazing is adequate but can be improved for better energy efficiency.
+   - **Cost**: €200/m²
+   - **Nuisance Level**: High
+
+4. **Insulate Walls (Medium Priority)**
+   - **Action**: Insulate the front and rear walls on the exterior.
+   - **Justification**: The walls are well-insulated, but exterior insulation will provide additional thermal benefits.
+   - **Cost**: €200/m²
+   - **Nuisance Level**: High
+
+5. **Replace Ventilation System (Medium Priority)**
+   - **Action**: Upgrade the ventilation system to a more energy-efficient model.
+   - **Justification**: The current system is type D, which can be improved for better air quality and energy efficiency.
+   - **Cost**: €3500 (fixed) + €17/m²
+   - **Nuisance Level**: Moderate
+
+6. **Place PV Panels on Roof (Low Priority)**
+   - **Action**: Install PV panels on the roof to generate renewable energy.
+   - **Justification**: The building has potential for PV panels, and this will reduce reliance on grid electricity.
+   - **Cost**: €275/m²
+   - **Nuisance Level**: Low
+
+#### **3. Sequential Execution Plan**
+1. **Replace Gable Roof**
+2. **Insulate Flat Roof**
+3. **Replace Glazing**
+4. **Insulate Walls**
+5. **Replace Ventilation System**
+6. **Install PV Panels**
+
+#### **4. Additional Recommendations**
+- **Monitor Energy Consumption**: Regularly monitor energy usage to identify areas for further improvement.
+- **Maintain Insulation**: Ensure that all insulation materials are properly installed and maintained to maximize their effectiveness.
+- **Consider Heat Pumps**: Evaluate the feasibility of installing a heat pump for more efficient heating.
+
+This plan prioritizes actions that will have the most significant impact on energy efficiency while considering cost-effectiveness and nuisance levels. The sequential execution ensures that each step builds on the previous improvements for maximum benefit.

@@ -1,0 +1,53 @@
+### Renovation Plan for the Building
+
+**Objective:**
+Improve the energy performance of the building to achieve a better EPC score, likely targeting the B label range (100-200 kWh/m²year).
+
+**Key Insights from the Building Information:**
+- The building is a semi-detached structure with well-insulated walls (full brick walls) and roof (flat and gable).
+- The windows are currently double-glazed but may not be energy-efficient enough.
+- The ventilation system is a type D (mechanical supply and exhaust).
+- The emission system is not specified, but the owner has no reason to change it.
+- The potential for PV panels is false, likely due to shading or orientation issues.
+- The construction year is 2017, so the building is relatively new but may still benefit from energy efficiency upgrades.
+
+**Actionable Renovation Steps:**
+
+1. **Replace Glazing (Ordering: 43)**
+   - **Action:** Replace the existing double-glazing with triple-glazing or high-performance double-glazing.
+   - **Reason:** Even though the windows are relatively new, upgrading the glazing can significantly improve thermal performance and reduce heat loss.
+   - **Estimated Cost:** €800 per m² (surface area not provided, but assume ~50 m² for windows → ~€4000 total).
+
+2. **Insulate Floor Above Basement (Ordering: 49)**
+   - **Action:** Insulate the floor above the basement if it is not already well-insulated.
+   - **Reason:** Ensures thermal comfort and reduces heat loss through the floor.
+   - **Estimated Cost:** €30 per m² (assume ~50 m² → ~€1500 total).
+
+3. **Replace Ventilation System (Ordering: 52)**
+   - **Action:** Consider upgrading to a more efficient ventilation system (e.g., heat recovery system) if the current system (type D) is not performing optimally.
+   - **Reason:** Improves air quality and can reduce energy consumption if heat recovery is included.
+   - **Estimated Cost:** €3500 fixed + €17 per m² (assume ~50 m² → ~€4150 total).
+
+4. **Place Air-Air Heat Pump (Ordering: 58)**
+   - **Action:** Install an air-air heat pump for space heating and cooling.
+   - **Reason:** Provides efficient heating and cooling, reducing reliance on less efficient systems.
+   - **Estimated Cost:** €2000 fixed + €35 per m² (assume ~50 m² → ~€3750 total).
+
+5. **Place Sunshade (Ordering: 79)**
+   - **Action:** Install external sunshades or blinds to reduce solar heat gain in summer.
+   - **Reason:** Reduces cooling demand and improves comfort.
+   - **Estimated Cost:** €750 fixed.
+
+6. **Place Air-Water Heat Pump (Ordering: 67)**
+   - **Action:** Consider installing an air-water heat pump for domestic hot water heating.
+   - **Reason:** Efficient water heating can significantly reduce energy consumption.
+   - **Estimated Cost:** €8000 fixed + €35 per m² (assume ~50 m² → ~€9750 total).
+
+**Total Estimated Cost:** ~€23,150 (excluding potential additional costs for materials or labor).
+
+**Expected Benefits:**
+- Improved thermal comfort and reduced energy consumption.
+- Potential reduction in EPC score to the B label range or better.
+- Long-term savings on energy bills.
+
+**Note:** The actual feasibility and cost-effectiveness of these measures should be validated with a detailed energy audit and cost-benefit analysis. Additionally, local regulations, incentives, and the owner's preferences should be considered.

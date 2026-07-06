@@ -1,0 +1,85 @@
+Based on the provided RENO ontology and entity information, I'll create a cost-effective and energy-efficient renovation plan for the building. The plan will focus on practical upgrades that reduce energy consumption and improve long-term operational performance, while considering the optimal sequence of renovations.
+
+### Key Observations:
+1. The building has an F energy label (score 262 kWh/m²year)
+2. The building is attached and constructed in 1832
+3. The building has uninsulated walls, attic floor, and flat roof
+4. The ventilation system is basic (type A)
+5. There's potential for PV panels but no heat grid
+6. The owner wants to improve the EPC label
+
+### Renovation Plan:
+
+**Phase 1: Roof Improvements**
+1. **Replace Flat Roof (RoofExtension)** - The flat roof is uninsulated and needs replacement
+   - Replace with insulated roof structure
+   - Cost: €120/m²
+   - Order: 10
+
+2. **Insulate Gable Roof (RoofMain)** - Currently moderately insulated
+   - Improve insulation to reduce heat loss
+   - Cost: €60/m²
+   - Order: 28
+
+**Phase 2: Wall Insulation**
+3. **Insulate Wall Cavity (Wall_Front, Wall_Rear)** - Both walls are uninsulated
+   - Inject insulation into cavity walls
+   - Cost: €22/m²
+   - Order: 34
+
+**Phase 3: Window Improvements**
+4. **Replace Glazing (WindowsBedrooms, WindowsLivingArea)** - Current double glazing may be outdated
+   - Replace with high-performance double or triple glazing
+   - Cost: €200/m²
+   - Order: 43
+
+5. **Replace Windows (if frames are in poor condition)** - Check frame condition first
+   - Replace with energy-efficient windows
+   - Cost: €800/m²
+   - Order: 46
+
+**Phase 4: Floor Insulation**
+6. **Insulate Floor Above Basement (FloorAboveBasement)** - Currently uninsulated
+   - Add insulation to reduce heat loss through the floor
+   - Cost: €30/m²
+   - Order: 49
+
+**Phase 5: Heating System Upgrade**
+7. **Place Air-Water Heat Pump (Generation_System)** - Replace old boiler with heat pump
+   - Fixed cost: €8,000 + €35/m²
+   - Order: 67
+
+8. **Place Emission System on Low Temperature (EmissionSystem)** - Upgrade radiators
+   - Cost: €100/m²
+   - Order: 70
+
+**Phase 6: Renewable Energy**
+9. **Place PV Panels on Roof (RoofMain, RoofExtension)** - Utilize roof space
+   - Cost: €275/m²
+   - Order: 85
+
+**Phase 7: Additional Improvements**
+10. **Replace Ventilation System (VentilationSystem)** - Upgrade to more efficient system
+    - Cost: €3,500 + €17/m²
+    - Order: 52
+
+11. **Place Sun Shade (WindowsBedrooms, WindowsLivingArea)** - Reduce summer heat gain
+    - Fixed cost: €750
+    - Order: 79
+
+### Implementation Notes:
+1. Prioritize roof and wall insulation as these typically offer the best return on investment for energy efficiency
+2. The sequence follows the ordering values from the ontology where available
+3. Consider the building's historical protection status (none in this case) before making changes
+4. Check for asbestos before removing or replacing any roofing materials
+5. The heat pump installation should be carefully planned to work with the low-temperature emission system
+
+### Estimated Impact:
+This comprehensive renovation plan should significantly improve the building's energy efficiency, potentially moving it from an F label to at least a C or B label, depending on the specific implementations and the quality of materials used.
+
+### Next Steps:
+1. Conduct a detailed energy audit to confirm the most cost-effective measures
+2. Obtain professional assessments for structural integrity and asbestos presence
+3. Get quotes from local contractors for each renovation item
+4. Develop a timeline that minimizes disruption to occupants
+5. Check for available subsidies or incentives for energy-efficient renovations

@@ -1,0 +1,63 @@
+Based on the provided RENO ontology and building information, here's a cost-effective and energy-efficient renovation plan for the semi-detached building (ex:Building) constructed in 1951 with an EPC score of 388.0 (F label):
+
+1. **Insulation Improvements (High Priority)**
+   - *Insulate Gable Roof* (ex:RoofMain):
+     - Ordering: 28
+     - Cost: €60/m²
+     - Action: Install vapour barrier on warm side and ensure air/watertight roof underlayment
+   - *Insulate Wall Cavity* (ex:Wall_Front, ex:Wall_Rear, ex:Wall_Right):
+     - Ordering: 34
+     - Cost: €22/m²
+     - Action: Conduct inspection to verify cavity suitability before injecting insulation
+   - *Insulate Floor Above Basement* (ex:FloorAboveBasement):
+     - Ordering: 49
+     - Cost: €30/m²
+
+2. **Roof Improvements**
+   - *Place Roof Underlayment* (ex:RoofMain, ex:RoofExtension):
+     - Ordering: 16
+     - Cost: €65/m²
+     - Action: Ensure complete air- and watertight installation
+
+3. **Window Upgrades**
+   - *Replace Glazing* (ex:WindowsBedrooms, ex:WindowsLivingArea):
+     - Ordering: 43
+     - Cost: €200/m²
+     - Action: Verify frame condition and thickness before installing new glazing
+
+4. **Heating System Upgrade**
+   - *Place Heat Pump Boiler* (replacing ex:Generation_System):
+     - Ordering: 76
+     - Cost: €4,000 (fixed)
+     - Action: Consider air-water heat pump with low-temperature emission system
+
+5. **Ventilation System**
+   - *Replace Ventilation System* (ex:VentilationSystem):
+     - Ordering: 52
+     - Cost: €3,500 + €17/m²
+     - Action: Consider system C with window grilles or system D with ductwork
+
+6. **Solar Energy**
+   - *Place PV-panels on Roof* (ex:RoofMain):
+     - Ordering: 85
+     - Cost: €275/m²
+     - Action: Check roof orientation and potential shading from surrounding elements
+
+**Implementation Sequence:**
+1. Start with roof underlayment and insulation
+2. Proceed to wall cavity insulation
+3. Replace glazing and consider full window replacement if frames are inadequate
+4. Upgrade heating system to heat pump boiler
+5. Install PV panels and consider sunshade solutions
+
+**Cost Considerations:**
+- Prioritize actions with higher energy savings potential and lower nuisance levels
+- Insulation measures generally provide the best cost-benefit ratio
+- Solar panel installation depends on roof orientation and available space
+
+**Additional Recommendations:**
+- Since the building has potential for PV (reno:hasPotentialForPV true) but no heat grid (reno:presenceOfHeatGrid false), focus on on-site renewable energy solutions
+- Consider the owner's motivation (reno:ToImproveEPC) and prioritize measures that will most significantly improve the EPC score
+- The good state of windows and roof elements (ex:GoodState with value 8) means structural integrity is maintained, but energy efficiency can be improved
+
+This plan focuses on the most impactful, cost-effective measures first while considering the building's specific characteristics and the owner's motivation to improve the EPC.

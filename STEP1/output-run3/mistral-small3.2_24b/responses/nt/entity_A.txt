@@ -1,0 +1,83 @@
+### Renovation Plan for the Semi-Detached Building
+
+#### Initial Assessment:
+The building is a semi-detached house with a net floor area of 149 m². The house has a flat roof (RoofExtension) and a gable roof (RoofMain). The building elements are in relatively good condition (StateValue = 8). The current energy performance certificate (EPC) score is 388 kWh/m²year, which corresponds to an F label.
+
+#### Key Observations:
+1. **Insulation**:
+   - The walls (Front, Rear, Right) are not insulated (InsulationGrade = NotInsulated).
+   - The flat roof (RoofExtension) is moderately insulated.
+   - The gable roof (RoofMain) is not insulated.
+   - The floor above the basement is not insulated.
+
+2. **Windows**:
+   - The windows in the bedrooms and the living area have wooden frames with double glazing (WindowGlazingType = DoubleGlazing).
+
+3. **Ventilation and Heating Systems**:
+   - The building has a ventilation system of type A.
+   - The heating system is an air heating system (Radiator).
+
+4. **Potential for PV Panels**:
+   - The building has potential for installing PV panels.
+
+5. **Historical and Protective Status**:
+   - None of the building elements are historically protected.
+
+#### Renovation Recommendations:
+
+**1. Insulate Walls (Priority: High)**
+   - **Action**: Insulate the external walls (Front, Rear, Right) using exterior insulation.
+   - **Rationale**: The walls are currently not insulated, which significantly contributes to heat loss. Exterior insulation is recommended for better thermal performance and to avoid reducing interior space.
+   - **Expected Outcome**: Improved thermal comfort and reduced energy consumption.
+   - **Ordering**: 10 (as per the ontology's ordering for exterior wall insulation).
+
+**2. Insulate the Gable Roof (Priority: High)**
+   - **Action**: Insulate the gable roof (RoofMain) with appropriate insulation material.
+   - **Rationale**: The gable roof is currently not insulated, leading to heat loss through the roof.
+   - **Expected Outcome**: Enhanced thermal performance and reduced heating costs.
+   - **Ordering**: 28 (as per the ontology's ordering for gable roof insulation).
+
+**3. Insulate the Flat Roof (Priority: Medium)**
+   - **Action**: Insulate the flat roof (RoofExtension) with additional insulation material.
+   - **Rationale**: The flat roof is already moderately insulated, but further insulation can improve thermal performance.
+   - **Expected Outcome**: Better thermal comfort and energy efficiency.
+   - **Ordering**: 25 (as per the ontology's ordering for flat roof insulation).
+
+**4. Insulate the Floor Above Basement (Priority: Medium)**
+   - **Action**: Insulate the floor above the basement.
+   - **Rationale**: The floor above the basement is currently not insulated, leading to heat loss.
+   - **Expected Outcome**: Improved thermal comfort and reduced energy consumption.
+   - **Ordering**: 49 (as per the ontology's ordering for floor above basement insulation).
+
+**5. Replace Windows (Priority: Low)**
+   - **Action**: Replace the windows with more energy-efficient models, if the current ones are in poor condition.
+   - **Rationale**: While the windows already have double glazing, replacing them with triple glazing or more efficient models could further improve energy performance.
+   - **Expected Outcome**: Enhanced thermal performance and reduced energy consumption.
+   - **Ordering**: 46 (as per the ontology's ordering for window replacement).
+
+**6. Install PV Panels (Priority: Low)**
+   - **Action**: Install photovoltaic (PV) panels on the roof.
+   - **Rationale**: The building has potential for PV panel installation, which can generate renewable energy and reduce electricity costs.
+   - **Expected Outcome**: Lower electricity bills and reduced carbon footprint.
+   - **Ordering**: 88 (as per the ontology's ordering for PV panel installation).
+
+#### Implementation Sequence:
+1. **Insulate Walls (Exterior Insulation)**
+2. **Insulate Gable Roof**
+3. **Insulate Flat Roof**
+4. **Insulate Floor Above Basement**
+5. **Replace Windows (If Needed)**
+6. **Install PV Panels**
+
+#### Expected Benefits:
+- **Energy Efficiency**: Significant reduction in energy consumption and improved EPC label.
+- **Thermal Comfort**: Better indoor temperature regulation and reduced drafts.
+- **Cost Savings**: Lower heating and electricity bills.
+- **Environmental Impact**: Reduced carbon footprint through the use of renewable energy sources.
+
+#### Considerations:
+- **Permits and Regulations**: Ensure compliance with local building codes and regulations, especially for structural changes like roof and wall insulation.
+- **Professional Assistance**: Consider hiring professionals for insulation work to ensure proper execution.
+- **Budget and Timeline**: Plan the renovation phases according to the budget and desired timeline, prioritizing high-impact actions first.
+
+This plan is designed to maximize energy efficiency while ensuring cost-effectiveness and practicality. The sequence of actions is based on the ontology's recommendations and tailored to the specific characteristics of the building.

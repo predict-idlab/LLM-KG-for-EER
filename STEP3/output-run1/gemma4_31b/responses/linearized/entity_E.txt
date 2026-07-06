@@ -1,0 +1,46 @@
+### Analysis of Building State
+The building is a detached house from 1862 with a net floor area of 136 m². While the roof is already well-insulated and the window frames are in good condition, there are significant energy leaks in the building envelope and inefficiencies in the heating system.
+
+**Key Weaknesses:**
+*   **Walls:** All exterior walls are cavity walls and are currently **not insulated**.
+*   **Windows:** The building uses **single glazing**, which is highly inefficient.
+*   **Floor:** The floor above the crawl space is not mentioned as insulated.
+*   **Heating:** The current system is a mix of electric convectors, radiators, and floor heating powered by a boiler; the building has a documented reason to change this system.
+*   **Ventilation:** Currently uses Ventilation System A (natural), which may be insufficient if the building becomes more airtight after insulation.
+
+**Constraints:**
+*   **Geothermal:** Not possible (no potential for horizontal or vertical drilling).
+*   **Heat Grid:** Not available.
+*   **PV Potential:** High (potential for PV is true).
+
+---
+
+### Proposed Renovation Path
+To maximize energy efficiency and cost-effectiveness, we follow the **"Fabric First"** approach: improving the building shell before upgrading the technical installations.
+
+#### Phase 1: The Building Envelope (Reducing Demand)
+*   **1. Insulate Wall Cavities:** Since the walls are cavity walls and not insulated, injecting insulation into the cavities is the most cost-effective way to reduce heat loss with minimal nuisance.
+*   **2. Replace Glazing:** Because the wooden window frames are in a "Good State," replacing the entire window is unnecessary. Replacing only the **single glazing** with high-efficiency double or triple glazing will drastically improve thermal performance at a lower cost.
+*   **3. Insulate Floor Above Basement/Crawl Space:** To prevent cold drafts and heat loss from the ground, the floor above the crawl space should be insulated.
+
+#### Phase 2: Ventilation & Air Quality
+*   **4. Replace Ventilation System:** As the building becomes more airtight due to new glazing and wall insulation, upgrading from System A to a more controlled system (e.g., System C or D) is necessary to maintain air quality and prevent condensation.
+
+#### Phase 3: Energy Generation & Emission (Sustainable Heating)
+*   **5. Place Air-Water Heat Pump:** Since geothermal and heat grids are unavailable, an Air-Water Heat Pump is the most efficient replacement for the boiler. It is compatible with the existing floor heating and radiators.
+*   **6. Place PV-Panels on Roof:** To offset the electricity consumption of the new heat pump and lower operational costs, solar panels should be installed, leveraging the building's high PV potential.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Action | Logic |
+| :--- | :--- | :--- |
+| **Step 1** | **Insulate Wall Cavities** | Lowest cost/nuisance; highest immediate impact on heat retention. |
+| **Step 2** | **Replace Glazing** | Eliminates major thermal bridges without the cost of new frames. |
+| **Step 3** | **Insulate Floor** | Completes the thermal envelope. |
+| **Step 4** | **Upgrade Ventilation** | Ensures healthy indoor air after the shell is sealed. |
+| **Step 5** | **Air-Water Heat Pump** | Sized correctly for the *newly reduced* energy demand of the house. |
+| **Step 6** | **Install PV Panels** | Provides the "green" energy needed to power the heat pump. |
+
+**Final Result:** This path transforms an 1862 building into a high-efficiency home by minimizing heat loss first, then replacing fossil-fuel/electric heating with a sustainable, self-powered system.

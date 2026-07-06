@@ -1,0 +1,81 @@
+### Renovation Plan:
+
+#### Context:
+- **Building Type:** Semi-detached building from 1951.
+- **Current EPC Score:** 388 (D Label).
+- **Owner's Motivation:** Improve EPC rating.
+- **Site Characteristics:** No potential for geothermal energy, no heat grid, potential for PV.
+- **Current Building Envelope Issues:**
+  - Non-insulated walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`).
+  - Non-insulated `FloorAboveBasement`.
+  - Moderately insulated flat roof (`RoofExtension`).
+  - Not insulated gable roof (`RoofMain`).
+
+#### Prioritized Renovation Path:
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building has several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Gable Roof (`RoofMain`):**
+   - The roof is currently not insulated. This is a priority as heat rises; insulating the gable roof is one of the most effective ways to lower energy consumption.
+   - **Action:** `InsulateGableRoof` with a vapour barrier on the warm side and ensure the roof underlayment is air- and watertight.
+
+2. **Insulate Flat Roof (`RoofExtension`):**
+   - The roof is currently moderately insulated. Upgrading insulation to a higher level will further reduce heat loss.
+   - **Action:** `InsulateFlatRoof` with an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering.
+
+3. **Insulate Wall On Exterior (`Wall_Front`, `Wall_Rear`, `Wall_Right`):**
+   - All three external walls are full brick and not insulated. **Insulating the wall on the exterior** is significantly more cost-effective than wall cavity insulation and provides a substantial increase in thermal retention.
+   - **Action:** `InsulateWallExterior` with attention to local building guidelines and the building line.
+
+4. **Insulate Floor Above Basement:**
+   - The floor above the basement is currently not insulated. Adding insulation here eliminates "cold feet" and reduces heat loss to the basement.
+   - **Action:** `InsulateFloorAboveBasement`.
+
+#### Phase 2: Window Performance
+The window performance should be enhanced, since the double glazing leads to significant heat losses.
+
+5. **Replace Glazing (`WindowsBedrooms`, `WindowsLivingArea`):**
+   - All glazing should be replaced with triple glazing. Adding triple glazing would drastically improve the thermal performance.
+   - **Action:** `ReplaceGlazing` with triple glazing.
+
+#### Phase 3: High-Efficiency Heating Transition
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+6. **Place Air-Water Heat Pump:**
+   - Since the site has no potential for geothermal energy and no heat grid, an **Air-Water Heat Pump** is the most viable and efficient alternative to the current boiler.
+   - **Action:** `PlaceAirWaterHeatpump`.
+
+#### Phase 4: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+7. **Replace Ventilation System:**
+   - Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+   - **Action:** `ReplaceVentilationSystem`.
+
+#### Phase 5: Sustainable Energy Generation (PV Integration)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+8. **Place PV-Panels on Roof:**
+   - The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+   - **Action:** `PlacePVPanelsOnRoof`.
+
+#### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| **2** | **Insulate Flat Roof** | Further reduces heat loss through the roof. |
+| **3** | **Insulate Walls on Exterior** | Reduces heat loss through the walls. |
+| **4** | **Insulate Floor Above Basement** | Reduces heat loss to the basement. |
+| **5** | **Replace Glazing** | Reduce the remaining thermal heat losses. |
+| **6** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **7** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **8** | **PV Panels** | Offsets the electricity consumption of the heat pump. |
+
+### Additional Notes:
+- **Cost Considerations:** Prioritize actions based on their cost-effectiveness and impact on the EPC score.
+- **Permits:** Ensure compliance with local building regulations and permits for each phase.
+- **Professional Assistance:** Consider consulting with architects or contractors for expert advice and proper execution of the works.
+
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective, tailored to the specific building characteristics and the owner's motivations.

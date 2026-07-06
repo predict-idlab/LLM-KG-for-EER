@@ -1,0 +1,41 @@
+To maximize energy efficiency and cost-effectiveness for this 1951 semi-detached building (EPC score: 388), the renovation must follow the **"Fabric First"** principle. This means we reduce energy demand through insulation before upgrading the heating systems.
+
+Based on the building's current state and the provided ontology, here is the optimal renovation path.
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*The goal here is to stop heat loss. Since the building is a 1950s full-brick structure, it is currently very "leaky."*
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. Since it is in "Good State," there is no need to replace it; simply adding insulation is the most cost-effective way to see an immediate drop in energy consumption.
+2.  **Insulate Floor Above Basement:** The floor is not insulated. This is a high-impact, low-nuisance upgrade that prevents cold drafts from the basement.
+3.  **Insulate Walls (Exterior or Interior):** The front, rear, and right walls are full brick and not insulated. 
+    *   *Recommendation:* **Insulate wall on exterior**. While it has a higher nuisance level, it provides the best thermal performance and protects the brickwork. If budget/permits are a constraint, **insulate wall on interior** is the cost-effective alternative.
+    *   *Note:* Cavity wall insulation is not possible as these are identified as `FullBrickWall`.
+
+### Phase 2: Air Quality and System Efficiency
+*Once the house is sealed and insulated, the heating requirements will drop significantly, allowing for a smaller, more efficient heating system.*
+
+4.  **Replace Ventilation System:** After insulating the walls and roof, the building will be more airtight. Upgrading from Ventilation System A to a more modern system (like System C or D) is critical to prevent condensation and maintain indoor air quality.
+5.  **Place Air-Water Heat Pump:** The owner has expressed a reason to change the emission system. Since there is no heat grid and no potential for geothermal drilling (horizontal or vertical), an **Air-Water Heat Pump** is the most efficient choice. It integrates perfectly with the existing radiator and floor heating systems.
+
+### Phase 3: Energy Generation (Sustainability)
+*Now that the building's demand is minimized, we offset the remaining electricity needs with renewables.*
+
+6.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels at this stage ensures that the electricity used to run the new heat pump is generated on-site, drastically lowering operational costs and improving the EPC label.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Step | Action | Priority | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Critical | Highest heat loss area; high ROI. |
+| **2** | **Insulate Floor Above Basement** | High | Low cost, eliminates basement chill. |
+| **3** | **Insulate Walls (Exterior)** | High | Essential for a 1951 brick home. |
+| **4** | **Replace Ventilation System** | Medium | Prevents mold/humidity in a sealed home. |
+| **5** | **Place Air-Water Heat Pump** | Medium | Efficient replacement for old boiler. |
+| **6** | **Place PV-Panels on Roof** | Low | Offsets electricity cost of the heat pump. |
+
+### Cost-Effectiveness & Performance Notes:
+*   **Avoided Costs:** We are **not** recommending the replacement of windows. The building already has double glazing and the wooden frames are in "Good State," meaning the marginal gain of triple glazing is lower than the gain from wall/roof insulation.
+*   **Long-term Gain:** By following this sequence, the owner avoids "over-sizing" the heat pump. If the heat pump were installed *before* the insulation, it would be unnecessarily large and expensive to run.
+*   **EPC Impact:** This path directly addresses the owner's motivation to improve the EPC label, moving the building from a **D label** toward a **B or A label**.

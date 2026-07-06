@@ -1,0 +1,31 @@
+To transform a 1950s house into a high-efficiency, low-carbon home, a **"Fabric First"** approach is essential. This means improving the building's shell to reduce energy demand before installing expensive technology.
+
+Here is the recommended phased strategic plan:
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+Before upgrading the heating system, you must ensure the heat stays inside. A new heat pump will perform poorly in a "leaky" 1950s house.
+
+*   **Loft Insulation:** This is the most cost-effective a la carte upgrade. Increasing loft insulation to 270mm+ significantly reduces heat loss through the roof.
+*   **Wall Insulation:** 1950s homes often have cavity walls. **Cavity wall insulation** is a quick win; if the walls are solid brick, **External Wall Insulation (EWI)** or Internal Wall Insulation (IWI) is recommended to stop the "cold wall" effect.
+*   **Floor Insulation:** Install rigid foam insulation boards under the floorboards or use a damp-proof membrane and insulation in the crawl space to stop drafts and heat loss from the ground.
+*   **Draft Proofing & Glazing:** Replace single-pane windows with **double or triple glazing**. Seal gaps around doors, skirting boards, and loft hatches to eliminate uncontrolled air infiltration.
+
+### Phase 2: Low-Carbon Heating (Electrification)
+Once the house is "tight" and insulated, the energy required to heat it drops, allowing for a lower-temperature heating system.
+
+*   **Heat Pump Installation:** Replace the old, inefficient boiler with an **Air Source Heat Pump (ASHP)**. Unlike boilers, heat pumps move heat from the outside air into the home.
+*   **Emitter Upgrade:** Because heat pumps operate at lower flow temperatures than boilers, you may need to install **larger radiators** or **underfloor heating** to ensure the home remains warm.
+*   **Smart Controls:** Install a smart thermostat and TRVs (Thermostatic Radiator Valves) to optimize heating schedules and reduce waste in unused rooms.
+
+### Phase 3: Energy Generation (Offsetting Costs)
+Now that the home is efficient and electrified, the final step is to generate terms of the energy used.
+
+*   **Solar PV Panels:** Install **Solar Photovoltaic (PV) panels** on the roof. This generates electricity to power the heat pump and other appliances, significantly reducing monthly utility bills.
+*   **Battery Storage:** Add a **battery storage system** to store excess solar energy generated during the day for use at night or during winter months.
+
+### Summary of the Logic
+| Step | Action | Purpose | Impact |
+| :--- | :--- | :--- | :--- |
+| **1. Fabric** | Insulation & Glazing | Stop heat from escaping | **High** (Reduces energy load) |
+| **2. Systems** | Heat Pump | Switch from gas/oil to electric | **High** (Decarbonizes heating) |
+| **3. Power** | Solar PV & Battery | Generate own electricity | **Medium** (Lowers operational cost) |

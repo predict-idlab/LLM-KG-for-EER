@@ -1,0 +1,47 @@
+Based on the provided building data and the RENO ontology, the property is a **1951 semi-detached building** with a significant energy performance gap (**EPC score: 388**, Label D). The owner's primary motivation is to **improve the EPC**, and there is a stated need to change the emission system.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** renovation path. This ensures that the building's energy demand is reduced before installing a new heating system, allowing for a smaller, more efficient, and cheaper heat pump installation.
+
+### Phase 1: Thermal Envelope Optimization (Reducing Energy Demand)
+*Priority: High | Goal: Stop heat loss*
+
+1.  **Roof Insulation (Gable Roof):** The main gable roof is currently not insulated. This is the most cost-effective "quick win" as heat rises. 
+    *   **Action:** `InsulateGableRoof`.
+2.  **Floor Insulation:** The floor above the basement is not insulated.
+    *   **Action:** `InsulateFloorAboveBasement`.
+3.  **Wall Insulation:** All three main walls (Front, Right, Rear) are full brick and not insulated. Since there is no historical protection, exterior insulation is recommended for maximum efficiency.
+    *   **Action:** `InsulateWallExterior`. (If budget is constrained, `InsulateWallInterior` is a cheaper alternative, though it reduces living space).
+
+### Phase 2: Air Quality and Ventilation
+*Priority: Medium | Goal: Prevent moisture and ensure healthy air*
+
+Since the building is being sealed with insulation, the current **Ventilation System A** (natural supply) will be insufficient and may lead to condensation.
+*   **Action:** `ReplaceVentilationSystem` (Upgrade to System C or D). This ensures a controlled air exchange, maintaining the efficiency of the new insulation.
+
+### Phase 3: Sustainable Heating Transition
+*Priority: High | Goal: Decarbonization and operational cost reduction*
+
+With the thermal load reduced by Phase 1, the building can now transition from a traditional boiler to a high-efficiency system. Since geothermal drilling is not possible on this site and there is no heat grid, an air-to-water system is the optimal choice.
+*   **Action:** `PlaceAirWaterHeatpump`. 
+*   **Note:** Because the building already has floor heating and radiators, the heat pump will integrate well, though a check on the emission temperature of the radiators is advised.
+
+### Phase 4: Renewable Energy Integration
+*Priority: Medium | Goal: Offset operational costs*
+
+The building has a confirmed potential for PV panels. This is the final step to move toward a "Net Zero" operational state.
+*   **Action:** `PlacePVPanelsOnRoof`.
+*   **Synergy:** The electricity generated will directly power the new Air-Water Heat Pump, drastically lowering monthly energy bills.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Intervention | Rationale | Cost Profile |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Roof & Floor** | Highest ROI; reduces heat pump sizing requirements. | Low/Medium |
+| **2** | **Insulate Walls** | Eliminates the largest source of thermal leakage. | Medium/High |
+| **3** | **Upgrade Ventilation** | Prevents mold/dampness in a newly insulated home. | Medium |
+| **4** | **Air-Water Heat Pump** | Replaces old boiler with high-efficiency electric heat. | High (Fixed) |
+| **5** | **Solar PV Panels** | Powers the heat pump and reduces grid dependency. | Medium |
+
+**Estimated Long-term Impact:** This path will likely move the building from an **EPC Label D** to **Label B or A**, significantly increasing the market value and reducing operational energy costs.

@@ -1,0 +1,61 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **1. Insulate Walls on the Exterior (High Priority)**
+   - **Action**: Insulate the exterior walls (Wall_Front and Wall_Rear) to reduce heat loss.
+   - **Reason**: Both walls are currently not insulated (NotInsulated), which significantly impacts energy efficiency.
+   - **Implementation**: Use exterior wall insulation (InsulateWallExterior) with a unit price of €200 per m².
+   - **Ordering**: 40
+
+#### **2. Replace Ventilation System (High Priority)**
+   - **Action**: Replace the existing VentilationSystemA with a more efficient system (ReplaceVentilationSystem).
+   - **Reason**: Upgrading the ventilation system will improve air quality and energy efficiency.
+   - **Implementation**: The replacement has a unit price of €17 per m² and requires moderate nuisance during installation.
+   - **Ordering**: 52
+
+#### **3. Insulate Roofs (High Priority)**
+   - **Action**: Insulate both RoofMain (gable roof) and RoofExtension (flat roof) (InsulateGableRoof and InsulateFlatRoof).
+   - **Reason**: Both roofs are not insulated (NotInsulated), leading to significant heat loss.
+   - **Implementation**:
+     - Insulate the gable roof with a unit price of €60 per m² (ordering: 28).
+     - Insulate the flat roof with a unit price of €50 per m² (ordering: 25).
+   - **Note**: Ensure proper vapour barrier installation to prevent condensation issues.
+
+#### **4. Replace Windows (Medium Priority)**
+   - **Action**: Replace the existing windows (WindowsLivingArea and WindowsBedrooms) with energy-efficient windows (ReplaceWindows).
+   - **Reason**: The current windows likely have single or double glazing (DoubleGlazing), which can be upgraded to triple glazing (TripleGlazing) for better insulation.
+   - **Implementation**: The replacement has a unit price of €800 per window and is crucial for reducing heat loss through windows.
+   - **Ordering**: 46
+
+#### **5. Insulate Attic Floor (Medium Priority)**
+   - **Action**: Insulate the attic floor (InsulateAtticFloor).
+   - **Reason**: The attic floor is not insulated (NotInsulated), leading to heat loss from the upper living spaces.
+   - **Implementation**: Use walkable insulation with a unit price of €60 per m².
+   - **Ordering**: 31
+
+#### **6. Insulate Floor Above Basement (Medium Priority)**
+   - **Action**: Insulate the floor above the basement (InsulateFloorAboveBasement).
+   - **Reason**: The floor above the basement is not insulated (NotInsulated), leading to heat loss from the lower living spaces.
+   - **Implementation**: Use appropriate insulation with a unit price of €30 per m².
+   - **Ordering**: 49
+
+#### **7. Consider Advanced Heating Systems (Future Consideration)**
+   - **Action**: Evaluate the feasibility of installing a heat pump (PlaceAirWaterHeatpump) or connecting to a heat grid (ConnectToHeatGrid) in the future.
+   - **Reason**: The building currently uses a Radiator as an emission system, which is less energy-efficient compared to modern systems.
+   - **Note**: This step is not urgent but should be considered for long-term energy efficiency improvements.
+
+#### **8. Additional Considerations**
+   - **Energy Performance Certificate (EPC)**: Monitor the building's EPC to ensure improvements in energy efficiency.
+   - **Historical Protection**: Ensure that any renovations comply with historical protection guidelines, as the walls have no historical protection (hasHistoricalProtection: false).
+   - **Nuisance Levels**: Be aware of the nuisance levels associated with each renovation to minimize disruption to occupants.
+
+### **Implementation Sequence**
+The suggested sequence is based on the ordering of the renovation suggestions:
+1. Insulate walls on the exterior (40)
+2. Replace ventilation system (52)
+3. Insulate roofs (28 for gable roof, 25 for flat roof)
+4. Replace windows (46)
+5. Insulate attic floor (31)
+6. Insulate floor above basement (49)
+
+### **Conclusion**
+This plan focuses on maximizing energy efficiency through strategic insulation and system upgrades. The sequence ensures that the most impactful renovations are prioritized while considering cost-effectiveness and minimizing disruption. Regular monitoring of the building's EPC will help track progress towards energy efficiency goals.

@@ -1,0 +1,90 @@
+### Analysis of the Building and Ontology
+
+1. **Building Characteristics**:
+   - **Type**: Semi-detached building.
+   - **Construction Year**: 2017.
+   - **Energy Performance Certificate (EPC)**: 87.0 kWh/m²year (A label).
+   - **Insulation**:
+     - **RoofExtension**: Flat roof, well insulated.
+     - **RoofMain**: Gable roof, moderately insulated.
+     - **Walls**: Well insulated.
+     - **FloorAboveBasement**: Well insulated.
+   - **Windows**: Double glazing, wooden frames in good condition.
+   - **Ventilation System**: Type D (mechanical supply and exhaust).
+   - **Potential for PV**: False.
+   - **Heat Grid Availability**: False.
+   - **Owner's Motivation**: To improve EPC.
+
+2. **Current State**:
+   - The building is relatively new (2017) and already has good insulation in most areas.
+   - The EPC is good (A label), but there is room for improvement.
+   - The owner wants to improve the EPC further.
+
+### Renovation Plan
+
+Given the building's characteristics and the owner's motivation, the renovation plan should focus on maximizing energy efficiency while remaining cost-effective. The plan will follow a logical sequence to ensure that each step builds on the previous one.
+
+#### Step 1: Roof Improvements
+1. **Insulate Gable Roof**:
+   - **Action**: Improve insulation of the gable roof from moderately insulated to well insulated.
+   - **Justification**: The gable roof is currently moderately insulated, and improving its insulation will contribute to a better EPC.
+   - **Cost**: €60 per m².
+   - **Nuisance Level**: Low.
+
+2. **Place Roof Underlayment**:
+   - **Action**: Ensure the gable roof has a complete and airtight roof underlayment.
+   - **Justification**: This step is crucial for preventing water damage and improving thermal performance.
+   - **Cost**: €65 per m².
+   - **Nuisance Level**: Low.
+
+#### Step 2: Window Improvements
+3. **Replace Glazing**:
+   - **Action**: Replace the current double glazing with triple glazing to further improve thermal performance.
+   - **Justification**: Triple glazing provides better insulation than double glazing, which will help in improving the EPC.
+   - **Cost**: €200 per m².
+   - **Nuisance Level**: High.
+
+#### Step 3: Ventilation System
+4. **Replace Ventilation System**:
+   - **Action**: Consider upgrading the ventilation system to a more efficient model if necessary.
+   - **Justification**: The current system is type D, which is efficient, but newer models might offer better performance.
+   - **Cost**: Fixed cost of €3,500 plus €17 per m².
+   - **Nuisance Level**: Moderate.
+
+#### Step 4: Additional Measures
+5. **Place Sunshade**:
+   - **Action**: Install sunshades to reduce solar gain and improve thermal comfort.
+   - **Justification**: Sunshades can help in reducing the need for cooling in summer and improving overall energy efficiency.
+   - **Cost**: Fixed cost of €750.
+   - **Nuisance Level**: Low.
+
+### Summary of Renovation Plan
+
+1. **Insulate Gable Roof**:
+   - **Action**: Improve insulation.
+   - **Cost**: €60 per m².
+   - **Nuisance Level**: Low.
+
+2. **Place Roof Underlayment**:
+   - **Action**: Ensure complete and airtight roof underlayment.
+   - **Cost**: €65 per m².
+   - **Nuisance Level**: Low.
+
+3. **Replace Glazing**:
+   - **Action**: Upgrade to triple glazing.
+   - **Cost**: €200 per m².
+   - **Nuisance Level**: High.
+
+4. **Replace Ventilation System**:
+   - **Action**: Upgrade to a more efficient model if necessary.
+   - **Cost**: €3,500 + €17 per m².
+   - **Nuisance Level**: Moderate.
+
+5. **Place Sunshade**:
+   - **Action**: Install sunshades.
+   - **Cost**: €750.
+   - **Nuisance Level**: Low.
+
+### Conclusion
+
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective. The steps are sequenced to ensure that each improvement builds on the previous one, leading to a significant improvement in the building's EPC and overall energy performance. The owner's motivation to improve the EPC is addressed through these targeted upgrades.

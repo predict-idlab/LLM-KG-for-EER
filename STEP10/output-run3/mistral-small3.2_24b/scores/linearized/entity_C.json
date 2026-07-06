@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["insulate roof main", "replace emission system", "install pv panels"]}, "sequence": {"order_errors": []}}

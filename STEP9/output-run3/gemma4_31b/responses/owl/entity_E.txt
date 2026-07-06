@@ -1,0 +1,54 @@
+To maximize energy efficiency while remaining cost-effective for this specific building, the renovation should follow the **"Envelope First"** principle. Since the building is a detached house from 1862 with a current EPC score of 165 (B Label), there is a strong foundation, but significant gains can be made in the walls, windows, and heating systems.
+
+### **Phase 1: Thermal Envelope Optimization (The "Quick Wins")**
+The goal here is to reduce heat loss before upgrading the heating system to ensure the new system is not oversized and operates at peak efficiency.
+
+1.  **Insulate Wall Cavities:** 
+    *   **Action:** `insulate wall cavity`
+    *   **Reasoning:** All four walls (Front, Left, Rear, Right) are cavity walls and currently "Not Insulated." This is the most cost-effective upgrade available ($\approx 22/m^2$) with low nuisance and high energy impact.
+2.  **Upgrade Glazing:** 
+    *   **Action:** `replace glazing`
+    *   **Reasoning:** The building currently has "Single Glazing" in the living area and bedrooms, which is a major source of heat loss. Since the wooden window frames are in "Good State" (Value 8), replacing only the glass rather than the entire window is significantly more cost-effective.
+3.  **Insulate Floor:** 
+    *   **Action:** `insulate floor above basement`
+    *   **Reasoning:** To eliminate cold drafts from the crawl space/basement area. This is a low-nuisance, low-cost intervention ($\approx 30/m^2$).
+
+### **Phase 2: Ventilation & Air Quality**
+Once the envelope is sealed with better glazing and wall insulation, air exchange must be managed to prevent moisture buildup and ensure health.
+
+4.  **Upgrade Ventilation:** 
+    *   **Action:** `replace ventilation system`
+    *   **Reasoning:** The current "System A" (natural supply/exhaust) is inefficient. Upgrading to a modern system (e.g., System C or D) will improve thermal comfort and air quality.
+
+### **Phase 3: Sustainable Heating Transition**
+With the heat demand now lowered by Phase 1, we can transition from the current inefficient mix (electric convectors/radiators) to a sustainable system.
+
+5.  **Prepare Emission System:** 
+    *   **Action:** `place emission system on low temperature`
+    *   **Reasoning:** Heat pumps are most efficient when working with low-temperature emitters. This step is a prerequisite for the efficiency of the next step.
+6.  **Install Heat Pump:** 
+    *   **Action:** `place air-water heatpump`
+    *   **Reasoning:** The building has no access to a heat grid and no potential for geothermal drilling. An air-water heat pump is the most viable sustainable alternative to replace the existing generation system.
+
+### **Phase 4: Renewable Energy Generation**
+The final step is to offset the electricity consumption of the new heat pump.
+
+7.  **Install Solar Energy:** 
+    *   **Action:** `place PV-panels on roof`
+    *   **Reasoning:** The building is confirmed to have "potential for PV." Since the gable roof is already "Well Insulated," it is a prime location for panels to generate clean electricity for the home and the new heat pump.
+
+---
+
+### **Summary of Renovation Path & Sequence**
+
+| Sequence | Action | Target Element | Cost Profile | Efficiency Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | `insulate wall cavity` | 4 Cavity Walls | Very Low | High |
+| **2** | `replace glazing` | Windows | Moderate | High |
+| **3** | `insulate floor above basement` | Floor | Low | Moderate |
+| **4** | `replace ventilation system` | Ventilation | Moderate | Moderate |
+| **5** | `place emission system on low temp` | Emission System | Moderate | High (Operational) |
+| **6** | `place air-water heatpump` | Generation System | High | Very High |
+| **7** | `place PV-panels on roof` | Roof | Moderate | Very High (Carbon) |
+
+**Final Outcome:** This path transforms a 19th-century home into a high-performance building by sequentially reducing demand (insulation/glazing), optimizing delivery (ventilation/low-temp emitters), and switching to sustainable generation (heat pump/PV).

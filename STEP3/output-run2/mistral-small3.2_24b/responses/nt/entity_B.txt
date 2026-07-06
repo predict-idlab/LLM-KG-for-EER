@@ -1,0 +1,89 @@
+### Renovation Plan for Example Building
+
+**Step 1: Initial Assessment**
+- **Building Type**: Attached
+- **Construction Year**: 1832
+- **Energy Performance Certificate (EPC) Score**: 262
+- **Net Floor Area**: 212 m²
+- **Potential for PV Panels**: Yes
+- **Presence of Heat Grid**: No
+- **Potential for Vertical Geothermal Drilling**: No
+- **Potential for Horizontal Geothermal Captation**: No
+
+**Step 2: Identify Key Areas for Improvement**
+- **Roofs**: Main and Extension
+  - Both are not insulated
+  - Extension roof is a flat roof
+- **Walls**: Front and Rear
+  - Both are not insulated
+  - No historical protection
+- **Floors**: Above Basement
+  - Not insulated
+- **Windows**: Bedrooms and Living Area
+  - Bedrooms: Double glazing, wooden frames
+  - Living Area: Double glazing
+- **Ventilation System**: Type A
+- **Emission System**: Radiator
+
+**Step 3: Prioritize Based on Energy Efficiency and Cost-Effectiveness**
+1. **Replace Flat Roof (Extension)**
+   - Replace the flat roof with a more energy-efficient option.
+   - **Ordering**: 10
+   - **Nuisance Level**: High
+   - **Permit Needed**: Reporting obligation (Flanders)
+   - **Point of Attention**: Ideally, provide a roof edge of 15cm, and a minimum gradient of 2% to ensure correct drainage. We recommend opting for a warm roof setup.
+
+2. **Insulate Flat Roof (Main)**
+   - Insulate the flat roof to improve energy efficiency.
+   - **Ordering**: 25
+   - **Nuisance Level**: High
+   - **Permit Needed**: Only if thickness of total pack >26cm (Flanders)
+   - **Point of Attention**: Opt for an inverted roof structure, not a cold roof. Place the insulation on top of the roof covering, do not insulate the flat roof on the inside.
+
+3. **Insulate Wall Cavity (Front and Rear)**
+   - Insulate the cavity walls to enhance thermal performance.
+   - **Ordering**: 34
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Point of Attention**: Have an inspection carried out by a contractor, who can determine whether the cavity wall is suitable for injecting insulation. Namely, it should be checked whether the cavity is wide enough, whether there is no contamination in the cavity, whether the cladding is vapour-permeable enough, etc.
+
+4. **Insulate Attic Floor**
+   - Insulate the attic floor to reduce heat loss.
+   - **Ordering**: 31
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Point of Attention**: In many cases, a vapour barrier is necessary when insulating the attic floor. Condensation problems can occur without a vapour barrier. Always install the vapour barrier on the warm side of the insulation.
+
+5. **Insulate Floor Above Basement**
+   - Insulate the floor above the basement to improve energy efficiency.
+   - **Ordering**: 49
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Point of Attention**: None specified.
+
+**Step 4: Additional Recommendations**
+- **Replace Windows (if budget allows)**
+  - Consider replacing windows with more energy-efficient options.
+  - **Ordering**: 46
+  - **Nuisance Level**: High
+  - **Permit Needed**: Not necessary if the measurements are kept (Flanders)
+  - **Point of Attention**: Do you currently have a ventilation system type A or C, or are you planning to install a natural supply system? If so, be sure to provide enough grilles on your window frames so that enough fresh air can flow into your home.
+
+- **Place PV Panels on Roof**
+  - Install PV panels on the roof to generate renewable energy.
+  - **Ordering**: 85
+  - **Nuisance Level**: Low
+  - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+  - **Point of Attention**: Since PV panels are attached to the roof structure, it is crucial to remove any asbestos present in the roof first. Installing solar panels on a building with an asbestos-containing roof covering or an asbestos-containing sub-roof is prohibited.
+
+**Step 5: Execution and Monitoring**
+- **Execution Plan**:
+  - Hire qualified contractors for each task.
+  - Ensure compliance with local regulations and permits.
+  - Monitor progress and quality of work.
+
+- **Post-Renovation**:
+  - Conduct a final energy audit to measure improvements.
+  - Maintain the renovated elements to ensure long-term benefits.
+
+By following this plan, you can significantly improve the energy efficiency of your building, reduce energy costs, and increase the overall comfort and value of your property.

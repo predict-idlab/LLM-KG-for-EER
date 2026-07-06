@@ -1,0 +1,36 @@
+### Renovation Plan:
+The building is a detached house built in 2023 with an energy score of 50. The owner's motivation is to improve the EPC score. The building has well-insulated walls and floors but moderately insulated roofs and double-glazed windows. The potential for PV is false, and there is no heat grid present. The emission system is an electric convector and floor heating.
+
+### Proposed Renovation Path:
+
+1. **Insulate Gable Roof:**
+   - The gable roof is moderately insulated. Improving its insulation will reduce heat loss through the roof.
+   - **Action:** Insulate the gable roof to improve its insulation grade.
+
+2. **Replace Glazing (if necessary):**
+   - The windows have double glazing, which is already a good standard. If the glazing is old or not performing well, consider replacing it with triple glazing for better thermal performance.
+   - **Action:** Assess the current glazing performance and replace if necessary with triple glazing.
+
+3. **Place Air-Water Heat Pump:**
+   - The current emission system is an electric convector and floor heating. Transitioning to an air-water heat pump can improve energy efficiency.
+   - **Action:** Install an air-water heat pump to replace the current electric convector and floor heating system.
+
+4. **Place Emission System on Low Temperature:**
+   - Ensure the new heat pump operates at low temperatures for optimal efficiency.
+   - **Action:** Upgrade the emission system to work at low temperatures compatible with the air-water heat pump.
+
+5. **Replace Ventilation System (if necessary):**
+   - The current ventilation system is type D. If it is old or not performing well, consider upgrading to a more efficient system.
+   - **Action:** Assess the current ventilation system performance and replace if necessary with a more efficient model.
+
+### Summary of Sequence and Rationale:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Improves roof insulation to reduce heat loss. |
+| **2** | **Replace Glazing (if necessary)** | Enhances window thermal performance. |
+| **3** | **Place Air-Water Heat Pump** | Transitions to a more energy-efficient heating system. |
+| **4** | **Place Emission System on Low Temperature** | Optimizes heat pump efficiency. |
+| **5** | **Replace Ventilation System (if necessary)** | Ensures proper air quality and efficiency. |
+
+This plan focuses on improving the building's energy efficiency by addressing insulation, heating systems, and ventilation, tailored to the specific needs and conditions of the building.

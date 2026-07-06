@@ -1,0 +1,45 @@
+Based on the provided RENO ontology and the building data, the property is already highly efficient (constructed in 2023 with an EPC score of 50, placing it in the **A label** category). However, there are specific opportunities to further reduce operational costs and energy consumption, particularly regarding the heating system and the roof.
+
+Below is the proposed renovation path, sequenced to maximize the efficiency of each investment.
+
+### 1. Thermal Envelope Optimization (The "Fabric First" Approach)
+Before upgrading heating systems, we must ensure the building envelope is as tight as possible to reduce the load on the new system.
+
+*   **Action: Insulate Gable Roof**
+    *   **Observation:** While the flat roof and walls are "Well Insulated," the main gable roof is only "**Moderately Insulated**."
+    *   **Recommendation:** Implement `InsulateGableRoof`.
+    *   **Justification:** This is the most cost-effective way to prevent heat loss through the top of the building. 
+    *   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+    *   **Ordering:** Low (Ordering: 28).
+
+### 2. Heating Generation Upgrade
+The building currently relies on **Electric Convectors**, which are among the most expensive and least efficient ways to heat a home. There is a recorded "reason to change the emission system."
+
+*   **Action: Install an Air-Water Heat Pump**
+    *   **Observation:** Geothermal options are not viable (site potential is `false`) and there is no heat grid available.
+    *   **Recommendation:** `PlaceAirWaterHeatpump`.
+    *   **Justification:** Since the building already has **Floor Heating**, an Air-Water heat pump is the most efficient choice. It leverages the existing underfloor pipes to distribute heat at lower temperatures, significantly reducing electricity consumption compared to electric convectors.
+    *   **Ordering:** Medium (Ordering: 67).
+
+### 3. Emission System Refinement
+To maximize the Coefficient of Performance (COP) of the new heat pump, the delivery of heat must be optimized.
+
+*   **Action: Transition to Low-Temperature Emission**
+    *   **Observation:** The building uses a mix of floor heating and electric convectors.
+    *   **Recommendation:** `PlaceLowTemperatureEmission`.
+    *   **Justification:** Heat pumps operate most efficiently when they do not have to heat water to high temperatures. By phasing out the remaining electric convectors in favor of low-temperature radiators or expanding the floor heating, you maximize the energy savings of the heat pump.
+    *   **Ordering:** High (Ordering: 70).
+
+---
+
+### Summary of the Renovation Path
+
+| Sequence | Intervention | Priority | Cost Profile | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **Step 1** | **Insulate Gable Roof** | High | Low ($\approx 60/m^2$) | Reduces heat loss; stabilizes indoor temp. |
+| **Step 2** | **Air-Water Heat Pump** | High | Moderate (Fixed $\approx 8k$) | Drastic reduction in energy bills vs. electric. |
+| **Step 3** | **Low-Temp Emission** | Medium | Moderate ($\approx 100/m^2$) | Maximizes the efficiency of the heat pump. |
+
+### Final Expert Analysis:
+**Why this path?**
+The building is nearly optimized. The "low-hanging fruit" here is the transition from **resistive electric heating** (convectors) to **thermodynamic heating** (heat pump). By insulating the gable roof first, we slightly lower the required capacity of the heat pump, ensuring you don't over-invest in a system larger than necessary. Because the building is an "Attached Building" and already possesses an A-label EPC, these steps will move the property toward a "Net Zero" operational status while significantly lowering monthly utility costs.

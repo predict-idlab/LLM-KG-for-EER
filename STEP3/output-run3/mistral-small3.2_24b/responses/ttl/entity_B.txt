@@ -1,0 +1,82 @@
+Based on the provided RENO ontology and the building information, I will analyze the current state of the building and propose a cost-effective renovation plan that maximizes energy efficiency. The building is an attached structure constructed in 1832 with a net floor area of 212.0 m² and an energy performance certificate (EPC) score of 262.0 (label D).
+
+### Current State Analysis:
+1. **Roofs**:
+   - Flat roof (extension): Not insulated.
+   - Gable roof (main): Moderately insulated.
+2. **Walls**:
+   - Front and rear walls: Full brick walls, not insulated.
+3. **Floors**:
+   - Floor above basement: Not insulated.
+4. **Windows**:
+   - Double glazing in bedrooms and living area.
+   - Wooden window frames in good condition.
+5. **Ventilation System**:
+   - Type A (natural air supply and exhaust).
+6. **Heating System**:
+   - Radiator emission system.
+7. **Potential for PV**:
+   - True (potential to install PV panels).
+8. **Heat Grid**:
+   - Not present.
+
+### Renovation Plan:
+
+#### 1. **Roof Insulation**:
+   - **Action**: Insulate the flat roof (extension).
+   - **Reason**: The flat roof is currently not insulated, which is a significant source of heat loss.
+   - **Cost**: €50 per m² (as per the ontology).
+   - **Nuisance Level**: High (as it involves significant work).
+
+   - **Action**: Insulate the gable roof (main).
+   - **Reason**: The gable roof is moderately insulated, but improving insulation will further reduce heat loss.
+   - **Cost**: €60 per m² (as per the ontology).
+   - **Nuisance Level**: Low.
+
+#### 2. **Wall Insulation**:
+   - **Action**: Insulate the walls on the interior.
+   - **Reason**: The front and rear walls are full brick walls and not insulated. Interior insulation is more feasible than exterior insulation for historical buildings.
+   - **Cost**: €150 per m² (as per the ontology).
+   - **Nuisance Level**: Moderate (as it involves relocating sockets, pipes, and radiators).
+
+#### 3. **Floor Insulation**:
+   - **Action**: Insulate the floor above the basement.
+   - **Reason**: The floor above the basement is not insulated, which can lead to significant heat loss.
+   - **Cost**: €30 per m² (as per the ontology).
+   - **Nuisance Level**: Low.
+
+#### 4. **Window Replacement**:
+   - **Action**: Replace the windows with triple glazing.
+   - **Reason**: Although the windows currently have double glazing, upgrading to triple glazing will further improve energy efficiency.
+   - **Cost**: €800 per m² (as per the ontology).
+   - **Nuisance Level**: High (as it involves significant work).
+
+#### 5. **Ventilation System Upgrade**:
+   - **Action**: Replace the ventilation system with a mechanical supply and exhaust system (Type D).
+   - **Reason**: The current ventilation system (Type A) is less efficient. Upgrading to Type D will improve air quality and energy efficiency.
+   - **Cost**: €3500 fixed + €17 per m² (as per the ontology).
+   - **Nuisance Level**: Moderate (as it involves ductwork for both supply and return).
+
+#### 6. **Heating System Upgrade**:
+   - **Action**: Place a heat pump boiler.
+   - **Reason**: The current radiator system is less efficient. A heat pump boiler will improve energy efficiency and reduce energy costs.
+   - **Cost**: €4000 fixed (as per the ontology).
+   - **Nuisance Level**: Moderate.
+
+#### 7. **PV Panel Installation**:
+   - **Action**: Place PV panels on the roof.
+   - **Reason**: The building has potential for PV panel installation, which will reduce energy costs and improve sustainability.
+   - **Cost**: €275 per m² (as per the ontology).
+   - **Nuisance Level**: Low.
+
+### Summary of Renovation Plan:
+1. Insulate the flat roof (extension).
+2. Insulate the gable roof (main).
+3. Insulate the walls on the interior.
+4. Insulate the floor above the basement.
+5. Replace the windows with triple glazing.
+6. Replace the ventilation system with a mechanical supply and exhaust system (Type D).
+7. Place a heat pump boiler.
+8. Install PV panels on the roof.
+
+This plan prioritizes actions that will have the most significant impact on energy efficiency and long-term operational performance while considering cost-effectiveness and the optimal sequence of renovations.

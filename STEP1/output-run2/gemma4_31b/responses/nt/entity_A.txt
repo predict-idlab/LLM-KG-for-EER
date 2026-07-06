@@ -1,0 +1,50 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path. The strategy follows the **"Fabric First"** principle: we first minimize heat loss through the building envelope before upgrading the heating and energy generation systems. This ensures that the new heating system is sized correctly (and thus more cost-effective) and that energy efficiency is maximized.
+
+### **Building Profile Summary**
+*   **Type:** Semi-detached, 1951 construction, 149 m².
+*   **Current Performance:** EPC Score of 388 (D Label), indicating significant room for improvement.
+*   **Key Weaknesses:** Uninsulated main gable roof, uninsulated full-brick walls, and an uninsulated floor above the basement.
+*   **Constraints:** No potential for geothermal energy; no access to a district heat grid.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: The Thermal Envelope (High Impact, High ROI)**
+*Goal: Reduce the energy demand of the building to lower the required capacity of future heating systems.*
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the highest priority as heat rises. Since the roof is in "Good State," insulation can be applied without a full replacement.
+2.  **Insulate Exterior Walls:** All three main walls (Front, Rear, Right) are full brick and not insulated. As there is no historical protection, **Exterior Wall Insulation** is recommended. This is more effective than interior insulation and prevents thermal bridging.
+3.  **Insulate Floor Above Basement:** The floor is currently not insulated. Adding insulation here will significantly reduce "cold feet" and lower the overall heating load.
+
+#### **Phase 2: Ventilation and Air Quality**
+*Goal: Ensure healthy air exchange while minimizing heat loss from the newly insulated envelope.*
+
+4.  **Upgrade Ventilation System:** The building currently uses Ventilation System A (natural supply). To maximize the benefits of the new insulation, upgrade to **Ventilation System D** (mechanical supply and exhaust with heat recovery). This prevents the building from becoming "too airtight" and recovers heat from exhaust air.
+
+#### **Phase 3: Energy Generation & Emission (System Modernization)**
+*Goal: Transition from fossil fuels/inefficient heating to sustainable, low-carbon technology.*
+
+5.  **Install Air-Water Heat Pump:** Since geothermal is not viable and there is no heat grid, an Air-Water Heat Pump is the most efficient choice. Because we have already insulated the roof, walls, and floor, the heat pump can be a smaller, more cost-effective unit.
+6.  **Optimize Emission System:** The building already has floor heating (which is ideal for heat pumps). Ensure the radiators are compatible with the lower flow temperatures of the heat pump or consider upgrading them to low-temperature emitters.
+
+#### **Phase 4: Renewable Energy (Operational Cost Reduction)**
+*Goal: Offset the electricity consumption of the heat pump and improve the EPC label.*
+
+7.  **Install PV Panels on Roof:** The building has confirmed potential for PV. Installing solar panels now will provide the electricity needed to run the heat pump and ventilation system, significantly lowering monthly operational costs.
+
+---
+
+### **Summary of the Optimal Sequence**
+
+| Sequence | Intervention | Logic |
+| :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Wall $\rightarrow$ Floor Insulation** | Reduces heat loss; determines the size of the future HVAC system. |
+| **2** | **Ventilation Upgrade (System D)** | Prevents moisture/mold issues in an insulated home and recovers heat. |
+| **3** | **Air-Water Heat Pump** | Replaces old boiler with a high-efficiency electric system. |
+| **4** | **PV Panels** | Powers the heat pump and ventilation with green energy. |
+
+### **Cost-Effectiveness & Efficiency Analysis**
+*   **Why not replace windows?** The existing windows have double glazing and are in a "Good State." Replacing them now would provide a marginal energy gain compared to the massive gains from wall and roof insulation.
+*   **Why this order?** Installing a heat pump *before* insulation often leads to "over-sizing" the unit, meaning you pay more for a machine that is larger than necessary. By insulating first, you minimize the energy load, allowing for a smaller, cheaper, and more efficient heat pump.
+*   **Long-term Result:** This path will move the building from a **D Label (388)** toward an **A or B Label**, drastically increasing market value and reducing energy bills.

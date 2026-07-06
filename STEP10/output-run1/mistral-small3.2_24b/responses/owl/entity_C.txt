@@ -1,0 +1,22 @@
+### Renovation Plan:
+
+The building is a relatively new attached building (2023) with a very good EPC score of 50 (A Label). The owner's primary motivation is to improve the EPC rating.
+
+Given the already high EPC score and the owner's motivation, the focus should be on maintaining and slightly improving the energy performance.
+
+Proposed Renovation Path:
+
+Phase 1: Maintenance and Minor Upgrades (Priority: High)
+1. **Insulate Flat Roof:** The `RoofExtension` is already well insulated, but ensuring its maintenance is crucial to prevent heat loss over time.
+2. **Insulate Gable Roof:** The `RoofMain` is moderately insulated. Upgrading it to well-insulated status will further improve thermal retention.
+3. **Maintain Existing Insulation:** Regularly check and maintain the insulation of `Wall_Front`, `Wall_Rear`, and `FloorAboveBasement` to ensure they remain well-insulated.
+
+Phase 2: Heating System Optimization (Priority: Medium)
+4. **Replace Ventilation System:** The current `VentilationSystem` (System D) is efficient, but upgrading to a more advanced system (e.g., System C) could enhance indoor air quality and energy efficiency.
+5. **Consider Heat Pump:** If the owner is open to more significant changes, replacing the existing boiler with a **Air-Water Heat Pump** could further reduce energy consumption. However, this is optional given the current high EPC score.
+
+Phase 3: Sustainable Energy Generation (Priority: Low)
+6. **Evaluate PV Potential:** Although the current potential for PV is "false," reconsidering PV installation in the future could provide renewable energy for the building.
+
+Summary of Sequence:
+**Roof Maintenance** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **Optional Heat Pump** $\rightarrow$ **Future PV Consideration**.

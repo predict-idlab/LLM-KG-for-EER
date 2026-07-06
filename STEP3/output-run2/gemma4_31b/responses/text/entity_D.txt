@@ -1,0 +1,48 @@
+Given that your home was built in 2017 and already features a heat pump, Ventilation System D, and photovoltaic panels, you are starting from a very strong baseline. An EPC score of 87 is already quite efficient for a house of this size in Belgium.
+
+To further improve the energy performance while remaining cost-effective, we must move from "major corrections" to "marginal gains." The goal is to eliminate the few remaining thermal bridges and optimize the synergy between your energy production and consumption.
+
+Here is the proposed renovation path, ordered by the optimal sequence for maximum ROI.
+
+### Step 1: Thermal Envelope Optimization (The Priority)
+The only "moderate" point in your building envelope is the pitched roof. Since heat rises, this is your primary area for energy loss.
+
+*   **Action:** Upgrade the insulation of the pitched roof.
+*   **Detail:** Depending on the current construction, this can be done via **blown-in cellulose or mineral wool** (if there is a cavity) or by adding a layer of high-performance insulation boards under the eaves.
+*   **Why:** Moving from "moderate" to "well-insulated" on the roof will have the most immediate impact on your EPC score and reduce the workload on your heat pump during winter.
+
+### Step 2: Air-Tightness & Thermal Bridge Audit
+Even in 2017 builds, small leaks can occur around window frames or utility penetrations, which can undermine the efficiency of a Ventilation System D.
+
+*   **Action:** Conduct a professional **Blower Door Test** or a thermographic scan.
+*   **Detail:** Identify specific "cold spots" or air leaks. Use professional-grade sealing tapes or expanding foam to close gaps around pipes and window junctions.
+*   **Why:** This is a low-cost intervention. Ensuring the house is airtight allows your Ventilation System D to work exactly as designed, recovering maximum heat from the exhaust air.
+
+### Step 3: Intelligent Energy Management (The "Smart" Layer)
+Since you already have PV panels and a heat pump, the focus should shift from *saving* energy to *optimizing* when you use it.
+
+*   **Action:** Install a **Smart Energy Management System (HEMS)** and optimize heat pump settings.
+*   **Detail:** 
+    *   Implement "load shifting": program the heat pump to pre-heat the house or the hot water tank during peak PV production hours.
+    *   If your budget allows, consider a **home battery system** to store excess summer energy for winter use (though the ROI on batteries is longer, it improves operational autonomy).
+*   **Why:** This maximizes the "self-consumption" rate of your PV panels, reducing your reliance on the grid and lowering operational costs.
+
+### Step 4: Glazing Refinement (Low-Cost/High-Impact)
+Your windows are from 2020 and in good condition, so replacing them with triple glazing would be **cost-ineffective** (the ROI would be too low). Instead, focus on the "external skin."
+
+*   **Action:** Install high-quality **external solar shading** (e.g., adjustable shutters or screens).
+*   **Detail:** Focus on south- and west-facing windows to prevent overheating in the summer.
+*   **Why:** Reducing solar gain in summer prevents the need for active cooling (which is energy-intensive), maintaining a stable internal temperature and improving overall energy performance.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Focus Area | Action | Cost | Impact on EPC/Efficiency |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof** | Upgrade pitched roof insulation | Moderate | High |
+| **2** | **Envelope** | Blower door test $\rightarrow$ Sealing | Low | Moderate |
+| **3** | **Systems** | Smart Energy Management/Load Shifting | Low/Med | Moderate (Operational) |
+| **4** | **Windows** | External solar shading | Moderate | Low/Moderate |
+
+**Final Expert Tip:** Because your house is already highly efficient, avoid "over-insulating" without checking your ventilation rates. Your Ventilation System D is your lungs; ensure that as you make the house tighter, the system is balanced correctly to avoid humidity buildup.

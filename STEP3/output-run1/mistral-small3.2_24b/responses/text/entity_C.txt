@@ -1,0 +1,50 @@
+Given the information about your house in Ghent, Belgium, here's a step-by-step renovation plan focused on improving energy efficiency while remaining cost-effective. The plan prioritizes upgrades that offer the best return on investment and long-term energy savings.
+
+### 1. **Upgrade the Heating System**
+   - **Action**: Replace the existing boiler and electric convectors with a **high-efficiency heat pump** (e.g., air-source heat pump). Given that underfloor heating is already in place, a heat pump can be integrated with it for better efficiency.
+   - **Why**: Heat pumps are more energy-efficient than boilers, especially when combined with underfloor heating. This will significantly improve the energy performance certificate (EPC) score.
+   - **Cost-Effectiveness**: Although the upfront cost is higher, the long-term energy savings and potential subsidies in Belgium make this a worthwhile investment.
+
+### 2. **Improve Roof Insulation**
+   - **Action**: Add additional insulation to the **main pitched roof**, which currently has a moderate level of insulation. Consider using materials like mineral wool or rigid foam insulation.
+   - **Why**: Roofs are a major source of heat loss, and improving insulation here will have a significant impact on energy efficiency.
+   - **Cost-Effectiveness**: Roof insulation is relatively straightforward and offers a good return on investment in terms of energy savings.
+
+### 3. **Optimize Ventilation System**
+   - **Action**: Upgrade the existing ventilation system (D) to a **heat recovery ventilation (HRV) system** if not already installed. Ensure it is properly maintained and balanced.
+   - **Why**: HRV systems reduce heat loss by recovering warmth from exhausted air, improving overall energy efficiency.
+   - **Cost-Effectiveness**: While HRV systems have an upfront cost, they significantly reduce heating costs over time.
+
+### 4. **Seal Air Leakages**
+   - **Action**: Conduct an **air tightness test** to identify and seal any air leakages around windows, doors, and other openings. Use weatherstripping, caulking, or sealant as needed.
+   - **Why**: Air leakages can account for a significant portion of heat loss, and sealing them is a low-cost way to improve efficiency.
+   - **Cost-Effectiveness**: This is a relatively inexpensive upgrade with immediate benefits.
+
+### 5. **Consider Smart Thermostat**
+   - **Action**: Install a **programmable or smart thermostat** to better control the heating system.
+   - **Why**: Smart thermostats can optimize heating schedules, reducing energy waste and improving comfort.
+   - **Cost-Effectiveness**: The cost is low, and the energy savings can be substantial.
+
+### 6. **Evaluate Photovoltaic (PV) System Expansion**
+   - **Action**: Assess the potential to **expand the existing PV system** or add a **battery storage system** to store excess energy.
+   - **Why**: This can further reduce reliance on grid electricity and improve the EPC score.
+   - **Cost-Effectiveness**: Depending on available subsidies and energy prices, this can be a cost-effective long-term investment.
+
+### 7. **Maintain and Optimize Existing Insulation**
+   - **Action**: Ensure that the well-insulated areas (exterior walls, flat-roof extension, and floor above the basement) are maintained and not compromised by any renovations.
+   - **Why**: These areas are already performing well, so focus on maintaining their efficiency.
+
+### 8. **Monitor and Review**
+   - **Action**: After implementing the upgrades, monitor the energy consumption and EPC score to identify further areas for improvement.
+   - **Why**: Continuous monitoring ensures that the renovations are having the desired impact and helps prioritize future upgrades.
+
+### Summary of Prioritized Steps:
+1. Upgrade to a high-efficiency heat pump.
+2. Add insulation to the main pitched roof.
+3. Upgrade to a heat recovery ventilation (HRV) system.
+4. Seal air leakages.
+5. Install a smart thermostat.
+6. Evaluate PV system expansion or battery storage.
+7. Maintain existing insulation.
+
+This plan focuses on practical, high-impact upgrades that will significantly improve the energy efficiency of your home while being cost-effective in the long run.

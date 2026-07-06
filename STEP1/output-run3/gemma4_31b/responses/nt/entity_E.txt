@@ -1,0 +1,59 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. The strategy follows the **"Envelope-First"** principle: reducing energy demand through insulation and glazing before upgrading the heating and energy generation systems to ensure the new systems are sized correctly and operate at maximum efficiency.
+
+### Building Analysis Summary
+*   **Current State:** A detached building (1862) with a good EPC score (165), but significant efficiency gaps.
+*   **Critical Weaknesses:** All exterior walls (Front, Rear, Left, Right) are **uninsulated cavity walls**, and all windows utilize **single glazing**, which are the primary sources of heat loss.
+*   **Strengths:** The roof is already well-insulated, and the window frames are in good condition.
+*   **Constraints:** Geothermal energy is not viable (no potential for vertical or horizontal drilling).
+
+---
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Low-Hanging Fruit)
+*Focus: Stop heat leakage using the most cost-effective methods.*
+
+1.  **Insulate Cavity Walls (`InsulateWallCavity`):** 
+    *   **Action:** Inject insulation into the cavity walls of all four facades.
+    *   **Reasoning:** This is the most cost-effective upgrade (Unit Price: 22/m²) and provides immediate reductions in heating demand. Since there is no historical protection, this is a practical first step.
+2.  **Insulate Floor Above Crawl Space (`InsulateFloorAboveBasement`):** 
+    *   **Action:** Add insulation to the floor above the crawl space.
+    *   **Reasoning:** Prevents cold air from entering the living spaces from below, improving thermal comfort and EPC.
+
+#### Phase 2: Glazing Upgrade
+*Focus: Improving the thermal barrier of the windows without replacing the entire structure.*
+
+3.  **Replace Glazing (`ReplaceGlazing`):** 
+    *   **Action:** Upgrade single glazing to double or triple glazing.
+    *   **Reasoning:** The existing wooden frames are in "Good State," making it more cost-effective to replace only the glass rather than the entire window unit (`ReplaceWindows`). This significantly reduces drafts and heat loss.
+
+#### Phase 3: System Modernization
+*Focus: Transitioning to high-efficiency, low-carbon heating and ventilation.*
+
+4.  **Install Air-Water Heat Pump (`PlaceAirWaterHeatpump`):** 
+    *   **Action:** Replace the existing boiler with an air-to-water heat pump.
+    *   **Reasoning:** Since geothermal is not possible, an air-water heat pump is the most efficient alternative. Because the envelope was optimized in Phases 1 and 2, the heat pump can be smaller and more efficient.
+5.  **Upgrade Ventilation System (`ReplaceVentilationSystem`):** 
+    *   **Action:** Upgrade from Ventilation System A (natural supply) to a more controlled system (e.g., System B or D).
+    *   **Reasoning:** As the house becomes more airtight through insulation and new glazing, mechanical ventilation is necessary to ensure indoor air quality and prevent condensation.
+
+#### Phase 4: Renewable Energy Integration
+*Focus: Offsetting the electricity demand of the new heat pump.*
+
+6.  **Install Rooftop PV Panels (`PlacePVPanelsOnRoof`):** 
+    *   **Action:** Install solar panels on the roof.
+    *   **Reasoning:** The building has confirmed PV potential. Generating electricity on-site will lower the operational costs of the heat pump and the overall energy bill, maximizing the long-term cost-effectiveness of the renovation.
+
+---
+
+### Summary of Optimal Sequence & Benefits
+
+| Sequence | Intervention | Primary Benefit | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | Cavity Wall & Floor Insulation | $\downarrow$ Heat Loss | Very High (Low cost/sqm) |
+| **2** | Glazing Upgrade | $\downarrow$ Drafts/Heat Loss | High (Frames reused) |
+| **3** | Air-Water Heat Pump | $\downarrow$ Carbon/Energy Cost | Medium (High CapEx, Low OpEx) |
+| **4** | Ventilation Upgrade | $\uparrow$ Air Quality/Health | Medium |
+| **5** | PV Panels | $\downarrow$ Electricity Bill | High (Long-term ROI) |
+
+**Final Outcome:** This path transforms an 1862 structure into a modern, energy-efficient home by systematically reducing demand before introducing high-efficiency technology, ensuring the owner achieves their goal of improving the EPC label while minimizing wasted investment.

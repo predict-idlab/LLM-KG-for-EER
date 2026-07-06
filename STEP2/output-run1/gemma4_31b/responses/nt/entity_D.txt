@@ -1,0 +1,39 @@
+Based on the provided building data and the RENO ontology, the property is already highly energy-efficient, as evidenced by its excellent **EPC score of 87** (A-label territory) and the fact that most walls and floors are already "Well Insulated." 
+
+Since the owner's motivation is **to improve the EPC**, the focus must shift from major structural overhauls to "fine-tuning" the remaining thermal bridges and optimizing the existing heat pump system.
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the following sequence is recommended:
+
+#### 1. Thermal Envelope Optimization (Highest Priority)
+The only significant gap in the building's insulation is the main gable roof, which is currently only "Moderately Insulated."
+*   **Action:** **Insulate Gable Roof**.
+*   **Reasoning:** Improving the roof from "moderate" to "well insulated" is the most impactful way to reduce heat loss in a building where walls and floors are already optimized.
+*   **Optimal Sequence:** This should be done first to reduce the overall heating load before adjusting the emission system.
+
+#### 2. Glazing Upgrade (Secondary Priority)
+The bedrooms and living areas currently use double glazing. While efficient, this is the next logical step for an A-label target.
+*   **Action:** **Replace Glazing** (Upgrade from Double to Triple Glazing).
+*   **Reasoning:** Triple glazing further reduces U-values and improves thermal comfort, pushing the EPC score even lower.
+*   **Cost-Effectiveness Note:** Since the window frames are wooden and in "Good State," replacing only the glazing (rather than the entire window unit) is the most cost-effective approach.
+
+#### 3. System Efficiency Tuning (Final Step)
+The building already utilizes a Heat Pump, which is highly efficient. To maximize its performance, the delivery of heat must be optimized.
+*   **Action:** **Place Emission System on Low Temperature**.
+*   **Reasoning:** Heat pumps operate with significantly higher Coefficients of Performance (COP) when delivering heat at lower temperatures. Ensuring the emission system is optimized for low-temperature delivery maximizes the operational efficiency of the existing generation system.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Renovation Action | Target Element | Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | Eliminates the primary source of heat loss. |
+| **2** | **Replace Glazing** | Windows | Further reduces thermal transmission. |
+| **3** | **Low Temp Emission** | Emission System | Maximizes the efficiency of the Heat Pump. |
+
+**Excluded Actions:** 
+*   **PV Panels/Geothermal:** Explicitly excluded as the building data indicates no potential for PV on the roof and no potential for vertical or horizontal geothermal drilling.
+*   **Wall/Floor Insulation:** Not required as these are already "Well Insulated."
+*   **Ventilation:** Not required as the building already has a high-efficiency System D.

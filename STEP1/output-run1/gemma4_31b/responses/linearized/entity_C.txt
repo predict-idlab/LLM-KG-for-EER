@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, the property is a very modern **Attached Building (constructed in 2023)** with an already impressive **EPC score of 50**. Most elements (walls, floors, and the flat roof extension) are already "Well Insulated."
+
+To maximize energy efficiency while remaining cost-effective, the renovation should target the few remaining "moderate" performance areas and transition the energy generation system away from boilers/electric convectors.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Low-Hanging Fruit)
+Before upgrading heating systems, we must minimize heat loss to ensure the new system is sized correctly and operates at peak efficiency.
+*   **Target:** **RoofMain (Gable Roof)**.
+*   **Action:** **Insulate Gable Roof**.
+*   **Reasoning:** While the rest of the house is "Well Insulated," the main gable roof is only **"Moderately Insulated."** Since heat rises, this is the most significant point of thermal leakage in the building.
+*   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### Phase 2: Energy Generation Upgrade (Operational Performance)
+The building currently relies on a boiler and electric convectors. To improve the EPC and reduce operational costs, a shift to renewable electricity-based heating is required.
+*   **Target:** **Generation_System (Boiler) $\rightarrow$ Heat Pump**.
+*   **Action:** **Install an Air-Water Heat Pump**.
+*   **Reasoning:** 
+    *   **Geothermal is not viable:** The site data explicitly states that potential for both vertical and horizontal geothermal captation is **false**.
+    *   **Heat Grid is unavailable:** `presenceOfHeatGrid` is **false**.
+    *   **Compatibility:** The building already has **Floor Heating**, which is a low-temperature emission system. Air-Water Heat Pumps are significantly more efficient when paired with floor heating than with radiators or convectors.
+*   **Sequence:** This is performed *after* the roof insulation to ensure the heat pump is not oversized.
+
+#### Phase 3: High-Efficiency Finishing (Optional/Long-Term)
+Given the 2023 construction and existing double glazing, the marginal gain here is lower, but it completes the "maximum efficiency" goal.
+*   **Target:** **Windows (Bedrooms and Living Area)**.
+*   **Action:** **Replace Glazing with Triple Glazing**.
+*   **Reasoning:** The current windows have wooden frames in "Good State" and double glazing. Replacing only the glass (glazing) rather than the entire window frame is a cost-effective way to further reduce U-values and improve acoustic comfort.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Intervention | Target Element | Efficiency Gain | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | High | Very High |
+| **2** | **Air-Water Heat Pump** | Generation System | Very High | High (Long-term ROI) |
+| **3** | **Triple Glazing** | Window Glazing | Moderate | Moderate |
+
+**Final Analysis:** 
+Because the building is nearly new (2023), it does not require structural repairs or asbestos removal. The path to a near-zero energy building is streamlined: **Seal the roof $\rightarrow$ Electrify the heat source $\rightarrow$ Upgrade the glass.** This sequence ensures that the most expensive investment (the heat pump) is supported by the most efficient thermal envelope possible.

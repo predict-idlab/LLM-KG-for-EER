@@ -1,0 +1,70 @@
+### Renovation Plan for the Building
+
+#### **1. Replace the Windows (Priority: High)**
+- **Intervention**: Replace the glazing of the windows in the living area and bedrooms.
+- **Recommendation**: `https://w3id.org/reno#ReplaceGlazing`
+- **Details**:
+  - Replace single-glazing with double-glazing to improve insulation.
+  - Ensure the frames are in good condition to fit new glazing.
+  - The intervention is part of the renovation that took place in 2020.
+- **Cost Estimate**:
+  - Cost per m²: €200
+  - Total cost: To be calculated based on the surface area of the windows.
+
+#### **2. Insulate the Roof (Priority: Medium)**
+- **Intervention**: Insulate the flat roof (extension).
+- **Recommendation**: `https://w3id.org/reno#InsulateFlatRoof`
+- **Details**:
+  - Opt for an inverted roof structure to place the insulation on top of the roof covering.
+  - Ensure proper condensation control with a vapor barrier.
+- **Cost Estimate**:
+  - Cost per m²: €50
+  - Total cost: To be calculated based on the surface area of the roof.
+
+#### **3. Upgrade the Ventilation System (Priority: Medium)**
+- **Intervention**: Replace the ventilation system.
+- **Recommendation**: `https://w3id.org/reno#ReplaceVentilationSystem`
+- **Details**:
+  - Replace the existing ventilation system D with a more efficient system.
+  - Ensure proper ductwork installation for both supply and return.
+- **Cost Estimate**:
+  - Fixed cost: €3500
+  - Cost per m²: €17
+  - Total cost: To be calculated based on the floor area.
+
+#### **4. Insulate Walls (Priority: Medium)**
+- **Intervention**: Insulate the walls (front, rear, and left).
+- **Recommendation**: `https://w3id.org/reno#InsulateWallExterior`
+- **Details**:
+  - Apply exterior insulation to improve thermal performance.
+  - Ensure compatibility with the building line and council guidelines.
+- **Cost Estimate**:
+  - Cost per m²: €200
+  - Total cost: To be calculated based on the surface area of the walls.
+
+#### **5. Consider Renewable Energy Options (Priority: Low)**
+- **Intervention**: Assess the potential for renewable energy systems.
+- **Recommendation**: `https://w3id.org/reno#PlacePVPanelsOnRoof`
+- **Details**:
+  - Check the suitability of the roof for PV panel installation.
+  - Ensure compliance with local regulations regarding PV panel installation.
+- **Cost Estimate**:
+  - Cost per m²: €275
+  - Total cost: To be calculated based on the surface area of the roof.
+
+### **Summary of Actions**
+| **Action**                     | **Priority** | **Recommendation**                     | **Estimated Cost** |
+|-------------------------------|------------|----------------------------------------|------------------|
+| Replace Windows                | High       | `https://w3id.org/reno#ReplaceGlazing` | To be calculated   |
+| Insulate Roof                 | Medium     | `https://w3id.org/reno#InsulateFlatRoof` | To be calculated   |
+| Upgrade Ventilation System     | Medium     | `https://w3id.org/reno#ReplaceVentilationSystem` | To be calculated   |
+| Insulate Walls                | Medium     | `https://w3id.org/reno#InsulateWallExterior` | To be calculated   |
+| Assess Renewable Energy Options | Low        | `https://w3id.org/reno#PlacePVPanelsOnRoof` | To be calculated   |
+
+### **Next Steps**
+1. **Calculate Surface Areas**: Determine the exact surface areas of the windows, roof, walls, and any other elements to be renovated for accurate cost estimation.
+2. **Consult Professionals**: Engage with architects, contractors, or energy experts to ensure compliance with local regulations and guidelines.
+3. **Obtain Permits**: Check if any permits are required for the proposed interventions, especially for exterior wall insulation and roof insulation.
+4. **Implement the Plan**: Execute the interventions in the recommended order to maximize energy efficiency and cost-effectiveness.
+
+By following this plan, the building's energy efficiency will be significantly improved, leading to reduced energy consumption and potentially lower energy costs.

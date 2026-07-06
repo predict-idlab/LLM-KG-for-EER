@@ -1,0 +1,52 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### 1. **Insulate the Roof Extension**
+   - **Reasoning**: The roof extension is currently not insulated (`https://w3id.org/reno#NotInsulated`), and it is in good condition (`https://w3id.org/reno#GoodState`). Insulating it will significantly improve thermal comfort and reduce energy consumption.
+   - **Action**: Replace the roof extension with a well-insulated flat roof.
+   - **Estimated Cost**: Based on the ontology, the cost for replacing a flat roof is €120 per m². Assuming an area of 20 m², the estimated cost is €2,400.
+
+#### 2. **Insulate the Gable Roof**
+   - **Reasoning**: The main gable roof is moderately insulated (`https://w3id.org/reno#ModeratelyInsulated`). Improving the insulation will further enhance energy efficiency.
+   - **Action**: Insulate the gable roof with additional insulation material.
+   - **Estimated Cost**: The cost for insulating a gable roof is €60 per m². Assuming an area of 40 m², the estimated cost is €2,400.
+
+#### 3. **Replace Windows in Bedrooms and Living Area**
+   - **Reasoning**: The windows in both the bedrooms and living area have wooden frames and double glazing. Replacing them with more energy-efficient windows (e.g., triple glazing) will improve thermal performance.
+   - **Action**: Replace the windows with energy-efficient triple-glazed windows.
+   - **Estimated Cost**: The cost for replacing windows is €800 per m². Assuming an area of 10 m², the estimated cost is €8,000.
+
+#### 4. **Insulate the Floor Above Basement**
+   - **Reasoning**: The floor above the basement is not insulated (`https://w3id.org/reno#NotInsulated`). Insulating it will reduce heat loss and improve overall energy efficiency.
+   - **Action**: Insulate the floor above the basement with appropriate insulation material.
+   - **Estimated Cost**: The cost for insulating a floor above basement is €30 per m². Assuming an area of 20 m², the estimated cost is €600.
+
+#### 5. **Upgrade the Emission System**
+   - **Reasoning**: The current emission system is a radiator. Upgrading to a more efficient system, such as a heat pump, will reduce energy consumption and improve thermal comfort.
+   - **Action**: Replace the radiator with a heat pump boiler.
+   - **Estimated Cost**: The cost for placing a heat pump boiler is €4,000.
+
+#### 6. **Improve the Ventilation System**
+   - **Reasoning**: The current ventilation system is type A, which is the most basic type. Upgrading to a more advanced system (e.g., type C) will improve air quality and energy efficiency.
+   - **Action**: Replace the ventilation system with a more advanced type (e.g., type C).
+   - **Estimated Cost**: The cost for replacing the ventilation system is €3,500.
+
+#### 7. **Place PV Panels on the Roof**
+   - **Reasoning**: The building has potential for PV panels (`https://w3id.org/reno#hasPotentialForPV` set to true). Installing PV panels will generate renewable energy and reduce electricity costs.
+   - **Action**: Install PV panels on the roof.
+   - **Estimated Cost**: The cost for placing PV panels on the roof is €275 per m². Assuming an area of 20 m², the estimated cost is €5,500.
+
+### Summary of Recommendations
+1. **Replace the Roof Extension with a Well-Insulated Flat Roof** (€2,400)
+2. **Insulate the Gable Roof** (€2,400)
+3. **Replace Windows with Energy-Efficient Triple-Glazed Windows** (€8,000)
+4. **Insulate the Floor Above Basement** (€600)
+5. **Upgrade the Emission System to a Heat Pump Boiler** (€4,000)
+6. **Replace the Ventilation System with a More Advanced Type** (€3,500)
+7. **Install PV Panels on the Roof** (€5,500)
+
+### Total Estimated Cost: €26,400
+
+### Notes:
+- The estimated costs are based on the provided ontology and assumptions about the areas involved. Actual costs may vary.
+- The proposed actions are prioritized based on energy efficiency and cost-effectiveness.
+- The renovation plan aligns with the owner's motivation to improve the EPC value of the dwelling.

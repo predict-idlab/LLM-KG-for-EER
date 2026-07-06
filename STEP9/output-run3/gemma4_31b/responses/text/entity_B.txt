@@ -1,0 +1,50 @@
+To improve an EPC score of 262 in a 19th-century Belgian home, the strategy must follow the **"Fabric First"** principle: reduce the energy demand of the building before upgrading the heating systems. Installing a new boiler or heat pump in an uninsulated house is a waste of capital.
+
+Given the house is in Ghent and not historically protected, you have significant flexibility. Here is the optimal, cost-effective renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leakage)
+*Goal: Reduce heat loss to the minimum so that the subsequent heating system can be smaller and cheaper to run.*
+
+1.  **Flat Roof Insulation (High Priority):** The flat-roof extension is currently a "thermal hole." Insulate this from the top (inverted roof system) to prevent heat from escaping.
+2.  **Basement Ceiling/Floor Insulation:** The floor above the basement is a major source of cold drafts. Install rigid insulation boards (e.g., XPS or PIR) or spray foam on the basement ceiling. This is one of the most cost-effective ways to improve comfort.
+3.  **Wall Insulation:** Solid brick walls from 1832 have poor thermal resistance. 
+    *   **Preferred:** External Wall Insulation (EWI) if the facade allows. It is the most efficient and prevents condensation.
+    *   **Alternative:** Internal insulation using bio-based materials (e.g., wood fiber or hemp) to avoid moisture buildup and mold, which is common in old Belgian bricks.
+4.  **Pitched Roof Top-up:** Since it has "moderate" insulation, add a layer of mineral wool or cellulose in the attic space to reach modern standards (R-value $\geq$ 4.5).
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Prevent humidity and mold once the house is "sealed" and ensure a healthy indoor climate.*
+
+5.  **Mechanical Ventilation (VMC):** Natural ventilation is insufficient for a renovated home. Install a **Balanced Ventilation system with Heat Recovery (HRV)**. This captures heat from outgoing stale air to warm the incoming fresh air, drastically reducing the load on your heating system.
+
+### Phase 3: Heating System Modernization
+*Goal: Replace failing equipment with a high-efficiency, low-carbon alternative.*
+
+6.  **Heat Emission Upgrade:** Since your radiators are in poor condition, replace them. 
+    *   **Option A (High Budget):** Underfloor heating (if you are already renovating the floors). This allows for the lowest possible water temperature.
+    *   **Option B (Cost-Effective):** Low-temperature radiators (oversized radiators) that work efficiently with heat pumps.
+7.  **Heat Pump Installation:** Replace the old boiler with an **Air-to-Water Heat Pump**. Because you have already insulated the walls, roof, and floor, the heat pump will be significantly smaller, cheaper to install, and more efficient.
+
+### Phase 4: Renewable Energy & Final Touches
+*Goal: Offset operational costs and reach a high EPC grade.*
+
+8.  **Photovoltaic (PV) Panels:** Install solar panels on the pitched roof. This is the final step to minimize your monthly energy bills and can potentially move your EPC score into the A or B category.
+9.  **Window Optimization:** Your windows are in good condition, so do not replace them. Instead, ensure the **seals (weatherstripping)** are replaced to eliminate drafts.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Order | Action | Why? | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Flat Roof & Basement Floor** | Stops the fastest heat loss. | Very High |
+| **2** | **Wall Insulation** | Addresses the largest surface area of loss. | Medium |
+| **3** | **Ventilation (HRV)** | Essential for health in a sealed house. | Medium |
+| **4** | **Low-Temp Radiators** | Prepares the house for a heat pump. | Medium |
+| **5** | **Air-to-Water Heat Pump** | Switches to sustainable energy. | High (Long-term) |
+| **6** | **PV Panels** | Offsets the electricity cost of the pump. | High (ROI) |
+
+### Expert Tip for Ghent/Flanders:
+Before starting, apply for the **"Mijn VerbouwPremie"** (My Renovation Premium). The Flemish government provides significant subsidies for these specific steps, particularly for wall insulation, heat pumps, and ventilation. Ensure you hire an EPC-certified contractor to document the "before" and "after" to maximize your financial returns.

@@ -1,0 +1,43 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation plan.
+
+### Building Analysis
+The building is a relatively modern semi-detached house (constructed in 2017) with an excellent existing energy profile. With an **EPC energy score of 87**, it already falls within the **A label** category (0-100 kWh/m²year). Most structural elements—including the walls, flat roof, and floor above the basement—are already "Well Insulated." The ventilation system (Type D) and heating (Heat Pump) are already high-efficiency installations.
+
+Since the owner's motivation is **To Improve EPC**, the focus must shift from major structural overhauls to "fine-tuning" the remaining moderately efficient elements.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, I propose the following sequence of interventions, ordered by their logical dependency and the ontology's priority ranking.
+
+#### 1. Thermal Envelope Optimization: Gable Roof
+*   **Action:** `insulate gable roof`
+*   **Justification:** While other areas are "Well Insulated," the main gable roof is only **"Moderately Insulated."** This is the single largest opportunity to reduce thermal bridging and heat loss.
+*   **Cost-Effectiveness:** At **€60/m²**, this is a low-cost intervention with a high impact on the overall energy score.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### 2. Glazing Upgrade
+*   **Action:** `replace glazing`
+*   **Justification:** The building currently uses double glazing. Upgrading to triple glazing will further lower the U-value of the windows. 
+*   **Cost-Effectiveness:** Because the existing wooden window frames are in **"Good State"** (Value: 8), it is significantly more cost-effective to replace only the glazing (**€200/m²**) rather than replacing the entire window unit (**€800/m²**).
+*   **Point of Attention:** Verify that the existing wooden frames have the necessary thickness to support heavier triple-pane glass.
+
+#### 3. Operational Efficiency: Solar Protection
+*   **Action:** `place sunshade`
+*   **Justification:** To prevent overheating during summer months and reduce the energy load on the cooling system, external sunshades should be installed.
+*   **Cost-Effectiveness:** This is a low-cost fixed investment (**€750**) that improves long-term operational performance and thermal comfort.
+*   **Point of Attention:** Prioritize outdoor blinds over indoor blinds for maximum efficiency.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Action | Target Element | Priority (Ontology Order) | Estimated Cost |
+| :--- | :--- | :--- | :--- | :--- |
+| **Step 1** | **Insulate Gable Roof** | Main Roof | 28 | €60 / m² |
+| **Step 2** | **Replace Glazing** | Bedroom/Living Windows | 43 | €200 / m² |
+| **Step 3** | **Place Sunshade** | Windows/Facades | 79 | €750 (Fixed) |
+
+### Final Expert Recommendation
+Given that the building is already highly efficient (EPC 87), the marginal gains from these renovations will be smaller than in an older home. However, focusing on the **Gable Roof** and **Glazing** is the most direct path to pushing the EPC score even lower toward a "perfect" A+ rating, while the **Sunshades** ensure the home remains energy-efficient during the summer. No further interventions (such as geothermal or wall insulation) are recommended as they would provide negligible returns on investment for this specific property.

@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached building (constructed in 2017) that is already performing at a very high level of energy efficiency, with an **EPC score of 87 (A Label)**. 
+
+The building already possesses several high-efficiency features: a heat pump, a Type D ventilation system (the most advanced mechanical system), double glazing, and solar PV panels. Because the building is already in the "A" category, the focus shifts from drastic overhaul to **marginal gains and optimization** to push the building toward an "A+" rating.
+
+### Proposed Renovation Path
+
+Since the "Fabric First" principle is already largely implemented, the remaining steps are targeted at the few remaining thermal weak points.
+
+#### Phase 1: Thermal Envelope Refinement (Priority: Low-Medium)
+The building is almost entirely well-insulated, with one exception.
+1. **Insulate Gable Roof:** The `RoofMain` (Gable Roof) is currently "Moderately Insulated," whereas the flat roof and walls are "Well Insulated." Upgrading the gable roof insulation to a "Well Insulated" grade is the most logical step to eliminate the primary remaining source of conductive heat loss.
+
+#### Phase 2: Glazing Upgrade (Priority: Low)
+While the windows were updated in 2020 to double glazing and the wooden frames are in a good state, there is still room for improvement.
+2. **Replace Glazing (Double $\rightarrow$ Triple):** To further lower the EPC score and increase thermal comfort during winter, replacing the current double glazing with **triple glazing** would be the next step. Since the frames are in a "Good State" (Value 8), it may be cost-effective to replace only the glass units rather than the entire window assembly.
+
+#### Phase 3: System Optimization (Priority: Maintenance)
+The building already has a Heat Pump and a Ventilation System D. No replacement is necessary.
+3. **Performance Audit:** Instead of physical renovation, it is recommended to perform a professional tuning of the Heat Pump and Ventilation System D to ensure they are operating at peak efficiency relative to the current thermal envelope.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Gable Roof Insulation** | Addresses the only "Moderately Insulated" element in the building envelope. |
+| **2** | **Triple Glazing Upgrade** | Reduces the final remaining thermal bridges in the envelope. |
+| **3** | **System Tuning** | Ensures that the existing high-end HVAC systems are optimized for the refined envelope. |
+
+**Final Assessment:** 
+Because the building is already highly efficient, the return on investment (ROI) for these renovations will be lower than in an older home. However, to satisfy the owner's motivation to **Improve EPC**, these specific steps are the only remaining practical paths to move from an **A Label** toward an **A+ Label**.

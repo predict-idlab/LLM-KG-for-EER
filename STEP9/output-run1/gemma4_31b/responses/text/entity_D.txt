@@ -1,0 +1,54 @@
+Given that your home was built in 2017 and already features a heat pump, System D ventilation, and photovoltaic panels, you are starting from a very strong baseline. In the Belgian (Flemish) context, a house of this vintage is already relatively efficient. 
+
+The "moderate" insulation of the pitched roof is the most significant thermal weakness in your current profile. To improve your EPC score and reduce operational costs, you should focus on **marginal gains**—targeting the few remaining areas where heat is lost or energy is wasted.
+
+Here is the proposed renovation path, sequenced by cost-effectiveness and impact.
+
+---
+
+### Step 1: Thermal Envelope Optimization (The Priority)
+Since the walls, floor, and flat roof are already well-insulated, the **pitched roof** is your primary target. Heat rises, and "moderate" insulation is the most likely cause of energy leakage.
+
+*   **Action:** Upgrade the insulation of the main pitched roof.
+*   **Method:** Depending on the construction, add a layer of high-performance mineral wool or cellulose insulation in the attic space or via injection if it is a cavity.
+*   **Goal:** Bring the roof insulation level up to the "well-insulated" standard of the rest of the house.
+*   **Why first?** This is the most cost-effective way to lower your heat pump's workload and directly improve the EPC score.
+
+### Step 2: Energy Management & Solar Optimization
+You already have the hardware (PV panels and a heat pump). The next step is not adding more hardware, but optimizing the **interaction** between them to maximize self-consumption.
+
+*   **Action:** Implement a Smart Energy Management System (HEMS).
+*   **Method:** 
+    *   Install a smart controller to synchronize your heat pump's operation with your PV production (shifting the heating load to peak sunlight hours).
+    *   Evaluate the addition of a home battery system if your current self-consumption rate is low.
+*   **Goal:** Reduce reliance on the grid and lower the operational cost of the heat pump.
+*   **Why second?** It leverages existing investments to reduce monthly bills without requiring structural work.
+
+### Step 3: Glazing & Solar Gain Control
+Your windows were renewed in 2020 with double glazing. Replacing these with triple glazing now would **not** be cost-effective, as the ROI would be too low. Instead, focus on the *performance* of the existing glass.
+
+*   **Action:** Install external solar shading (e.g., adjustable shutters or screens).
+*   **Method:** Install high-quality external blinds or "screens" on south- and west-facing windows.
+*   **Goal:** Prevent overheating during the summer. Since you have a heat pump, preventing heat gain is significantly cheaper than using energy to cool the house.
+*   **Why third?** It improves comfort and prevents "energy spikes" during summer months.
+
+### Step 4: Final "Fine-Tuning" Audit
+Because the house is modern (2017), large-scale failures are unlikely, but small "thermal bridges" may exist.
+
+*   **Action:** Perform a targeted thermographic scan (infrared camera).
+*   **Method:** A professional scan during winter to identify specific cold spots (e.g., around window frames or roof junctions).
+*   **Goal:** Identify and seal any remaining air leaks or insulation gaps.
+*   **Why last?** This is a "polishing" step to ensure the house performs as designed.
+
+---
+
+### Summary of the Renovation Path
+
+| Priority | Intervention | Focus Area | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof Insulation** | Pitched Roof | High | Very High |
+| **2** | **Smart Management** | PV $\rightarrow$ Heat Pump | Low/Medium | High |
+| **3** | **External Shading** | Windows | Medium (Summer) | Medium |
+| **4** | **Thermal Audit** | Airtightness | Low | Medium |
+
+**Expert Tip for Ghent/Flanders:** Check the current **Flemish Energy Premiums (Energiepremie)**. Even for newer homes, there are often subsidies available for improving insulation or installing smart energy management systems that can significantly lower your upfront costs.

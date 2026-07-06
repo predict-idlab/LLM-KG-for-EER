@@ -1,0 +1,46 @@
+### Analysis of Building State
+The building is a very modern **Attached Building** (constructed in 2023) with an already excellent energy profile (EPC score of 50, which corresponds to an **A label**). Most building elements are already optimized:
+*   **Walls & Floors:** Both the front/rear walls and the floor above the basement are "Well Insulated."
+*   **Windows:** Equipped with double glazing and wooden frames in good condition.
+*   **Ventilation:** Already uses a high-efficiency Ventilation System D.
+*   **Roof:** The flat roof extension is well-insulated, but the **main gable roof is only "Moderately Insulated."**
+*   **Heating:** The building currently uses electric convectors and floor heating, and there is an explicit flag indicating a **reason to change the emission system**.
+
+**Constraints identified:**
+*   No potential for PV panels, vertical geothermal drilling, or horizontal geothermal captation.
+*   No heat grid available in the area.
+
+---
+
+### Proposed Renovation Path
+To maximize energy efficiency while remaining cost-effective, the strategy follows the "Fabric First" principle: improve the building envelope before upgrading the technical installations.
+
+#### Step 1: Thermal Envelope Optimization
+**Action: Insulate Gable Roof**
+*   **Reasoning:** This is the only significant thermal weak point in the building. Moving the gable roof from "Moderately Insulated" to "Well Insulated" will reduce heat loss through the top of the house.
+*   **Ordering:** 28 (High priority).
+*   **Practical Tip:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### Step 2: Generation System Upgrade
+**Action: Place Air-Water Heat Pump**
+*   **Reasoning:** The building currently relies on electric convectors, which are inefficient. Since the building already has floor heating (a low-temperature system) and the owner has a reason to change the emission system, an air-water heat pump is the most cost-effective and efficient upgrade.
+*   **Ordering:** 67.
+*   **Benefit:** Significantly lowers the energy consumption required for space heating compared to electric resistance heating.
+
+#### Step 3: Emission System Fine-Tuning
+**Action: Place emission system on low temperature**
+*   **Reasoning:** To maximize the Coefficient of Performance (COP) of the newly installed air-water heat pump, the emission system should be optimized for low-temperature operation.
+*   **Ordering:** 70.
+*   **Benefit:** Further reduces electricity consumption by minimizing the temperature lift required by the heat pump.
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Renovation Action | Priority/Ordering | Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | 28 | Reduces heat loss; stabilizes indoor temperature. |
+| **2** | **Place Air-Water Heat Pump** | 67 | Replaces inefficient electric heating with sustainable tech. |
+| **3** | **Low-Temperature Emission Setup** | 70 | Optimizes the heat pump for maximum operational efficiency. |
+
+**Final Conclusion:** Because the building is nearly new and already highly efficient, this targeted path avoids unnecessary costs (like replacing windows or wall insulation) and focuses exclusively on the remaining gap in the thermal envelope and the inefficiency of the current heating generation.

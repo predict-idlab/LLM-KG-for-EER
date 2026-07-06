@@ -1,0 +1,76 @@
+### Renovation Plan for the Provided Building
+
+#### Building Overview:
+- **Type:** Attached building
+- **Construction Year:** 1832
+- **Current EPC Score:** 262.0 (C Label)
+- **Current Issues:**
+  - Non-insulated elements: Floor above basement, flat roof, walls (front and rear)
+  - Moderately insulated gable roof
+  - Double-glazed windows in good condition
+  - Ventilation system type A (natural)
+  - Radiator emission system
+  - No heat grid available
+  - Potential for PV panels
+
+#### Renovation Goals:
+1. **Improve EPC Label:** Primary motivation.
+2. **Maximize Energy Efficiency:** Reduce heat loss and improve thermal comfort.
+3. **Cost-Effectiveness:** Prioritize high-return investments.
+
+#### Proposed Renovation Path:
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+1. **Insulate Walls on Exterior:**
+   - **Action:** Insulate `Wall_Front` and `Wall_Rear` on the exterior.
+   - **Rationale:** Both walls are full brick and not insulated. Exterior insulation is more effective for non-cavity walls and eliminates thermal bridges.
+   - **Expected Impact:** Significant reduction in heat loss through walls.
+
+2. **Insulate Flat Roof:**
+   - **Action:** Insulate `RoofExtension` (flat roof).
+   - **Rationale:** Heat rises rapidly through flat sections, and insulation here is critical for reducing heat loss.
+   - **Expected Impact:** Improved thermal performance of the roof.
+
+3. **Insulate Floor Above Basement:**
+   - **Action:** Insulate `FloorAboveBasement`.
+   - **Rationale:** Prevents cold drafts from the basement and improves overall thermal comfort.
+   - **Expected Impact:** Reduces heat loss to the basement.
+
+**Phase 2: Ventilation System Upgrade**
+4. **Replace Ventilation System:**
+   - **Action:** Upgrade from `VentilationSystemA` (natural) to a more efficient system (e.g., `VentilationSystemC` or `VentilationSystemD`).
+   - **Rationale:** Natural ventilation is inefficient and can lead to uncontrolled air leakage. A mechanical system ensures better air quality and energy efficiency.
+   - **Expected Impact:** Improved indoor air quality and reduced energy loss.
+
+**Phase 3: Heating System Transition**
+5. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Rationale:** Geothermal potential is "false" and no heat grid is available. An air-water heat pump is a sustainable and efficient alternative.
+   - **Expected Impact:** Reduced energy consumption and lower carbon footprint.
+
+6. **Place Emission System on Low Temperature:**
+   - **Action:** Transition the current radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the Coefficient of Performance (COP) of the new heat pump.
+   - **Expected Impact:** Improved efficiency of the heating system.
+
+**Phase 4: Sustainable Energy Generation**
+7. **Place PV-Panels on Roof:**
+   - **Action:** Install PV panels on the roof.
+   - **Rationale:** The building has confirmed potential for PV. Solar panels will provide renewable electricity to power the heat pump and ventilation system.
+   - **Expected Impact:** Reduced reliance on grid electricity and lower energy costs.
+
+#### Summary of Optimal Sequence:
+1. **Insulate Walls on Exterior**
+2. **Insulate Flat Roof**
+3. **Insulate Floor Above Basement**
+4. **Replace Ventilation System**
+5. **Place Air-Water Heat Pump**
+6. **Place Emission System on Low Temperature**
+7. **Place PV-Panels on Roof**
+
+#### Additional Considerations:
+- **Historical Protection:** Ensure that any insulation or renovation work complies with historical preservation guidelines if applicable.
+- **Cost-Effectiveness:** Prioritize actions with the highest return on investment, such as insulation and ventilation upgrades.
+- **Long-Term Benefits:** The proposed sequence ensures that the building's thermal envelope is optimized before transitioning to more efficient heating and ventilation systems.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, tailored to the specific characteristics and needs of the building.

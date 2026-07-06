@@ -1,0 +1,80 @@
+Given the information about your 1832 attached house in Ghent, Belgium, here’s a step-by-step, cost-effective renovation plan to improve energy efficiency while maximizing long-term performance. The plan prioritizes upgrades that offer the best return on investment and complement each other:
+
+---
+
+### **1. Insulate the Flat-Roof Extension**
+   - **Why first?** Flat roofs are prone to heat loss, and insulating them is a straightforward, high-impact project.
+   - **Action:** Install high-performance insulation (e.g., rigid foam boards or mineral wool) with an airtight vapor barrier. Consider adding a reflective roof coating to reduce heat gain in summer.
+   - **Cost:** Moderate (depends on insulation type and thickness).
+   - **Benefit:** Immediate reduction in heat loss through the roof.
+
+---
+
+### **2. Replace the Heating System and Radiators**
+   - **Why next?** A new, efficient heating system will work better with improved insulation. Opt for a **condensing boiler** (if gas is still used) or a **heat pump** (if feasible).
+   - **Action:**
+     - Replace old radiators with low-temperature radiators or underfloor heating to work efficiently with a heat pump.
+     - If using a boiler, ensure it’s a modern, high-efficiency model.
+   - **Cost:** High (but essential for long-term savings).
+   - **Benefit:** Reduced energy consumption and improved comfort.
+
+---
+
+### **3. Insulate the Solid Brick Walls (Front and Rear)**
+   - **Why now?** Exterior wall insulation (EWI) is more disruptive but will significantly reduce heat loss. Since the house is not historically protected, this is feasible.
+   - **Action:** Install **internal wall insulation (IWI)** or **external wall insulation (EWI)**. EWI is preferable if the facade can be altered, but IWI may be more practical for attached houses.
+   - **Cost:** High (but necessary for long-term savings).
+   - **Benefit:** Dramatic improvement in thermal performance.
+
+---
+
+### **4. Insulate the Floor Above the Basement**
+   - **Why now?** Uninsulated floors contribute to heat loss. This is a relatively simple upgrade.
+   - **Action:** Use rigid insulation boards or mineral wool between joists, ensuring an airtight seal.
+   - **Cost:** Moderate.
+   - **Benefit:** Reduces drafts and heat loss through the floor.
+
+---
+
+### **5. Upgrade Ventilation to Heat Recovery Ventilation (HRV)**
+   - **Why now?** Natural ventilation is inefficient. HRV recovers heat from exhaust air, improving indoor air quality while reducing heat loss.
+   - **Action:** Install a **compact HRV system** (e.g., a single-room unit or ductless system if space is limited).
+   - **Cost:** Moderate.
+   - **Benefit:** Better air quality and energy savings.
+
+---
+
+### **6. Improve Window Performance (If Needed)**
+   - **Current status:** Double-glazed windows in good condition.
+   - **Action:** If drafts are an issue, consider **secondary glazing** (cheaper than full replacement) or upgrading to **triple-glazed windows** when the existing ones need replacement.
+   - **Cost:** Variable (secondary glazing is cheaper).
+   - **Benefit:** Further reduces heat loss through windows.
+
+---
+
+### **7. Install Photovoltaic (PV) Panels**
+   - **Why last?** PV panels generate electricity but don’t directly reduce heat loss. Prioritize insulation and heating upgrades first.
+   - **Action:** Assess roof suitability (orientation, shading) and install **high-efficiency PV panels** with a battery storage system if feasible.
+   - **Cost:** High (but long-term energy bill savings and potential feed-in tariffs).
+   - **Benefit:** Reduces reliance on grid electricity.
+
+---
+
+### **8. Optimize the Boiler or Heat Pump Performance**
+   - **Action:** If using a boiler, install **smart thermostats** and **zone control** to optimize heating. For heat pumps, ensure proper sizing and commissioning.
+   - **Cost:** Low to moderate.
+   - **Benefit:** Maximizes efficiency of the new heating system.
+
+---
+
+### **Summary of Priorities (Optimal Sequence)**
+1. Insulate the flat roof.
+2. Replace the heating system and radiators.
+3. Insulate the solid brick walls (EWI or IWI).
+4. Insulate the floor above the basement.
+5. Upgrade to HRV.
+6. Improve windows if needed.
+7. Install PV panels.
+8. Optimize heating system controls.
+
+This plan ensures that each upgrade builds on the previous one, maximizing energy savings and cost-effectiveness. Would you like more details on any specific step?

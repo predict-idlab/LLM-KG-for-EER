@@ -1,0 +1,42 @@
+Based on the provided building data and the RENO ontology, the property is an attached building dating back to 1832 with an EPC score of 262 (C Label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency and cost-effectiveness, the renovation will follow the **"Fabric First"** principle: optimizing the building envelope to reduce energy demand before upgrading the heating and generation systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The building has several critical points of heat loss. Addressing these first ensures that any future heating system is sized correctly and operates at peak efficiency.
+
+1.  **Insulate Flat Roof:** While the main gable roof is moderately insulated, the `RoofExtension` (flat roof) is currently not insulated. Since heat rises, this is a priority for reducing energy consumption.
+2.  **Insulate Walls on Exterior:** Both the `Wall_Front` and `Wall_Rear` are full brick and not insulated. As they are not cavity walls, **exterior insulation** is the most effective way to eliminate thermal bridges and significantly improve the EPC score.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. Adding insulation here prevents heat loss to the basement and improves the thermal comfort of the ground floor.
+
+#### Phase 2: High-Efficiency Heating Transition (Priority: Medium)
+With the thermal envelope sealed, the building's heat demand is significantly reduced, allowing for a transition to a sustainable, low-temperature heating system.
+
+4.  **Place Emission System on Low Temperature:** The current system uses radiators. To maximize the efficiency (COP) of a modern heat pump, the emission system should be transitioned to low-temperature settings.
+5.  **Place Air-Water Heat Pump:** Since there is no heat grid available and the site has no potential for geothermal drilling or captation, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the existing boiler.
+
+#### Phase 3: Air Quality and Ventilation (Priority: Medium)
+Improving the insulation of an 1832 building reduces natural air leakage. To prevent moisture buildup and maintain a healthy indoor climate, the ventilation must be upgraded.
+
+6.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more controlled system (such as System C or D) to ensure efficient air exchange without losing the heat gained from the new insulation.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To further lower the EPC score and offset the electricity costs of the new heat pump and ventilation system.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels is the final step to move the building toward energy independence.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces total energy demand and prevents the need for an oversized heating system. |
+| **2** | **Low-Temp Emission Upgrade** | Prepares the building to operate efficiently with a heat pump. |
+| **3** | **Air-Water Heat Pump** | Switches the energy source from fossil fuels to a sustainable electric alternative. |
+| **4** | **Ventilation Upgrade** | Maintains air quality in a now-sealed, energy-efficient envelope. |
+| **5** | **PV Panels** | Generates renewable energy to power the new electrical systems. |
+
+*Note: The windows are already double-glazed and the frames are in a "Good State," so replacing them is not recommended at this time to maintain cost-effectiveness.*

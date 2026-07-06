@@ -1,0 +1,69 @@
+### Renovation Plan for the Given Building
+
+**Objective:**
+Improve the EPC label of the building from its current value of 87 kWh/m²/year to achieve an A label (<= 100 kWh/m²/year).
+
+**Recommended Actions:**
+1. **Insulate Gable Roof (http://example.com/RoofMain)**
+   - Current State: Moderately Insulated
+   - Action: Insulate Gable Roof (https://w3id.org/reno#InsulateGableRoof)
+   - Estimated Cost: 60 €/m²
+   - Expected Energy Savings: Significant reduction in heat loss through the roof.
+   - Nuisance Level: Low
+   - Permit Needed: Not necessary (Flanders)
+   - Multi-Phase Required: No
+
+2. **Insulate Walls (http://example.com/Wall_Front, http://example.com/Wall_Left, http://example.com/Wall_Rear)**
+   - Current State: Well Insulated
+   - Action: Maintain insulation (no action needed as they are already well insulated).
+
+3. **Insulate Attic Floor (http://example.com/FloorAboveBasement)**
+   - Current State: Well Insulated
+   - Action: Maintain insulation (no action needed as it is already well insulated).
+
+4. **Replace Windows (http://example.com/WindowsLivingArea, http://example.com/WindowsBedrooms)**
+   - Current State: Double Glazing
+   - Action: Replace glazing with triple glazing (https://w3id.org/reno#ReplaceGlazing)
+   - Estimated Cost: 200 €/m²
+   - Expected Energy Savings: Significant reduction in heat loss through windows.
+   - Nuisance Level: High
+   - Permit Needed: Not necessary if the measurements are kept (Flanders)
+   - Multi-Phase Required: No
+
+5. **Replace Ventilation System (http://example.com/VentilationSystem)**
+   - Current State: Ventilation System D
+   - Action: Replace with a more efficient ventilation system (https://w3id.org/reno#ReplaceVentilationSystem)
+   - Estimated Cost: 3500 € + 17 €/m²
+   - Expected Energy Savings: Improved air quality and energy efficiency.
+   - Nuisance Level: Moderate
+   - Permit Needed: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - Multi-Phase Required: Maybe, depending on the system
+
+6. **Place PV Panels (http://example.com/PVPanels)**
+   - Current State: Not installed
+   - Action: Install PV panels on the roof (https://w3id.org/reno#PlacePVPanelsOnRoof)
+   - Estimated Cost: 275 €/m²
+   - Expected Energy Savings: Generate renewable energy to offset consumption.
+   - Nuisance Level: Low
+   - Permit Needed: Not necessary if the panels are in the same plane (Flanders)
+   - Multi-Phase Required: Maybe, depending on the system
+
+**Total Estimated Cost:**
+- Insulate Gable Roof: 60 €/m² * 50 m² (example area) = 3000 €
+- Replace Glazing: 200 €/m² * 20 m² (example area) = 4000 €
+- Replace Ventilation System: 3500 € + 17 €/m² * 173 m² = 6461 €
+- Place PV Panels: 275 €/m² * 30 m² (example area) = 8250 €
+- **Total:** Approximately 21,711 €
+
+**Expected Outcome:**
+- Improved EPC label to A or better.
+- Reduced energy consumption and improved thermal comfort.
+- Increased property value and sustainability.
+
+**Implementation Sequence:**
+1. Insulate Gable Roof
+2. Replace Glazing
+3. Replace Ventilation System
+4. Install PV Panels
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, focusing on practical upgrades that reduce energy consumption and improve long-term operational performance. The sequence is optimized to maximize the benefits of each renovation step.

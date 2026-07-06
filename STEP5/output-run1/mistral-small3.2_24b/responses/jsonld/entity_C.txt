@@ -1,0 +1,28 @@
+### Renovation Plan:
+To optimize energy efficiency while minimizing costs, the renovation strategy follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** principle. The current building has an EPC score of 50 (A Label), which is already quite efficient, but further improvements can be achieved.
+
+Proposed Renovation Path
+
+Phase 1: Thermal Envelope Optimization
+The goal of this phase is to eliminate as much heat loss as possible. Since the building already has well-insulated walls, floors, and roofs, the focus shifts to window performance.
+1.  **Replace Glazing:** Upgrade all windows from double to triple glazing. This significantly reduces heat loss through windows, especially in colder months.
+2.  **Insulate Attic Floor:** Ensure the attic floor is well insulated to prevent heat loss through the top of the building.
+
+Phase 2: Heating & Emission System Transition
+With the envelope sealed, the next step is to transition to a more efficient heating system.
+3.  **Place Air-Water Heat Pump:** Given the lack of geothermal potential and heat grid access, an air-water heat pump is the most sustainable and efficient replacement for the existing electric convector system.
+
+Phase 3: Sustainable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+4.  **Place PV-Panels on Roof:** Since the building has confirmed potential for PV, installing solar panels will generate renewable electricity to power the heat pump and ventilation system.
+
+Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Glazing Upgrade** | Reduces remaining thermal heat losses through windows. |
+| **2** | **Attic Floor Insulation** | Eliminates heat loss through the top of the building. |
+| **3** | **Air-Water Heat Pump** | Replaces the existing electric convector with a more efficient system. |
+| **4** | **PV Panels** | Generates renewable electricity to power the new heat pump and ventilation system. |
+
+This plan ensures that the building remains highly energy-efficient while minimizing additional costs and maximizing the use of renewable energy sources.

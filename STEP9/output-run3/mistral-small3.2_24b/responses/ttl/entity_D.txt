@@ -1,0 +1,96 @@
+To create an energy-efficient and cost-effective renovation plan for the provided semi-detached building, we will follow a structured approach that prioritizes high-impact, cost-effective upgrades. The goal is to improve the energy performance certificate (EPC) while considering the building's current state and the owner's motivation to improve the EPC.
+
+### Step 1: Assess Current Energy Performance
+The building has an EPC score of 87.0, which places it in the B label range (100-200 kWh/m²year). The owner's motivation is to improve the EPC, so we will focus on renovations that significantly reduce energy consumption.
+
+### Step 2: Prioritize Renovations
+Based on the ontology and suggestion list, we will prioritize the following renovations:
+
+1. **Insulate the Attic Floor**:
+   - The attic floor is not explicitly mentioned in the entity information, but it is a common area for heat loss.
+   - Insulating the attic floor can significantly reduce heat loss and improve energy efficiency.
+   - Cost: €60 per m².
+
+2. **Insulate Walls on the Interior**:
+   - The walls (Wall_Front, Wall_Left, Wall_Rear) are currently well-insulated, but insulating the interior walls can further improve energy efficiency.
+   - Cost: €150 per m².
+
+3. **Replace Glazing**:
+   - The windows (WindowsBedrooms, WindowsLivingArea) have double glazing, which is good but can be upgraded to triple glazing for better insulation.
+   - Cost: €200 per m².
+
+4. **Replace Ventilation System**:
+   - The current ventilation system is type D, which is mechanical air supply and exhaust. Upgrading to a more efficient system can improve air quality and energy efficiency.
+   - Cost: €3500 fixed + €17 per m².
+
+5. **Place PV-Panels on Roof**:
+   - The potential for PV panels is false, but placing PV panels on the roof can generate renewable energy and reduce energy costs.
+   - Cost: €275 per m².
+
+### Step 3: Sequence of Renovations
+To maximize the benefits of each renovation step, we will follow this sequence:
+
+1. **Insulate the Attic Floor**:
+   - This is a relatively low-cost and high-impact renovation that can significantly reduce heat loss.
+
+2. **Insulate Walls on the Interior**:
+   - Insulating the interior walls will further improve energy efficiency and thermal comfort.
+
+3. **Replace Glazing**:
+   - Upgrading to triple glazing will enhance the insulation properties of the windows.
+
+4. **Replace Ventilation System**:
+   - Upgrading the ventilation system will improve air quality and energy efficiency.
+
+5. **Place PV-Panels on Roof**:
+   - Installing PV panels will generate renewable energy and reduce reliance on external energy sources.
+
+### Step 4: Cost Estimation
+Based on the costs provided in the ontology, we can estimate the total cost of the renovations:
+
+1. **Insulate the Attic Floor**:
+   - Assuming an attic floor area of 50 m²: 50 m² * €60/m² = €3000.
+
+2. **Insulate Walls on the Interior**:
+   - Assuming wall area of 100 m²: 100 m² * €150/m² = €15000.
+
+3. **Replace Glazing**:
+   - Assuming window area of 20 m²: 20 m² * €200/m² = €4000.
+
+4. **Replace Ventilation System**:
+   - Fixed cost: €3500.
+
+5. **Place PV-Panels on Roof**:
+   - Assuming roof area of 30 m²: 30 m² * €275/m² = €8250.
+
+**Total Estimated Cost**: €3000 + €15000 + €4000 + €3500 + €8250 = €33,750.
+
+### Step 5: Expected Benefits
+- **Energy Efficiency**: The combination of insulation, glazing upgrades, and PV panels will significantly reduce energy consumption and improve the EPC.
+- **Thermal Comfort**: Improved insulation and glazing will enhance thermal comfort.
+- **Renewable Energy**: PV panels will generate renewable energy, reducing reliance on external energy sources.
+
+### Final Renovation Plan
+1. **Insulate the Attic Floor**:
+   - Action: Install insulation on the attic floor.
+   - Cost: €3000.
+
+2. **Insulate Walls on the Interior**:
+   - Action: Insulate the interior walls.
+   - Cost: €15000.
+
+3. **Replace Glazing**:
+   - Action: Upgrade windows to triple glazing.
+   - Cost: €4000.
+
+4. **Replace Ventilation System**:
+   - Action: Upgrade to a more efficient ventilation system.
+   - Cost: €3500.
+
+5. **Place PV-Panels on Roof**:
+   - Action: Install PV panels on the roof.
+   - Cost: €8250.
+
+**Total Estimated Cost**: €33,750.
+
+This plan provides a comprehensive approach to improving the energy efficiency and EPC of the building while considering cost-effectiveness and practical implementation.

@@ -1,0 +1,66 @@
+### Renovation Plan for the Semi-Detached Building (http://example.com/Building)
+
+#### 1. **Insulation and Roofing**
+- **Replace Flat Roof (http://example.com/RoofExtension)**
+  - **Action**: Replace the existing flat roof.
+  - **Reasoning**: The current flat roof is moderately insulated, but replacing it will improve energy efficiency.
+  - **Suggestion**: `replace flat roof` (Ordering: 10)
+
+- **Insulate Gable Roof (http://example.com/RoofMain)**
+  - **Action**: Insulate the gable roof.
+  - **Reasoning**: The gable roof is not insulated, and insulating it will enhance thermal performance.
+  - **Suggestion**: `insulate gable roof` (Ordering: 28)
+
+#### 2. **Window and Glazing Upgrades**
+- **Replace Glazing (http://example.com/WindowsBedrooms & http://example.com/WindowsLivingArea)**
+  - **Action**: Replace the glazing in the bedrooms and living area windows.
+  - **Reasoning**: The current glazing is double glazing, which can be upgraded to triple glazing for better insulation.
+  - **Suggestion**: `replace glazing` (Ordering: 43)
+
+#### 3. **Wall Insulation**
+- **Insulate Wall on Exterior (http://example.com/Wall_Front, http://example.com/Wall_Right, http://example.com/Wall_Rear)**
+  - **Action**: Insulate the exterior walls.
+  - **Reasoning**: The walls are not insulated, and exterior insulation will significantly improve the building's thermal efficiency.
+  - **Suggestion**: `insulate wall on exterior` (Ordering: 40)
+
+#### 4. **Heating System Upgrade**
+- **Place Air-Water Heatpump (http://example.com/EmissionSystem)**
+  - **Action**: Replace the current emission system with an air-water heat pump.
+  - **Reasoning**: The current emission system is outdated, and an air-water heat pump will provide more efficient heating.
+  - **Suggestion**: `place air-water heatpump` (Ordering: 67)
+
+- **Place Emission System on Low Temperature (http://example.com/EmissionSystem)**
+  - **Action**: Upgrade the emission system to operate at low temperatures.
+  - **Reasoning**: A low-temperature emission system is more energy-efficient and compatible with the new heat pump.
+  - **Suggestion**: `place emission system on low temperature` (Ordering: 70)
+
+#### 5. **Ventilation System Upgrade**
+- **Replace Ventilation System (http://example.com/VentilationSystem)**
+  - **Action**: Replace the existing ventilation system.
+  - **Reasoning**: The current ventilation system is type A, which can be upgraded to a more efficient system.
+  - **Suggestion**: `replace ventilation system` (Ordering: 52)
+
+#### 6. **Renewable Energy Integration**
+- **Place PV-Panels on Roof (http://example.com/RoofMain)**
+  - **Action**: Install photovoltaic (PV) panels on the gable roof.
+  - **Reasoning**: The building has potential for PV installation, and the gable roof is suitable for PV panels.
+  - **Suggestion**: `place PV-panels on roof` (Ordering: 85)
+
+#### 7. **Additional Recommendations**
+- **Place Sunshade (http://example.com/WindowsLivingArea & http://example.com/WindowsBedrooms)**
+  - **Action**: Install sunshades on the windows.
+  - **Reasoning**: Sunshades can reduce solar heat gain and improve comfort.
+  - **Suggestion**: `place sunshade` (Ordering: 79)
+
+### Summary of Renovation Plan
+1. **Replace Flat Roof** (Ordering: 10)
+2. **Insulate Gable Roof** (Ordering: 28)
+3. **Replace Glazing** (Ordering: 43)
+4. **Insulate Wall on Exterior** (Ordering: 40)
+5. **Place Air-Water Heatpump** (Ordering: 67)
+6. **Place Emission System on Low Temperature** (Ordering: 70)
+7. **Replace Ventilation System** (Ordering: 52)
+8. **Place PV-Panels on Roof** (Ordering: 85)
+9. **Place Sunshade** (Ordering: 79)
+
+This plan prioritizes actions based on their ordering in the suggestion list and their relevance to the building's current state and potential improvements. The plan aims to enhance energy efficiency, comfort, and sustainability while aligning with the building owner's motivation to improve the EPC value.

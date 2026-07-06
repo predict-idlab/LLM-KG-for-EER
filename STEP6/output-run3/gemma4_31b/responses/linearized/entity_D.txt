@@ -1,0 +1,33 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached building (constructed in 2017) that is already performing at an exceptionally high level of energy efficiency, with an **EPC score of 87 (A Label)**. 
+
+Most building elements—including the walls, flat roof, and floor above the basement—are already "Well Insulated," and the home is equipped with a high-efficiency Heat Pump and a Ventilation System D (the most advanced mechanical ventilation type).
+
+Because the building is already near peak efficiency, the potential for further gains is marginal. To improve the EPC score further while remaining cost-effective, the focus should be on the few remaining "moderate" points of heat loss.
+
+### Proposed Renovation Path
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low/Medium)
+The only element not rated as "Well Insulated" is the main gable roof. Addressing this is the most logical step to further lower the energy score.
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently "Moderately Insulated." Upgrading this to a "Well Insulated" state will reduce the remaining thermal leakage from the top of the building, which is the primary area where heat escapes.
+
+#### Phase 2: Advanced Glazing Upgrade (Priority: Optional/Long-term)
+The current windows use double glazing and the frames are in a "Good State." While double glazing is efficient, triple glazing is the gold standard for A+ performance.
+
+2.  **Replace Glazing:** If the owner is determined to push the EPC score even lower, replacing the current double glazing with **Triple Glazing** would be the next step. However, given the 2017 construction and current EPC of 87, the return on investment (ROI) for this upgrade is low.
+
+### Summary of System Status (No Action Required)
+The following systems are already optimal and should **not** be replaced:
+*   **Generation System:** Already utilizes a Heat Pump.
+*   **Ventilation:** Already utilizes Ventilation System D (Mechanical supply and exhaust).
+*   **Walls & Floors:** All are already "Well Insulated."
+*   **Renewables:** The site data indicates no potential for PV panels or geothermal energy.
+
+### Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only remaining "moderate" insulation gap in the building envelope. |
+| **2** | **Replace Glazing (Triple)** | Optional upgrade to maximize thermal retention in the windows. |
+
+**Final Assessment:** The building is already an exemplary model of energy efficiency. The proposed path focuses on "polishing" the remaining gaps rather than a structural overhaul.

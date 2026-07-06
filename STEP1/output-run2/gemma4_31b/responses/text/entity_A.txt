@@ -1,0 +1,50 @@
+To move your house from an EPC of 388 to a high-efficiency rating, you must follow the **"Fabric First"** principle. Installing a new heating system before insulating will lead to an oversized, expensive system that operates inefficiently.
+
+Given your location in Ghent and the house's characteristics, here is the most cost-effective and technically optimal renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*Goal: Stop heat from escaping. This is the most critical step to lower your energy bills and the required capacity of your future heating system.*
+
+1.  **Roof Insulation (High Priority):** Since the pitched roof is uninsulated and heat rises, this is your quickest win. 
+    *   **Action:** Install high-performance insulation (mineral wool or PIR boards) in the pitched roof. If the roof is in good condition, insulating from the inside is the most cost-effective method.
+2.  **Wall Insulation (High Priority):** Solid brick walls are "thermal bridges." 
+    *   **Action:** Since the house is not historically protected, **Exterior Wall Insulation (EWI)** is the gold standard. It prevents condensation and maximizes efficiency. If budget is a constraint, consider high-performance interior insulation, though this reduces living space.
+3.  **Floor Insulation (Medium Priority):** 
+    *   **Action:** Insulate the ceiling of the basement. This prevents "cold feet" and stops heat from leaking into the basement. This can often be done relatively cheaply by fixing insulation boards to the basement ceiling.
+
+### Phase 2: Air Quality & Ventilation (The "Breath" of the House)
+*Goal: Once you insulate a 1951 house, it becomes more airtight. Without upgrading ventilation, you risk humidity and mold.*
+
+4.  **Ventilation Upgrade:** 
+    *   **Action:** Replace the basic natural ventilation with a **Balanced Ventilation system with Heat Recovery (HRV)**. This system extracts stale air and uses its heat to warm the incoming fresh air, drastically reducing the energy lost through ventilation.
+
+### Phase 3: Heating System Modernization (The "Engine")
+*Goal: Now that the house requires significantly less heat, you can install a smaller, more efficient system.*
+
+5.  **Emitter Replacement:** 
+    *   **Action:** Replace the old radiators and air heating systems. To maximize efficiency, install **low-temperature radiators** or extend the **underfloor heating**. Heat pumps work most efficiently at lower flow temperatures.
+6.  **Heat Source Transition:** 
+    *   **Action:** Install an **Air-to-Water Heat Pump**. Since geothermal is not viable and district heating is unavailable, this is the most sustainable choice. Because you insulated first, the heat pump will be smaller and cheaper to install.
+
+### Phase 4: Renewable Energy (The "Fuel")
+*Goal: Offset the electricity consumption of the heat pump and HRV system.*
+
+7.  **Photovoltaic (PV) Installation:** 
+    *   **Action:** Install solar panels on the pitched roof. 
+    *   **Strategy:** Coordinate the capacity of the PV system with the estimated electrical load of your new heat pump to maximize self-consumption.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Component | Priority | Why? |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Walls $\rightarrow$ Floor** | $\text{Critical}$ | Reduces the total energy load (kWh) required. |
+| **2** | **Ventilation (HRV)** | $\text{High}$ | Prevents moisture/mold in an airtight, insulated home. |
+| **3** | **Emitters $\rightarrow$ Heat Pump** | $\text{Medium}$ | Switches to a high-efficiency, low-carbon heat source. |
+| **4** | **PV Panels** | $\text{Final}$ | Powers the new electrical systems with free energy. |
+
+### Expert Tip for Ghent/Flanders:
+Check the **Vlaamse EnergiePremies** (Flemish Energy Premiums). The Flemish government provides significant subsidies for wall and roof insulation, as well as the installation of heat pumps and ventilation systems. Applying for these *before* starting work is essential to keep the project cost-effective.

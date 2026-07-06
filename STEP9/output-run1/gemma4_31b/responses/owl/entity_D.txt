@@ -1,0 +1,58 @@
+Based on the provided building data and the RENO ontology, here is the analysis and proposed renovation path.
+
+### 1. Building Analysis
+The building is a relatively modern (constructed in 2017) semi-detached house with an already high energy performance (EPC score of 87, which corresponds to an **A label**). 
+
+**Current Strengths:**
+*   **Walls & Floors:** All external walls (Front, Left, Rear) and the floor above the basement are already "Well Insulated."
+*   **Flat Roof:** The roof extension is "Well Insulated" and in good state.
+*   **Systems:** The house is already equipped with a high-efficiency Ventilation System D and a Heat Pump.
+*   **Windows:** Wooden frames are in good condition and already feature double glazing.
+
+**Identified Weaknesses:**
+*   **Main Gable Roof:** This is the only major envelope element that is only "**Moderately Insulated**."
+*   **Summer Comfort:** There is no mention of solar shading, which can lead to overheating in high-efficiency homes.
+
+**Constraints:**
+*   **PV Potential:** The building data explicitly states `hasPotentialForPV` is `false`.
+*   **Geothermal:** The site has no potential for either vertical or horizontal geothermal drilling.
+*   **Infrastructure:** There is no heat grid available in the area.
+
+---
+
+### 2. Proposed Renovation Path
+Since the building is already highly efficient, the goal is to target the remaining "moderate" performance areas to further lower the EPC score and improve long-term operational performance.
+
+#### **Step 1: Insulate Gable Roof**
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** This is the most critical upgrade. The gable roof is the only part of the thermal envelope not rated as "Well Insulated." Improving this will directly reduce heat loss during winter.
+*   **Cost-Effectiveness:** High. It has a low unit price (60/m²) and a low nuisance level.
+*   **Ordering:** 28 (High priority).
+*   **Attention Point:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### **Step 2: Upgrade Glazing**
+*   **Action:** `replace glazing`
+*   **Reasoning:** While double glazing is present, upgrading to triple glazing is the logical next step to push the EPC score toward an A+ label. 
+*   **Cost-Effectiveness:** Moderate. Since the wooden frames are in "Good State," we recommend replacing only the glazing rather than the entire window unit (`replace windows`), which is significantly more expensive.
+*   **Ordering:** 43.
+*   **Attention Point:** Verify that the existing wooden frames have the necessary thickness to support heavier triple-pane glass.
+
+#### **Step 3: Install Sunshades**
+*   **Action:** `place sunshade`
+*   **Reasoning:** Highly insulated homes with large windows often suffer from overheating in the summer. Adding sunshades reduces the reliance on active cooling.
+*   **Cost-Effectiveness:** High. This is a low-cost fixed-price installation (750) with low nuisance.
+*   **Ordering:** 79.
+*   **Attention Point:** Opt for outdoor blinds, as they are more efficient than indoor alternatives.
+
+---
+
+### 3. Summary of the Renovation Sequence
+
+| Sequence | Action | Priority | Impact | Cost Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Critical | High (Thermal Loss) | Low |
+| **2** | **Replace Glazing** | Secondary | Medium (Thermal Loss) | Medium |
+| **3** | **Place Sunshades** | Comfort | Medium (Summer Heat) | Low |
+
+**Final Conclusion:** 
+The building is already in excellent shape. By focusing exclusively on the **Gable Roof insulation** and **Glazing upgrades**, the owner can maximize the energy efficiency of the home and achieve the desired EPC improvement with minimal disruption and cost-effective interventions.

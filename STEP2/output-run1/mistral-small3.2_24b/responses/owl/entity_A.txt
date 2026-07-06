@@ -1,0 +1,41 @@
+### **Renovation Plan for the Semi-Detached Building**
+
+**Objective:** Improve the EPC (Energy Performance Certificate) score of the building, focusing on energy efficiency while remaining cost-effective.
+
+**Prioritized Actions:**
+
+1. **Insulate the Roofs**
+   - **Replace Flat Roof:** Replace the flat roof of the roof extension (currently moderately insulated) to improve thermal performance.
+   - **Insulate Gable Roof:** Insulate the gable roof of the main roof (currently not insulated) to enhance energy efficiency.
+
+2. **Improve Wall Insulation**
+   - **Insulate Wall on Exterior:** Insulate the exterior walls (front, rear, and right walls) to reduce heat loss. This is particularly important given that the walls are currently not insulated and do not have historical protection.
+
+3. **Upgrade Window Glazing**
+   - **Replace Glazing:** Replace the double glazing in the bedroom and living area windows with triple glazing to improve thermal and acoustic performance.
+
+4. **Enhance Ventilation and Emission Systems**
+   - **Replace Ventilation System:** Upgrade from a Ventilation System A (natural air supply and exhaust) to a more efficient system (e.g., Ventilation System C or D) to improve indoor air quality and energy efficiency.
+   - **Place Emission System on Low Temperature:** Install a low-temperature emission system to complement the existing air heating system.
+
+5. **Consider Renewable Energy Sources**
+   - **Place PV-Panels on Roof:** Install photovoltaic (PV) panels on the main roof to generate renewable energy, reducing reliance on non-renewable energy sources.
+
+**Budget Considerations:**
+- Prioritize actions based on cost-effectiveness and potential energy savings.
+- Focus on replacing and insulating elements with the highest energy loss first (e.g., roofs and walls).
+
+**Permitting and Regulations:**
+- Check local regulations for any necessary permits, especially for roof replacements and exterior wall insulation.
+- Ensure compliance with historical protection guidelines for walls.
+
+**Expected Outcomes:**
+- Improved thermal comfort and reduced energy consumption.
+- Enhanced EPC score, potentially moving from the current E label to a higher rating (e.g., D or C).
+- Lower energy costs and increased property value.
+
+**Additional Recommendations:**
+- Conduct a detailed energy audit to identify specific areas of heat loss and prioritize interventions.
+- Consider the potential for horizontal geothermal captation or other renewable energy systems if feasible.
+
+This plan is designed to be practical, cost-effective, and aligned with the building's characteristics and the owner's motivation to improve the EPC score.

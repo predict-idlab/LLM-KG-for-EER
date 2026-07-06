@@ -1,0 +1,44 @@
+### Renovation Plan for Semi-Detached Building
+
+Given the information provided, here is a step-by-step renovation plan that prioritizes energy efficiency and cost-effectiveness while considering the optimal sequence for maximizing benefits:
+
+#### 1. **Insulation Upgrades**
+   - **Insulate Gable Roof**: The gable roof is currently moderately insulated. Improving insulation will enhance thermal comfort and reduce heat loss.
+     - **Action**: Insulate the gable roof with appropriate materials, ensuring a vapor barrier is installed on the warm side of the insulation.
+     - **Cost**: Approximately €60 per m².
+   - **Insulate Flat Roof**: The flat roof is well insulated, but if there is potential for improvement, consider upgrading the insulation.
+     - **Action**: Opt for an inverted roof structure to place insulation on top of the roof covering.
+     - **Cost**: Approximately €50 per m².
+
+#### 2. **Window and Glazing Upgrades**
+   - **Replace Glazing**: The windows in both the bedrooms and living area have double glazing. If the glazing is old or inefficient, consider replacing it with triple glazing for better insulation.
+     - **Action**: Replace the glazing with triple glazing to improve thermal performance.
+     - **Cost**: Approximately €200 per m².
+
+#### 3. **Ventilation System Upgrade**
+   - **Replace Ventilation System**: The current ventilation system is type D, which is mechanical for both supply and return. Consider upgrading to a more efficient system if needed.
+     - **Action**: Replace the ventilation system with a more efficient model, ensuring proper ductwork and grilles are installed.
+     - **Cost**: Fixed cost of €3,500 plus €17 per m².
+
+#### 4. **Renewable Energy Integration**
+   - **Place PV-Panels on Roof**: Given the potential for solar energy, consider installing photovoltaic panels on the roof.
+     - **Action**: Install PV-panels on the roof, ensuring they are properly oriented and not shaded by buildings, chimneys, or trees.
+     - **Cost**: Approximately €275 per m².
+
+#### 5. **Additional Considerations**
+   - **Heat Pump Installation**: If the current heating system is inefficient, consider installing a heat pump for space heating and hot water.
+     - **Action**: Place an air-water heat pump or a ground source heat pump, depending on the site's potential.
+     - **Cost**: Varies based on the type of heat pump and installation complexity.
+   - **Sun Shade Installation**: To reduce solar gain and improve cooling efficiency, consider installing sun shades.
+     - **Action**: Place outdoor blinds or other effective sun shades.
+     - **Cost**: Fixed cost of €750.
+
+### Optimal Sequence
+1. **Insulation Upgrades**: Start with insulating the gable and flat roofs to improve the building's thermal envelope.
+2. **Window and Glazing Upgrades**: Replace or upgrade glazing to enhance insulation and reduce heat loss through windows.
+3. **Ventilation System Upgrade**: Ensure proper ventilation to maintain indoor air quality and comfort.
+4. **Renewable Energy Integration**: Install PV-panels to generate renewable energy and reduce electricity costs.
+5. **Heat Pump Installation**: Upgrade the heating system to a more efficient heat pump if necessary.
+6. **Sun Shade Installation**: Finally, install sun shades to control solar gain and improve cooling efficiency.
+
+This plan ensures that each renovation step builds on the previous one, maximizing the benefits of each upgrade and creating a more energy-efficient and cost-effective home.

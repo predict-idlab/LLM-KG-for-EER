@@ -1,0 +1,79 @@
+### Renovation Plan for Building at http://example.com/Building
+
+#### 1. **Insulate Gable Roof (RoofMain)**
+   - **Reasoning:** The gable roof (RoofMain) is not insulated (NotInsulated), and it's a significant part of the building. Insulating the roof can significantly improve energy efficiency.
+   - **Action:** Install insulation on the gable roof.
+   - **Materials:** Insulation material suitable for gable roofs.
+   - **Permits:** No permits required in Flanders.
+   - **Nuisance Level:** Low.
+
+#### 2. **Insulate Flat Roof (RoofExtension)**
+   - **Reasoning:** The flat roof (RoofExtension) is moderately insulated (ModeratelyInsulated), but improving its insulation can further enhance energy efficiency.
+   - **Action:** Install additional insulation on the flat roof.
+   - **Materials:** Insulation material suitable for flat roofs.
+   - **Permits:** Permits required if the thickness of the total pack exceeds 26cm.
+   - **Nuisance Level:** High.
+
+#### 3. **Replace Ventilation System (VentilationSystem)**
+   - **Reasoning:** The current ventilation system (VentilationSystemA) can be upgraded to improve air quality and energy efficiency.
+   - **Action:** Replace the ventilation system with a more efficient model.
+   - **Materials:** New ventilation system components.
+   - **Permits:** No permits required if the above-ground parts are at least 2m away from the parcel boundary.
+   - **Nuisance Level:** Moderate.
+
+#### 4. **Insulate Wall Cavity (Wall_Front, Wall_Right, Wall_Rear)**
+   - **Reasoning:** The walls (Wall_Front, Wall_Right, Wall_Rear) are not insulated (NotInsulated), and insulating them can significantly reduce heat loss.
+   - **Action:** Inject insulation material into the wall cavities.
+   - **Materials:** Insulation material suitable for wall cavities.
+   - **Permits:** No permits required in Flanders.
+   - **Nuisance Level:** Low.
+
+#### 5. **Replace Windows (WindowsLivingArea, WindowsBedrooms)**
+   - **Reasoning:** The windows (WindowsLivingArea, WindowsBedrooms) have double glazing (DoubleGlazing), but replacing them with more energy-efficient models can further improve insulation.
+   - **Action:** Replace the windows with new, energy-efficient models.
+   - **Materials:** New windows with better insulation properties.
+   - **Permits:** No permits required if the measurements are kept (Flanders).
+   - **Nuisance Level:** High.
+
+#### 6. **Insulate Attic Floor (FloorAboveBasement)**
+   - **Reasoning:** The attic floor (FloorAboveBasement) is not insulated (NotInsulated), and insulating it can prevent heat loss through the ceiling.
+   - **Action:** Install insulation on the attic floor.
+   - **Materials:** Insulation material suitable for attic floors.
+   - **Permits:** No permits required in Flanders.
+   - **Nuisance Level:** Low.
+
+#### 7. **Replace Glazing (WindowsLivingArea, WindowsBedrooms)**
+   - **Reasoning:** The glazing (WindowGlazingLivingArea, WindowGlazingBedrooms) can be upgraded to improve insulation and reduce heat loss.
+   - **Action:** Replace the glazing with more energy-efficient models.
+   - **Materials:** New glazing with better insulation properties.
+   - **Permits:** No permits required in Flanders.
+   - **Nuisance Level:** High.
+
+#### 8. **Place Air-Water Heat Pump**
+   - **Reasoning:** The building does not currently have a heat pump, and installing one can significantly improve heating efficiency.
+   - **Action:** Install an air-water heat pump.
+   - **Materials:** Air-water heat pump system.
+   - **Permits:** No permits required if the above-ground parts are at least 2m away from the parcel boundary.
+   - **Nuisance Level:** Moderate.
+
+#### 9. **Place Low-Temperature Emission System**
+   - **Reasoning:** The current emission system (EmissionSystem) can be upgraded to a low-temperature system to improve energy efficiency.
+   - **Action:** Install a low-temperature emission system.
+   - **Materials:** Low-temperature emission system components.
+   - **Permits:** No permits required in Flanders.
+   - **Nuisance Level:** Moderate.
+
+#### 10. **Place Sunshade**
+    - **Reasoning:** Installing sunshades can reduce the amount of heat entering the building through windows, improving cooling efficiency.
+    - **Action:** Install sunshades on the windows.
+    - **Materials:** Sunshade materials.
+    - **Permits:** No permits required in Flanders.
+    - **Nuisance Level:** Low.
+
+### Notes:
+- **Energy Performance Certificate (EPC):** The building's current EPC score is 388, which indicates significant room for improvement. The suggested renovations aim to improve this score.
+- **Potential for PV Panels:** The building has potential for installing PV panels (True), but this is not included in the immediate renovation plan due to the focus on insulation and heating efficiency.
+- **Historical Protection:** None of the building elements have historical protection, so no additional constraints apply.
+- **Permits:** Most renovations do not require permits, but some may require reporting or permits depending on the specifics of the work.
+
+This plan prioritizes actions that maximize energy efficiency and reduce heat loss, tailored to the specific characteristics of the building and its current state.

@@ -1,0 +1,50 @@
+Based on the provided RENO ontology and the building's details, here's a cost-effective and energy-efficient renovation plan:
+
+### 1. **Insulate Walls (High Priority)**
+   - **Action**: Insulate the cavity walls (Wall_Front, Wall_Left, Wall_Rear, Wall_Right) using cavity wall insulation.
+   - **Why**: Currently, these walls are not insulated (reno:NotInsulated), which is a significant source of heat loss.
+   - **Cost**: ~€22/m² (reno:InsulateWallCavity).
+   - **Ordering**: 34 (reno:ordering).
+
+### 2. **Replace Windows (High Priority)**
+   - **Action**: Replace single-glazed windows (WindowsBedrooms, WindowsLivingArea) with double-glazed or triple-glazed windows.
+   - **Why**: Single glazing (reno:SingleGlazing) has poor thermal properties, leading to heat loss.
+   - **Cost**: ~€200/m² for glazing replacement (reno:ReplaceGlazing).
+   - **Ordering**: 43 (reno:ordering).
+
+### 3. **Improve Roof Insulation (Medium Priority)**
+   - **Action**: Ensure the gable roof (RoofMain) is well-insulated (already reno:WellInsulated).
+   - **Why**: The roof is already well-insulated, but verify no gaps or degradation exist.
+   - **Cost**: Minimal, as it's already well-insulated.
+
+### 4. **Upgrade Ventilation System (Medium Priority)**
+   - **Action**: Replace the existing ventilation system (VentilationSystemA) with a more efficient system (e.g., reno:VentilationSystemD).
+   - **Why**: Improves indoor air quality and energy efficiency.
+   - **Cost**: ~€3500 fixed + €17/m² (reno:ReplaceVentilationSystem).
+   - **Ordering**: 52 (reno:ordering).
+
+### 5. **Consider Heat Pump or Solar Panels (Long-Term Investment)**
+   - **Action**: Install a heat pump (reno:PlaceAirWaterHeatpump) or solar panels (reno:PlacePVPanelsOnRoof) if budget allows.
+   - **Why**: Reduces reliance on conventional heating systems and lowers energy costs.
+   - **Cost**:
+     - Heat pump: ~€8000 fixed + €35/m² (reno:PlaceAirWaterHeatpump).
+     - Solar panels: ~€275/m² (reno:PlacePVPanelsOnRoof).
+   - **Ordering**: 67 (reno:PlaceAirWaterHeatpump) or 85 (reno:PlacePVPanelsOnRoof).
+
+### 6. **General Maintenance**
+   - **Action**: Ensure the emission system (EmissionSystem) is compatible with potential upgrades (e.g., heat pump).
+   - **Why**: Future-proofing for energy-efficient heating solutions.
+
+### Sequence of Actions:
+1. **Insulate Walls** (High Priority).
+2. **Replace Windows** (High Priority).
+3. **Upgrade Ventilation System** (Medium Priority).
+4. **Improve Roof Insulation** (Verification).
+5. **Consider Heat Pump or Solar Panels** (Long-Term).
+
+### Additional Notes:
+- **Cost-Effectiveness**: Prioritize actions with lower ordering numbers for immediate savings.
+- **Permits**: Check local regulations for any required permits (e.g., reno:permitNeeded).
+- **Owner's Motivation**: Focus on improving the EPC (reno:ToImproveEPC) as per the owner's motivation.
+
+This plan balances immediate energy savings with long-term investments, ensuring a cost-effective path to a more energy-efficient home.

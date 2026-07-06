@@ -1,0 +1,53 @@
+Based on the provided RENO ontology and the specific building data, the building is a detached house from 1862 with a current energy score of 165 (B Label). While the roof is already well-insulated, there are significant opportunities to improve the energy performance certificate (EPC) through a strategic, phased approach.
+
+To maximize energy efficiency and cost-effectiveness, I propose the following renovation path, sequenced from the "envelope" (insulation) to the "systems" (heating and energy generation).
+
+### Phase 1: Thermal Envelope Optimization (Low-Hanging Fruit)
+The goal here is to reduce heat loss before upgrading heating systems, ensuring the new systems are sized correctly and operate efficiently.
+
+1.  **Cavity Wall Insulation (`InsulateWallCavity`):**
+    *   **Analysis:** All four exterior walls are cavity walls and currently "Not Insulated."
+    *   **Reasoning:** This is the most cost-effective upgrade in the ontology (€22/m²) with a "low" nuisance level. Since there is no historical protection, this is the highest priority for immediate EPC improvement.
+2.  **Floor Insulation (`InsulateFloorAboveBasement`):**
+    *   **Analysis:** The building has a floor above a crawl space.
+    *   **Reasoning:** At €30/m², this is a low-cost, low-nuisance intervention that prevents cold drafts from the ground.
+3.  **Glazing Upgrade (`ReplaceGlazing`):**
+    *   **Analysis:** All windows currently use "Single Glazing," but the wooden frames are in "Good State" (Value: 8).
+    *   **Reasoning:** Rather than replacing entire windows (€800/m²), replacing only the glazing (€200/m²) is far more cost-effective while significantly reducing thermal bridging.
+
+### Phase 2: Air Quality and Ventilation
+As the building becomes more airtight through insulation and new glazing, ventilation must be upgraded to prevent moisture buildup and maintain health.
+
+4.  **Ventilation System Upgrade (`ReplaceVentilationSystem`):**
+    *   **Analysis:** The building currently uses Ventilation System A (natural supply/exhaust).
+    *   **Reasoning:** Upgrading to a more modern system (e.g., System C or D) ensures consistent air exchange and complements the improved thermal envelope.
+
+### Phase 3: Sustainable Heating Transition
+With the heat loss minimized, we can now address the owner's desire to change the emission system.
+
+5.  **Install Air-Water Heat Pump (`PlaceAirWaterHeatpump`):**
+    *   **Analysis:** The building has a reason to change the emission system. Geothermal options are not viable (potential is `false`), and there is no heat grid available.
+    *   **Reasoning:** An air-water heat pump is the most efficient alternative to the current boiler/electric convector setup, utilizing electricity to move heat rather than generating it from fuel.
+
+### Phase 4: Renewable Energy Integration
+The final step is to offset the electricity consumption of the new heat pump.
+
+6.  **Install Roof PV Panels (`PlacePVPanelsOnRoof`):**
+    *   **Analysis:** The building is confirmed to have potential for PV.
+    *   **Reasoning:** By placing panels on the roof, the owner can generate their own electricity to power the heat pump and other appliances, lowering long-term operational costs.
+    *   **Point of Attention:** Per the ontology, ensure no asbestos is present in the roof structure before installation.
+
+---
+
+### Summary of Proposed Sequence & Impact
+
+| Order | Intervention | Nuisance | Cost Profile | Primary Benefit |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall Insulation** | Low | Very Low | Rapid heat loss reduction |
+| **2** | **Floor Insulation** | Low | Low | Eliminates ground-level cold |
+| **3** | **Glazing Replacement** | High | Moderate | Drastic reduction in window heat loss |
+| **4** | **Ventilation Upgrade** | Moderate | Moderate | Maintains indoor air quality |
+| **5** | **Air-Water Heat Pump** | Moderate | High | Transition to sustainable heating |
+| **6** | **Roof PV Panels** | Low | Moderate | Energy independence / Lowers bills |
+
+**Total Strategy:** By focusing on **Cavity Insulation $\rightarrow$ Glazing $\rightarrow$ Heat Pump $\rightarrow$ PV**, you avoid the common mistake of installing an oversized heating system in a "leaky" house, thereby maximizing the return on investment and the improvement of the EPC label.

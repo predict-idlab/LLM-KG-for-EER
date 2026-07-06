@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation plan. 
+
+### **Executive Summary**
+The building is already highly efficient, with an **EPC score of 50 (A Label)** and most structural elements (walls, floor, flat roof) being "Well Insulated." However, there is a clear opportunity to maximize long-term operational performance by addressing the one moderately insulated structural element and upgrading the heating generation system, for which the owner has already indicated a need for change.
+
+---
+
+### **Proposed Renovation Path**
+
+To maximize energy efficiency and cost-effectiveness, the renovations should follow the "fabric-first" approach: reducing energy demand before upgrading the systems that meet that demand.
+
+#### **Step 1: Thermal Envelope Optimization (Demand Reduction)**
+*   **Action:** **Insulate Gable Roof**
+*   **Reasoning:** While the flat roof and walls are well-insulated, the main gable roof is only "Moderately Insulated." Improving this to a "Well Insulated" state is the most cost-effective way to prevent heat loss through the top of the building.
+*   **Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### **Step 2: Emission System Optimization (Efficiency Prep)**
+*   **Action:** **Place emission system on low temperature**
+*   **Reasoning:** The building currently utilizes electric convectors and floor heating. To maximize the efficiency of a modern heat pump (planned in Step 3), the emission system should be optimized for low-temperature operation. This reduces the workload on the heat pump and significantly lowers electricity consumption.
+
+#### **Step 3: Generation System Upgrade (Sustainable Heating)**
+*   **Action:** **Place Air-Water Heat Pump**
+*   **Reasoning:** The building has a "reason to change emission system" and lacks access to a heat grid or geothermal potential (both horizontal and vertical). An air-water heat pump is the most efficient alternative to a traditional boiler, especially when paired with the existing floor heating and the low-temperature optimizations from Step 2.
+*   **Point of Attention:** Ensure the unit is placed at least 2m away from the parcel boundary to avoid the need for a permit (per Flanders regulations).
+
+---
+
+### **Summary of Strategy & Cost-Effectiveness**
+
+| Sequence | Intervention | Priority | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Insulate Gable Roof | High | Reduces heat loss | High (Low nuisance, high ROI) |
+| **2** | Low-Temp Emission | Medium | Increases system COP | High (Pre-requisite for HP) |
+| **3** | Air-Water Heat Pump | High | Eliminates fossil fuels | Medium (High fixed cost, low op-cost) |
+
+**Why other suggestions were excluded:**
+*   **Windows/Glazing:** Existing windows are in "Good State" (Value 8) and already feature double glazing; replacement would provide diminishing returns.
+*   **PV Panels:** The building already possesses PV panels, and the site is marked as having no further potential for additional installations.
+*   **Ventilation:** The building already uses Ventilation System D, which is the most advanced type in the ontology.
+*   **Wall/Floor Insulation:** These are already categorized as "Well Insulated."

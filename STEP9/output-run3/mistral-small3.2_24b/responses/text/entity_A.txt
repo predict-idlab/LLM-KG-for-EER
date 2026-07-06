@@ -1,0 +1,44 @@
+To improve the energy performance of your 1951 semi-detached house in Ghent, Belgium, we'll focus on practical, cost-effective upgrades that maximize energy efficiency. Here's a step-by-step renovation plan:
+
+### 1. **Insulation Upgrades (High Priority)**
+   - **Exterior Walls**: Install external wall insulation (EWI) to the solid brick walls. This will significantly reduce heat loss and improve the building's thermal performance. EWI also avoids reducing internal floor space, unlike internal insulation.
+   - **Pitched Roof**: Insulate the uninsulated pitched roof with high-performance insulation (e.g., mineral wool or rigid foam boards). This is a critical area for heat loss in pitched roofs.
+   - **Flat-Roof Extension**: Top up the existing moderate insulation to meet current standards. Consider adding reflective roof coating to improve summer cooling performance.
+   - **Basement Floor**: Insulate the uninsulated floor above the basement using rigid insulation boards. This will help reduce heat loss through the floor.
+
+### 2. **Heating System Upgrade (Medium Priority)**
+   - Replace the old boiler with a modern, high-efficiency condensing boiler. This will improve heating efficiency and reduce energy consumption.
+   - Upgrade the heat emission systems:
+     - Replace old radiators with modern, low-temperature radiators or underfloor heating systems designed for low-flow temperatures.
+     - Consider a hybrid system combining radiators and underfloor heating for optimal comfort and efficiency.
+   - Install a programmable thermostat to better control heating and reduce energy waste.
+
+### 3. **Ventilation Upgrade (Medium Priority)**
+   - Replace the basic natural ventilation system with a **mechanical ventilation system with heat recovery (MVHR)**. This will improve indoor air quality while recovering heat from exhaust air, reducing heating demands.
+   - Ensure the system is properly sized and installed to maximize efficiency.
+
+### 4. **Windows and Doors (Low Priority)**
+   - The existing double-glazed windows are in good condition, so replacement is not immediately necessary. However, if any windows are draughty or damaged, consider upgrading to high-performance triple-glazed windows with low-emissivity (Low-E) coatings and warm-edge spacers.
+   - Ensure all doors and windows are properly sealed to prevent air leakage.
+
+### 5. **Renewable Energy Integration (Long-Term Investment)**
+   - Install **photovoltaic (PV) panels** on the roof to generate electricity. Given Belgium's climate, a south-facing roof will yield the best results. Consider battery storage to maximize self-consumption of generated electricity.
+   - Explore the possibility of installing a **solar thermal system** for domestic hot water, although this may be less cost-effective than PV in some cases.
+
+### 6. **Additional Measures (Optional)**
+   - **Smart Home Integration**: Install smart thermostats and sensors to optimize heating and cooling based on occupancy and weather conditions.
+   - **Energy Monitoring**: Use an energy monitor to track electricity and gas usage, helping identify areas for further savings.
+
+### Optimal Renovation Sequence:
+1. **Insulation Upgrades**: Start with exterior walls, followed by roof and floor insulation. This will reduce heat loss and improve the overall thermal performance of the building.
+2. **Heating System Upgrade**: Replace the boiler and heat emission systems after insulation to ensure the new system works efficiently with the improved building envelope.
+3. **Ventilation Upgrade**: Install MVHR to complement the improved insulation and heating systems.
+4. **Windows and Doors**: Address any remaining issues with windows and doors to minimize air leakage.
+5. **Renewable Energy**: Install PV panels and other renewable energy systems as a final step to further reduce energy costs and carbon footprint.
+
+### Estimated Benefits:
+- **Energy Performance Certificate (EPC)**: The proposed upgrades should significantly improve the EPC score, potentially bringing it into the "C" or better range.
+- **Cost Savings**: Reduced energy bills due to lower heating demands and improved system efficiency.
+- **Comfort**: Better indoor air quality, consistent temperatures, and reduced noise from improved insulation.
+
+This plan prioritizes cost-effective measures that provide the greatest energy savings while ensuring long-term operational performance.

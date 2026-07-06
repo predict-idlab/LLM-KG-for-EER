@@ -1,0 +1,40 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation plan.
+
+### **Building Analysis Summary**
+The property is a very modern **Attached Building (constructed in 2023)** with an already excellent energy profile (**EPC score: 50**, which falls under **Label A**). Most elements (walls, flat roof, and floor above basement) are already "Well Insulated." The ventilation system is Type D (the most efficient mechanical system).
+
+However, two primary opportunities for optimization exist:
+1.  **Thermal Envelope Gap:** The main gable roof is only "Moderately Insulated," unlike the rest of the building.
+2.  **System Inefficiency:** Despite the new construction, there is a flagged **reason to change the emission system**. The current use of electric convectors is energy-intensive and inefficient compared to modern heat-pump technology.
+
+---
+
+### **Proposed Renovation Path**
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow a **"Fabric First"** approach: optimize the building shell before upgrading the technical installations to ensure the new systems are not oversized.
+
+#### **Step 1: Thermal Envelope Optimization**
+*   **Action:** **Insulate Gable Roof** (`reno:InsulateGableRoof`)
+*   **Justification:** This is the only major building element not rated as "Well Insulated." Improving this will reduce heat loss through the top of the house, further lowering the energy load required for heating.
+*   **Practical Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+*   **Cost Profile:** Low nuisance; unit price of 60/m².
+
+#### **Step 2: Generation & Emission System Upgrade**
+*   **Action:** **Install an Air-Water Heat Pump** (`reno:PlaceAirWaterHeatpump`)
+*   **Justification:** The building currently uses electric convectors and has a flagged need to change the emission system. Since the building already has **floor heating** (which is a low-temperature emission system), it is perfectly compatible with an Air-Water heat pump.
+*   **Constraint Check:** Geothermal options are ruled out as the site has no potential for horizontal or vertical captation, and there is no available heat grid. An Air-Water heat pump is the most efficient viable alternative.
+*   **Cost Profile:** Moderate nuisance; fixed price of 8,000 + 35/m².
+
+---
+
+### **Optimal Sequence & Implementation Logic**
+
+| Sequence | Intervention | RENO Ordering | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | 28 | **Reduce Demand:** Lowering the heat loss of the roof first ensures the heating system installed in Step 2 is sized correctly for the actual heat demand. |
+| **2** | **Air-Water Heat Pump** | 67 | **Efficient Supply:** Replacing inefficient electric convectors with a heat pump drastically reduces operational energy costs and carbon footprint. |
+
+### **Final Expected Outcome**
+*   **Energy Efficiency:** Transitioning from electric resistance heating (convectors) to a heat pump, combined with a fully "Well Insulated" envelope, will significantly lower the kWh/m²year.
+*   **Cost-Effectiveness:** By targeting only the "Moderately Insulated" roof and the inefficient heating system, we avoid unnecessary spending on already high-performing elements (walls/windows).
+*   **EPC Impact:** This path directly aligns with the owner's motivation to **Improve EPC**, likely pushing the building toward a **Label A+** rating.

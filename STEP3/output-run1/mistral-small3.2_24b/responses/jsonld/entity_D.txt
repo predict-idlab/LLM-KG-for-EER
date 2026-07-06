@@ -1,0 +1,62 @@
+To provide a concise and actionable renovation plan, I'll analyze the given information and suggest practical upgrades that maximize energy efficiency while remaining cost-effective. The goal is to improve the EPC (Energy Performance Certificate) score of the building, which is currently at 87 kWh/m²year.
+
+### Analysis:
+1. **Current State**:
+   - The building has well-insulated floors, walls, and roofs.
+   - The glazing in the windows is double glazing.
+   - The ventilation system is a type D system, which is a balanced mechanical ventilation system with heat recovery.
+   - There is no heat grid available near the building.
+   - The potential for horizontal geothermal captation and vertical geothermal drilling is false.
+   - The potential for PV panels is false.
+   - The emission system is a stove, which uses solid fuels (coal).
+
+2. **Motivation**:
+   - The owner wants to improve the EPC score.
+
+3. **Constraints**:
+   - The building is a semi-detached building, which means that some renovations might be more complex due to shared walls.
+   - The building has historical protection, which might limit the types of renovations that can be done.
+
+### Renovation Plan:
+Given the current state and the owner's motivation, the following steps are recommended:
+
+1. **Replace the Emission System**:
+   - **Action**: Replace the stove with a more energy-efficient system such as a heat pump or a solar boiler.
+   - **Reasoning**: The current emission system (stove) is likely to be less energy-efficient compared to modern systems. Replacing it with a heat pump or a solar boiler can significantly improve the energy efficiency of the building.
+   - **Potential Suggestions**:
+     - Place air-water heatpump
+     - Place solar boiler
+     - Place heatpumpboiler
+
+2. **Improve Ventilation System**:
+   - **Action**: Consider upgrading the ventilation system to a more efficient model or adding a heat recovery system if not already present.
+   - **Reasoning**: A more efficient ventilation system can reduce energy loss and improve indoor air quality.
+   - **Potential Suggestions**:
+     - Replace ventilation system
+
+3. **Insulate Remaining Elements**:
+   - **Action**: Ensure that all elements (walls, roofs, floors) are well-insulated. The current data indicates that most elements are well-insulated, but it's always good to double-check.
+   - **Reasoning**: Proper insulation is key to reducing energy consumption and improving the EPC score.
+
+4. **Consider Renewable Energy Sources**:
+   - **Action**: Evaluate the feasibility of installing solar panels or a small wind turbine, depending on the available space and local regulations.
+   - **Reasoning**: Renewable energy sources can further reduce the building's reliance on non-renewable energy and improve the EPC score.
+   - **Potential Suggestions**:
+     - Place PV-panels on roof
+     - Place PV-panels in garden
+
+5. **Regular Maintenance**:
+   - **Action**: Schedule regular maintenance for the new systems to ensure they operate at peak efficiency.
+   - **Reasoning**: Regular maintenance can prevent energy waste and extend the lifespan of the installed systems.
+
+### Cost-Effectiveness:
+To ensure cost-effectiveness, prioritize the upgrades that offer the highest return on investment in terms of energy savings. Start with the emission system replacement, as it is likely to have the most significant impact on energy consumption. Follow up with ventilation system improvements and insulation checks.
+
+### Final Recommendation:
+Based on the analysis, the most impactful and cost-effective actions are:
+1. **Replace the Emission System** with a heat pump or solar boiler.
+2. **Improve the Ventilation System** if necessary.
+3. **Ensure Proper Insulation** of all elements.
+4. **Evaluate Renewable Energy Options** such as solar panels.
+
+These steps should help improve the EPC score and reduce energy consumption, aligning with the owner's motivation.

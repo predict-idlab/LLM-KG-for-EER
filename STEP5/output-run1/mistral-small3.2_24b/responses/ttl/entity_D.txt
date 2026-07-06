@@ -1,0 +1,66 @@
+### Renovation Plan for the Given Building
+
+**Building Overview:**
+- **Type:** Semi-detached building
+- **Construction Year:** 2017
+- **Current EPC Score:** 87 (A Label)
+- **Owner's Motivation:** To improve EPC
+- **Key Elements:**
+  - Well-insulated walls (front, left, rear)
+  - Well-insulated floor above basement
+  - Moderately insulated gable roof
+  - Well-insulated flat roof
+  - Double-glazed windows with wooden frames
+  - Heat pump as the generation system
+  - Ventilation system D
+  - No potential for PV panels
+
+**Current State:**
+The building is already in good condition with well-insulated walls, floor, and flat roof. The gable roof is moderately insulated, and the windows are double-glazed. The heating system is a heat pump, which is energy-efficient.
+
+**Renovation Goals:**
+1. **Improve EPC Score:** Although the current EPC score is already good (A Label), further improvements can be made to achieve an A+ Label.
+2. **Enhance Energy Efficiency:** Optimize the building's energy performance to reduce energy consumption further.
+
+**Proposed Renovation Path:**
+
+1. **Insulate Gable Roof:**
+   - **Action:** Upgrade the insulation of the gable roof from moderately insulated to well-insulated.
+   - **Rationale:** Improving the insulation of the gable roof will enhance the overall thermal performance of the building, reducing heat loss and improving energy efficiency.
+   - **Cost:** €60 per m²
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+
+2. **Replace Glazing:**
+   - **Action:** Replace the existing double-glazing with triple-glazing.
+   - **Rationale:** Triple-glazing provides better insulation than double-glazing, reducing heat loss through windows and improving the overall energy efficiency of the building.
+   - **Cost:** €200 per m²
+   - **Nuisance Level:** High
+   - **Permit Needed:** Not necessary (Flanders)
+
+3. **Place Air-Water Heat Pump with Cooling:**
+   - **Action:** Install an air-water heat pump with cooling capability.
+   - **Rationale:** Upgrading to a more advanced heat pump with cooling functionality will enhance the building's heating and cooling efficiency, reducing energy consumption and improving comfort.
+   - **Cost:** €9000 (fixed) + €35 per m²
+   - **Nuisance Level:** Moderate
+   - **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+
+4. **Place Sunshade:**
+   - **Action:** Install sunshades on windows facing south or west to reduce solar heat gain in summer.
+   - **Rationale:** Sunshades can help regulate indoor temperatures, reducing the need for cooling and improving energy efficiency.
+   - **Cost:** €750 (fixed)
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+
+**Summary of Optimal Sequence:**
+1. **Insulate Gable Roof**
+2. **Replace Glazing**
+3. **Place Air-Water Heat Pump with Cooling**
+4. **Place Sunshade**
+
+**Expected Outcomes:**
+- **Improved EPC Score:** Achieving an A+ Label by enhancing insulation and upgrading the heating system.
+- **Enhanced Energy Efficiency:** Reduced energy consumption and improved thermal comfort.
+- **Cost-Effectiveness:** Prioritizing high-impact, cost-effective upgrades to maximize benefits.
+
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective, tailored to the specific characteristics and needs of the building.

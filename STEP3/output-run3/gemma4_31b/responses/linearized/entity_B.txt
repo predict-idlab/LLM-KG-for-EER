@@ -1,0 +1,33 @@
+To maximize energy efficiency and improve the EPC score for this 19th-century attached building, the renovation should follow the "Fabric First" principle: first reducing heat loss through the building envelope, then upgrading the heating systems, and finally adding renewable energy generation.
+
+### **Phase 1: Building Envelope (Insulation)**
+The building has several critical areas with no insulation. Addressing these first ensures that any new heating system is sized correctly and operates efficiently.
+
+1.  **Insulate Flat Roof (RoofExtension):** The flat roof is currently not insulated. This is a high-priority area for heat loss.
+2.  **Insulate Walls (Wall_Front & Wall_Rear):** Both full brick walls are not insulated. Given the construction (Full Brick), I recommend checking for cavity insulation first (**Insulate wall cavity**) as it is the most cost-effective. If no cavity exists, **Insulate wall on exterior** is the most efficient path to improve the EPC score.
+3.  **Insulate Floor Above Basement:** The floor above the basement is not insulated. This is a practical upgrade to prevent cold drafts from the lower level.
+
+### **Phase 2: Heating and Ventilation Systems**
+With the envelope sealed, the current boiler and radiator system should be replaced. Since the building is not compatible with geothermal or heat grids, an air-source solution is the most viable.
+
+4.  **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be upgraded to low-temperature emitters to ensure the heat pump operates at maximum efficiency.
+5.  **Place Air-Water Heat Pump:** Replace the existing boiler with an air-water heat pump. This aligns with the owner's motivation to improve the EPC and the building's indicated need to change the emission system.
+6.  **Replace Ventilation System:** The current "System A" (natural ventilation) is the least efficient. Upgrading to a mechanical system will improve air quality and reduce heat loss during air exchange.
+
+### **Phase 3: Renewable Energy**
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing panels on the roof is the most effective way to lower operational costs and significantly boost the EPC rating.
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Focus | Justification |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof** | Envelope | Stop immediate high heat loss from the roof extension. |
+| **2** | **Insulate Walls** | Envelope | Address non-insulated brick walls (Cavity $\rightarrow$ Exterior). |
+| **3** | **Insulate Floor** | Envelope | Eliminate heat loss through the basement floor. |
+| **4** | **Low-Temp Emission** | System | Prepare the house for high-efficiency heating. |
+| **5** | **Air-Water Heat Pump** | System | Replace the old boiler with a sustainable energy source. |
+| **6** | **Replace Ventilation** | System | Improve air exchange efficiency over natural ventilation. |
+| **7** | **PV-Panels on Roof** | Generation | Generate clean energy to power the new systems. |

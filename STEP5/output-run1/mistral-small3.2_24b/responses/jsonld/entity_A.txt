@@ -1,0 +1,69 @@
+### Renovation Plan
+
+#### **Building Overview:**
+- **Building Type:** Semi-detached
+- **Construction Year:** 1951
+- **Current EPC Score:** 388 (D Label)
+- **Owner's Motivation:** Improve EPC
+- **Potential for PV:** Yes
+- **Heat Grid Presence:** No
+- **Geothermal Potential:** No
+
+#### **Key Issues:**
+1. **Thermal Envelope:**
+   - **Roof (Flat):** Moderately Insulated
+   - **Walls (Front, Rear, Right):** Not Insulated
+   - **Floor Above Basement:** Not Insulated
+   - **Windows:** Double-Glazed (Good State)
+
+2. **Heating System:**
+   - **Current System:** Boiler
+   - **Reason to Change:** Yes
+   - **Potential for Upgrade:** Air-Water Heat Pump
+
+3. **Ventilation System:**
+   - **Current System:** Type A (Natural)
+   - **Potential for Upgrade:** Type C or D (Mechanical)
+
+4. **Energy Generation:**
+   - **Potential for PV:** Yes
+
+#### **Recommended Renovation Path:**
+The renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence to maximize energy efficiency and cost-effectiveness.
+
+##### **Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Walls on Exterior:**
+   - **Action:** Exterior wall insulation for `Wall_Front`, `Wall_Rear`, and `Wall_Right`.
+   - **Rationale:** Eliminates thermal bridges and reduces heat loss significantly.
+
+2. **Insulate Floor Above Basement:**
+   - **Action:** Add insulation to `FloorAboveBasement`.
+   - **Rationale:** Prevents cold drafts from the basement.
+
+3. **Insulate Flat Roof:**
+   - **Action:** Add insulation to `RoofExtension`.
+   - **Rationale:** Heat rises rapidly through flat sections, making roof insulation a priority.
+
+##### **Phase 2: Heating & Emission System Transition (Medium Priority)**
+4. **Place Air-Water Heat Pump:**
+   - **Action:** Install an Air-Water Heat Pump to replace the existing boiler.
+   - **Rationale:** More energy-efficient and suitable for the lower heat demand after insulation.
+
+5. **Place Emission System on Low Temperature:**
+   - **Action:** Upgrade the current radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the Coefficient of Performance (COP) of the new heat pump.
+
+##### **Phase 3: Ventilation System Upgrade (Medium Priority)**
+6. **Replace Ventilation System:**
+   - **Action:** Upgrade from `VentilationSystemA` to `VentilationSystemC` or `VentilationSystemD`.
+   - **Rationale:** Ensures proper air exchange in a sealed envelope.
+
+##### **Phase 4: Sustainable Energy Generation (Long-term Priority)**
+7. **Place PV-Panels on Roof:**
+   - **Action:** Install solar panels on the roof.
+   - **Rationale:** Provides renewable electricity to power the heat pump and ventilation system.
+
+#### **Summary of Optimal Sequence:**
+**Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Flat Roof Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **PV Panels**.
+
+This plan ensures a systematic approach to improving the building's energy efficiency while considering cost-effectiveness and the owner's motivation.

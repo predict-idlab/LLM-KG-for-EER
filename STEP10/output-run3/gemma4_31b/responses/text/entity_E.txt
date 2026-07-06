@@ -1,0 +1,43 @@
+To maximize energy efficiency and improve the EPC score (currently 165) of this 1862 detached house, the renovation should follow a **"Fabric-First"** strategy. By optimizing the thermal envelope before upgrading the heating system, we ensure that the new HVAC system is correctly sized for a lower heat demand, avoiding unnecessary capital expenditure and operational waste.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Priority: High)
+The primary goal is to eliminate heat leakage through the building's shell. This phase offers the highest return on investment (ROI) by reducing the total energy required to heat the home.
+
+1.  **Cavity Wall Insulation:** Since all four exterior walls are cavity walls and currently uninsulated, **cavity wall insulation** is the most cost-effective priority. It is significantly less invasive than interior or exterior insulation and provides an immediate jump in thermal performance.
+2.  **Insulate Floor Above Crawl Space:** The floor above the crawl space is likely uninsulated. Adding insulation here prevents "cold feet" and stops heat from escaping into the void beneath the house.
+
+#### Phase 2: Window Performance (Priority: High)
+Even with insulated walls, single glazing acts as a "thermal hole" in the building envelope.
+
+3.  **Replace Single Glazing:** While the wooden frames are in good condition, single glazing is highly inefficient. Replacing the glass with **double or triple glazing** (or replacing the units entirely) is essential to stop drafts and reduce heat loss.
+
+#### Phase 3: Heating & Emission System Transition (Priority: Medium)
+Now that the house is sealed and insulated, the heat demand has dropped significantly. This allows for a transition from a high-temperature boiler to a low-temperature, sustainable system.
+
+4.  **Upgrade to Low-Temperature Emission Systems:** Because the current radiators and convectors are in poor condition and designed for high-temperature boilers, they should be replaced with **low-temperature emitters** (e.g., oversized radiators or expanded underfloor heating). This is a prerequisite for the heat pump to operate at maximum efficiency (COP).
+5.  **Install Air-Water Heat Pump:** Given the lack of geothermal potential and district heating, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the existing boiler.
+
+#### Phase 4: Air Quality and Ventilation (Priority: Medium)
+Once the building is insulated and the windows are upgraded, the natural air exchange rate will decrease. To prevent humidity buildup and ensure healthy indoor air quality, the ventilation must be upgraded.
+
+6.  **Upgrade Ventilation System:** Transition from a basic natural system (System A) to a more controlled system (such as **System C or D**). A balanced ventilation system with heat recovery (System D) would be the gold standard for energy efficiency.
+
+#### Phase 5: Renewable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and ventilation system, the house should move toward energy autonomy.
+
+7.  **Install Photovoltaic (PV) Panels:** Since the property has confirmed potential for PV panels, installing them on the roof will provide renewable electricity, further lowering the operational costs and improving the EPC label.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Cavity Wall & Floor Insulation** | Drastically reduces the overall heating load of the building. |
+| **2** | **Glazing Upgrade** | Eliminates the most significant remaining points of heat loss. |
+| **3** | **Low-Temp Emission Upgrade** | Prepares the house for a heat pump to ensure high efficiency. |
+| **4** | **Air-Water Heat Pump** | Switches to a sustainable, low-carbon energy source. |
+| **5** | **Ventilation Upgrade** | Prevents moisture/mold in a now-sealed energy-efficient envelope. |
+| **6** | **PV Panel Installation** | Offsets electrical costs of the heat pump and improves EPC. |

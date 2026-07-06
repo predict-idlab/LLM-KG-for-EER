@@ -1,0 +1,47 @@
+Based on the information provided, here is a concise and actionable renovation plan tailored to your semi-detached house in Ghent, Belgium. The plan focuses on maximizing energy efficiency while remaining cost-effective, considering the current conditions and the goal of improving the energy performance certificate (EPC) score.
+
+### 1. **Improve Roof Insulation**
+   - **Action:** Upgrade the insulation of the main pitched roof to a higher standard (e.g., from 200 mm to 300 mm of mineral wool or equivalent).
+   - **Rationale:** The main pitched roof has only moderate insulation, and improving it will significantly reduce heat loss.
+   - **Cost-Effectiveness:** High. Roof insulation is one of the most cost-effective ways to improve energy efficiency.
+
+### 2. **Enhance Ventilation System Efficiency**
+   - **Action:** Upgrade the existing ventilation system D to a more energy-efficient model with heat recovery (e.g., a demand-controlled ventilation system).
+   - **Rationale:** Heat recovery ventilation can reduce heat loss through ventilation by up to 90%, improving overall energy efficiency.
+   - **Cost-Effectiveness:** Moderate to high. The initial cost is higher, but long-term energy savings justify the investment.
+
+### 3. **Optimize Heat Pump Performance**
+   - **Action:** Conduct a professional assessment of the heat pump to ensure it is operating at peak efficiency. Consider upgrading the control system or adding smart thermostats for better temperature management.
+   - **Rationale:** Ensuring the heat pump is running efficiently will maximize its performance and reduce energy consumption.
+   - **Cost-Effectiveness:** Moderate. The cost of an assessment and potential upgrades is relatively low compared to the potential energy savings.
+
+### 4. **Upgrade Windows (if necessary)**
+   - **Action:** Assess the performance of the existing double-glazed windows. If they are not performing optimally, consider upgrading to triple-glazed windows or adding low-emissivity (Low-E) coatings.
+   - **Rationale:** While the windows are in good condition, upgrading to triple glazing or Low-E coatings can further reduce heat loss through the windows.
+   - **Cost-Effectiveness:** Moderate. The cost of upgrading windows is higher, but the energy savings can be significant.
+
+### 5. **Improve Air Sealing**
+   - **Action:** Conduct an air tightness test to identify and seal any air leaks around windows, doors, and other openings.
+   - **Rationale:** Reducing air infiltration will improve the overall energy efficiency of the house.
+   - **Cost-Effectiveness:** Low to moderate. The cost of air sealing is relatively low, and the energy savings can be significant.
+
+### 6. **Maximize Photovoltaic (PV) Panel Output**
+   - **Action:** Assess the performance of the existing PV panels and consider adding more panels or optimizing their orientation and tilt for maximum sunlight exposure.
+   - **Rationale:** Increasing the PV panel output can further reduce the house's reliance on grid electricity.
+   - **Cost-Effectiveness:** Moderate to high. The cost of additional PV panels is high, but the long-term energy savings and potential feed-in tariffs can justify the investment.
+
+### 7. **Monitor and Maintain Systems**
+   - **Action:** Regularly monitor and maintain the heating, ventilation, and PV systems to ensure they continue to operate efficiently.
+   - **Rationale:** Regular maintenance can prevent inefficiencies and extend the lifespan of the systems.
+   - **Cost-Effectiveness:** Low. The cost of maintenance is relatively low compared to the potential energy savings.
+
+### Optimal Sequence of Renovations:
+1. **Improve Roof Insulation** (High impact, cost-effective)
+2. **Enhance Ventilation System Efficiency** (High impact, moderate cost)
+3. **Optimize Heat Pump Performance** (Moderate impact, moderate cost)
+4. **Upgrade Windows (if necessary)** (Moderate impact, higher cost)
+5. **Improve Air Sealing** (Low to moderate impact, low cost)
+6. **Maximize PV Panel Output** (Moderate to high impact, moderate to high cost)
+7. **Monitor and Maintain Systems** (Ongoing, low cost)
+
+By following this plan, you can significantly improve the energy performance of your house while remaining cost-effective. The proposed upgrades are prioritized based on their impact on energy efficiency and cost-effectiveness.

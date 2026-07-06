@@ -1,0 +1,75 @@
+### Renovation Plan for Attached Building (1832)
+
+**Current State:**
+- **EPC Score:** 262 (C Label)
+- **Building Type:** Attached (1832)
+- **Key Issues:**
+  - Non-insulated walls (Front, Rear)
+  - Non-insulated floor above basement
+  - Non-insulated flat roof
+  - Double-glazed windows in good condition
+  - Existing boiler and radiator system
+  - Potential for PV
+
+**Objective:** Improve EPC score through cost-effective measures.
+
+---
+
+### **Phase 1: Thermal Envelope Optimization**
+1. **Insulate Walls on Exterior**
+   - *Action:* Insulate `Wall_Front` and `Wall_Rear` on exterior.
+   - *Rationale:* Full brick walls are not cavity walls; exterior insulation is most effective.
+   - *Cost-Effectiveness:* High (reduces heat loss significantly).
+
+2. **Insulate Floor Above Basement**
+   - *Action:* Add insulation to `FloorAboveBasement`.
+   - *Rationale:* Eliminates cold drafts from basement.
+   - *Cost-Effectiveness:* High.
+
+3. **Insulate Flat Roof**
+   - *Action:* Insulate `RoofExtension`.
+   - *Rationale:* Flat roofs lose heat rapidly; insulation reduces energy demand.
+   - *Cost-Effectiveness:* High.
+
+---
+
+### **Phase 2: Ventilation Upgrade**
+4. **Replace Ventilation System**
+   - *Action:* Upgrade from `VentilationSystemA` (natural) to `VentilationSystemC` or `VentilationSystemD`.
+   - *Rationale:* Sealed envelope requires controlled ventilation to prevent moisture buildup.
+   - *Cost-Effectiveness:* Medium.
+
+---
+
+### **Phase 3: Heating System Transition**
+5. **Place Air-Water Heat Pump**
+   - *Action:* Replace boiler with an Air-Water Heat Pump.
+   - *Rationale:* Geothermal potential is "false," and no heat grid is available.
+   - *Cost-Effectiveness:* Medium (long-term energy savings).
+
+---
+
+### **Phase 4: Sustainable Energy Generation**
+6. **Place PV-Panels on Roof**
+   - *Action:* Install solar panels on the roof.
+   - *Rationale:* Building has confirmed PV potential; offsets electricity consumption.
+   - *Cost-Effectiveness:* Medium (long-term savings).
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Walls (Exterior)** | Reduces heat loss through non-insulated walls. |
+| **2** | **Insulate Floor Above Basement** | Eliminates cold drafts from basement. |
+| **3** | **Insulate Flat Roof** | Reduces heat loss through the flat roof. |
+| **4** | **Replace Ventilation System** | Ensures controlled air exchange in a sealed envelope. |
+| **5** | **Place Air-Water Heat Pump** | Replaces inefficient boiler with a sustainable alternative. |
+| **6** | **Place PV-Panels on Roof** | Offsets electricity consumption of the heat pump. |
+
+### **Notes:**
+- **Windows:** Double-glazed and in good condition; replacement is not recommended.
+- **Historical Protection:** None reported on walls.
+- **EPC Improvement:** Expected to significantly improve the EPC score (targeting B or A label).
+
+This plan follows a **"Fabric First"** approach, ensuring the building envelope is optimized before upgrading the heating system. The sequence maximizes cost-effectiveness while achieving long-term energy efficiency.

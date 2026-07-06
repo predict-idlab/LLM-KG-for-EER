@@ -1,0 +1,14 @@
+1. replace flat roof
+2. insulate gable roof
+3. insulate walls interior
+4. insulate walls exterior
+5. replace glazing
+6. replace windows
+7. insulate floor above basement
+8. replace ventilation system
+9. install low-temperature emission system
+10. connect to heat grid
+11. install pv-panels on roof
+12. install pv-panels in garden
+13. install sunshades
+14. install air-water heat pump

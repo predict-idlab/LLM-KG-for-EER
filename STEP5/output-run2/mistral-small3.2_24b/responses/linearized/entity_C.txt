@@ -1,0 +1,48 @@
+### Renovation Plan:
+
+#### Current Situation:
+- **Building Type:** Attached (1963)
+- **EPC Score:** 50 (A+ Label)
+- **Motivation:** Improve EPC
+- **Thermal Performance:**
+  - **Roof Main:** Moderately Insulated (Gable)
+  - **Roof Extension:** Well Insulated (Flat)
+  - **Walls:** Front (Well Insulated, Full Brick), Rear (Well Insulated, Full Brick)
+  - **Floor Above Basement:** Well Insulated
+- **Windows:** Double-Glazed (Living Area & Bedrooms)
+- **Heating System:** Electric Convector
+- **Ventilation System:** Type D
+- **PV Panels Installed:** Yes
+- **Geothermal Potential:** False
+- **Heat Grid Availability:** False
+
+#### Recommendations:
+
+1. **Replace Glazing (High Priority)**
+   - **Action:** Upgrade to Triple Glazing
+   - **Rationale:** Although double glazing is already installed, replacing it with triple glazing will further reduce heat loss and improve thermal comfort.
+   - **Impact:** High energy savings, improved comfort.
+
+2. **Replace Ventilation System (Medium Priority)**
+   - **Action:** Upgrade to Ventilation System C (or D if ductwork is feasible)
+   - **Rationale:** The current ventilation system (Type D) may not be optimal for the building’s needs. A more efficient system will improve air quality and reduce energy loss.
+   - **Impact:** Moderate energy savings, better indoor air quality.
+
+3. **Replace Emission System (Low Priority)**
+   - **Action:** Transition to Low-Temperature Emission System
+   - **Rationale:** Since the building already has a low EPC score (A+), further optimization can be achieved by improving heat distribution efficiency.
+   - **Impact:** Minor energy savings, improved comfort.
+
+#### Summary of Sequence:
+| Priority | Action | Rationale |
+|----------|--------|-----------|
+| **1**    | **Replace Glazing** | Maximize thermal performance of windows. |
+| **2**    | **Upgrade Ventilation System** | Improve air quality and energy efficiency. |
+| **3**    | **Low-Temperature Emission System** | Fine-tune heating distribution for optimal comfort. |
+
+#### Next Steps:
+- **Consult a Specialist:** For detailed assessments on glazing replacement and ventilation system upgrades.
+- **Budgeting:** Estimate costs for glazing replacement and ventilation system upgrades.
+- **Permit Check:** Ensure compliance with local regulations for ventilation system changes.
+
+This plan ensures a balanced approach between cost-effectiveness and energy efficiency while maintaining the building’s high EPC rating.

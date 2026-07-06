@@ -1,0 +1,46 @@
+Based on the provided ontology and the specific data for the building, here is the proposed renovation plan. 
+
+This plan follows the **"Fabric First"** principle: we first reduce the energy demand by improving the building envelope (insulation), then upgrade the technical systems (ventilation and heating), and finally introduce renewable energy to offset remaining consumption.
+
+### Phase 1: Thermal Envelope Optimization (Reducing Energy Demand)
+The building is from 1832 and has several areas with no insulation. Addressing these first ensures that any future heating system is sized correctly and operates efficiently.
+
+1.  **Insulate Flat Roof (RoofExtension):** The flat roof is currently not insulated. This is a high-priority area for heat loss.
+    *   *Action:* `insulate flat roof`.
+2.  **Insulate Floor Above Basement:** The floor above the basement is currently not insulated.
+    *   *Action:* `insulate floor above basement`.
+3.  **Insulate Exterior Walls (Wall_Front & Wall_Rear):** Both the front and rear walls are full brick and not insulated. Because they are "Full Brick" (not cavity walls), cavity injection is not an option.
+    *   *Action:* `insulate wall on exterior`. (Note: If budget or permits are a constraint, `insulate wall on interior` is the cost-effective alternative).
+
+### Phase 2: Ventilation Upgrade
+The building currently uses **Ventilation System A** (natural supply and exhaust), which is the least efficient and can lead to heat loss through uncontrolled air leakage.
+
+4.  **Upgrade Ventilation:** To maintain air quality after sealing the building with insulation and to improve heat recovery.
+    *   *Action:* `replace ventilation system`.
+
+### Phase 3: Heating System Modernization
+The owner has a stated reason to change the emission system, and the current boiler is outdated. Since geothermal and heat grids are not available for this site, an air-source solution is the most viable path.
+
+5.  **Low-Temperature Emission Transition:** Heat pumps are most efficient when paired with low-temperature emitters (e.g., underfloor heating or oversized radiators) rather than traditional old radiators.
+    *   *Action:* `place emission system on low temperature`.
+6.  **Install Heat Pump:** Once the envelope is insulated and emitters are upgraded, the boiler can be replaced.
+    *   *Action:* `place air-water heatpump`.
+
+### Phase 4: Renewable Energy Integration
+With the energy demand significantly lowered and the heating system electrified, the final step is to generate electricity on-site.
+
+7.  **Solar Energy Installation:** The building is flagged as having potential for PV.
+    *   *Action:* `place PV-panels on roof`.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Category | Action | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulation** | Flat Roof $\rightarrow$ Floor $\rightarrow$ Walls | Stops heat leaks first; prevents "over-sizing" the new heater. |
+| **2** | **Airflow** | Replace Ventilation System | Ensures healthy indoor air quality after the building is "sealed." |
+| **3** | **Heating** | Low-Temp Emitters $\rightarrow$ Air-Water HP | Maximizes the Coefficient of Performance (COP) of the heat pump. |
+| **4** | **Energy** | PV Panels on Roof | Offsets the electricity cost of the new heat pump. |
+
+**Cost-Effectiveness Note:** By insulating the walls and roof first, the required capacity (and thus the cost) of the Air-Water Heat Pump is reduced, leading to lower long-term operational costs and a better EPC label.

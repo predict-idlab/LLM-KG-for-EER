@@ -1,0 +1,65 @@
+### Step 1: Analyze Building Structure and Current State
+The building is a semi-detached house with a gable roof (RoofMain) and a flat roof extension (RoofExtension). It has three main walls: Wall_Front, Wall_Rear, and Wall_Left. The building's owner wants to improve the EPC (Energy Performance Certificate) of the dwelling.
+
+### Step 2: Identify Key Areas for Improvement
+1. **Roof Insulation**: The RoofMain is moderately insulated, and the RoofExtension is well insulated. Insulating the RoofMain could significantly improve the EPC.
+2. **Wall Insulation**: All walls (Wall_Front, Wall_Rear, Wall_Left) are well insulated. No immediate need for wall insulation.
+3. **Window Glazing**: The windows in the living area and bedrooms have double glazing (WindowGlazingLivingArea and WindowGlazingBedrooms). Replacing these with triple glazing could further improve energy efficiency.
+4. **Floor Insulation**: The FloorAboveBasement is well insulated. No immediate need for floor insulation.
+5. **Ventilation System**: The building has a VentilationSystemD, which is a high-efficiency system. No need for ventilation system replacement.
+
+### Step 3: Prioritize Renovations Based on EPC Improvement
+1. **Replace Glazing**: Replace double glazing with triple glazing in the living area and bedrooms. This is a high-impact renovation that directly improves the building's energy efficiency.
+2. **Insulate RoofMain**: Insulate the gable roof to improve its insulation grade from moderately insulated to well insulated.
+3. **Replace RoofUnderlayment**: Replace the roof underlayment to ensure it is completely air- and watertight, especially important for the flat roof extension.
+
+### Step 4: Detailed Renovation Plan
+1. **Replace Glazing**
+   - **Action**: Replace double glazing with triple glazing in the living area and bedrooms.
+   - **Reasoning**: Triple glazing has better thermal and acoustic properties than double glazing, directly improving the EPC.
+   - **Point of Attention**: Ensure the window frames are in good condition and strong enough to fit new glass.
+   - **Permit Needed**: Not necessary (Flanders).
+   - **Unit Price**: 200 EUR per m².
+
+2. **Insulate RoofMain**
+   - **Action**: Insulate the gable roof to improve its insulation grade.
+   - **Reasoning**: The RoofMain is currently moderately insulated. Insulating it will improve the overall energy efficiency of the building.
+   - **Point of Attention**: Pay extra attention when installing the roof underlayment to ensure it is completely air- and watertight.
+   - **Permit Needed**: Not necessary (Flanders).
+   - **Unit Price**: 60 EUR per m².
+
+3. **Replace RoofUnderlayment**
+   - **Action**: Replace the roof underlayment to ensure it is completely air- and watertight.
+   - **Reasoning**: Ensuring the roof underlayment is air- and watertight is crucial for maintaining the building's energy efficiency and preventing moisture issues.
+   - **Point of Attention**: Pay extra attention when installing the roof underlayment so that it is completely air- and watertight.
+   - **Permit Needed**: Not necessary (Flanders).
+   - **Unit Price**: 65 EUR per m².
+
+### Step 5: Additional Considerations
+- **PV Panels**: Although the building has potential for PV panels, the current focus is on improving the EPC. PV panels can be considered as a future step.
+- **Heat Pump**: The building already has a heat pump (Generation_System), so no need for additional heating system renovations.
+- **Ventilation System**: The VentilationSystemD is already a high-efficiency system, so no need for replacement.
+
+### Final Renovation Plan
+1. **Replace Glazing**
+   - **Action**: Replace double glazing with triple glazing in the living area and bedrooms.
+   - **Reasoning**: Triple glazing has better thermal and acoustic properties than double glazing, directly improving the EPC.
+   - **Point of Attention**: Ensure the window frames are in good condition and strong enough to fit new glass.
+   - **Permit Needed**: Not necessary (Flanders).
+   - **Unit Price**: 200 EUR per m².
+
+2. **Insulate RoofMain**
+   - **Action**: Insulate the gable roof to improve its insulation grade.
+   - **Reasoning**: The RoofMain is currently moderately insulated. Insulating it will improve the overall energy efficiency of the building.
+   - **Point of Attention**: Pay extra attention when installing the roof underlayment to ensure it is completely air- and watertight.
+   - **Permit Needed**: Not necessary (Flanders).
+   - **Unit Price**: 60 EUR per m².
+
+3. **Replace RoofUnderlayment**
+   - **Action**: Replace the roof underlayment to ensure it is completely air- and watertight.
+   - **Reasoning**: Ensuring the roof underlayment is air- and watertight is crucial for maintaining the building's energy efficiency and preventing moisture issues.
+   - **Point of Attention**: Pay extra attention when installing the roof underlayment so that it is completely air- and watertight.
+   - **Permit Needed**: Not necessary (Flanders).
+   - **Unit Price**: 65 EUR per m².
+
+This plan focuses on high-impact renovations that directly improve the building's EPC, ensuring energy efficiency and cost-effectiveness.

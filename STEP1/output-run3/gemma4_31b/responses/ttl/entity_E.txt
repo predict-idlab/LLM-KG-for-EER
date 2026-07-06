@@ -1,0 +1,56 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. This plan follows the "fabric-first" principle: reducing energy demand through insulation before upgrading heating systems and adding renewable energy sources.
+
+### **Building Analysis Summary**
+*   **Current State:** A detached building (1862) with an EPC score of **165** (B label).
+*   **Critical Weaknesses:** All four exterior walls are **not insulated** (cavity walls), and all windows use **single glazing**.
+*   **Strengths:** The gable roof is already well-insulated, and the wooden window frames are in good condition.
+*   **Constraints:** No potential for geothermal energy; no heat grid available.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope (The "Quick Wins" & High Impact)**
+*Goal: Minimize heat loss to reduce the required capacity of future heating systems.*
+
+1.  **Insulate Wall Cavities (`InsulateWallCavity`):** 
+    *   **Action:** Inject insulation into the four non-insulated cavity walls.
+    *   **Justification:** This is the most cost-effective insulation method (lowest unit price in the ontology) and has a low nuisance level.
+2.  **Upgrade Glazing (`ReplaceGlazing`):** 
+    *   **Action:** Replace single glazing with double or triple glazing.
+    *   **Justification:** Single glazing is a major source of heat loss. Since the wooden frames are in "Good State," replacing only the glass is more cost-effective than replacing entire window units.
+3.  **Insulate Floor (`InsulateFloorAboveBasement`):** 
+    *   **Action:** Insulate the floor above the crawl space.
+    *   **Justification:** This prevents cold drafts from the ground, improving thermal comfort and efficiency.
+
+#### **Phase 2: Ventilation & Systems Upgrade**
+*Goal: Improve indoor air quality and transition to high-efficiency heating.*
+
+4.  **Upgrade Ventilation (`ReplaceVentilationSystem`):** 
+    *   **Action:** Transition from Ventilation System A (natural) to a more controlled system (e.g., System C or D).
+    *   **Justification:** Once the building envelope is sealed (Phase 1), mechanical ventilation is necessary to prevent humidity buildup and ensure healthy air exchange.
+5.  **Install Heat Pump (`PlaceAirWaterHeatpump`):** 
+    *   **Action:** Replace the current boiler/electric convector setup with an air-to-water heat pump.
+    *   **Justification:** Geothermal is not viable for this site. An air-water heat pump is the most efficient alternative for a building that already has radiators and floor heating.
+
+#### **Phase 3: Renewable Energy Integration**
+*Goal: Offset the electricity consumption of the new heat pump.*
+
+6.  **Install Solar Panels (`PlacePVPanelsOnRoof`):** 
+    *   **Action:** Install PV panels on the gable roof.
+    *   **Justification:** The building has confirmed potential for PV. Generating your own electricity is the final step to maximize energy efficiency and reduce long-term operational costs.
+
+---
+
+### **Summary of Optimal Sequence & Logic**
+
+| Sequence | Intervention | Priority | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall Insulation** | High | Lowest cost, immediate reduction in heat loss. |
+| **2** | **Glazing Upgrade** | High | Eliminates the inefficiency of single-pane glass. |
+| **3** | **Floor Insulation** | Medium | Completes the thermal shell. |
+| **4** | **Ventilation Upgrade** | Medium | Necessary after sealing the building envelope. |
+| **5** | **Air-Water Heat Pump** | Medium | Sized correctly only *after* insulation is complete. |
+| **6** | **PV Panels** | Low | Powers the new systems with green energy. |
+
+**Estimated Outcome:** This path will significantly lower the energy score (improving the EPC label toward A/A+) by first reducing the energy load and then replacing fossil-fuel/inefficient electric heating with a sustainable, self-powered system.

@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["insulate wall on interior", "place emission system on low temperature"], "extra_actions": ["insulate external walls", "place geothermal heatpump vertical"]}, "sequence": {"order_errors": []}}

@@ -1,0 +1,46 @@
+### Renovation Plan:
+
+#### Current Situation:
+- **Building Type:** Attached building
+- **Construction Year:** 2023
+- **EPC Score:** 50
+- **Potential for PV:** False
+- **Presence of Heat Grid:** False
+- **Reason to Change Emission System:** True
+- **Owner's Motivation:** Improve EPC
+
+#### Key Observations:
+1. **Building Envelope:**
+   - The front and rear walls are well-insulated.
+   - The floor above the basement is well-insulated.
+   - The roof extension (flat roof) is well-insulated.
+   - The roof main (gable roof) is moderately insulated.
+   - Windows have double glazing and are in good condition.
+
+2. **Heating System:**
+   - The current emission system consists of electric convectors and floor heating.
+   - There is a reason to change the emission system.
+
+3. **Energy Generation:**
+   - There are PV panels installed, but no information on their performance or potential is provided.
+
+#### Proposed Renovation Path:
+
+1. **Improve Roof Insulation:**
+   - **Action:** Insulate the gable roof (RoofMain) to the same level as the flat roof (RoofExtension).
+   - **Rationale:** Ensuring consistent insulation across all roof types will eliminate thermal bridges and improve overall thermal performance.
+
+2. **Upgrade Heating System:**
+   - **Action:** Place an air-water heat pump.
+   - **Rationale:** Since there is no potential for geothermal energy and no heat grid is present, an air-water heat pump is the most efficient and sustainable option to replace the existing electric convectors and floor heating.
+
+3. **Ventilation System:**
+   - **Action:** Consider upgrading the ventilation system to ensure proper air exchange and indoor air quality, especially after sealing the building envelope.
+   - **Rationale:** While the current ventilation system (System D) is efficient, it might need adjustments to work optimally with the new heat pump.
+
+#### Summary of Sequence and Rationale:
+1. **Insulate the Gable Roof:** This will ensure uniform insulation across the entire roof area, reducing heat loss.
+2. **Install an Air-Water Heat Pump:** This will replace the existing electric convectors and floor heating with a more efficient and sustainable heating solution.
+3. **Review Ventilation System:** Ensure that the ventilation system is compatible with the new heating system to maintain indoor air quality.
+
+This plan focuses on maximizing energy efficiency while remaining cost-effective, prioritizing actions that provide the highest return on investment and align with the owner's motivation to improve the EPC score.

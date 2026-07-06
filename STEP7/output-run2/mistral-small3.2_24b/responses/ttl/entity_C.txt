@@ -1,0 +1,16 @@
+1. insulate gable roof
+2. insulate attic floor
+3. insulate wall cavity
+4. replace glazing
+5. replace windows
+6. insulate floor above basement
+7. replace ventilation system
+8. place air-air heat pump
+9. place air-water heat pump
+10. place emission system on low temperature
+11. place heat pump boiler
+12. place sunshade
+13. place air conditioning
+14. place pv-panels on roof
+15. place pv-panels in garden
+16. place plug and play pv-panels

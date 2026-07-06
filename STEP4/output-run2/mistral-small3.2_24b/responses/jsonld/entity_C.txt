@@ -1,0 +1,29 @@
+### Renovation Plan:
+
+Based on the provided building data and the RENO ontology, the property is an attached building from 2023 with an EPC score of 50 (A Label). The owner's primary motivation is to improve the EPC rating, but since the building is already highly energy-efficient, the focus should be on maintaining and optimizing the current systems.
+
+#### Proposed Renovation Path:
+
+1. **Maintain Existing Insulation (Priority: High)**
+   - **Inspect and Repair Wall Insulation:** Ensure that the well-insulated walls (`Wall_Front` and `Wall_Rear`) remain in good condition. Address any signs of wear, moisture, or damage.
+   - **Inspect Roof Insulation:** The `RoofMain` is moderately insulated, and the `RoofExtension` is well insulated. Check for any signs of wear, moisture, or damage, and repair as necessary.
+
+2. **Window Maintenance and Optimization (Priority: Medium)**
+   - **Inspect and Clean Windows:** The windows are double-glazed, which is good for energy efficiency. Regular maintenance (cleaning, sealing gaps) will ensure optimal performance.
+   - **Check Window Frames:** The wooden window frames are in a "Good State." Regular maintenance (painting, sealing) will extend their lifespan and energy efficiency.
+
+3. **Heating System Maintenance (Priority: Medium)**
+   - **Regular Servicing of the Boiler:** The `Generation_System` (boiler) should be serviced annually to ensure optimal performance and safety.
+   - **Check Emission System:** The `EmissionSystem` (electric convector and floor heating) should be inspected for wear and tear, and any necessary repairs should be made.
+
+4. **Ventilation System Maintenance (Priority: Low)**
+   - **Regular Servicing of Ventilation System:** The `VentilationSystem` (System D) should be cleaned and serviced annually to ensure proper air circulation and filtration.
+
+5. **Consider Future Upgrades (Priority: Long-term)**
+   - **Energy Audit:** Periodically conduct an energy audit to identify any areas for potential improvement, even if the building is already highly energy-efficient.
+   - **Explore Renewable Energy Options:** Although the building has no potential for PV or geothermal energy, future technological advancements might make these options viable. Stay informed about new developments in renewable energy technologies.
+
+#### Summary of Optimal Sequence:
+**Insulation Inspection** $\rightarrow$ **Window Maintenance** $\rightarrow$ **Boiler Servicing** $\rightarrow$ **Ventilation System Servicing** $\rightarrow$ **Energy Audit**.
+
+This plan focuses on maintaining the current high level of energy efficiency while addressing any potential issues that could arise over time. It ensures that the building remains in optimal condition and continues to meet the owner's goals of maintaining a high EPC rating.

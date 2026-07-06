@@ -1,0 +1,197 @@
+### Renovation Plan
+
+**Objective:**
+Improve the energy efficiency of the building by implementing a series of energy-efficient renovations that are cost-effective and prioritize long-term operational performance.
+
+**Current State:**
+- **Energy Performance Certificate (EPC) Score:** 50
+- **Building Type:** Attached
+- **Construction Year:** 2023
+- **Insulation:**
+  - Roof (Main): Moderately Insulated
+  - Roof (Extension): Well Insulated
+  - Walls (Front and Rear): Well Insulated
+  - Floor Above Basement: Well Insulated
+  - Windows: Double Glazing (Bedrooms and Living Area)
+- **Heating System:** Electric Convector (Floor Heating)
+- **Ventilation System:** Ventilation System D
+- **PV Panels:** Present
+- **Heat Grid:** Not Present
+- **Potential for Geothermal:** No (Horizontal or Vertical)
+- **Potential for PV:** No
+- **Reason to Change Emission System:** Yes
+- **Historical Protection:** No (Walls Front and Rear)
+
+**Renovation Plan:**
+
+1. **Replace Flat Roof (Extension)**
+   - **Action:** Replace the existing flat roof with a new flat roof.
+   - **Priority:** High
+   - **Reasoning:** The roof extension is currently well insulated, but replacing the roof can further improve energy efficiency and ensure long-term durability.
+   - **Estimated Cost:** Based on the unit price of 120 EUR/m².
+
+2. **Insulate Flat Roof (Extension)**
+   - **Action:** Insulate the flat roof if not already well insulated.
+   - **Priority:** High
+   - **Reasoning:** Ensuring the roof is well insulated will reduce heat loss and improve overall energy efficiency.
+   - **Estimated Cost:** Based on the unit price of 50 EUR/m².
+
+3. **Replace Gable Roof (Main)**
+   - **Action:** Replace the existing gable roof with a new gable roof.
+   - **Priority:** Medium
+   - **Reasoning:** The main roof is currently moderately insulated. Replacing the roof can improve insulation and overall energy efficiency.
+   - **Estimated Cost:** Based on the unit price of 260 EUR/m².
+
+4. **Insulate Gable Roof (Main)**
+   - **Action:** Insulate the gable roof if not already well insulated.
+   - **Priority:** Medium
+   - **Reasoning:** Ensuring the roof is well insulated will reduce heat loss and improve overall energy efficiency.
+   - **Estimated Cost:** Based on the unit price of 60 EUR/m².
+
+5. **Insulate Attic Floor**
+   - **Action:** Insulate the attic floor if not already well insulated.
+   - **Priority:** Medium
+   - **Reasoning:** Insulating the attic floor will prevent heat loss through the roof and improve energy efficiency.
+   - **Estimated Cost:** Based on the unit price of 60 EUR/m².
+
+6. **Insulate Wall Cavity**
+   - **Action:** Insulate the wall cavity if not already well insulated.
+   - **Priority:** Medium
+   - **Reasoning:** Insulating the wall cavity will reduce heat loss through the walls and improve energy efficiency.
+   - **Estimated Cost:** Based on the unit price of 22 EUR/m².
+
+7. **Insulate Wall Interior**
+   - **Action:** Insulate the interior walls if not already well insulated.
+   - **Priority:** Medium
+   - **Reasoning:** Insulating the interior walls will reduce heat loss through the walls and improve energy efficiency.
+   - **Estimated Cost:** Based on the unit price of 150 EUR/m².
+
+8. **Insulate Wall Exterior**
+   - **Action:** Insulate the exterior walls if not already well insulated.
+   - **Priority:** Medium
+   - **Reasoning:** Insulating the exterior walls will reduce heat loss through the walls and improve energy efficiency.
+   - **Estimated Cost:** Based on the unit price of 200 EUR/m².
+
+9. **Replace Glazing**
+   - **Action:** Replace the existing glazing with new glazing.
+   - **Priority:** Low
+   - **Reasoning:** Replacing the glazing can improve the thermal and acoustic properties of the windows.
+   - **Estimated Cost:** Based on the unit price of 200 EUR/m².
+
+10. **Replace Windows**
+    - **Action:** Replace the existing windows with new windows.
+    - **Priority:** Low
+    - **Reasoning:** Replacing the windows can improve the thermal and acoustic properties of the windows.
+    - **Estimated Cost:** Based on the unit price of 800 EUR/m².
+
+11. **Insulate Floor Above Basement**
+    - **Action:** Insulate the floor above the basement if not already well insulated.
+    - **Priority:** Low
+    - **Reasoning:** Insulating the floor above the basement will prevent heat loss through the floor and improve energy efficiency.
+    - **Estimated Cost:** Based on the unit price of 30 EUR/m².
+
+12. **Replace Ventilation System**
+    - **Action:** Replace the existing ventilation system with a new ventilation system.
+    - **Priority:** Low
+    - **Reasoning:** Replacing the ventilation system can improve air quality and energy efficiency.
+    - **Estimated Cost:** Based on the unit price of 17 EUR/m².
+
+13. **Place Air-Air Heat Pump**
+    - **Action:** Install an air-air heat pump.
+    - **Priority:** Low
+    - **Reasoning:** Installing an air-air heat pump can improve heating efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 35 EUR/m².
+
+14. **Place Vertical Geothermal Heat Pump**
+    - **Action:** Install a vertical geothermal heat pump.
+    - **Priority:** Low
+    - **Reasoning:** Installing a vertical geothermal heat pump can improve heating efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 50 EUR/m².
+
+15. **Place Horizontal Geothermal Heat Pump**
+    - **Action:** Install a horizontal geothermal heat pump.
+    - **Priority:** Low
+    - **Reasoning:** Installing a horizontal geothermal heat pump can improve heating efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 50 EUR/m².
+
+16. **Place Air-Water Heat Pump**
+    - **Action:** Install an air-water heat pump.
+    - **Priority:** Low
+    - **Reasoning:** Installing an air-water heat pump can improve heating efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 35 EUR/m².
+
+17. **Place Emission System on Low Temperature**
+    - **Action:** Install an emission system on low temperature.
+    - **Priority:** Low
+    - **Reasoning:** Installing an emission system on low temperature can improve heating efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 100 EUR/m².
+
+18. **Place Air-Water Heat Pump with Cooling**
+    - **Action:** Install an air-water heat pump with cooling.
+    - **Priority:** Low
+    - **Reasoning:** Installing an air-water heat pump with cooling can improve heating efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 35 EUR/m².
+
+19. **Place Heat Pump Boiler**
+    - **Action:** Install a heat pump boiler.
+    - **Priority:** Low
+    - **Reasoning:** Installing a heat pump boiler can improve heating efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 4000 EUR.
+
+20. **Place Sun Shade**
+    - **Action:** Install a sun shade.
+    - **Priority:** Low
+    - **Reasoning:** Installing a sun shade can reduce solar heat gain and improve energy efficiency.
+    - **Estimated Cost:** Based on the unit price of 750 EUR.
+
+21. **Place Air Conditioning**
+    - **Action:** Install air conditioning.
+    - **Priority:** Low
+    - **Reasoning:** Installing air conditioning can improve cooling efficiency and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 1000 EUR.
+
+22. **Place PV Panels on Roof**
+    - **Action:** Install PV panels on the roof.
+    - **Priority:** Low
+    - **Reasoning:** Installing PV panels on the roof can generate renewable energy and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 275 EUR/m².
+
+23. **Place PV Panels in Garden**
+    - **Action:** Install PV panels in the garden.
+    - **Priority:** Low
+    - **Reasoning:** Installing PV panels in the garden can generate renewable energy and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 275 EUR/m².
+
+24. **Place Plug and Play PV Panels**
+    - **Action:** Install plug and play PV panels.
+    - **Priority:** Low
+    - **Reasoning:** Installing plug and play PV panels can generate renewable energy and reduce energy consumption.
+    - **Estimated Cost:** Based on the unit price of 550 EUR.
+
+**Implementation Sequence:**
+1. Replace Flat Roof (Extension)
+2. Insulate Flat Roof (Extension)
+3. Replace Gable Roof (Main)
+4. Insulate Gable Roof (Main)
+5. Insulate Attic Floor
+6. Insulate Wall Cavity
+7. Insulate Wall Interior
+8. Insulate Wall Exterior
+9. Replace Glazing
+10. Replace Windows
+11. Insulate Floor Above Basement
+12. Replace Ventilation System
+13. Place Air-Air Heat Pump
+14. Place Vertical Geothermal Heat Pump
+15. Place Horizontal Geothermal Heat Pump
+16. Place Air-Water Heat Pump
+17. Place Emission System on Low Temperature
+18. Place Air-Water Heat Pump with Cooling
+19. Place Heat Pump Boiler
+20. Place Sun Shade
+21. Place Air Conditioning
+22. Place PV Panels on Roof
+23. Place PV Panels in Garden
+24. Place Plug and Play PV Panels
+
+This plan prioritizes actions that provide the most significant improvements in energy efficiency and are cost-effective. The sequence ensures that foundational improvements (such as roof and wall insulation) are addressed before more complex systems (such as heat pumps and PV panels) are installed.

@@ -1,0 +1,55 @@
+### Renovation Plan for Attached Building (1832)
+
+#### Key Objectives:
+1. **Improve EPC Label** (Current: 262 - C Label)
+2. **Maximize Energy Efficiency**
+3. **Ensure Cost-Effectiveness**
+
+#### Proposed Renovation Path:
+
+**Phase 1: Thermal Envelope Optimization (Priority: High)**
+1. **Insulate Wall Exterior** (Wall_Front, Wall_Rear)
+   - *Action:* Insulate the exterior of both full brick walls to eliminate thermal bridges.
+   - *Rationale:* The walls are not insulated and have no historical protection, making exterior insulation feasible and effective.
+
+2. **Insulate Floor Above Basement**
+   - *Action:* Add insulation to the floor above the basement to prevent heat loss to the unconditioned space.
+   - *Rationale:* The floor is currently not insulated, and insulation will reduce heat loss significantly.
+
+3. **Insulate Flat Roof** (RoofExtension)
+   - *Action:* Insulate the flat roof to prevent heat loss through the roof.
+   - *Rationale:* The roof is currently not insulated, and insulation will reduce heat loss significantly.
+
+**Phase 2: Heating System Transition (Priority: Medium)**
+4. **Place Air-Water Heat Pump**
+   - *Action:* Install an air-water heat pump as the primary heating source.
+   - *Rationale:* The building has no geothermal potential and no heat grid, making an air-water heat pump the most sustainable and efficient option.
+
+5. **Place Emission System on Low Temperature**
+   - *Action:* Transition the current radiators to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new heat pump.
+   - *Rationale:* Low-temperature emissions improve the efficiency of the heat pump.
+
+**Phase 3: Sustainable Energy Generation (Priority: Long-term)**
+6. **Place PV-Panels on Roof**
+   - *Action:* Install solar panels on the roof to generate renewable electricity.
+   - *Rationale:* The building has confirmed potential for PV, and solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+**Phase 4: Ventilation System Upgrade (Priority: Medium)**
+7. **Replace Ventilation System**
+   - *Action:* Upgrade from Ventilation System A to a more efficient system (e.g., System C or D).
+   - *Rationale:* The current ventilation system is not efficient, and an upgrade will improve indoor air quality and reduce energy loss.
+
+#### Summary of Optimal Sequence:
+1. **Insulate Wall Exterior**
+2. **Insulate Floor Above Basement**
+3. **Insulate Flat Roof**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Place PV-Panels on Roof**
+7. **Replace Ventilation System**
+
+#### Cost-Effectiveness and Energy Efficiency:
+- **Cost-Effective:** The proposed plan prioritizes high-impact, low-cost measures first, such as insulation and ventilation upgrades.
+- **Energy Efficient:** The plan ensures that the building envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+This renovation plan is tailored to the specific needs and characteristics of the building, ensuring that the EPC label is improved while maximizing energy efficiency and cost-effectiveness.

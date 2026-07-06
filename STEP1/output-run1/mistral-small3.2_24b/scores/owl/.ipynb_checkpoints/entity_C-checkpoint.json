@@ -1,0 +1,14 @@
+{
+	"completeness": {
+		"score": 2,
+		"justification": "The LLM adds two actions not in the ground truth (replace glazing and install PV panels) and omits the action 'place emission system on low temperature'."
+	},
+	"sequence": {
+		"score": 1,
+		"justification": "The LLM places 'replace emission system' before 'insulate gable roof', which deviates from the correct order in the ground truth."
+	},
+	"verbosity": {
+		"score": 3,
+		"justification": "The LLM includes unnecessary details like costs, reasons, and formatting; actions are not in imperative form and are overly verbose."
+	}
+}

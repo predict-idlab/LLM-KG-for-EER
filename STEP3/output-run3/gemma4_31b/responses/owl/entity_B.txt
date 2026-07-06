@@ -1,0 +1,37 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building, the renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** logic. This ensures that the heating system is not oversized and that the energy produced is not wasted.
+
+### Phase 1: Thermal Envelope (Prioritizing "Not Insulated" Elements)
+The building has several critical gaps in insulation. Addressing these first is the most cost-effective way to lower the EPC score.
+
+1.  **Insulate Flat Roof (Extension):** The flat roof is currently not insulated. This is a high-priority area for heat loss.
+2.  **Insulate Walls on Exterior:** Both the front and rear full-brick walls are not insulated. Since there is no historical protection, exterior insulation is the most effective method to eliminate thermal bridges.
+3.  **Insulate Floor Above Basement:** The floor above the basement is not insulated. This will prevent cold drafts from the basement into the living areas.
+
+*Note: The main gable roof is already moderately insulated and in good state, so a full replacement is not recommended at this time to remain cost-effective.*
+
+### Phase 2: Ventilation and Air Quality
+Once the house is airtight due to new insulation, the current Ventilation System A (natural supply/exhaust) will be insufficient and inefficient.
+
+4.  **Replace Ventilation System:** Upgrade to a more modern system (e.g., System C or D). This prevents humidity buildup and improves thermal comfort without significant heat loss.
+
+### Phase 3: Heating System Modernization
+With a reduced heating load thanks to Phase 1, we can now move from high-temperature radiators to a high-efficiency low-temperature system.
+
+5.  **Place Emission System on Low Temperature:** Transitioning the radiators to a low-temperature system is a prerequisite for the efficient operation of a heat pump.
+6.  **Place Air-Water Heat Pump:** Since vertical and horizontal geothermal options are not viable for this site, an air-water heat pump is the most efficient and cost-effective alternative to replace the existing boiler.
+
+### Phase 4: Renewable Energy Generation
+The final step is to offset the electricity consumption of the new heat pump and ventilation system.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing these last ensures the electrical load has been optimized first, allowing for a more precisely sized solar array.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Action | Logic |
+| :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor** | Stops heat loss first; reduces the required capacity of the future heating system. |
+| **2** | **Replace Ventilation System** | Ensures air quality and moisture control in a now-insulated building. |
+| **3** | **Low-Temp Emission $\rightarrow$ Air-Water Heat Pump** | Shifts from fossil fuels to electricity using a high-efficiency COP system. |
+| **4** | **Place PV-Panels on Roof** | Generates clean energy to power the new energy-efficient installations. |

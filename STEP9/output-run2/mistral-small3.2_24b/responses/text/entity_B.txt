@@ -1,0 +1,40 @@
+Given the information about your 1832 attached house in Ghent, Belgium, here’s a step-by-step renovation plan to improve energy efficiency while remaining cost-effective. The plan prioritizes upgrades that maximize energy savings and long-term performance, considering the most optimal sequence for renovations:
+
+### Step 1: Insulate the Exterior Walls (Front and Rear)
+- **Action**: Install external wall insulation (EWI) on the solid brick walls. This is a critical step to reduce heat loss through the walls, which are currently uninsulated.
+- **Why First**: Walls account for a significant portion of heat loss in uninsulated homes. EWI also avoids reducing interior space and is less disruptive than internal insulation.
+- **Cost-Effective**: While EWI can be expensive, it provides long-term energy savings and may qualify for subsidies or tax incentives in Belgium.
+
+### Step 2: Insulate the Flat-Roof Extension
+- **Action**: Add insulation to the flat-roof extension. Since the roof is in good condition, you can add insulation on top of the existing roof or between the roof deck and the waterproofing layer.
+- **Why Next**: Flat roofs are prone to heat loss, and insulating them early will complement the wall insulation efforts.
+
+### Step 3: Upgrade the Heating System
+- **Action**: Replace the old boiler and radiators with a modern, high-efficiency condensing boiler or consider a heat pump if the existing radiators can be adapted (or replaced with low-temperature radiators or underfloor heating).
+- **Why Next**: A new heating system will work more efficiently with the improved insulation, reducing energy consumption. Heat pumps are more efficient but may require additional upgrades to the existing system.
+
+### Step 4: Insulate the Floor Above the Basement
+- **Action**: Install floor insulation above the basement. This can be done by adding insulation boards on top of the existing floor or by lifting the floor and insulating underneath.
+- **Why Next**: Insulating the floor will further reduce heat loss and complement the wall and roof insulation.
+
+### Step 5: Improve Ventilation
+- **Action**: Upgrade the natural ventilation system to a mechanical ventilation system with heat recovery (MVHR). This will improve air quality and reduce heat loss through ventilation.
+- **Why Next**: MVHR systems are more efficient than natural ventilation and work well with the improved insulation and heating system.
+
+### Step 6: Install Photovoltaic (PV) Panels
+- **Action**: Install PV panels on the roof to generate renewable energy. This will reduce electricity costs and contribute to a better energy performance certificate.
+- **Why Last**: PV panels are most effective when the building is already well-insulated and the heating system is efficient, ensuring that the energy generated is used optimally.
+
+### Additional Considerations:
+- **Windows**: The existing double-glazed windows are in good condition, so they do not need immediate replacement. However, if you plan to replace them in the future, consider triple glazing or secondary glazing for further efficiency.
+- **Subsidies and Incentives**: Check for available subsidies or tax incentives in Belgium for energy-efficient renovations. This can significantly reduce the upfront costs.
+
+### Optimal Sequence Summary:
+1. Insulate exterior walls (front and rear).
+2. Insulate the flat-roof extension.
+3. Upgrade the heating system.
+4. Insulate the floor above the basement.
+5. Improve ventilation with MVHR.
+6. Install photovoltaic panels.
+
+This sequence ensures that each upgrade builds on the previous one, maximizing energy savings and cost-effectiveness.

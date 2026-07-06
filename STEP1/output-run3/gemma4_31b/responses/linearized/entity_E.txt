@@ -1,0 +1,47 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. This plan follows the **"Fabric First"** principle: we first minimize energy loss through the building envelope before upgrading the heating and energy generation systems to ensure the new systems are sized correctly and operate at maximum efficiency.
+
+### **Phase 1: Building Envelope Optimization (The "Shell")**
+*Goal: Reduce heat loss and improve thermal retention. This is the most cost-effective way to lower the EPC score.*
+
+1.  **Cavity Wall Insulation (`InsulateWallCavity`):** 
+    *   **Analysis:** All four walls (Front, Left, Right, Rear) are cavity walls and currently **Not Insulated**. There is no historical protection, making this a high-priority, low-nuisance upgrade.
+    *   **Benefit:** Significantly reduces heat loss through the walls with a relatively low cost per $m^2$.
+2.  **Floor Insulation (`InsulateFloorAboveBasement`):** 
+    *   **Analysis:** The building has a floor above a crawl space. 
+    *   **Benefit:** Prevents cold air from entering the living spaces from below, increasing overall thermal comfort.
+3.  **Glazing Upgrade (`ReplaceGlazing`):** 
+    *   **Analysis:** Both the living area and bedrooms currently have **Single Glazing**, which is highly inefficient. However, the wooden window frames are in **Good State**.
+    *   **Action:** Instead of replacing the entire window unit, replace only the glazing with double or triple glazing.
+    *   **Benefit:** Drastically reduces heat loss through windows while remaining cost-effective by reusing existing high-quality frames.
+
+### **Phase 2: Heating & Ventilation Systems**
+*Goal: Replace outdated, high-consumption systems with high-efficiency alternatives.*
+
+4.  **Heating System Upgrade (`PlaceAirWaterHeatpump`):** 
+    *   **Analysis:** The building currently uses a mix of Radiators, Electric Convectors, and a Boiler. The owner has a stated reason to change the emission system. Since geothermal options (vertical/horizontal) are not viable for this site, an Air-Water Heat Pump is the optimal choice.
+    *   **Benefit:** Moves the building away from inefficient electric convectors and boilers toward a sustainable, low-carbon energy source.
+5.  **Ventilation Upgrade (`ReplaceVentilationSystem`):** 
+    *   **Analysis:** The building currently uses Ventilation System A (natural supply). 
+    *   **Benefit:** Upgrading to a more modern system (e.g., System B or C) will improve indoor air quality and prevent the moisture buildup that often occurs after increasing the airtightness of the shell (Phase 1).
+
+### **Phase 3: Renewable Energy Integration**
+*Goal: Offset operational costs and achieve the lowest possible EPC score.*
+
+6.  **Solar Energy Installation (`PlacePVPanelsOnRoof`):** 
+    *   **Analysis:** The building is a detached house with confirmed **potential for PV**.
+    *   **Benefit:** Generates on-site electricity to power the new Heat Pump, reducing long-term operational costs and maximizing the EPC improvement.
+
+---
+
+### **Summary of Optimal Sequence & Rationale**
+
+| Sequence | Intervention | Priority | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall Insulation** | Critical | Highest impact on energy retention; low cost. |
+| **2** | **Floor Insulation** | High | Eliminates "cold feet" effect and basement heat loss. |
+| **3** | **Replace Glazing** | High | Eliminates the primary source of drafts/heat loss. |
+| **4** | **Air-Water Heat Pump** | Medium | Sized accurately based on the now-insulated shell. |
+| **5** | **Ventilation System** | Medium | Ensures healthy air exchange in a tighter home. |
+| **6** | **PV Panels** | Final | Lowers the energy bills of the new heat pump. |
+
+**Estimated Result:** This path transforms a 19th-century building into a high-performance home by systematically addressing the envelope before the technology, ensuring the owner's motivation to **Improve EPC** is met in the most cost-effective manner.

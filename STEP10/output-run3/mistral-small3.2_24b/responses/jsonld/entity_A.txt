@@ -1,0 +1,66 @@
+### Renovation Plan for the 1951 Semi-Detached Building (EPC Score: 388)
+
+#### **Context & Objectives**
+- **Building Type:** Semi-detached (1951)
+- **EPC Score:** 388 (D Label)
+- **Motivation:** Improve EPC
+- **Key Issues:**
+  - Uninsulated walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`)
+  - Uninsulated gable roof (`RoofMain`)
+  - Uninsulated floor above basement (`FloorAboveBasement`)
+  - Existing boiler with potential for improvement
+  - Potential for PV panels (roof suitable)
+
+#### **Optimal Renovation Path**
+To maximize energy efficiency and improve the EPC score, the renovation should follow the **"Fabric First"** principle. This means prioritizing the building envelope before installing new heating systems.
+
+1. **Insulate the Thermal Envelope** (High Priority)
+   - **Insulate Walls on Exterior** (`Wall_Front`, `Wall_Rear`, `Wall_Right`):
+     - All three walls are uninsulated full brick walls.
+     - Exterior insulation is the most effective method to eliminate thermal bridges.
+     - **Rationale:** Eliminates heat loss through walls, which are the largest heat-loss surfaces.
+   - **Insulate Floor Above Basement** (`FloorAboveBasement`):
+     - Currently uninsulated.
+     - **Rationale:** Prevents cold drafts from the basement and improves overall comfort.
+   - **Insulate Gable Roof** (`RoofMain`):
+     - Currently uninsulated.
+     - **Rationale:** Heat rises, so roof insulation significantly reduces heat loss.
+
+2. **Upgrade Heating System** (Medium Priority)
+   - **Replace Boiler with Air-Water Heat Pump**:
+     - The current boiler can be replaced with an **Air-Water Heat Pump**, which is more efficient and sustainable.
+     - **Rationale:** Heat pumps have higher efficiency and can work with the newly insulated envelope.
+
+3. **Improve Ventilation & Air Quality** (Medium Priority)
+   - **Replace Ventilation System** (from `VentilationSystemA` to a more efficient system like `VentilationSystemC` or `VentilationSystemD`):
+     - The current natural ventilation system is inefficient.
+     - **Rationale:** Ensures proper air exchange in a now-sealed envelope.
+
+4. **Generate Renewable Energy** (Long-Term Priority)
+   - **Install PV Panels on Roof**:
+     - The roof has potential for PV.
+     - **Rationale:** Offsets electricity consumption of the heat pump and reduces grid dependency.
+
+#### **Sequence of Actions**
+The sequence of actions is determined by cost-effectiveness and the "Fabric First" principle:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Exterior Walls** | Eliminates largest heat losses. |
+| **2** | **Insulate Floor Above Basement** | Reduces cold drafts from the basement. |
+| **3** | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| **4** | **Replace Boiler with Air-Water Heat Pump** | More efficient and sustainable heating. |
+| **5** | **Upgrade Ventilation System** | Ensures air quality in a sealed envelope. |
+| **6** | **Install PV Panels on Roof** | Generates renewable energy for the building. |
+
+#### **Expected Outcome**
+- **Improved EPC Score:** The proposed renovations should significantly improve the EPC score, likely moving it from a D Label to a B or A Label.
+- **Reduced Energy Consumption:** The combination of insulation, a heat pump, and PV panels will drastically lower energy usage.
+- **Increased Comfort:** Better insulation and a modern heating system will improve indoor comfort.
+
+#### **Additional Notes**
+- **No Asbestos Issues:** The building data does not indicate any asbestos-containing materials, so no removal steps are needed.
+- **No Historical Protection:** All walls and roofs are free from historical protection, making insulation straightforward.
+- **No Geothermal Potential:** Since geothermal drilling is not possible, the heat pump is the best alternative.
+
+This plan ensures a **cost-effective, energy-efficient, and sustainable renovation** that aligns with the owner's motivation to improve the EPC score.

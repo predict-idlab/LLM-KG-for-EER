@@ -1,0 +1,60 @@
+### **Energy-Efficient and Cost-Effective Renovation Plan**
+
+#### **Building Overview**
+- **Type:** Semi-detached (1963)
+- **EPC Score:** 87 (A Label)
+- **Current Insulation:**
+  - **Well-insulated:** Walls (Front, Left, Rear), Floor Above Basement, Flat Roof
+  - **Moderately insulated:** Gable Roof
+- **Windows:** Double-glazed, wooden frames (Good State)
+- **Heating System:** Heat Pump
+- **Ventilation:** System D
+- **PV Potential:** False
+- **Heat Grid Availability:** False
+- **Owner Motivation:** Improve EPC
+
+---
+
+### **Renovation Priorities & Strategy**
+Since the building already has a good EPC (87), further improvements should focus on **maximizing efficiency** while **minimizing costs**. The key is to **optimize existing systems** rather than major structural changes.
+
+#### **1. Improve Gable Roof Insulation**
+- **Action:** `Insulate Gable Roof`
+- **Rationale:** The gable roof is currently only moderately insulated. Upgrading to **well-insulated** status will reduce heat loss through the roof.
+- **Cost:** ~€60/m²
+
+#### **2. Upgrade Ventilation System**
+- **Action:** `Replace Ventilation System`
+- **Rationale:** A more efficient ventilation system (e.g., **System C**) can improve air quality while reducing energy losses.
+- **Cost:** ~€3,500 (fixed) + €17/m²
+
+#### **3. Optimize Heat Pump Performance**
+- **Action:** `Place Emission System on Low Temperature`
+- **Rationale:** Ensures the heat pump operates at peak efficiency, reducing energy consumption.
+- **Cost:** ~€100/m²
+
+#### **4. Consider PV Panels (If Feasible)**
+- **Action:** `Place PV-Panels on Roof` (if PV potential changes)
+- **Rationale:** If future solar potential becomes available, installing PV panels could further reduce energy costs.
+- **Cost:** ~€275/m²
+
+---
+
+### **Optimal Renovation Sequence**
+1. **Insulate Gable Roof** (Improve thermal envelope)
+2. **Upgrade Ventilation System** (Enhance air quality & efficiency)
+3. **Optimize Heat Pump Performance** (Reduce energy consumption)
+4. **Consider PV Panels** (If future potential arises)
+
+---
+
+### **Summary Table**
+
+| **Priority** | **Action** | **Cost (Est.)** | **Rationale** |
+|-------------|-----------------------------|----------------|--------------------------------|
+| **1** | Insulate Gable Roof | ~€60/m² | Improves thermal performance |
+| **2** | Replace Ventilation System | ~€3,500 + €17/m² | Enhances air quality & efficiency |
+| **3** | Place Emission System on Low Temperature | ~€100/m² | Maximizes heat pump efficiency |
+| **4** | (Future) Place PV-Panels on Roof | ~€275/m² | Further reduces energy costs |
+
+This plan ensures **cost-effective** improvements while **maximizing energy efficiency** in alignment with the building's current state and the owner's goals.

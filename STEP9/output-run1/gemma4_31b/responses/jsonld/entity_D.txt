@@ -1,0 +1,49 @@
+### Analysis of Building Status
+The building is a relatively modern semi-detached house (constructed in 2017) with an excellent energy profile. It already possesses an **EPC score of 87**, placing it in the **A label** category (0-100 kWh/m²year). 
+
+**Current Strengths:**
+*   **Walls & Floors:** Front, left, and rear walls, as well as the floor above the basement, are already **well insulated**.
+*   **Flat Roof:** The roof extension is **well insulated**.
+*   **HVAC:** The home is already equipped with a **heat pump** and a **Ventilation System D** (mechanical supply and exhaust), which is one of the most efficient types.
+*   **Windows:** Existing double glazing and wooden frames are in good state.
+*   **Renewables:** PV panels are already installed.
+
+**Identified Weaknesses:**
+*   **Gable Roof:** The main roof is only **moderately insulated**. This is the primary area where thermal performance can be improved.
+*   **Renewable Capacity:** While PV panels exist, the building has no further potential for roof-based PV.
+
+---
+
+### Proposed Renovation Path
+
+Given that the building is already highly efficient, the goal is to achieve marginal gains that maximize long-term performance without incurring prohibitive costs for negligible returns (e.g., replacing double glazing with triple glazing would not be cost-effective here).
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+The most impactful and cost-effective upgrade is to bring the main roof up to the same insulation standard as the rest of the building.
+*   **Action:** **Insulate gable roof**.
+*   **Reasoning:** It is the only major building element not yet "well insulated." Improving this will further reduce the heat load on the existing heat pump, lowering operational costs and potentially pushing the EPC score even lower.
+*   **Sequence:** This must be done first to ensure the heating system operates at peak efficiency.
+
+#### Step 2: Passive Solar Control (Medium Priority)
+To improve summer energy efficiency and reduce the need for active cooling (which consumes electricity), passive measures should be implemented.
+*   **Action:** **Place sunshades**.
+*   **Reasoning:** Since the building is well-insulated, it may be prone to overheating in the summer. Sunshades reduce solar gain, lowering the energy required for cooling.
+*   **Sequence:** Low-nuisance, low-cost addition that complements the existing insulation.
+
+#### Step 3: Renewable Energy Expansion (Optional/Low Priority)
+Since the roof potential is exhausted and the site is not suitable for geothermal drilling or heat grids, the only remaining path for energy production is the garden.
+*   **Action:** **Place PV-panels in garden** OR **Place plug and play PV-panels**.
+*   **Reasoning:** This allows the owner to further offset electricity consumption from the heat pump. "Plug and play" is recommended if the owner prefers a low-cost, low-nuisance installation.
+*   **Sequence:** This is the final step as it does not improve the building's efficiency but rather its energy autonomy.
+
+---
+
+### Summary of Renovation Sequence
+
+| Sequence | Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate gable roof** | RoofMain | High (Thermal) | Very High |
+| **2** | **Place sunshades** | Windows/Facades | Medium (Cooling) | High |
+| **3** | **Place PV-panels (Garden)** | Garden/Site | Medium (Production) | Moderate |
+
+**Final Expert Note:** Because the building is already an "A" label home, I strongly advise against replacing the windows or walls, as the return on investment (ROI) for those interventions would be extremely low. Focus exclusively on the gable roof to complete the thermal envelope.

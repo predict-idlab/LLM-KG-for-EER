@@ -1,0 +1,76 @@
+### Step 1: Analysis of Current Building State
+
+The building is a detached single-family home with a gable roof and cavity walls. It has a net floor area of 136 m² and was constructed in 1862. The building has a current energy performance certificate (EPC) score of 165 kWh/m²year, which corresponds to a C label.
+
+The building has the following characteristics:
+- The roof is well insulated.
+- The cavity walls are not insulated.
+- The windows have single glazing.
+- The emission system is a combination of radiators and electric convectors.
+- There is a ventilation system type A installed.
+- The building has potential for PV panels.
+- The owner wants to improve the EPC of the building.
+
+### Step 2: Identification of Key Issues
+
+The main issues that need to be addressed to improve the EPC are:
+1. **Wall Insulation**: The cavity walls are not insulated, which significantly contributes to heat loss.
+2. **Window Glazing**: The windows have single glazing, which is inefficient in terms of thermal performance.
+3. **Emission System**: The current emission system is a combination of radiators and electric convectors, which may not be the most efficient for heating the building.
+
+### Step 3: Prioritization of Renovations
+
+Based on the ordering of the renovation suggestions, the following actions should be prioritized:
+
+1. **Insulate Wall Cavity**: This is the most cost-effective way to improve the thermal performance of the walls. The cost is €22/m², and it is expected to have a significant impact on the EPC.
+2. **Replace Glazing**: Replacing the single glazing with double or triple glazing will improve the thermal performance of the windows. The cost is €200/m².
+3. **Replace Ventilation System**: The current ventilation system type A can be replaced with a more efficient system, such as type B or C. The cost is €3500 + €17/m².
+
+### Step 4: Detailed Renovation Plan
+
+#### Immediate Actions (High Priority)
+1. **Insulate Wall Cavity**
+   - **Action**: Inject insulation material into the cavity walls.
+   - **Cost**: €22/m² * 136 m² = €2992.
+   - **Expected Impact**: Significant improvement in thermal performance and reduction in heat loss through walls.
+
+2. **Replace Glazing**
+   - **Action**: Replace single glazing with double or triple glazing.
+   - **Cost**: €200/m² * 136 m² = €27,200.
+   - **Expected Impact**: Improved thermal performance of windows, reducing heat loss and improving comfort.
+
+#### Medium-Term Actions (Medium Priority)
+1. **Replace Ventilation System**
+   - **Action**: Upgrade the ventilation system from type A to type B or C.
+   - **Cost**: €3500 + €17/m² * 136 m² = €5612.
+   - **Expected Impact**: Better air quality and improved energy efficiency.
+
+#### Long-Term Actions (Low Priority)
+1. **Place PV Panels on Roof**
+   - **Action**: Install PV panels on the roof to generate renewable energy.
+   - **Cost**: €275/m² * 136 m² = €37,300.
+   - **Expected Impact**: Reduction in electricity consumption and lower energy bills.
+
+### Step 5: Additional Considerations
+
+- **Financial Considerations**: The owner should consider the financial implications of each renovation. The immediate actions are more cost-effective and have a higher impact on the EPC.
+- **Permits and Regulations**: Ensure that all necessary permits are obtained before starting any renovation work. Some actions, such as replacing the ventilation system, may require specific permits.
+- **Professional Assistance**: Consult with a professional to ensure that the renovations are carried out correctly and safely.
+
+### Step 6: Monitoring and Evaluation
+
+After completing the renovations, the owner should monitor the energy consumption and comfort levels to evaluate the effectiveness of the changes. Regular maintenance and updates should be scheduled to ensure the continued efficiency of the building systems.
+
+### Final Renovation Plan
+
+1. **Immediate Actions**:
+   - Insulate wall cavity.
+   - Replace glazing.
+
+2. **Medium-Term Actions**:
+   - Replace ventilation system.
+
+3. **Long-Term Actions**:
+   - Place PV panels on the roof.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, prioritizing actions based on their impact and cost-effectiveness.

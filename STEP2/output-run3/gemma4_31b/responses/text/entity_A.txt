@@ -1,0 +1,47 @@
+To lower your EPC from 388 and maximize cost-effectiveness, you must follow the **"Fabric First"** principle. Installing a new heating system before insulating the envelope is a common and expensive mistake; it leads to oversized systems and higher energy bills.
+
+Because your house is a semi-detached in Ghent, you have a slight advantage (one shared wall reduces heat loss), but the 1951 solid brick construction is a significant thermal leak.
+
+Here is the optimal renovation sequence:
+
+### Phase 1: The Thermal Envelope (Stopping the Leaks)
+*Priority: High | Goal: Reduce heat demand so you can install a smaller, cheaper heating system.*
+
+1.  **Roof Insulation (Pitched Roof):** This is your highest priority. Heat rises, and an uninsulated roof is the largest source of energy loss. Since the roof is in good condition, insulating from the inside (between rafters) or the outside (Sarking) is highly cost-effective.
+2.  **Floor Insulation (Above Basement):** A cold floor creates a "draft" effect and makes the living space feel colder even if the air is warm. Insulating the ceiling of the basement is significantly cheaper and easier than digging up the floor.
+3.  **Wall Insulation:** Solid brick walls are thermal bridges. 
+    *   *Recommendation:* **External Wall Insulation (EWI)** is the gold standard for energy efficiency and protects the brickwork. However, if the facade cannot be altered or budget is tight, **Internal Wall Insulation (IWI)** is an alternative, though it reduces net floor area.
+4.  **Windows:** Since your wooden frames and double glazing are in good condition, **do not replace them yet**. Focus your budget on insulation first.
+
+### Phase 2: Ventilation & Air Quality
+*Priority: Medium | Goal: Prevent mold and ensure health after sealing the house.*
+
+Once you insulate the walls, roof, and floor, your house becomes "airtight." Natural ventilation will no longer be sufficient, which can lead to humidity and mold.
+*   **Upgrade to Mechanical Ventilation:** Install a **Heat Recovery Ventilation (HRV/MVHR)** system. This recovers heat from outgoing stale air to warm incoming fresh air, preventing the heat loss typically associated with venting.
+
+### Phase 3: Heating System & Emission
+*Priority: Medium-Low | Goal: Shift from fossil fuels to high-efficiency renewables.*
+
+Now that the house is insulated, your total heat load is drastically reduced. You can now replace the old boiler and failing emitters.
+*   **Heat Emission:** Replace the inefficient air heating and old radiators. Since you already have some underfloor heating, expand this or install **low-temperature radiators** designed for heat pumps.
+*   **Heat Source:** Install an **Air-to-Water Heat Pump**. Since geothermal is not feasible, this is the most efficient electric alternative. Because you insulated first, the heat pump will be smaller, cheaper to install, and operate at a much higher COP (Coefficient of Performance).
+
+### Phase 4: Energy Generation
+*Priority: Low | Goal: Offset the electricity cost of the heat pump.*
+
+*   **Photovoltaic (PV) Panels:** Install solar panels on your pitched roof. The electricity generated will power your new heat pump and ventilation system, moving you closer to a "Net Zero" energy balance and significantly improving your final EPC score.
+
+---
+
+### Summary of Optimal Sequence
+
+| Step | Action | Why? | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof & Floor Insulation** | Highest ROI; stops immediate heat loss. | $\downarrow\downarrow$ |
+| **2** | **Wall Insulation** | Eliminates the largest remaining thermal leak. | $\downarrow\downarrow$ |
+| **3** | **Ventilation (HRV)** | Essential for health/moisture in insulated homes. | $\downarrow$ |
+| **4** | **Heat Pump + Emitters** | Efficiently heats a now-efficient envelope. | $\downarrow\downarrow\downarrow$ |
+| **5** | **PV Panels** | Offsets operational costs with green energy. | $\downarrow\downarrow\downarrow$ |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Check the **"Mijn VerbouwPremie"** (My Renovation Premium) from the Flemish government. The subsidies are heavily weighted toward this exact sequence (insulation $\rightarrow$ ventilation $\rightarrow$ heating). Following this path not only maximizes energy efficiency but also maximizes your eligibility for government grants, significantly reducing your out-of-pocket costs.

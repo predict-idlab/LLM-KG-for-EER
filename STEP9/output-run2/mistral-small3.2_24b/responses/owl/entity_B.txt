@@ -1,0 +1,59 @@
+Based on the provided RENO ontology and the specific building information, here's a practical and cost-effective renovation plan focused on energy efficiency and long-term operational performance:
+
+1. **Roof Insulation (Immediate Priority)**
+   - **Action**: Insulate the flat roof (http://example.com/RoofExtension)
+   - **Reason**: The flat roof is currently not insulated (http://example.com/RoofExtension hasInsulationGrade http://example.com/NotInsulated)
+   - **Estimated Cost**: ~€50/m² (http://example.com/InsulateFlatRoof hasUnitPrice 50)
+   - **Potential Savings**: Significant energy loss reduction through the roof
+   - **Note**: This is a high nuisance level intervention (http://example.com/InsulateFlatRoof hasNuisanceLevel "high")
+
+2. **Wall Insulation (Medium Priority)**
+   - **Action**: Insulate the front and rear walls (http://example.com/Wall_Front and http://example.com/Wall_Rear)
+   - **Reason**: Both walls are currently not insulated (hasInsulationGrade NotInsulated)
+   - **Option 1**: Interior insulation (http://example.com/InsulateWallInterior hasUnitPrice 150)
+   - **Option 2**: Exterior insulation (http://example.com/InsulateWallExterior hasUnitPrice 200)
+   - **Consideration**: Exterior insulation may be preferred for historical preservation (http://example.com/Wall_Front hasHistoricalProtection false)
+   - **Note**: Insulation of cavity walls is not possible here as they are full brick walls
+
+3. **Ventilation System Upgrade (Medium Priority)**
+   - **Action**: Replace the current natural ventilation system (http://example.com/VentilationSystem) with a more efficient system
+   - **Reason**: Current system is type A (natural supply and exhaust), which is less efficient than types B or C
+   - **Options**:
+     - Ventilation system B (mechanical supply, natural exhaust)
+     - Ventilation system C (natural supply, mechanical exhaust)
+   - **Consideration**: Ensure compatibility with new insulation measures
+
+4. **Window Upgrades (Lower Priority)**
+   - **Action**: Consider upgrading windows in bedrooms (http://example.com/WindowsBedrooms) and living area (http://example.com/WindowsLivingArea)
+   - **Reason**: Current windows have double glazing (http://example.com/WindowGlazingBedrooms and http://example.com/WindowGlazingLivingArea haveGlazingType http://example.com/DoubleGlazing)
+   - **Options**:
+     - Replace glazing only (http://example.com/ReplaceGlazing hasUnitPrice 200)
+     - Replace entire windows (http://example.com/ReplaceWindows hasUnitPrice 800)
+   - **Consideration**: Check if window frames are in good condition before deciding on full replacement
+
+5. **Heating System Considerations (Future Planning)**
+   - **Action**: Assess the possibility of connecting to a heat grid when available (http://example.com/ConnectToHeatGrid)
+   - **Reason**: Current presenceOfHeatGrid is false, but this could change in the future
+   - **Alternative**: Consider heat pump solutions when the current generation system (http://example.com/Generation_System) needs replacement
+
+6. **Renewable Energy Options (Future Planning)**
+   - **Action**: Consider PV panel installation when financially viable
+   - **Reason**: The building has potential for PV (http://example.com/Building hasPotentialForPV true)
+   - **Options**:
+     - PV panels on roof (http://example.com/PlacePVPanelsOnRoof)
+     - PV panels in garden (http://example.com/PlacePVPanelsInGarden)
+
+**Implementation Sequence**:
+1. Insulate the flat roof first (immediate energy savings)
+2. Insulate walls (significant energy savings, but higher cost)
+3. Upgrade ventilation system (ensure compatibility with insulation)
+4. Window upgrades (if budget allows)
+5. Plan for future heating system upgrades and renewable energy options
+
+**Additional Notes**:
+- The building is an attached structure (http://example.com/Building is AttachedBuilding)
+- Construction year is 1832, which may affect some renovation options
+- The building has no historical protection on walls (http://example.com/Wall_Front and http://example.com/Wall_Rear hasHistoricalProtection false)
+- The site has no potential for geothermal solutions (http://example.com/Site potentialForVerticalGeothermalDrilling and potentialForHorizontalGeothermalCaptation both false)
+
+This plan focuses on practical, cost-effective measures that will provide the most energy efficiency improvements while considering the building's specific characteristics and constraints. The sequence is designed to maximize benefits from each step while minimizing disruption.

@@ -1,0 +1,61 @@
+### Renovation Plan:
+
+**Objective:** Improve the EPC (Energy Performance Certificate) score from 165 to an A label (0-100 kWh/m²year) through a strategic, cost-effective renovation sequence.
+
+**Renovation Path:**
+The building is a **detached 19th-century house** with **single-glazed windows**, **uninsulated cavity walls**, and **an old boiler**. The key is to prioritize measures that offer the highest energy savings per euro spent while ensuring the building envelope is airtight before upgrading the heating system.
+
+#### **Phase 1: Insulation (Priority: High)**
+1. **Insulate Cavity Walls (Interior)**:
+   - **Action:** Fill the cavities of `Wall_Front`, `Wall_Rear`, `Wall_Left`, and `Wall_Right` with insulating material.
+   - **Rationale:** Cavity wall insulation is a cost-effective way to reduce heat loss, especially for older buildings with single glazing.
+   - **Ontology Link:** `https://w3id.org/reno#InsulateWallCavity`
+
+2. **Replace Glazing**:
+   - **Action:** Replace single glazing with double or triple glazing in `WindowsLivingArea` and `WindowsBedrooms`.
+   - **Rationale:** Single glazing is a major source of heat loss. Upgrading to double/triple glazing will significantly improve thermal performance.
+   - **Ontology Link:** `https://w3id.org/reno#ReplaceGlazing`
+
+3. **Insulate Floor Above Crawl Space**:
+   - **Action:** Add insulation to `FloorAboveCrawlSpace`.
+   - **Rationale:** Uninsulated floors can lead to cold drafts and heat loss. Insulating the floor will improve comfort and energy efficiency.
+   - **Ontology Link:** `https://w3id.org/reno#InsulateFloorAboveBasement`
+
+#### **Phase 2: Heating System Transition (Priority: Medium)**
+4. **Place Air-Water Heat Pump**:
+   - **Action:** Replace the existing boiler with an air-water heat pump.
+   - **Rationale:** The current boiler is inefficient. An air-water heat pump is a sustainable and cost-effective alternative, especially with a well-insulated building envelope.
+   - **Ontology Link:** `https://w3id.org/reno#PlaceAirWaterHeatpump`
+
+5. **Place Emission System on Low Temperature**:
+   - **Action:** Transition the radiators to a low-temperature emission system.
+   - **Rationale:** A low-temperature emission system ensures the heat pump operates at maximum efficiency.
+   - **Ontology Link:** `https://w3id.org/reno#PlaceLowTemperatureEmission`
+
+#### **Phase 3: Ventilation Upgrade (Priority: Medium)**
+6. **Replace Ventilation System**:
+   - **Action:** Upgrade from `VentilationSystemA` (natural) to `VentilationSystemD` (mechanical supply and exhaust).
+   - **Rationale:** A modern ventilation system ensures indoor air quality and prevents moisture buildup in a now-sealed envelope.
+   - **Ontology Link:** `https://w3id.org/reno#ReplaceVentilationSystem`
+
+#### **Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+7. **Place PV-Panels on Roof**:
+   - **Action:** Install photovoltaic (PV) panels on the `RoofMain`.
+   - **Rationale:** The building has confirmed potential for PV. Solar panels will offset the electricity consumption of the heat pump and ventilation system, further improving the EPC score.
+   - **Ontology Link:** `https://w3id.org/reno#PlacePVPanelsOnRoof`
+
+---
+
+**Summary of Sequence and Rationale:**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls** | Reduces heat loss through walls. |
+| **2** | **Replace Glazing** | Improves window thermal performance. |
+| **3** | **Insulate Floor** | Eliminates cold drafts from the crawl space. |
+| **4** | **Air-Water Heat Pump** | Switches to a sustainable energy source. |
+| **5** | **Low-Temp Emission System** | Maximizes heat pump efficiency. |
+| **6** | **Ventilation Upgrade** | Maintains indoor air quality. |
+| **7** | **PV Panels** | Generates renewable electricity. |
+
+This sequence ensures that the building is sealed and insulated before upgrading the heating system, preventing oversized and inefficient equipment. It also prioritizes cost-effective measures that offer the highest energy savings.

@@ -1,0 +1,50 @@
+### Renovation Plan for Semi-Detached Building (Example 3)
+
+#### Building Overview
+- **Type:** Semi-detached building (2017)
+- **EPC Score:** 87 (A Label)
+- **Net Floor Area:** 173.0 m²
+- **Current Systems:**
+  - Heat Pump (Generation System)
+  - Ventilation System D
+  - PV Panels (PVPanels)
+- **Owner Motivation:** Improve EPC (already in good condition)
+
+#### Existing Strengths
+1. **Building Envelope:**
+   - Well-insulated walls (Front, Rear, Left)
+   - Well-insulated floor above basement
+   - Well-insulated flat roof extension
+   - Double-glazed windows with wooden frames in good condition
+
+2. **Heating & Ventilation:**
+   - Existing heat pump
+   - Ventilation System D (already energy-efficient)
+
+3. **Renewable Energy:**
+   - Existing PV panels
+
+#### Recommendations
+The building is already in good condition with an A-label EPC, so major renovations are not strictly necessary. However, the owner may consider the following upgrades to further improve sustainability, comfort, and energy efficiency:
+
+1. **Roof Insulation Upgrade:**
+   - **Action:** Insulate the gable roof (RoofMain)
+   - **Rationale:** The gable roof is currently only moderately insulated. Upgrading to well-insulated status will further reduce heat loss and improve thermal comfort.
+
+2. **PV Panel Expansion:**
+   - **Action:** Evaluate potential for additional PV panels (since current potential is false)
+   - **Rationale:** Expanding the PV system can offset more of the building's electricity consumption, including that of the heat pump and ventilation system.
+
+3. **Ventilation System Optimization:**
+   - **Action:** Ensure optimal performance of the existing Ventilation System D
+   - **Rationale:** Verify that the system is correctly balanced and that air quality is maintained at a high level.
+
+#### Summary of Proposed Actions
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Improve thermal performance and reduce heat loss. |
+| **2** | **Expand PV System** | Offset electricity consumption and increase self-sufficiency. |
+| **3** | **Optimize Ventilation System** | Ensure indoor air quality and maintain energy efficiency. |
+
+### Conclusion
+The building is already in excellent condition with an A-label EPC. The proposed actions are optional and focus on further optimizing sustainability, comfort, and energy efficiency. The sequence follows a logical flow from building envelope improvements to system optimization and renewable energy expansion.

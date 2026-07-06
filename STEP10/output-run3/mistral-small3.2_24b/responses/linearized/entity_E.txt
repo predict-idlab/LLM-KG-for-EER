@@ -1,0 +1,34 @@
+Based on the provided building data and the RENO ontology, here's a cost-effective and energy-efficient renovation plan for the detached building from 1862 with an EPC score of 165 (B Label). The owner's primary motivation is to improve the EPC rating.
+
+### Proposed Renovation Path
+**Phase 1: Thermal Envelope Optimization (Priority: High)**
+1. **Insulate Wall Cavity** (All 4 walls are cavity walls and not insulated)
+   - Wall_Left, Wall_Rear, Wall_Front, Wall_Right
+   - *Rationale*: Addressing uninsulated cavity walls first offers the highest return on investment for thermal performance improvements.
+
+2. **Insulate Attic Floor**
+   - *Rationale*: The attic floor is currently not insulated, which leads to significant heat loss through the roof structure.
+
+3. **Insulate Floor Above Crawl Space**
+   - *Rationale*: The floor above the crawl space is not insulated, leading to cold drafts from below.
+
+**Phase 2: Window Performance (Priority: Medium)**
+4. **Replace Glazing** (All windows have single glazing)
+   - *Rationale*: Upgrading to double glazing will significantly reduce heat loss through windows.
+
+**Phase 3: Heating System Transition (Priority: Medium)**
+5. **Place Air-Water Heat Pump**
+   - *Rationale*: With the reduced heat demand from insulation improvements, an air-water heat pump is the most efficient and sustainable replacement for the existing electric convector.
+
+**Phase 4: Ventilation Upgrade (Priority: Low)**
+6. **Replace Ventilation System** (Upgrade from System A to System D)
+   - *Rationale*: A more efficient ventilation system ensures proper air exchange in the now-sealed building envelope.
+
+**Phase 5: Renewable Energy Generation (Priority: Low)**
+7. **Place PV-Panels on Roof**
+   - *Rationale*: The building has potential for PV, and solar panels will help offset the electricity consumption of the heat pump.
+
+### Optimal Sequence
+**Insulate Wall Cavity** $\rightarrow$ **Insulate Attic Floor** $\rightarrow$ **Insulate Floor Above Crawl Space** $\rightarrow$ **Replace Glazing** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Ventilation Upgrade** $\rightarrow$ **PV Panels**.
+
+This sequence follows the "fabric-first" principle, ensuring that the building envelope is optimized before installing high-efficiency systems. The order prioritizes the most cost-effective measures first while progressively improving the building's overall energy efficiency.

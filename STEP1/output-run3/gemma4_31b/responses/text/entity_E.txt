@@ -1,0 +1,46 @@
+Given the age of your home (1862) and its current EPC score of 165, your house is currently experiencing significant heat loss. To maximize energy efficiency while remaining cost-effective, you must follow the **"Fabric First" principle**: optimize the building envelope before upgrading the heating system. Installing a modern heater in an uninsulated house is a waste of capital.
+
+Here is the optimal renovation sequence for your home in Ghent.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leaks)
+*Goal: Reduce the amount of energy required to keep the house warm.*
+
+1.  **Cavity Wall Insulation:** Since you have cavity walls, this is your highest ROI intervention. Injecting insulation material into the cavities is relatively inexpensive, non-invasive, and drastically reduces heat loss through the walls.
+2.  **Window Glazing Upgrade:** Single glazing is a major thermal bridge. Since the wooden frames are in good condition, explore **"slim-profile" double glazing** or replacing the glass units. If the frames cannot support double glazing, replace them with high-efficiency A++ rated windows.
+3.  **Floor Insulation (Crawl Space):** Since you have a crawl space, you can insulate the ceiling of that space (the floor of your living area) from below using rigid insulation boards or spray foam. This eliminates the "cold feet" effect and prevents heat from escaping into the ground.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is sealed, preventing mold and humidity.*
+
+4.  **Mechanical Ventilation:** Moving from natural ventilation to a **Balanced Ventilation system with Heat Recovery (MVHR)** is ideal. If a full system is too expensive, install decentralized heat recovery units in key rooms. This recovers heat from outgoing air to warm incoming fresh air.
+
+### Phase 3: Heating System Modernization
+*Goal: Transition from inefficient fossil/electric heat to a low-carbon, high-efficiency system.*
+
+5.  **Unified Heat Emission System:** Your current mix (radiators, air heating, electric convectors) is inefficient and difficult to control. 
+    *   **Action:** Remove the electric convectors (the most expensive way to heat). 
+    *   **Action:** Standardize your emitters. Since you already have some underfloor heating, expand this or install **low-temperature radiators** (oversized) to ensure compatibility with a heat pump.
+6.  **Heat Pump Installation:** With the shell now insulated and emitters updated, install an **Air-to-Water Heat Pump**. Because you lack geothermal/district options, this is the most sustainable and cost-effective long-term solution for the Belgian climate.
+
+### Phase 4: Renewable Energy
+*Goal: Offset the electricity consumption of the new heat pump.*
+
+7.  **Photovoltaic (PV) Panels:** Install solar panels on your pitched roof. This turns your home into a "prosumer," reducing your dependence on the grid and lowering the operational cost of your heat pump to near zero during summer months.
+
+---
+
+### Summary Table: The Optimal Sequence
+
+| Priority | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1. High** | Cavity Wall + Floor Insulation | $\downarrow$ Heat Demand | Very High (Low cost / High gain) |
+| **2. High** | Single $\rightarrow$ Double Glazing | $\downarrow$ Drafts/Heat loss | High |
+| **3. Med** | MVHR Ventilation | $\uparrow$ Air Quality / $\downarrow$ Loss | Medium |
+| **4. Med** | Unified Low-Temp Emitters | $\uparrow$ Efficiency | Medium |
+| **5. Med** | Air-to-Water Heat Pump | $\downarrow$ Carbon/Energy bill | High (Long-term) |
+| **6. Low** | PV Panels | $\downarrow$ Electricity cost | High (ROI based) |
+
+### Final Expert Tip for Ghent/Flanders:
+Before starting, check the **Vlaamse Energiepremies** (Flemish energy premiums). The Flemish government offers significant subsidies for wall insulation, glazing, and heat pump installations. Applying for these can reduce your total investment cost by a substantial percentage.

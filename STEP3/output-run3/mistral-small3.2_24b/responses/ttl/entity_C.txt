@@ -1,0 +1,56 @@
+### Renovation Plan for the Attached Building
+
+Given the building's current state and the goal to improve the Energy Performance Certificate (EPC), the following renovation plan is proposed. The plan focuses on energy efficiency and cost-effectiveness, prioritizing actions that provide the most significant impact on reducing energy consumption and improving thermal comfort.
+
+#### 1. **Insulate the Gable Roof (RoofMain)**
+   - **Action**: Insulate the gable roof.
+   - **Justification**: The gable roof is currently moderately insulated. Improving its insulation will enhance thermal performance and reduce heat loss.
+   - **Cost**: €60 per m².
+   - **Ordering**: 28.
+
+#### 2. **Insulate the Attic Floor**
+   - **Action**: Insulate the attic floor.
+   - **Justification**: Insulating the attic floor will prevent heat loss through the roof and improve overall energy efficiency.
+   - **Cost**: €60 per m².
+   - **Ordering**: 31.
+
+#### 3. **Insulate the Walls on the Interior**
+   - **Action**: Insulate the walls on the interior.
+   - **Justification**: The walls are currently well insulated, but interior insulation can further improve thermal comfort and energy efficiency.
+   - **Cost**: €150 per m².
+   - **Ordering**: 37.
+
+#### 4. **Replace the Ventilation System**
+   - **Action**: Replace the existing ventilation system (VentilationSystemD) with a more efficient system.
+   - **Justification**: Upgrading the ventilation system can improve air quality and energy efficiency.
+   - **Cost**: €3,500 (fixed) + €17 per m².
+   - **Ordering**: 52.
+
+#### 5. **Place an Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump.
+   - **Justification**: This will provide a more efficient heating solution, reducing energy consumption and costs.
+   - **Cost**: €8,000 (fixed) + €35 per m².
+   - **Ordering**: 67.
+
+#### 6. **Place an Emission System on Low Temperature**
+   - **Action**: Install a low-temperature emission system.
+   - **Justification**: This will work efficiently with the air-water heat pump, further improving energy efficiency.
+   - **Cost**: €100 per m².
+   - **Ordering**: 70.
+
+#### 7. **Place PV Panels on the Roof**
+   - **Action**: Install PV panels on the roof.
+   - **Justification**: Generating solar energy will reduce reliance on grid electricity and lower energy costs.
+   - **Cost**: €275 per m².
+   - **Ordering**: 85.
+
+### Summary of Actions:
+1. **Insulate the Gable Roof**
+2. **Insulate the Attic Floor**
+3. **Insulate the Walls on the Interior**
+4. **Replace the Ventilation System**
+5. **Place an Air-Water Heat Pump**
+6. **Place an Emission System on Low Temperature**
+7. **Place PV Panels on the Roof**
+
+This plan prioritizes actions that will have the most significant impact on improving the building's energy efficiency and reducing energy consumption, ultimately leading to a better EPC rating. The sequence of actions is designed to maximize the benefits of each renovation step, ensuring a cost-effective and practical approach.

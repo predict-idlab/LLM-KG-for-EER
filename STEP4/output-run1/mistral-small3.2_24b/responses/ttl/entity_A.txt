@@ -1,0 +1,73 @@
+### Renovation Plan for the Semi-Detached Building
+
+**Building Overview:**
+- **Construction Year:** 1951
+- **Building Type:** Semi-detached
+- **Current EPC Score:** 388.0 (D Label)
+- **Current Motivation:** Improve EPC
+- **Key Issues:**
+  - Multiple non-insulated walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`)
+  - Non-insulated `FloorAboveBasement`
+  - Non-insulated `RoofMain` (gable roof)
+  - Moderately insulated `RoofExtension` (flat roof)
+  - Single glazing on all windows
+  - Outdated boiler and emission system
+
+**Proposed Renovation Path:**
+
+#### Phase 1: Thermal Envelope Optimization (Fabric First)
+1. **Insulate Gable Roof (`RoofMain`)**
+   - **Action:** Insulate the gable roof to prevent heat loss through the roof.
+   - **Rationale:** The gable roof is currently not insulated, which is a significant source of heat loss.
+   - **Cost:** €60 per m²
+
+2. **Insulate Walls on Interior (`Wall_Front`, `Wall_Rear`, `Wall_Right`)**
+   - **Action:** Insulate the walls on the interior to improve thermal retention.
+   - **Rationale:** All three external walls are not insulated, making this a priority for reducing heat loss.
+   - **Cost:** €150 per m²
+
+3. **Insulate Floor Above Basement (`FloorAboveBasement`)**
+   - **Action:** Insulate the floor above the basement to prevent cold drafts.
+   - **Rationale:** The floor above the basement is currently not insulated, leading to heat loss to the basement.
+   - **Cost:** €30 per m²
+
+#### Phase 2: Window Performance
+4. **Replace Glazing (All Windows)**
+   - **Action:** Replace single glazing with double glazing to improve thermal performance.
+   - **Rationale:** Single glazing leads to significant heat losses, and replacing it with double glazing will enhance insulation.
+   - **Cost:** €200 per m²
+
+#### Phase 3: High-Efficiency Heating Transition
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Rationale:** The site has no potential for geothermal energy and no heat grid, making an air-water heat pump the most viable and efficient alternative.
+   - **Cost:** €8,000 fixed + €35 per m²
+
+6. **Place Emission System on Low Temperature**
+   - **Action:** Upgrade the current radiators to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new heat pump.
+   - **Rationale:** Low-temperature emissions are more efficient and compatible with heat pumps.
+   - **Cost:** €100 per m²
+
+#### Phase 4: Air Quality and Ventilation
+7. **Replace Ventilation System**
+   - **Action:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D).
+   - **Rationale:** A modern ventilation system ensures air quality in a now-sealed envelope.
+   - **Cost:** €3,500 fixed + €17 per m²
+
+#### Phase 5: Sustainable Energy Generation
+8. **Place PV-Panels on Roof**
+   - **Action:** Install solar panels on the roof to offset the electricity consumption of the new heat pump and ventilation system.
+   - **Rationale:** The building has confirmed potential for PV, making this a cost-effective way to generate renewable energy.
+   - **Cost:** €275 per m²
+
+### Summary of Optimal Sequence
+1. **Insulate Gable Roof**
+2. **Insulate Walls on Interior**
+3. **Insulate Floor Above Basement**
+4. **Replace Glazing**
+5. **Place Air-Water Heat Pump**
+6. **Place Emission System on Low Temperature**
+7. **Replace Ventilation System**
+8. **Place PV-Panels on Roof**
+
+This sequence ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system. The final step of installing PV panels ensures that the building is powered by renewable energy, further improving the EPC score and reducing long-term energy costs.

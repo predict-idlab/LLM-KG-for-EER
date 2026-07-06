@@ -1,0 +1,39 @@
+### Renovation Plan
+
+**Objective:** Improve the energy performance of the semi-detached building by implementing cost-effective and energy-efficient upgrades.
+
+#### **1. Insulate the Roof**
+- **Suggestion:** Insulate the gable roof
+- **Reasoning:** The gable roof is currently moderately insulated. Improving its insulation will enhance thermal comfort and reduce energy consumption.
+- **Action:** Apply insulation on the gable roof, ensuring a vapour barrier is installed on the warm side of the insulation to prevent condensation issues.
+
+#### **2. Upgrade the Ventilation System**
+- **Suggestion:** Replace the ventilation system
+- **Reasoning:** The current ventilation system (type D) may not be optimal for energy efficiency. Upgrading to a more efficient system can improve air quality and reduce energy loss.
+- **Action:** Install a ventilation system that balances air supply and exhaust efficiently, considering the building's layout and occupancy.
+
+#### **3. Optimize Window Glazing**
+- **Suggestion:** Replace the glazing
+- **Reasoning:** The windows in the bedrooms and living area have double glazing, which is good but may benefit from upgrading to triple glazing for better thermal performance.
+- **Action:** Replace the double glazing with triple glazing in all windows, ensuring the window frames are in good condition and can support the new glazing.
+
+#### **4. Enhance Roof Insulation**
+- **Suggestion:** Insulate the flat roof
+- **Reasoning:** The flat roof (extension) is well insulated, but adding an additional layer of insulation can further improve its thermal performance.
+- **Action:** Apply an inverted roof structure with insulation on top of the roof covering to enhance its insulation properties.
+
+#### **5. Consider Solar Panel Installation**
+- **Suggestion:** Place PV-panels on the roof
+- **Reasoning:** The building has potential for solar panel installation, which can generate renewable energy and reduce electricity costs.
+- **Action:** Install photovoltaic panels on the roof, ensuring they are properly oriented and capture sufficient sunlight. Remove any asbestos present in the roof first.
+
+#### **6. Evaluate Heating System**
+- **Suggestion:** Place an emission system on low temperature
+- **Reasoning:** The current heating system is a heat pump, which is energy-efficient. Ensuring the emission system is compatible with the supply and return temperatures of the heat pump can optimize performance.
+- **Action:** Verify the compatibility of the emission system with the heat pump and make adjustments if necessary.
+
+#### **7. Additional Considerations**
+- **Monitoring and Maintenance:** Regularly monitor the performance of the new insulation and ventilation systems to ensure they operate efficiently.
+- **Energy Audit:** Conduct periodic energy audits to track improvements in energy consumption and identify further optimization opportunities.
+
+By following this plan, the building's energy efficiency will be significantly improved, leading to lower energy costs and a more comfortable living environment.

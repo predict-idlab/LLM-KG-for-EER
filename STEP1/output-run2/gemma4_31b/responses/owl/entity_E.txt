@@ -1,0 +1,63 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. This plan follows the "fabric-first" principle: maximizing the building envelope's efficiency before upgrading technical systems to ensure that the new systems are sized correctly and operate at peak efficiency.
+
+### **Executive Summary: Renovation Strategy**
+The building is a detached house from 1862 with a surprisingly good current EPC score (165), but it possesses significant "low-hanging fruit" for energy reduction, specifically in the walls and windows. Since the owner's motivation is to **Improve the EPC**, the focus is on reducing thermal transmission and transitioning to sustainable heating.
+
+---
+
+### **Phase 1: The Thermal Envelope (High Impact, Low-to-Moderate Cost)**
+*Goal: Stop heat loss to reduce the load on future heating systems.*
+
+1.  **Cavity Wall Insulation (`InsulateWallCavity`)**
+    *   **Analysis:** All four walls are cavity walls and currently **not insulated**. This is the most cost-effective upgrade available.
+    *   **Benefit:** Extremely low nuisance level and the lowest unit price (22/m²).
+    *   **Action:** Inject insulation into the existing cavities.
+
+2.  **Floor Insulation (`InsulateFloorAboveBasement`)**
+    *   **Analysis:** The building has a floor above a basement.
+    *   **Benefit:** Low nuisance and low cost (30/m²). This prevents "cold feet" and reduces heat loss to the crawl space.
+
+3.  **Glazing Upgrade (`ReplaceGlazing`)**
+    *   **Analysis:** All windows currently have **single glazing**, which is a major source of heat loss. However, the wooden frames are in **good state**.
+    *   **Cost-Effective Choice:** Instead of replacing the entire window (`ReplaceWindows` at 800/m²), I propose replacing only the glazing (`ReplaceGlazing` at 200/m²).
+    *   **Benefit:** Significant jump in thermal performance while preserving the existing structural frames.
+
+---
+
+### **Phase 2: Ventilation and Air Quality (Necessary Support)**
+*Goal: Ensure healthy indoor air quality after the envelope is sealed.*
+
+4.  **Ventilation System Upgrade (`ReplaceVentilationSystem`)**
+    *   **Analysis:** The building currently uses **Ventilation System A** (natural supply/exhaust), which is inefficient and allows uncontrolled heat loss.
+    *   **Action:** Upgrade to a more modern system (e.g., System C or D).
+    *   **Note:** This should be done *after* the windows are upgraded to ensure the new system is integrated with the new glazing.
+
+---
+
+### **Phase 3: Sustainable Heating & Generation (Long-term Operational Performance)**
+*Goal: Replace fossil-fuel/inefficient heating with a low-carbon alternative.*
+
+5.  **Heating System Transition (`PlaceAirWaterHeatpump`)**
+    *   **Analysis:** The building has a reason to change its emission system. Geothermal options are unavailable (per site data), and there is no heat grid.
+    *   **Action:** Install an **Air-Water Heat Pump**. 
+    *   **Reasoning:** This is the most efficient option given the site constraints. Because we insulated the walls and floors in Phase 1, the heat pump can operate at lower, more efficient temperatures.
+
+6.  **Renewable Energy Integration (`PlacePVPanelsOnRoof`)**
+    *   **Analysis:** The building has a gable roof that is already "well insulated" and has confirmed **potential for PV**.
+    *   **Action:** Install solar PV panels.
+    *   **Synergy:** The electricity generated will directly offset the operational costs of the new Air-Water Heat Pump, maximizing long-term cost-effectiveness.
+
+---
+
+### **Optimal Sequence & Logic Summary**
+
+| Sequence | Intervention | Priority | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall Insulation** | Critical | Lowest cost, highest immediate ROI. |
+| **2** | **Floor Insulation** | High | Low nuisance, prevents ground-level heat loss. |
+| **3** | **Replace Glazing** | High | Eliminates the worst thermal leaks (single glass). |
+| **4** | **Ventilation Upgrade** | Medium | Prevents condensation in a now-sealed house. |
+| **5** | **Air-Water Heat Pump** | Medium | Efficient heat source for a now-insulated shell. |
+| **6** | **PV Panels** | Final | Powers the heat pump with clean energy. |
+
+**Estimated Budgetary Focus:** The plan prioritizes low-unit-cost items (Wall/Floor insulation) first to free up budget for the higher-capital investments (Heat Pump/PV) at the end.

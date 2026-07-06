@@ -1,0 +1,69 @@
+To move your home from an EPC of 388 to a high-performance energy rating, you must follow the **"Fabric First"** principle. Installing a new heating system in an uninsulated house is a waste of money because you would be paying to heat the outdoors.
+
+Given the specifics of your 1951 semi-detached house in Ghent, here is the most optimal, cost-effective renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leaks)
+*Goal: Reduce the total energy demand of the house so that you can install a smaller, cheaper heating system.*
+
+**1. Roof Insulation (Priority: High)**
+*   **Action:** Insulate the pitched roof. Since the roof is in good condition, the most cost-effective method is adding mineral wool or PIR boards between the rafters (from the inside) or over the rafters.
+*   **Why:** Heat rises. An uninsulated roof is your largest source of heat loss.
+
+**2. Wall Insulation (Priority: High)**
+*   **Action:** Since these are solid brick walls (no cavity), you have two choices:
+    *   **Exterior Wall Insulation (EWI):** The most effective method. It wraps the house in a "blanket," eliminating thermal bridges.
+    *   **Interior Insulation:** Cheaper and faster, but reduces internal floor area and requires a vapor barrier to prevent mold/condensation.
+*   **Why:** Solid brick provides almost no thermal resistance.
+
+**3. Floor Insulation (Priority: Medium)**
+*   **Action:** Insulate the ceiling of the basement.
+*   **Why:** This prevents "cold feet" and stops heat from escaping into the basement. It is significantly cheaper than insulating from above (which would require ripping up floors).
+
+---
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is airtight.*
+
+**4. Upgrade to Balanced Ventilation (HRV)**
+*   **Action:** Replace the basic natural ventilation with a Mechanical Ventilation system with Heat Recovery (MVHR/Ventilation D).
+*   **Why:** Once you insulate the walls and roof, the house becomes more airtight. Without mechanical ventilation, you risk humidity buildup and mold. Heat recovery allows you to bring in fresh air without losing the heat you just spent money to keep inside.
+
+---
+
+### Phase 3: Low-Carbon Heating & Emission
+*Goal: Replace outdated systems with high-efficiency technology tailored to a now-insulated home.*
+
+**5. Emission System Overhaul**
+*   **Action:** Replace the failing radiators and air heating systems. 
+*   **Recommendation:** Install **low-temperature radiators** or expand the **underfloor heating**. 
+*   **Why:** Modern heat pumps work most efficiently at low flow temperatures. Old radiators require high temperatures, which would force a heat pump to work harder and cost more in electricity.
+
+**6. Heat Source Transition**
+*   **Action:** Replace the old boiler with an **Air-to-Water Heat Pump**.
+*   **Why:** Since geothermal is not possible and district heating is unavailable, an air-to-water pump is the gold standard for Ghent's climate. Because you insulated in Phase 1, the heat pump can be smaller (kW) and more affordable.
+
+---
+
+### Phase 4: Renewable Energy
+*Goal: Offset the electricity consumption of the heat pump and ventilation.*
+
+**7. Photovoltaic (PV) Installation**
+*   **Action:** Install solar panels on the pitched roof.
+*   **Why:** A heat pump shifts your energy consumption from gas to electricity. PV panels allow you to generate your own power, bringing your operational costs close to zero.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Order | Step | Focus | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Walls $\rightarrow$ Floor** | Insulation | $\downarrow$ Energy Demand | Very High (Prevents oversized HVAC) |
+| **2** | **Balanced Ventilation** | Air Quality | $\uparrow$ Health/Efficiency | High (Prevents mold) |
+| **3** | **Low-Temp Emitters** | Distribution | $\uparrow$ System Efficiency | Medium (Necessary for Heat Pump) |
+| **4** | **Air-to-Water Heat Pump** | Generation | $\downarrow$ Carbon Footprint | High (Long-term savings) |
+| **5** | **Solar PV Panels** | Renewables | $\downarrow$ Monthly Bills | High (ROI via energy offset) |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, apply for the **"Mijn VerbouwPremie" (My Renovation Premium)**. The Flemish government provides significant subsidies for these specific steps, but they often require a certified energy auditor to verify the works. Ensure your contractors are recognized to maximize your rebate.

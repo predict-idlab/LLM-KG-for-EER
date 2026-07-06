@@ -1,0 +1,37 @@
+Based on the provided building data and the RENO ontology, the property is a semi-detached building from 2017 with an EPC score of 87 (B label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+### Proposed Renovation Path
+
+**Phase 1: Strengthening the Building Envelope (Priority: High)**
+The building has some elements that are not well-insulated. Addressing these first is the most cost-effective way to lower the energy score.
+
+1. **Insulate Flat Roof:** The `RoofExtension` is currently well-insulated, but the `RoofMain` is only moderately insulated. Prioritizing the gable roof will have a significant impact on thermal retention.
+2. **Insulate Wall On Exterior:** The `Wall_Front`, `Wall_Left`, and `Wall_Rear` are all well-insulated, so no further action is required.
+
+**Phase 2: Window Performance (Priority: Medium)**
+The windows are already double-glazed, which is a good starting point. However, the glazing has been changed during a renovation intervention, indicating that further improvements could be explored.
+
+3. **Replace Glazing:** Upgrading the glazing from double to triple glazing will further reduce heat loss and improve thermal comfort.
+
+**Phase 3: Heating & Emission System Transition (Priority: Medium)**
+Since the building is already equipped with a heat pump (a highly efficient system), the focus should be on optimizing its performance rather than replacing it.
+
+4. **Place Emission System on Low Temperature:** The current emission system should be adjusted to operate at lower temperatures to maximize the efficiency of the heat pump.
+
+**Phase 4: Sustainable Energy Generation (Priority: Low)**
+To further improve the EPC label and offset the electricity consumption of the heat pump, consider adding renewable energy sources.
+
+5. **Place PV-Panels on Roof:** Although the building has no confirmed potential for PV, installing solar panels could provide renewable electricity to power the heat pump and other appliances.
+
+### Summary of Optimal Sequence
+**Gable Roof Insulation** $\rightarrow$ **Glazing Upgrade** $\rightarrow$ **Low-Temp Emission System** $\rightarrow$ **PV Panels** (if feasible).
+
+### Detailed Justification
+1. **Gable Roof Insulation:** The `RoofMain` is currently moderately insulated. Upgrading it to "WellInsulated" will significantly reduce heat loss, as roofs are a major source of heat loss in buildings.
+2. **Glazing Upgrade:** Although the windows are already double-glazed, upgrading to triple glazing will provide additional thermal resistance, further reducing heat loss and improving comfort.
+3. **Low-Temp Emission System:** Adjusting the emission system to operate at lower temperatures will maximize the efficiency of the existing heat pump, reducing energy consumption and costs.
+4. **PV Panels (Optional):** While the building has no confirmed potential for PV, installing solar panels could provide renewable electricity to power the heat pump and other appliances, further improving the EPC label.
+
+This plan ensures that the building's energy efficiency is maximized while keeping costs manageable and aligning with the owner's motivation to improve the EPC rating.

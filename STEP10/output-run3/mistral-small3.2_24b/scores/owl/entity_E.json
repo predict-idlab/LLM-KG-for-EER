@@ -1,0 +1,8 @@
+{"completeness": {
+    "missing_actions": ["insulate wall on interior", "replace ventilation system"],
+    "extra_actions": ["insulate wall cavity", "insulate floor above crawl space"]
+}, "sequence": {
+    "order_errors": ["replace ventilation system"]
+}}
+
+    

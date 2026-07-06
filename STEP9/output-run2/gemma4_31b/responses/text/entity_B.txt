@@ -1,0 +1,53 @@
+To move from an EPC of 262 to a high-performance rating, you must follow the **"Energy Renovation Hierarchy"**: first reduce the energy demand (insulation), then optimize the distribution (ventilation/radiators), and finally install a sustainable heat source and energy production.
+
+Because this is a 19th-century house in Ghent, you should also leverage the **Flemish "Mijn VerbouwPremie"** (My Renovation Premium) to ensure cost-effectiveness.
+
+Here is the optimal renovation path, sequenced for maximum efficiency.
+
+---
+
+### Phase 1: The "Low-Hanging Fruit" (Thermal Envelope)
+*Goal: Stop the most significant heat leaks with the lowest cost-to-benefit ratio.*
+
+1.  **Flat Roof Insulation:** The flat-roof extension is currently a "thermal bridge." Adding rigid insulation (e.g., PIR boards) on top of the flat roof is one of the fastest ways to drop your EPC score.
+2.  **Basement Ceiling Insulation:** Since the floor above the basement is uninsulated, insulating the ceiling of the basement is highly cost-effective. It prevents "cold feet" and stops heat from escaping into the ground.
+3.  **Pitched Roof Top-up:** Since it has "moderate" insulation, adding a layer of blown-in cellulose or mineral wool can bring it up to modern standards without replacing the entire roof structure.
+
+### Phase 2: The "Heavy Lifting" (Walls & Ventilation)
+*Goal: Address the massive heat loss of solid brick and ensure air quality.*
+
+4.  **Wall Insulation:** This is the most challenging part of an 1832 house.
+    *   **Exterior (Cavity/External):** Since it's solid brick, there is no cavity. External wall insulation (EWI) is the most efficient but changes the facade.
+    *   **Interior:** If the facade must be preserved, use interior insulation boards (with a vapor barrier) to prevent condensation and mold—a common risk in old Ghent houses.
+5.  **Ventilation Upgrade:** As you insulate the house, it becomes "airtight." Natural ventilation will no longer suffice, leading to humidity issues. 
+    *   **Recommendation:** Install a **Mechanical Ventilation system with Heat Recovery (MVHR)** or, at minimum, decentralized heat-recovery vents in bedrooms and living areas.
+
+### Phase 3: System Overhaul (Heating & Distribution)
+*Goal: Transition from fossil fuels to a low-carbon, high-efficiency system.*
+
+6.  **Radiator Replacement:** Old radiators require very high water temperatures to heat a room. This is incompatible with modern heat pumps. 
+    *   **Action:** Replace old radiators with **low-temperature radiators** or underfloor heating (if the floor is already being opened for insulation).
+7.  **Heat Source Transition:** Now that the house is insulated and the radiators are optimized, you can downsize the heating capacity.
+    *   **Recommendation:** Install an **Air-to-Water Heat Pump**. Because you have already insulated the envelope, the heat pump will operate at a much higher COP (Coefficient of Performance), drastically reducing monthly bills.
+
+### Phase 4: Energy Generation (Renewables)
+*Goal: Offset the remaining operational energy costs.*
+
+8.  **Photovoltaic (PV) Panels:** With a heat pump, your electricity consumption will increase while your gas consumption vanishes. 
+    *   **Action:** Install PV panels on the pitched roof. This creates a "synergy" where the sun powers the heat pump, potentially bringing your net energy cost close to zero.
+
+---
+
+### Summary Table: The Optimal Sequence
+
+| Sequence | Action | Impact | Cost-Effectiveness | Why now? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Flat Roof & Basement Ceiling | High | Very High | Quickest EPC win. |
+| **2** | Wall Insulation | Very High | Medium | Stops the bulk of heat loss. |
+| **3** | Ventilation Upgrade | Medium | High | Prevents mold in an insulated house. |
+| **4** | Low-Temp Radiators | High | Medium | Necessary for Heat Pump efficiency. |
+| **5** | Air-to-Water Heat Pump | Very High | Medium | Only efficient *after* insulation. |
+| **6** | Solar PV Panels | High | High | Offsets the electricity for the pump. |
+
+### Expert Pro-Tip for Ghent Residents:
+Before starting, contact a **certified EPC auditor** in East Flanders to perform a "pre-renovation" simulation. In Belgium, the order of operations is critical for receiving subsidies; if you install a heat pump *before* insulating the walls, you may be penalized or miss out on the highest premium tiers because the system will be oversized for the eventual needs of the house.

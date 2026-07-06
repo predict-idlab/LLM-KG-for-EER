@@ -1,0 +1,38 @@
+Based on the provided ontology and the specific data for the building, here is the proposed renovation path. 
+
+### Building Analysis
+The building is a very modern **Attached Building (constructed in 2023)** with an already excellent energy performance score (**EPC: 50**). Most elements are already optimized: the walls, floor above basement, and flat roof extension are "Well Insulated," and the ventilation system is already at the highest standard (System D).
+
+However, there are two primary areas for improvement to maximize energy efficiency and meet the owner's desire to change the emission system:
+1.  **Roof Insulation:** The main gable roof is only "Moderately Insulated."
+2.  **Heating System:** The building currently uses a combination of a boiler and electric convectors, and there is an explicit reason to change this system.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Fabric First"** principle: reduce the energy demand of the building envelope before upgrading the technical systems.
+
+#### Step 1: Thermal Envelope Optimization
+*   **Action:** **Insulate Gable Roof**
+*   **Rationale:** While the rest of the building is well-insulated, the main roof is only "moderately insulated." Heat rises, and the roof is a primary source of thermal loss. Improving this to "well insulated" will lower the total heating load of the house.
+*   **Sequence Note:** This must be done before installing a new heat pump to ensure the new system is sized correctly for the reduced heat demand, avoiding the cost of an oversized unit.
+
+#### Step 2: High-Efficiency Heating Upgrade
+*   **Action:** **Place Air-Water Heat Pump**
+*   **Rationale:** The owner wants to change the emission system. Based on the site data, geothermal options (vertical and horizontal) and heat grid connections are unavailable. An air-water heat pump is the most efficient alternative. 
+*   **Synergy:** The building already possesses **Floor Heating**. Air-water heat pumps operate most efficiently at the low flow temperatures provided by underfloor systems, maximizing the Coefficient of Performance (COP) and significantly reducing operational electricity costs compared to electric convectors.
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Renovation Action | Target Element | Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | `RoofMain` | Reduces heat loss; lowers energy demand. |
+| **2** | **Place Air-Water Heat Pump** | `Generation_System` | Replaces boiler/electric heat with a sustainable, high-efficiency source. |
+
+### Cost-Effectiveness & Performance Justification
+*   **Avoidance of Over-Investment:** Because the building is from 2023 and already has double glazing and a high EPC, replacing windows with triple glazing is not recommended as the marginal gain in efficiency would not justify the cost.
+*   **Strategic Sequencing:** By insulating the "envelope" (the roof) first, the heating system works less hard, which may allow for a slightly smaller or more efficient heat pump unit.
+*   **Outcome:** This strategy transforms the building from a standard modern build into a high-efficiency home, reducing long-term operational costs and carbon footprint.

@@ -1,0 +1,76 @@
+### Renovation Plan for the Given Building
+
+#### **Building Overview**
+- **Type:** Semi-detached
+- **Construction Year:** 1951
+- **Current EPC Score:** 388 (D Label)
+- **Potential for PV:** Yes
+- **Heat Grid Availability:** No
+- **Geothermal Potential:** No (Horizontal or Vertical)
+- **Motivation:** Improve EPC
+
+#### **Key Issues**
+1. **Uninsulated Elements:** Walls (Front, Rear, Right), Floor Above Basement, Gable Roof
+2. **Moderately Insulated Flat Roof**
+3. **Outdated Ventilation System (Type A)**
+4. **Double Glazing (Good, but could be upgraded)**
+5. **No Heat Pump or Renewable Energy Integration**
+
+#### **Proposed Renovation Path**
+The renovation should follow a **"Fabric-First"** approach, focusing on improving the building envelope before upgrading heating systems. This ensures energy efficiency and cost-effectiveness.
+
+##### **Phase 1: Thermal Envelope Optimization**
+1. **Insulate Gable Roof**
+   - **Rationale:** The gable roof is currently uninsulated, leading to significant heat loss. Insulating it will improve thermal retention.
+   - **Action:** `insulate gable roof`
+   - **Cost:** ~€60/m²
+
+2. **Insulate Walls on Interior**
+   - **Rationale:** All three external walls (Front, Rear, Right) are full brick and not insulated. Interior insulation is cost-effective and minimizes thermal bridges.
+   - **Action:** `insulate wall on interior`
+   - **Cost:** ~€150/m²
+
+3. **Insulate Floor Above Basement**
+   - **Rationale:** The floor above the basement is uninsulated, leading to cold drafts and heat loss.
+   - **Action:** `insulate floor above basement`
+   - **Cost:** ~€30/m²
+
+##### **Phase 2: Heating System Upgrade**
+4. **Replace Ventilation System**
+   - **Rationale:** The current ventilation system (Type A) is inefficient. Upgrading to a mechanical system (Type D) ensures better air quality and energy efficiency.
+   - **Action:** `replace ventilation system`
+   - **Cost:** ~€3,500 (fixed) + €17/m²
+
+5. **Place Air-Water Heat Pump**
+   - **Rationale:** The current boiler is outdated. An air-water heat pump is a sustainable and efficient alternative, especially with the improved insulation.
+   - **Action:** `place air-water heatpump`
+   - **Cost:** ~€8,000 (fixed) + €35/m²
+
+6. **Place Emission System on Low Temperature**
+   - **Rationale:** To maximize the efficiency of the heat pump, the emission system should be optimized for low-temperature operation.
+   - **Action:** `place emission system on low temperature`
+   - **Cost:** ~€100/m²
+
+##### **Phase 3: Renewable Energy Integration**
+7. **Place PV-Panels on Roof**
+   - **Rationale:** The building has potential for PV, which can offset the electricity consumption of the heat pump and ventilation system.
+   - **Action:** `place PV-panels on roof`
+   - **Cost:** ~€275/m²
+
+#### **Summary of Sequence and Rationale**
+| **Sequence** | **Action**                          | **Rationale**                                                                                     |
+|--------------|--------------------------------------|----------------------------------------------------------------------------------------------------|
+| 1            | Insulate Gable Roof                  | Eliminate heat loss through the roof.                                                              |
+| 2            | Insulate Walls on Interior           | Minimize thermal bridges and improve overall insulation.                                             |
+| 3            | Insulate Floor Above Basement         | Reduce cold drafts and heat loss to the basement.                                                  |
+| 4            | Replace Ventilation System            | Improve air quality and energy efficiency.                                                          |
+| 5            | Place Air-Water Heat Pump             | Transition to a sustainable and efficient heating system.                                           |
+| 6            | Place Emission System on Low Temperature | Optimize heat pump performance.                                                                   |
+| 7            | Place PV-Panels on Roof               | Generate renewable energy to power the heat pump and ventilation system.                          |
+
+#### **Expected Outcomes**
+- **Improved EPC Label:** From D to B or higher.
+- **Reduced Energy Consumption:** Lower heating costs and environmental impact.
+- **Enhanced Comfort:** Better insulation and ventilation lead to a more comfortable living environment.
+
+This plan ensures a **cost-effective** and **energy-efficient** renovation while adhering to the **fabric-first** principle.

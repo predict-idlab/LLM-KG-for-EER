@@ -1,0 +1,75 @@
+### Renovation Plan for Semi-Detached Building
+
+#### **Objective:**
+Improve the energy performance of the building to achieve a better Energy Performance Certificate (EPC) label, reduce energy consumption, and enhance thermal comfort.
+
+#### **Key Priorities:**
+1. **Insulation Upgrades:**
+   - **Insulate External Walls:** Replace the non-insulated walls (Wall_Front, Wall_Rear, Wall_Right) with external wall insulation. This will significantly reduce heat loss and improve thermal comfort.
+     - *Cost:* Approximately €200 per m² (InsulateWallExterior).
+     - *Nuisance Level:* High (InsulateWallExterior).
+     - *Permit Needed:* Only if the building line is overrun or the total insulation pack exceeds 26 cm (Flanders).
+
+   - **Insulate Roofs:** Insulate the gable roof (RoofMain) and flat roof (RoofExtension).
+     - *Gable Roof (RoofMain):* Use a vapour barrier to prevent condensation. Opt for walkable insulation if needed.
+       - *Cost:* €60 per m² (InsulateGableRoof).
+       - *Nuisance Level:* Low (InsulateGableRoof).
+       - *Permit Needed:* Not necessary (Flanders).
+     - *Flat Roof (RoofExtension):* Opt for an inverted roof structure with insulation placed on top of the roof covering.
+       - *Cost:* €50 per m² (InsulateFlatRoof).
+       - *Nuisance Level:* High (InsulateFlatRoof).
+       - *Permit Needed:* Only if the total insulation pack exceeds 26 cm (Flanders).
+
+   - **Insulate Floor Above Basement:** Insulate the floor above the basement to reduce heat loss through the ground.
+     - *Cost:* €30 per m² (InsulateFloorAboveBasement).
+     - *Nuisance Level:* Low (InsulateFloorAboveBasement).
+     - *Permit Needed:* Not necessary (Flanders).
+
+2. **Window Upgrades:**
+   - **Replace Window Glazing:** Upgrade the double glazing (WindowGlazingLivingArea, WindowGlazingBedrooms) to triple glazing for better thermal performance.
+     - *Cost:* €200 per m² (ReplaceGlazing).
+     - *Nuisance Level:* High (ReplaceGlazing).
+     - *Permit Needed:* Not necessary (Flanders).
+
+3. **Ventilation System:**
+   - **Replace Ventilation System:** Upgrade the existing ventilation system (VentilationSystemA) to a more efficient system (VentilationSystemB or VentilationSystemC) to improve indoor air quality and energy efficiency.
+     - *Cost:* €17 per m² (ReplaceVentilationSystem).
+     - *Nuisance Level:* Moderate (ReplaceVentilationSystem).
+     - *Permit Needed:* Not necessary if above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+4. **Emission System:**
+   - **Replace Emission System:** Upgrade the existing emission system (Radiator, FloorHeating) to a more efficient system such as an air-water heat pump (PlaceAirWaterHeatpump) or a geothermal heat pump (PlaceGeothermalHeatpumpVertical).
+     - *Cost:* €35 per m² (PlaceAirWaterHeatpump) or €50 per m² (PlaceGeothermalHeatpumpVertical).
+     - *Nuisance Level:* Moderate (PlaceAirWaterHeatpump) or Moderate (PlaceGeothermalHeatpumpVertical).
+     - *Permit Needed:* Not necessary if above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+5. **Solar Panels:**
+   - **Install PV Panels on Roof:** Utilize the potential for PV installation (Building hasPotentialForPV = true) by placing PV panels on the roof (PlacePVPanelsOnRoof).
+     - *Cost:* €275 per m² (PlacePVPanelsOnRoof).
+     - *Nuisance Level:* Low (PlacePVPanelsOnRoof).
+     - *Permit Needed:* Not necessary if the panels are in the same plane (Flanders).
+
+#### **Sequencing of Renovations:**
+1. **Insulate External Walls** (InsulateWallExterior).
+2. **Insulate Roofs** (InsulateGableRoof, InsulateFlatRoof).
+3. **Insulate Floor Above Basement** (InsulateFloorAboveBasement).
+4. **Replace Window Glazing** (ReplaceGlazing).
+5. **Replace Ventilation System** (ReplaceVentilationSystem).
+6. **Replace Emission System** (PlaceAirWaterHeatpump or PlaceGeothermalHeatpumpVertical).
+7. **Install PV Panels on Roof** (PlacePVPanelsOnRoof).
+
+#### **Estimated Total Cost:**
+The total cost will depend on the surface area of the building elements being renovated. Based on the net floor area of 149 m², the estimated total cost is approximately €70,000–€90,000, depending on the chosen emission system and the extent of the renovations.
+
+#### **Expected Benefits:**
+- **Improved EPC Label:** From D to B or higher.
+- **Reduced Energy Consumption:** Lower heating costs and improved thermal comfort.
+- **Increased Property Value:** Enhanced market value due to better energy performance.
+- **Sustainability:** Reduced carbon footprint through renewable energy (PV panels) and efficient emission systems.
+
+#### **Next Steps:**
+1. **Consult with a Professional:** Engage an energy expert to assess the building and provide a detailed cost estimate and energy savings calculation.
+2. **Obtain Permits:** Check local regulations and obtain necessary permits for the renovations.
+3. **Implement the Plan:** Execute the renovations in the recommended sequence to maximize benefits and minimize disruption.
+
+This plan is designed to be cost-effective and energy-efficient, tailored to the specific needs and characteristics of the building.

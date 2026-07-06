@@ -1,0 +1,56 @@
+### Renovation Plan
+
+**Building Overview:**
+- **Type:** Semi-detached building
+- **Construction Year:** 2017
+- **Current EPC Score:** 87 (A+ Label)
+- **Current Heating System:** Heat Pump
+- **Potential for PV:** False
+- **Insulation Status:**
+  - **Wall_Front:** Well Insulated
+  - **Wall_Left:** Well Insulated
+  - **Wall_Rear:** Well Insulated
+  - **RoofMain:** Moderately Insulated
+  - **RoofExtension:** Well Insulated
+  - **FloorAboveBasement:** Well Insulated
+- **Ventilation System:** VentilationSystemD
+- **Windows:**
+  - **LivingArea:** Double glazing, Wooden frame (Good State)
+  - **Bedrooms:** Double glazing, Wooden frame (Good State)
+
+**Owner's Motivation:** To improve EPC
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Optimize Insulation (Priority: High)**
+1. **Insulate Gable Roof (RoofMain):**
+   - **Action:** Upgrade insulation to Well Insulated.
+   - **Rationale:** The gable roof is currently Moderately Insulated. Improving this will reduce heat loss and improve overall thermal performance.
+
+#### **Phase 2: Heating System Optimization (Priority: Medium)**
+2. **Replace Ventilation System:**
+   - **Action:** Upgrade to a more efficient ventilation system (e.g., VentilationSystemD).
+   - **Rationale:** The current ventilation system (VentilationSystemD) is already efficient. However, if there are specific issues or inefficiencies, consider replacing it with a more advanced system.
+
+#### **Phase 3: Sustainable Energy Generation (Priority: Long-term)**
+3. **Place PV-Panels:**
+   - **Action:** Install PV panels if feasible.
+   - **Rationale:** Although the building has no potential for PV, reconsider this decision if new information or changes in PV technology emerge. PV panels can significantly reduce electricity costs and improve the EPC score.
+
+---
+
+### **Summary of Optimal Sequence**
+1. **Insulate Gable Roof** (if feasible and cost-effective).
+2. **Replace Ventilation System** (if necessary).
+3. **Install PV-Panels** (if potential changes).
+
+---
+
+### **Key Considerations**
+- **Cost-Effectiveness:** Prioritize renovations that offer the highest return on investment.
+- **Sequencing:** Ensure that insulation upgrades are completed before considering major system replacements.
+- **Future-Proofing:** Consider the potential for future technological advancements in PV and heating systems.
+
+This plan ensures that the building's energy efficiency is maximized while remaining cost-effective and aligned with the owner's motivation to improve the EPC.

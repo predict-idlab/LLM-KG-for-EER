@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump"], "extra_actions": ["insulate wall cavity", "insulate attic floor", "replace windows", "place sunshade"]}, "sequence": {"order_errors": ["replace ventilation system"]}}

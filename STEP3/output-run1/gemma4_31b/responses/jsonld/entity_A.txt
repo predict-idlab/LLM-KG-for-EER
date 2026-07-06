@@ -1,0 +1,39 @@
+To maximize energy efficiency and cost-effectiveness for this 1951 semi-detached building, I propose a **"Fabric First"** renovation strategy. By improving the building envelope before upgrading technical systems, we reduce the overall heating demand, allowing for a smaller, more affordable, and more efficient heating system.
+
+### **Phase 1: Thermal Envelope (Immediate Priority)**
+The building has a high energy score (388) and significant insulation gaps. Addressing these first provides the highest return on investment.
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. Heat rises, making this the most critical intervention to lower the EPC score.
+2.  **Insulate Wall Cavity:** The front, rear, and right walls are full brick and not insulated. Cavity insulation is the most cost-effective wall upgrade (low nuisance and low unit price) compared to exterior or interior insulation.
+3.  **Insulate Floor Above Basement:** This element is currently not insulated; adding insulation here prevents "cold feet" and reduces heat loss to the basement.
+
+### **Phase 2: Air Quality and Ventilation**
+Before sealing the house further with insulation, the ventilation system must be addressed to prevent moisture buildup and improve thermal recovery.
+
+4.  **Replace Ventilation System:** Upgrading from System A to a more efficient system (such as System D) will allow for heat recovery, ensuring that the warmth gained from Phase 1 is not lost through air exchange.
+
+### **Phase 3: Energy Generation & Emission**
+With the heat demand now significantly reduced, we can replace the outdated generation system.
+
+5.  **Place Air-Water Heat Pump:** Since geothermal options are not feasible for this site and no heat grid is available, an air-water heat pump is the optimal choice. It is compatible with the existing radiators and floor heating, providing a sustainable alternative to the current boiler.
+6.  **Place Emission System on Low Temperature:** To maximize the efficiency of the new heat pump, the existing radiators/floor heating should be optimized for low-temperature operation.
+
+### **Phase 4: Renewable Energy (Final Step)**
+Once the home is efficient and electrified, the final step is to offset the electricity consumption of the heat pump.
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing these last ensures that the electricity generated is used by a highly efficient, well-insulated home, maximizing the self-consumption rate.
+
+---
+
+### **Summary of the Renovation Path**
+| Sequence | Action | Target Element | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | Highest heat loss area; critical for EPC. |
+| **2** | **Insulate Wall Cavity** | Walls (Front/Rear/Right) | Cost-effective way to stop wall heat loss. |
+| **3** | **Insulate Floor** | FloorAboveBasement | Eliminates drafts and basement heat loss. |
+| **4** | **Replace Ventilation** | VentilationSystem | Ensures air quality and heat recovery. |
+| **5** | **Air-Water Heat Pump** | Generation_System | Sustainable replacement for the boiler. |
+| **6** | **Low-Temp Emission** | EmissionSystem | Optimizes the heat pump's performance. |
+| **7** | **PV-Panels on Roof** | RoofMain | Offsets electricity costs for the heat pump. |
+
+**Cost-Effectiveness Note:** By following this sequence, you avoid "over-sizing" the heat pump, as the insulation steps (1-3) will have lowered the building's total heating load, reducing the capital expenditure required for the HVAC system.

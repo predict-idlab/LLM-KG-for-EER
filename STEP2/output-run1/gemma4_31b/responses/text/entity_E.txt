@@ -1,0 +1,44 @@
+To improve an EPC score of 165 in a house from 1862, you must follow the **"Fabric First"** principle. Installing a new heating system before fixing the insulation is a common and costly mistake; you would end up over-sizing your equipment and wasting energy.
+
+Since the house is not historically protected, you have significant flexibility. Here is the most cost-effective, logically sequenced renovation path.
+
+---
+
+### Phase 1: The Thermal Shell (Stop the Heat Loss)
+*Goal: Reduce the energy demand of the house so that a smaller, cheaper heating system can be used later.*
+
+1.  **Cavity Wall Insulation:** Since you have cavity walls, this is your highest ROI move. Injecting insulation (e.g., EPS beads or mineral wool) into the cavities is relatively inexpensive, non-invasive, and drastically reduces heat loss through the walls.
+2.  **Window Upgrade:** Single glazing is a major thermal bridge. Since the wooden frames are in good condition, you may be tempted to keep them, but single-pane frames are usually too thin for high-efficiency double or triple glazing. **Recommendation:** Replace single glazing with high-performance double or triple glazing (HR++). This will eliminate drafts and condensation.
+3.  **Crawl Space Floor Insulation:** A cold floor creates a "chimney effect," pulling cold air upward. Insulate the ceiling of the crawl space (the underside of your ground floor) using rigid insulation boards or spray foam to stop heat from escaping downward.
+
+### Phase 2: Ventilation (Ensure Air Quality)
+*Goal: Prevent moisture buildup and mold once the house is "sealed" by the new windows and insulation.*
+
+1.  **Upgrade to Mechanical Ventilation:** Natural ventilation is insufficient for a modernized home. Install a **Balanced Ventilation system with Heat Recovery (MVHR)** if budget allows, or at least a decentralized mechanical system. This ensures fresh air without losing the heat you just spent money to keep inside.
+
+### Phase 3: Heating System Overhaul (Efficient Generation)
+*Goal: Replace the outdated, fragmented heating mix with a single, streamlined, low-temperature system.*
+
+1.  **Remove Inefficient Emitters:** Get rid of the electric convectors and the old air heating systems. These are the most expensive ways to heat a home.
+2.  **Standardize Heat Emission:** Since you already have some underfloor heating, expand this or install **low-temperature radiators** (oversized radiators) in the remaining rooms. Low-temperature systems are essential for the efficiency of modern heat pumps.
+3.  **Install an Air-to-Water Heat Pump:** Since geothermal is not viable and district heating is unavailable, an Air-to-Water heat pump is the most sustainable choice. Because you insulated the shell in Phase 1, the heat pump will be smaller, cheaper to install, and operate at a much higher COP (Coefficient of Performance).
+
+### Phase 4: Renewable Energy (Offsetting Operational Costs)
+*Goal: Lower the monthly electricity bills associated with the heat pump.*
+
+1.  **Photovoltaic (PV) Panels:** Install solar panels on your pitched roof. A heat pump shifts your energy reliance from gas/oil to electricity; PV panels mitigate this cost and can potentially move your home toward a "Net Zero" energy balance.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Action | Energy Impact | Cost-Effectiveness | Why this order? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Cavity Wall & Floor Insulation** | Very High | Excellent | Reduces the size/cost of the future heater. |
+| **2** | **Window Replacement** | High | High | Stops drafts and improves comfort immediately. |
+| **3** | **Ventilation Upgrade** | Medium | Medium | Prevents mold after the house is sealed. |
+| **4** | **Heat Pump + New Emitters** | Very High | Medium | Most efficient way to generate heat in a sealed house. |
+| **5** | **PV Panels** | High (Cost) | High | Offsets the electricity used by the heat pump. |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, check the **Vlaamse Energiepremies (Flemish Energy Premiums)**. Flanders offers significant subsidies for wall insulation, window replacement, and the installation of heat pumps. To qualify for the highest subsidies, you may be required to have an **EPC advisor** create a formal renovation plan before the works begin.

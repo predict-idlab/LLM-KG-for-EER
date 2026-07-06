@@ -1,0 +1,65 @@
+### Renovation Plan for Semi-Detached Building (1951, EPC 388)
+
+**Objective:** Improve energy efficiency and lower EPC score from 388 to an optimal level while remaining cost-effective.
+
+#### **Phase 1: Thermal Envelope Optimization**
+1. **Insulate Wall on Exterior**
+   - **Action:** Insulate `Wall_Front` and `Wall_Right` (full brick walls, currently uninsulated).
+   - **Rationale:** Exterior insulation eliminates thermal bridges and is more effective than interior insulation for full brick walls.
+   - **Estimated Cost:** Moderate (depends on cladding type).
+
+2. **Insulate Flat Roof**
+   - **Action:** Insulate `RoofExtension` (currently moderately insulated).
+   - **Rationale:** Flat roofs lose significant heat; upgrading insulation will reduce heat loss.
+   - **Estimated Cost:** Low to moderate.
+
+3. **Insulate Floor Above Basement**
+   - **Action:** Insulate `FloorAboveBasement` (currently uninsulated).
+   - **Rationale:** Prevents cold air infiltration from the basement.
+   - **Estimated Cost:** Low.
+
+#### **Phase 2: Window Upgrades**
+4. **Replace Glazing**
+   - **Action:** Replace glazing in `WindowsBedrooms` and `WindowsLivingArea` (currently double-glazed, but frames are wooden and in good condition).
+   - **Rationale:** Upgrading to triple glazing will further reduce heat loss.
+   - **Estimated Cost:** Moderate.
+
+#### **Phase 3: Heating System Transition**
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump as the primary heating source.
+   - **Rationale:** Replaces the existing boiler with a more efficient, sustainable system.
+   - **Estimated Cost:** High.
+
+6. **Place Low-Temperature Emission System**
+   - **Action:** Upgrade radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the Coefficient of Performance (COP) of the new heat pump.
+   - **Estimated Cost:** Moderate.
+
+#### **Phase 4: Sustainable Energy Generation**
+7. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on `RoofMain` (gable roof).
+   - **Rationale:** Generates renewable electricity to offset the heat pump's consumption.
+   - **Estimated Cost:** Moderate.
+
+#### **Phase 5: Ventilation System Upgrade**
+8. **Replace Ventilation System**
+   - **Action:** Upgrade from `VentilationSystemA` (natural) to a more efficient system (e.g., `VentilationSystemC` or `VentilationSystemD`).
+   - **Rationale:** Ensures proper air exchange in a now-sealed envelope.
+   - **Estimated Cost:** Low to moderate.
+
+### **Summary of Optimal Sequence**
+1. **Insulate Walls on Exterior**
+2. **Insulate Flat Roof**
+3. **Insulate Floor Above Basement**
+4. **Replace Glazing**
+5. **Place Air-Water Heat Pump**
+6. **Place Low-Temperature Emission System**
+7. **Place PV-Panels on Roof**
+8. **Replace Ventilation System**
+
+### **Key Considerations**
+- **Cost-Effectiveness:** Prioritize actions with the highest return on investment (e.g., insulation before glazing upgrades).
+- **Sequencing:** Follow the "Insulate → Ventilate → Generate" principle to avoid oversizing HVAC systems.
+- **Permits:** Check local regulations for permits (e.g., roof underlayment, PV panel installation).
+
+This plan ensures a systematic, cost-effective approach to improving energy efficiency and lowering the EPC score.

@@ -1,0 +1,46 @@
+Based on the provided building data and the RENO ontology, the building is a detached house from 1862 with an EPC score of 165 (B-label). While the roof is already well-insulated, there are significant energy leaks in the walls and windows.
+
+To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** approach. We will first seal the building envelope to reduce heat demand before upgrading the heating systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: The Building Envelope (High Impact, Low-to-Moderate Cost)
+*Goal: Reduce heat loss and improve thermal comfort.*
+
+1.  **Insulate Cavity Walls (`reno:InsulateWallCavity`):** 
+    *   **Analysis:** All four walls (Front, Left, Rear, Right) are cavity walls and currently **not insulated**. 
+    *   **Justification:** This is the most cost-effective insulation method (unit price: 22/m²) with a low nuisance level. It provides an immediate and significant reduction in heat loss.
+2.  **Upgrade Glazing (`reno:ReplaceGlazing`):** 
+    *   **Analysis:** Both bedrooms and the living area currently have **single glazing**, which is highly inefficient. However, the wooden frames are in **good state**.
+    *   **Justification:** Instead of replacing entire windows, replacing only the glazing (Single $\rightarrow$ Double or Triple) is more cost-effective and sustainable, leveraging the existing high-quality frames.
+3.  **Insulate Floor Above Crawl Space (`reno:InsulateFloorAboveBasement`):**
+    *   **Analysis:** The building has a floor above a crawl space.
+    *   **Justification:** This is a low-nuisance, low-cost upgrade (unit price: 30/m²) that eliminates cold drafts from the ground, significantly improving the EPC and resident comfort.
+
+#### Phase 2: Technical Systems (System Optimization)
+*Goal: Transition to sustainable energy generation and healthy air circulation.*
+
+4.  **Upgrade Ventilation (`reno:ReplaceVentilationSystem`):**
+    *   **Analysis:** The building uses Ventilation System A (natural). 
+    *   **Justification:** After insulating walls and upgrading windows, the house becomes more airtight. Upgrading to a more controlled system (System C or D) is necessary to prevent humidity buildup and ensure air quality.
+5.  **Install Air-Water Heat Pump (`reno:PlaceAirWaterHeatpump`):**
+    *   **Analysis:** There is a documented reason to change the emission system. Geothermal is not possible at this site, and there is no heat grid.
+    *   **Justification:** Now that the heat demand is lowered (thanks to Phase 1), a heat pump can be sized smaller and operate more efficiently. An Air-Water system is ideal as it can integrate with the existing radiators and floor heating.
+
+#### Phase 3: Renewable Energy (Operational Cost Reduction)
+*Goal: Offset the electricity consumption of the new heating system.*
+
+6.  **Install Solar PV Panels (`reno:PlacePVPanelsOnRoof`):**
+    *   **Analysis:** The building has potential for PV, and the roof is already well-insulated (meaning no asbestos removal or roof replacement is needed first).
+    *   **Justification:** This reduces long-term operational costs and lowers the carbon footprint, complementing the heat pump installed in Phase 2.
+
+### Summary of Sequence & Logic
+
+| Sequence | Action | Priority | Cost-Effectiveness | Logic |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Cavity Wall Insulation | Critical | Very High | Lowest cost per unit of energy saved. |
+| **2** | Replace Glazing | High | High | Eliminates the worst thermal bridges (single glass). |
+| **3** | Floor Insulation | Medium | High | Low cost, high impact on comfort. |
+| **4** | Ventilation Upgrade | Medium | Moderate | Necessary side-effect of a tighter envelope. |
+| **5** | Air-Water Heat Pump | High | Moderate | Efficient generation for a now-insulated house. |
+| **6** | Solar PV Panels | Medium | Moderate | Offsets the power needs of the heat pump. |

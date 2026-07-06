@@ -1,0 +1,52 @@
+Given the specifications of your home, you are starting from a very strong position. A house built in 2017 with a heat pump, Ventilation D, and photovoltaic panels is already significantly more efficient than the average Belgian housing stock. 
+
+With an EPC score of 87, you are likely already in a high energy class, but to push that score lower and maximize operational efficiency, we must address the only "moderate" area of the building envelope: **the roof.**
+
+Since the walls, floors, and heating systems are already optimized, the law of diminishing returns applies here. To remain **cost-effective**, you should avoid replacing components that are already functioning well (like your 2020 windows) and instead focus on "surgical" upgrades.
+
+Here is the proposed renovation path, sequenced by impact and cost-effectiveness.
+
+---
+
+### Step 1: Thermal Upgrade of the Pitched Roof (High Priority)
+The main pitched roof is your primary "energy leak" since it is rated as only "moderately insulated." Because heat rises, this is the most impactful area for improvement.
+
+*   **The Action:** Increase the R-value (thermal resistance) of the pitched roof. 
+*   **Method:** Depending on the roof construction, add an additional layer of high-performance insulation (such as PIR boards or mineral wool) in the attic space or between rafters.
+*   **Why:** This is the most cost-effective way to lower your EPC score. Improving the roof from "moderate" to "well-insulated" will reduce the load on your heat pump, allowing it to operate at a lower, more efficient flow temperature.
+
+### Step 2: Air-Tightness and Thermal Bridge Audit (Medium Priority)
+In a house from 2017, the structure is generally sound, but "invisible" energy loss often occurs at junctions (thermal bridges) or through small air leaks.
+
+*   **The Action:** Conduct a professional **Blower Door Test** or a **Thermographic (Infrared) Scan** during winter.
+*   **Method:** Identify specific cold spots where the roof meets the walls or around window frames. Seal these gaps using professional-grade expanding foam or airtight tapes.
+*   **Why:** This is a low-cost intervention. Fixing small drafts prevents the "chill" factor and ensures your Ventilation D system is working as intended rather than fighting uncontrolled air infiltration.
+
+### Step 3: Optimization of the Heat Pump & Energy Management (Low Cost/High Efficiency)
+Since your hardware (heat pump and Vent D) is already in good condition, the focus shifts from *replacement* to *optimization*.
+
+*   **The Action:** Implement a smart energy management system.
+*   **Method:** 
+    *   Ensure your heat pump is integrated with a **smart thermostat** that utilizes weather compensation (adjusting temperature based on the outside forecast).
+    *   Optimize the timing of your heat pump to align with the peak production of your photovoltaic panels (shifting the thermal load to midday).
+*   **Why:** This requires almost no capital expenditure but reduces your reliance on the grid and lowers operational costs.
+
+### Step 4: Window Performance "Fine-Tuning" (Long-Term/Low Priority)
+Your windows were renewed in 2020 and are in good condition. Replacing double glazing with triple glazing now would **not** be cost-effective, as the ROI would be too long.
+
+*   **The Action:** Enhance passive solar gain and heat retention.
+*   **Method:** Install high-quality thermal curtains or cellular blinds in bedrooms and living areas.
+*   **Why:** This provides an extra layer of insulation during winter nights for a fraction of the cost of new windows, further protecting the EPC score.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Target | Action | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Pitched Roof** | Add insulation layers | High | Very High |
+| **2** | **Envelope** | Thermographic scan $\rightarrow$ Seal gaps | Moderate | High |
+| **3** | **Systems** | Smart timing/Weather compensation | Low/Moderate | Very High |
+| **4** | **Windows** | Thermal curtains/blinds | Low | Moderate |
+
+**Expert Final Tip:** Since you are in Ghent, check for current **Flemish government premiums (Mijn VerbouwPremie)**. Even for newer homes, certain insulation upgrades to the roof can often be subsidized, further increasing the cost-effectiveness of Step 1.

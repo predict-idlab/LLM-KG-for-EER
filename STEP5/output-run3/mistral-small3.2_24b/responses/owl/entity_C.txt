@@ -1,0 +1,31 @@
+### Renovation Plan:
+The building is an attached 2023 construction with an EPC score of 50 (A Label). The owner's primary motivation is to improve the EPC rating. Given that the building is relatively new and already well-insulated, the focus should be on optimizing the existing systems and enhancing sustainability.
+
+#### Proposed Renovation Path:
+
+1. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System D to a more energy-efficient system.
+   - **Rationale:** Ensures proper air exchange and reduces energy loss from air leakage.
+
+2. **Place Air-Water Heat Pump:**
+   - **Action:** Install an Air-Water Heat Pump to replace the existing boiler.
+   - **Rationale:** More energy-efficient than the current system, reducing energy consumption and improving the EPC score.
+
+3. **Place PV-Panels on Roof:**
+   - **Action:** Install solar panels on the roof.
+   - **Rationale:** Generates renewable electricity to power the heat pump and other electrical needs, further improving the EPC score.
+
+4. **Place Sun Shade:**
+   - **Action:** Install outdoor blinds or sun shades on windows.
+   - **Rationale:** Reduces solar heat gain in summer, improving thermal comfort and reducing cooling needs.
+
+#### Summary of Sequence and Rationale:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Replace Ventilation System** | Ensures proper air exchange and reduces energy loss. |
+| **2** | **Place Air-Water Heat Pump** | Replaces the boiler with a more energy-efficient system. |
+| **3** | **Place PV-Panels on Roof** | Generates renewable electricity to power the heat pump. |
+| **4** | **Place Sun Shade** | Reduces solar heat gain and improves thermal comfort. |
+
+This plan ensures that the building remains cost-effective to operate while maximizing energy efficiency and sustainability.

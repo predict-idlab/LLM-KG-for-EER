@@ -1,0 +1,54 @@
+### Renovation Plan for Attached Building (2023)
+
+**Current Situation:**
+- **Building Type:** Attached (row house)
+- **Construction Year:** 2023 (newly constructed)
+- **EPC Score:** 50 (A label)
+- **Current Heating System:** Electric convectors + floor heating
+- **Ventilation System:** System D (mechanical supply and exhaust)
+- **Windows:** Double-glazed, wooden frames in good condition
+- **Insulation:** Walls and roof are well-insulated (grade: WellInsulated)
+- **PV Potential:** False (no potential for PV panels)
+- **Heat Grid:** False (no connection to district heating)
+
+**Owner's Motivation:**
+- **Primary Goal:** Improve EPC (already excellent at 50)
+
+**Key Observations:**
+1. The building is already well-insulated and has efficient double-glazed windows.
+2. The heating system is electric, which is not sustainable or cost-effective.
+3. The ventilation system is modern (System D).
+4. There is no potential for PV panels or connection to a heat grid.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Heating System Upgrade (Priority: High)**
+Since the building is already well-insulated and has efficient windows, the primary focus should be on upgrading the heating system to a more sustainable and cost-effective solution.
+
+1. **Replace Electric Heating with Air-Water Heat Pump:**
+   - **Rationale:** Electric heating is expensive and not sustainable. An air-water heat pump can provide both heating and cooling, reducing energy consumption and costs.
+   - **Action:** Install an air-water heat pump to replace the existing electric convectors and floor heating.
+   - **Expected Impact:** Significant reduction in energy consumption and improvement in comfort.
+
+**Phase 2: Emission System Optimization (Priority: Medium)**
+With a new heat pump, the emission system should be optimized to ensure efficient heat distribution.
+
+2. **Place Emission System on Low Temperature:**
+   - **Rationale:** Heat pumps work most efficiently at lower temperatures. Optimizing the emission system ensures that the heat pump operates at its highest Coefficient of Performance (COP).
+   - **Action:** Adjust the radiators or underfloor heating system to operate at lower temperatures.
+   - **Expected Impact:** Improved heat pump efficiency and lower energy consumption.
+
+**Phase 3: Ventilation System Check (Priority: Low)**
+The ventilation system is already modern (System D), so no immediate action is required. However, regular maintenance is recommended to ensure optimal performance.
+
+**Phase 4: Future-Proofing (Optional)**
+If the owner is interested in future upgrades, they could consider:
+- **Solar Thermal Panels:** If space allows, solar thermal panels could be installed to pre-heat water, further reducing energy consumption.
+- **Battery Storage:** If the owner decides to install PV panels in the future, a battery storage system could be added to store excess energy for use during peak times.
+
+**Summary of Optimal Sequence:**
+1. **Air-Water Heat Pump Installation**
+2. **Low-Temperature Emission System Adjustment**
+3. **Optional Future Upgrades (Solar Thermal, Battery Storage)**
+
+This plan focuses on maximizing energy efficiency and cost-effectiveness while aligning with the owner's motivation to improve the already excellent EPC score. The proposed upgrades prioritize sustainability and long-term energy savings.

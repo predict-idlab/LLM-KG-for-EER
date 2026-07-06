@@ -1,0 +1,71 @@
+### Energy-Efficient Renovation Plan for the Attached Building
+
+**Objective:** Improve the energy efficiency of the building to lower energy consumption and improve the EPC label.
+
+#### **1. Insulate the Exterior Walls**
+- **Action:** Insulate the front and rear walls (both are currently NotInsulated).
+- **Recommendation:** Use exterior wall insulation to avoid reducing interior space. Opt for a vapour-permeable insulation material.
+- **Considerations:**
+  - Ensure the insulation material is compatible with the brick wall structure.
+  - Check for any historical protection or building line restrictions that might affect the installation.
+
+#### **2. Replace Windows with Double Glazing**
+- **Action:** Upgrade the windows in the bedrooms and living area to double glazing if not already present.
+- **Recommendation:** Ensure the window frames (currently wooden) are in good condition and have adequate thickness to support double glazing.
+- **Considerations:**
+  - Verify the U-value of the new glazing to meet energy efficiency standards.
+  - Consider installing low-emissivity (Low-E) coatings to further improve insulation.
+
+#### **3. Insulate the Flat Roof (Roof Extension)**
+- **Action:** Insulate the flat roof which is currently NotInsulated.
+- **Recommendation:** Opt for an inverted roof structure with insulation placed on top of the roof covering to prevent condensation issues.
+- **Considerations:**
+  - Ensure proper vapour barrier installation on the warm side of the insulation.
+  - Check local regulations regarding roof edge requirements and drainage gradients.
+
+#### **4. Upgrade the Ventilation System**
+- **Action:** Replace the existing ventilation system (type A) with a more efficient system.
+- **Recommendation:** Consider a Ventilation System B or C for better air quality and energy efficiency.
+- **Considerations:**
+  - Ensure adequate grilles are installed on window frames to allow sufficient fresh air intake.
+  - Check compatibility with the existing heating system.
+
+#### **5. Install Solar Panels**
+- **Action:** Install photovoltaic (PV) panels on the roof if the building has potential for PV installation (as indicated by the ontology).
+- **Recommendation:** Use plug-and-play PV panels for easier installation and compliance with local regulations.
+- **Considerations:**
+  - Check the orientation and gradient of the roof to maximize solar exposure.
+  - Ensure compliance with local zoning laws and permit requirements.
+
+#### **6. Replace the Boiler with a Heat Pump**
+- **Action:** Replace the existing boiler with a more energy-efficient heat pump system.
+- **Recommendation:** Consider an air-water heat pump with cooling capability for year-round comfort.
+- **Considerations:**
+  - Assess the building’s heating period and temperature setpoints to ensure compatibility with the new system.
+  - Check for any multi-phase electricity connection requirements.
+
+#### **7. Insulate the Attic Floor**
+- **Action:** Insulate the attic floor which is currently NotInsulated.
+- **Recommendation:** Use walkable insulation materials if the attic is accessible.
+- **Considerations:**
+  - Install a vapour barrier to prevent condensation issues.
+  - Ensure proper ventilation to maintain air quality.
+
+#### **8. Remove Asbestos (if present)**
+- **Action:** Remove any asbestos-containing materials from the roof or other elements.
+- **Recommendation:** Hire a licensed asbestos removal company for non-bonded asbestos.
+- **Considerations:**
+  - Ensure safe removal procedures are followed to protect occupants and workers.
+
+### **Implementation Priorities:**
+1. **Insulate exterior walls and roof extension** (high impact on energy efficiency).
+2. **Replace windows and upgrade ventilation system** (improves indoor air quality and thermal comfort).
+3. **Install solar panels and replace the boiler** (reduces energy consumption and lowers carbon footprint).
+4. **Insulate attic floor and remove asbestos** (completes the renovation for long-term efficiency).
+
+### **Expected Outcomes:**
+- **Improved EPC Label:** Moving from the current EPC score of 262 (likely an F label) to a higher label (e.g., D or C).
+- **Reduced Energy Consumption:** Lower heating costs and improved thermal comfort.
+- **Increased Property Value:** Enhanced market value due to better energy efficiency and modern amenities.
+
+This plan prioritizes cost-effective, high-impact renovations to maximize energy savings and long-term benefits.

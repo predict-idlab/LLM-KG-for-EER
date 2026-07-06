@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": [], "extra_actions": ["place sun shade", "insulate floor above basement", "insulate wall on cavity"]}, "sequence": {"order_errors": ["insulate wall on cavity", "place low temperature emission", "replace ventilation system", "place air water heatpump"]}}

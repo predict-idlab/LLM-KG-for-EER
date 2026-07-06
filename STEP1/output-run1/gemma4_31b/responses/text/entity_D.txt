@@ -1,0 +1,50 @@
+### Analysis of Current State
+Your home is already performing exceptionally well. An EPC score of 87 for a 173 m² house in Belgium is very low (which is positive), indicating that the building is likely close to "Nearly Zero Energy Building" (NZEB) standards. 
+
+Since you already have the "gold standard" of systems—a **heat pump** and **Ventilation D** (double-flow ventilation with heat recovery)—the marginal gains from further renovations will be smaller than in a traditional home. To improve the EPC further while remaining cost-effective, we must shift focus from "major overhauls" to "precision optimization."
+
+The only identified weak point in your building envelope is the **moderate insulation of the pitched roof**.
+
+---
+
+### Proposed Renovation Path
+
+Given that the house is already highly efficient, the most cost-effective strategy is to follow the **"Envelope First, Systems Second"** logic, focusing on the one remaining thermal bridge.
+
+#### Phase 1: High-Impact Envelope Optimization (Immediate Priority)
+**Target: The Pitched Roof**
+Since the flat roof and floors are already well-insulated, the pitched roof is your primary source of heat loss (via convection and radiation).
+*   **Action:** Upgrade the pitched roof insulation from "moderate" to "excellent." 
+*   **Method:** Depending on the current structure, add a layer of high-performance insulation (such as PIR boards or blown-in cellulose/mineral wool) to reach a U-value closer to modern passive house standards.
+*   **Why:** Heat rises. Improving the attic/roof insulation is the most cost-effective way to lower the workload on your heat pump and further drop the EPC score.
+
+#### Phase 2: Precision Sealing & Thermal Bridging (Low Cost, High ROI)
+**Target: Air-tightness and Micro-leaks**
+Even with Ventilation D, small air leaks can occur around window frames or attic hatches.
+*   **Action:** Conduct a professional blower-door test or a thermal camera scan.
+*   **Method:** Use high-quality sealing tapes or expanding foam to close any identified gaps in the building envelope.
+*   **Why:** This ensures your Ventilation D system is managing the airflow exactly as designed, preventing uncontrolled drafts and improving the efficiency of the heat pump.
+
+#### Phase 3: Energy Management & Storage (Operational Optimization)
+**Target: PV Integration and Consumption**
+Since you already have PV panels and a heat pump, the goal is to maximize **self-consumption** rather than just production.
+*   **Action:** Implement a Smart Energy Management System (HEMS).
+*   **Method:** 
+    1.  **Smart Control:** Integrate your heat pump with your PV system to "overheat" the house slightly (thermal storage) during peak sun hours.
+    2.  **Battery Storage (Optional):** Consider a home battery if your electricity tariff structure favors self-consumption over feed-in tariffs.
+*   **Why:** This doesn't change the EPC score as much as insulation does, but it drastically reduces your operational costs.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Target Area | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof Insulation Upgrade** | Pitched Roof | High | Very High |
+| **2** | **Thermal Imaging & Sealing** | Envelope Gaps | Moderate | High |
+| **3** | **Smart Energy Integration** | PV $\rightarrow$ Heat Pump | Low | Moderate |
+
+### Final Expert Advice
+Because your house is already so efficient (EPC 87), **do not replace your windows**. Upgrading from 2020 double glazing to triple glazing would be prohibitively expensive with very little detectable difference in your monthly energy bill or EPC score. 
+
+**Focus exclusively on the pitched roof.** Once that is optimized, your home will be among the top percentage of energy-efficient homes in Ghent.

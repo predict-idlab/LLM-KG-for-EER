@@ -1,0 +1,46 @@
+Based on the information provided, here’s a concise and actionable renovation plan tailored to your semi-detached house in Ghent, Belgium. The plan focuses on maximizing energy efficiency while remaining cost-effective, with a logical sequence of upgrades:
+
+### 1. **Insulate the Exterior Walls (Priority)**
+   - **Action**: Install external wall insulation (EWI) on the solid brick walls.
+   - **Why**: This is one of the most impactful upgrades for reducing heat loss, especially in older homes with uninsulated walls. EWI also improves the appearance of the house and can be combined with other upgrades.
+   - **Note**: Since the house is not historically protected, external insulation should be feasible.
+
+### 2. **Insulate the Pitched Roof**
+   - **Action**: Add insulation to the pitched roof, which is currently uninsulated.
+   - **Why**: Heat rises, and an uninsulated roof can lead to significant heat loss. Insulating the roof will greatly improve thermal comfort and energy efficiency.
+
+### 3. **Upgrade the Heating System**
+   - **Action**: Replace the old boiler with a modern, high-efficiency condensing boiler and upgrade the heat emission systems (radiators, underfloor heating, and air heating).
+   - **Why**: A new boiler and efficient heat emitters will reduce energy consumption and improve heating performance. Consider adding smart thermostats for better control.
+   - **Note**: If budget allows, explore the possibility of installing a heat pump, though this may require additional upgrades like underfloor heating in more areas.
+
+### 4. **Insulate the Flat-Roof Extension (If Feasible)**
+   - **Action**: Top up the insulation in the flat-roof extension to match or exceed current standards.
+   - **Why**: While the extension already has some insulation, improving it further will enhance overall energy performance.
+
+### 5. **Insulate the Floor Above the Basement**
+   - **Action**: Add insulation to the uninsulated floor above the basement.
+   - **Why**: This will reduce heat loss through the floor and improve comfort in living spaces above.
+
+### 6. **Improve Natural Ventilation and Consider Mechanical Ventilation with Heat Recovery (MVHR)**
+   - **Action**: Assess the current natural ventilation system and consider upgrading to MVHR if feasible.
+   - **Why**: MVHR can recover heat from exhausted air, improving energy efficiency and indoor air quality.
+
+### 7. **Install Photovoltaic (PV) Panels**
+   - **Action**: Install PV panels on the roof to generate renewable energy.
+   - **Why**: Given the potential for PV installation, this will reduce electricity costs and contribute to a better energy performance certificate.
+
+### 8. **Consider Secondary Glazing or Window Upgrades (If Needed)**
+   - **Action**: Evaluate the performance of the existing double-glazed windows. If heat loss is still an issue, consider secondary glazing or upgrading to triple glazing.
+   - **Why**: While the windows are in good condition, additional glazing can further reduce heat loss.
+
+### Optimal Sequence:
+1. **Insulate the exterior walls** (highest impact).
+2. **Insulate the pitched roof** (next highest impact).
+3. **Upgrade the heating system** (immediate improvement in efficiency).
+4. **Insulate the flat-roof extension and floor above the basement** (further reductions in heat loss).
+5. **Improve ventilation** (if feasible).
+6. **Install PV panels** (long-term energy savings).
+7. **Upgrade windows** (if needed).
+
+This plan prioritizes upgrades that provide the most significant energy savings and cost-effectiveness, while also considering the long-term performance of the home.

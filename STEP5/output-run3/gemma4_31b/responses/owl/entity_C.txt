@@ -1,0 +1,31 @@
+Based on the provided building data and the RENO ontology, the property is a nearly new attached building (constructed in 2023) with an exceptional EPC score of 50 (A+ Label). The building envelope is already highly optimized, with the walls, flat roof, and floor above the basement all being "Well Insulated," and a high-efficiency Ventilation System D already in place.
+
+Despite the high current performance, the owner is motivated to further improve the EPC and has a stated reason to change the emission system. To maximize energy efficiency while remaining cost-effective, the focus should shift from "major fabric overhauls" to "fine-tuning the envelope" and "optimizing the energy generation."
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Fine-Tuning (Priority: Low)
+While most of the house is well-insulated, the main gable roof is currently rated as "Moderately Insulated." Addressing this is the final step in completing the thermal envelope.
+
+1.  **Insulate Gable Roof:** Upgrading the gable roof from moderately to well-insulated will eliminate the last significant point of thermal leakage, further lowering the energy demand before upgrading the heating system.
+
+#### Phase 2: High-Efficiency Heating Transition (Priority: High)
+The building currently utilizes electric convectors, which are among the most expensive and least efficient ways to heat a home. Since the building is already highly insulated, it is the perfect candidate for a low-temperature heating system.
+
+2.  **Place Air-Water Heat Pump:** Given that there is no potential for geothermal drilling or a municipal heat grid, an **Air-Water Heat Pump** is the most efficient and sustainable choice to replace the current electric/boiler setup.
+3.  **Place Emission System on Low Temperature:** To maximize the Coefficient of Performance (COP) of the new heat pump, the emission system should be optimized for low-temperature operation. This ensures the heat pump does not have to work harder (and consume more electricity) to reach higher water temperatures.
+
+#### Phase 3: Operational Efficiency (Long-term)
+Since the building already possesses PV panels and a top-tier ventilation system (System D), no further structural or generation upgrades are required to reach peak efficiency.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Completes the "Fabric First" approach by bringing the roof up to the same standard as the walls and floor. |
+| **2** | **Air-Water Heat Pump** | Replaces inefficient electric convectors with a sustainable, high-efficiency generation source. |
+| **3** | **Low-Temp Emission Upgrade** | Ensures the new heat pump operates at maximum efficiency, reducing long-term operational costs. |
+
+**Final Assessment:** Because the building is already an "A+" performer, these targeted interventions will move the property toward a "Net Zero" operational status by replacing resistive electric heating with a sustainable heat pump powered by the existing PV installation.

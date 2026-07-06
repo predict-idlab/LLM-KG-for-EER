@@ -1,0 +1,53 @@
+### Renovation Plan for Detached Building (1862)
+
+#### Objective:
+Improve the EPC-value of the dwelling.
+
+#### Steps:
+1. **Remove Asbestos from Flat Roof (if applicable)**
+   - **Action**: Remove bonded asbestos from the flat roof.
+   - **Reason**: Preparation for subsequent insulation work.
+   - **Ordering**: 19 (Priority: High)
+
+2. **Insulate Flat Roof**
+   - **Action**: Insulate the flat roof using an inverted roof structure.
+   - **Reason**: The flat roof is currently not insulated, and insulation will significantly improve energy efficiency.
+   - **Ordering**: 25 (Priority: High)
+
+3. **Insulate Cavity Walls**
+   - **Action**: Insulate the cavity walls (Front, Rear, Left, Right) by injecting insulation.
+   - **Reason**: All cavity walls are currently not insulated, and insulation will improve thermal comfort and reduce energy consumption.
+   - **Ordering**: 34 (Priority: High)
+
+4. **Insulate Attic Floor**
+   - **Action**: Insulate the attic floor with a vapour barrier on the warm side.
+   - **Reason**: The attic floor is currently not insulated, and insulation will prevent heat loss through the roof.
+   - **Ordering**: 31 (Priority: High)
+
+5. **Replace Glazing**
+   - **Action**: Replace single glazing with double or triple glazing in all windows (Bedrooms, Living Area).
+   - **Reason**: Single glazing has poor thermal and acoustic properties, and replacement will improve insulation and comfort.
+   - **Ordering**: 43 (Priority: High)
+
+6. **Replace Ventilation System**
+   - **Action**: Replace the current ventilation system (Type A) with a more efficient system (Type B or C).
+   - **Reason**: Upgrading the ventilation system will improve air quality and energy efficiency.
+   - **Ordering**: 52 (Priority: Moderate)
+
+7. **Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump for space heating and domestic hot water.
+   - **Reason**: Replacing the current electric convector and radiator system with a heat pump will reduce energy consumption and lower carbon emissions.
+   - **Ordering**: 67 (Priority: Moderate)
+
+8. **Place PV-Panels on Roof**
+   - **Action**: Install PV-panels on the gable roof (Main) if the roof is suitable and free of asbestos.
+   - **Reason**: Generating solar energy will further reduce energy consumption and lower electricity costs.
+   - **Ordering**: 85 (Priority: Low)
+
+#### Notes:
+- **Asbestos Removal**: Ensure proper disposal and safety measures during asbestos removal.
+- **Ventilation System**: Consider the type of system (B or C) based on the building's layout and requirements.
+- **Heat Pump**: Check compatibility with the existing heating system and potential for integration.
+- **PV-Panels**: Verify roof orientation, shading, and local regulations before installation.
+
+This plan prioritizes actions based on the ontology's ordering and the building's specific needs.

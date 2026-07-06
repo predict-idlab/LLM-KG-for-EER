@@ -1,0 +1,72 @@
+To create a renovation plan, I'll analyze the provided entity information and the renovation ontology to identify the most impactful and cost-effective improvements. I'll focus on maximizing energy efficiency while keeping the plan practical and cost-effective.
+
+### Step-by-Step Analysis:
+
+1. **Identify Key Areas for Improvement:**
+   - **Roofing:** The building has two roofs: a flat roof (RoofExtension) and a gable roof (RoofMain). The flat roof is moderately insulated, while the gable roof is not insulated at all.
+   - **Walls:** All three walls (Front, Rear, and Right) are not insulated and have no historical protection.
+   - **Windows:** The windows in both the living area and bedrooms have double glazing, which is better than single glazing but can still be improved.
+   - **Emission System:** The current emission system is a combination of air heating, floor heating, and radiators. There might be opportunities to upgrade this system for better efficiency.
+   - **Energy Performance:** The building has an EPC score of 388, indicating a C label. The owner wants to improve the EPC, so upgrading to at least a B label would be beneficial.
+
+2. **Prioritize Based on Impact and Cost-Effectiveness:**
+   - **Roof Insulation:** Insulating the gable roof (RoofMain) is a high priority since it is currently not insulated. This can significantly reduce heat loss.
+   - **Wall Insulation:** Insulating the walls (Front, Rear, and Right) can further improve thermal efficiency. Exterior insulation is often more effective but may have higher upfront costs.
+   - **Window Upgrades:** Replacing the windows with triple glazing or adding thermal breaks to the frames can improve insulation.
+   - **Emission System Upgrade:** Considering the presence of an old emission system, upgrading to a more efficient system like a heat pump or connecting to a heat grid (if available) could be beneficial.
+
+3. **Consider Practical Constraints:**
+   - **Historical Protection:** None of the walls have historical protection, so insulation can be added without restrictions.
+   - **Potential for PV Panels:** The building has potential for PV panels, which could generate renewable energy.
+   - **Heat Grid Availability:** The heat grid is not available, so connecting to it is not an option.
+
+### Renovation Plan:
+
+1. **Insulate the Gable Roof (RoofMain):**
+   - **Action:** Insulate the gable roof to reduce heat loss.
+   - **Suggestion:** Use the "insulate gable roof" suggestion.
+   - **Estimated Cost:** Based on the unit price of €60 per m², the total cost will depend on the surface area of the roof.
+
+2. **Insulate the Walls (Front, Rear, Right):**
+   - **Action:** Insulate the walls to improve thermal efficiency.
+   - **Suggestion:** Use the "insulate wall on exterior" suggestion for the best performance.
+   - **Estimated Cost:** Based on the unit price of €200 per m², the total cost will depend on the surface area of the walls.
+
+3. **Upgrade Windows:**
+   - **Action:** Replace the windows with triple glazing or add thermal breaks to the frames.
+   - **Suggestion:** Use the "replace windows" suggestion.
+   - **Estimated Cost:** Based on the unit price of €800 per m², the total cost will depend on the number and size of the windows.
+
+4. **Upgrade the Emission System:**
+   - **Action:** Consider replacing the current emission system with a more efficient system like a heat pump.
+   - **Suggestion:** Use the "place air-water heatpump" or "place heatpumpboiler" suggestion.
+   - **Estimated Cost:** The fixed price is €8000 for the heat pump and €4000 for the heat pump boiler.
+
+5. **Install PV Panels:**
+   - **Action:** Install PV panels to generate renewable energy.
+   - **Suggestion:** Use the "place PV-panels on roof" or "place PV-panels in garden" suggestion.
+   - **Estimated Cost:** Based on the unit price of €275 per m², the total cost will depend on the number and size of the panels.
+
+### Summary of Renovation Plan:
+
+1. **Insulate the Gable Roof (RoofMain)**
+   - **Action:** Insulate the gable roof.
+   - **Suggestion:** Insulate gable roof.
+
+2. **Insulate the Walls (Front, Rear, Right)**
+   - **Action:** Insulate the walls.
+   - **Suggestion:** Insulate wall on exterior.
+
+3. **Upgrade Windows**
+   - **Action:** Replace the windows with triple glazing or add thermal breaks to the frames.
+   - **Suggestion:** Replace windows.
+
+4. **Upgrade the Emission System**
+   - **Action:** Replace the current emission system with a more efficient system like a heat pump.
+   - **Suggestion:** Place air-water heatpump or place heatpumpboiler.
+
+5. **Install PV Panels**
+   - **Action:** Install PV panels to generate renewable energy.
+   - **Suggestion:** Place PV-panels on roof or place PV-panels in garden.
+
+This plan focuses on maximizing energy efficiency by addressing the most significant sources of heat loss and upgrading to more efficient systems. The suggestions are selected based on their potential impact and cost-effectiveness, ensuring that the renovation is both practical and beneficial for the building's energy performance.

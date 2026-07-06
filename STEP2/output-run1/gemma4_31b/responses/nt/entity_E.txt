@@ -1,0 +1,47 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path. The strategy follows the "fabric-first" principle: we first minimize energy loss (insulation), then optimize the heating system, and finally integrate renewable energy.
+
+### **Building Analysis Summary**
+*   **Building Type:** Detached, constructed in 1862.
+*   **Current EPC Score:** 165 (B Label).
+*   **Critical Weaknesses:** Single glazing on all windows and completely uninsulated cavity walls.
+*   **Strengths:** Roof is already well-insulated; window frames are in good state.
+*   **Constraints:** Geothermal drilling is not possible; no heat grid available.
+
+---
+
+### **Proposed Renovation Plan**
+
+#### **Phase 1: The Thermal Envelope (Priority: High)**
+*Goal: Stop heat leakage to reduce the required capacity of the future heating system.*
+
+1.  **Insulate Wall Cavities:** All four exterior walls are cavity walls and currently not insulated. Injecting insulation into these cavities is the most cost-effective method to improve the thermal performance of the walls without altering the building's exterior facade.
+2.  **Replace Glazing:** The building currently has single glazing in both the living area and bedrooms. Since the wooden frames are in a "Good State," replacing only the glazing (upgrading to double or triple glazing) is more cost-effective than replacing the entire window unit.
+3.  **Insulate Floor Above Crawl Space:** To eliminate cold drafts from the ground, insulate the floor above the crawl space.
+
+#### **Phase 2: HVAC & Emission Systems (Priority: Medium)**
+*Goal: Transition from inefficient electric heating to a sustainable, low-carbon system.*
+
+4.  **Place Emission System on Low Temperature:** Before installing a new heat pump, the existing emission system (currently a mix of electric convectors and radiators) should be upgraded to low-temperature emitters (e.g., underfloor heating or oversized radiators) to maximize the efficiency of the heat pump.
+5.  **Place Air-Water Heat Pump:** Since geothermal is not an option and there is no heat grid, an Air-Water Heat Pump is the most efficient choice for a detached building of this size.
+6.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural supply) to a more modern system (System B or C) to ensure air quality is maintained after the building envelope has been sealed.
+
+#### **Phase 3: Energy Generation (Priority: Long-term)**
+*Goal: Offset operational costs with renewable energy.*
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels is the final step to move toward a net-zero energy balance and significantly lower monthly electricity bills.
+
+---
+
+### **Optimal Execution Sequence & Rationale**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Wall & Floor Insulation** | Lowest cost per kWh saved; reduces the size/cost of the heat pump needed. |
+| **2** | **Glazing Upgrade** | Eliminates the largest thermal bridges in the house. |
+| **3** | **Low-Temp Emission** | Prepares the "delivery" system for the high-efficiency heat pump. |
+| **4** | **Air-Water Heat Pump** | Replaces inefficient electric heating with a sustainable alternative. |
+| **5** | **Ventilation Upgrade** | Prevents condensation/mold issues caused by the new airtight envelope. |
+| **6** | **PV Panels** | Provides the electricity needed to run the heat pump and ventilation. |
+
+### **Cost-Effectiveness Note**
+By choosing **Cavity Wall Insulation** over Exterior Wall Insulation and **Glazing Replacement** over Window Replacement, we leverage the existing structural assets (cavity walls and existing frames) to minimize costs while achieving the same thermal performance goals.

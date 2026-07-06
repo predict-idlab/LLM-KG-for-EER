@@ -1,0 +1,75 @@
+Based on the provided building information and the RENO ontology, here's a concise and actionable renovation plan that focuses on energy efficiency and cost-effectiveness:
+
+### Renovation Plan for the Attached Building
+
+#### 1. Insulate Flat Roof (High Priority)
+- **Suggestion**: Insulate Flat Roof
+- **Reason**: The flat roof is well insulated but has historical protection which might need to be reconsidered.
+- **Action**:
+  - Check with local authorities to see if historical protection can be lifted.
+  - If possible, opt for an inverted roof structure to place insulation on top of the roof covering.
+  - Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation issues.
+
+#### 2. Replace Gable Roof (Medium Priority)
+- **Suggestion**: Replace Gable Roof
+- **Reason**: The gable roof is moderately insulated and has a good state, but replacing it could improve thermal comfort and energy efficiency.
+- **Action**:
+  - Consider replacing the gable roof with a better-insulated option.
+  - Ensure the new roof has a roof underlayment to prevent leaks and improve insulation.
+
+#### 3. Place Roof Underlayment (Low Priority)
+- **Suggestion**: Place Roof Underlayment
+- **Reason**: The gable roof already has a roof underlayment, but ensuring its quality and proper installation can prevent future issues.
+- **Action**:
+  - Inspect the current roof underlayment and replace if necessary.
+  - Ensure the underlayment is completely air- and watertight to prevent leaks.
+
+#### 4. Remove Asbestos from Flat Roof (High Priority)
+- **Suggestion**: Remove Asbestos from Flat Roof
+- **Reason**: Asbestos-containing materials pose health risks and must be removed before any insulation work.
+- **Action**:
+  - Hire a licensed asbestos removal company to safely remove any asbestos-containing materials from the flat roof.
+
+#### 5. Replace Glazing (Medium Priority)
+- **Suggestion**: Replace Glazing
+- **Reason**: The window glazing in the living area and bedrooms is double glazed, which is good, but replacing it with triple glazing could further improve energy efficiency.
+- **Action**:
+  - Check the condition of the window frames to ensure they are suitable for new glazing.
+  - Replace the double glazing with triple glazing to improve thermal performance.
+
+#### 6. Replace Ventilation System (Medium Priority)
+- **Suggestion**: Replace Ventilation System
+- **Reason**: The current ventilation system is a type D system, which is efficient but may need replacement to ensure proper air quality and energy efficiency.
+- **Action**:
+  - Inspect the current ventilation system and replace if necessary.
+  - Consider upgrading to a more energy-efficient system if possible.
+
+#### 7. Connect to Heat Grid (Low Priority)
+- **Suggestion**: Connect to Heat Grid
+- **Reason**: The building is not currently connected to a heat grid, which could provide a more sustainable and efficient heating solution.
+- **Action**:
+  - Check the availability and feasibility of connecting to a local heat grid.
+  - If feasible, connect to the heat grid to reduce reliance on individual heating systems.
+
+#### 8. Place Air-Water Heat Pump (Medium Priority)
+- **Suggestion**: Place Air-Water Heat Pump
+- **Reason**: The current emission system is an electric convector, which is not the most energy-efficient option. An air-water heat pump could provide more efficient heating.
+- **Action**:
+  - Install an air-water heat pump to replace the electric convector.
+  - Ensure the system is properly sized and installed for optimal performance.
+
+#### 9. Place Sunshade (Low Priority)
+- **Suggestion**: Place Sunshade
+- **Reason**: Installing outdoor blinds or sunshades can reduce solar heat gain and improve thermal comfort.
+- **Action**:
+  - Install outdoor blinds or sunshades on windows to reduce solar heat gain.
+  - Ensure the blinds are properly sized and installed for effective shading.
+
+#### 10. Place PV Panels on Roof (Medium Priority)
+- **Suggestion**: Place PV Panels on Roof
+- **Reason**: The building has potential for PV panels, which can generate renewable energy and reduce electricity costs.
+- **Action**:
+  - Check the roof's orientation and shading to determine the best placement for PV panels.
+  - Install PV panels on the roof to generate renewable energy.
+
+This plan prioritizes actions based on the building's current state, potential improvements, and the suggested renovation actions. It focuses on enhancing energy efficiency, ensuring safety (e.g., asbestos removal), and considering cost-effectiveness and long-term operational performance.

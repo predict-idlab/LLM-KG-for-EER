@@ -1,0 +1,65 @@
+Based on the provided RENO ontology and the specific building information, here’s a cost-effective and energy-efficient renovation plan. The plan prioritizes high-impact upgrades that maximize energy efficiency while considering practical constraints and the building's current state.
+
+### **Renovation Plan**
+
+#### **1. Insulation Upgrades**
+- **Insulate Flat Roof (RoofExtension)**
+  - **Action:** Add insulation to the flat roof to improve thermal performance.
+  - **Rationale:** The flat roof is already well-insulated, but ensuring it meets modern standards will reduce heat loss.
+  - **Cost:** €50/m² (based on ontology).
+  - **Nuisance Level:** High (structural work required).
+
+- **Insulate Gable Roof (RoofMain)**
+  - **Action:** Improve insulation in the gable roof to match the flat roof's insulation level.
+  - **Rationale:** The gable roof is only moderately insulated, which could lead to heat loss.
+  - **Cost:** €60/m² (based on ontology).
+  - **Nuisance Level:** Low (internal work possible).
+
+#### **2. Window and Glazing Upgrades**
+- **Replace Glazing (WindowsBedrooms, WindowsLivingArea)**
+  - **Action:** Upgrade existing double glazing to triple glazing for better thermal efficiency.
+  - **Rationale:** Triple glazing reduces heat loss significantly, especially in colder climates.
+  - **Cost:** €200/m² (based on ontology).
+  - **Nuisance Level:** High (window replacement work).
+
+#### **3. Heating System Optimization**
+- **Place Air-Water Heat Pump (Generation_System)**
+  - **Action:** Replace the existing boiler with an air-water heat pump for more efficient space and water heating.
+  - **Rationale:** Heat pumps are more energy-efficient than traditional boilers, reducing long-term energy costs.
+  - **Cost:** €8,000 (fixed) + €35/m² (based on ontology).
+  - **Nuisance Level:** Moderate (installation work required).
+
+- **Place Low-Temperature Emission System (EmissionSystem)**
+  - **Action:** Upgrade the emission system to operate at lower temperatures, compatible with the heat pump.
+  - **Rationale:** Ensures optimal performance of the heat pump.
+  - **Cost:** €100/m² (based on ontology).
+  - **Nuisance Level:** Moderate (retrofitting work).
+
+#### **4. Ventilation System Upgrade**
+- **Replace Ventilation System (VentilationSystem)**
+  - **Action:** Upgrade to a more efficient ventilation system (e.g., heat recovery ventilation).
+  - **Rationale:** Improves indoor air quality and reduces energy loss.
+  - **Cost:** €3,500 (fixed) + €17/m² (based on ontology).
+  - **Nuisance Level:** Moderate (ductwork modifications).
+
+#### **5. Solar Panel Installation**
+- **Place PV Panels on Roof (PVPanels)**
+  - **Action:** Install photovoltaic (PV) panels on the roof to generate renewable energy.
+  - **Rationale:** Reduces reliance on grid electricity and lowers energy costs.
+  - **Cost:** €275/m² (based on ontology).
+  - **Nuisance Level:** Low (roof-mounted installation).
+
+### **Priority Order**
+1. **Insulate Gable Roof** (Ordering: 28)
+2. **Place Air-Water Heat Pump** (Ordering: 67)
+3. **Place Low-Temperature Emission System** (Ordering: 70)
+4. **Replace Ventilation System** (Ordering: 52)
+5. **Replace Glazing** (Ordering: 43)
+6. **Place PV Panels on Roof** (Ordering: 85)
+
+### **Next Steps**
+- **Consult a contractor** to assess structural feasibility and obtain permits where required.
+- **Prioritize insulation and heating system upgrades** for immediate energy savings.
+- **Monitor post-renovation energy performance** to ensure expected efficiency gains.
+
+This plan ensures a balanced approach to energy efficiency, cost-effectiveness, and practical implementation.

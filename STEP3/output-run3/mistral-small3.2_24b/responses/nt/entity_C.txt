@@ -1,0 +1,90 @@
+### **Step 1: Understanding the Building and Its Context**
+The building in question is an **attached building** (connected to other houses on one or more sides) with a **net floor area of 159 m²**. It has the following key elements:
+- **Roofs**: Two roofs, **RoofMain** (gable roof, moderately insulated) and **RoofExtension** (flat roof, well insulated).
+- **Walls**: Two walls, **Wall_Front** and **Wall_Rear** (both full brick walls, well insulated and without historical protection).
+- **Windows**: Windows in the **Bedrooms** and **LivingArea** with wooden frames and double glazing.
+- **Floors**: **FloorAboveBasement** (well insulated).
+- **Other Elements**: **VentilationSystem** (type D), **EmissionSystem** (electric convector), **PVPanels** (solar device).
+
+The building has an **Energy Performance Certificate (EPC) with a score of 50**, indicating it falls in the **E label** category (400-500 kWh/m²year). The owner’s motivation is to **improve the EPC**.
+
+### **Step 2: Identifying Key Areas for Improvement**
+Given the EPC score and the owner's motivation, the goal is to improve energy efficiency. The following areas are identified for potential upgrades:
+1. **Roof Insulation**:
+   - **RoofMain** (gable roof, moderately insulated) can be upgraded to **well insulated** (like RoofExtension).
+   - **RoofExtension** is already well insulated, but it might benefit from additional improvements (e.g., roof underlayment).
+2. **Wall Insulation**:
+   - **Wall_Front** and **Wall_Rear** are well insulated, but there might be opportunities for further improvements (e.g., adding exterior insulation).
+3. **Window and Frame Upgrades**:
+   - The windows have wooden frames and double glazing. Upgrading to **triple glazing** or **better frames** (e.g., with thermal breaks) could improve insulation.
+4. **Ventilation System**:
+   - The current ventilation system is type **D**. Upgrading to a more efficient system (e.g., type **A or B**) could improve air quality and energy efficiency.
+5. **Emission System**:
+   - The current emission system is an electric convector. Replacing it with a **heat pump boiler** or **floor heating** could improve efficiency.
+6. **Solar Panels**:
+   - The building has **PVPanels**, but their potential is not utilized. Ensuring they are **properly oriented and maintained** can maximize their efficiency.
+
+### **Step 3: Prioritizing Renovations**
+Based on the **ordering** of the renovation suggestions and the **nuisance level**, the following order is proposed:
+1. **Replace Ventilation System** (Order: 52, Nuisance: Moderate)
+   - Upgrade to a more efficient system (e.g., type A or B).
+2. **Insulate Gable Roof** (Order: 28, Nuisance: Low)
+   - Upgrade RoofMain to well insulated.
+3. **Insulate Attic Floor** (Order: 31, Nuisance: Low)
+   - Ensure the attic floor is properly insulated.
+4. **Insulate Wall Exterior** (Order: 40, Nuisance: High)
+   - Add exterior insulation to Wall_Front and Wall_Rear.
+5. **Replace Windows** (Order: 46, Nuisance: High)
+   - Upgrade to triple glazing or better frames.
+6. **Place Heat Pump Boiler** (Order: 76, Nuisance: Moderate)
+   - Replace the electric convector with a heat pump boiler.
+7. **Insulate Floor Above Basement** (Order: 49, Nuisance: Low)
+   - Ensure the floor above the basement is well insulated.
+
+### **Step 4: Detailed Action Plan**
+1. **Replace Ventilation System**:
+   - **Action**: Upgrade the ventilation system to type A or B.
+   - **Considerations**: Ensure the system is properly installed and maintained. Consider the impact on the living areas.
+
+2. **Insulate Gable Roof**:
+   - **Action**: Insulate RoofMain to match the insulation level of RoofExtension.
+   - **Considerations**: Ensure proper vapour barriers are installed to prevent condensation.
+
+3. **Insulate Attic Floor**:
+   - **Action**: Insulate the attic floor to ensure thermal comfort and energy efficiency.
+   - **Considerations**: Use walkable insulation if needed. Ensure proper vapour barriers.
+
+4. **Insulate Wall Exterior**:
+   - **Action**: Add exterior insulation to Wall_Front and Wall_Rear.
+   - **Considerations**: Check local regulations and building lines. Ensure proper cladding is used.
+
+5. **Replace Windows**:
+   - **Action**: Upgrade windows to triple glazing or better frames (e.g., with thermal breaks).
+   - **Considerations**: Ensure the frames are straight and strong enough to fit new glass. Check for proper thickness.
+
+6. **Place Heat Pump Boiler**:
+   - **Action**: Replace the electric convector with a heat pump boiler.
+   - **Considerations**: Ensure proper installation and maintenance. Consider the impact on the living areas.
+
+7. **Insulate Floor Above Basement**:
+   - **Action**: Ensure the floor above the basement is well insulated.
+   - **Considerations**: Use appropriate insulation materials and ensure proper installation.
+
+### **Step 5: Additional Recommendations**
+- **Solar Panels**: Ensure the PVPanels are properly oriented and maintained to maximize their efficiency.
+- **Regular Maintenance**: Schedule regular maintenance for the upgraded systems to ensure long-term performance.
+
+### **Step 6: Timeline and Budget**
+- **Timeline**: The renovations can be planned over a period of 6-12 months, depending on the complexity and availability of contractors.
+- **Budget**: The total budget will depend on the specific upgrades chosen. Prioritize based on the most cost-effective improvements first.
+
+### **Final Renovation Plan**
+1. **Replace Ventilation System** (Type A or B)
+2. **Insulate Gable Roof** (RoofMain)
+3. **Insulate Attic Floor**
+4. **Insulate Wall Exterior** (Wall_Front and Wall_Rear)
+5. **Replace Windows** (Triple Glazing or Better Frames)
+6. **Place Heat Pump Boiler** (Replace Electric Convector)
+7. **Insulate Floor Above Basement**
+
+This plan is designed to **maximize energy efficiency** while **minimizing disruption** and **cost**. It is tailored to the specific building and its context, ensuring a practical and actionable approach to renovation.

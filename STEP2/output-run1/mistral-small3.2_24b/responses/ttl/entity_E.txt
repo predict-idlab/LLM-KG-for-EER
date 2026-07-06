@@ -1,0 +1,50 @@
+Based on the provided RENO ontology and the specific building information, here's a cost-effective and energy-efficient renovation plan prioritizing actions that maximize energy savings while being practical for the given building:
+
+### Phase 1: Immediate Actions (Low Cost, High Impact)
+1. **Insulate Wall Cavity** (Ordering: 34)
+   - Target all four walls (Front, Left, Rear, Right) which are currently not insulated
+   - Cost: €22/m² (low nuisance, no permit needed)
+   - Priority: High (quick win for thermal performance)
+
+2. **Replace Glazing** (Ordering: 43)
+   - Upgrade single glazing to double glazing in all windows
+   - Cost: €200/m² (high nuisance due to window removal but significant energy savings)
+   - Focus on bedrooms and living area windows
+
+3. **Insulate Attic Floor** (Ordering: 31)
+   - Cost: €60/m² (low nuisance, no permit needed)
+   - Important for heat retention in the living spaces below
+
+### Phase 2: Mid-Term Actions
+4. **Replace Ventilation System** (Ordering: 52)
+   - Current system is type A (natural ventilation)
+   - Consider upgrading to system C (natural supply with mechanical exhaust)
+   - Cost: €3500 + €17/m² (moderate nuisance, check multi-phase requirement)
+
+5. **Insulate Wall on Interior** (Ordering: 37)
+   - For walls where cavity insulation isn't feasible
+   - Cost: €150/m² (moderate nuisance, no permit needed)
+   - Important for thermal comfort in living areas
+
+### Phase 3: Long-Term/High-Impact Actions
+6. **Place Air-Water Heat Pump** (Ordering: 67)
+   - Replace current emission system (electric convectors/radiators)
+   - Cost: €8000 + €35/m² (moderate nuisance, check multi-phase requirement)
+   - Consider cooling option (Ordering: 73) if budget allows
+
+7. **Place PV Panels on Roof** (Ordering: 85)
+   - Potential for south-facing panels based on orientation
+   - Cost: €275/m² (low nuisance, check permit requirements)
+   - Pair with heat pump for optimal energy efficiency
+
+### Special Considerations:
+- **Asbestos Check**: Before any roof work, verify if roof contains asbestos
+- **Historical Protection**: Walls are not historically protected, so no restrictions on insulation
+- **Owner Motivation**: Focus on improving EPC score as primary goal
+
+### Implementation Sequence:
+1. Begin with cavity wall insulation and attic floor insulation
+2. Proceed with glazing replacement and ventilation system upgrade
+3. Install heat pump and PV panels as final major upgrades
+
+This plan addresses the building's F energy label (165 kWh/m²year) by focusing on thermal envelope improvements and more efficient heating systems. The sequence ensures that each renovation step builds on the benefits of previous upgrades, maximizing overall energy efficiency.

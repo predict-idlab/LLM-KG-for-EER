@@ -1,0 +1,39 @@
+Based on the provided RENO ontology and the specific data for the building, the property is a **1951 semi-detached house** with an EPC score of **388.0 (Label D)**. The owner's primary motivation is to improve the EPC.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. This ensures that the building's energy demand is reduced before investing in high-cost heating systems, preventing the installation of oversized and inefficient equipment.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Immediate Priority)
+The building currently has significant heat loss through the roof, walls, and floor.
+1.  **Insulate Gable Roof (`reno:InsulateGableRoof`):** The main roof is currently not insulated. Since heat rises, this is the most cost-effective way to drop the EPC score quickly.
+2.  **Insulate Exterior Walls (`reno:InsulateWallExterior`):** All three external walls (Front, Rear, Right) are full brick and not insulated. Because they are "Full Brick Walls" (not cavity walls), cavity injection is not an option. Exterior insulation is recommended over interior insulation to preserve internal living space and provide better thermal performance.
+3.  **Insulate Floor Above Basement (`reno:InsulateFloorAboveBasement`):** The floor is not insulated. This is a low-nuisance, low-cost upgrade that significantly improves ground-floor thermal comfort.
+
+#### Phase 2: Ventilation & Air Quality
+4.  **Upgrade Ventilation System (`reno:ReplaceVentilationSystem`):** The building currently uses **Ventilation System A** (natural supply/exhaust), which is the least efficient. Upgrading to a System C or D (mechanical exhaust or balanced ventilation) will reduce heat loss caused by uncontrolled drafts and improve indoor air quality.
+
+#### Phase 3: Heating Generation & Emission
+Once the shell is insulated, the energy demand will be lower, allowing for a more efficient heat pump installation.
+5.  **Optimize Emission System (`reno:PlaceLowTemperatureEmission`):** The owner has indicated a reason to change the emission system. To maximize the efficiency of a heat pump, the existing radiators/air heating should be transitioned to low-temperature emitters.
+6.  **Install Air-Water Heat Pump (`reno:PlaceAirWaterHeatpump`):** Since geothermal potential is **false** and there is no heat grid, an Air-Water Heat Pump is the most sustainable replacement for the existing boiler. It integrates well with the existing floor heating and the newly optimized low-temperature emitters.
+
+#### Phase 4: Renewable Energy (Long-term Operational Cost)
+7.  **Install Solar Panels (`reno:PlacePVPanelsOnRoof`):** The building has potential for PV. Installing panels on the roof will offset the electricity consumption of the new heat pump, drastically reducing operational costs and further improving the EPC label.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Target Element | Impact | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | High | Low/Moderate |
+| **2** | **Insulate Walls (Ext)** | Walls (Front/Rear/Right) | Very High | High |
+| **3** | **Insulate Floor** | FloorAboveBasement | Moderate | Low |
+| **4** | **Upgrade Ventilation** | VentilationSystem | Moderate | Moderate |
+| **5** | **Low-Temp Emission** | EmissionSystem | High (Efficiency) | Moderate |
+| **6** | **Air-Water Heat Pump** | Generation_System | Very High | Moderate/High |
+| **7** | **PV Panels** | RoofMain | High (Ops Cost) | Moderate |
+
+### Final Expert Note:
+By following this sequence, you avoid the common mistake of installing a heat pump in a "leaky" house. Insulating the roof and walls first ensures that the heat pump can be smaller, cheaper to install, and significantly more efficient in operation, directly fulfilling the owner's goal of **improving the EPC label**.

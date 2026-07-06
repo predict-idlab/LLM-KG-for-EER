@@ -1,0 +1,49 @@
+***Note on Property Age:*** *There is a contradiction in the provided data (built in 2023, yet heat emitters are "no longer in good condition" and windows were renewed in 2024). I have proceeded under the assumption that this is an older home that has undergone partial modernization, as a 2023 build would not have deteriorating systems or an EPC score requiring these specific interventions.*
+
+Given that your home already possesses several high-efficiency features (Ventilation D, PV panels, and well-insulated walls/floors), you are in a "fine-tuning" phase. Your current EPC of 50 is already quite good, but the reliance on electric convectors is a significant inefficiency.
+
+Here is the optimal, step-by-step renovation path to maximize energy efficiency and cost-effectiveness.
+
+---
+
+### Step 1: Thermal Envelope Optimization (The "Passive" Phase)
+Before replacing the heating system, you must ensure the house retains as much heat as possible. This allows you to install a smaller, cheaper, and more efficient heating unit.
+
+*   **Action:** Upgrade the **pitched roof insulation**.
+*   **Detail:** You mentioned it is currently "moderate." Moving this to "well insulated" (via mineral wool or PIR panels in the rafters or attic floor) will eliminate the primary source of heat loss (convection).
+*   **Why first?** If you install a new heating system first, you may over-specify the capacity of the boiler/heat pump, leading to higher upfront costs and lower operational efficiency.
+
+### Step 2: Heat Emission System Overhaul (The "Infrastructure" Phase)
+Electric convectors are the most expensive way to heat a home in Belgium and are the "weak link" in your current setup.
+
+*   **Action A: Eliminate Electric Convectors.** Remove all electric convectors. 
+*   **Action B: Expand Hydronic Heating.** Since you already have underfloor heating (UFH), the most cost-effective move is to extend the UFH piping to the rooms currently served by convectors. If extending the floor is too invasive, install **low-temperature radiators** or **fan coils**.
+*   **Action C: System Balancing.** Ensure the existing UFH is flushed and balanced to ensure heat is distributed evenly across the 159 m².
+
+### Step 3: Heat Generation Transition (The "Active" Phase)
+Now that the house is tightly insulated and the emission system is unified, you can replace the boiler.
+
+*   **Action:** Replace the boiler with an **Air-to-Water Heat Pump**.
+*   **Detail:** Since you have PV panels and underfloor heating (which operates at low temperatures), you are the perfect candidate for a heat pump. This will shift your heating from gas/electricity to a high-COP (Coefficient of Performance) system powered by your own solar panels.
+*   **Why now?** A heat pump is only cost-effective if the "envelope" is tight and the "emitters" (UFH) are low-temperature. Doing this after Steps 1 and 2 ensures maximum ROI.
+
+### Step 4: Smart Control & Monitoring (The "Optimization" Phase)
+To squeeze the final percentage of efficiency out of the home.
+
+*   **Action:** Install a **Smart Zoning System**.
+*   **Detail:** Implement a smart thermostat system that can control the UFH zones independently. Since it is an attached house, you likely have different thermal loads on the shared walls versus the exterior walls.
+*   **Integration:** Link the heat pump to your PV system (via a "smart grid" controller) so the heat pump runs primarily when your solar panels are producing peak energy (thermal storage).
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Priority | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | High | Pitched Roof Insulation | $\downarrow$ Heat Loss | Very High (Immediate ROI) |
+| **2** | High | Replace Convectors $\rightarrow$ UFH/Radiators | $\downarrow$ Energy Waste | High (Long-term OpEx) |
+| **3** | Medium | Air-to-Water Heat Pump | $\downarrow$ Carbon/Fuel Cost | Medium (High Capex, Low OpEx) |
+| **4** | Low | Smart Zoning/PV Integration | $\downarrow$ Operational Waste | High (Low cost, high precision) |
+
+### Final Expert Tip for Ghent/Flanders:
+Check the current **Flemish Energy Premiums (Mijn VerbouwPremie)**. Because you are upgrading from electric convectors to a heat pump and improving roof insulation, you may be eligible for significant subsidies that drastically reduce the "cost-effective" barrier of the heat pump installation.

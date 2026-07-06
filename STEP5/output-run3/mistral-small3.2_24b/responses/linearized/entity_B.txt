@@ -1,0 +1,74 @@
+### Renovation Plan for Attached Building (Construction Year: 1832)
+
+**Current EPC Score:** 262 (C Label)
+**Owner's Motivation:** Improve EPC
+**Building Type:** Attached (19th century)
+**Key Issues:**
+- Non-insulated external walls (Front, Rear)
+- Non-insulated flat roof
+- Non-insulated floor above basement
+- Potential for PV
+- Existing boiler-based heating system
+
+---
+
+#### **Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+**Goal:** Reduce heat loss through the building envelope.
+
+1. **Insulate Wall on Exterior**
+   - **Elements:** `Wall_Front`, `Wall_Rear` (FullBrickWall, NotInsulated)
+   - **Action:** Apply exterior wall insulation to eliminate thermal bridges.
+   - **Rationale:** Exterior insulation is more effective for solid brick walls and avoids reducing interior space.
+
+2. **Insulate Flat Roof**
+   - **Element:** `RoofExtension` (Flat, NotInsulated)
+   - **Action:** Install inverted roof structure with insulation on top of the covering.
+   - **Rationale:** Flat roofs lose significant heat; insulation here improves thermal retention.
+
+3. **Insulate Floor Above Basement**
+   - **Element:** `FloorAboveBasement` (NotInsulated)
+   - **Action:** Add insulation to prevent cold drafts from the basement.
+   - **Rationale:** Basement floors are major sources of heat loss in older buildings.
+
+---
+
+#### **Phase 2: High-Efficiency Heating Transition**
+**Goal:** Replace the existing boiler with a sustainable, low-temperature system.
+
+4. **Place Air-Water Heat Pump**
+   - **Rationale:** Since geothermal potential is "false" and no heat grid exists, an air-water heat pump is the most viable alternative to the boiler.
+   - **Prerequisite:** Ensure the emission system is compatible with low temperatures (next step).
+
+5. **Place Emission System on Low Temperature**
+   - **Element:** Existing radiators (EmissionSystem)
+   - **Action:** Upgrade to low-temperature emissions (e.g., underfloor heating or low-temperature radiators) to maximize the heat pump's Coefficient of Performance (COP).
+   - **Rationale:** Low-temperature systems work best with heat pumps, improving efficiency.
+
+---
+
+#### **Phase 3: Sustainable Energy Generation**
+**Goal:** Offset the heat pump's electricity consumption.
+
+6. **Place PV-Panels on Roof**
+   - **Rationale:** The building has confirmed potential for PV. Installing solar panels will provide renewable electricity for the heat pump and ventilation system.
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Exterior Wall Insulation** | Reduces heat loss through solid brick walls. |
+| **2** | **Flat Roof Insulation** | Prevents heat loss through the flat section. |
+| **3** | **Floor Insulation** | Eliminates cold drafts from the basement. |
+| **4** | **Air-Water Heat Pump** | Replaces the boiler with a sustainable, low-temperature system. |
+| **5** | **Low-Temperature Emission Upgrade** | Maximizes heat pump efficiency. |
+| **6** | **PV Panels on Roof** | Offsets the heat pump's electricity consumption. |
+
+---
+
+### **Notes:**
+- **Windows:** Already double-glazed with wooden frames in good condition; no replacement needed.
+- **Ventilation:** The existing system (VentilationSystemA) may need evaluation for compatibility with the new heat pump, but this is secondary to the above steps.
+- **Historical Protection:** No restrictions noted on `Wall_Front` or `Wall_Rear`, allowing insulation work.
+
+This plan follows the **"Insulate → Ventilate → Generate"** principle, ensuring cost-effectiveness and long-term energy efficiency.

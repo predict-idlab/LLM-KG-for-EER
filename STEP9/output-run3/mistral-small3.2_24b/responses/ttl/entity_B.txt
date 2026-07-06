@@ -1,0 +1,69 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### 1. **Initial Assessment**
+   - **Current Energy Performance Certificate (EPC) Score**: 262.0 (C label)
+   - **Building Type**: Attached, constructed in 1832
+   - **Key Areas for Improvement**: Roofs, Walls, Floors, Windows, Ventilation System, Emission System
+   - **Owner's Motivation**: To improve EPC
+
+#### 2. **Prioritized Renovation Actions**
+   - **High Impact, Low Nuisance**:
+     1. **Insulate Gable Roof**: Moderately insulated, high impact on thermal performance.
+     2. **Insulate Attic Floor**: Not insulated, critical for heat retention.
+     3. **Insulate Wall Cavity**: Not insulated, cost-effective and low nuisance.
+     4. **Insulate Floor Above Basement**: Not insulated, important for overall building efficiency.
+     5. **Insulate Flat Roof**: Not insulated, replace if necessary.
+
+   - **Moderate Impact, Moderate Nuisance**:
+     1. **Replace Ventilation System**: Current system is type A (natural air supply and exhaust), consider upgrading to a more efficient system (e.g., type D for mechanical supply and exhaust).
+     2. **Replace Glazing**: Current glazing is double, consider upgrading to triple glazing for better insulation.
+
+   - **High Impact, High Nuisance**:
+     1. **Insulate Wall on Exterior**: High cost but significant impact on thermal performance.
+     2. **Replace Windows**: High cost but improves both thermal and acoustic performance.
+
+   - **Optional Upgrades**:
+     1. **Place PV-Panels on Roof**: High potential for PV, consider if budget allows.
+     2. **Place Heat Pump**: Consider if budget allows and if the emission system is compatible.
+
+#### 3. **Step-by-Step Implementation Plan**
+   1. **Phase 1: Roof and Attic Insulation**
+      - **Action**: Insulate gable roof and attic floor.
+      - **Rationale**: Immediate impact on heat retention and energy efficiency.
+      - **Estimated Cost**: Moderate.
+
+   2. **Phase 2: Wall Insulation**
+      - **Action**: Insulate wall cavity and consider exterior wall insulation if budget permits.
+      - **Rationale**: Walls are a major source of heat loss.
+      - **Estimated Cost**: Moderate to high.
+
+   3. **Phase 3: Floor Insulation**
+      - **Action**: Insulate floor above basement.
+      - **Rationale**: Ensures comprehensive thermal envelope.
+      - **Estimated Cost**: Moderate.
+
+   4. **Phase 4: Window Upgrades**
+      - **Action**: Replace glazing and consider replacing entire windows if frames are old.
+      - **Rationale**: Improves thermal and acoustic performance.
+      - **Estimated Cost**: High.
+
+   5. **Phase 5: Ventilation System Upgrade**
+      - **Action**: Replace ventilation system to a more efficient type (e.g., type D).
+      - **Rationale**: Enhances indoor air quality and energy efficiency.
+      - **Estimated Cost**: Moderate.
+
+   6. **Phase 6: Optional Upgrades**
+      - **Action**: Install PV-panels on roof and consider a heat pump if emission system is compatible.
+      - **Rationale**: Further reduces energy consumption and costs.
+      - **Estimated Cost**: High.
+
+#### 4. **Budget and Timeline**
+   - **Total Estimated Cost**: Varies based on phases implemented.
+   - **Timeline**: Phased approach allows for budgeting and prioritization over time.
+
+#### 5. **Additional Considerations**
+   - **Permits**: Check local regulations for permits, especially for exterior wall insulation and roof replacements.
+   - **Professional Consultation**: Engage architects or contractors for complex tasks like exterior wall insulation and window replacement.
+   - **Energy Audits**: Conduct regular energy audits to monitor progress and adjust the plan as needed.
+
+This plan ensures a structured approach to improving energy efficiency while being mindful of cost and practicality.

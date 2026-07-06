@@ -1,0 +1,16 @@
+The building is an attached property from 1832 with an EPC score of 262 (C label). The goal is to improve the EPC rating. A "Fabric-First" approach is recommended to reduce the energy demand before upgrading the heating system. The most effective and cost-efficient sequence is:
+1.  **Insulate Walls on Exterior:** The `Wall_Front` and `Wall_Rear` are full brick and not insulated. Since they are not cavity walls, exterior insulation is the most effective method to eliminate thermal bridges.
+2.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+3.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a priority as heat rises rapidly through flat sections.
+*Note: Windows are already double-glazed and frames are in a "Good State," so replacing them is not recommended at this stage to maintain cost-effectiveness.*
+
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+4.  **Place Air-Water Heat Pump:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+5.  **Place Emission System on Low Temperature:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+To offset the electricity consumption of the new heat pump and further improve the EPC label:
+
+6.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+The optimal sequence is: **Exterior Wall Insulation** $\rightarrow$ **Floor Insulation** $\rightarrow$ **Flat Roof Insulation** $\rightarrow$ **Air-Water Heat Pump** $\rightarrow$ **Low-Temp Emission Upgrade** $\rightarrow$ **PV Panels**. This sequence ensures cost-effectiveness while maximizing energy efficiency improvements.

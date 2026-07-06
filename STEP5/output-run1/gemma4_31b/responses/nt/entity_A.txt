@@ -1,0 +1,42 @@
+Based on the provided data, here is the recommended strategic plan for the renovation and improvement of the property.
+
+### **Overview of Current Status**
+The property currently has a mix of efficiency levels. While some elements are in place, the primary goal is to transition from a standard setup to a high-efficiency, sustainable model. The focus is on reducing energy consumption, improving thermal comfort, and lowering the carbon footprint.
+
+---
+
+### **Phase 1: Thermal Envelope & Insulation (The "Passive" Layer)**
+*Goal: Stop energy loss and maintain internal temperatures with minimal mechanical effort.*
+
+1.  **Wall & Roof Insulation:** Prioritize the insulation of the attic and external walls. This is the most cost-effective way to reduce heating and cooling costs.
+2.  **Window Upgrades:** Replace single-pane or outdated windows with double or triple-glazing (Low-E coating) to prevent thermal bridging.
+3.  **Air Sealing:** Seal gaps around doors, windows, and utility penetrations to eliminate drafts (infiltration).
+
+### **Phase 2: HVAC & Energy Systems (The "Active" Layer)**
+*Goal: Replace inefficient, fossil-fuel-based systems with high-efficiency electric alternatives.*
+
+1.  **Heat Pump Installation:** Replace traditional boilers/furnaces with an **Air-Source Heat Pump (ASHP)** for terms of heating and cooling. This significantly reduces CO2 emissions.
+2.  **Ventilation with Heat Recovery (MVHR):** Install a Mechanical Ventilation with Heat Recovery system. This ensures a constant supply of fresh air while recovering heat from the exhausted air.
+3.  **Smart Thermostats:** Implement zoned heating and smart controls to ensure energy is only used in occupied rooms.
+
+### **Phase 3: Renewable Energy Integration**
+*Goal: Transition to net-zero energy production.*
+
+1.  **Solar PV Array:** Install rooftop solar panels to generate electricity for the heat pump and general household use.
+2.  **Battery Storage:** Add a battery storage system (e.g., Lithium-ion) to store excess solar energy generated during the day for use at night.
+3.  **EV Charging Station:** Install a Level 2 electric vehicle charger to integrate the home's energy system with transport.
+
+---
+
+### **Summary of Priority & Impact**
+
+| Priority | Action | Impact | Primary Benefit |
+| :--- | :--- | :--- | :--- |
+| **High** | Insulation & Sealing | Very High | Immediate reduction in energy bills |
+| **Medium** | Heat Pump & MVHR | High | Decarbonization & Air Quality |
+| **Low** | Solar PV & Battery | Medium | Energy Independence |
+
+### **Key Performance Indicators (KPIs) for Success**
+* **U-Value Reduction:** Lowering the thermal transmittance of walls and windows.
+* **Energy Use Intensity (EUI):** Reduction in kWh per square meter per year.
+* **Carbon Footprint:** Reduction in annual tonnes of CO2 equivalent.

@@ -1,0 +1,44 @@
+### Renovation Plan
+
+Given the building's characteristics, the following renovation plan is proposed to maximize energy efficiency while remaining cost-effective:
+
+#### Phase 1: Thermal Envelope Optimization
+1. **Insulate Flat Roof**
+   - **Reasoning**: The flat roof is currently not insulated. Insulating the roof is crucial as heat rises, and uninsulated roofs lead to significant heat loss.
+   - **Action**: Install insulation on the flat roof to improve thermal performance.
+
+2. **Insulate Wall on Interior**
+   - **Reasoning**: Both the front and rear walls are full brick and not insulated. Insulating the walls on the interior is more cost-effective than exterior insulation and provides substantial thermal retention.
+   - **Action**: Add insulation to the interior surfaces of the front and rear walls.
+
+3. **Insulate Floor Above Basement**
+   - **Reasoning**: The floor above the basement is currently not insulated. Insulating this floor will prevent cold air from the basement from affecting the living areas.
+   - **Action**: Install insulation on the floor above the basement.
+
+#### Phase 2: Window Performance Enhancement
+4. **Replace Glazing**
+   - **Reasoning**: The windows currently have double glazing, which is better than single glazing but can still be improved. Replacing the glazing with triple glazing will further enhance thermal performance.
+   - **Action**: Replace the existing double glazing with triple glazing to reduce heat loss through windows.
+
+#### Phase 3: High-Efficiency Heating Transition
+5. **Place Air-Water Heat Pump**
+   - **Reasoning**: The current generation system is a boiler. Transitioning to an air-water heat pump will significantly improve energy efficiency and reduce carbon emissions.
+   - **Action**: Install an air-water heat pump to replace the existing boiler.
+
+#### Phase 4: Air Quality and Ventilation
+6. **Replace Ventilation System**
+   - **Reasoning**: The current ventilation system is system D, which is efficient but may not be optimized for the new thermal envelope. Upgrading to a more advanced system can improve air quality and comfort.
+   - **Action**: Upgrade the ventilation system to a more efficient model to ensure proper air exchange and maintain indoor air quality.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **1** | Insulate Flat Roof | Reduces heat loss through the roof. |
+| **2** | Insulate Wall on Interior | Improves thermal retention of the walls. |
+| **3** | Insulate Floor Above Basement | Prevents cold air from the basement affecting living areas. |
+| **4** | Replace Glazing | Enhances window thermal performance. |
+| **5** | Place Air-Water Heat Pump | Transitions to a more energy-efficient heating system. |
+| **6** | Replace Ventilation System | Ensures proper air exchange and maintains indoor air quality. |
+
+This plan follows a logical sequence that prioritizes thermal envelope improvements before upgrading heating systems and ventilation, ensuring a comprehensive and cost-effective approach to energy efficiency.

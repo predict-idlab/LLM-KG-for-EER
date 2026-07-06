@@ -1,0 +1,52 @@
+The given input consists of a building description and ontology. The building is a semi-detached house from 1951 with a floor area of 149 m² and an EPC score of 388 (D Label). The owner's primary motivation is to improve the EPC rating. The building has the following characteristics:
+
+1. **Thermal Envelope Issues**: The building has several uninsulated elements:
+   - Walls: `Wall_Front`, `Wall_Rear`, and `Wall_Right` are all full brick and not insulated.
+   - Floors: `FloorAboveBasement` is not insulated.
+   - Roofs: `RoofMain` (gable roof) is not insulated, while `RoofExtension` (flat roof) is moderately insulated.
+2. **Windows**: All windows have double glazing, and the frames are in a good state.
+3. **Heating System**: The current heating system is a boiler, and there is a reason to change the emission system.
+4. **Potential for PV**: The building has confirmed potential for photovoltaic panels.
+5. **Ventilation System**: The current ventilation system is of type A (natural).
+
+Given these characteristics, the renovation plan should follow the **"Insulate → Ventilate → Generate"** sequence to maximize energy efficiency while remaining cost-effective. The plan should prioritize actions that address the most significant heat loss paths first.
+
+### Renovation Plan:
+
+1. **Insulate the Building Envelope (High Priority)**
+   - **Insulate Walls on Exterior**: Since the walls are full brick and not insulated, exterior insulation is the most effective method to eliminate thermal bridges. This should be prioritized as it addresses a significant heat loss path.
+     - Suggested Action: `Insulate Wall On Exterior`
+   - **Insulate Floor Above Basement**: The floor above the basement is not insulated, leading to cold drafts. Insulating this floor will prevent heat loss to the basement.
+     - Suggested Action: `Insulate Floor Above Basement`
+   - **Insulate Gable Roof**: The main roof is a gable roof that is not insulated. Insulating this roof will reduce heat loss through the roof.
+     - Suggested Action: `Insulate Gable Roof`
+
+2. **Upgrade the Ventilation System (Medium Priority)**
+   - The current ventilation system is of type A (natural), which is not efficient. Upgrading to a more efficient system (such as System C or D) will ensure proper air exchange and maintain indoor air quality.
+     - Suggested Action: `Replace Ventilation System`
+
+3. **Transition to a High-Efficiency Heating System (Medium Priority)**
+   - With a sealed envelope, the building's heat demand is now significantly lower. Installing a more efficient heating system will reduce energy consumption.
+   - **Place Air-Water Heat Pump**: Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+     - Suggested Action: `Place Air-Water Heatpump`
+   - **Place Emission System on Low Temperature**: Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+     - Suggested Action: `Place Emission System on Low Temperature`
+
+4. **Generate Renewable Energy (Low Priority)**
+   - To offset the electricity consumption of the new heat pump and further improve the EPC label, installing photovoltaic panels is recommended.
+   - **Place PV-Panels on Roof**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+     - Suggested Action: `Place PV-panels on roof`
+
+### Summary of Optimal Sequence:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Walls On Exterior** | Addresses significant heat loss through uninsulated walls. |
+| **2** | **Insulate Floor Above Basement** | Prevents cold drafts from the basement. |
+| **3** | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| **4** | **Replace Ventilation System** | Ensures proper air exchange and maintains indoor air quality. |
+| **5** | **Place Air-Water Heat Pump** | Replaces the existing boiler with a more efficient heating system. |
+| **6** | **Place Emission System on Low Temperature** | Maximizes the COP of the new heat pump. |
+| **7** | **Place PV-Panels on Roof** | Offsets the electricity consumption of the heat pump and ventilation system. |
+
+This renovation plan ensures that the building's thermal envelope is optimized first, followed by the installation of high-efficiency heating systems, and finally, the generation of renewable energy. This approach maximizes energy efficiency while remaining cost-effective.

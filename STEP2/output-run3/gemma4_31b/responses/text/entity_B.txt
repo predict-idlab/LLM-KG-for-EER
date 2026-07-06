@@ -1,0 +1,51 @@
+To transform a 19th-century house with an EPC of 262 into an energy-efficient home, you must follow the **"Fabric First"** principle. The most common mistake is replacing the heating system before insulating the envelope; this leads to oversized, inefficient systems and higher costs.
+
+Because your home is in Ghent (Flanders), you should align this plan with the **"Mijn VerbouwPremie"** (My Renovation Premium) to maximize subsidies.
+
+Here is the optimal, sequenced renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*Goal: Stop heat from escaping so you can install a smaller, cheaper heating system.*
+
+1.  **Flat Roof Insulation (High Priority):** Flat roofs are notorious for heat loss. Since it is currently uninsulated, this is your "lowest hanging fruit." Use high-density PIR boards or an inverted roof system.
+2.  **Floor Insulation (Above Basement):** Cold floors create a "draft" effect and discomfort. Since you have a basement, insulating the ceiling of the basement (from below) is cost-effective and avoids tearing up your main floor finishes.
+3.  **Wall Insulation (Strategic Choice):** 
+    *   **External Wall Insulation (EWI):** Since the house is not historically protected, EWI is the gold standard. It eliminates thermal bridges and protects the brickwork.
+    *   **Internal Wall Insulation (IWI):** If EWI is too expensive or aesthetically undesirable, use IWI. *Warning:* In 1832 brick houses, IWI requires a vapor-tight barrier or breathable materials (like wood fiber) to prevent interstitial condensation and mold.
+4.  **Pitched Roof Top-up:** While "moderate," check if it meets current Flemish standards. Adding a layer of blown-in cellulose or mineral wool is a low-cost way to reach modern efficiency.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Ensure the house can "breathe" once it is sealed.*
+
+*   **Upgrade to Balanced Ventilation:** Once you insulate walls and roofs, natural ventilation is no longer sufficient and can lead to humidity issues. 
+*   **Recommendation:** Install a **Heat Recovery Ventilation (HRV)** system. This recovers heat from outgoing stale air to warm incoming fresh air, drastically reducing the load on your heating system.
+
+### Phase 3: Heating System Transition
+*Goal: Move from fossil fuels to high-efficiency electrification.*
+
+1.  **Low-Temperature Emitters:** Your current radiators are likely designed for high-temperature boilers. Heat pumps work most efficiently at lower temperatures. 
+    *   Replace old radiators with **oversized low-temperature radiators** or install **underfloor heating** (especially if you are already renovating the floor above the basement).
+2.  **Air-to-Water Heat Pump:** Now that the house is insulated and the emitters are upgraded, you can install a heat pump. Because you reduced the energy demand in Phase 1, you can purchase a smaller, more affordable unit that will operate at a higher Coefficient of Performance (COP).
+
+### Phase 4: Renewable Energy (The Final Offset)
+*Goal: Power your new systems with free, clean energy.*
+
+*   **Photovoltaic (PV) Panels:** Install solar panels on the pitched roof. The electricity generated will directly offset the operational cost of the heat pump and the ventilation system, bringing your net energy bill close to zero.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Action | Impact on EPC | Cost-Effectiveness | Why this order? |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Floor $\rightarrow$ Walls)** | Massive $\downarrow$ | High | Reduces the size/cost of the heat pump. |
+| **2** | **Ventilation (HRV)** | Moderate $\downarrow$ | Medium | Prevents mold/damp in an insulated house. |
+| **3** | **Low-Temp Emitters + Heat Pump** | Massive $\downarrow$ | Medium | Switches to efficient, sustainable energy. |
+| **4** | **PV Panels** | Massive $\downarrow$ | High | Offsets the electricity used by the pump. |
+
+### Expert Pro-Tips for Ghent/Flanders:
+*   **Avoid the "Boiler Trap":** Do not simply replace the old boiler with a new gas condenser boiler. This is a short-term fix that will leave you with a stranded asset as gas regulations tighten in Belgium.
+*   **Check Subsidies:** Before starting, apply for the *Mijn VerbouwPremie*. The subsidies in Flanders are currently very generous for "deep renovations" (combining multiple steps).
+*   **Moisture Management:** Because the house is from 1832, ensure a professional performs a moisture check on the walls before choosing between internal or external insulation.

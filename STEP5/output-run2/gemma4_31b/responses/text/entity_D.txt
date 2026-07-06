@@ -1,0 +1,34 @@
+Based on the provided building data, this property is already highly energy-efficient. Built in 2017 with an EPC score of 87, a heat pump, Ventilation System D, and PV panels, it is performing significantly better than the average Belgian home. 
+
+Because the building envelope is already well-sealed and the technical installations are modern, the "low-hanging fruit" has already been picked. To further improve efficiency while remaining cost-effective, the focus shifts from "major renovation" to "fine-tuning and optimization."
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Refinement (Priority: Low-Medium)
+The only area identified as having "moderate" rather than "well" insulation is the main pitched roof. 
+
+1.  **Enhance Pitched Roof Insulation:** Since the roof is in good condition, adding an additional layer of insulation (e.g., blowing in cellulose or adding mineral wool blankets in the attic space) is the most effective way to further reduce heat loss. This is the only significant thermal weakness in an otherwise high-performing envelope.
+
+#### Phase 2: Operational Optimization (Priority: Medium)
+When a house is already technically efficient, the greatest gains are often found in how the systems are managed rather than the hardware itself.
+
+2.  **Smart Energy Management System (HEMS):** To maximize the synergy between the existing PV panels and the heat pump, installing a Home Energy Management System can optimize the timing of heat pump cycles to coincide with peak solar production (self-consumption), reducing reliance on the grid.
+3.  **Heat Pump Tuning:** Ensure the heat pump is optimized for the current thermal load of the house. A professional "commissioning" check can ensure the flow temperatures are set to the absolute minimum required for comfort, maximizing the Coefficient of Performance (COP).
+
+#### Phase 3: Long-Term Performance (Priority: Low)
+The windows were updated in 2020 with double glazing. While triple glazing offers better performance, the cost-to-benefit ratio is very low given the current EPC of 87.
+
+4.  **Monitor Window Seals:** Rather than replacing the windows, focus on the maintenance of the wooden frames and seals to ensure the airtightness provided by Ventilation System D is not compromised.
+
+---
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Upgrade Pitched Roof Insulation** | Addresses the only "moderate" insulation point to further lower energy demand. |
+| **2** | **Smart Energy Management** | Optimizes the use of existing PV panels to power the heat pump. |
+| **3** | **System Tuning** | Ensures the heat pump operates at maximum efficiency based on the existing envelope. |
+| **4** | **Maintenance of Seals** | Preserves the high-performance airtightness of the 2017 build. |
+
+**Conclusion:** This house is already near its efficiency plateau. The most cost-effective path is to avoid expensive hardware replacements and instead focus on **targeted insulation of the pitched roof** and **digital optimization** of the energy flow.

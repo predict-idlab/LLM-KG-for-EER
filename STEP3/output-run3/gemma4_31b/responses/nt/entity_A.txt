@@ -1,0 +1,44 @@
+To maximize energy efficiency and improve the EPC score for this 1951 semi-detached building, I propose a **"Fabric First"** renovation strategy. By reducing heat loss through the building envelope before upgrading the heating system, we can install a smaller, more cost-effective heat pump and ensure it operates at peak efficiency.
+
+### Phase 1: Building Envelope (The "Fabric First" Approach)
+The building currently has several critical areas of heat loss. Addressing these first is the most cost-effective way to lower energy consumption.
+
+1.  **Roof Insulation:** The main gable roof is currently **not insulated**. This is the highest priority as heat rises.
+    *   **Action:** `insulate gable roof`.
+2.  **Wall Insulation:** All three primary walls (Front, Rear, and Right) are full brick and **not insulated**. 
+    *   **Action:** `insulate wall on exterior`. This provides the best thermal performance and protects the structure.
+3.  **Floor Insulation:** The floor above the basement is **not insulated**, leading to cold feet and heat loss into the basement.
+    *   **Action:** `insulate floor above basement`.
+
+### Phase 2: Ventilation and Air Quality
+Once the building is better insulated, it becomes more airtight, making a modern ventilation system necessary to prevent moisture buildup and ensure air quality.
+
+4.  **Ventilation Upgrade:** The building currently uses System A (natural supply).
+    *   **Action:** `replace ventilation system`. Upgrading to a system with heat recovery (such as System D) will prevent the heat gained from the new insulation from being lost through ventilation.
+
+### Phase 3: High-Efficiency Heating System
+With a reduced thermal load due to the insulation upgrades, we can now replace the outdated boiler.
+
+5.  **Heat Pump Installation:** The owner has expressed a desire to change the emission system, and the building already possesses radiators and floor heating, which are compatible with low-temperature systems. Since geothermal potential is absent on this site:
+    *   **Action:** `place air-water heatpump`. This is the most efficient transition from a boiler for a home with existing water-based emitters.
+
+### Phase 4: Renewable Energy Generation
+To offset the electricity consumption of the new heat pump and further improve the EPC score, we leverage the building's existing potential.
+
+6.  **Solar Energy:** The building is confirmed to have PV potential.
+    *   **Action:** `place PV-panels on roof`. This turns the home into a prosumer, significantly reducing operational costs.
+
+---
+
+### Summary of Optimal Sequence & Rationale
+
+| Sequence | Intervention | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Highest impact/lowest cost ratio; stops primary heat escape. |
+| **2** | **Insulate Exterior Walls** | Eliminates massive heat loss through full brick walls. |
+| **3** | **Insulate Floor** | Completes the thermal envelope. |
+| **4** | **Replace Ventilation** | Maintains air quality in a now-tightly sealed building. |
+| **5** | **Air-Water Heat Pump** | Replaces fossil fuel boiler with a high-efficiency electric system. |
+| **6** | **PV Panels on Roof** | Powers the heat pump with clean, free energy. |
+
+**Final Result:** This path moves the building from a **D Label (388 kWh/m²year)** toward an **A or B Label**, drastically reducing energy costs and increasing the market value of the property.

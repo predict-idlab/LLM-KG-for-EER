@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached house (constructed in 2017) that is already performing at a very high energy efficiency level, with an **EPC score of 87**. Most of the building envelope is already "Well Insulated," and it is equipped with a high-efficiency Heat Pump, a Ventilation System D, and PV panels.
+
+Since the owner's motivation is to further improve the EPC, the strategy shifts from "major overhaul" to **"fine-tuning and optimization."** Because the building is already highly sealed and efficient, the remaining gains are marginal, so the focus must be on the few remaining weaknesses.
+
+### Proposed Renovation Path
+
+#### Phase 1: Envelope Optimization (The "Last Mile" of Insulation)
+While most of the house is well-insulated, the main gable roof is the only remaining element not rated as "Well Insulated."
+
+1.  **Insulate Gable Roof:** The `RoofMain` is currently "Moderately Insulated." Upgrading this to a "Well Insulated" state is the most direct way to further lower the energy score and reduce thermal loss through the top of the building.
+
+#### Phase 2: Glazing Enhancement
+The windows currently feature double glazing and are in a good state. To push the EPC score even lower (potentially into the A+ category), the thermal resistance of the glass can be increased.
+
+2.  **Replace Glazing:** Upgrading from double glazing to **triple glazing** would reduce the remaining heat transmission through the windows. Since the frames are already in a "Good State" and made of wood (which has naturally good insulating properties), replacing only the glazing is a cost-effective way to improve performance without replacing the entire window unit.
+
+#### Phase 3: Passive Cooling & Comfort
+To reduce the energy load on the heat pump during summer months (cooling) and improve operational performance, passive measures should be implemented.
+
+3.  **Place Sunshade:** Installing external sunshades is a low-cost, high-impact intervention. By preventing solar gain before it hits the glass, the building reduces the need for active cooling, thereby lowering overall electricity consumption.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "Moderately Insulated" part of the envelope to eliminate the primary remaining heat leak. |
+| **2** | **Replace Glazing** | Moves from double to triple glazing to maximize the thermal envelope's efficiency. |
+| **3** | **Place Sunshade** | Low-cost addition to reduce summer energy demand and improve thermal comfort. |
+
+**Final Expert Note:** Because this building was constructed in 2017 and already possesses a Heat Pump and Ventilation System D, there is **no need** for further HVAC upgrades or wall insulation. The proposed plan focuses exclusively on the remaining gaps to achieve a near-passive energy standard.

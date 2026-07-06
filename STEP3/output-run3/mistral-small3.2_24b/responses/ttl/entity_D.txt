@@ -1,0 +1,55 @@
+### Renovation Plan for the Semi-Detached Building
+
+Given the building's characteristics and the available renovation suggestions, here's a step-by-step plan to maximize energy efficiency while remaining cost-effective:
+
+#### 1. **Insulation Upgrades**
+   - **Insulate Gable Roof**: The gable roof is currently moderately insulated. Upgrading its insulation will improve thermal comfort and reduce heating costs.
+     - **Action**: Install insulation with a vapor barrier on the warm side.
+     - **Cost**: €60 per m².
+   - **Insulate Attic Floor**: Ensure the attic floor is well-insulated to prevent heat loss.
+     - **Action**: Install walkable insulation if needed.
+     - **Cost**: €60 per m².
+
+#### 2. **Roof and Wall Maintenance**
+   - **Place Roof Underlayment**: Ensure the roof is air- and watertight.
+     - **Action**: Install a high-quality roof underlayment.
+     - **Cost**: €65 per m².
+
+#### 3. **Window Upgrades**
+   - **Replace Glazing**: The windows currently have double glazing, which is good but could be upgraded to triple glazing for better insulation.
+     - **Action**: Replace the glazing with triple glazing.
+     - **Cost**: €200 per m².
+   - **Replace Windows**: If the frames are old or not in good condition, consider replacing the entire window, including the frame.
+     - **Action**: Install new windows with triple glazing and energy-efficient frames.
+     - **Cost**: €800 per m².
+
+#### 4. **Ventilation System**
+   - **Replace Ventilation System**: The current ventilation system is type D, which is mechanical. Ensure it is functioning efficiently.
+     - **Action**: Upgrade to a more efficient ventilation system if necessary.
+     - **Cost**: €3500 fixed + €17 per m².
+
+#### 5. **Heating System**
+   - **Place Heat Pump Boiler**: Consider installing a heat pump boiler for more efficient water heating.
+     - **Action**: Install a heat pump boiler.
+     - **Cost**: €4000 fixed.
+
+#### 6. **Renewable Energy**
+   - **Place PV-Panels on Roof**: Install photovoltaic panels to generate renewable energy.
+     - **Action**: Assess the roof's orientation and potential for PV panels.
+     - **Cost**: €275 per m².
+
+### Summary of Actions:
+1. **Insulate Gable Roof**
+2. **Insulate Attic Floor**
+3. **Place Roof Underlayment**
+4. **Replace Glazing or Windows**
+5. **Replace Ventilation System**
+6. **Place Heat Pump Boiler**
+7. **Install PV-Panels on Roof**
+
+### Prioritization:
+- **High Priority**: Insulation upgrades, roof underlayment, and window replacements.
+- **Medium Priority**: Ventilation system upgrade and heat pump boiler installation.
+- **Low Priority**: PV-panel installation (can be done later if budget allows).
+
+This plan focuses on maximizing energy efficiency through insulation, window upgrades, and renewable energy integration, while considering cost-effectiveness and the building's current state.

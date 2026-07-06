@@ -1,0 +1,57 @@
+### Renovation Plan for Attached Building (2023)
+
+#### Building Context:
+- **Type:** AttachedBuilding
+- **Construction Year:** 2023
+- **Net Floor Area:** 159.0 m²
+- **Current EPC Score:** 50 (E Label)
+- **Primary Motivation:** Improve EPC
+- **Key Elements:**
+  - RoofMain (Gable Roof - Moderately Insulated)
+  - RoofExtension (Flat Roof - Well Insulated)
+  - Wall_Front (Full Brick Wall - Well Insulated)
+  - Wall_Rear (Full Brick Wall - Well Insulated)
+  - FloorAboveBasement (Well Insulated)
+  - Windows (Double Glazing)
+  - Emission System: Electric Convector + Floor Heating
+  - Ventilation System: VentilationSystemD
+  - Generation System: Boiler
+  - PV Panels Installed
+
+#### Proposed Renovation Path:
+1. **Insulate RoofMain (Gable Roof)**
+   - *Action:* Upgrade insulation to "Well Insulated"
+   - *Rationale:* Currently "Moderately Insulated," improving this will significantly reduce heat loss through the gable roof.
+
+2. **Replace Emission System**
+   - *Action:* Transition from Electric Convector to **Low-Temperature Emission System** (e.g., underfloor heating)
+   - *Rationale:* The current EPC score is very low (50), indicating high energy consumption. A low-temperature system will pair well with a heat pump.
+
+3. **Place Air-Water Heat Pump**
+   - *Action:* Install an **Air-Water Heat Pump** as the new generation system.
+   - *Rationale:* Replaces the existing boiler with a more efficient, sustainable solution. Works well with the planned low-temperature emissions.
+
+4. **Place Sun Shade**
+   - *Action:* Install **sun shades** on south-facing windows.
+   - *Rationale:* Reduces solar heat gain in summer, lowering cooling demand and improving thermal comfort.
+
+5. **Optimize PV Panel Orientation**
+   - *Action:* Assess and adjust **PV panel placement** for maximum efficiency.
+   - *Rationale:* Ensures the existing PV system generates as much renewable energy as possible to offset the heat pump’s electricity consumption.
+
+#### Justification of Sequence:
+- **Insulation First:** The building already has good insulation (Well Insulated for most elements), so this step is relatively minor but ensures the envelope is fully optimized.
+- **Emission System Upgrade:** Prepares the building for a heat pump by transitioning to a compatible low-temperature system.
+- **Heat Pump Installation:** The core upgrade, replacing the boiler with a more efficient heat pump.
+- **Sun Shade & PV Optimization:** Final touches to improve energy efficiency and comfort.
+
+#### Expected Outcomes:
+- **EPC Improvement:** Likely to move from **E Label (50)** to **B Label (≤ 200)** or better.
+- **Energy Savings:** Reduced reliance on the electric convector and optimized heating/cooling.
+- **Cost-Effectiveness:** Prioritizes upgrades that provide the highest return on investment.
+
+#### Notes:
+- **Ventilation System:** Already a modern type (VentilationSystemD), so no upgrade is needed.
+- **Windows:** Double glazing is sufficient for now, but future consideration could be given to triple glazing if thermal comfort is a concern.
+
+This plan follows the **"Insulate → Emission System → Heat Pump → Ancillary"** sequence, ensuring cost-effectiveness and energy efficiency.

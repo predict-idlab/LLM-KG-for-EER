@@ -1,0 +1,40 @@
+Based on the provided building information and the RENO ontology, here's a concise and actionable renovation plan for the property:
+
+**Building Overview:**
+- **Type:** Attached building (constructed in 2023)
+- **Current EPC Score:** 50 (A Label)
+- **Owner's Motivation:** Improve EPC rating
+- **Key Elements:**
+  - Walls (Front & Rear): Well insulated
+  - Floor Above Basement: Well insulated
+  - Roof Extension: Well insulated
+  - Roof Main: Moderately insulated
+  - Windows: Double glazing (Good State)
+  - Emission System: Electric Convector & Floor Heating
+  - Ventilation System: System D
+  - PV Panels: Present
+
+**Renovation Plan:**
+1. **Insulate Gable Roof (Priority: High)**
+   - The `RoofMain` is currently moderately insulated. Insulating it further will significantly improve thermal performance and reduce heat loss through the gable roof.
+   - **Rationale:** Improves the building's thermal envelope and reduces heat demand.
+
+2. **Replace Glazing (Priority: Medium)**
+   - Although the windows are double glazed, replacing them with **triple glazing** would further enhance thermal performance, especially if the current glazing is outdated.
+   - **Rationale:** Triple glazing reduces heat loss and improves overall energy efficiency.
+
+3. **Place Air-Water Heatpump with Cooling (Priority: Medium)**
+   - Replace the current emission system (Electric Convector & Floor Heating) with an **Air-Water Heatpump with Cooling** to improve heating and cooling efficiency.
+   - **Rationale:** More energy-efficient than conventional systems and provides both heating and cooling.
+
+4. **Place PV-Panels on Roof (Priority: Long-term)**
+   - Expand the existing PV panel system to generate more renewable energy and offset electricity consumption.
+   - **Rationale:** Increases self-sufficiency and reduces reliance on grid electricity.
+
+**Optimal Sequence:**
+1. **Insulate Gable Roof**
+2. **Replace Glazing**
+3. **Place Air-Water Heatpump with Cooling**
+4. **Place PV-Panels on Roof**
+
+This plan focuses on maximizing energy efficiency while remaining cost-effective, leveraging the "Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate" sequence. The sequence ensures that the building envelope is optimized before installing high-efficiency systems, preventing the need for oversized and more expensive equipment.

@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place emission system on low temperature"], "extra_actions": ["place pv-panels in the garden", "place a sunshade", "remove asbestos from the flat roof", "insulate the attic floor"]}, "sequence": {"order_errors": ["place pv-panels in the garden"]}}

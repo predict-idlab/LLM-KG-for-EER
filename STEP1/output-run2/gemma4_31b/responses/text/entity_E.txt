@@ -1,0 +1,47 @@
+Given the age of your home (1862) and its current EPC score of 165, the house is currently very energy-inefficient. To maximize your investment, you must follow the **"Fabric First" approach**: reduce the energy demand of the building before upgrading the systems that provide the energy. 
+
+If you install a new heating system before insulating, you will over-specify (and overpay for) a system that is larger than necessary.
+
+Here is the optimal, cost-effective renovation sequence.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Heat Loss)
+*Goal: Create a thermal "shell" to ensure that once the house is heated, it stays heated.*
+
+1.  **Cavity Wall Insulation (High ROI):** Since you have cavity walls, **injection insulation** is your most cost-effective move. It is relatively non-invasive and provides a massive jump in EPC performance.
+2.  **Window Upgrade (Critical):** Single glazing is a primary source of heat loss and drafts. Since the wooden frames are in good condition, explore **slim-profile double or triple glazing** inserts. If the frames cannot support this, replace them with high-efficiency A++ rated windows.
+3.  **Crawl Space Floor Insulation:** Insulate the ceiling of the crawl space. This prevents "cold feet" and stops cold air from seeping into the living area, significantly improving comfort and reducing the load on your heating system.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Prevent moisture buildup and mold once the house is sealed.*
+
+4.  **Controlled Ventilation:** Once you insulate the walls and windows, the house becomes more airtight. Natural ventilation is no longer sufficient. Install a **Balanced Ventilation system with Heat Recovery (HRV)**. This recovers heat from outgoing stale air to warm incoming fresh air, preventing the "cold draft" effect of opening windows in winter.
+
+### Phase 3: Heating System Overhaul
+*Goal: Transition from high-carbon/high-cost fuel to a high-efficiency electric system.*
+
+5.  **Emitter Replacement:** Since your current radiators and convectors are in poor condition, replace them. To maximize the efficiency of a modern heat pump, you need **low-temperature emitters**.
+    *   *Priority:* Expand underfloor heating where possible.
+    *   *Secondary:* Install "low-temperature" oversized radiators in rooms where underfloor heating is impractical.
+6.  **Heat Pump Installation:** With the house now insulated and equipped with low-temperature emitters, install an **Air-to-Water Heat Pump**. Because you have already reduced the heat demand in Phase 1, you can install a smaller, cheaper unit that operates at a much higher Coefficient of Performance (COP).
+
+### Phase 4: Renewable Energy (Operational Cost Reduction)
+*Goal: Offset the electricity costs of the heat pump and household appliances.*
+
+7.  **Photovoltaic (PV) Panels:** Now that your energy demand is minimized, install PV panels on your pitched roof. This turns your home into a "prosumer" entity, significantly lowering your monthly utility bills and further improving your EPC score.
+
+---
+
+### Summary of the Optimal Sequence & Logic
+
+| Step | Action | Logic | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulation (Walls/Floor)** | Reduce heat loss first. | Very High |
+| **2** | **Windows (Single $\rightarrow$ Double/Triple)** | Eliminate the biggest "leaks." | High |
+| **3** | **Ventilation (HRV)** | Ensure air quality in a sealed house. | Medium |
+| **4** | **New Emitters $\rightarrow$ Heat Pump** | Efficiently heat a low-demand house. | Medium/High |
+| **5** | **PV Panels** | Power the new systems for "free." | High (Long-term) |
+
+### Professional Tip for Ghent/Flanders:
+Before starting, check the **Flemish government subsidies (Premies)**. Flanders often provides significant grants for cavity wall insulation, glass replacement, and heat pump installations. Ensure you hire "recognized" contractors to remain eligible for these subsidies, as they can often cover a substantial percentage of the total renovation cost.

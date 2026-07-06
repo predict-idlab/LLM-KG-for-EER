@@ -1,0 +1,76 @@
+### Renovation Plan for Detached Building (1862, EPC Score: 165)
+
+#### **Key Characteristics:**
+- **Type:** Detached building
+- **Construction Year:** 1862
+- **Current EPC Score:** 165 (D Label)
+- **Motivation:** To improve EPC
+- **Potential for PV:** True
+- **Presence of Heat Grid:** False
+- **Windows:** Single-glazed with wooden frames in good state
+- **Walls:** All external walls are cavity walls, uninsulated
+- **Floors:** Floor above crawl space is uninsulated
+- **Roof:** Well-insulated gable roof
+- **Emission System:** Electric convector, radiator, floor heating
+- **Ventilation System:** Type A (natural)
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (High Priority)**
+1. **Insulate Wall Cavity**
+   - **Walls:** `Wall_Left`, `Wall_Right`, `Wall_Front`, `Wall_Rear`
+   - **Method:** Inject insulation into the cavity
+   - **Rationale:** Cavity wall insulation is cost-effective and significantly reduces heat loss through walls.
+
+2. **Insulate Floor Above Crawl Space**
+   - **Method:** Add insulation (e.g., rigid foam boards or mineral wool) above the crawl space.
+   - **Rationale:** Prevents cold air infiltration from the crawl space and reduces heat loss.
+
+#### **Phase 2: Window Upgrades (Medium Priority)**
+3. **Replace Glazing**
+   - **Action:** Upgrade all windows to **double-glazed** (or triple-glazed if budget allows).
+   - **Rationale:** Single-glazed windows are a major source of heat loss. Replacing them with double-glazing improves thermal performance significantly.
+
+#### **Phase 3: Heating System Transition (Medium Priority)**
+4. **Replace Emission System**
+   - **Action:** Transition from electric convector and radiators to **low-temperature emission systems** (e.g., underfloor heating).
+   - **Rationale:** Low-temperature systems work more efficiently with heat pumps and reduce energy consumption.
+
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an **air-water heat pump** to replace the existing boiler.
+   - **Rationale:** Heat pumps are highly efficient and suitable for the building’s low-temperature emission system.
+
+#### **Phase 4: Ventilation Upgrade (Low Priority)**
+6. **Replace Ventilation System**
+   - **Action:** Upgrade from **Ventilation System A (natural)** to **Ventilation System D (mechanical supply and exhaust)**.
+   - **Rationale:** Ensures proper air exchange in a now-sealed building, preventing moisture buildup.
+
+#### **Phase 5: Sustainable Energy Generation (Long-term)**
+7. **Place PV Panels on Roof**
+   - **Action:** Install **PV panels** on the roof.
+   - **Rationale:** Generates renewable electricity to power the heat pump and ventilation system, further improving the EPC score.
+
+---
+
+### **Optimal Sequence and Rationale**
+| **Sequence** | **Action** | **Rationale** |
+|--------------|-----------|-------------|
+| **1**        | Insulate Wall Cavity | Reduces heat loss through walls, the largest thermal bridge. |
+| **2**        | Insulate Floor Above Crawl Space | Prevents cold air infiltration and heat loss to the crawl space. |
+| **3**        | Replace Glazing | Improves window thermal performance. |
+| **4**        | Replace Emission System | Prepares for heat pump installation. |
+| **5**        | Place Air-Water Heat Pump | Replaces inefficient boiler with a high-efficiency heat pump. |
+| **6**        | Replace Ventilation System | Ensures proper air quality in a sealed building. |
+| **7**        | Place PV Panels on Roof | Generates renewable electricity to offset heat pump consumption. |
+
+---
+
+### **Cost-Effectiveness Considerations**
+- **Insulate Wall Cavity** is the most cost-effective first step.
+- **Replace Glazing** is a mid-priority upgrade that improves thermal performance.
+- **Heat Pump + Low-Temperature Emission** ensures long-term energy savings.
+- **PV Panels** are a long-term investment for sustainability.
+
+This plan follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** principle, ensuring maximum energy efficiency and cost-effectiveness.

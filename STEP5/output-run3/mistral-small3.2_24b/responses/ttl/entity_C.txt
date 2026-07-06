@@ -1,0 +1,63 @@
+### Analysis of the Building's Current State
+
+The building is an attached structure constructed in 2023, with an energy performance certificate (EPC) score of 50.0, indicating a very high energy efficiency (likely A+ label). The building has already undergone significant renovations, including:
+
+- **Insulation:** The walls (front and rear) and the floor above the basement are well-insulated. The roof extension (flat roof) is also well-insulated, while the main roof (gable roof) is moderately insulated.
+- **Windows:** The windows have double glazing, which is a good standard for thermal performance.
+- **Heating:** The building uses electric convectors and floor heating.
+- **Ventilation:** The ventilation system is of type D, which is mechanical for both supply and return air.
+- **PV Panels:** The building has solar panels installed, indicating a focus on renewable energy generation.
+
+### Goals and Constraints
+
+- **Owner's Motivation:** The primary goal is to improve the EPC further.
+- **Existing Systems:** The building already has a high level of insulation and modern systems, so further improvements will be incremental.
+- **Potential for Upgrades:** The potential for geothermal systems is low, and there is no heat grid available.
+
+### Proposed Renovation Path
+
+Given the high baseline efficiency, the focus should be on fine-tuning the existing systems and addressing any remaining inefficiencies. The proposed renovation path is as follows:
+
+1. **Insulate Gable Roof:**
+   - The gable roof is currently moderately insulated. Upgrading its insulation to "well-insulated" will further reduce heat loss through the roof.
+   - **Cost:** €60 per m²
+   - **Nuisance Level:** Low
+   - **Ordering:** 28
+
+2. **Replace Ventilation System:**
+   - The existing ventilation system (Type D) is already mechanical, but newer models may offer higher efficiency and better control over air quality and humidity.
+   - **Cost:** €3,500 (fixed) + €17 per m²
+   - **Nuisance Level:** Moderate
+   - **Ordering:** 52
+
+3. **Place Air-Water Heat Pump with Cooling:**
+   - The current heating system uses electric convectors and floor heating. Transitioning to an air-water heat pump with cooling capabilities will improve energy efficiency and provide cooling in summer.
+   - **Cost:** €9,000 (fixed) + €35 per m²
+   - **Nuisance Level:** Moderate
+   - **Ordering:** 73
+
+4. **Place Sunshade:**
+   - Installing sunshades will reduce solar heat gain in summer, improving comfort and reducing the need for cooling.
+   - **Cost:** €750 (fixed)
+   - **Nuisance Level:** Low
+   - **Ordering:** 79
+
+5. **Place PV Panels on Roof:**
+   - The building already has PV panels, but adding more or upgrading to higher-efficiency panels can further offset electricity consumption.
+   - **Cost:** €275 per m²
+   - **Nuisance Level:** Low
+   - **Ordering:** 85
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Improves thermal performance of the roof. |
+| **2** | **Replace Ventilation System** | Ensures optimal air quality and energy efficiency. |
+| **3** | **Place Air-Water Heat Pump with Cooling** | Enhances heating efficiency and adds cooling capability. |
+| **4** | **Place Sunshade** | Reduces solar heat gain and improves comfort. |
+| **5** | **Place PV Panels on Roof** | Further offsets electricity consumption. |
+
+### Conclusion
+
+The proposed renovation path focuses on incremental improvements to an already efficient building. The sequence prioritizes upgrading the insulation of the gable roof, enhancing the ventilation system, and transitioning to a more efficient heating and cooling system. The addition of sunshades and PV panels further improves energy efficiency and sustainability. This plan ensures that the building maintains its high EPC rating while optimizing comfort and operational performance.

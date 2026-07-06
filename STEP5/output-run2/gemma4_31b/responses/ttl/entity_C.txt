@@ -1,0 +1,36 @@
+Based on the provided building data and the RENO ontology, the property is a very modern attached building (constructed in 2023) with an exceptionally high energy efficiency rating (EPC score of 50, which corresponds to an **A Label**). 
+
+Because the building is already highly optimized, the renovation plan does not require a total overhaul. Instead, it focuses on "fine-tuning" the remaining thermal weaknesses and transitioning the heating generation from traditional/electric sources to a sustainable, high-efficiency system to push the EPC toward an A+ rating.
+
+### Proposed Renovation Path
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low-Medium)
+While most of the building is "Well Insulated," there is one remaining area for improvement.
+1. **Insulate Gable Roof:** The main roof is currently "Moderately Insulated." To maximize energy efficiency and eliminate the last significant point of heat loss, upgrading the gable roof insulation is the most logical first step. This ensures the building is as airtight and thermally efficient as possible before upgrading the heating system.
+
+#### Phase 2: Transition to Sustainable Heating (Priority: Medium)
+The building currently utilizes a boiler and electric convectors. Electric convectors are generally inefficient, and the owner has explicitly indicated a reason to change the emission system.
+2. **Place Air-Water Heat Pump:** Since there is no potential for geothermal energy and no available heat grid, an **Air-Water Heat Pump** is the optimal choice. The building already possesses floor heating, which is a low-temperature emission system perfectly suited for a heat pump, maximizing the system's Coefficient of Performance (COP).
+3. **Place Heat Pump Boiler:** To further decouple the home from traditional boiler systems and reduce electricity costs for domestic hot water, installing a dedicated heat pump boiler is recommended.
+
+#### Phase 3: Maintenance and Optimization (Priority: Long-term)
+The building already possesses several high-end features:
+* **Ventilation:** Already equipped with **Ventilation System D** (the most efficient mechanical system).
+* **Renewables:** Already has **PV Panels** installed.
+* **Windows:** Recently updated to **Double Glazing** with frames in good condition.
+* **Walls/Floor:** Already **Well Insulated**.
+
+No further actions are recommended for these elements to maintain cost-effectiveness.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only "moderately" insulated element to minimize heat loss. |
+| **2** | **Air-Water Heat Pump** | Replaces inefficient electric convectors/boiler with a sustainable generator tailored to existing floor heating. |
+| **3** | **Heat Pump Boiler** | Optimizes domestic hot water production for maximum energy savings. |
+
+**Final Conclusion:** 
+The building is already in excellent condition. By addressing the gable roof and switching the heating generation to a heat pump, the owner can transition from a high-efficiency home (A Label) to a near-zero-energy home (A+ Label) in the most cost-effective manner.

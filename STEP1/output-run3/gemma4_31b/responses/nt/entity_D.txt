@@ -1,0 +1,42 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path.
+
+### **Building Analysis Summary**
+The property is a modern (2017) semi-detached building in Belgium with an already excellent energy profile (**EPC score of 87**, which falls into the **A label**). Most building elements—including the walls, the floor above the basement, and the flat roof extension—are already "Well Insulated." The heating system is efficient (Heat Pump), and PV panels are already installed.
+
+The primary goal is to further improve the EPC and maximize energy efficiency. The only significant "weak point" identified in the building envelope is the **Main Gable Roof**, which is currently only **"Moderately Insulated."**
+
+---
+
+### **Proposed Renovation Path**
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow this specific sequence:
+
+#### **Step 1: Thermal Envelope Optimization (High Priority)**
+*   **Intervention:** **Insulate Gable Roof** (`InsulateGableRoof`)
+*   **Reasoning:** This is the only major element not yet "Well Insulated." Upgrading the gable roof from moderate to high insulation will provide the most significant reduction in heat loss.
+*   **Practical Note:** Ensure a vapor barrier is installed on the warm side of the insulation to prevent condensation, as per ontology guidelines.
+*   **Cost-Effectiveness:** High. It targets the single largest remaining thermal leak in the building shell.
+
+#### **Step 2: Glazing Upgrade (Medium Priority)**
+*   **Intervention:** **Replace Glazing** (`ReplaceGlazing`) $\rightarrow$ Upgrade to **Triple Glazing**
+*   **Reasoning:** The building currently has double glazing. While efficient, triple glazing further reduces U-values and improves thermal comfort.
+*   **Practical Note:** Since the wooden window frames are in "Good State," you can likely replace only the glazing units rather than the entire window frame, significantly reducing costs.
+*   **Cost-Effectiveness:** Moderate. The marginal gain is smaller than the roof insulation, but it is the next logical step for an "A" label building.
+
+#### **Step 3: Renewable Energy Expansion (Optional/Long-term)**
+*   **Intervention:** **Place PV Panels in Garden** (`PlacePVPanelsInGarden`)
+*   **Reasoning:** The data indicates that there is **no further potential for PV on the roof** (`hasPotentialForPV: false`). If the owner wishes to further lower energy costs or increase sustainability, the garden is the only remaining viable location for solar generation.
+*   **Cost-Effectiveness:** Variable. This depends on the available garden space and the owner's specific desire for energy independence.
+
+---
+
+### **Summary of the Optimal Sequence**
+
+| Sequence | Intervention | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | High $\uparrow$ | Very High |
+| **2** | **Upgrade to Triple Glazing** | Windows | Moderate $\uparrow$ | Moderate |
+| **3** | **Garden PV Panels** | Site/Garden | Low/Med $\uparrow$ | Low/Moderate |
+
+### **Final Expert Recommendation**
+Because the building is already highly efficient (EPC 87), you should **avoid** insulating the walls or the floor above the basement, as these are already "Well Insulated" and any further investment there would yield diminishing returns. Focus exclusively on the **Gable Roof** to close the final thermal gap in the building's envelope.

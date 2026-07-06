@@ -1,0 +1,26 @@
+Based on the information provided, here's a concise and actionable renovation plan tailored to your detached house in Ghent, Belgium:
+
+### Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+1. **Insulate Cavity Walls**: Since all exterior walls are cavity walls and currently uninsulated, filling the cavities with insulation is a cost-effective way to improve thermal performance. This should be prioritized as it addresses a large surface area.
+2. **Insulate Floor Above Crawl Space**: If the floor above the crawl space is not insulated, adding insulation here will reduce heat loss to the unconditioned space below. Ensure proper ventilation of the crawl space to prevent moisture issues.
+3. **Insulate Flat Roof Extension**: If there is a flat roof extension that is not insulated, insulating it will help reduce heat loss through the roof.
+
+**Phase 2: Window Performance**
+4. **Replace Single Glazing with Double or Triple Glazing**: Upgrading from single to double or triple glazing will significantly reduce heat loss through the windows. Since the frames are in good condition, you can retain them and only replace the glazing.
+
+**Phase 3: Heating System Transition**
+5. **Replace Boiler with Air-Water Heat Pump**: Given the lack of district heating and geothermal potential, an air-water heat pump is a sustainable and efficient alternative to the current boiler. Ensure the heat pump is appropriately sized for the improved thermal envelope.
+6. **Upgrade Emission Systems**: Replace the old radiators, underfloor heating, air heating systems, and electric convectors with low-temperature emission systems to maximize the efficiency of the heat pump.
+
+**Phase 4: Ventilation Upgrade**
+7. **Replace Natural Ventilation with Mechanical Ventilation**: Upgrade from the basic natural ventilation system to a more efficient mechanical ventilation system (such as System C or D) to maintain indoor air quality and prevent moisture buildup in the now-sealed envelope.
+
+**Phase 5: Sustainable Energy Generation**
+8. **Install Photovoltaic Panels**: Leverage the potential for PV panel installation to generate renewable electricity. This will help offset the electricity consumption of the heat pump and ventilation system, further improving the EPC score.
+
+### Summary of Optimal Sequence
+**Cavity Wall Insulation** → **Floor Insulation** → **Flat Roof Insulation** (if applicable) → **Window Glazing Upgrade** → **Air-Water Heat Pump Installation** → **Low-Temperature Emission System Upgrade** → **Mechanical Ventilation Upgrade** → **PV Panel Installation**.
+
+This sequence ensures that you maximize energy efficiency while remaining cost-effective, focusing on practical upgrades that reduce energy consumption and improve long-term operational performance.

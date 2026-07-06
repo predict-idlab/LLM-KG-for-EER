@@ -1,0 +1,59 @@
+To improve an EPC score of 388 in a 1951 semi-detached house, you must follow the **"Fabric First" principle**. The most common mistake is replacing the boiler before insulating; this leads to over-investing in a heating system that is larger (and more expensive) than necessary.
+
+Because you are in Ghent, you should also check for **Flemish government premiums (Mijn VerbouwPremie)**, which significantly offset the costs of these specific upgrades.
+
+Here is the optimal, sequenced renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leakage)
+*Goal: Reduce the total heat demand of the house so you can install a smaller, cheaper heating system.*
+
+1.  **Roof Insulation (Highest Priority):** Since the pitched roof is uninsulated but in good condition, insulate it immediately. 
+    *   **Action:** Install high-performance mineral wool or PIR boards between the rafters (internal) or via sarking (external). 
+    *   **Why:** Heat rises; this is the fastest way to drop your EPC score and increase comfort.
+2.  **Floor Insulation (Basement Ceiling):** 
+    *   **Action:** Insulate the ceiling of the basement. This is far more cost-effective than digging up floors. Use rigid insulation boards (XPS) or spray foam.
+    *   **Why:** Eliminates the "cold feet" effect and prevents heat loss to the basement.
+3.  **Wall Insulation:** 
+    *   **Action:** Since the walls are solid brick, you have two choices: **External Wall Insulation (EWI)** or **Internal Insulation**. 
+    *   **Recommendation:** EWI is superior for energy performance and protects the brickwork, though it changes the facade. If budget is tight, focus on the north-facing walls first.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Prevent mold and moisture buildup once the house is "sealed" by insulation.*
+
+4.  **Upgrade to Balanced Ventilation:** 
+    *   **Action:** Replace the basic natural ventilation with a **Mechanical Ventilation system with Heat Recovery (MVHR)** or a decentralized heat recovery system.
+    *   **Why:** Once you insulate the walls and roof, the house becomes airtight. Without mechanical ventilation, you risk condensation and indoor air quality issues. MVHR recovers heat from outgoing air to warm incoming fresh air.
+
+### Phase 3: Heating System Modernization
+*Goal: Shift from fossil fuels to a high-efficiency, low-temperature system.*
+
+5.  **Replace Emission Systems:**
+    *   **Action:** Since your current radiators and air heating are in poor condition, replace them with **Low-Temperature Radiators** or expand the **Underfloor Heating**.
+    *   **Why:** Heat pumps are inefficient with old, high-temperature radiators. Low-temperature emitters are essential for the next step.
+6.  **Install an Air-to-Water Heat Pump:**
+    *   **Action:** Replace the old boiler with an Air-to-Water Heat Pump.
+    *   **Why:** Since geothermal is not possible and district heating is unavailable, this is the most sustainable electric alternative. Because you insulated in Phase 1, the heat pump can be smaller and more cost-effective.
+
+### Phase 4: Energy Generation
+*Goal: Offset the electricity costs of the heat pump and ventilation.*
+
+7.  **Photovoltaic (PV) Panels:**
+    *   **Action:** Install solar panels on the pitched roof.
+    *   **Why:** A heat pump increases your electricity consumption. PV panels turn your home into a "prosumer," significantly lowering operational costs and further improving the EPC.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof & Floor Insulation** | High | Very High (Quick win) |
+| **2** | **Wall Insulation** | Very High | Moderate (High initial cost) |
+| **3** | **MVHR Ventilation** | Moderate | High (Prevents damage) |
+| **4** | **Low-Temp Emitters + Heat Pump** | Very High | Moderate (Depends on Phase 1) |
+| **5** | **PV Panels** | High | High (Long-term ROI) |
+
+### Expert Tip for Ghent/Flanders:
+Before starting, engage an **EPC advisor** to perform a "pre-renovation" simulation. In Flanders, certain combinations of works (e.g., insulating walls + installing a heat pump) can trigger higher premium brackets, maximizing your financial return.

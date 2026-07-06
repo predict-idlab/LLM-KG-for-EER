@@ -1,0 +1,49 @@
+To maximize energy efficiency while remaining cost-effective, the renovation should follow the **"Fabric First"** principle: first reducing energy demand through insulation and sealing, then upgrading the technical systems to be more efficient, and finally incorporating renewable energy.
+
+Based on the provided ontology and building data, here is the proposed renovation path.
+
+### Phase 1: Thermal Envelope Optimization (Reducing Demand)
+The goal here is to stop heat loss. The building is from 1862 and has significant weaknesses in the walls and windows.
+
+1.  **Insulate Wall Cavities (`insulate wall cavity`):**
+    *   **Reasoning:** All four exterior walls are cavity walls and are currently "Not Insulated." Cavity wall insulation is one of the most cost-effective upgrades (lowest unit price at 22/m²) and has a low nuisance level.
+2.  **Insulate Floor Above Basement (`insulate floor above basement`):**
+    *   **Reasoning:** The building has a floor above a crawl space. Insulating this area prevents cold drafts from the ground, improving thermal comfort and reducing the heating load.
+3.  **Upgrade Window Glazing (`replace glazing`):**
+    *   **Reasoning:** The bedrooms and living area currently have "Single Glazing," which is a major source of heat loss. Since the wooden window frames are in "Good State," replacing only the glazing is more cost-effective than replacing the entire window unit.
+
+### Phase 2: Ventilation and Air Quality
+Once the building envelope is tightened (insulated and glazed), air circulation must be managed to prevent moisture buildup and maintain air quality.
+
+4.  **Upgrade Ventilation System (`replace ventilation system`):**
+    *   **Reasoning:** The building currently uses "Ventilation System A" (natural supply/exhaust), which is the least efficient. Upgrading to a more modern system (such as System C or D) will improve the EPC score and ensure a healthy indoor climate.
+
+### Phase 3: High-Efficiency Heating Transition
+With the heat demand lowered by Phase 1, we can now install a smaller, more efficient heating system.
+
+5.  **Optimize Emission System (`place emission system on low temperature`):**
+    *   **Reasoning:** The building has a mix of radiators and floor heating. To maximize the efficiency of a heat pump, the emission system should be optimized for low-temperature operation first.
+6.  **Install Air-Water Heat Pump (`place air-water heatpump`):**
+    *   **Reasoning:** The owner wants to improve the EPC and there is a reason to change the emission system. Since the site has **no potential** for geothermal drilling/captation and **no heat grid** available, an Air-Water heat pump is the most viable sustainable alternative to the existing boiler.
+
+### Phase 4: Renewable Energy Integration
+The final step is to offset the electricity consumption of the new heat pump.
+
+7.  **Install Solar Panels (`place PV-panels on roof`):**
+    *   **Reasoning:** The building has "potential for PV" and a gable roof that is already "Well Insulated" (meaning no roof replacement is needed before installation). This will significantly lower operational costs and further improve the energy performance.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Action | Priority | Cost-Effectiveness | Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Insulate Wall Cavities | High | Very High | Low |
+| **2** | Insulate Floor | Medium | High | Low |
+| **3** | Replace Glazing | High | Medium | High |
+| **4** | Replace Ventilation | Medium | Medium | Moderate |
+| **5** | Low-Temp Emission | Medium | Medium | Moderate |
+| **6** | Air-Water Heat Pump | High | Medium | Moderate |
+| **7** | PV Panels on Roof | Medium | High (Long term) | Low |
+
+**Final Result:** This path transforms an 1862 detached house from a high-energy-loss structure into a modern, energy-efficient home by systematically addressing the envelope before the machinery.

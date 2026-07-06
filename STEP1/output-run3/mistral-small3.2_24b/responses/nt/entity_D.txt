@@ -1,0 +1,63 @@
+### **Renovation Plan for the Building**
+
+#### **1. Assessment of Current State**
+The building is a semi-detached structure with the following key elements:
+- **Roofs:**
+  - **Main Roof (Gable Roof):** Moderately insulated.
+  - **Extension Roof (Flat Roof):** Well insulated.
+- **Walls:**
+  - **Front Wall:** Well insulated, no historical protection.
+  - **Rear Wall:** Well insulated, no historical protection.
+  - **Left Wall:** Well insulated, no historical protection.
+- **Windows:**
+  - **Bedrooms:** Double glazing.
+  - **Living Area:** Double glazing.
+- **Other Elements:**
+  - **Ventilation System:** Type D.
+  - **Emission System:** Heat pump.
+  - **Energy Performance Certificate (EPC):** Score of 87.
+  - **Potential for PV Panels:** No.
+  - **Presence of Heat Grid:** No.
+  - **Reason to Change Emission System:** No.
+  - **Construction Year:** 2017.
+
+#### **2. Key Recommendations**
+Based on the current state, the following renovations are recommended to improve energy efficiency:
+
+**A. Insulate the Main Roof (Gable Roof)**
+- **Action:** Insulate the gable roof to improve thermal performance.
+- **Justification:** The current insulation grade is "Moderately Insulated," which can be improved to "Well Insulated."
+- **Estimated Cost:** €50 per m² (based on the ontology's unit price for insulation).
+- **Implementation:** Replace existing insulation with higher R-value materials.
+- **Permit Needed:** No.
+
+**B. Replace the Ventilation System**
+- **Action:** Replace the current ventilation system (Type D) with a more efficient system (e.g., Type A or B).
+- **Justification:** The current system is Type D, which is less efficient compared to Type A or B.
+- **Estimated Cost:** €17 per m² (based on the ontology's unit price for ventilation system replacement).
+- **Implementation:** Install a new ventilation system with improved air quality and energy efficiency.
+- **Permit Needed:** Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+**C. Install PV Panels (if feasible)**
+- **Action:** Although the current potential for PV panels is assessed as "No," reconsider this based on updated assessments or changes in local regulations.
+- **Justification:** Solar panels can significantly reduce energy consumption and costs.
+- **Estimated Cost:** €275 per m² (based on the ontology's unit price for PV panels).
+- **Implementation:** Install PV panels on the roof, ensuring compliance with local regulations.
+- **Permit Needed:** Not necessary if the panels are in the same plane (Flanders).
+
+#### **3. Optimal Sequence of Implementation**
+1. **Insulate the Main Roof (Gable Roof):** This is a relatively straightforward and cost-effective improvement that can immediately enhance thermal performance.
+2. **Replace the Ventilation System:** This is a more involved renovation but will significantly improve indoor air quality and energy efficiency.
+3. **Install PV Panels (if feasible):** This is the most complex and costly renovation but offers long-term energy cost savings and sustainability benefits.
+
+#### **4. Expected Outcomes**
+- **Improved Thermal Comfort:** Better insulation and a more efficient ventilation system will enhance indoor comfort.
+- **Reduced Energy Consumption:** The combination of these renovations is expected to reduce the building's energy consumption, leading to lower utility bills.
+- **Higher EPC Score:** The building's EPC score is likely to improve, making it more attractive for future buyers or tenants.
+
+#### **5. Additional Considerations**
+- **Local Regulations:** Ensure compliance with local building codes and regulations, especially regarding permits and historical protections.
+- **Professional Assistance:** Consult with energy experts or contractors to ensure proper execution of the renovations.
+- **Future-Proofing:** Consider future energy-efficiency technologies or regulations that may impact the building.
+
+By following this plan, the building's energy efficiency can be significantly improved, leading to cost savings and enhanced comfort for its residents.

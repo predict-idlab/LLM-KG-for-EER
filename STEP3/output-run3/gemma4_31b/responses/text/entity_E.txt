@@ -1,0 +1,46 @@
+To transform a house from 1862 with an EPC of 165 into an energy-efficient home, you must follow the **"Fabric First" principle**. Installing a high-efficiency heating system in a "leaky" house is a waste of money; you must first reduce the energy demand before upgrading the energy source.
+
+Given your specific constraints in Ghent, here is the optimal, step-by-step renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*Goal: Stop heat from escaping. This is the most cost-effective way to lower your EPC.*
+
+1.  **Cavity Wall Insulation:** Since you have cavity walls, this is your **highest ROI activity**. Injecting insulation into the cavities is relatively inexpensive, non-invasive, and drastically reduces heat loss through the walls.
+2.  **Floor Insulation (Crawl Space):** Since the floor is above a crawl space, you can insulate the "ceiling" of the crawl space (the underside of your floor). This prevents "cold feet" and stops dampness from rising, which is common in 19th-century Belgian homes.
+3.  **Window Upgrade (Glazing):** Single glazing is a primary source of heat loss. Since the wooden frames are in good condition, evaluate if they can be retrofitted with **double or triple glazing**. If the frames are too thin, replace them with high-performance wooden frames (to maintain the aesthetic) with HR++ glass.
+
+### Phase 2: Ventilation & Air Quality (The Health Balance)
+*Goal: Once the house is sealed in Phase 1, you must manage air quality to prevent mold and condensation.*
+
+4.  **Mechanical Ventilation with Heat Recovery (MVHR):** Natural ventilation is insufficient for a highly insulated house. I propose installing a **decentralized MVHR system** (single-room ventilators) or a centralized system if the budget allows. This recovers heat from outgoing stale air to warm the incoming fresh air, preventing the "draft" effect.
+
+### Phase 3: Heating System Modernization (The Efficiency Shift)
+*Goal: Replace outdated, inefficient emitters and the boiler with a sustainable system.*
+
+5.  **Emitter Standardization:** You currently have a fragmented system (radiators, air, electric). This is highly inefficient.
+    *   **Remove:** Electric convectors (the most expensive way to heat).
+    *   **Upgrade:** Replace old radiators with **low-temperature radiators** or expand the underfloor heating. This is crucial because the next step (Heat Pump) requires low-temperature emitters to work efficiently.
+6.  **Heat Pump Installation:** With the house now insulated and the emitters updated, install an **Air-to-Water Heat Pump**. Since geothermal is not viable, this is the most sustainable electric alternative to a gas boiler.
+
+### Phase 4: Renewable Energy (The Operational Offset)
+*Goal: Power your new electrical systems (Heat Pump/Ventilation) for free.*
+
+7.  **Photovoltaic (PV) Panels:** Now that your energy consumption is minimized, install PV panels on the roof. This will offset the electricity cost of the heat pump and ventilation system, bringing your operational costs close to zero.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Order | Action | Why? | Impact on EPC |
+| :--- | :--- | :--- | :--- |
+| **1** | **Wall & Floor Insulation** | Cheapest way to stop heat loss. | $\downarrow \downarrow \downarrow$ |
+| **2** | **Double/Triple Glazing** | Eliminates the biggest "holes" in the envelope. | $\downarrow \downarrow$ |
+| **3** | **Ventilation (MVHR)** | Prevents humidity/mold in a sealed house. | $\downarrow$ |
+| **4** | **Low-Temp Emitters** | Prepares the house for a heat pump. | $\downarrow$ |
+| **5** | **Air-to-Water Heat Pump** | Switches from fossil fuels to electricity. | $\downarrow \downarrow \downarrow$ |
+| **6** | **PV Panels** | Powers the heat pump with green energy. | $\downarrow \downarrow$ |
+
+### Expert Pro-Tip for Ghent (Flanders):
+Before starting, apply for the **"Mijn VerbouwPremie"** (My Renovation Premium). The Flemish government provides significant subsidies for these specific steps, especially for the "global renovation" path, which offers higher premiums than individual measures. Because your house is from 1862 and not protected, you have maximum flexibility to implement these technical upgrades.

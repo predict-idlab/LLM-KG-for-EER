@@ -1,0 +1,81 @@
+### Renovation Plan for Semi-Detached Building (1951, EPC Score: 388)
+
+#### Key Observations:
+- **Thermal Envelope Issues**:
+  - All external walls (`Wall_Front`, `Wall_Right`, `Wall_Rear`) are **not insulated**.
+  - `RoofMain` (Gable Roof) and `RoofExtension` (Flat Roof) have **poor insulation** (one is "Not Insulated," the other "Moderately Insulated").
+  - `FloorAboveBasement` is **not insulated**.
+- **Windows**:
+  - Double-glazed windows with wooden frames in good condition.
+  - No urgent need for replacement (cost-effective to retain).
+- **Heating & Emission**:
+  - Current system: **Boiler + Radiators**.
+  - Ventilation: **System A (natural)**, which is inefficient for a sealed envelope.
+- **Potential for PV**: **True** (roof suitable for solar panels).
+- **Owner's Goal**: Improve EPC (currently D Label).
+
+---
+
+#### **Proposed Renovation Path**
+
+**Phase 1: Thermal Envelope Optimization**
+1. **Insulate Exterior Walls**
+   - *Action*: Insulate `Wall_Front`, `Wall_Right`, and `Wall_Rear` **on the exterior**.
+   - *Rationale*: Full brick walls cannot be cavity-insulated. Exterior insulation provides the highest thermal performance and eliminates thermal bridges.
+   - *Cost-Effectiveness*: Lower nuisance level than interior insulation (no relocation of sockets/pipes).
+
+2. **Insulate Gable Roof**
+   - *Action*: Insulate `RoofMain` (gable roof).
+   - *Rationale*: The gable roof has **no insulation** and is a major heat loss area.
+   - *Note*: Install vapour barrier on the warm side to prevent condensation.
+
+3. **Insulate Flat Roof**
+   - *Action*: Insulate `RoofExtension` (flat roof).
+   - *Rationale*: The flat roof is **moderately insulated** but needs improvement to match the new thermal envelope standards.
+   - *Note*: Opt for an **inverted roof structure** (insulation on top of roof covering).
+
+4. **Insulate Floor Above Basement**
+   - *Action*: Insulate `FloorAboveBasement`.
+   - *Rationale*: Eliminates cold drafts from the basement and improves overall comfort.
+
+---
+
+**Phase 2: Heating System Transition**
+5. **Place Air-Water Heat Pump**
+   - *Action*: Replace the boiler with an **Air-Water Heat Pump**.
+   - *Rationale*:
+     - Geothermal potential is **false**; heat grid is **not present**.
+     - Heat pumps are **highly efficient** for sealed, insulated buildings.
+   - *Note*: Requires a **low-temperature emission system** (see next step).
+
+6. **Place Low-Temperature Emission**
+   - *Action*: Upgrade radiators to **low-temperature emissions** (e.g., underfloor heating or low-temp radiators).
+   - *Rationale*: Maximizes the **Coefficient of Performance (COP)** of the heat pump.
+
+---
+
+**Phase 3: Ventilation Upgrade**
+7. **Replace Ventilation System**
+   - *Action*: Upgrade from **System A (natural)** to **System C or D (mechanical)**.
+   - *Rationale*:
+     - A sealed envelope reduces natural air exchange, necessitating a **controlled ventilation system**.
+     - System C/D ensures **air quality** while minimizing heat loss.
+
+---
+
+**Phase 4: Sustainable Energy Generation**
+8. **Place PV-Panels on Roof**
+   - *Action*: Install **PV panels** on the roof.
+   - *Rationale*:
+     - The building has **confirmed PV potential**.
+     - Solar energy offsets the electricity consumption of the heat pump and ventilation system.
+
+---
+
+#### **Summary of Optimal Sequence**
+1. **Exterior Wall Insulation** → **Gable Roof Insulation** → **Flat Roof Insulation** → **Floor Insulation**
+2. **Air-Water Heat Pump** → **Low-Temperature Emission Upgrade**
+3. **Ventilation System Replacement**
+4. **PV Panel Installation**
+
+This sequence follows the **"Insulate → Ventilate → Generate"** principle, ensuring energy efficiency while maintaining cost-effectiveness.

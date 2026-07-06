@@ -1,0 +1,56 @@
+### Renovation Plan for Detached Building (1862)
+
+**Current EPC Score:** 165 (B Label)
+**Primary Motivation:** Improve EPC
+**Key Challenges:**
+- **Thermal Envelope:** All exterior walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`, `Wall_Left`) and `FloorAboveCrawlSpace` are not insulated.
+- **Windows:** All windows have single glazing.
+- **Heating System:** Electric convectors and floor heating, which are inefficient for a pre-war building.
+
+**Proposed Renovation Path (Fabric-First Approach):**
+
+**Phase 1: Thermal Envelope Optimization**
+1. **Insulate Walls on Exterior** (Priority: High)
+   - **Action:** Insulate `Wall_Front`, `Wall_Rear`, `Wall_Right`, and `Wall_Left` on the exterior.
+   - **Why?** Since these are cavity walls, exterior insulation avoids structural issues and improves thermal performance.
+   - **Estimated Cost:** Moderate (depends on insulation material and labor).
+
+2. **Insulate Floor Above Crawl Space** (Priority: High)
+   - **Action:** Add insulation to `FloorAboveCrawlSpace`.
+   - **Why?** Crawl spaces are often damp and poorly insulated, leading to significant heat loss. Insulating this floor will improve comfort and reduce energy demand.
+
+**Phase 2: Window Performance Upgrade**
+3. **Replace Glazing** (Priority: Medium)
+   - **Action:** Replace all single glazing with **double glazing** (or triple if budget allows).
+   - **Why?** Single glazing is a major source of heat loss. Upgrading to double/triple glazing will significantly improve thermal efficiency.
+   - **Note:** Since the window frames (`WoodenWindowFrame`) are in good condition, only the glazing needs replacement.
+
+**Phase 3: Heating System Transition**
+4. **Place Air-Water Heat Pump** (Priority: Medium)
+   - **Action:** Install an air-water heat pump to replace the existing boiler.
+   - **Why?** Heat pumps are more energy-efficient than boilers, especially in well-insulated buildings. Since geothermal potential is low and there is no heat grid, an air-water system is the best alternative.
+
+5. **Place Emission System on Low Temperature** (Priority: Medium)
+   - **Action:** Transition from radiators to low-temperature emissions (e.g., underfloor heating or low-temperature radiators).
+   - **Why?** Low-temperature systems work best with heat pumps, maximizing efficiency.
+
+**Phase 4: Sustainable Energy Generation (Optional but Recommended)**
+6. **Place PV Panels on Roof** (Priority: Low)
+   - **Action:** Install solar panels on the `RoofMain` (gable roof).
+   - **Why?** The building has confirmed potential for PV. Generating renewable electricity will further improve the EPC label and reduce energy costs.
+
+**Phase 5: Ventilation Upgrade (If Needed)**
+7. **Replace Ventilation System** (Priority: Low)
+   - **Action:** Upgrade from `VentilationSystemA` (natural) to a more efficient system (e.g., `VentilationSystemC` or `VentilationSystemD`).
+   - **Why?** Once the building is sealed, controlled ventilation is necessary to prevent moisture buildup.
+
+### Summary of Optimal Sequence
+1. **Exterior Wall Insulation**
+2. **Floor Insulation**
+3. **Glazing Replacement**
+4. **Air-Water Heat Pump**
+5. **Low-Temperature Emission Upgrade**
+6. **PV Panels (Optional)**
+7. **Ventilation Upgrade (If Needed)**
+
+This plan prioritizes cost-effective, high-impact upgrades first, ensuring that the building's thermal envelope is optimized before transitioning to a more efficient heating system. The sequence follows the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** principle, which is widely accepted in energy-efficient renovations.

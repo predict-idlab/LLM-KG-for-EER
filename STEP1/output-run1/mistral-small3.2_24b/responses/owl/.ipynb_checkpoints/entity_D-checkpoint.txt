@@ -1,0 +1,71 @@
+### Renovation Plan for the Semi-Detached Building
+
+**Objective**: Improve energy efficiency while maintaining cost-effectiveness.
+
+**Current State**:
+- **Building Type**: Semi-detached (173 m²)
+- **Construction Year**: 2017
+- **Energy Performance Certificate (EPC)**: Score of 87
+- **Insulation**:
+  - Walls (Front, Left, Rear): Well insulated
+  - Roofs (Main, Extension): Mainly well insulated
+  - Floor: Well insulated
+- **Windows**:
+  - Double glazing in living area and bedrooms
+  - Wooden frames in good condition
+- **Heating System**: Heat pump
+- **Ventilation System**: Type D
+- **PV Panels**: Present but potential for optimization
+- **Heat Grid**: Not present
+- **Potential for Geothermal Drilling**: Not available
+
+**Recommended Actions**:
+
+1. **Replace Ventilation System**:
+   - **Action**: Upgrade to a more energy-efficient ventilation system (e.g., Type C or B).
+   - **Rationale**: Current system (Type D) may not be optimized for energy savings.
+   - **Cost**: Moderate (depends on system choice).
+
+2. **Optimize PV Panel Installation**:
+   - **Action**: Assess and potentially expand or reposition PV panels for better sunlight exposure.
+   - **Rationale**: Current panels may not be optimally placed for maximum energy generation.
+   - **Cost**: Low to moderate (depending on changes needed).
+
+3. **Insulate Roof Extension**:
+   - **Action**: Ensure the roof extension is as well insulated as the main roof.
+   - **Rationale**: The main roof is well insulated, but the extension might benefit from additional insulation.
+   - **Cost**: Low (if minimal work is needed).
+
+4. **Maintain Current Insulation Standards**:
+   - **Action**: No immediate action needed for walls, main roof, and floor as they are already well insulated.
+   - **Rationale**: These elements meet current insulation standards and do not require immediate upgrades.
+
+5. **Monitor and Maintain Window Conditions**:
+   - **Action**: Regularly inspect windows for any signs of wear or damage, especially the glazing and frames.
+   - **Rationale**: Windows are in good condition but should be maintained to prevent future energy loss.
+   - **Cost**: Low (routine maintenance).
+
+6. **Consider Future Upgrades**:
+   - **Action**: Plan for future upgrades such as connecting to a heat grid if it becomes available in the area.
+   - **Rationale**: Future-proofing the building for potential energy-efficient heating solutions.
+   - **Cost**: To be determined (future project).
+
+**Prioritization**:
+1. Replace Ventilation System
+2. Optimize PV Panel Installation
+3. Insulate Roof Extension
+4. Maintain Current Insulation Standards
+5. Monitor and Maintain Window Conditions
+6. Consider Future Upgrades
+
+**Expected Outcomes**:
+- Improved energy efficiency leading to lower energy bills.
+- Enhanced comfort and sustainability of the building.
+- Potential increase in property value due to better EPC rating.
+
+**Next Steps**:
+- Obtain quotes for ventilation system upgrades and PV panel optimizations.
+- Schedule routine maintenance for windows and roofs.
+- Monitor energy consumption to track improvements post-renovation.
+
+This plan focuses on practical, cost-effective upgrades that align with the building's current state and future needs. It ensures that the building remains energy-efficient and comfortable while minimizing unnecessary expenses.

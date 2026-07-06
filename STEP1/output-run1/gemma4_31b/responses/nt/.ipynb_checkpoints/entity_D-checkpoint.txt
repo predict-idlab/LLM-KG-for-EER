@@ -1,0 +1,42 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation path.
+
+### **Building Analysis Summary**
+The property is a relatively modern **semi-detached building (constructed in 2017)** with an already high energy efficiency rating (**EPC score: 87**). Most major components are already optimized:
+*   **Walls & Floors:** Front, rear, and left walls, as well as the floor above the basement, are already **Well Insulated**.
+*   **Systems:** The home is equipped with a **Heat Pump**, a high-efficiency **Ventilation System D**, and **PV Panels**.
+*   **Flat Roof:** The roof extension is **Well Insulated**.
+
+The primary objective is to **Improve the EPC**, and the analysis reveals only two significant areas for thermal improvement.
+
+---
+
+### **Proposed Renovation Path**
+
+Since the building is already high-performing, the focus shifts from "major overhaul" to "marginal gains" to maximize the EPC score while remaining cost-effective.
+
+#### **Step 1: Insulate the Gable Roof**
+*   **Current State:** Moderately Insulated.
+*   **Action:** Perform **InsulateGableRoof**.
+*   **Justification:** This is the only remaining structural envelope element not rated as "Well Insulated." Improving the roof's thermal resistance is the most effective way to further lower the energy score.
+*   **Practical Tip (from Ontology):** To avoid condensation and moisture buildup, ensure the **vapour barrier** is installed strictly on the **warm side** of the insulation.
+
+#### **Step 2: Upgrade Window Glazing**
+*   **Current State:** Double Glazing with Wooden Frames in "Good State."
+*   **Action:** Perform **ReplaceGlazing** (upgrade from Double to **Triple Glazing**).
+*   **Justification:** Because the existing wooden frames are in a "Good State," it is not cost-effective to replace the entire window unit. Replacing only the glazing to Triple Glazing will reduce heat loss through the apertures and improve thermal comfort.
+*   **Practical Tip (from Ontology):** Before ordering, verify that the existing wooden frames have the **required thickness** to accommodate the heavier and thicker triple-pane glass.
+
+---
+
+### **Optimal Sequence & Operational Logic**
+
+| Sequence | Intervention | Priority | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof Insulation** | High | High | High (Highest ROI for EPC) |
+| **2** | **Glazing Upgrade** | Medium | Moderate | Medium (Avoids full frame replacement) |
+
+**Why this sequence?**
+In energy renovation, the **"Envelope First"** principle applies. By first addressing the roof (the highest point of heat loss), you minimize the energy demand of the building. Upgrading the glazing follows as a refinement to eliminate remaining thermal bridges.
+
+### **Final Conclusion on Cost-Effectiveness**
+Because the building already possesses a Heat Pump and Ventilation System D, there is **no need** to invest in new heating or ventilation technology. The most cost-effective path to a higher EPC is focusing exclusively on the **Gable Roof** and **Glazing**, avoiding the replacement of elements that are already "Well Insulated" or in "Good State."

@@ -1,0 +1,52 @@
+Based on the provided building data and the RENO ontology, here is the optimal renovation path for the property. This plan follows a **"Fabric First"** approach—prioritizing the building envelope to reduce energy demand before upgrading the heating and energy generation systems.
+
+### **Building Analysis Summary**
+*   **Current State:** A detached building from 1862 with an EPC score of 165. While the roof is well-insulated, the walls and floors are not, and the windows use inefficient single glazing.
+*   **Primary Goal:** Improve the EPC label and overall energy efficiency.
+*   **Constraints:** No potential for geothermal energy; no available heat grid.
+
+---
+
+### **Proposed Renovation Path (Sequential Order)**
+
+The sequence below is determined by the `ordering` property in the ontology to maximize the efficiency of each subsequent step.
+
+#### **Phase 1: Thermal Envelope (Reducing Heat Loss)**
+1.  **Insulate Cavity Walls** (`ordering: 34`)
+    *   **Action:** Inject insulation into the front, left, right, and rear cavity walls.
+    *   **Justification:** This is the most cost-effective upgrade ($\text{22/m}^2$) with low nuisance. Since the walls are not historically protected, this is a high-impact, low-cost win.
+2.  **Replace Window Glazing** (`ordering: 43`)
+    *   **Action:** Upgrade single glazing to double or triple glazing in the living area and bedrooms.
+    *   **Justification:** The wooden frames are in good condition (State: 8), so replacing only the glazing is significantly more cost-effective than replacing the entire window unit.
+3.  **Insulate Floor Above Basement** (`ordering: 49`)
+    *   **Action:** Install insulation in the floor above the crawl space/basement.
+    *   **Justification:** Prevents heat loss through the ground floor, complementing the already well-insulated roof.
+
+#### **Phase 2: System Optimization (Improving Air & Heat)**
+4.  **Replace Ventilation System** (`ordering: 52`)
+    *   **Action:** Upgrade from Ventilation System A (Natural) to a more efficient system (e.g., System C or D).
+    *   **Justification:** Improves indoor air quality and prevents heat loss associated with uncontrolled natural ventilation.
+5.  **Install Air-Water Heat Pump** (`ordering: 67`)
+    *   **Action:** Replace the existing generation system/boiler with an air-water heat pump.
+    *   **Justification:** The owner has a stated reason to change the emission system. Since geothermal is not feasible for this site, an air-water pump is the most efficient alternative to support the existing radiators and floor heating.
+
+#### **Phase 3: Renewable Energy (Offsetting Consumption)**
+6.  **Install PV Panels on Roof** (`ordering: 85`)
+    *   **Action:** Place solar PV panels on the gable roof.
+    *   **Justification:** The building has confirmed PV potential. Generating electricity on-site will power the new heat pump, drastically lowering long-term operational costs and further improving the EPC score.
+
+---
+
+### **Financial & Operational Impact**
+
+| Priority | Intervention | Cost Basis | Nuisance | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **High** | Cavity Wall Insulation | $\text{22/m}^2$ | Low | High (Thermal) |
+| **High** | Glazing Upgrade | $\text{200/m}^2$ | High | High (Thermal/Comfort) |
+| **Medium** | Floor Insulation | $\text{30/m}^2$ | Low | Medium (Thermal) |
+| **Medium** | Ventilation Upgrade | $\text{3500 fixed} + \text{17/m}^2$ | Moderate | Medium (Air Quality) |
+| **Medium** | Air-Water Heat Pump | $\text{8000 fixed} + \text{35/m}^2$ | Moderate | High (Operational Cost) |
+| **Low** | Roof PV Panels | $\text{275/m}^2$ | Low | High (Sustainability) |
+
+### **Expert Final Note**
+By insulating the walls, floor, and windows first, you reduce the total heat load of the house. This allows for the installation of a **smaller, more efficient heat pump** in Phase 2, preventing the common mistake of over-specifying heating equipment for a "leaky" house. This path provides the most sustainable and cost-effective route to a significantly improved EPC label.

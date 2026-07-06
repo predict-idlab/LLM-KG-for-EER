@@ -1,0 +1,59 @@
+### Renovation Plan for the Building
+
+#### **1. Roof Insulation and Replacement**
+- **Action:** Replace and insulate the gable roof and flat roof extensions.
+- **Rationale:** Both roofs are currently not insulated (or only moderately insulated). Insulating the roofs will significantly improve thermal efficiency.
+- **Suggestions:**
+  - Replace the gable roof (`replace gable roof`).
+  - Insulate the gable roof (`insulate gable roof`).
+  - Replace the flat roof extension (`replace flat roof`).
+  - Insulate the flat roof extension (`insulate flat roof`).
+
+#### **2. Wall Insulation**
+- **Action:** Insulate the front and rear walls of the building.
+- **Rationale:** Both walls are currently not insulated. Insulating the walls will further improve thermal efficiency and reduce energy consumption.
+- **Suggestions:**
+  - Insulate the front wall (`insulate wall on exterior`).
+  - Insulate the rear wall (`insulate wall on exterior`).
+
+#### **3. Window and Glazing Upgrades**
+- **Action:** Replace or upgrade the glazing in the windows of the living area and bedrooms.
+- **Rationale:** The living area windows have double glazing, which is better than single glazing. However, upgrading to triple glazing or replacing the frames with more thermally efficient materials could further improve energy efficiency.
+- **Suggestions:**
+  - Replace the glazing in the living area windows (`replace glazing`).
+  - Replace the glazing in the bedroom windows (`replace glazing`).
+
+#### **4. Floor Insulation**
+- **Action:** Insulate the floor above the basement.
+- **Rationale:** The floor above the basement is currently not insulated. Insulating this floor will help maintain a consistent temperature throughout the building.
+- **Suggestions:**
+  - Insulate the floor above the basement (`insulate floor above basement`).
+
+#### **5. Ventilation System Upgrade**
+- **Action:** Replace the ventilation system.
+- **Rationale:** The current ventilation system (Type A) is not as efficient as newer systems (Type D). Upgrading to a more efficient ventilation system will improve indoor air quality and energy efficiency.
+- **Suggestions:**
+  - Replace the ventilation system (`replace ventilation system`).
+
+#### **6. Emission System Upgrade**
+- **Action:** Consider upgrading the emission system to a low-temperature system.
+- **Rationale:** The current radiator system may not be as efficient as modern low-temperature emission systems. Upgrading to a low-temperature system can improve heating efficiency and comfort.
+- **Suggestions:**
+  - Place a low-temperature emission system (`place emission system on low temperature`).
+
+#### **7. Renewable Energy Integration**
+- **Action:** Install photovoltaic (PV) panels on the roof.
+- **Rationale:** The building has potential for PV panels, and installing them can significantly reduce energy consumption and costs.
+- **Suggestions:**
+  - Place PV panels on the roof (`place PV-panels on roof`).
+
+### Summary of Renovation Plan
+1. **Replace and insulate the gable roof and flat roof extensions.**
+2. **Insulate the front and rear walls of the building.**
+3. **Replace or upgrade the glazing in the windows of the living area and bedrooms.**
+4. **Insulate the floor above the basement.**
+5. **Replace the ventilation system with a more efficient one.**
+6. **Consider upgrading the emission system to a low-temperature system.**
+7. **Install photovoltaic (PV) panels on the roof.**
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, taking into account the specific conditions and elements of the building.

@@ -1,0 +1,51 @@
+Given that your home was built in 2017 and already features a heat pump, Ventilation System D (double-flow ventilation with heat recovery), and photovoltaic panels, you are starting from a very strong baseline. In the context of Flemish energy standards, a score of 87 (likely kWh/m² per year) is relatively efficient, but there is room for improvement.
+
+Because most of the "big wins" (heating system, ventilation, and wall insulation) are already addressed, your strategy should shift from **major systemic changes** to **precision tuning and targeting the remaining thermal weak points.**
+
+Here is the most cost-effective and energy-efficient renovation path, ordered by priority.
+
+---
+
+### Step 1: Targeted Roof Insulation (The Primary Priority)
+The only "moderate" insulation mentioned is in the main pitched roof. Since heat rises, this is your most significant area for thermal loss.
+
+*   **The Action:** Upgrade the insulation of the pitched roof to "well-insulated" levels. 
+*   **The Method:** Depending on the current structure, consider adding a layer of high-performance insulation (such as PIR boards or mineral wool) in the attic floor or between the rafters. 
+*   **Why:** Improving the roof from "moderate" to "excellent" will directly lower the workload on your heat pump, reducing electricity consumption during winter. This is the highest ROI activity remaining in your home.
+
+### Step 2: Thermal Bridge Audit & Air-Tightness Check
+Even in a 2017 build, "hidden" energy leaks (thermal bridges) can occur where walls meet the roof or around window frames.
+
+*   **The Action:** Conduct a professional thermographic scan (infrared camera) during the winter.
+*   **The Method:** Identify "cold spots" where heat is escaping. Once identified, apply targeted fixes:
+    *   Seal gaps around window frames with high-quality weatherstripping.
+    *   Ensure the transition between the well-insulated walls and the moderately insulated roof is seamless.
+*   **Why:** Small leaks can cause disproportionate energy loss and create risks of condensation/mold, even with System D ventilation.
+
+### Step 3: Energy Management & System Optimization
+Since your hardware (Heat Pump + PV + System D) is already high-end, the goal is now to optimize the **synergy** between these systems.
+
+*   **The Action:** Implement a Smart Energy Management System (HEMS).
+*   **The Method:** 
+    *   **PV-Heat Pump Integration:** Install a controller that tells your heat pump to run more intensively when your PV panels are producing peak energy (shifting the load to midday).
+    *   **Ventilation Tuning:** Ensure your System D is calibrated correctly for the number of occupants to avoid over-ventilating (which wastes heat) or under-ventilating.
+*   **Why:** This costs very little compared to construction but maximizes the "free" energy from your PV panels.
+
+### Step 4: Long-term Window Evaluation (Low Priority)
+Your windows were renewed in 2020 and are in good condition. Replacing double glazing with triple glazing is a common suggestion, but in your specific case, **it is likely not cost-effective.**
+
+*   **The Action:** Monitor performance; do not replace unless you feel significant drafts or cold zones.
+*   **The Logic:** Because your walls are already well-insulated and you have a heat pump, the marginal gain of triple glazing is small compared to the high cost of replacement. Only consider this if you decide to replace the wooden frames in 10–15 years.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Action | Impact | Cost | Priority |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Pitched Roof Insulation** | High | Medium | **Critical** |
+| **2** | **Thermographic Audit/Sealing** | Medium | Low | **High** |
+| **3** | **Smart Energy Integration** | Medium | Low | **Medium** |
+| **4** | **Window Upgrade** | Low | High | **Low** |
+
+**Final Expert Advice:** Focus your budget almost entirely on the **pitched roof**. Once that is brought up to the same standard as your walls and floor, your house will be a "thermal envelope," and your heat pump will operate at maximum efficiency.

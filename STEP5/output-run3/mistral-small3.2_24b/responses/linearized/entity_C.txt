@@ -1,0 +1,58 @@
+### Renovation Plan for Attached Building (EPC Score: 50)
+
+**Building Overview:**
+- **Type:** Attached Building (1963)
+- **EPC Score:** 50 (F Label)
+- **Potential for PV:** False
+- **Heating System:** Boiler + Electric Convector (Floor Heating)
+- **Ventilation System:** Ventilation System D
+- **Insulation Status:**
+  - Wall_Front: Well Insulated
+  - Wall_Rear: Well Insulated
+  - RoofMain: Moderately Insulated
+  - RoofExtension: Well Insulated
+  - FloorAboveBasement: Well Insulated
+- **Windows:** Double Glazing (Good Condition)
+
+**Renovation Motivation:**
+- **Primary Goal:** Improve EPC Rating (ToImproveEPC)
+
+**Proposed Renovation Path:**
+
+**Phase 1: Enhance Thermal Efficiency (Priority: High)**
+1. **Insulate Gable Roof (RoofMain):**
+   - *Rationale:* The roof is currently only moderately insulated. Upgrading to full insulation will reduce heat loss significantly.
+   - *Action:* Insulate the gable roof to bring it to the same standard as the well-insulated flat roof.
+
+2. **Replace Glazing (WindowsLivingArea & WindowsBedrooms):**
+   - *Rationale:* While the windows are already double-glazed, upgrading to **triple glazing** will further reduce heat loss through the windows.
+   - *Action:* Replace the existing double-glazed windows with triple-glazed ones.
+
+**Phase 2: Heating & Emission System Transition (Priority: Medium)**
+3. **Place Air-Water Heat Pump:**
+   - *Rationale:* The current heating system (boiler + electric convector) is inefficient. An **Air-Water Heat Pump** is a sustainable and efficient alternative.
+   - *Action:* Install an Air-Water Heat Pump to replace the existing boiler.
+
+4. **Place Emission System on Low Temperature:**
+   - *Rationale:* Before installing the heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+   - *Action:* Upgrade the emission system to operate at lower temperatures.
+
+**Phase 3: Ventilation & Air Quality (Priority: Medium)**
+5. **Replace Ventilation System:**
+   - *Rationale:* The current ventilation system (Ventilation System D) is adequate, but upgrading to a more advanced system (e.g., **Ventilation System E**) can improve air quality and energy efficiency.
+   - *Action:* Replace the existing ventilation system with a more efficient model.
+
+**Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+6. **Place PV-Panels on Roof:**
+   - *Rationale:* Although the building has no potential for PV, installing **solar panels** can still provide some renewable energy to offset electricity consumption.
+   - *Action:* Install PV panels on the roof to generate renewable electricity.
+
+**Summary of Optimal Sequence:**
+1. **Insulate Gable Roof**
+2. **Replace Glazing**
+3. **Place Air-Water Heat Pump**
+4. **Place Emission System on Low Temperature**
+5. **Replace Ventilation System**
+6. **Place PV-Panels on Roof**
+
+This plan ensures that the building's energy efficiency is maximized while remaining cost-effective. The sequence prioritizes the most impactful renovations first, ensuring that the building's thermal envelope is optimized before upgrading the heating and ventilation systems.

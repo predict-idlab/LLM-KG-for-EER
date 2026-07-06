@@ -1,0 +1,32 @@
+### Renovation Plan:
+
+Given the building's details and the RENO ontology, the property is a semi-detached house from 2017 with an EPC score of 87 (B Label). The owner's primary motivation is to improve the EPC rating. The goal is to maximize energy efficiency while remaining cost-effective, so the renovation must follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+### Proposed Renovation Path:
+
+#### Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)
+The primary goal here is to stop heat leakage. Since the building is well-insulated, the next logical steps are to enhance energy efficiency through other means.
+
+1. **Place PV-Panels on Roof**
+   - The building currently has PV panels installed, but since there is no potential for PV indicated, it's unclear if these are operational. If not, installing new PV panels can significantly offset electricity consumption.
+   - If the existing PV panels are functional, consider upgrading to more efficient models.
+
+#### Phase 2: Heating & Emission System Transition
+With a sealed envelope, the building's heat demand is lower, allowing for the installation of more efficient systems.
+
+2. **Place Air-Water Heat Pump**
+   - Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+
+#### Phase 3: Air Quality and Ventilation
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+3. **Replace Ventilation System**
+   - Upgrade from Ventilation System D (if it's not already upgraded) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+### Summary of Optimal Sequence:
+
+1. **PV Panel Optimization** (if existing panels are not operational or efficient).
+2. **Air-Water Heat Pump Installation** (to replace the existing boiler).
+3. **Ventilation System Upgrade** (to ensure proper air quality and heat retention).
+
+This sequence ensures that the building's energy efficiency is maximized while maintaining cost-effectiveness. The focus on the thermal envelope is maintained, and the heating system is upgraded to match the new lower heat demand, followed by ensuring proper ventilation.

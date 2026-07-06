@@ -1,0 +1,51 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path. The strategy follows the **"Envelope First"** principle: reducing energy demand through insulation before upgrading the heating and generation systems to ensure the new systems are sized correctly and operate at maximum efficiency.
+
+### **Building Analysis Summary**
+*   **Current State:** 1951 Semi-Detached building with an EPC score of **388 (D Label)**.
+*   **Critical Weaknesses:** The building envelope is largely uninsulated (Gable Roof, Floor above basement, and all Full Brick Walls are "Not Insulated").
+*   **Constraints:** No potential for geothermal energy and no access to a heat grid.
+*   **Existing Assets:** Double glazing is already present in a good state; floor heating is already installed (which is ideal for low-temperature systems).
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+*Goal: Stop heat loss to lower the required capacity of the future heating system.*
+
+1.  **Insulate Gable Roof (`InsulateGableRoof`):** 
+    *   **Priority:** Highest. Heat rises, and the main roof is currently not insulated.
+    *   **Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+2.  **Insulate Floor Above Basement (`InsulateFloorAboveBasement`):** 
+    *   **Priority:** High. This prevents cold drafts from the basement, significantly improving thermal comfort in the living areas.
+3.  **Insulate Exterior Walls (`InsulateWallExterior`):** 
+    *   **Priority:** Medium-High. Since the walls are "Full Brick," cavity insulation is not an option. Exterior insulation is the most effective way to eliminate thermal bridges.
+    *   **Note:** Check the building line and council guidelines regarding total wall thickness.
+
+#### **Phase 2: System Modernization (Operational Performance)**
+*Goal: Transition from a high-carbon boiler to a high-efficiency electric system.*
+
+4.  **Upgrade to Low-Temperature Emission (`PlaceLowTemperatureEmission`):** 
+    *   **Context:** While floor heating is present, ensuring the entire emission system is optimized for low temperatures is crucial before installing a heat pump.
+5.  **Install Air-Water Heat Pump (`PlaceAirWaterHeatpump`):** 
+    *   **Priority:** High. Since geothermal is not viable and no heat grid exists, an Air-Water heat pump is the most cost-effective and energy-efficient replacement for the existing boiler. 
+    *   **Synergy:** This system works perfectly with the existing floor heating.
+
+#### **Phase 3: Air Quality & Energy Generation (Sustainability)**
+*Goal: Improve indoor air quality and offset electricity costs.*
+
+6.  **Replace Ventilation System (`ReplaceVentilationSystem`):** 
+    *   **Priority:** Medium. Upgrading from System A (natural) to a more controlled system (e.g., System B or D) reduces heat loss through uncontrolled ventilation.
+7.  **Install Solar Panels (`PlacePVPanelsOnRoof`):** 
+    *   **Priority:** Final Step. The building has confirmed PV potential. 
+    *   **Synergy:** The PV panels will provide the electricity needed to run the new Air-Water Heat Pump, drastically reducing long-term operational costs.
+
+---
+
+### **Summary of the Optimal Sequence**
+**Insulation (Roof $\rightarrow$ Floor $\rightarrow$ Walls) $\longrightarrow$ Heating System (Emission $\rightarrow$ Generation) $\longrightarrow$ Ventilation $\longrightarrow$ PV Panels.**
+
+### **Cost-Effectiveness & Efficiency Justification**
+*   **Energy Efficiency:** By insulating the shell first, we reduce the total kWh required to heat the home. This allows for a smaller, cheaper heat pump with a higher Coefficient of Performance (COP).
+*   **Cost-Effectiveness:** We avoid replacing the windows (already double-glazed and in good state) and avoid expensive, non-viable geothermal drilling.
+*   **Long-term Performance:** The combination of a tight thermal envelope, a low-temperature heat pump, and roof-mounted PV panels creates a nearly self-sustaining energy loop, significantly improving the EPC label from **D** toward **A/B**.

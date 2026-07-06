@@ -1,0 +1,52 @@
+### Renovation Plan for the Building
+
+Given the building's characteristics (attached, constructed in 1832, EPC score of 262), the primary goal is to improve the EPC label through cost-effective measures that prioritize energy efficiency. The renovation plan follows a "fabric-first" approach, focusing on thermal envelope optimization before addressing heating systems.
+
+#### **Phase 1: Thermal Envelope Optimization**
+1. **Insulate Flat Roof (RoofExtension)**
+   - **Action:** Insulate the flat roof to reduce heat loss through the roof.
+   - **Rationale:** The flat roof is currently not insulated, making it a priority for heat retention.
+
+2. **Insulate Wall on Exterior (Wall_Front, Wall_Rear)**
+   - **Action:** Apply exterior insulation to the front and rear walls.
+   - **Rationale:** Both walls are full brick and not insulated. Exterior insulation is more effective than interior insulation for full brick walls.
+
+3. **Insulate Floor Above Basement (FloorAboveBasement)**
+   - **Action:** Insulate the floor above the basement.
+   - **Rationale:** The floor is currently not insulated, leading to heat loss to the basement.
+
+#### **Phase 2: Window Performance**
+4. **Replace Glazing (WindowsBedrooms, WindowsLivingArea)**
+   - **Action:** Replace the double glazing with triple glazing.
+   - **Rationale:** Upgrading to triple glazing will further improve the thermal performance of the windows, reducing heat loss.
+
+#### **Phase 3: Heating System Transition**
+5. **Place Air-Water Heat Pump**
+   - **Action:** Install an air-water heat pump as the primary heating system.
+   - **Rationale:** The current boiler can be replaced with a more efficient and sustainable heat pump, which is suitable for the building's reduced heat demand after insulation.
+
+6. **Place Emission System on Low Temperature**
+   - **Action:** Upgrade the emission system to operate at lower temperatures.
+   - **Rationale:** This ensures compatibility with the heat pump and maximizes its efficiency.
+
+#### **Phase 4: Ventilation Upgrade**
+7. **Replace Ventilation System**
+   - **Action:** Upgrade from Ventilation System A (natural) to a more efficient system (e.g., System C or D).
+   - **Rationale:** A more efficient ventilation system ensures proper air exchange in a now-sealed envelope, preventing moisture buildup and maintaining indoor air quality.
+
+#### **Phase 5: Sustainable Energy Generation**
+8. **Place PV-Panels on Roof**
+   - **Action:** Install photovoltaic (PV) panels on the roof.
+   - **Rationale:** The building has confirmed potential for PV, which can offset the electricity consumption of the heat pump and ventilation system, further improving the EPC label.
+
+### **Summary of Optimal Sequence**
+1. **Insulate Flat Roof**
+2. **Insulate Walls on Exterior**
+3. **Insulate Floor Above Basement**
+4. **Replace Glazing**
+5. **Place Air-Water Heat Pump**
+6. **Place Emission System on Low Temperature**
+7. **Replace Ventilation System**
+8. **Place PV-Panels on Roof**
+
+This sequence ensures that the building's thermal envelope is optimized first, followed by upgrades to the heating and ventilation systems, and finally the addition of renewable energy sources. This approach maximizes energy efficiency and cost-effectiveness while improving the EPC label.

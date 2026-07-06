@@ -1,0 +1,28 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building, I propose a **"Fabric First"** renovation strategy. By prioritizing the building envelope before upgrading technical systems, we ensure that the new heating system is sized correctly and operates at peak efficiency.
+
+### Phase 1: Thermal Envelope Optimization (The Shell)
+The building's energy score (262 kWh/m²year) is primarily driven by the lack of insulation in the walls and floor.
+1.  **Insulate Flat Roof:** The roof extension is currently not insulated. This is a high-priority, low-hanging fruit for reducing heat loss.
+2.  **Insulate Wall on Exterior:** Both the front and rear full-brick walls are not insulated. Exterior insulation is the most effective way to eliminate thermal bridges and protect the 1832 structure from moisture.
+3.  **Insulate Floor Above Basement:** The floor is currently not insulated; adding insulation here prevents significant heat loss to the basement and improves ground-floor thermal comfort.
+
+### Phase 2: Ventilation & Air Quality
+Before sealing the house with high-performance insulation, the ventilation must be addressed to prevent humidity issues.
+4.  **Replace Ventilation System:** Upgrade from System A (natural supply) to a more efficient system (such as System D) to recover heat from exhaust air and maintain air quality in a better-insulated home.
+
+### Phase 3: Low-Carbon Heating Transition
+With the heat demand reduced by Phase 1, we can now replace the outdated boiler with a high-efficiency system.
+5.  **Place Emission System on Low Temperature:** To maximize the efficiency of a heat pump, the existing radiators should be replaced with low-temperature emitters (e.g., underfloor heating or oversized radiators).
+6.  **Place Air-Water Heat Pump:** Since the site has no potential for geothermal drilling and no heat grid is available, an air-water heat pump is the most cost-effective and sustainable alternative to the current boiler.
+
+### Phase 4: Renewable Energy Integration
+The final step is to transition from energy efficiency to energy production.
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will offset the electricity consumption of the new heat pump and significantly improve the EPC label.
+
+### Summary of the Optimal Sequence
+**Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor) $\rightarrow$ Ventilation $\rightarrow$ Low-Temp Emitters $\rightarrow$ Heat Pump $\rightarrow$ PV Panels.**
+
+**Why this path?**
+*   **Cost-Effectiveness:** By insulating first, you reduce the required capacity (and thus the cost) of the heat pump.
+*   **Energy Efficiency:** Upgrading to a heat pump without first insulating the walls and floor would lead to higher operational costs and potential under-performance.
+*   **Practicality:** It addresses the "Not Insulated" status of the majority of the building's elements while leveraging the existing "Good State" of the windows and main roof.

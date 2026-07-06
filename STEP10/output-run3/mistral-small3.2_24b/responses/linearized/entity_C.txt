@@ -1,0 +1,47 @@
+### Renovation Plan
+
+**Current State:**
+- **Building Type:** Attached building
+- **Construction Year:** 2023
+- **Energy Performance Certificate (EPC) Score:** 50
+- **Potential for PV:** False
+- **Presence of Heat Grid:** False
+- **Insulation Status:**
+  - **Floor Above Basement:** Well insulated
+  - **Wall Front:** Well insulated
+  - **Wall Rear:** Well insulated
+  - **Roof Extension:** Well insulated
+  - **Roof Main:** Moderately insulated
+- **Ventilation System:** Ventilation System D
+- **Heating System:** Electric Convector
+- **Glazing:**
+  - **Bedrooms:** Double glazing, changed during renovation
+  - **Living Area:** Double glazing, changed during renovation
+- **Owner's Motivation:** To improve EPC
+
+**Renovation Plan:**
+
+1. **Insulate Roof Main:**
+   - **Action:** Insulate the Roof Main to improve insulation grade from Moderately Insulated to Well Insulated.
+   - **Rationale:** Enhances thermal performance and reduces heat loss through the roof.
+
+2. **Replace Emission System:**
+   - **Action:** Replace the current Electric Convector with a more energy-efficient system, such as a Heat Pump.
+   - **Rationale:** Improves heating efficiency and reduces energy consumption.
+
+3. **Install PV Panels:**
+   - **Action:** Although the potential for PV is false, consider installing solar panels to offset electricity consumption.
+   - **Rationale:** Reduces reliance on grid electricity and lowers energy costs.
+
+**Summary of Sequence and Rationale:**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Roof Main** | Enhances thermal performance and reduces heat loss through the roof. |
+| **2** | **Replace Emission System** | Improves heating efficiency and reduces energy consumption. |
+| **3** | **Install PV Panels** | Reduces reliance on grid electricity and lowers energy costs. |
+
+**Note:**
+- Ensure that all renovations comply with local regulations and standards.
+- Consult with a professional to assess the feasibility and cost-effectiveness of the proposed actions.
+- Regularly monitor the energy performance of the building to track improvements and identify areas for further optimization.

@@ -1,0 +1,62 @@
+### Renovation Plan for the Building
+
+Based on the provided building data and the RENO ontology, the property is a semi-detached building from 1951 with an EPC score of 388 (D Label). The owner's primary motivation is to improve the EPC rating.
+
+To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate"** sequence. Upgrading heating systems before the building envelope is sealed leads to oversized equipment and wasted energy.
+
+### Proposed Renovation Path
+
+#### Phase 1: Strengthening the Building Envelope (Priority: High)
+The building has significant heat loss through non-insulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+
+1. **Insulate Walls on Exterior:**
+   - Both `Wall_Front` and `Wall_Rear` are full brick and not insulated.
+   - Since they are not cavity walls, exterior insulation is the most effective method to eliminate thermal bridges.
+
+2. **Insulate Flat Roof:**
+   - The `RoofExtension` is currently moderately insulated.
+   - Insulating the flat roof is a priority as heat rises rapidly through flat sections.
+
+3. **Insulate Floor Above Basement:**
+   - The `FloorAboveBasement` is currently not insulated.
+   - Adding insulation here prevents cold drafts from the basement.
+
+*Note: Windows are already double-glazed and frames are in a "Good State," so replacing them is not recommended at this stage to maintain cost-effectiveness.*
+
+#### Phase 2: Heating & Emission System Transition (Priority: Medium)
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+4. **Place Air-Water Heat Pump:**
+   - Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+
+5. **Place Emission System on Low Temperature:**
+   - Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+#### Phase 3: Air Quality and Ventilation (Priority: High)
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System:**
+   - Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof:**
+   - The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Exterior Walls $\rightarrow$ Flat Roof $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Heating Transition (Low-Temp Emissions $\rightarrow$ Air-Water Heat Pump)** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **3** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+| **4** | **PV Panels** | Offsets the electricity consumption of the new heat pump and ventilation system. |
+
+### Final Notes
+
+- **Cost-Effectiveness:** The proposed sequence prioritizes actions that provide the highest return on investment first.
+- **Energy Efficiency:** Each step builds upon the previous one to ensure that the building's energy performance is maximized.
+- **Sustainability:** The final step of installing PV panels ensures that the building is powered by renewable energy, further reducing its carbon footprint.
+
+By following this plan, the building's EPC rating will improve significantly, and the owner's motivation to increase thermal comfort and reduce energy costs will be met.

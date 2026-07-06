@@ -1,0 +1,112 @@
+### Renovation Plan for the Building
+
+Given the provided information, here is a concise and actionable renovation plan that focuses on energy efficiency and cost-effectiveness while maximizing the benefits of each renovation step:
+
+#### 1. **Insulate the Roof (Priority: High)**
+   - **Action**: Insulate the gable roof (RoofMain).
+   - **Reason**: The current insulation grade is "Not Insulated," which significantly impacts energy efficiency.
+   - **Details**:
+     - **Type**: Insulate Gable Roof (https://w3id.org/reno#InsulateGableRoof)
+     - **Nuisance Level**: Low
+     - **Ordering**: 28
+     - **Permit Needed**: Not necessary (Flanders)
+     - **Requires Multi-Phase**: No
+   - **Benefits**:
+     - Improves thermal comfort.
+     - Reduces energy consumption for heating.
+     - Contributes to achieving a better EPC label.
+
+#### 2. **Insulate the Flat Roof (Priority: High)**
+   - **Action**: Insulate the flat roof (RoofExtension).
+   - **Reason**: The current insulation grade is "Moderately Insulated," which can be improved for better energy efficiency.
+   - **Details**:
+     - **Type**: Insulate Flat Roof (https://w3id.org/reno#InsulateFlatRoof)
+     - **Nuisance Level**: High
+     - **Ordering**: 25
+     - **Permit Needed**: Only if thickness of total pack >26cm (Flanders)
+     - **Requires Multi-Phase**: No
+   - **Benefits**:
+     - Enhances thermal performance.
+     - Reduces heat loss through the roof.
+     - Contributes to achieving a better EPC label.
+
+#### 3. **Replace the Ventilation System (Priority: Medium)**
+   - **Action**: Replace the existing ventilation system (VentilationSystem) with a more efficient system.
+   - **Reason**: The current system is a Ventilation System A, which may not be the most energy-efficient option.
+   - **Details**:
+     - **Type**: Replace Ventilation System (https://w3id.org/reno#ReplaceVentilationSystem)
+     - **Nuisance Level**: Moderate
+     - **Ordering**: 52
+     - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+     - **Requires Multi-Phase**: Maybe, depending on the system
+   - **Benefits**:
+     - Improves air quality and energy efficiency.
+     - Reduces energy consumption for ventilation.
+     - Contributes to achieving a better EPC label.
+
+#### 4. **Insulate the Walls (Priority: Medium)**
+   - **Action**: Insulate the walls (Wall_Front, Wall_Rear, Wall_Right) on the exterior.
+   - **Reason**: The current insulation grade is "Not Insulated," which significantly impacts energy efficiency.
+   - **Details**:
+     - **Type**: Insulate Wall on Exterior (https://w3id.org/reno#InsulateWallExterior)
+     - **Nuisance Level**: High
+     - **Ordering**: 40
+     - **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders)
+     - **Requires Multi-Phase**: No
+   - **Benefits**:
+     - Enhances thermal performance.
+     - Reduces heat loss through the walls.
+     - Contributes to achieving a better EPC label.
+
+#### 5. **Insulate the Floor Above Basement (Priority: Low)**
+   - **Action**: Insulate the floor above the basement (FloorAboveBasement).
+   - **Reason**: The current insulation grade is "Not Insulated," which can be improved for better energy efficiency.
+   - **Details**:
+     - **Type**: Insulate Floor Above Basement (https://w3id.org/reno#InsulateFloorAboveBasement)
+     - **Nuisance Level**: Low
+     - **Ordering**: 49
+     - **Permit Needed**: Not necessary (Flanders)
+     - **Requires Multi-Phase**: No
+   - **Benefits**:
+     - Enhances thermal performance.
+     - Reduces heat loss through the floor.
+     - Contributes to achieving a better EPC label.
+
+#### 6. **Place PV Panels on the Roof (Priority: Low)**
+   - **Action**: Place PV panels on the roof (RoofMain).
+   - **Reason**: The building has potential for PV installation, which can significantly reduce energy costs and improve sustainability.
+   - **Details**:
+     - **Type**: Place PV-panels on roof (https://w3id.org/reno#PlacePVPanelsOnRoof)
+     - **Nuisance Level**: Low
+     - **Ordering**: 85
+     - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+     - **Requires Multi-Phase**: Maybe, depending on the system
+   - **Benefits**:
+     - Generates renewable energy.
+     - Reduces dependence on the grid.
+     - Contributes to achieving a better EPC label.
+
+#### 7. **Replace the Window Glazing (Priority: Medium)**
+   - **Action**: Replace the glazing of the windows in the bedrooms and living area with more energy-efficient glazing.
+   - **Reason**: The current glazing is double glazing, which can be upgraded to triple glazing for better insulation.
+   - **Details**:
+     - **Type**: Replace Glazing (https://w3id.org/reno#ReplaceGlazing)
+     - **Nuisance Level**: High
+     - **Ordering**: 43
+     - **Permit Needed**: Not necessary (Flanders)
+     - **Requires Multi-Phase**: No
+   - **Benefits**:
+     - Enhances thermal performance.
+     - Reduces heat loss through the windows.
+     - Contributes to achieving a better EPC label.
+
+### Summary of Actions:
+1. Insulate the gable roof.
+2. Insulate the flat roof.
+3. Replace the ventilation system.
+4. Insulate the walls on the exterior.
+5. Insulate the floor above the basement.
+6. Place PV panels on the roof.
+7. Replace the window glazing.
+
+This plan prioritizes actions based on their impact on energy efficiency, cost-effectiveness, and the ordering specified in the ontology. Each step is designed to maximize the benefits of subsequent renovations, ensuring a comprehensive and efficient upgrade of the building's energy performance.

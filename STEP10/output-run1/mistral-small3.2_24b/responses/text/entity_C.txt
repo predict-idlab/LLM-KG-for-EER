@@ -1,0 +1,37 @@
+Given the information provided, your house is relatively new (built in 2023) and already has a good level of insulation in key areas (exterior walls, flat-roof extension, and floor above the basement). The current EPC score is 50, which is already quite good, indicating that the house is performing well in terms of energy efficiency. However, there are still opportunities for improvement, particularly in heating systems and ventilation.
+
+### Proposed Renovation Path
+
+**Phase 1: Heating System Upgrade (Priority: High)**
+Since the thermal envelope is already well-insulated, the next step is to upgrade the heating system to a more efficient and sustainable solution.
+
+1. **Replace Boiler with Air-Water Heat Pump:**
+   - The current boiler is connected to underfloor heating and electric convectors, which are no longer in good condition.
+   - An **Air-Water Heat Pump** is the most viable and efficient alternative, given the lack of district heating and geothermal potential.
+   - This will significantly reduce energy consumption and improve the EPC score.
+
+2. **Upgrade Emission Systems:**
+   - Ensure that the underfloor heating system is compatible with the new heat pump.
+   - If necessary, replace electric convectors with more efficient low-temperature emission systems to maximize the Coefficient of Performance (COP) of the heat pump.
+
+**Phase 2: Ventilation System Optimization (Priority: Medium)**
+The house already has a ventilation system D, which is efficient. However, ensuring it is well-maintained and optimized can further improve energy efficiency.
+
+3. **Maintain and Optimize Ventilation System D:**
+   - Regularly service the ventilation system to ensure it operates at peak efficiency.
+   - Consider adding heat recovery functionality if not already present to reduce heat loss through ventilation.
+
+**Phase 3: Sustainable Energy Generation (Priority: Long-term)**
+The house already has photovoltaic (PV) panels installed, which is excellent for generating renewable energy. To maximize their benefits:
+
+4. **Optimize PV Panel Performance:**
+   - Ensure the PV panels are regularly cleaned and maintained.
+   - Consider adding a battery storage system if not already present to store excess energy for use during peak times or when the panels are not generating electricity.
+
+### Summary of Optimal Sequence
+1. **Replace Boiler with Air-Water Heat Pump** $\rightarrow$
+2. **Upgrade Emission Systems** $\rightarrow$
+3. **Maintain and Optimize Ventilation System D** $\rightarrow$
+4. **Optimize PV Panel Performance**.
+
+This plan focuses on upgrading the heating system first, as it offers the most significant immediate improvement in energy efficiency. The ventilation system and PV panels are already in good condition, so optimizing their performance will further enhance the overall energy performance of the house.

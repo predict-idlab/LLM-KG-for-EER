@@ -1,0 +1,43 @@
+Given that your home is very recent (built/renovated around 2023-2024) and already possesses several high-efficiency features (System D ventilation, PV panels, and well-insulated walls/floors), you are starting from a very strong baseline. An EPC of 50 is already quite efficient, but to push it further and eliminate the inefficiency of electric convectors, you should focus on the **heating transition**.
+
+The most cost-effective and energy-efficient path is to move toward a **low-temperature heating system** powered by electricity, leveraging your existing PV panels.
+
+### Recommended Renovation Path
+
+#### Phase 1: Envelope Optimization (The "Quick Win")
+Before upgrading the heating system, you must ensure the house retains as much heat as possible to allow for a smaller, cheaper heat pump.
+*   **Target:** Main Pitched Roof.
+*   **Action:** Upgrade the "moderate" insulation to "high" insulation. Depending on the roof structure, adding a layer of mineral wool or PIR boards in the attic space is a low-cost investment with a high impact on the EPC score.
+*   **Why:** Heat rises. Improving the roof insulation reduces the total heating load, meaning your new heating system will work less and cost less to operate.
+
+#### Phase 2: Heat Emission Upgrade (The "Efficiency Gap")
+Replacing the boiler without addressing the electric convectors would be a mistake, as electric convectors are the least efficient way to heat a home.
+*   **Target:** Electric Convectors and existing Underfloor Heating (UFH).
+*   **Action:** 
+    1.  **Eliminate Electric Convectors:** Replace these with either an extension of the underfloor heating system or **low-temperature radiators** (oversized radiators designed for heat pumps).
+    2.  **UFH Audit:** Ensure the existing underfloor heating loops are cleaned and optimized for low-temperature water.
+*   **Why:** Electric convectors create "cold spots" and spikes in energy consumption. Moving to a unified hydronic (water-based) system allows for a single, efficient energy source.
+
+#### Phase 3: Heat Generation Transition (The "Core Upgrade")
+Now that the house is airtight (System D) and well-insulated, you can replace the boiler with a sustainable alternative.
+*   **Target:** The Boiler.
+*   **Action:** Install an **Air-to-Water Heat Pump**.
+*   **Why:** 
+    *   **Synergy with PV:** Since you already have photovoltaic panels, you can use your own solar electricity to power the heat pump, potentially bringing your operational energy costs close to zero.
+    *   **Synergy with UFH:** Heat pumps are most efficient when delivering water at low temperatures (35-45°C), which is exactly what underfloor heating requires.
+    *   **Local Context:** In Ghent/Flanders, subsidies for heat pumps are generally more favorable than for gas boilers.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Action | Priority | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Roof Insulation** | High | Moderate $\uparrow$ | Very High (Low cost/High gain) |
+| **2** | **Replace Convectors** | High | High $\uparrow$ | High (Removes energy sinks) |
+| **3** | **Air-to-Water Heat Pump** | Medium | Very High $\uparrow$ | Medium (Higher Capex, lower Opex) |
+
+### Final Expert Advice for Ghent/Belgium:
+1.  **Check Flemish Subsidies:** Before starting, check the *Mijn VerbouwPremie* (My Renovation Premium) or regional Flemish grants. Replacing a boiler with a heat pump and improving insulation often qualifies for significant financial aid.
+2.  **System D Integration:** Ensure your System D ventilation is well-balanced. Since you have a highly airtight house, the heat recovery from the ventilation system is already doing a lot of the heavy lifting; the heat pump simply maintains the baseline temperature.
+3.  **Avoid Geothermal:** Since you noted the site is not suitable for geothermal, the Air-to-Water pump is your absolute best technical alternative.

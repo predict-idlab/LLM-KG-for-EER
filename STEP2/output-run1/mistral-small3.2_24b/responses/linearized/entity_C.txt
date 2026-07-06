@@ -1,0 +1,70 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+**Objective:** Improve the energy efficiency of the building while maintaining cost-effectiveness.
+
+**Current State:**
+- **Energy Performance Certificate (EPC) Score:** 50
+- **Net Floor Area:** 159.0 m²
+- **Building Type:** Attached, with a gable roof (RoofMain) and a flat roof extension (RoofExtension)
+- **Insulation Grades:**
+  - **Wall Front:** Well Insulated
+  - **Wall Rear:** Well Insulated
+  - **RoofMain:** Moderately Insulated
+  - **RoofExtension:** Well Insulated
+  - **FloorAboveBasement:** Well Insulated
+- **Heating System:** FloorHeating and ElectricConvector
+- **Windows:**
+  - **Living Area:** Double Glazing (changed during a renovation intervention)
+  - **Bedrooms:** Double Glazing
+- **Ventilation System:** VentilationSystemD
+- **PV Panels:** Present
+- **Potential for Geothermal Drilling:** None
+- **Heat Grid Availability:** None
+- **Owner's Motivation:** To improve the EPC
+
+**Recommended Renovations:**
+
+1. **Insulate Gable Roof (RoofMain):**
+   - **Action:** Upgrade insulation to Well Insulated.
+   - **Reasoning:** The current insulation is Moderately Insulated, which can be improved for better energy efficiency.
+   - **Cost:** Moderate (unit price: 60 EUR/m², nuisance level: low).
+
+2. **Replace Glazing (WindowsLivingArea and WindowsBedrooms):**
+   - **Action:** Replace existing double glazing with higher-performance double or triple glazing.
+   - **Reasoning:** Upgrading glazing can significantly improve thermal performance and reduce heat loss.
+   - **Cost:** High (unit price: 200 EUR/m², nuisance level: high).
+
+3. **Replace Ventilation System:**
+   - **Action:** Upgrade from VentilationSystemD to a more efficient system like VentilationSystemA or VentilationSystemB.
+   - **Reasoning:** Improved ventilation can enhance indoor air quality and energy efficiency.
+   - **Cost:** Moderate (unit price: 17 EUR/m², nuisance level: moderate).
+
+4. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump to replace the current ElectricConvector.
+   - **Reasoning:** Heat pumps are more energy-efficient for heating and can reduce energy consumption.
+   - **Cost:** Moderate (unit price: 35 EUR/m², nuisance level: moderate).
+
+5. **Insulate Attic Floor:**
+   - **Action:** Insulate the attic floor if not already done.
+   - **Reasoning:** Attic insulation can prevent heat loss through the roof and improve overall energy efficiency.
+   - **Cost:** Low (unit price: 60 EUR/m², nuisance level: low).
+
+6. **Place PV Panels on Roof:**
+   - **Action:** Expand the existing PV panel installation or optimize the current setup.
+   - **Reasoning:** Solar panels can generate renewable energy, reducing reliance on grid electricity.
+   - **Cost:** Moderate (unit price: 275 EUR/m², nuisance level: low).
+
+**Implementation Sequence:**
+1. **Insulate Gable Roof** (to improve overall building envelope performance).
+2. **Replace Glazing** (to enhance window performance).
+3. **Replace Ventilation System** (to improve indoor air quality and energy efficiency).
+4. **Place Air-Water Heat Pump** (to upgrade the heating system).
+5. **Insulate Attic Floor** (to complete the building envelope improvements).
+6. **Place PV Panels on Roof** (to maximize renewable energy generation).
+
+**Expected Outcomes:**
+- **Improved EPC Score:** The combined upgrades should significantly improve the energy efficiency of the building, leading to a better EPC score.
+- **Reduced Energy Consumption:** Enhanced insulation, efficient heating, and renewable energy generation will lower energy usage.
+- **Cost Savings:** Lower energy bills and potential incentives for renewable energy installations.
+
+**Note:** Always consult with local regulations and professionals to ensure compliance and optimal implementation of the renovation plan.

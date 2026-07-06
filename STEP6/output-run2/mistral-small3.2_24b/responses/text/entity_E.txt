@@ -1,0 +1,56 @@
+Given the specifics of your detached house in Ghent, Belgium (built in 1862, 136 m², EPC score of 165), here’s a tailored, cost-effective renovation plan to maximize energy efficiency. The approach follows a "fabric-first" strategy, prioritizing insulation and airtightness before upgrading heating systems.
+
+---
+
+### **Proposed Renovation Path**
+
+#### **Phase 1: Thermal Envelope Optimization (Fabric First)**
+1. **Insulate Cavity Walls (Front, Rear, Left, Right)**
+   - Since the walls are cavity walls (not solid brick), filling the cavities with insulation (e.g., mineral wool or foam) is highly cost-effective and reduces heat loss significantly.
+   - *Rationale:* Cavity wall insulation is one of the most impactful upgrades for older homes with uninsulated walls.
+
+2. **Insulate Floor Above Crawl Space**
+   - If the floor above the crawl space is uninsulated, adding insulation (e.g., rigid foam boards or mineral wool) will reduce drafts and heat loss to the crawl space.
+   - *Rationale:* Crawl spaces are a common source of heat loss in older homes.
+
+3. **Assess and Insulate Roof (if needed)**
+   - The main roof is already well-insulated, so no action is needed here. However, if there are any gaps or degraded insulation, sealing them would be beneficial.
+
+#### **Phase 2: Window Upgrades**
+4. **Replace Single Glazing with Double or Triple Glazing**
+   - The wooden frames are in good condition, so only the glazing needs replacement. Double glazing (or triple if budget allows) will drastically improve thermal performance.
+   - *Rationale:* Single glazing is a major source of heat loss, and upgrading to double/triple glazing is a high-impact improvement.
+
+#### **Phase 3: Heating System Transition**
+5. **Replace Boiler with an Air-Water Heat Pump**
+   - Since geothermal and district heating are not options, an air-water heat pump is the most efficient and sustainable replacement for the old boiler.
+   - *Rationale:* Heat pumps work best in well-insulated homes, so this upgrade should come after insulating the envelope.
+
+6. **Upgrade Emission Systems to Low-Temperature**
+   - Replace old radiators and electric convectors with low-temperature underfloor heating or modern radiators designed for heat pumps.
+   - *Rationale:* Heat pumps operate more efficiently with low-temperature emission systems.
+
+#### **Phase 4: Ventilation Upgrade**
+7. **Replace Natural Ventilation with a Mechanical System (e.g., System C or D)**
+   - A controlled mechanical ventilation system (with heat recovery if possible) ensures good air quality while minimizing heat loss.
+   - *Rationale:* Natural ventilation leads to uncontrolled air leakage, which wastes energy.
+
+#### **Phase 5: Sustainable Energy Generation (Optional but Recommended)**
+8. **Install Photovoltaic (PV) Panels**
+   - Since the house has potential for PV panels, installing them will offset the electricity consumption of the heat pump and ventilation system.
+   - *Rationale:* PV panels improve self-sufficiency and further reduce energy costs.
+
+---
+
+### **Optimal Sequence Summary**
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| **1**    | Insulate Cavity Walls | Reduces heat loss through exterior walls. |
+| **2**    | Insulate Floor Above Crawl Space | Eliminates drafts and heat loss to the crawl space. |
+| **3**    | Replace Single Glazing with Double/Triple Glazing | Minimizes heat loss through windows. |
+| **4**    | Install Air-Water Heat Pump | Replaces inefficient boiler with a sustainable heating system. |
+| **5**    | Upgrade Emission Systems to Low-Temperature | Optimizes heat pump efficiency. |
+| **6**    | Upgrade Ventilation System | Ensures air quality in a sealed envelope. |
+| **7**    | Install PV Panels (Optional) | Generates renewable energy for the heat pump and ventilation. |
+
+This plan ensures that each upgrade maximizes energy efficiency while keeping costs in check.

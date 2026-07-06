@@ -1,0 +1,51 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### **1. Insulate Walls (Cavity Wall Insulation)**
+- **Action:** Insulate the cavity walls (Wall_Front, Wall_Left, Wall_Rear, Wall_Right) using cavity wall insulation.
+- **Rationale:** The walls are currently not insulated (reno:NotInsulated), and cavity wall insulation is cost-effective and improves thermal performance.
+- **Ordering:** 34 (from the ontology).
+- **Cost:** ~€22/m².
+
+#### **2. Replace Single Glazing with Double Glazing**
+- **Action:** Replace the single glazing (WindowGlazingBedrooms, WindowGlazingLivingArea) with double glazing.
+- **Rationale:** Single glazing has poor thermal properties, and double glazing significantly improves energy efficiency.
+- **Ordering:** 43 (from the ontology).
+- **Cost:** ~€200/m².
+
+#### **3. Insulate Attic Floor**
+- **Action:** Insulate the attic floor (if applicable) to reduce heat loss through the roof.
+- **Rationale:** The roof (RoofMain) is already well-insulated, but insulating the attic floor further improves energy efficiency.
+- **Ordering:** 31 (from the ontology).
+- **Cost:** ~€60/m².
+
+#### **4. Replace Ventilation System**
+- **Action:** Replace the existing ventilation system (VentilationSystemA) with a more efficient system (e.g., VentilationSystemC or D).
+- **Rationale:** Upgrading the ventilation system can improve indoor air quality and energy efficiency.
+- **Ordering:** 52 (from the ontology).
+- **Cost:** ~€3500 (fixed) + €17/m².
+
+#### **5. Install PV Panels on the Roof**
+- **Action:** Place PV panels on the roof (RoofMain) to generate renewable energy.
+- **Rationale:** The building has potential for PV (reno:hasPotentialForPV true), and installing PV panels can reduce energy costs and carbon footprint.
+- **Ordering:** 85 (from the ontology).
+- **Cost:** ~€275/m².
+
+#### **6. Consider Heat Pump Installation**
+- **Action:** Evaluate the feasibility of installing a heat pump (e.g., air-water heat pump) to replace the existing emission system (EmissionSystem).
+- **Rationale:** Heat pumps are more energy-efficient than conventional heating systems, especially when combined with low-temperature emission systems.
+- **Ordering:** 67 (from the ontology).
+- **Cost:** ~€8000 (fixed) + €35/m².
+
+### **Optimal Sequence of Renovation Steps**
+1. **Insulate Walls** (Cavity Wall Insulation)
+2. **Replace Single Glazing with Double Glazing**
+3. **Insulate Attic Floor** (if applicable)
+4. **Replace Ventilation System**
+5. **Install PV Panels on the Roof**
+6. **Consider Heat Pump Installation**
+
+### **Additional Recommendations**
+- **Monitor Energy Performance:** After completing the renovations, monitor the energy performance to ensure the desired improvements.
+- **Regular Maintenance:** Ensure that the new systems (e.g., ventilation, PV panels) are regularly maintained to sustain their efficiency.
+
+This plan prioritizes cost-effective measures that maximize energy efficiency, aligning with the building's current state and the owner's motivation to improve the EPC.

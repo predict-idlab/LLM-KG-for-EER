@@ -1,0 +1,59 @@
+### Renovation Plan for Attached Building (EPC: 50.0)
+
+Given the building's high EPC score (A label), the focus should be on **maintaining efficiency** and **further optimizing performance** while ensuring **cost-effectiveness**. The current state indicates good insulation and modern systems, so the plan will prioritize **minimizing disruption** and **maximizing long-term savings**.
+
+---
+
+#### **Phase 1: Fine-Tuning Insulation (Low Disruption, High Impact)**
+1. **Insulate Gable Roof**
+   - The `RoofMain` is moderately insulated. Upgrading to **well-insulated** status will further reduce heat loss.
+   - *Cost:* €60/m² (low nuisance level).
+   - *Note:* Ensure vapour barrier is installed on the warm side of the insulation.
+
+2. **Insulate Flat Roof (if possible)**
+   - The `RoofExtension` is already well-insulated, but consider **inverted roof structure** for better thermal performance.
+   - *Cost:* €50/m² (high nuisance level, but long-term benefits).
+
+---
+
+#### **Phase 2: Heating System Optimization**
+3. **Place Low-Temperature Emission System**
+   - The current `EmissionSystem` (electric convector + floor heating) can be optimized for **lower temperature setpoints**, improving efficiency.
+   - *Cost:* €100/m² (moderate nuisance level).
+
+4. **Replace Ventilation System (if needed)**
+   - The `VentilationSystemD` is already mechanical, but verify if **heat recovery** is in place to minimize energy loss.
+   - *Cost:* €3,500 (fixed) + €17/m² (if ductwork changes are needed).
+
+---
+
+#### **Phase 3: Renewable Energy Integration**
+5. **Install Additional PV Panels**
+   - The building has **no PV potential** (`reno:hasPotentialForPV false`), but if this changes, consider:
+     - **Plug-and-Play PV Panels** (€550 fixed cost, low nuisance).
+     - *Note:* Check local regulations (e.g., Synergrid's homologation list in Belgium).
+
+---
+
+#### **Phase 4: Preventive Maintenance**
+6. **Monitor Window Frames**
+   - The wooden frames (`ex:WoodenWindowFrame`) are in good condition but may need **sealing or minor repairs** to maintain efficiency.
+   - *Cost:* Minimal (DIY-friendly).
+
+---
+
+### **Optimal Sequence & Rationale**
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| 1 | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| 2 | **Optimize Emission System** | Ensures heating system works efficiently with the existing insulation. |
+| 3 | **Ventilation Upgrade (if needed)** | Maintains air quality in a well-sealed building. |
+| 4 | **PV Installation (if feasible)** | Reduces reliance on grid electricity. |
+| 5 | **Window Maintenance** | Prevents future heat loss. |
+
+### **Key Considerations**
+- **Permits:** No major permits required for insulation or emission upgrades.
+- **Cost-Effectiveness:** Prioritize actions with the **highest ROI** (e.g., roof insulation before PV).
+- **Disruption:** Minimize nuisance by staggering high-disruption tasks (e.g., roof work in summer).
+
+This plan ensures **long-term energy efficiency** while keeping costs **controlled**.

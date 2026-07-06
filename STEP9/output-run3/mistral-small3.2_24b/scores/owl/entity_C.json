@@ -1,0 +1,14 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "place emission system on low temperature"
+    ],
+    "extra_actions": [
+      "replace glazing with triple glazing",
+      "upgrade ventilation system"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

@@ -1,0 +1,42 @@
+Based on the provided building data and the RENO ontology, here is the proposed renovation plan.
+
+### Building Analysis
+The property is a modern **semi-detached building (constructed in 2017)** with an already strong energy profile (**EPC score of 87**). Most critical elements—including the walls (Front, Left, and Rear), the flat roof extension, and the floor above the basement—are already **"Well Insulated."** The building is equipped with a **Heat Pump** and a **Ventilation System D**, which are high-efficiency standards.
+
+The primary opportunity for further energy reduction and EPC improvement lies in the only element not rated as "Well Insulated": the **Main Gable Roof**, which is currently **"Moderately Insulated."**
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the focus should be on completing the "thermal envelope" before considering expensive system upgrades.
+
+#### Step 1: Roof Insulation (High Priority)
+*   **Action:** `insulate gable roof`
+*   **Rationale:** The Gable Roof is the only significant thermal leak in the building envelope (Moderately Insulated). Bringing this up to a "Well Insulated" state will directly lower the energy score and improve thermal retention.
+*   **Practical Note:** According to the ontology, this is a low-nuisance intervention and generally does not require a permit in Flanders. Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### Step 2: Glazing Upgrade (Medium Priority / Long-term)
+*   **Action:** `replace glazing` (Upgrade from Double to Triple Glazing)
+*   **Rationale:** The building currently has double glazing. While sufficient, moving to triple glazing is the most effective way to further reduce the EPC score for a house that is already well-insulated.
+*   **Cost-Effectiveness:** Since the wooden window frames are in **"Good State,"** you can replace the glazing units without replacing the entire window frame, significantly reducing costs.
+
+#### Step 3: Emission System Optimization (Low Priority)
+*   **Action:** `place emission system on low temperature`
+*   **Rationale:** Because the building uses a Heat Pump, the system's efficiency is heavily dependent on the emission temperature. If the current space heaters are high-temperature, switching to low-temperature emitters (e.g., underfloor heating or oversized radiators) will maximize the Coefficient of Performance (COP) of the existing heat pump.
+
+---
+
+### Summary of Optimal Sequence & Impact
+
+| Sequence | Action | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High (Eliminates main heat loss) | Very High |
+| **2** | **Replace Glazing** | Medium (Further EPC reduction) | Medium (Glazing only) |
+| **3** | **Low-Temp Emission** | Medium (Optimizes Heat Pump) | Low/Medium |
+
+**Excluded Actions:** 
+*   **Wall/Floor Insulation:** Not necessary; already "Well Insulated."
+*   **PV Panels:** Not necessary; building already has PV panels.
+*   **Geothermal:** Not feasible; site has no potential for vertical or horizontal geothermal captation.
+*   **Heat Grid:** Not feasible; no heat grid is present in the area.

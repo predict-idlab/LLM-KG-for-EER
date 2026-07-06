@@ -1,0 +1,52 @@
+Based on the provided information, here's a concise and actionable renovation plan tailored to your attached house in Ghent, Belgium:
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Fabric First)
+1. **Insulate Flat Roof Extension**
+   - Priority: High (heat rises, significant heat loss)
+   - Action: Add insulation to the uninsulated flat-roof extension
+
+2. **Insulate Exterior Walls (Front and Rear)**
+   - Priority: High
+   - Action: Apply exterior insulation to solid brick walls (most effective for thermal bridges)
+
+3. **Insulate Floor Above Basement**
+   - Priority: Medium
+   - Action: Add insulation to prevent cold drafts from the basement
+
+#### Phase 2: Heating System Upgrade
+4. **Replace Boiler with Air-Water Heat Pump**
+   - Priority: High
+   - Action: Install an air-water heat pump (sustainable alternative to boiler)
+
+5. **Upgrade to Low-Temperature Emission System**
+   - Priority: Medium
+   - Action: Replace existing radiators with low-temperature emissions to maximize heat pump efficiency
+
+#### Phase 3: Ventilation Upgrade
+6. **Replace Natural Ventilation with System C or D**
+   - Priority: Medium
+   - Action: Install a balanced or demand-controlled ventilation system to maintain air quality in the sealed envelope
+
+#### Phase 4: Sustainable Energy Generation (Optional)
+7. **Install Photovoltaic Panels**
+   - Priority: Long-term
+   - Action: Add PV panels to generate renewable electricity for the heat pump and ventilation system
+
+### Summary of Optimal Sequence
+1. **Insulate Flat Roof**
+2. **Insulate Exterior Walls**
+3. **Insulate Floor Above Basement**
+4. **Install Air-Water Heat Pump**
+5. **Upgrade to Low-Temperature Emission System**
+6. **Replace Ventilation System**
+7. **Install PV Panels**
+
+### Rationale
+- **Fabric-first approach** ensures the building's thermal envelope is optimized before installing high-efficiency heating systems.
+- **Exterior insulation** is prioritized for walls to eliminate thermal bridges.
+- **Heat pump** is chosen due to the lack of district heating and geothermal potential.
+- **PV panels** are optional but recommended for long-term sustainability.
+
+This plan maximizes energy efficiency while remaining cost-effective.

@@ -1,0 +1,57 @@
+### Renovation Plan for Detached Building
+
+**Objective:** Improve energy efficiency and comfort, with a focus on EPC improvement.
+
+**Building Details:**
+- Detached building with cavity walls (4 walls, not insulated).
+- Gable roof (well insulated).
+- 2 spaces: living area and bedrooms.
+- Single glazed windows.
+- Electric convector heating system.
+- No heat grid available.
+- No potential for geothermal drilling.
+- No potential for PV installation.
+- EPC score: 165 kWh/m²/year.
+
+**Key Recommendations:**
+
+1. **Insulate Walls (High Priority):**
+   - **Action:** Insulate cavity walls on the interior (ordering 37).
+   - **Reason:** Walls are currently not insulated (NotInsulated).
+   - **Expected Outcome:** Improve thermal comfort and reduce energy consumption.
+   - **Note:** Insulating on the interior is less disruptive than exterior insulation.
+
+2. **Replace Glazing (High Priority):**
+   - **Action:** Replace single glazing with double or triple glazing (ordering 43).
+   - **Reason:** Single glazing has poor thermal and acoustic properties.
+   - **Expected Outcome:** Significantly reduce heat loss through windows and improve comfort.
+
+3. **Consider Ventilation System Upgrade (Medium Priority):**
+   - **Action:** Replace ventilation system with a more efficient system (ordering 52).
+   - **Reason:** Current system may not be adequate for maintaining good indoor air quality.
+   - **Expected Outcome:** Improve indoor air quality and potentially reduce energy consumption if combined with heat recovery.
+
+4. **Heating System Upgrade (Medium Priority):**
+   - **Action:** Consider replacing electric convector with a heat pump (e.g., air-water heat pump with cooling, ordering 73).
+   - **Reason:** Electric heating is generally less energy-efficient than heat pumps.
+   - **Expected Outcome:** Lower energy consumption and potentially lower energy bills.
+
+5. **Roof Maintenance (Low Priority):**
+   - **Action:** Ensure roof underlayment is properly installed (ordering 16).
+   - **Reason:** Proper underlayment prevents water infiltration and extends roof lifespan.
+   - **Expected Outcome:** Protect roof structure and prevent future issues.
+
+**Implementation Sequence:**
+1. Insulate walls (interior)
+2. Replace glazing
+3. Upgrade ventilation system
+4. Upgrade heating system
+5. Roof maintenance
+
+**Notes:**
+- Prioritize actions that address the building's largest sources of energy loss (walls and windows).
+- Consider combining actions where possible to minimize disruption (e.g., wall insulation and glazing replacement).
+- Verify local regulations and permits for any structural changes.
+- Consult with professionals for technical specifications and installation.
+
+This plan focuses on practical, cost-effective upgrades that will maximize energy efficiency improvements while respecting the building's existing characteristics.

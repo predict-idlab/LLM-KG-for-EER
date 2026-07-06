@@ -1,0 +1,41 @@
+To maximize energy efficiency and improve the EPC score for this 19th-century attached building, the renovation should follow the **"Envelope First"** principle. By reducing heat loss through the building shell before upgrading the heating system, we ensure that the new system is right-sized and operates at peak efficiency.
+
+### Analysis of Current State
+*   **Building Shell:** Significant heat loss is occurring through the **Flat Roof Extension**, **Floor Above Basement**, and **Exterior Walls** (all currently not insulated). The Gable Roof is only moderately insulated.
+*   **Windows:** Currently equipped with double glazing and wooden frames in good condition, meaning the frames can likely be retained while upgrading the glass.
+*   **Systems:** The building relies on a boiler and radiators. There is a stated reason to change the emission system, but the site lacks access to a heat grid or geothermal potential.
+*   **Renewables:** The building has high potential for PV installation.
+
+---
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Highest Priority)
+*The goal is to minimize heat demand to lower the required capacity of the future heating system.*
+1.  **Insulate Flat Roof:** The RoofExtension is currently not insulated. This is a critical area for heat loss.
+2.  **Insulate Floor Above Basement:** Addressing the ground-level heat loss is a cost-effective way to improve thermal comfort and EPC.
+3.  **Insulate Exterior Walls:** Both the Front and Rear walls (Full Brick) are not insulated. Exterior insulation is recommended over interior insulation to prevent moisture issues in a building from 1832 and to maximize usable interior space.
+4.  **Insulate Gable Roof:** Upgrade the existing moderate insulation to "well insulated" to eliminate the remaining thermal bridges at the top of the house.
+
+#### Phase 2: Glazing Upgrade
+*Since the wooden frames are in a "Good State," we avoid the cost of full window replacement.*
+5.  **Replace Glazing:** Upgrade from double glazing to **triple glazing**. This significantly reduces U-values without the nuisance and cost of replacing the entire window unit.
+
+#### Phase 3: HVAC System Transition
+*Now that the heat demand is lowered, we transition from fossil fuels to a sustainable energy source.*
+6.  **Place Air-Water Heat Pump:** Since the building currently uses radiators (which are compatible with low-temperature water systems) and lacks geothermal/grid options, an air-water heat pump is the most efficient and practical replacement for the existing boiler.
+
+#### Phase 4: Renewable Energy Integration
+*The final step is to offset the electricity consumption of the new heat pump.*
+7.  **Place PV-Panels on Roof:** Leverage the building's PV potential to generate clean energy, further reducing operational costs and improving the final EPC label.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Action | Logic |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Floor $\rightarrow$ Walls)** | Stops the "leakage" of energy; reduces the size/cost of the heat pump needed. |
+| **2** | **Replace Glazing** | Improves thermal comfort and EPC with minimal structural disruption. |
+| **3** | **Air-Water Heat Pump** | Replaces the inefficient boiler with a high-efficiency electric alternative. |
+| **4** | **PV-Panels** | Provides the energy to power the heat pump, maximizing long-term cost-effectiveness. |

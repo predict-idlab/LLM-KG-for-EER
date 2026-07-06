@@ -1,0 +1,52 @@
+Based on the provided RENO ontology and the specific data for the building, here is the proposed renovation path. 
+
+The strategy follows the **"Envelope-First"** principle: we first reduce the energy demand by improving the building shell, then optimize the ventilation and heating systems, and finally introduce renewable energy generation. This sequence prevents the common mistake of installing an oversized heating system for a leaky house.
+
+### Phase 1: Thermal Envelope Optimization (Demand Reduction)
+*Goal: Minimize heat loss to lower the required heating capacity.*
+
+1.  **Insulate Flat Roof (Roof Extension):** The flat roof is currently not insulated. This is a high-priority area for heat loss. 
+    *   *Action:* Apply insulation to the flat roof extension.
+    *   *Note:* Opt for an inverted roof structure to avoid condensation.
+2.  **Insulate Walls (Front and Rear):** Both walls are full brick and not insulated. 
+    *   *Action:* **Insulate Wall on Exterior**. While this has a higher nuisance level, it is significantly more energy-efficient than interior insulation for full brick walls.
+    *   *Constraint Check:* No historical protection is present, making this feasible.
+3.  **Insulate Floor Above Basement:** This is a "low-hanging fruit" renovation.
+    *   *Action:* Insulate the floor above the basement.
+    *   *Benefit:* Low cost and low nuisance with immediate impact on thermal comfort.
+
+### Phase 2: Air Quality and Distribution (System Efficiency)
+*Goal: Ensure healthy air circulation and prepare for low-temperature heating.*
+
+4.  **Replace Ventilation System:** The building currently uses System A (natural supply/exhaust), which is the least efficient.
+    *   *Action:* Upgrade to **Ventilation System C or D**. 
+    *   *Reasoning:* Once the walls and roof are insulated, the house becomes more airtight. A mechanical system is necessary to prevent humidity buildup and ensure air quality.
+5.  **Upgrade to Low-Temperature Emission:** The building currently uses standard radiators.
+    *   *Action:* Transition to a **Low-Temperature Emission system** (e.g., underfloor heating or oversized radiators).
+    *   *Reasoning:* This is a critical prerequisite for the efficiency of the heat pump planned in Phase 3.
+
+### Phase 3: Sustainable Generation (Energy Transition)
+*Goal: Replace fossil-fuel heating with electricity and renewable energy.*
+
+6.  **Install Air-Water Heat Pump:** The owner has a reason to change the emission system, and geothermal options (horizontal/vertical) are not possible for this site.
+    *   *Action:* Replace the existing boiler with an **Air-Water Heat Pump**.
+    *   *Benefit:* Maximizes energy efficiency by leveraging the low-temperature emission system installed in Phase 2.
+7.  **Install PV Panels on Roof:** The building has confirmed potential for PV.
+    *   *Action:* **Place PV-panels on the roof**.
+    *   *Benefit:* This offsets the electricity consumption of the new heat pump, drastically reducing long-term operational costs and improving the EPC label.
+
+---
+
+### Summary of the Renovation Sequence & Cost-Effectiveness
+
+| Order | Intervention | Priority | Nuisance | Cost Impact | Energy Impact |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Flat Roof Insulation | High | High | Moderate | High |
+| 2 | Exterior Wall Insulation | High | High | High | Very High |
+| 3 | Floor Insulation | Medium | Low | Low | Moderate |
+| 4 | Ventilation Upgrade | Medium | Moderate | Moderate | Moderate |
+| 5 | Low-Temp Emission | Medium | Moderate | Moderate | High (Enabler) |
+| 6 | Air-Water Heat Pump | Medium | Moderate | High | Very High |
+| 7 | PV Panels | Low | Low | Moderate | Very High (OpEx) |
+
+**Final Result:** By following this path, the building moves from a **C Label (262 kWh/m²year)** toward an **A or B Label**, satisfying the owner's primary motivation to improve the EPC while ensuring the investments are logically sequenced for maximum ROI.

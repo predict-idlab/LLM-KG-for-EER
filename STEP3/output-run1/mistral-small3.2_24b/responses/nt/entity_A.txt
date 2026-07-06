@@ -1,0 +1,95 @@
+### Renovation Plan for the Semi-Detached Building
+
+#### **1. Initial Assessment**
+The building is a semi-detached house constructed in 1951, with the following key characteristics:
+- **Energy Performance Certificate (EPC) Score**: 388 kWh/m²year (F label).
+- **Net Floor Area**: 149 m².
+- **Heating System**: Radiator (air heating) and ventilation system type A.
+- **Insulation**:
+  - **Walls**: Not insulated.
+  - **Roofs**: Not insulated.
+  - **Floor Above Basement**: Not insulated.
+- **Windows**: Double glazing.
+- **Owner's Motivation**: To improve the EPC.
+- **Potential for PV**: Yes.
+- **Heat Grid**: Not present.
+- **Resident**: Present.
+
+#### **2. Recommended Renovations**
+Based on the building's characteristics and the ontology's suggestion list, the following renovations are recommended to improve the building's energy efficiency:
+
+##### **A. Roof Insulation**
+- **Insulate Gable Roof (RoofMain)**:
+  - **Action**: Insulate the gable roof with a thickness of 240 mm.
+  - **Expected Energy Savings**: ~30%.
+  - **Estimated Cost**: ~€12,000 (€50/m² x 240 m²).
+  - **Permit Needed**: No.
+
+- **Insulate Flat Roof (RoofExtension)**:
+  - **Action**: Insulate the flat roof with a thickness of 240 mm.
+  - **Expected Energy Savings**: ~25%.
+  - **Estimated Cost**: ~€12,000 (€50/m² x 240 m²).
+  - **Permit Needed**: No.
+
+##### **B. Wall Insulation**
+- **Insulate Exterior Walls (Wall_Front, Wall_Rear, Wall_Right)**:
+  - **Action**: Insulate the exterior walls with a thickness of 140 mm.
+  - **Expected Energy Savings**: ~20%.
+  - **Estimated Cost**: ~€11,800 (€200/m² x 59 m²).
+  - **Permit Needed**: Yes, if the total pack thickness exceeds 26 cm.
+
+##### **C. Floor Insulation**
+- **Insulate Floor Above Basement (FloorAboveBasement)**:
+  - **Action**: Insulate the floor above the basement with a thickness of 100 mm.
+  - **Expected Energy Savings**: ~10%.
+  - **Estimated Cost**: ~€4,900 (€30/m² x 163 m²).
+  - **Permit Needed**: No.
+
+##### **D. Window and Glazing Upgrades**
+- **Replace Glazing (WindowsLivingArea, WindowsBedrooms)**:
+  - **Action**: Replace the double glazing with triple glazing.
+  - **Expected Energy Savings**: ~15%.
+  - **Estimated Cost**: ~€10,000 (€200/m² x 50 m²).
+  - **Permit Needed**: No.
+
+##### **E. Heating System Upgrade**
+- **Replace Emission System (EmissionSystem)**:
+  - **Action**: Replace the radiator with a heat pump boiler.
+  - **Expected Energy Savings**: ~35%.
+  - **Estimated Cost**: ~€4,000.
+  - **Permit Needed**: No.
+
+##### **F. Additional Recommendations**
+- **Install PV Panels**:
+  - **Action**: Install PV panels on the roof with a capacity of 6 kWp.
+  - **Expected Energy Savings**: ~20%.
+  - **Estimated Cost**: ~€6,000.
+  - **Permit Needed**: No.
+
+- **Improve Ventilation System**:
+  - **Action**: Upgrade the ventilation system from type A to type C.
+  - **Expected Energy Savings**: ~5%.
+  - **Estimated Cost**: ~€1,700 (€17/m² x 100 m²).
+  - **Permit Needed**: No.
+
+#### **3. Implementation Timeline**
+The renovations should be carried out in the following order to maximize efficiency and minimize disruption:
+1. **Roof Insulation** (RoofMain and RoofExtension).
+2. **Wall Insulation** (Wall_Front, Wall_Rear, Wall_Right).
+3. **Floor Insulation** (FloorAboveBasement).
+4. **Window and Glazing Upgrades** (WindowsLivingArea, WindowsBedrooms).
+5. **Heating System Upgrade** (EmissionSystem).
+6. **Install PV Panels**.
+7. **Improve Ventilation System**.
+
+#### **4. Expected Outcomes**
+- **Energy Savings**: ~50-60% reduction in energy consumption.
+- **Cost Savings**: ~€3,000-€4,000 annually on energy bills.
+- **EPC Improvement**: Expected to improve from F to B or C.
+
+#### **5. Additional Considerations**
+- **Financial Assistance**: Check for available grants or subsidies for energy-efficient renovations.
+- **Professional Assistance**: Consult with an energy expert to ensure the renovations are carried out correctly and safely.
+- **Resident Comfort**: Ensure that the resident is informed and prepared for the renovations to minimize disruption.
+
+This plan provides a structured and actionable approach to renovating the building to improve its energy efficiency, comfort, and value.

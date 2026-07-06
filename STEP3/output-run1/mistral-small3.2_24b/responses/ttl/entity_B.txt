@@ -1,0 +1,80 @@
+Based on the provided RENO ontology and the building information, I will create a cost-effective and energy-efficient renovation plan. Here's the step-by-step reasoning:
+
+1. **Current Building Characteristics**:
+   - Attached building from 1832 with 212m² net floor area
+   - F-label energy performance (score 262 kWh/m²year)
+   - Moderately insulated gable roof, uninsulated flat roof extension
+   - Uninsulated walls (front and rear)
+   - Uninsulated floor above basement
+   - Double-glazed windows in good condition
+   - Natural ventilation system (type A)
+   - No heat grid available
+   - Owner motivated to improve EPC label
+
+2. **Priority Renovations**:
+   - Roof insulation (both gable and flat)
+   - Wall insulation
+   - Floor above basement insulation
+   - Ventilation system upgrade
+
+3. **Optimal Renovation Sequence**:
+   - First address the building envelope (roof, walls, floor)
+   - Then improve technical installations (ventilation, heating)
+
+4. **Detailed Renovation Plan**:
+
+**Phase 1: Building Envelope Improvements**
+1. Insulate gable roof (€60/m²)
+   - Ordering: 28
+   - Estimated cost: 260m² × €60 = €15,600
+   - Duration: 2-3 weeks
+
+2. Insulate flat roof extension (€50/m²)
+   - Ordering: 25
+   - Estimated cost: 100m² × €50 = €5,000
+   - Duration: 2 weeks
+
+3. Insulate walls on exterior (€200/m²)
+   - Ordering: 40
+   - Estimated cost: 100m² × €200 = €20,000
+   - Duration: 3-4 weeks
+
+4. Insulate floor above basement (€30/m²)
+   - Ordering: 49
+   - Estimated cost: 100m² × €30 = €3,000
+   - Duration: 1-2 weeks
+
+**Phase 2: Technical Installations**
+5. Replace ventilation system (€3,500 + €17/m²)
+   - Ordering: 52
+   - Estimated cost: €3,500 + (100m² × €17) = €5,200
+   - Duration: 2-3 weeks
+
+6. Connect to heat grid (€7,000)
+   - Ordering: 55
+   - Estimated cost: €7,000
+   - Duration: 3-4 weeks
+
+**Phase 3: Renewable Energy**
+7. Place PV-panels on roof (€275/m²)
+   - Ordering: 85
+   - Estimated cost: 100m² × €275 = €27,500
+   - Duration: 2-3 weeks
+
+**Total Estimated Cost**: ~€78,300
+**Estimated Duration**: ~15-20 weeks
+
+**Implementation Notes**:
+1. Start with roof insulation as it affects multiple spaces
+2. Exterior wall insulation should be done before window replacement
+3. Ventilation system upgrade should be coordinated with heating system changes
+4. PV panel installation should be last to avoid damaging new roof insulation
+
+**Expected Energy Efficiency Improvements**:
+1. Roof insulation will significantly reduce heat loss through the roof
+2. Wall insulation will improve thermal comfort and reduce heating costs
+3. Floor insulation will prevent drafts from the basement
+4. New ventilation system will improve air quality and comfort
+5. PV panels will generate renewable energy for the building
+
+This plan focuses on the most impactful renovations first, following the ordering specified in the ontology. The sequence ensures that each renovation maximizes the benefits of subsequent ones.

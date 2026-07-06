@@ -1,0 +1,150 @@
+Based on the provided RENO ontology and the specific building details, here's a step-by-step renovation plan that maximizes energy efficiency while remaining cost-effective. The plan is ordered by the "ordering" property from the ontology, which indicates the optimal sequence for maximizing benefits.
+
+### Renovation Plan for the Attached Building (ex:Building)
+
+1. **Replace Flat Roof (ex:RoofExtension)**
+   - **Action**: Replace the existing flat roof with a new one.
+   - **Reason**: The flat roof is already well-insulated (reno:WellInsulated), but replacing it ensures long-term durability and better energy performance.
+   - **Cost**: €120 per m² (high nuisance level, reporting obligation in Flanders).
+
+2. **Replace Gable Roof (ex:RoofMain)**
+   - **Action**: Replace the existing gable roof with a new one.
+   - **Reason**: The gable roof is moderately insulated (reno:ModeratelyInsulated), and replacing it will improve insulation and energy efficiency.
+   - **Cost**: €260 per m² (high nuisance level, permit needed only if the roof framework is renewed in Flanders).
+
+3. **Place Roof Underlayment**
+   - **Action**: Install a roof underlayment on the gable roof.
+   - **Reason**: Ensures air- and watertightness, improving the roof's overall performance.
+   - **Cost**: €65 per m² (low nuisance level, no permit needed in Flanders).
+
+4. **Remove Asbestos from Flat Roof (ex:RoofExtension)**
+   - **Action**: Remove any asbestos present in the flat roof.
+   - **Reason**: Safety and regulatory compliance.
+   - **Cost**: €40 per m² (moderate nuisance level, no permit needed in Flanders).
+
+5. **Remove Asbestos from Gable Roof (ex:RoofMain)**
+   - **Action**: Remove any asbestos present in the gable roof.
+   - **Reason**: Safety and regulatory compliance.
+   - **Cost**: €45 per m² (low nuisance level, no permit needed in Flanders).
+
+6. **Insulate Flat Roof (ex:RoofExtension)**
+   - **Action**: Insulate the flat roof.
+   - **Reason**: Although the flat roof is already well-insulated, additional insulation can further improve energy efficiency.
+   - **Cost**: €50 per m² (high nuisance level, permit needed only if the total pack thickness exceeds 26 cm in Flanders).
+
+7. **Insulate Gable Roof (ex:RoofMain)**
+   - **Action**: Insulate the gable roof.
+   - **Reason**: Improves insulation and energy efficiency.
+   - **Cost**: €60 per m² (low nuisance level, no permit needed in Flanders).
+
+8. **Insulate Attic Floor**
+   - **Action**: Insulate the attic floor.
+   - **Reason**: Reduces heat loss through the attic.
+   - **Cost**: €60 per m² (low nuisance level, no permit needed in Flanders).
+
+9. **Insulate Wall Cavity (ex:Wall_Front, ex:Wall_Rear)**
+   - **Action**: Insulate the wall cavities.
+   - **Reason**: Improves insulation and energy efficiency of the walls.
+   - **Cost**: €22 per m² (low nuisance level, no permit needed in Flanders).
+
+10. **Insulate Wall on Interior (ex:Wall_Front, ex:Wall_Rear)**
+    - **Action**: Insulate the walls on the interior.
+    - **Reason**: Further improves insulation and energy efficiency.
+    - **Cost**: €150 per m² (moderate nuisance level, no permit needed in Flanders).
+
+11. **Insulate Wall on Exterior (ex:Wall_Front, ex:Wall_Rear)**
+    - **Action**: Insulate the walls on the exterior.
+    - **Reason**: Provides additional insulation and improves the building's overall energy performance.
+    - **Cost**: €200 per m² (high nuisance level, permit needed only if the total pack thickness exceeds 26 cm or the building line is overrun in Flanders).
+
+12. **Replace Glazing (ex:WindowGlazingBedrooms, ex:WindowGlazingLivingArea)**
+    - **Action**: Replace the existing double glazing with more energy-efficient glazing.
+    - **Reason**: Improves thermal and acoustic performance of the windows.
+    - **Cost**: €200 per m² (high nuisance level, no permit needed in Flanders).
+
+13. **Replace Windows (ex:WindowsBedrooms, ex:WindowsLivingArea)**
+    - **Action**: Replace the existing windows with new, energy-efficient windows.
+    - **Reason**: Enhances overall energy efficiency and comfort.
+    - **Cost**: €800 per m² (high nuisance level, no permit needed if measurements are kept in Flanders).
+
+14. **Insulate Floor Above Basement (ex:FloorAboveBasement)**
+    - **Action**: Insulate the floor above the basement.
+    - **Reason**: Reduces heat loss through the floor.
+    - **Cost**: €30 per m² (low nuisance level, no permit needed in Flanders).
+
+15. **Replace Ventilation System (ex:VentilationSystem)**
+    - **Action**: Replace the existing ventilation system with a more efficient one.
+    - **Reason**: Improves air quality and energy efficiency.
+    - **Cost**: €3,500 fixed price plus €17 per m² (moderate nuisance level, permit needed only if the above-ground parts are at least 2 m away from the parcel boundary in Flanders).
+
+16. **Connect to Heat Grid**
+    - **Action**: Connect the building to the heat grid.
+    - **Reason**: Provides a more sustainable and efficient heating solution.
+    - **Cost**: €7,000 fixed price (low nuisance level, no permit needed in Flanders).
+
+17. **Place Air-Air Heat Pump**
+    - **Action**: Install an air-air heat pump.
+    - **Reason**: Provides efficient heating and cooling.
+    - **Cost**: €2,000 fixed price plus €35 per m² (moderate nuisance level, permit needed only if the above-ground parts are at least 2 m away from the parcel boundary in Flanders).
+
+18. **Place Vertical Geothermal Heat Pump**
+    - **Action**: Install a vertical geothermal heat pump.
+    - **Reason**: Provides highly efficient heating and cooling.
+    - **Cost**: €15,000 fixed price plus €50 per m² (moderate nuisance level, reporting or permit requirement depends on depth of drilling, soil characteristics, and groundwater in Flanders).
+
+19. **Place Horizontal Geothermal Heat Pump**
+    - **Action**: Install a horizontal geothermal heat pump.
+    - **Reason**: Provides efficient heating and cooling with lower installation costs than vertical geothermal.
+    - **Cost**: €14,000 fixed price plus €50 per m² (moderate nuisance level, no permit needed in Flanders).
+
+20. **Place Air-Water Heat Pump**
+    - **Action**: Install an air-water heat pump.
+    - **Reason**: Provides efficient heating and hot water.
+    - **Cost**: €8,000 fixed price plus €35 per m² (moderate nuisance level, permit needed only if the above-ground parts are at least 2 m away from the parcel boundary in Flanders).
+
+21. **Place Emission System on Low Temperature**
+    - **Action**: Install a low-temperature emission system.
+    - **Reason**: Improves energy efficiency of the heating system.
+    - **Cost**: €100 per m² (moderate nuisance level, no permit needed in Flanders).
+
+22. **Place Air-Water Heat Pump with Cooling**
+    - **Action**: Install an air-water heat pump with cooling functionality.
+    - **Reason**: Provides efficient heating, cooling, and hot water.
+    - **Cost**: €9,000 fixed price plus €35 per m² (moderate nuisance level, permit needed only if the above-ground parts are at least 2 m away from the parcel boundary in Flanders).
+
+23. **Place Heat Pump Boiler**
+    - **Action**: Install a heat pump boiler.
+    - **Reason**: Provides efficient hot water heating.
+    - **Cost**: €4,000 fixed price (moderate nuisance level, no permit needed in Flanders).
+
+24. **Place Sun Shade**
+    - **Action**: Install sun shades.
+    - **Reason**: Reduces solar heat gain and improves comfort.
+    - **Cost**: €750 fixed price (low nuisance level, no permit needed in Flanders).
+
+25. **Place Air Conditioning**
+    - **Action**: Install air conditioning.
+    - **Reason**: Provides cooling and improves comfort.
+    - **Cost**: €1,000 fixed price (low nuisance level, no permit needed in Flanders).
+
+26. **Place PV Panels on Roof (ex:PVPanels)**
+    - **Action**: Install PV panels on the roof.
+    - **Reason**: Generates renewable energy and reduces energy costs.
+    - **Cost**: €275 per m² (low nuisance level, no permit needed if the panels are in the same plane in Flanders).
+
+27. **Place PV Panels in Garden**
+    - **Action**: Install PV panels in the garden.
+    - **Reason**: Generates renewable energy and reduces energy costs.
+    - **Cost**: €275 per m² (low nuisance level, no permit needed in Flanders).
+
+28. **Place Plug and Play PV Panels**
+    - **Action**: Install plug and play PV panels.
+    - **Reason**: Easy-to-install renewable energy solution.
+    - **Cost**: €550 fixed price (low nuisance level, no permit needed in Flanders).
+
+### Notes:
+- The plan is ordered based on the "ordering" property from the ontology to maximize the benefits of each renovation step.
+- Permit requirements and nuisance levels are considered to ensure compliance and minimal disruption.
+- The plan focuses on improving energy efficiency, reducing energy consumption, and enhancing the building's overall performance.
+
+This plan provides a comprehensive and actionable approach to renovating the building for maximum energy efficiency and cost-effectiveness.

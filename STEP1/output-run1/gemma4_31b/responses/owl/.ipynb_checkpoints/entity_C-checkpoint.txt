@@ -1,0 +1,40 @@
+Based on the provided RENO ontology and the specific building data, here is the proposed renovation path. 
+
+### Building Analysis Summary
+The building is a modern **Attached Building (2023)** with an already excellent energy profile (**EPC score of 50**, placing it in the **A label** category). Most elements (walls, flat roof, and floors) are already "Well Insulated." However, the owner is motivated to further improve the EPC, and there is an explicit trigger to change the emission system.
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the focus is shifted away from the building envelope (which is mostly optimized) toward the **thermal generation and distribution systems**.
+
+#### Step 1: Thermal Envelope Optimization
+**Action: Insulate Gable Roof**
+*   **Reasoning:** While the walls and flat roof are "Well Insulated," the main gable roof is currently only **"Moderately Insulated."** Improving this is the most logical first step to reduce the overall heat load of the building before upgrading the heating system.
+*   **Practical Note:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+*   **Ontology Priority:** Ordering 28.
+
+#### Step 2: Heating System Upgrade
+**Action: Replace Generation System with an Air-Water Heat Pump**
+*   **Reasoning:** The building currently utilizes **Electric Convectors**, which are highly inefficient. There is a documented reason to change the emission system (`hasReasonToChangeEmissionSystem: true`). Since the building already has **Floor Heating**, an **Air-Water Heat Pump** is the most compatible and efficient choice, as it leverages low-temperature distribution.
+*   **Constraint Check:** 
+    *   *Geothermal:* Ruled out (Site data indicates no potential for vertical or horizontal drilling).
+    *   *Heat Grid:* Ruled out (Heat grid is not present in the area).
+*   **Ontology Priority:** Ordering 67.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Renovation Step | Target Element | Goal | Efficiency Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Roof Main | $\text{Moderate} \rightarrow \text{Well Insulated}$ | Reduces heat loss through the attic. |
+| **2** | **Place Air-Water Heat Pump** | Generation System | $\text{Electric} \rightarrow \text{Heat Pump}$ | Drastically lowers energy consumption for heating. |
+
+### Excluded Upgrades (Reasoning)
+*   **PV Panels:** Not recommended. The building data explicitly states `hasPotentialForPV: false`.
+*   **Wall/Floor Insulation:** Not necessary. Both are already marked as "Well Insulated."
+*   **Window Replacement:** Not recommended. The current wooden frames are in "Good State" and double glazing is already present; the cost-to-benefit ratio for triple glazing is low given the current EPC of 50.
+*   **Ventilation Upgrade:** Not necessary. The building already utilizes **Ventilation System D** (mechanical supply and exhaust), which is one of the most efficient types.
+
+### Final Outcome
+By focusing on the **Gable Roof** and the **Air-Water Heat Pump**, the owner can move the building closer to an **A+ label** while avoiding unnecessary expenditures on already optimized components.

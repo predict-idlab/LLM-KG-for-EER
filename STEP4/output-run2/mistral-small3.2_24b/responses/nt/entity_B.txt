@@ -1,0 +1,52 @@
+### Renovation Plan:
+
+To maximize energy efficiency and cost-effectiveness, the renovation should follow a "fabric-first" approach. This ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+
+#### **Proposed Renovation Path**
+
+**Phase 1: Thermal Envelope Optimization (The "Fabric First" Stage)**
+The primary goal here is to stop heat leakage. Since the building is a 1832 attached house with several uninsulated elements, this phase offers the highest return on investment.
+
+1. **Insulate Flat Roof:**
+   - **Action:** Insulate the flat roof.
+   - **Rationale:** The roof is currently not insulated. This is a priority as heat rises rapidly through flat sections.
+
+2. **Insulate Wall on Exterior:**
+   - **Action:** Insulate the wall on the exterior.
+   - **Rationale:** The wall is a full brick wall and not insulated. Exterior insulation is significantly more cost-effective than cavity insulation and provides a substantial increase in thermal retention.
+
+3. **Insulate Floor Above Basement:**
+   - **Action:** Insulate the floor above the basement.
+   - **Rationale:** The floor above the basement is currently not insulated. Adding insulation here prevents cold drafts from the basement.
+
+**Phase 2: Window Performance**
+The window performance should be enhanced, since the double glazing leads to significant heat losses.
+
+4. **Replace Glazing:**
+   - **Action:** Replace all glazing.
+   - **Rationale:** All windows still have double glazing. Adding triple glazing would drastically improve the thermal performance.
+
+**Phase 3: High-Efficiency Heating Transition**
+With a tight thermal envelope, the building can now operate on lower temperatures, allowing for a transition away from the existing boiler.
+
+5. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump.
+   - **Rationale:** Since the site has no potential for geothermal energy and no heat grid, an air-water heat pump is the most viable and efficient alternative to the current boiler.
+
+**Phase 4: Air Quality and Ventilation**
+Once the building is sealed and insulated, the air exchange rate decreases, making a modern ventilation system necessary to prevent moisture buildup and maintain air quality.
+
+6. **Replace Ventilation System:**
+   - **Action:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D).
+   - **Rationale:** This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+
+**Summary of Sequence and Rationale**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Reduces the total energy demand of the house. |
+| **2** | **Glazing Replacement** | Reduce the remaining thermal heat losses. |
+| **3** | **Heat Pump** | Switches to a sustainable energy source tailored to the new lower heat demand. |
+| **4** | **Ventilation Upgrade** | Maintains indoor air quality in a now-sealed envelope. |
+
+This plan ensures that the building is optimized for energy efficiency while keeping costs in check.

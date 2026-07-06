@@ -1,0 +1,33 @@
+Based on the provided building data and the RENO ontology, this is a nearly new building (constructed in 2023) that already exhibits high energy efficiency with an **EPC score of 50 (A Label)**. Most of the thermal envelope is already "Well Insulated." 
+
+However, the owner has expressed a desire to further improve the EPC and specifically indicated a **reason to change the emission system**. The current reliance on electric convectors (which are generally inefficient) and a standard boiler presents the primary opportunity for optimization.
+
+To maximize efficiency while remaining cost-effective, the renovation should follow a targeted sequence: **Envelope Completion $\rightarrow$ Emission Upgrade $\rightarrow$ Generation Upgrade**.
+
+### Proposed Renovation Path
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low)
+While the building is highly efficient, there is one remaining vulnerability in the building fabric.
+1.  **Insulate Gable Roof:** The `RoofMain` (Gable Roof) is currently only "Moderately Insulated," whereas the walls and flat roof are "Well Insulated." Upgrading the gable roof insulation will eliminate the final significant point of thermal leakage and ensure a consistent thermal envelope.
+
+#### Phase 2: Emission System Optimization (Priority: Medium)
+The building currently uses `ElectricConvectors`, which are costly to operate and inefficient compared to modern alternatives.
+2.  **Place Emission System on Low Temperature:** To prepare for a high-efficiency heat pump, the emission system should be transitioned to low-temperature operation. This maximizes the Coefficient of Performance (COP) of the future heat pump, ensuring the lowest possible operational cost.
+
+#### Phase 3: Sustainable Generation Transition (Priority: High)
+The final step is to replace the existing boiler with a sustainable energy source.
+3.  **Place Air-Water Heat Pump:** Since there is no potential for geothermal drilling/captation and no available heat grid, an **Air-Water Heat Pump** is the most effective replacement. Combined with the already excellent insulation and the low-temperature emission upgrade, this will drastically reduce the building's primary energy consumption.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Closes the final gap in the thermal envelope to minimize heat loss. |
+| **2** | **Low-Temp Emission Upgrade** | Ensures the heating delivery system is compatible with high-efficiency heat pumps. |
+| **3** | **Air-Water Heat Pump** | Replaces the boiler and inefficient electric heating with a sustainable, high-efficiency generator. |
+
+**Note on Exclusions:** 
+*   **Windows/Walls/Floors:** No action is recommended for windows (already double-glazed and in good state) or walls/floors (already well-insulated), as the marginal gain would not justify the cost.
+*   **PV Panels:** The building already possesses PV panels and has no further potential for additional installations.

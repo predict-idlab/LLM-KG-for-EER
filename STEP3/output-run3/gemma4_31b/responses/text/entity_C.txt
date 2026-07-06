@@ -1,0 +1,49 @@
+***Note on Building Age:*** *There appears to be a discrepancy in the provided data (built in 2023, yet having "old" heat emitters and a 2024 glazing update). Given the description of "solid brick walls" and the need for renovation, I have proceeded under the assumption that this is an older home (likely early 20th century) that has undergone partial modernization.*
+
+### Analysis of Current State
+Your home is in a very strong position for a high-efficiency upgrade. You have already tackled the most difficult "hard" renovations: **Ventilation System D** (the gold standard for air quality and heat recovery), **PV panels**, and **updated glazing**. 
+
+The primary "energy leaks" and cost drivers are:
+1.  **The Heat Emission System:** Electric convectors are the most expensive and least efficient way to heat a home.
+2.  **The Pitched Roof:** "Moderate" insulation is the weakest link in your thermal envelope.
+3.  **The Heat Source:** Reliance on a traditional boiler (likely gas or oil) is inconsistent with your goal of maximizing energy efficiency and utilizing your PV panels.
+
+---
+
+### Proposed Renovation Path
+
+To maximize the ROI and energy performance, the sequence must be: **Envelope $\rightarrow$ Distribution $\rightarrow$ Generation.**
+
+#### Step 1: Optimize the Thermal Envelope (The "Quick Win")
+Before upgrading your heating system, you must ensure the house retains as much heat as possible to allow for a smaller, cheaper, and more efficient heat pump.
+*   **Action:** Upgrade the insulation of the pitched roof. 
+*   **Detail:** Since the flat roof and walls are already well-insulated, focusing on the pitched roof will eliminate the remaining significant heat loss. Use high-performance mineral wool or cellulose insulation to bring it up to modern standards.
+*   **Why first?** Reducing heat loss lowers the required capacity (kW) of the new heating system you will install in Step 2.
+
+#### Step 2: Overhaul Heat Distribution (The "Efficiency Jump")
+You cannot efficiently run a modern heat pump with electric convectors or poorly functioning emitters.
+*   **Action:** Remove all electric convectors and repair/extend the underfloor heating.
+*   **Detail:** 
+    *   **Expand Underfloor Heating:** Extend the underfloor loops to the rooms currently served by electric convectors. Underfloor heating operates at low temperatures, which is essential for the efficiency of a heat pump.
+    *   **Alternative:** If extending the floor is too invasive/costly, install **low-temperature radiators** (oversized radiators) in those specific rooms.
+*   **Why now?** Heat pumps are inefficient if they have to "push" water at high temperatures to satisfy old radiators or supplement electric heaters.
+
+#### Step 3: Transition the Heat Source (The "Sustainability Pivot")
+Now that the house is well-insulated and the distribution system is low-temperature, you can move away from the boiler.
+*   **Action:** Replace the boiler with an **Air-to-Water Heat Pump (ASHP)**.
+*   **Detail:** Since geothermal is not feasible and district heating is unavailable, a high-efficiency ASHP is the optimal choice.
+*   **Synergy:** Because you already have **photovoltaic panels**, you can power the heat pump with your own electricity, drastically reducing operational costs and potentially bringing your energy bill close to zero.
+
+---
+
+### Summary of the Renovation Sequence
+
+| Sequence | Project | Focus | Impact |
+| :--- | :--- | :--- | :--- |
+| **1. Insulation** | Pitched Roof Upgrade | Thermal Envelope | Reduces heat loss $\rightarrow$ lowers energy demand. |
+| **2. Distribution** | Replace Convectors $\rightarrow$ Underfloor/Low-Temp | Heat Delivery | Enables the use of low-temperature heating. |
+| **3. Generation** | Boiler $\rightarrow$ Air-to-Water Heat Pump | Energy Source | Decarbonizes heating $\rightarrow$ leverages PV panels. |
+
+### Final Expert Advice for Ghent (Flanders)
+*   **Subsidies:** Check the current **Mijn VerbouwPremie** (My Renovation Premium) in Flanders. The Flemish government provides significant grants for the combination of insulation and heat pump installation.
+*   **EPC Impact:** This specific path (Insulation $\rightarrow$ Low-temp distribution $\rightarrow$ Heat Pump) is the fastest way to move your EPC score from 50 toward an "A" or "B" rating, as it removes fossil fuels and electric resistance heating from the equation entirely.

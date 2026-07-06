@@ -1,0 +1,31 @@
+### Analysis of Building State
+The building is a modern semi-detached house (constructed in 2017) that is already performing very well energetically, with an **EPC score of 87**. Most of the building envelope is already "Well Insulated," including the front, left, and rear walls, the floor above the basement, and the flat roof extension. The technical installations are also high-specification, featuring a heat pump, a Ventilation System D (mechanical supply and exhaust), and existing PV panels.
+
+The only identified weakness in the building envelope is the **main gable roof**, which is currently rated as **"Moderately Insulated."**
+
+### Proposed Renovation Path
+
+Given that the owner's motivation is to further improve the EPC and the house is already highly efficient, the focus must be on the law of diminishing returns. The most cost-effective way to maximize efficiency is to address the single remaining gap in the insulation envelope.
+
+#### Step 1: Insulate Gable Roof
+*   **Action:** `insulate gable roof`
+*   **Rationale:** This is the only element of the building envelope not yet rated as "Well Insulated." Improving the gable roof insulation will reduce thermal bridging and heat loss through the top of the house, directly contributing to a lower EPC score.
+*   **Practical Note:** Since the roof is in "Good State," insulation can likely be added without needing a full `replace gable roof` intervention, keeping costs down.
+
+#### Step 2: Upgrade Glazing (Optional/Long-term)
+*   **Action:** `replace glazing` (Upgrade from Double to Triple Glazing)
+*   **Rationale:** The current windows have double glazing and frames in good state. While upgrading to triple glazing would further improve the EPC, the energy savings per euro spent will be significantly lower than the roof insulation because the current double glazing is already relatively efficient.
+*   **Sequence:** This should only be performed after the roof is insulated.
+
+### Summary of the Plan
+
+| Priority | Action | Target Element | Goal | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **High** | **Insulate Gable Roof** | RoofMain | Close the remaining insulation gap in the envelope. | **High** (Most impact for least spend) |
+| **Low** | **Replace Glazing** | Windows | Marginal gain in thermal performance. | **Low** (Diminishing returns) |
+
+**Excluded Actions:**
+*   **Wall/Floor Insulation:** Not needed (already "Well Insulated").
+*   **Emission/Generation Systems:** Not needed (Heat pump and Ventilation D are already installed and performing).
+*   **PV Panels:** Not needed (already present and building has no further potential for PV).
+*   **Heat Grid:** Not applicable (no heat grid present in the area).

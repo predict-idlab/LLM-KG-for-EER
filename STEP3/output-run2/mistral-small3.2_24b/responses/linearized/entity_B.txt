@@ -1,0 +1,79 @@
+### Step-by-Step Renovation Plan
+
+#### **1. Initial Assessment**
+- **Building Type**: Attached building (shares walls with neighboring properties).
+- **Construction Year**: 1832 (historic, potential for preservation constraints).
+- **Current Energy Performance**: EPC label E (energy score 262 kWh/m²/year).
+- **Owner's Motivation**: Improve EPC (energy efficiency).
+- **Current Insulation Grades**:
+  - RoofMain: Moderately Insulated
+  - RoofExtension: Not Insulated
+  - Wall_Rear: Not Insulated
+  - Wall_Front: Not Insulated
+  - FloorAboveBasement: Not Insulated
+- **Ventilation System**: Type A (natural air supply and exhaust).
+- **Windows**: Double-glazed, wooden frames in good condition.
+- **Potential for PV**: Yes (but site constraints: no vertical geothermal drilling, no horizontal geothermal captation).
+
+#### **2. Prioritize Renovations**
+- **Highest Impact, Lowest Nuisance**:
+  - **Insulate Attic Floor** (Ordering: 31, Nuisance: Low, Price: €60/m²).
+  - **Insulate Wall Cavity** (Ordering: 34, Nuisance: Low, Price: €22/m²).
+  - **Insulate Floor Above Basement** (Ordering: 49, Nuisance: Low, Price: €30/m²).
+- **Moderate Impact, Higher Nuisance**:
+  - **Replace Ventilation System** (to Type B or D for better efficiency, Ordering: 52, Nuisance: Moderate).
+  - **Insulate Wall on Interior** (Ordering: 37, Nuisance: Moderate, Price: €150/m²).
+- **Low Impact, High Nuisance**:
+  - **Replace Flat Roof** or **Replace Gable Roof** (high nuisance due to structural work).
+
+#### **3. Step-by-Step Plan**
+**Phase 1: Immediate Actions (Low Nuisance, High Impact)**
+1. **Insulate Attic Floor** (€60/m²):
+   - Focus on vapour barrier to prevent condensation.
+   - Walkable insulation preferred if the attic is accessible.
+2. **Insulate Wall Cavity** (€22/m²):
+   - Check cavity width and contamination before injecting insulation.
+3. **Insulate Floor Above Basement** (€30/m²):
+   - Use appropriate insulation material for floors (e.g., rigid foam boards).
+
+**Phase 2: System Upgrades (Moderate Nuisance)**
+4. **Replace Ventilation System** (Type B or D):
+   - Ensure ductwork is compatible with new system.
+   - Install grilles in window frames if switching to Type C.
+5. **Insulate Wall on Interior** (€150/m²):
+   - Relocate sockets, pipes, and radiators against outer walls.
+   - Use breathable insulation to avoid moisture issues.
+
+**Phase 3: Structural Upgrades (High Nuisance)**
+6. **Replace Roofs** (if budget allows):
+   - Opt for warm roof setup with proper drainage (2% gradient).
+   - Consider inverted roof structure for flat roofs.
+7. **Replace Windows** (if glazing is damaged or frames are weak):
+   - Ensure frames meet thickness requirements for double glazing.
+
+**Phase 4: Optional Add-Ons**
+8. **Connect to Heat Grid** (if available):
+   - Check compatibility with existing emission system.
+9. **Install PV Panels** (if roof orientation and shading are favorable):
+   - Use plug-and-play panels for simplicity.
+
+#### **4. Cost and Timeline Estimation**
+- **Total Estimated Cost**:
+  - Insulation: €200–€400/m² (depending on materials and complexity).
+  - Ventilation System: €3,500 (fixed) + potential additional costs.
+  - Roof Replacement: €120–€260/m² (depending on type).
+- **Timeline**:
+  - Phase 1: 2–4 weeks (parallel tasks).
+  - Phase 2: 4–6 weeks (sequential tasks).
+  - Phase 3: 6–12 weeks (structural work).
+
+#### **5. Key Considerations**
+- **Permits**: Check local regulations for historic buildings (e.g., Flanders).
+- **Asbestos**: Test for asbestos in roofs and walls before removal.
+- **Energy Expert**: Consult for EPC certification after renovations.
+
+#### **6. Tools and Resources**
+- Use the RENO ontology to track progress and ensure compliance.
+- Refer to the suggestion list for ordering and nuisance levels.
+
+This plan balances immediate efficiency gains with long-term structural improvements, minimizing disruption while maximizing energy savings. Adjust based on budget and priorities.

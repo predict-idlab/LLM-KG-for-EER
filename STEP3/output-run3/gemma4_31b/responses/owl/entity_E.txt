@@ -1,0 +1,38 @@
+To maximize energy efficiency while remaining cost-effective for this specific 19th-century detached building, the renovation should follow the **"Fabric First"** principle: reduce energy demand through insulation and glazing before upgrading the heating and energy generation systems.
+
+Based on the provided ontology and building data, here is the optimal renovation path.
+
+### Phase 1: Building Envelope (Demand Reduction)
+*Goal: Stop heat loss. This is the most cost-effective way to improve the EPC score.*
+
+1.  **Insulate Wall Cavities:** All four external walls are cavity walls and currently "Not Insulated." This is the highest priority due to the very low cost (€22/m²) and low nuisance level.
+2.  **Replace Glazing:** The window frames are in "Good State" (value 8), meaning full window replacement is unnecessary and not cost-effective. However, the current "Single Glazing" is a major source of heat loss. Upgrading to double or triple glazing is essential.
+3.  **Insulate Floor Above Basement:** The building has a floor above a basement that can be insulated to prevent cold drafts and heat loss from the ground up.
+
+### Phase 2: Technical Systems (Efficiency Optimization)
+*Goal: Replace outdated systems with high-efficiency alternatives now that the building's energy demand is lower.*
+
+4.  **Replace Ventilation System:** The building currently uses "Ventilation System A" (natural). Upgrading this is necessary to maintain air quality once the house is better sealed through insulation and new glazing.
+5.  **Upgrade Heating Generation (Air-Water Heat Pump):** The building has a reason to change its emission system and lacks potential for geothermal drilling or a heat grid. An **Air-Water Heat Pump** is the most efficient sustainable alternative to the current boiler.
+6.  **Place Emission System on Low Temperature:** To maximize the Coefficient of Performance (COP) of the new heat pump, the existing radiators/emitters should be upgraded to low-temperature systems.
+
+### Phase 3: Renewable Energy (Energy Generation)
+*Goal: Offset remaining energy consumption with green energy.*
+
+7.  **Place PV-Panels on Roof:** The building is confirmed to have potential for PV. Since the roof is already "Well Insulated," this is a straightforward installation to lower long-term operational costs and further improve the EPC label.
+
+---
+
+### Summary of the Renovation Sequence & Rationale
+
+| Sequence | Action | Rationale | Cost Profile |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Highest ROI; fixes "Not Insulated" status of all walls. | Very Low |
+| **2** | **Replace Glazing** | Eliminates single glazing while reusing good wooden frames. | Moderate |
+| **3** | **Insulate Floor** | Completes the thermal envelope. | Low |
+| **4** | **Replace Ventilation** | Prevents condensation/mold after envelope sealing. | Moderate |
+| **5** | **Air-Water Heat Pump** | High-efficiency heating; replaces old boiler. | High |
+| **6** | **Low Temp Emission** | Ensures the heat pump operates at peak efficiency. | Moderate |
+| **7** | **PV-Panels on Roof** | Generates free electricity; final EPC boost. | Moderate |
+
+**Final Expert Note:** By insulating the walls and upgrading the glazing *before* installing the heat pump, we can potentially downsize the capacity of the heat pump required, reducing both the initial installation cost and the monthly electricity bill.

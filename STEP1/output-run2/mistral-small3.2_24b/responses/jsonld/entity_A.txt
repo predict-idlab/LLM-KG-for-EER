@@ -1,0 +1,62 @@
+Based on the provided building information and the RENO ontology, here is a concise and actionable renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+### Priority Recommendations:
+
+1. **Insulate the Gable Roof (RoofMain)**
+   - **Action**: Insulate the gable roof of the building.
+   - **Rationale**: The gable roof is currently not insulated (NotInsulated), which is a significant source of heat loss. Insulating it will improve thermal comfort and reduce energy consumption.
+   - **Cost**: Approximately €260/m².
+   - **Nuisance Level**: Low.
+   - **Permit Needed**: Only if roof framework is renewed (Flanders).
+
+2. **Insulate the Wall on Exterior (Wall_Front, Wall_Rear, Wall_Right)**
+   - **Action**: Insulate the exterior walls of the building.
+   - **Rationale**: The walls are currently not insulated (NotInsulated), which contributes to heat loss. Exterior insulation is more effective than interior insulation for this type of building.
+   - **Cost**: Approximately €200/m².
+   - **Nuisance Level**: High.
+   - **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders).
+
+3. **Replace the Ventilation System**
+   - **Action**: Replace the current ventilation system (VentilationSystemA) with a more efficient system (e.g., VentilationSystemC or VentilationSystemD).
+   - **Rationale**: Upgrading the ventilation system can improve indoor air quality and energy efficiency.
+   - **Cost**: Approximately €3,500 + €17/m².
+   - **Nuisance Level**: Moderate.
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+
+4. **Insulate the Floor Above Basement (FloorAboveBasement)**
+   - **Action**: Insulate the floor above the basement.
+   - **Rationale**: The floor above the basement is not insulated (NotInsulated), which can lead to heat loss. Insulating it will improve energy efficiency.
+   - **Cost**: Approximately €30/m².
+   - **Nuisance Level**: Low.
+   - **Permit Needed**: Not necessary (Flanders).
+
+5. **Place a Geothermal Heat Pump (Horizontal)**
+   - **Action**: Install a horizontal geothermal heat pump.
+   - **Rationale**: Given the building's construction year (1951) and the presence of an emission system (AirHeating, FloorHeating, Radiator), a geothermal heat pump can significantly reduce energy consumption for heating.
+   - **Cost**: Approximately €14,000 + €50/m².
+   - **Nuisance Level**: Moderate.
+   - **Permit Needed**: Not necessary (Flanders).
+
+### Additional Considerations:
+
+- **Potential for PV Panels**: The building has potential for PV panels (hasPotentialForPV: true). Consider installing PV panels on the roof or in the garden to further reduce energy costs and environmental impact.
+- **Energy Performance Certificate (EPC)**: The current EPC score is 388, which falls under the D label. Implementing the above recommendations should significantly improve the EPC score, aiming for at least a C label or better.
+- **Historical Protection**: None of the walls have historical protection (hasHistoricalProtection: false), so no additional constraints apply.
+
+### Implementation Sequence:
+
+1. **Insulate the Gable Roof (RoofMain)**
+2. **Insulate the Exterior Walls (Wall_Front, Wall_Rear, Wall_Right)**
+3. **Replace the Ventilation System**
+4. **Insulate the Floor Above Basement (FloorAboveBasement)**
+5. **Place a Geothermal Heat Pump (Horizontal)**
+
+This sequence ensures that the most impactful renovations are addressed first, maximizing energy efficiency gains and cost savings.
+
+### Notes:
+
+- **Permits and Regulations**: Always check local regulations and permit requirements before starting any renovation work.
+- **Professional Consultation**: For complex installations like geothermal heat pumps, consult with professionals to ensure proper design and installation.
+- **Cost Estimation**: The costs provided are estimates and can vary based on specific conditions and market rates.
+
+By following this plan, you can achieve a more energy-efficient home while adhering to cost-effective practices.

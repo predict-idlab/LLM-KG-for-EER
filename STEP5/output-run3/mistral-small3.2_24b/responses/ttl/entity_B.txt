@@ -1,0 +1,37 @@
+### Renovation Plan for Attached Building (1832, EPC Score: 262)
+
+**Objective:** Improve energy efficiency and EPC label in a cost-effective manner while preserving historical character (no historical protection).
+
+**Priority Actions:**
+
+1. **Insulate Flat Roof**
+   - **Rationale:** The flat roof (`RoofExtension`) is currently uninsulated, leading to significant heat loss. Insulation here provides the highest return on investment.
+   - **Action:** Install insulation on top of the roof covering (inverted roof structure recommended).
+
+2. **Insulate Walls on Exterior**
+   - **Rationale:** Both the `Wall_Front` and `Wall_Rear` are uninsulated full brick walls. Exterior insulation eliminates thermal bridges and is more effective than interior insulation for this type of construction.
+   - **Action:** Apply exterior insulation cladding. Ensure the thickness of the total pack does not exceed 26 cm to avoid permit requirements.
+
+3. **Insulate Floor Above Basement**
+   - **Rationale:** The `FloorAboveBasement` is uninsulated, allowing cold air from the basement to seep into living spaces.
+   - **Action:** Install floor insulation to prevent heat loss downward.
+
+4. **Replace Ventilation System**
+   - **Rationale:** The current ventilation system (`VentilationSystemA`) relies on natural air supply and exhaust, which is inefficient. Upgrading to a mechanical system (e.g., `VentilationSystemD`) ensures better air quality and energy efficiency.
+   - **Action:** Install a mechanical ventilation system with heat recovery.
+
+5. **Place Air-Water Heat Pump**
+   - **Rationale:** The existing boiler is inefficient, and the building has no potential for geothermal or heat grid access. An air-water heat pump is a sustainable and cost-effective replacement.
+   - **Action:** Install an air-water heat pump to replace the current boiler.
+
+6. **Place PV-Panels on Roof**
+   - **Rationale:** The building has confirmed potential for PV (`hasPotentialForPV true`). Solar panels will offset the electricity consumption of the heat pump and ventilation system.
+   - **Action:** Install PV panels on the roof, ensuring they are oriented for maximum sunlight exposure.
+
+**Optional Consideration:**
+- **Place Sunshade:** If glare or overheating is an issue in living areas, consider adding external sunshades to reduce solar gain in summer.
+
+### Sequence and Rationale:
+1. **Insulate Flat Roof** → **Insulate Exterior Walls** → **Insulate Floor** → **Replace Ventilation System** → **Install Air-Water Heat Pump** → **Install PV Panels**.
+
+This sequence ensures that the building envelope is sealed before upgrading heating and ventilation systems, maximizing energy efficiency and long-term cost savings. The PV panels are installed last to leverage the reduced energy demand of the renovated building.

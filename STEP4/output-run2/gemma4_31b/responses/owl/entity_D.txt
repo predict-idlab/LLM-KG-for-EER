@@ -1,0 +1,29 @@
+Based on the provided building data and the RENO ontology, the property is a modern semi-detached house (constructed in 2017) that is already highly energy-efficient. With an **EPC score of 87**, the building is already performing at a high level, likely falling within the **A or B label** range. It already possesses several high-efficiency features, including a heat pump, a Ventilation System D, double glazing, and existing PV panels.
+
+Since the owner's motivation is to further **improve the EPC**, the focus shifts from "major overhaul" to "marginal gains." The goal is to identify the few remaining thermal weaknesses to push the building toward an A+ rating.
+
+### Proposed Renovation Path
+
+#### Phase 1: Completing the Thermal Envelope (Priority: High)
+The building envelope is nearly optimized, with the exception of the main roof.
+1. **Insulate Gable Roof:** While the flat roof extension and walls are "Well Insulated," the `RoofMain` (Gable Roof) is currently only **"Moderately Insulated."** Improving the insulation of the gable roof is the most effective way to reduce the remaining heat loss and lower the EPC score further. This is the highest priority as it addresses the only remaining "moderate" insulation grade in the building's fabric.
+
+#### Phase 2: Advanced Glazing Upgrade (Priority: Low/Optional)
+The windows currently have double glazing and the frames are in a good state. However, for a building already at an EPC of 87, the next step in thermal performance is the transition from double to triple glazing.
+2. **Replace Glazing (Triple Glazing):** To achieve a top-tier energy score, upgrading the existing double glazing to **triple glazing** would further reduce conductive heat loss through the windows. Given that the frames are already in a "Good State," this can be done by replacing the glazing units rather than the entire window frame, remaining cost-effective.
+
+#### Phase 3: System Optimization (Priority: Maintenance)
+The building already has a Heat Pump and Ventilation System D, which are the gold standards for energy efficiency.
+* **No replacement recommended:** There is no reason to change the emission or generation systems, as they are already modern and efficient. Maintenance should be the focus here to ensure the Heat Pump continues to operate at its maximum Coefficient of Performance (COP).
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Addresses the only remaining "moderately insulated" element of the building envelope. |
+| **2** | **Upgrade to Triple Glazing** | Provides marginal gains to push the EPC score from the "A/B" range toward "A+". |
+| **3** | **System Maintenance** | Ensures existing high-efficiency systems (Heat Pump, Vent D) remain optimized. |
+
+**Final Expert Note:** Because the building is already so efficient, the return on investment (ROI) in terms of energy savings will be lower than in an older home. These suggestions are specifically tailored to the owner's desire to **maximize the EPC score** rather than to solve critical energy loss.

@@ -1,0 +1,51 @@
+### Renovation Plan Analysis
+
+**Building Overview:**
+- **Type:** Semi-detached building constructed in 2017.
+- **Current EPC Score:** 87 (A Label).
+- **Owner's Motivation:** To improve the EPC.
+- **Key Elements:**
+  - **Roofs:** Gable roof (moderately insulated), flat roof (well insulated).
+  - **Walls:** Three external walls (Front, Rear, Left) are well insulated.
+  - **Floors:** Floor above basement is well insulated.
+  - **Windows:** Double-glazed windows in good condition.
+  - **Heating System:** Heat pump.
+  - **Ventilation System:** Type D.
+  - **PV Potential:** False.
+
+**Current Strengths:**
+- The building already has good insulation on most elements (walls, floor, and flat roof).
+- Double-glazed windows are in good condition.
+- A modern heat pump is installed, which is highly efficient.
+
+**Areas for Improvement:**
+- The gable roof is only moderately insulated, which could be improved.
+- The ventilation system is Type D, which might not be the most efficient for this building.
+
+**Proposed Renovation Path:**
+
+1. **Insulate Gable Roof:**
+   - **Action:** Upgrade the insulation of the gable roof to well-insulated status.
+   - **Rationale:** Improving the insulation of the gable roof will further reduce heat loss and improve overall energy efficiency.
+
+2. **Replace Ventilation System:**
+   - **Action:** Upgrade the ventilation system from Type D to a more efficient system (e.g., Type C).
+   - **Rationale:** A more efficient ventilation system can reduce energy consumption and improve indoor air quality.
+
+3. **Consider Additional Measures (Optional):**
+   - **Place Sunshade:** If the building has large windows facing south, adding a sunshade can reduce solar heat gain in summer, which can be beneficial for cooling.
+   - **Place Airconditioning:** If cooling is a concern, adding airconditioning can improve comfort during hot weather.
+
+**Summary of Sequence and Rationale:**
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Reduces heat loss through the roof, improving overall energy efficiency. |
+| **2** | **Replace Ventilation System** | Upgrades to a more efficient system to reduce energy consumption and improve indoor air quality. |
+| **3** | **Optional: Place Sunshade** | Reduces solar heat gain in summer, beneficial for cooling. |
+| **4** | **Optional: Place Airconditioning** | Improves comfort during hot weather. |
+
+**Conclusion:**
+The building is already in good condition with a high EPC score. The proposed renovations focus on further improving energy efficiency and indoor air quality. The optional measures can be considered based on specific needs and preferences.
+
+This plan ensures that the building remains energy-efficient and comfortable while minimizing unnecessary costs.

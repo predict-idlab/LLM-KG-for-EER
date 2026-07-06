@@ -1,0 +1,14 @@
+Based on the provided building information and the RENO ontology, here is a concise and actionable renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+1. insulate gable roof
+2. insulate attic floor
+3. insulate wall cavity
+4. insulate wall on interior
+5. replace glazing
+6. insulate floor above basement
+7. replace ventilation system
+8. place air-water heatpump
+9. place emission system on low temperature
+10. place PV-panels on roof
+
+This plan prioritizes insulation and upgrading the heating system to improve energy efficiency, followed by installing renewable energy sources.

@@ -1,0 +1,43 @@
+Based on the provided building information and the RENO ontology, here's a concise and actionable renovation plan that maximizes energy efficiency while remaining cost-effective:
+
+### **Renovation Plan for the Semi-Detached Building**
+
+#### **1. Insulate Roof Main (Gable Roof)**
+- **Action**: Insulate the gable roof (RoofMain) to improve thermal comfort and energy efficiency.
+- **Reason**: The current insulation grade is "ModeratelyInsulated" (https://w3id.org/reno#ModeratelyInsulated).
+- **Expected Outcome**: Better thermal comfort and reduced energy consumption.
+- **Ordering**: 28 (https://w3id.org/reno#ordering).
+- **Cost**: Approximately €60 per square meter (https://w3id.org/reno#hasUnitPrice).
+
+#### **2. Replace Glazing for Windows in Bedrooms and Living Area**
+- **Action**: Replace the glazing for all windows in the bedrooms and living area.
+- **Reason**: The current glazing type is "DoubleGlazing" (https://w3id.org/reno#DoubleGlazing), which can be upgraded to a more energy-efficient type.
+- **Expected Outcome**: Improved insulation and reduced energy loss through windows.
+- **Ordering**: 43 (https://w3id.org/reno#ordering).
+- **Cost**: Approximately €200 per square meter (https://w3id.org/reno#hasUnitPrice).
+
+#### **3. Place PV Panels in Garden**
+- **Action**: Install PV panels in the garden to generate renewable energy.
+- **Reason**: The building currently has no PV panels (https://w3id.org/reno#hasPotentialForPV is false), and there is potential for solar energy generation.
+- **Expected Outcome**: Reduced dependency on grid electricity and lower energy bills.
+- **Ordering**: 88 (https://w3id.org/reno#ordering).
+- **Cost**: Approximately €275 per square meter (https://w3id.org/reno#hasUnitPrice).
+
+#### **4. Replace Ventilation System**
+- **Action**: Replace the existing ventilation system (VentilationSystemD) with a more efficient model.
+- **Reason**: The current ventilation system is a "VentilationSystemD" (https://w3id.org/reno#VentilationSystemD), which may not be the most energy-efficient option.
+- **Expected Outcome**: Improved air quality and energy efficiency.
+- **Ordering**: 52 (https://w3id.org/reno#ordering).
+- **Cost**: Approximately €3500 fixed cost plus €17 per square meter (https://w3id.org/reno#hasUnitPrice).
+
+### **Implementation Sequence**
+1. **Insulate Roof Main (Gable Roof)**
+2. **Replace Glazing for Windows in Bedrooms and Living Area**
+3. **Place PV Panels in Garden**
+4. **Replace Ventilation System**
+
+### **Additional Considerations**
+- **Permits**: Check local regulations for any necessary permits, especially for roof insulation and ventilation system replacement.
+- **Professional Assistance**: Consider hiring a professional for the roof insulation and ventilation system replacement to ensure proper installation and compliance with regulations.
+
+This plan focuses on practical upgrades that reduce energy consumption and improve long-term operational performance while considering the most optimal sequence to maximize the benefits of each renovation step.

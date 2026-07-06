@@ -1,0 +1,58 @@
+### Renovation Plan Analysis
+
+**Building Context:**
+- **Type:** Semi-detached house (2017 construction)
+- **EPC Score:** 87 (B Label)
+- **Motivation:** Improve EPC
+- **Key Elements:**
+  - **Well-insulated walls** (exterior and left wall)
+  - **Moderately insulated gable roof**
+  - **Well-insulated floor above basement**
+  - **Double-glazed windows** (no asbestos detected)
+  - **Solar panels** (PVPanels) installed
+  - **Heat pump** as the generation system
+  - **Ventilation System D** (high efficiency)
+
+**Current Strengths:**
+1. **Modern Construction (2017):** The building already meets recent energy standards.
+2. **Well-Insulated Envelope:** Exterior walls, left wall, and floor above basement are well-insulated.
+3. **Double-Glazed Windows:** Minimal heat loss through windows.
+4. **Heat Pump:** High-efficiency heating system.
+5. **Ventilation System D:** Optimal indoor air quality management.
+
+**Areas for Improvement:**
+1. **Gable Roof Insulation:** Only moderately insulated.
+2. **Flat Roof Insulation:** No information on insulation status (assumed to be well-insulated due to recent construction).
+3. **Solar Panel Potential:** Current panels may not be optimized for maximum energy production.
+
+### Proposed Renovation Path
+
+**Phase 1: Roof Insulation Optimization**
+1. **Insulate Gable Roof**
+   - **Action:** Upgrade insulation from "Moderately Insulated" to "Well Insulated."
+   - **Rationale:** The gable roof is the only remaining thermal bridge. Eliminating this will further reduce heat loss.
+
+**Phase 2: Solar Energy Optimization**
+2. **Check and Optimize PV-Panels**
+   - **Action:** Assess the current solar panel orientation, angle, and shading. Optimize placement if necessary.
+   - **Rationale:** Ensuring the panels are correctly positioned will maximize renewable energy generation, further reducing reliance on the heat pump.
+
+**Phase 3: Long-Term Sustainability**
+3. **Consider Battery Storage**
+   - **Action:** Install a home battery system to store excess solar energy for nighttime use.
+   - **Rationale:** This reduces grid dependence and maximizes self-consumption of renewable energy.
+
+### Summary of Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Eliminates the last significant thermal bridge. |
+| **2** | **Optimize PV-Panels** | Maximizes renewable energy generation. |
+| **3** | **Install Battery Storage** | Increases energy independence and reduces grid reliance. |
+
+### Additional Notes
+- **No Immediate Need for Window Replacement:** Windows are already double-glazed and in good condition.
+- **No Need for Heating System Upgrade:** The heat pump is already a high-efficiency system.
+- **Ventilation System is Optimal:** System D is already installed, ensuring good air quality.
+
+This plan ensures that the building remains energy-efficient, cost-effective, and sustainable in the long term.

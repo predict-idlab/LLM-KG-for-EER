@@ -1,0 +1,46 @@
+Based on the provided RENO ontology and the specific building data, here is the expert analysis and proposed renovation path.
+
+### 1. Building Status Analysis
+The building is a relatively modern semi-detached house (constructed in 2017) with an already very high energy performance (EPC score of 87). Most critical elements are already optimized:
+*   **Walls & Floors:** All exterior walls and the floor above the basement are already "Well Insulated."
+*   **Ventilation:** It uses a Ventilation System D, which is the most efficient mechanical system.
+*   **Heating:** A heat pump is already installed, and there is no stated reason to change the emission system.
+*   **Windows:** Currently equipped with double glazing and wooden frames in good condition.
+*   **Constraints:** There is no potential for additional PV panels on the roof, no availability of a heat grid, and no potential for geothermal drilling.
+
+The owner's primary motivation is **to improve the EPC**. Given that the building is already high-performing, the focus shifts from "major overhauls" to "marginal gains" and "precision upgrades."
+
+---
+
+### 2. Proposed Renovation Path
+To maximize energy efficiency while remaining cost-effective, the following sequence is recommended. I have prioritized these based on the `ordering` property in the ontology and the current state of the building.
+
+#### **Step 1: Thermal Envelope Optimization (Roof)**
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** The main gable roof is the only significant part of the building envelope that is only "Moderately Insulated." Upgrading this to "Well Insulated" is the most logical step to lower the EPC score.
+*   **Cost-Effectiveness:** High. It has a low unit price (60/m²) and a "low" nuisance level, making it a practical and non-disruptive upgrade.
+*   **Ontology Ordering:** 28.
+
+#### **Step 2: Glazing Upgrade**
+*   **Action:** `replace glazing` (Upgrade from Double to Triple Glazing)
+*   **Reasoning:** Since the window frames are in "Good State," there is no need to replace the entire window. Replacing only the glazing to triple glazing will further reduce heat loss.
+*   **Cost-Effectiveness:** Moderate. While the nuisance level is "high" and the cost is higher (200/m²), it is the only remaining way to significantly move the EPC score lower given the other elements are already optimized.
+*   **Ontology Ordering:** 43.
+
+#### **Step 3: Operational Performance & Comfort**
+*   **Action:** `place sunshade`
+*   **Reasoning:** To improve long-term operational performance and reduce the energy needed for cooling during summer (which prevents the heat pump from working harder in cooling mode), outdoor sunshades should be installed.
+*   **Cost-Effectiveness:** High. This is a fixed-price installation (750) with "low" nuisance.
+*   **Ontology Ordering:** 79.
+
+---
+
+### 3. Summary of the Renovation Plan
+
+| Sequence | Action | Priority | Nuisance | Cost Basis | Goal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High | Low | 60 / m² | Close the only remaining thermal gap. |
+| **2** | **Replace Glazing** | Medium | High | 200 / m² | Push EPC score to the absolute minimum. |
+| **3** | **Place Sunshade** | Low | Low | 750 (Fixed) | Reduce summer cooling energy loads. |
+
+**Final Expert Note:** Because the building was built in 2017 and is already very efficient, I have excluded suggestions like `replace windows` or `insulate walls`, as these would be a waste of capital (negative ROI). The proposed path focuses exclusively on the remaining "Moderately Insulated" areas and the transition from double to triple glazing to satisfy the owner's motivation to improve the EPC.

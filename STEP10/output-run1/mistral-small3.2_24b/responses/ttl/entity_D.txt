@@ -1,0 +1,57 @@
+Given the provided building information and the RENO ontology, here's a tailored renovation plan to maximize energy efficiency while remaining cost-effective:
+
+### Current Building Profile:
+- **Type:** Semi-detached building (ex:Building)
+- **Construction Year:** 2017
+- **EPC Score:** 87 (A Label)
+- **Net Floor Area:** 173.0 m²
+- **Existing Systems:**
+  - Heat pump (ex:Generation_System)
+  - Ventilation system D (ex:VentilationSystem)
+  - PV panels (ex:PVPanels)
+- **Insulation Status:**
+  - Well-insulated walls (ex:Wall_Front, ex:Wall_Left, ex:Wall_Rear)
+  - Well-insulated floor above basement (ex:FloorAboveBasement)
+  - Well-insulated flat roof (ex:RoofExtension)
+  - Moderately insulated gable roof (ex:RoofMain)
+- **Windows:** Double-glazed with wooden frames in good condition
+- **Owner's Motivation:** To improve EPC (already excellent at 87)
+
+### Renovation Plan:
+
+#### 1. **Insulate Gable Roof (Priority: High)**
+   - **Action:** Insulate the gable roof (ex:RoofMain) to bring it up to the same standard as the flat roof.
+   - **Rationale:** The gable roof is currently only "moderately insulated," which represents a thermal bridge. Improving this will further reduce heat loss and improve the overall building envelope.
+   - **Cost:** €60/m² (reno:InsulateGableRoof)
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+
+#### 2. **Replace Ventilation System (Priority: Medium)**
+   - **Action:** Consider upgrading the existing ventilation system D to a more advanced system if needed (e.g., with heat recovery).
+   - **Rationale:** The current system is already efficient (System D), but further improvements could be made to enhance air quality and energy efficiency.
+   - **Cost:** €3500 fixed + €17/m² (reno:ReplaceVentilationSystem)
+   - **Nuisance Level:** Moderate
+   - **Permit Needed:** Not necessary if above-ground parts are at least 2m away from the parcel boundary.
+
+#### 3. **Place Sunshade (Priority: Low)**
+   - **Action:** Install sunshades to reduce solar gain in summer, which can help with cooling and improve comfort.
+   - **Rationale:** This is a relatively low-cost intervention that can improve the building's overall energy performance by reducing the need for cooling.
+   - **Cost:** €750 fixed (reno:PlaceSunShade)
+   - **Nuisance Level:** Low
+   - **Permit Needed:** Not necessary (Flanders)
+
+### Summary of Sequence and Rationale:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Eliminate the thermal bridge created by the moderately insulated gable roof to improve overall energy efficiency. |
+| **2** | **Replace Ventilation System** | Upgrade the ventilation system to enhance air quality and energy efficiency further. |
+| **3** | **Place Sunshade** | Reduce solar gain in summer to improve comfort and reduce the need for cooling. |
+
+### Additional Notes:
+- The building already has an excellent EPC score of 87 (A Label), so significant improvements may not be necessary.
+- The existing heat pump and PV panels are efficient and sustainable, so no changes are recommended for these systems.
+- The windows are already double-glazed and in good condition, so replacement is not necessary.
+- The insulation of the walls, floor, and flat roof is already well-insulated, so no further insulation is needed for these elements.
+
+This plan focuses on incremental improvements to maintain and potentially enhance the building's already high energy efficiency. The priority is to address the moderately insulated gable roof and consider upgrades to the ventilation system and sunshades for better comfort and performance.

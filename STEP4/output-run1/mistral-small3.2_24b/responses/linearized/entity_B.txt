@@ -1,0 +1,64 @@
+### Renovation Plan
+
+**Building Overview:**
+- **Type:** AttachedBuilding
+- **Construction Year:** 1832
+- **Net Floor Area:** 212.0 m²
+- **Current EPC Score:** 262 (C Label)
+- **Potential for PV:** True
+- **Heat Grid Availability:** False
+- **Vertical Geothermal Drilling Potential:** False
+- **Horizontal Geothermal Captation Potential:** False
+- **Owner’s Motivation:** ToImproveEPC
+
+**Key Issues:**
+1. **Insulation:** Poor insulation on `Wall_Front`, `Wall_Rear`, `FloorAboveBasement`, and `RoofExtension`.
+2. **Heating System:** Radiators (likely inefficient).
+3. **Ventilation System:** Type A (natural ventilation, less efficient).
+4. **Windows:** Double-glazed with wooden frames in good condition.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Strengthen the Building Envelope (High Priority)**
+1. **Insulate Wall on Exterior:**
+   - **Action:** Apply exterior insulation to `Wall_Front` and `Wall_Rear` (full brick, not insulated).
+   - **Rationale:** Exterior insulation is more effective for full brick walls and eliminates thermal bridges.
+2. **Insulate Floor Above Basement:**
+   - **Action:** Add insulation to the floor above the basement.
+   - **Rationale:** Prevents cold drafts and reduces heat loss to the basement.
+3. **Insulate Flat Roof:**
+   - **Action:** Insulate the `RoofExtension`.
+   - **Rationale:** Heat rises rapidly through flat roofs; insulation here is critical.
+
+**Phase 2: Transition to High-Efficiency Heating (Medium Priority)**
+4. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump.
+   - **Rationale:** More efficient than the current boiler and suitable for the lower heat demand after insulation.
+5. **Replace Emission System:**
+   - **Action:** Upgrade radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the Coefficient of Performance (COP) of the new heat pump.
+
+**Phase 3: Sustainable Energy Generation (Long-Term Priority)**
+6. **Place PV-Panels on Roof:**
+   - **Action:** Install solar panels on the roof.
+   - **Rationale:** Offsets the electricity consumption of the heat pump and ventilation system, further improving the EPC label.
+
+**Summary of Optimal Sequence:**
+1. **Insulate Wall on Exterior**
+2. **Insulate Floor Above Basement**
+3. **Insulate Flat Roof**
+4. **Place Air-Water Heat Pump**
+5. **Place Emission System on Low Temperature**
+6. **Place PV-Panels on Roof**
+
+**Rationale for Sequence:**
+- **Insulation First:** Ensures the building envelope is sealed, reducing heat loss and lowering the heat demand.
+- **Heat Pump Next:** With a sealed envelope, the heat pump operates more efficiently.
+- **PV Panels Last:** Generates renewable energy to power the heat pump and ventilation system.
+
+**Cost-Effectiveness and Practicality:**
+- **Insulation:** Prioritizes areas with the highest heat loss.
+- **Heat Pump:** More sustainable and efficient than the current boiler.
+- **PV Panels:** Utilizes the building’s solar potential to offset energy costs.
+
+This plan ensures a **fabric-first** approach, maximizing energy efficiency while remaining cost-effective.

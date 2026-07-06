@@ -1,0 +1,38 @@
+Based on the provided building data and the RENO ontology, the property is already a high-performance home (constructed in 2017 with an EPC score of 87). Most elements, including the walls, floor, and flat roof, are already "Well Insulated." 
+
+To satisfy the owner's motivation to further improve the EPC label while remaining cost-effective, I propose the following targeted renovation path.
+
+### 1. Priority Upgrade: Gable Roof Insulation
+The main gable roof is the only structural element currently rated as **"Moderately Insulated."** Improving this to "Well Insulated" is the most effective way to reduce thermal bridging and energy loss.
+*   **Action:** Insulate the gable roof.
+*   **Cost-Effectiveness:** Low unit price (60/m²) and low nuisance level.
+*   **Technical Point of Attention:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation problems. Ensure the roof underlayment is completely air- and watertight.
+*   **Sequence:** This should be done first as it addresses the primary remaining thermal weakness.
+
+### 2. Secondary Upgrade: Glazing Optimization
+The building currently uses double glazing. To push the EPC score lower (towards an A+ label), upgrading the thermal performance of the windows is the next logical step.
+*   **Action:** Replace existing double glazing with **Triple Glazing**.
+*   **Cost-Effectiveness:** Since the wooden window frames are in "Good State" (value 8), it is significantly more cost-effective to **replace the glazing only** rather than replacing the entire window unit.
+*   **Technical Point of Attention:** Before proceeding, verify that the existing wooden frames have the necessary thickness and structural strength to support the heavier triple-pane glass.
+*   **Sequence:** Execute after roof insulation, as this is a higher-cost intervention with a higher nuisance level.
+
+### 3. Operational Efficiency: Solar Heat Management
+Because the house is already highly insulated and equipped with a heat pump, it is susceptible to overheating during summer months, which can increase cooling costs.
+*   **Action:** Install external sunshades.
+*   **Cost-Effectiveness:** Low fixed cost (750) and low nuisance.
+*   **Technical Point of Attention:** Opt for **outdoor blinds** rather than indoor blinds, as they are significantly more efficient at blocking solar gain before it enters the building.
+*   **Sequence:** Final step; this is a finishing touch to optimize long-term operational performance.
+
+### Summary of the Optimal Renovation Sequence
+
+| Order | Intervention | Target Element | Rationale | Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | Move from "Moderate" to "Well" insulated. | Low |
+| **2** | **Replace Glazing** | Windows | Upgrade Double $\rightarrow$ Triple glazing for EPC gain. | High |
+| **3** | **Place Sunshades** | Facades | Prevent overheating in a highly insulated home. | Low |
+
+**Excluded Interventions:**
+*   **Wall/Floor Insulation:** Not required (already "Well Insulated").
+*   **Heating System Change:** Not required (already utilizes a Heat Pump; no reason to change emission system).
+*   **PV Panels:** Not required (already installed; no further potential for expansion).
+*   **Geothermal:** Not viable (site data indicates no potential for vertical or horizontal drilling).

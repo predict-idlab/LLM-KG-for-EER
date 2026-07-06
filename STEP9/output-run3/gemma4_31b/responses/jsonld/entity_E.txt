@@ -1,0 +1,38 @@
+To maximize energy efficiency and improve the EPC label while remaining cost-effective, the renovation should follow the **"Fabric First"** principle: first reduce energy demand by improving the building envelope, and then upgrade the technical systems to meet that reduced demand.
+
+Based on the building data and the RENO ontology, here is the proposed renovation path.
+
+### Phase 1: Building Envelope Optimization (Reducing Heat Loss)
+*This phase focuses on the most cost-effective upgrades with the highest impact on the EPC score.*
+
+1.  **Insulate Wall Cavities:** The building has four cavity walls that are currently not insulated. This is the highest priority as "insulate wall cavity" has a very low unit price (€22/m²) and low nuisance level.
+2.  **Insulate Floor Above Basement:** The floor above the crawl space is an area of heat loss. Insulating this floor is a low-cost (€30/m²) and low-nuisance intervention.
+3.  **Replace Glazing:** The bedrooms and living area currently have single glazing, which is thermally inefficient. Since the wooden window frames are in "Good State," it is more cost-effective to **replace the glazing** (e.g., to double or triple glazing) rather than replacing the entire window unit.
+
+### Phase 2: Technical System Upgrades (Efficient Energy Use)
+*Now that the building is better insulated, the heating system can be downsized and optimized.*
+
+4.  **Install an Air-Water Heat Pump:** The current boiler is outdated, and there is a stated reason to change the emission system. Since geothermal options are not possible for this site and there is no heat grid, an **air-water heat pump** is the optimal choice. This is compatible with the existing radiators and floor heating.
+5.  **Low-Temperature Emission Adjustment:** To maximize the efficiency (COP) of the new heat pump, the emission system should be adjusted to operate at a **low temperature**.
+6.  **Upgrade Ventilation System:** To prevent moisture buildup in a more airtight, insulated home and to improve air quality, the current Ventilation System A should be replaced with a more efficient system (e.g., System D).
+
+### Phase 3: Renewable Energy Integration (Reducing Operational Costs)
+*The final step is to transition from energy efficiency to energy production.*
+
+7.  **Install PV-Panels on Roof:** The building is a detached house with confirmed potential for PV. Installing solar panels will significantly lower the electricity costs required to run the new heat pump and further improve the EPC rating.
+
+---
+
+### Summary of the Renovation Path & Sequence
+
+| Sequence | Action | Target Element | Rationale | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Wall Cavity** | Walls (Front, Left, Rear, Right) | High EPC impact, very low cost. | Low / Low |
+| **2** | **Insulate Floor** | Floor above crawl space | Prevents cold floors, low cost. | Low / Low |
+| **3** | **Replace Glazing** | Windows (Bedrooms, Living Area) | Eliminates major thermal bridges. | Moderate / High |
+| **4** | **Air-Water Heat Pump** | Generation System | Switches from fossil/electric to efficient heat. | High / Moderate |
+| **5** | **Low-Temp Emission** | Emission System | Increases Heat Pump efficiency. | Moderate / Moderate |
+| **6** | **Replace Ventilation** | Ventilation System | Ensures air quality in insulated home. | Moderate / Moderate |
+| **7** | **Place PV-Panels** | Roof | Offsets electricity costs for the heat pump. | High / Low |
+
+**Total Strategic Benefit:** This sequence ensures that you do not over-invest in a heating system that is too large for the house, as the insulation steps (Phase 1) reduce the total heating load before the heat pump (Phase 2) is installed.

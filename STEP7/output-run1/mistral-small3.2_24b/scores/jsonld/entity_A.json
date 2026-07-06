@@ -1,0 +1,23 @@
+{
+  "completeness": {
+    "missing_actions": [
+      "insulate wall on interior"
+    ],
+    "extra_actions": [
+      "insulate attic floor",
+      "insulate wall cavity",
+      "insulate wall on exterior",
+      "place air-air heatpump",
+      "place vertical geothermal heatpump",
+      "place horizontal geothermal heatpump",
+      "place air-water heatpump with cooling",
+      "place heatpumpboiler",
+      "place sunshade",
+      "place PV-panels in garden",
+      "place plug and play PV-panels"
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

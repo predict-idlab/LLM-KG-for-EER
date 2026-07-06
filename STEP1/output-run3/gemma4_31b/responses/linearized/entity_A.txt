@@ -1,0 +1,43 @@
+Based on the provided building data and the RENO ontology, the building is a **1951 semi-detached house** with an EPC score of **388 (D Label)**. The owner's primary motivation is to **improve the EPC**. 
+
+The building suffers from significant heat loss due to a lack of insulation in the roof, walls, and floors. To maximize energy efficiency and cost-effectiveness, I propose a **"Fabric First"** renovation path. This sequence ensures that the heating demand is reduced before upgrading the heating system, allowing for a smaller, more affordable, and more efficient heat pump.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (The "Fabric First" Approach)
+The goal here is to stop energy leakage. Since the building elements have no historical protection, we can implement the most effective solutions.
+1.  **Insulate Gable Roof (`RoofMain`):** The main roof is currently not insulated. This is the highest priority as heat rises. 
+    *   *Ordering: 28*
+2.  **Insulate Attic Floor:** If applicable, this is a low-cost, high-impact intervention to prevent heat from escaping into the attic space.
+    *   *Ordering: 31*
+3.  **Insulate Exterior Walls (`Wall_Front`, `Wall_Right`, `Wall_Rear`):** All walls are full-brick and not insulated. I recommend **Exterior Wall Insulation** over interior insulation to eliminate thermal bridging and preserve internal living space.
+    *   *Ordering: 40*
+4.  **Insulate Floor Above Basement:** The floor is currently not insulated. This will significantly reduce cold drafts from the basement.
+    *   *Ordering: 49*
+
+#### Phase 2: Ventilation and Air Quality
+Once the building is "sealed" with insulation, mechanical ventilation is necessary to prevent condensation and ensure healthy indoor air quality.
+5.  **Replace Ventilation System:** Upgrade from Ventilation System A (natural) to a more efficient system (e.g., System B or D) to maintain air quality without losing too much heat.
+    *   *Ordering: 52*
+
+#### Phase 3: High-Efficiency Heating System
+With the heat demand now significantly lowered by Phase 1, we can replace the outdated boiler.
+6.  **Install Air-Water Heat Pump:** Since geothermal potential is false and no heat grid is available, an **Air-Water Heat Pump** is the most cost-effective high-efficiency alternative. It integrates well with the existing floor heating and radiators.
+    *   *Ordering: 67*
+
+#### Phase 4: Renewable Energy Generation
+The final step is to offset the electricity consumption of the new heat pump.
+7.  **Place PV Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower operational costs and further improve the EPC label.
+    *   *Ordering: 85*
+
+---
+
+### Summary of Strategic Decisions
+*   **Why not replace windows?** The existing windows are already double-glazed and in "Good State." The marginal gain of triple-glazing is lower than the gain from insulating the uninsulated walls and roof.
+*   **Why Air-Water Heat Pump?** Geothermal drilling is not possible on this site, and the absence of a heat grid makes the Air-Water Heat Pump the most viable sustainable option.
+*   **Sequence Logic:** By following the **Roof $\rightarrow$ Walls $\rightarrow$ Floor $\rightarrow$ Ventilation $\rightarrow$ Heat Pump $\rightarrow$ PV** sequence, we ensure the heat pump is sized correctly for a well-insulated house, preventing the installation of an oversized, more expensive unit.
+
+### Estimated Impact
+*   **Energy Consumption:** Massive reduction due to the transition from a boiler to a heat pump and the elimination of heat loss through the envelope.
+*   **EPC Label:** Likely transition from **D** to **B or A**, meeting the owner's primary motivation.
+*   **Cost-Effectiveness:** Maximized by prioritizing high-ROI insulation before expensive system replacements.

@@ -1,0 +1,82 @@
+### **Energy-Efficient and Cost-Effective Renovation Plan for the Building**
+
+#### **1. Roof Renovation**
+- **Replace Gable Roof** (High Priority)
+  - The gable roof is moderately insulated but may benefit from improved insulation.
+  - **Action:** Replace with a better-insulated roof structure.
+  - **Cost:** €260/m² (high nuisance level, permit required if framework is renewed).
+
+- **Insulate Gable Roof** (High Priority)
+  - **Action:** Ensure proper vapour barrier installation and airtightness.
+  - **Cost:** €60/m² (low nuisance level, no permit needed).
+
+- **Replace Flat Roof** (High Priority)
+  - The flat roof (extension) is uninsulated.
+  - **Action:** Opt for an inverted roof structure with insulation on top.
+  - **Cost:** €120/m² (high nuisance level, reporting obligation).
+
+#### **2. Wall Insulation**
+- **Insulate Wall Cavity** (High Priority)
+  - The full brick walls (front and rear) are uninsulated.
+  - **Action:** Inject insulation into cavities (if suitable).
+  - **Cost:** €22/m² (low nuisance level, no permit needed).
+
+- **Insulate Wall on Exterior** (Medium Priority)
+  - **Action:** Consider external wall insulation for better thermal performance.
+  - **Cost:** €200/m² (high nuisance level, permit needed if thickness >26cm).
+
+#### **3. Floor Insulation**
+- **Insulate Floor Above Basement** (Medium Priority)
+  - **Action:** Install insulation to reduce heat loss.
+  - **Cost:** €30/m² (low nuisance level, no permit needed).
+
+#### **4. Window & Glazing Upgrades**
+- **Replace Windows** (High Priority)
+  - **Action:** Replace wooden-framed windows with energy-efficient alternatives.
+  - **Cost:** €800/m² (high nuisance level, no permit needed).
+
+- **Replace Glazing** (Medium Priority)
+  - **Action:** Upgrade to triple glazing if possible.
+  - **Cost:** €200/m² (high nuisance level, no permit needed).
+
+#### **5. Heating & Ventilation Systems**
+- **Replace Ventilation System** (Medium Priority)
+  - **Action:** Upgrade to a more efficient system (e.g., Ventilation System D).
+  - **Cost:** €3,500 (fixed) + €17/m² (moderate nuisance level).
+
+- **Place Heat Pump Boiler** (High Priority)
+  - **Action:** Install an air-source heat pump for water heating.
+  - **Cost:** €4,000 (moderate nuisance level).
+
+#### **6. Solar Energy Integration**
+- **Place PV-Panels on Roof** (High Priority)
+  - **Action:** Install solar panels if roof orientation and shading are suitable.
+  - **Cost:** €275/m² (low nuisance level, no permit needed if in the same plane).
+
+- **Place Plug-and-Play PV-Panels** (Optional)
+  - **Action:** Consider small-scale solar panels for immediate energy savings.
+  - **Cost:** €550 (low nuisance level).
+
+#### **7. Additional Recommendations**
+- **Place Roof Underlayment** (High Priority)
+  - **Action:** Ensure air- and watertightness.
+  - **Cost:** €65/m² (low nuisance level).
+
+- **Remove Asbestos (if present)** (High Priority)
+  - **Action:** Check and remove asbestos from roofs before solar panel installation.
+  - **Cost:** €40–45/m² (low to moderate nuisance level).
+
+### **Optimal Execution Order**
+1. **Roof & Wall Insulation** (Highest impact on energy efficiency)
+2. **Window & Glazing Upgrades** (Improves thermal comfort)
+3. **Heating System Upgrades** (Reduces energy consumption)
+4. **Solar Panel Installation** (Long-term energy savings)
+5. **Ventilation & Additional Measures** (Enhances indoor air quality)
+
+### **Final Notes**
+- Prioritize **insulation upgrades** and **window replacements** first for maximum energy savings.
+- Consider **heat pump installation** and **solar panels** for long-term sustainability.
+- Check for **asbestos removal** before roof renovations.
+- Ensure **proper permitting** for structural changes.
+
+This plan ensures **cost-effective, energy-efficient upgrades** while maintaining historical integrity where applicable.

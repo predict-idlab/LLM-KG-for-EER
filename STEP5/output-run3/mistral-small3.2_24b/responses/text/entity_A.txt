@@ -1,0 +1,31 @@
+Based on the provided building data, the property is a semi-detached house from 1951 with an EPC score of 388. The primary goal is to improve energy efficiency in a cost-effective manner. The renovation should follow the **"Insulate → Ventilate → Generate"** sequence to maximize efficiency gains.
+
+### Proposed Renovation Path
+
+#### **Phase 1: Thermal Envelope Optimization (Priority: High)**
+1. **Insulate Pitched Roof:** The main roof is uninsulated, making it a priority to prevent heat loss.
+2. **Insulate Exterior Walls (Interior or Exterior Insulation):** Since the walls are solid brick, interior insulation is more cost-effective.
+3. **Insulate Floor Above Basement:** Adding insulation here reduces heat loss to the basement.
+
+#### **Phase 2: Heating & Emission System Transition (Priority: Medium)**
+4. **Replace Heating System with an Air-Water Heat Pump:** Since geothermal potential is low, an air-water heat pump is the best alternative to the existing boiler.
+5. **Upgrade to Low-Temperature Emission System:** Ensure radiators and underfloor heating are compatible with low-temperature operation for better heat pump efficiency.
+
+#### **Phase 3: Ventilation Upgrade (Priority: Medium)**
+6. **Upgrade Ventilation System:** Replace the natural ventilation system with a more efficient system (e.g., System C or D) to maintain air quality in a now-sealed envelope.
+
+#### **Phase 4: Sustainable Energy Generation (Priority: Long-term)**
+7. **Install Photovoltaic (PV) Panels:** Given the potential for PV installation, adding solar panels will help offset the electricity consumption of the heat pump and ventilation system.
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Pitched Roof** | Prevents heat loss through the uninsulated roof. |
+| **2** | **Insulate Exterior Walls** | Reduces heat loss through uninsulated solid brick walls. |
+| **3** | **Insulate Floor Above Basement** | Minimizes heat loss to the basement. |
+| **4** | **Upgrade to Air-Water Heat Pump** | Replaces the inefficient boiler with a more sustainable heating solution. |
+| **5** | **Upgrade to Low-Temperature Emission System** | Ensures compatibility with the new heat pump for better efficiency. |
+| **6** | **Upgrade Ventilation System** | Maintains indoor air quality in a sealed envelope. |
+| **7** | **Install PV Panels** | Generates renewable energy to power the heat pump and ventilation system. |
+
+This structured approach ensures that each upgrade maximizes energy efficiency while remaining cost-effective.

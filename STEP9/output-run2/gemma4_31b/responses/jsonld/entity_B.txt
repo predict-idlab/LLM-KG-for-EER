@@ -1,0 +1,39 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building, we must follow the **"Envelope First"** principle. By reducing the building's energy demand through insulation before upgrading the heating systems, we avoid oversizing equipment and maximize the return on investment.
+
+### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+The building has several critical gaps in insulation. Addressing these first will significantly lower the EPC score and reduce the capacity needed for a new heating system.
+
+1.  **Insulate Flat Roof (Extension):** The extension roof is currently not insulated. This is a high-priority, high-impact win for thermal efficiency.
+2.  **Insulate Floor Above Basement:** The floor is not insulated. Adding insulation here prevents "cold feet" and reduces heat loss to the basement.
+3.  **Insulate Walls (Front & Rear):** Both full brick walls are not insulated. Given the building's age (1832) and "Attached" status, **Insulate wall on interior** is the most practical and cost-effective path to avoid boundary disputes and permit issues associated with exterior cladding.
+4.  **Insulate Gable Roof:** While moderately insulated, a top-up of insulation here is a low-cost way to prevent heat from escaping through the highest point of the house.
+
+### **Phase 2: Ventilation & Air Quality**
+Once the building is "sealed" with insulation, the existing Ventilation System A (natural supply) may become insufficient or lead to moisture issues.
+
+5.  **Replace Ventilation System:** Upgrade to a more efficient system (e.g., System C or D). This ensures a healthy indoor climate and, if a heat-recovery system is chosen, further reduces the energy needed to heat incoming fresh air.
+
+### **Phase 3: High-Efficiency Heating Transition**
+With the energy demand now minimized, we can replace the outdated generation system.
+
+6.  **Place Air-Water Heat Pump:** Since the site has **no potential** for geothermal drilling/captation and no access to a heat grid, an Air-Water heat pump is the most efficient alternative. It is compatible with the existing radiator emission system, making it more cost-effective than a full system overhaul.
+7.  **Place Emission System on Low Temperature:** To maximize the efficiency (COP) of the new heat pump, the existing radiators should be evaluated/upgraded to low-temperature emitters where possible.
+
+### **Phase 4: Renewable Energy Integration (Offsetting Consumption)**
+The final step is to transition from reducing consumption to generating clean energy.
+
+8.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels now allows the owner to power the new heat pump and ventilation system with self-generated electricity, drastically lowering operational costs.
+
+---
+
+### **Summary of Renovation Sequence**
+| Order | Action | Target Element | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof** | Roof Extension | High heat loss area; not insulated. |
+| **2** | **Insulate Floor** | Floor Above Basement | Eliminates basement heat sink. |
+| **3** | **Insulate Walls (Int)** | Front/Rear Walls | Critical gap; interior is safer for attached homes. |
+| **4** | **Upgrade Ventilation** | Ventilation System | Maintains air quality in a sealed envelope. |
+| **5** | **Air-Water Heat Pump** | Generation System | Efficient replacement for the boiler. |
+| **6** | **Install PV Panels** | Roof Main | Offsets the electrical load of the heat pump. |
+
+**Estimated Impact:** This path transforms the building from a "C Label" (262 kWh/m²year) toward an "A" or "B" label by systematically removing thermal bridges before investing in high-efficiency technology.

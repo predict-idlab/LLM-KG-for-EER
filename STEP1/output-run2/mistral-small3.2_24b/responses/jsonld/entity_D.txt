@@ -1,0 +1,75 @@
+### Renovation Plan for the Building
+
+**1. Evaluate Current Energy Performance:**
+   - The building has an EPC score of 87.
+   - **Objective:** Improve the EPC score to achieve better energy efficiency.
+
+**2. Assess Building Elements:**
+   - **Roof:**
+     - Main Roof (Gable Roof): Moderately Insulated
+     - Extension Roof (Flat Roof): Well Insulated
+   - **Walls:**
+     - All walls are well insulated and do not have historical protection.
+   - **Floors:**
+     - Floor Above Basement: Well Insulated
+   - **Windows:**
+     - Windows in Living Area and Bedrooms: Framed with Wooden Frames and Double Glazing.
+   - **Ventilation System:**
+     - Ventilation System D is present.
+   - **PV Panels:**
+     - PV Panels are present.
+   - **Heat Pump:**
+     - Heat Pump is present as the main generation system.
+   - **Emission System:**
+     - Emission System is present.
+
+**3. Identify Key Renovation Suggestions:**
+   - **Improve Roof Insulation:**
+     - The main roof (Gable Roof) is moderately insulated. Consider improving its insulation to enhance overall energy efficiency.
+     - **Suggestion:** Insulate Gable Roof (Ordering: 28)
+   - **Upgrade Windows:**
+     - The windows have double glazing, which is good, but consider upgrading to triple glazing for better insulation.
+     - **Suggestion:** Replace Windows (Ordering: 46)
+   - **Optimize Ventilation System:**
+     - The ventilation system is of type D, which is efficient but may require maintenance or upgrades to ensure optimal performance.
+     - **Suggestion:** Replace Ventilation System (Ordering: 52)
+   - **Consider Additional PV Panels:**
+     - The building has potential for PV panels, which can further reduce energy consumption and costs.
+     - **Suggestion:** Place PV Panels on Roof (Ordering: 85)
+   - **Heat Pump Optimization:**
+     - Ensure the heat pump is functioning optimally and consider regular maintenance to maintain efficiency.
+     - **Suggestion:** Regular Maintenance of Heat Pump (Ordering: 61)
+
+**4. Cost and Feasibility Analysis:**
+   - **Insulate Gable Roof:**
+     - Cost: €60 per m²
+   - **Replace Windows:**
+     - Cost: €800 per m²
+   - **Replace Ventilation System:**
+     - Cost: €3500 + €17 per m²
+   - **Place PV Panels on Roof:**
+     - Cost: €275 per m²
+   - **Regular Maintenance of Heat Pump:**
+     - Cost: €1500 (one-time)
+
+**5. Execution Plan:**
+   - **Phase 1: Roof Insulation and Window Replacement**
+     - Start with insulating the gable roof and replacing windows to improve thermal comfort and energy efficiency.
+   - **Phase 2: Ventilation System Upgrade**
+     - Upgrade the ventilation system to ensure better air quality and energy efficiency.
+   - **Phase 3: PV Panel Installation**
+     - Install additional PV panels to reduce reliance on grid electricity and lower energy costs.
+   - **Phase 4: Heat Pump Maintenance**
+     - Schedule regular maintenance for the heat pump to ensure it operates at peak efficiency.
+
+**6. Expected Outcomes:**
+   - Improved EPC score leading to better energy efficiency and lower energy bills.
+   - Enhanced thermal comfort within the building.
+   - Reduced carbon footprint through the use of renewable energy sources.
+
+**7. Next Steps:**
+   - Consult with a certified energy expert to conduct a detailed energy audit and provide specific recommendations.
+   - Obtain necessary permits and approvals for the planned renovations.
+   - Schedule the renovations in a logical sequence to minimize disruption and maximize efficiency.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective and practical. The recommendations are based on the current state of the building and the goals of improving the EPC score and overall energy performance.

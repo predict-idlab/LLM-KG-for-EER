@@ -1,0 +1,72 @@
+Based on the provided information, here is a concise and actionable renovation plan that is grounded in the RENO ontology and tailored to the entity:
+
+### **1. Insulate the RoofMain**
+   - **Action**: Insulate the gable roof (RoofMain).
+   - **Reasoning**: The RoofMain is currently not insulated (NotInsulated). Insulating it will significantly improve the building's energy efficiency.
+   - **Suggestion**: Use the `InsulateGableRoof` renovation suggestion.
+   - **Nuisance Level**: Low.
+   - **Estimated Cost**: 60 €/m².
+
+### **2. Insulate the Wall_Front, Wall_Right, and Wall_Rear**
+   - **Action**: Insulate the front, right, and rear walls (Wall_Front, Wall_Right, Wall_Rear).
+   - **Reasoning**: All three walls are currently not insulated (NotInsulated). Insulating them will further improve the building's energy efficiency.
+   - **Suggestion**: Use the `InsulateWallExterior` renovation suggestion for the exterior walls.
+   - **Nuisance Level**: High.
+   - **Estimated Cost**: 200 €/m².
+
+### **3. Insulate the FloorAboveBasement**
+   - **Action**: Insulate the floor above the basement (FloorAboveBasement).
+   - **Reasoning**: The floor above the basement is currently not insulated (NotInsulated). Insulating it will help reduce heat loss.
+   - **Suggestion**: Use the `InsulateFloorAboveBasement` renovation suggestion.
+   - **Nuisance Level**: Low.
+   - **Estimated Cost**: 30 €/m².
+
+### **4. Replace the Ventilation System**
+   - **Action**: Replace the ventilation system (VentilationSystem).
+   - **Reasoning**: The current ventilation system is of type A, which is the least efficient. Replacing it with a more efficient system (e.g., VentilationSystemB or VentilationSystemC) will improve indoor air quality and energy efficiency.
+   - **Suggestion**: Use the `ReplaceVentilationSystem` renovation suggestion.
+   - **Nuisance Level**: Moderate.
+   - **Estimated Cost**: 35 €/m² + 3500 € fixed price.
+
+### **5. Install PV Panels**
+   - **Action**: Place PV panels on the roof (RoofMain) or in the garden.
+   - **Reasoning**: The building has potential for PV installation (hasPotentialForPV: true). Installing PV panels will reduce the building's reliance on the grid and lower energy costs.
+   - **Suggestion**: Use the `PlacePVPanelsOnRoof` or `PlacePVPanelsInGarden` renovation suggestion.
+   - **Nuisance Level**: Low.
+   - **Estimated Cost**: 275 €/m².
+
+### **6. Replace the Emission System**
+   - **Action**: Replace the emission system (EmissionSystem).
+   - **Reasoning**: The current emission system (AirHeating, FloorHeating, Radiator) may not be the most efficient. Replacing it with a more efficient system (e.g., heat pump) will improve heating efficiency.
+   - **Suggestion**: Use the `PlaceAirWaterHeatpump` or `PlaceGeothermalHeatpumpVertical` renovation suggestion.
+   - **Nuisance Level**: Moderate.
+   - **Estimated Cost**: Varies depending on the chosen system.
+
+### **7. Remove Asbestos from RoofExtension**
+   - **Action**: Remove asbestos from the flat roof (RoofExtension).
+   - **Reasoning**: The RoofExtension may contain asbestos. Removing it will ensure safety and compliance with regulations.
+   - **Suggestion**: Use the `RemoveAsbestosFlatRoof` renovation suggestion.
+   - **Nuisance Level**: Moderate.
+   - **Estimated Cost**: 40 €/m².
+
+### **8. Improve the Energy Performance Certificate (EPC)**
+   - **Action**: Implement the above suggestions to improve the EPC label.
+   - **Reasoning**: The current EPC score is 388, which is in the E label range. The goal is to improve it to at least a D label or better.
+   - **Suggestion**: Follow the above steps to achieve the desired EPC label.
+
+### **Optimal Sequence of Actions**
+1. **Remove Asbestos from RoofExtension** (if applicable).
+2. **Insulate the RoofMain**.
+3. **Insulate the Wall_Front, Wall_Right, and Wall_Rear**.
+4. **Insulate the FloorAboveBasement**.
+5. **Replace the Ventilation System**.
+6. **Install PV Panels**.
+7. **Replace the Emission System**.
+
+### **Expected Outcomes**
+- **Energy Efficiency**: Significant improvement in the building's energy efficiency.
+- **Cost Savings**: Reduced energy bills due to better insulation and more efficient systems.
+- **Comfort**: Improved thermal comfort and indoor air quality.
+- **Sustainability**: Lower carbon footprint due to reduced energy consumption and renewable energy generation.
+
+This plan is designed to be cost-effective and maximize energy efficiency while adhering to the RENO ontology guidelines.

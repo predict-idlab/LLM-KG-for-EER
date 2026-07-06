@@ -1,0 +1,39 @@
+Based on the provided RENO ontology and the building information, here's a cost-effective and energy-efficient renovation plan prioritized to maximize benefits:
+
+1. **Roof Improvements**:
+   - *Replace Flat Roof* (RoofExtension): The flat roof is not insulated and has asbestos (implied by the need for asbestos removal). Replace it with an insulated warm roof structure (€120/m²).
+   - *Insulate Gable Roof* (RoofMain): The gable roof is moderately insulated. Add insulation to improve performance (€60/m²).
+
+2. **Wall Improvements**:
+   - *Insulate Wall Cavity* (Wall_Front, Wall_Rear): Both walls are not insulated. Inject insulation into the cavity (€22/m²). This is more cost-effective than interior or exterior insulation.
+
+3. **Window Improvements**:
+   - *Replace Glazing* (WindowsBedrooms, WindowsLivingArea): Replace the double glazing with more efficient glazing (€200/m²). This improves thermal comfort and energy efficiency.
+
+4. **Floor Improvements**:
+   - *Insulate Floor Above Basement* (FloorAboveBasement): This is not insulated. Add insulation to reduce heat loss (€30/m²).
+
+5. **Ventilation System**:
+   - *Replace Ventilation System* (VentilationSystem): Upgrade from system A to system C or D for better air quality and energy efficiency (€3,500 + €17/m²).
+
+6. **Heating System**:
+   - *Connect to Heatgrid* (EmissionSystem): If possible, connect to a heat grid for more sustainable heating (€7,000). If not, consider *Place Heat Pump Boiler* (€4,000) or *Place Air-Water Heatpump* (€8,000 + €35/m²).
+
+7. **Additional Measures**:
+   - *Place Sunshade* (Bedrooms, LivingArea): Reduce solar gain in summer (€750).
+   - *Place PV-Panels on Roof* (RoofMain): Generate renewable energy (€275/m²). Ensure asbestos is removed first.
+
+### Prioritization:
+1. Roof replacements (especially flat roof)
+2. Wall insulation
+3. Window glazing replacement
+4. Floor insulation
+5. Ventilation system upgrade
+6. Heating system upgrade
+7. Additional measures (sunshade, PV-panels)
+
+### Notes:
+- The plan focuses on improving the building's energy performance certificate (EPC) as per the owner's motivation.
+- The sequence ensures that structural changes (roof, walls) are done first, followed by system upgrades (ventilation, heating).
+- Costs are approximate and based on the provided ontology. Actual costs may vary.
+- Permits and nuisance levels are considered based on the ontology's annotations.

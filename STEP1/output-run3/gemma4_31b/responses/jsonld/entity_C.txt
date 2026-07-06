@@ -1,0 +1,40 @@
+### Energy Efficiency Renovation Analysis
+
+**Building Profile:**
+The property is a modern **Attached Building (constructed 2023)** with an already high energy performance (**EPC Score: 50**, which falls under the **A Label**). Most elements—including the walls, floor above basement, and flat roof extension—are already "Well Insulated." The ventilation system is already at the highest standard (System D).
+
+Despite the high current efficiency, the owner's motivation is to **further improve the EPC**, and there is a recorded **reason to change the emission system**.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, I propose a "Fabric First" approach, focusing on the few remaining weak points before upgrading the mechanical systems.
+
+#### Phase 1: Thermal Envelope Optimization (High ROI)
+Before upgrading heating systems, we must minimize heat loss to ensure the new system is sized correctly and operates at peak efficiency.
+1.  **Insulate Gable Roof:** The main roof is currently only "Moderately Insulated." Upgrading this to "Well Insulated" is the most impactful first step to prevent heat rise.
+    *   *Ontology Suggestion:* `InsulateGableRoof`
+    *   *Priority:* High (Ordering: 28)
+2.  **Upgrade to Triple Glazing:** The current windows have wooden frames in "Good State" with double glazing. To move toward an A+ label, upgrading the glass to triple glazing is the most cost-effective way to reduce thermal bridging without replacing the entire window unit.
+    *   *Ontology Suggestion:* `ReplaceGlazing`
+    *   *Priority:* Medium (Ordering: 43)
+
+#### Phase 2: Sustainable Heating Transition
+With the envelope optimized, we address the inefficient emission system (Electric Convectors) and the existing boiler. Since the site has **no potential for geothermal drilling** and **no heat grid access**, an air-source solution is the only viable high-efficiency path.
+3.  **Install Air-Water Heat Pump:** Given that the building already has **Floor Heating**, an Air-Water Heat Pump is the optimal choice. It will replace the boiler and eliminate the need for inefficient electric convectors by leveraging the existing low-temperature distribution network.
+    *   *Ontology Suggestion:* `PlaceAirWaterHeatpump`
+    *   *Priority:* Final Step (Ordering: 67)
+
+---
+
+### Summary of Sequence & Logic
+
+| Sequence | Action | Target Element | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | Eliminates the primary source of heat loss (Moderately $\rightarrow$ Well Insulated). |
+| **2** | **Upgrade Glazing** | Windows | Reduces radiative heat loss; cost-effective as frames are already in good state. |
+| **3** | **Air-Water Heat Pump** | Generation/Emission | Replaces fossil fuel/electric resistance with a high-COP renewable source. |
+
+**Final Performance Outlook:**
+By following this sequence, the building will transition from an **A Label** toward an **A+ Label**. By focusing on the roof and glazing first, the heat pump's capacity requirements are lowered, reducing both the initial installation cost and long-term operational electricity consumption.

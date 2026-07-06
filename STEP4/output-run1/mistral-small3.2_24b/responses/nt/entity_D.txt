@@ -1,0 +1,29 @@
+### Renovation Plan
+**Entity:** Semi-detached building from 2017
+**Current EPC Score:** 87 (B Label)
+**Owner's Motivation:** Improve EPC
+**Current Building State:**
+- **Well Insulated:** Walls (Front, Rear, and Left)
+- **Well Insulated:** Floor Above Basement
+- **Moderately Insulated:** Gable Roof (RoofMain)
+- **Well Insulated:** Flat Roof (RoofExtension)
+- **Double Glazing:** All Windows
+- **Ventilation System:** System D
+- **PV Potential:** False
+
+**Renovation Plan:**
+
+1. **Replace Glazing:**
+   - **Action:** Replace all glazing with triple glazing.
+   - **Rationale:** Current glazing is double, upgrading to triple will further improve thermal performance and reduce heat loss.
+
+2. **Place Air-Water Heat Pump:**
+   - **Action:** Install an air-water heat pump.
+   - **Rationale:** Current heating system is a heat pump, but upgrading to an air-water heat pump will increase efficiency and reduce energy consumption.
+
+3. **Place PV-Panels on Roof:**
+   - **Action:** Install PV-panels on the gable roof (RoofMain).
+   - **Rationale:** Although the building has no PV potential, installing PV-panels will provide renewable energy to offset the electricity consumption of the heat pump and other appliances.
+
+**Summary of Sequence and Rationale:**
+The proposed renovation plan focuses on enhancing the building's thermal performance and transitioning to more sustainable energy sources. By upgrading the glazing and installing a more efficient heat pump, the building's energy consumption will be significantly reduced. Additionally, the installation of PV-panels will provide renewable energy, further improving the building's EPC score and contributing to long-term energy savings.

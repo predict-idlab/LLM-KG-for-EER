@@ -1,0 +1,57 @@
+To move a house from an EPC score of 165 to a high-efficiency rating, you must follow the **"Insulation First" principle**. Installing a new heating system in a "leaky" house is a waste of money, as you will overpay for a system that is larger than necessary.
+
+Given that your house is in Ghent and not historically protected, you have significant flexibility. Here is the optimal, step-by-step renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Reducing Demand)
+*Goal: Stop heat from escaping. This is the most cost-effective way to lower energy bills.*
+
+1.  **Cavity Wall Insulation (CWI):** 
+    *   **Action:** Since you have cavity walls, this is your "quick win." Injecting insulation beads or foam into the cavity is relatively inexpensive and provides a massive jump in EPC performance.
+    *   **Why:** It is significantly cheaper and faster than external wall insulation.
+2.  **Floor Insulation (Crawl Space):** 
+    *   **Action:** Inspect the floor above the crawl space. If it is uninsulated, install rigid insulation boards (like XPS) or spray-foam insulation against the ceiling of the crawl space.
+    *   **Why:** A cold floor creates a "draft effect," making the rooms feel cold even if the air is warm.
+3.  **Window Upgrade (Single $\rightarrow$ Double/Triple Glazing):**
+    *   **Action:** Replace single glazing with high-efficiency double or triple glazing. Since the wooden frames are in good condition, you may be able to replace just the glass (if the frames allow) or opt for "slim-profile" double glazing to keep the 1862 aesthetic.
+    *   **Why:** Single glazing is essentially a hole in your wall. This will eliminate cold spots and condensation.
+
+### Phase 2: Ventilation (Air Quality & Moisture Control)
+*Goal: Ensure the house can "breathe" once it is sealed.*
+
+4.  **Mechanical Ventilation (MVHR):**
+    *   **Action:** Upgrade from basic natural ventilation to a **Mechanical Ventilation with Heat Recovery (MVHR)** system.
+    *   **Why:** Once you insulate the walls and windows, the house becomes airtight. Without mechanical ventilation, you risk mold and poor air quality. MVHR recovers heat from outgoing air to warm incoming fresh air, further reducing heating costs.
+
+### Phase 3: The Heating System (Efficient Generation)
+*Goal: Replace the outdated, inefficient mix of emitters with a unified, low-carbon system.*
+
+5.  **Emitter Standardization:**
+    *   **Action:** Remove the electric convectors and old air heating systems. Since you already have some underfloor heating (UFH), expand the UFH to other rooms or install **low-temperature radiators**.
+    *   **Why:** Heat pumps work most efficiently at low temperatures. Electric convectors are the most expensive way to heat a home in Belgium.
+6.  **Air-to-Water Heat Pump:**
+    *   **Action:** Replace the old boiler with an Air-to-Water Heat Pump.
+    *   **Why:** Since geothermal is not an option and district heating is unavailable, an air-to-water pump is the gold standard for decarbonization. It leverages the energy efficiency of the newly insulated shell.
+
+### Phase 4: Renewable Energy (Offsetting Costs)
+*Goal: Generate your own electricity to power the heat pump.*
+
+7.  **Photovoltaic (PV) Panels:**
+    *   **Action:** Install solar panels on the pitched roof.
+    *   **Why:** Heat pumps shift your energy consumption from gas to electricity. PV panels offset this cost, potentially bringing your operational energy cost close to zero.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Priority | Action | Impact on EPC | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | High | Cavity Wall & Floor Insulation | $\uparrow\uparrow\uparrow$ | Very High |
+| **2** | High | Double Glazing | $\uparrow\uparrow$ | High |
+| **3** | Medium | MVHR Ventilation | $\uparrow$ | Medium |
+| **4** | Medium | Low-Temp Emitters + Heat Pump | $\uparrow\uparrow\uparrow$ | Medium (High Capex) |
+| **5** | Low | PV Panels | $\uparrow$ | High (Long-term) |
+
+### Expert Pro-Tip for Ghent/Flanders:
+Before starting, check the **"Mijn VerbouwPremie" (My Renovation Premium)**. The Flemish government provides significant subsidies for these specific steps (especially insulation and heat pumps). Ensure you hire an EPC-certified contractor to document the "before" and "after" states to maximize your rebate.

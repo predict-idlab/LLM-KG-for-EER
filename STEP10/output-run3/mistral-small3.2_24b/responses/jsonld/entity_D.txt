@@ -1,0 +1,32 @@
+### Renovation Plan:
+The building is a 2017 semi-detached house with an EPC score of 87 (A Label). Given the high efficiency of the current setup, the goal is to maintain and potentially improve energy performance while considering cost-effectiveness and practicality.
+
+**1. Maintenance and Monitoring:**
+   - **Priority:** High
+   - **Action:** Regular maintenance of the `VentilationSystem` (currently Ventilation System D) and the `Generation_System` (currently a heat pump) to ensure optimal performance.
+   - **Rationale:** Ensures the current high efficiency is sustained and potential issues are identified early.
+
+**2. Emission System Optimization:**
+   - **Priority:** Medium
+   - **Action:** **Place Emission System on Low Temperature:** Adjust the current radiators to low-temperature emissions to maximize the efficiency of the existing heat pump.
+   - **Rationale:** Enhances the performance of the current heat pump without additional costs.
+
+**3. Ventilation System Optimization:**
+   - **Priority:** Medium
+   - **Action:** **Replace Ventilation System:** Consider upgrading from Ventilation System D to a more efficient system (such as System A) to improve air quality and energy efficiency.
+   - **Rationale:** A more efficient ventilation system can reduce energy consumption and improve indoor air quality.
+
+**4. Window Glazing Replacement:**
+   - **Priority:** Low (unless windows are damaged or drafty)
+   - **Action:** **Replace Glazing:** Assess the condition of the windows. If they are drafty or damaged, replace the glazing with double or triple glazing to improve thermal performance.
+   - **Rationale:** Enhances thermal comfort and reduces heat loss, but may not be necessary if current performance is sufficient.
+
+**5. PV-Panel Expansion (if potential exists):**
+   - **Priority:** Long-term
+   - **Action:** **Place PV-Panels on Roof:** If there is potential for PV installation, consider expanding the existing PV system to further reduce energy consumption and carbon footprint.
+   - **Rationale:** Generates renewable energy, reducing reliance on the grid and lowering energy bills.
+
+**Summary of Optimal Sequence:**
+**Maintenance $\rightarrow$ Emission System Optimization $\rightarrow$ Ventilation System Optimization $\rightarrow$ Window Glazing Replacement (if necessary) $\rightarrow$ PV-Panel Expansion (if potential exists).**
+
+This plan ensures that the building maintains its high energy performance while addressing potential areas for improvement in a cost-effective and practical manner.

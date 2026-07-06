@@ -1,0 +1,44 @@
+### Renovation Plan for Semi-Detached Building in Ghent, Belgium
+
+**Objective:** Improve energy efficiency to achieve a better Energy Performance Certificate (EPC) label.
+
+**1. Roof Insulation:**
+   - **Action:** Insulate the gable roof (RoofMain).
+   - **Reasoning:** The gable roof is currently not insulated, which is a significant source of heat loss. Insulating it will improve thermal comfort and reduce heating costs.
+   - **Ordering:** 28 (from the suggestion list).
+
+**2. Wall Insulation:**
+   - **Action:** Insulate the walls on the exterior (Wall_Front, Wall_Rear, Wall_Right).
+   - **Reasoning:** All walls are currently not insulated, contributing to heat loss. Exterior wall insulation is more effective and less disruptive than interior insulation.
+   - **Ordering:** 40 (from the suggestion list).
+
+**3. Ventilation System Upgrade:**
+   - **Action:** Replace the ventilation system (VentilationSystem).
+   - **Reasoning:** The current ventilation system is Type A, which is less efficient than modern systems. Upgrading to a more efficient system will improve indoor air quality and energy efficiency.
+   - **Ordering:** 52 (from the suggestion list).
+
+**4. Window Replacement:**
+   - **Action:** Replace the windows in the bedrooms and living area (WindowsBedrooms, WindowsLivingArea).
+   - **Reasoning:** The windows have double glazing, which is outdated. Replacing them with more energy-efficient windows will reduce heat loss and improve comfort.
+   - **Ordering:** 46 (from the suggestion list).
+
+**5. Heating System Upgrade:**
+   - **Action:** Place an air-water heat pump (EmissionSystem).
+   - **Reasoning:** The current heating system is outdated and inefficient. An air-water heat pump is more energy-efficient and environmentally friendly, reducing energy consumption and costs.
+   - **Ordering:** 67 (from the suggestion list).
+
+**6. Solar Panel Installation:**
+   - **Action:** Place PV-panels on the roof (RoofMain).
+   - **Reasoning:** The building has potential for PV installation, and the roof is suitable. Solar panels will generate renewable energy, further reducing energy costs and carbon footprint.
+   - **Ordering:** 85 (from the suggestion list).
+
+**7. Floor Insulation:**
+   - **Action:** Insulate the floor above the basement (FloorAboveBasement).
+   - **Reasoning:** The floor above the basement is not insulated, leading to heat loss. Insulating it will improve energy efficiency.
+   - **Ordering:** 49 (from the suggestion list).
+
+**8. Additional Considerations:**
+   - **Asbestos Removal:** Check for asbestos in the roof and walls before insulation work begins. If present, arrange for safe removal.
+   - **Permits:** Ensure necessary permits are obtained for structural changes and installations.
+
+This plan prioritizes actions that provide the most significant energy savings and improvements in thermal comfort. It follows a logical sequence, starting with structural improvements before upgrading systems and adding renewable energy sources.

@@ -1,0 +1,30 @@
+Based on the provided building data and the RENO ontology, the property is an attached building from 2023 with an EPC score of 50 (A+ Label). The owner's primary motivation is to improve the EPC rating. Given the already high efficiency of the building, the renovation plan should focus on maintaining and slightly improving the existing performance while ensuring cost-effectiveness.
+
+### Proposed Renovation Path
+
+#### Phase 1: Maintain and Optimize Existing Performance
+1. **Insulate Gable Roof**:
+   - The gable roof is currently moderately insulated. Enhancing its insulation will further improve thermal performance.
+   - **Action**: Insulate the gable roof to achieve well-insulated status.
+   - **Rationale**: Ensures consistent thermal retention across all roof types.
+
+2. **Replace Glazing**:
+   - Although the windows already have double glazing, replacing them with triple glazing can further reduce heat loss.
+   - **Action**: Replace the glazing with triple glazing.
+   - **Rationale**: Maximizes thermal and acoustic performance.
+
+#### Phase 2: Enhance Energy Generation and Efficiency
+3. **Place PV-Panels on Roof**:
+   - The building has confirmed potential for PV. Installing solar panels will provide renewable electricity to power the heat pump and other systems.
+   - **Action**: Install PV panels on the roof.
+   - **Rationale**: Reduces reliance on grid electricity and lowers energy costs.
+
+4. **Place Air-Water Heat Pump with Cooling**:
+   - Given the high efficiency of the existing systems, upgrading to an air-water heat pump with cooling capabilities will further enhance comfort and energy efficiency.
+   - **Action**: Install an air-water heat pump with cooling.
+   - **Rationale**: Provides both heating and cooling, improving overall energy performance.
+
+### Summary of Optimal Sequence
+1. **Insulate Gable Roof** → 2. **Replace Glazing** → 3. **Place PV-Panels on Roof** → 4. **Place Air-Water Heat Pump with Cooling**.
+
+This plan ensures that the building maintains its high energy efficiency while making cost-effective upgrades to further improve performance.

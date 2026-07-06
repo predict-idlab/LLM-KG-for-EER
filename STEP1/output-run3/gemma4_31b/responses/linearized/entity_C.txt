@@ -1,0 +1,39 @@
+### Building Analysis
+The building is a very modern **Attached Building (constructed in 2023)** with an already high energy efficiency rating (**EPC score of 50**). Most structural elements—including the front and rear walls and the floor above the basement—are already **Well Insulated**. The building is equipped with a high-end **Ventilation System D** and existing **PV Panels**.
+
+However, there are two primary opportunities for improvement to further lower the EPC score and maximize long-term operational performance:
+1.  **Roof Insulation:** The main gable roof is only **Moderately Insulated**, representing the weakest point in the thermal envelope.
+2.  **Emission System:** There is an explicit reason to change the current emission system. While the data is contradictory (listing both electric convectors and floor heating), the desire to improve the EPC suggests a transition to a more sustainable, high-efficiency heat source.
+
+---
+
+### Proposed Renovation Path
+
+To maximize energy efficiency while remaining cost-effective, the renovations should follow the "Fabric First" principle: reduce energy demand through insulation before upgrading the heating systems.
+
+#### Step 1: Thermal Envelope Optimization (Priority: High)
+*   **Renovation:** **Insulate Gable Roof**
+*   **Rationale:** The main roof is the only major building element not yet "Well Insulated." Increasing the insulation grade here will significantly reduce heat loss through the top of the building.
+*   **Practical Tip:** Ensure a vapour barrier is installed on the warm side of the insulation to prevent condensation.
+
+#### Step 2: Heating System Upgrade (Priority: Medium-High)
+*   **Renovation:** **Install Air-Water Heat Pump**
+*   **Rationale:** The owner is motivated to improve the EPC and the building has a reason to change the emission system. Since the site lacks potential for geothermal drilling and there is no available heat grid, an Air-Water Heat Pump is the most cost-effective and efficient alternative to replace existing electric or boiler-based heating.
+*   **Synergy:** Because the building already has **Floor Heating**, it is perfectly suited for a low-temperature heat pump system, maximizing the Coefficient of Performance (COP).
+
+#### Step 3: Glazing Enhancement (Priority: Low/Optional)
+*   **Renovation:** **Replace Glazing (Double $\rightarrow$ Triple)**
+*   **Rationale:** The windows currently have double glazing. While sufficient, upgrading to triple glazing would further reduce the EPC score.
+*   **Cost-Effectiveness Note:** Given the 2023 construction date, the marginal gain from triple glazing may be lower than the cost. This should only be pursued if the owner has a strict target for an "A+" label.
+
+---
+
+### Summary of Optimal Sequence
+
+| Sequence | Intervention | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | High (Reduces heat loss) | Very High |
+| **2** | **Air-Water Heat Pump** | High (Sustainable energy) | High |
+| **3** | **Triple Glazing** | Low-Medium (Fine-tuning) | Medium |
+
+**Final Recommendation:** Focus on the **Gable Roof insulation** first to seal the thermal envelope, followed by the installation of an **Air-Water Heat Pump** to leverage the existing floor heating and PV panels for a near-zero energy operational profile.

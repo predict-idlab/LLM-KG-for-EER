@@ -1,0 +1,44 @@
+To move a house from an EPC of 388 to a high-performance rating, you must follow the **"Fabric First"** principle. Installing a modern heating system in an uninsulated 1951 house is a waste of capital, as the heat will simply escape through the walls and roof.
+
+Because you are in Ghent, you should also check for **Flemish government premiums (Mijn VerbouwPremie)**, which significantly offset these costs.
+
+Here is the optimal, sequenced renovation path:
+
+### Phase 1: The Thermal Envelope (Stopping the Leakage)
+*Goal: Reduce the total energy demand of the house so you can install a smaller, cheaper heating system.*
+
+1.  **Roof Insulation (Priority 1):** Heat rises. Since the pitched roof is uninsulated, this is your biggest energy loss. Insulate the roof slope (if the attic is used) or the ceiling (if it is not). 
+2.  **Floor Insulation:** Insulate the ceiling of the basement. This is a cost-effective "quick win" that prevents cold feet and stops heat from sinking into the ground.
+3.  **Wall Insulation:** Solid brick walls are thermal bridges. 
+    *   *Recommendation:* **External Wall Insulation (EWI)** is the most effective for 1951 builds as it protects the structure from moisture and doesn't reduce interior living space. If EWI is too expensive or aesthetically impossible, consider **Internal Wall Insulation (IWI)** for specific rooms.
+4.  **Windows:** Since your wooden frames and double glazing are in good condition, **leave them as is for now**. They are not the priority compared to the uninsulated walls and roof.
+
+### Phase 2: Ventilation (Ensuring Air Quality)
+*Goal: Prevent mold and moisture buildup caused by the new airtight insulation.*
+
+1.  **Mechanical Ventilation with Heat Recovery (MVHR):** As you insulate the house, it becomes more airtight. Natural ventilation will no longer be sufficient. Install a balanced ventilation system that recovers heat from outgoing air to warm the incoming fresh air. This prevents the "stuffy" feeling and further reduces heating bills.
+
+### Phase 3: Heating Generation & Distribution (The Shift to Low-Temp)
+*Goal: Replace the inefficient boiler with a sustainable system sized for your newly insulated home.*
+
+1.  **Heat Emission Upgrade:** Your current radiators and air heating are inefficient. Replace them with **low-temperature radiators** or expand the **underfloor heating**. This is critical because heat pumps work most efficiently at lower water temperatures.
+2.  **Heat Pump Installation:** Now that the house is insulated, your energy demand is low. Install an **Air-to-Water Heat Pump**. Because you have already insulated the roof, walls, and floor, you can install a much smaller (and cheaper) unit than if you had started with the boiler.
+
+### Phase 4: Renewable Energy (Offsetting Consumption)
+*Goal: Move toward a "Net Zero" operational cost.*
+
+1.  **Photovoltaic (PV) Panels:** Now that you have shifted your heating from gas/oil to electricity (via the heat pump), your electricity demand will increase. Install PV panels on the roof to generate your own power, effectively subsidizing the cost of running the heat pump.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Step | Action | Why this order? |
+| :--- | :--- | :--- |
+| **1** | **Insulate Roof $\rightarrow$ Floor $\rightarrow$ Walls** | Reduces the "load." You cannot size a heat pump without knowing the new heat loss. |
+| **2** | **Upgrade Ventilation** | Prevents humidity/mold issues created by a tighter building envelope. |
+| **3** | **Low-Temp Emitters $\rightarrow$ Heat Pump** | Ensures the heat pump operates at maximum COP (efficiency). |
+| **4** | **PV Panels** | Offsets the increased electrical load from the heat pump. |
+
+### Estimated Impact
+By following this sequence, you will not only drastically lower your EPC score (potentially moving from **E/F to A/B**) but also ensure that you don't overpay for a heating system that is too large for your needs. This path maximizes the **Return on Investment (ROI)** by reducing monthly operational costs immediately after Phase 1.

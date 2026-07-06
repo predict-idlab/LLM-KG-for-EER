@@ -1,0 +1,50 @@
+### Renovation Plan for Attached House in Ghent, Belgium
+
+**Objective:** Improve the energy performance certificate (EPC) score (currently 262) through cost-effective, energy-efficient upgrades.
+
+#### Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+The primary goal is to reduce heat loss through the building envelope.
+
+1. **Insulate Flat Roof Extension:**
+   - The flat roof is currently uninsulated, leading to significant heat loss. Insulating this area is a priority.
+   - *Action:* Install high-performance insulation (e.g., rigid foam boards or mineral wool) on the flat roof.
+
+2. **Insulate Exterior Walls (Front and Rear):**
+   - The solid brick walls are uninsulated, contributing to poor thermal performance.
+   - *Action:* Apply exterior insulation (e.g., exterior insulation and finish system - EIFS) to eliminate thermal bridges and improve insulation.
+
+3. **Insulate Floor Above Basement:**
+   - The uninsulated floor above the basement allows cold air to seep into the living space.
+   - *Action:* Install insulation (e.g., rigid foam boards or mineral wool) on the basement ceiling.
+
+**Phase 2: Heating System Upgrade**
+With a tighter thermal envelope, the heating system can be optimized for efficiency.
+
+4. **Replace Boiler with Air-Water Heat Pump:**
+   - The existing boiler is inefficient and outdated.
+   - *Action:* Install an air-water heat pump to provide sustainable, low-temperature heating.
+
+5. **Upgrade Radiators to Low-Temperature Emission System:**
+   - The current radiators may not be compatible with the heat pump’s low-temperature output.
+   - *Action:* Replace or modify radiators to ensure they can operate efficiently with the heat pump.
+
+**Phase 3: Ventilation System Upgrade**
+Improving indoor air quality is essential after sealing the building envelope.
+
+6. **Replace Natural Ventilation with Mechanical Ventilation (System C or D):**
+   - The current natural ventilation system is inefficient and may lead to moisture issues.
+   - *Action:* Install a mechanical ventilation system with heat recovery (e.g., System C or D) to maintain air quality and reduce heat loss.
+
+**Phase 4: Sustainable Energy Generation (Optional but Recommended)**
+To further improve the EPC score and reduce energy costs.
+
+7. **Install Photovoltaic (PV) Panels:**
+   - The house has potential for PV installation.
+   - *Action:* Install PV panels on the roof to generate renewable electricity, offsetting the heat pump’s energy consumption.
+
+#### Summary of Optimal Sequence
+1. **Insulate Flat Roof** → **Insulate Exterior Walls** → **Insulate Floor Above Basement** → **Install Air-Water Heat Pump** → **Upgrade Radiators** → **Improve Ventilation** → **Install PV Panels**.
+
+This sequence ensures that the building envelope is optimized first, reducing the heating demand before upgrading the heating system and ventilation. The optional PV installation further enhances energy efficiency and sustainability.

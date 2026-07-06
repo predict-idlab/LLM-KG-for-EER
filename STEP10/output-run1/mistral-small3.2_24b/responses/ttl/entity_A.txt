@@ -1,0 +1,85 @@
+### Step-by-Step Analysis and Renovation Plan
+
+#### **1. Building Overview**
+- **Type:** Semi-detached building
+- **Construction Year:** 1951
+- **EPC Score:** 388 (D Label)
+- **Owner's Motivation:** To improve EPC
+- **Potential for PV:** Yes
+- **Presence of Heat Grid:** No
+- **Current Heating System:** Boiler with radiators and floor heating
+
+#### **2. Key Areas for Improvement**
+- **Uninsulated Elements:**
+  - `Wall_Front`, `Wall_Rear`, `Wall_Right` (all full brick, not insulated)
+  - `FloorAboveBasement` (not insulated)
+  - `RoofMain` (gable roof, not insulated)
+  - `RoofExtension` (flat roof, moderately insulated)
+- **Ventilation System:** Type A (natural), which is inefficient
+- **Windows:** Double-glazed, frames in good condition
+
+#### **3. Proposed Renovation Path**
+The renovation should follow a **"Fabric-First"** approach, focusing on insulating the building envelope before upgrading heating systems. This ensures energy efficiency and cost-effectiveness.
+
+##### **Phase 1: Thermal Envelope Optimization**
+1. **Insulate Walls on Exterior**
+   - **Action:** Insulate `Wall_Front`, `Wall_Rear`, and `Wall_Right` on the exterior.
+   - **Rationale:** Exterior insulation is more effective for full brick walls and eliminates thermal bridges. It also avoids reducing interior space.
+   - **Cost:** High (200 €/m²), but necessary for significant energy savings.
+
+2. **Insulate Floor Above Basement**
+   - **Action:** Insulate `FloorAboveBasement`.
+   - **Rationale:** Prevents heat loss to the basement and improves thermal comfort.
+   - **Cost:** 30 €/m².
+
+3. **Insulate Gable Roof**
+   - **Action:** Insulate `RoofMain` (gable roof).
+   - **Rationale:** Gable roofs lose a significant amount of heat; insulation will reduce this loss.
+   - **Cost:** 60 €/m².
+
+4. **Insulate Flat Roof**
+   - **Action:** Improve insulation of `RoofExtension` (flat roof).
+   - **Rationale:** Flat roofs are prone to heat loss; better insulation will improve energy efficiency.
+   - **Cost:** 50 €/m².
+
+##### **Phase 2: Heating System Upgrade**
+5. **Place Air-Water Heat Pump**
+   - **Action:** Replace the existing boiler with an air-water heat pump.
+   - **Rationale:** More energy-efficient and sustainable, suitable for the improved thermal envelope.
+   - **Cost:** Fixed price of 8,000 € + 35 €/m².
+
+6. **Place Emission System on Low Temperature**
+   - **Action:** Upgrade the current radiators to low-temperature emissions.
+   - **Rationale:** Maximizes the efficiency of the new heat pump.
+   - **Cost:** 100 €/m².
+
+##### **Phase 3: Ventilation System Upgrade**
+7. **Replace Ventilation System**
+   - **Action:** Upgrade from Ventilation System A (natural) to System D (mechanical supply and exhaust).
+   - **Rationale:** Ensures proper air quality and moisture control in a now-sealed building.
+   - **Cost:** Fixed price of 3,500 € + 17 €/m².
+
+##### **Phase 4: Sustainable Energy Generation**
+8. **Place PV-Panels on Roof**
+   - **Action:** Install PV panels on the roof.
+   - **Rationale:** Generates renewable electricity to power the heat pump and other systems.
+   - **Cost:** 275 €/m².
+
+#### **4. Summary of Optimal Sequence**
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Exterior Wall Insulation** | Reduces heat loss through walls. |
+| **2** | **Floor Above Basement Insulation** | Prevents heat loss to the basement. |
+| **3** | **Gable Roof Insulation** | Reduces heat loss through the roof. |
+| **4** | **Flat Roof Insulation** | Improves energy efficiency of the flat roof. |
+| **5** | **Air-Water Heat Pump** | Replaces the old boiler with a more efficient system. |
+| **6** | **Low-Temperature Emission Upgrade** | Maximizes heat pump efficiency. |
+| **7** | **Ventilation System Upgrade** | Ensures proper air quality. |
+| **8** | **PV Panels on Roof** | Generates renewable energy. |
+
+#### **5. Final Recommendations**
+- **Priority:** Follow the sequence strictly to ensure cost-effectiveness and energy efficiency.
+- **Cost Considerations:** Exterior wall insulation is expensive but necessary for significant energy savings. PV panels are a long-term investment.
+- **Permits:** Check local regulations for permits, especially for exterior insulation and PV panel installation.
+
+This plan ensures that the building's energy efficiency is maximized while keeping costs manageable.

@@ -1,0 +1,9 @@
+1. remove asbestos roofextension and roofmain
+2. insulate roofextension and roofmain
+3. insulate walls
+4. insulate floorabovebasement
+5. replace ventilationsystem
+6. upgrade emission system
+7. replace boiler with heat pump boiler
+8. install pv-panels roofmain or garden
+9. replace glazing and windows

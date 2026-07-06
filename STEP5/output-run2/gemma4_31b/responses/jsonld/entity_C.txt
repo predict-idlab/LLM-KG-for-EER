@@ -1,0 +1,27 @@
+Based on the provided building data and the RENO ontology, this is a very modern property (constructed in 2023) that already exhibits high energy efficiency with an **EPC score of 50 (A Label)**. Most of the thermal envelope is already "Well Insulated," and it features a high-end Ventilation System D.
+
+However, there is a clear opportunity to transition from traditional/electric heating to a sustainable system, as indicated by the `hasReasonToChangeEmissionSystem: true` flag.
+
+To further optimize the building's performance while remaining cost-effective, the following renovation path is proposed:
+
+### Proposed Renovation Path
+
+#### Phase 1: Finalizing the Thermal Envelope (Priority: Low)
+While the building is already highly efficient, there is one remaining area for improvement in the building fabric to ensure the lowest possible heat demand before upgrading the heating system.
+1. **Insulate Gable Roof:** The `RoofMain` is currently "Moderately Insulated," whereas the walls and flat roof are "Well Insulated." Upgrading the gable roof insulation will eliminate the final significant thermal bridge in the envelope.
+
+#### Phase 2: Heating System Modernization (Priority: High)
+The building currently relies on a Boiler and Electric Convectors. Electric convectors are notoriously inefficient. Since the building already has a low energy demand, it is a perfect candidate for a low-temperature heat pump system.
+
+2. **Place Emission System on Low Temperature:** To maximize the efficiency (COP) of a heat pump, the emission system should be optimized for low-temperature operation. This should be done before installing the new generator.
+3. **Place Air-Water Heat Pump:** Given that there is no potential for geothermal drilling or horizontal captation, and no heat grid is available, an **Air-Water Heat Pump** is the most efficient and sustainable replacement for the current boiler. This will leverage the existing PV panels to provide carbon-neutral heating.
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Completes the "Fabric First" approach, ensuring the heating system is sized for the absolute minimum load. |
+| **2** | **Low-Temp Emission Upgrade** | Prepares the building's internal distribution to handle the lower flow temperatures of a heat pump. |
+| **3** | **Air-Water Heat Pump** | Replaces the boiler and inefficient electric convectors with a sustainable, high-efficiency energy source. |
+
+**Final Note:** Because the building already possesses double glazing in a good state, a high-efficiency ventilation system (System D), and existing PV panels, no further interventions are recommended in those areas to maintain cost-effectiveness.

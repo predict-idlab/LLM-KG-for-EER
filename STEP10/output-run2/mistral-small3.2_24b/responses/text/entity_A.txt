@@ -1,0 +1,49 @@
+### Renovation Plan for a Semi-Detached House in Ghent, Belgium (Built in 1951, EPC Score: 388)
+
+**Objective:** Improve energy efficiency and EPC score in a cost-effective manner by following a "fabric-first" approach, optimizing the thermal envelope before upgrading heating systems.
+
+#### Phase 1: Thermal Envelope Optimization (High Priority)
+1. **Insulate Pitched Roof:**
+   - The main roof is a pitched roof without insulation. Insulating this area is critical as heat rises and significant energy is lost through uninsulated roofs.
+   - *Action:* Add insulation to the pitched roof to reduce heat loss.
+
+2. **Insulate Exterior Walls (Interior Insulation):**
+   - All exterior walls are solid brick and uninsulated. Interior insulation is more cost-effective than exterior insulation for solid walls.
+   - *Action:* Insulate the interior surfaces of the exterior walls to improve thermal retention.
+
+3. **Insulate Floor Above Basement:**
+   - The floor above the basement is uninsulated, leading to heat loss downward.
+   - *Action:* Add insulation to this floor to eliminate "cold feet" and reduce heat loss.
+
+#### Phase 2: Window Performance (Medium Priority)
+4. **Check and Maintain Double Glazing:**
+   - The windows already have double glazing, which is good. Ensure the frames and seals are in good condition to prevent drafts.
+   - *Action:* Inspect and maintain the existing double-glazed windows. No replacement is needed unless there are significant issues.
+
+#### Phase 3: Heating System Upgrade (Medium Priority)
+5. **Replace Heating Emission Systems:**
+   - The current radiators, underfloor heating, and air heating systems are in poor condition.
+   - *Action:* Replace these with low-temperature emission systems (e.g., underfloor heating or low-temperature radiators) to maximize the efficiency of the new heat pump.
+
+6. **Install Air-Water Heat Pump:**
+   - Since geothermal energy is not suitable and there is no district heating network, an air-water heat pump is the most viable and efficient heating solution.
+   - *Action:* Install an air-water heat pump to replace the existing boiler.
+
+#### Phase 4: Ventilation System Upgrade (Medium Priority)
+7. **Upgrade Ventilation System:**
+   - The current natural ventilation system is basic and inefficient.
+   - *Action:* Replace it with a more efficient system (e.g., System C or D) to maintain indoor air quality while minimizing heat loss.
+
+#### Phase 5: Sustainable Energy Generation (Long-Term Priority)
+8. **Install Photovoltaic (PV) Panels:**
+   - The house has potential for PV panel installation.
+   - *Action:* Install PV panels to generate renewable electricity, offsetting the electricity consumption of the heat pump and ventilation system.
+
+### Summary of Optimal Sequence
+1. **Insulate Pitched Roof** → **Insulate Exterior Walls (Interior)** → **Insulate Floor Above Basement**
+2. **Maintain Double-Glazed Windows**
+3. **Replace Heating Emission Systems** → **Install Air-Water Heat Pump**
+4. **Upgrade Ventilation System**
+5. **Install PV Panels**
+
+This sequence ensures that the building's thermal envelope is optimized first, reducing the overall energy demand before upgrading the heating system. The ventilation system is then improved to maintain air quality, and finally, PV panels are installed to generate renewable energy. This approach maximizes energy efficiency and cost-effectiveness.

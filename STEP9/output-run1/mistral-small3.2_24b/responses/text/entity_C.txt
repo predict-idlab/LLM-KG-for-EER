@@ -1,0 +1,66 @@
+Given the information about your house in Ghent, Belgium, here’s a step-by-step renovation plan to improve energy efficiency while remaining cost-effective. The plan prioritizes upgrades that offer the highest energy savings and long-term operational benefits, considering the current condition of your home.
+
+### Step 1: Replace the Heating System
+**Action:** Replace the old boiler and heat emission systems (underfloor heating and electric convectors) with a more efficient system.
+**Options:**
+- **Heat Pump:** Given the underfloor heating system already in place, an air-source heat pump (ASHP) could be a good fit. It’s efficient and works well with underfloor heating. Although the site isn’t suitable for geothermal, an ASHP can still be viable.
+- **Modern Gas Boiler:** If a heat pump isn’t feasible, opt for a high-efficiency condensing boiler. Pair it with new underfloor heating or radiators for better performance.
+
+**Why First?**
+A modern heating system will immediately reduce energy consumption and improve the Energy Performance Certificate (EPC) score.
+
+### Step 2: Upgrade Roof Insulation (Main Pitched Roof)
+**Action:** Improve insulation in the main pitched roof, which currently has a moderate level of insulation.
+**Options:**
+- Add additional insulation (e.g., mineral wool or rigid foam boards) to reach the recommended U-value (e.g., 0.18 W/m²K or lower).
+- Consider installing a vapor barrier if not already present to prevent condensation.
+
+**Why Next?**
+Roofs are significant sources of heat loss. Upgrading insulation here will have a noticeable impact on energy efficiency.
+
+### Step 3: Optimize Ventilation System
+**Action:** Ensure the ventilation system (System D) is operating efficiently.
+**Options:**
+- Service the system to clean ducts and filters.
+- Upgrade to a more efficient heat recovery ventilation (HRV) system if possible, though this may be more costly.
+
+**Why Next?**
+Efficient ventilation reduces heat loss and improves indoor air quality, contributing to overall energy savings.
+
+### Step 4: Enhance Window Performance (If Needed)
+**Action:** Assess the performance of the double-glazed windows.
+**Options:**
+- If the windows are drafty or not performing well, consider upgrading to triple-glazed windows with low-emissivity (Low-E) coatings and argon or krypton gas fill.
+- Ensure all windows are properly sealed to prevent air leaks.
+
+**Why Next?**
+Windows are another major source of heat loss. Upgrading them will further improve the EPC score, though this is lower priority given the recent 2024 renovation.
+
+### Step 5: Monitor and Optimize Photovoltaic (PV) System
+**Action:** Ensure the PV panels are performing optimally.
+**Options:**
+- Check for any shading issues or maintenance needs.
+- Consider adding a battery storage system to store excess energy for use during peak hours or outages.
+
+**Why Next?**
+Maximizing the use of your existing PV system will reduce reliance on grid electricity, further lowering energy costs and improving sustainability.
+
+### Step 6: Additional Measures (If Budget Allows)
+**Action:** Consider other cost-effective upgrades.
+**Options:**
+- **Smart Thermostats:** Install programmable or smart thermostats to optimize heating schedules.
+- **Insulate Hot Water Pipes:** Reduce heat loss from hot water distribution.
+- **Draft Proofing:** Seal gaps around doors, windows, and other openings to prevent air leaks.
+
+**Why Last?**
+These are smaller upgrades that can be done after the major systems are addressed. They provide incremental improvements to energy efficiency.
+
+### Summary of Renovation Plan:
+1. Replace the old boiler and heat emission systems with a heat pump or high-efficiency boiler.
+2. Upgrade insulation in the main pitched roof.
+3. Optimize the ventilation system.
+4. Assess and potentially upgrade windows if needed.
+5. Monitor and optimize the PV system.
+6. Implement additional measures like smart thermostats, pipe insulation, and draft proofing.
+
+This plan prioritizes the most impactful upgrades first, ensuring cost-effective improvements to your home’s energy performance.

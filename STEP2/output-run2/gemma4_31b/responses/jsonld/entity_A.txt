@@ -1,0 +1,43 @@
+Based on the provided building data and the RENO ontology, the property is a 1951 semi-detached house with a high energy score (388 kWh/m²year, D label), indicating significant heat loss. The owner's primary motivation is to improve the EPC label.
+
+To maximize energy efficiency while remaining cost-effective, I propose a **"Fabric First"** approach. We first reduce the energy demand by improving the building envelope before upgrading the heating systems and adding renewables.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Reducing Heat Loss)
+*The goal here is to stop energy waste. Upgrading heating systems before insulation often leads to oversized, inefficient systems.*
+
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. Since it is in a "Good State," insulation can be added without a full replacement. This is the most cost-effective way to reduce heat loss as heat rises.
+2.  **Insulate Exterior Walls:** All three external walls (Front, Rear, Right) are full brick and not insulated. Given the lack of historical protection, **exterior wall insulation** is recommended over interior insulation to maximize usable space and prevent internal condensation.
+3.  **Insulate Floor Above Basement:** The floor above the basement is not insulated. This prevents "cold feet" and reduces the heating load from the ground up.
+
+#### Phase 2: Air Quality & Ventilation
+*Once the house is sealed with insulation, natural ventilation (System A) will no longer be sufficient, increasing the risk of humidity and mold.*
+
+4.  **Replace Ventilation System:** Upgrade from Ventilation System A to a more efficient system (such as System C or D). This ensures a healthy indoor climate and prevents heat loss through uncontrolled air leakage.
+
+#### Phase 3: High-Efficiency Heating (Generation & Emission)
+*With a significantly lower energy demand due to Phase 1, we can now install a smaller, more efficient heating system.*
+
+5.  **Place Air-Water Heat Pump:** Geothermal options are not possible at this site. An air-water heat pump is the most efficient alternative and is compatible with the existing radiators and floor heating.
+6.  **Optimize Emission System:** Since the building already has floor heating, the owner should ensure the system is optimized for **low-temperature emission**, which maximizes the efficiency (COP) of the new heat pump.
+
+#### Phase 4: Renewable Energy (Operational Cost Reduction)
+*The final step is to offset the remaining electricity consumption of the heat pump.*
+
+7.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will lower long-term operational costs and significantly improve the final EPC score.
+
+---
+
+### Summary of Sequence & Logic
+
+| Sequence | Action | Rationale | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- |
+| **1. Roof** | `insulate gable roof` | Highest impact on heat loss. | High |
+| **2. Walls** | `insulate wall on exterior` | Prevents massive heat loss through brick. | Moderate |
+| **3. Floor** | `insulate floor above basement` | Completes the thermal shell. | High |
+| **4. Air** | `replace ventilation system` | Necessary after sealing the envelope. | Moderate |
+| **5. Heat** | `place air-water heatpump` | Replaces old boiler with green tech. | Moderate |
+| **6. Power**| `place PV-panels on roof` | Lowers monthly energy bills. | High (Long-term) |
+
+**Note on Windows:** While the building has double glazing, the frames are wooden and in a "Good State." Replacing them now would be a low-return investment compared to the roof and wall insulation. I recommend keeping existing windows to remain cost-effective.

@@ -1,0 +1,63 @@
+### Renovation Plan for Semi-Detached Building (1951, 149m², EPC 388)
+
+#### Objective:
+Improve energy efficiency and EPC score (currently 388, D Label) in a cost-effective manner.
+
+#### Proposed Renovation Path:
+
+**Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+1. **Insulate Gable Roof**
+   - The `RoofMain` (Gable Roof) is currently not insulated. Insulating it will significantly reduce heat loss through the roof.
+   - **Cost:** €60/m²
+   - **Rationale:** Heat rises, so insulating the roof is one of the most effective ways to reduce energy consumption.
+
+2. **Insulate Flat Roof**
+   - The `RoofExtension` (Flat Roof) is moderately insulated. Improving insulation will further reduce heat loss.
+   - **Cost:** €50/m²
+   - **Rationale:** Flat roofs can be particularly prone to heat loss if not properly insulated.
+
+3. **Insulate Wall On Interior**
+   - All three external walls (`Wall_Front`, `Wall_Rear`, `Wall_Right`) are full brick and not insulated. Insulating the walls on the interior is more cost-effective than exterior insulation and provides a substantial increase in thermal retention.
+   - **Cost:** €150/m²
+   - **Rationale:** Interior insulation is less disruptive and more affordable than exterior insulation.
+
+**Phase 2: Floor Insulation**
+4. **Insulate Floor Above Basement**
+   - The `FloorAboveBasement` is currently not insulated. Adding insulation here will prevent cold drafts from the basement and improve overall comfort.
+   - **Cost:** €30/m²
+   - **Rationale:** Insulating the floor above the basement is a cost-effective way to reduce heat loss to lower levels.
+
+**Phase 3: Heating System Transition**
+5. **Place Air-Water Heat Pump**
+   - Replace the existing boiler with an Air-Water Heat Pump. This is a sustainable and efficient alternative to traditional boilers.
+   - **Cost:** €8,000 (fixed) + €35/m²
+   - **Rationale:** Heat pumps are more energy-efficient and can significantly reduce energy consumption.
+
+6. **Place Emission System on Low Temperature**
+   - Upgrade the current emission system to a low-temperature system to maximize the efficiency of the new heat pump.
+   - **Cost:** €100/m²
+   - **Rationale:** Low-temperature systems work more efficiently with heat pumps, improving overall energy efficiency.
+
+**Phase 4: Ventilation Upgrade**
+7. **Replace Ventilation System**
+   - Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D). This ensures that the heat gained from the new insulation is not lost through uncontrolled air leakage.
+   - **Cost:** €3,500 (fixed) + €17/m²
+   - **Rationale:** Modern ventilation systems improve indoor air quality and reduce energy loss.
+
+**Phase 5: Sustainable Energy Generation**
+8. **Place PV-Panels on Roof**
+   - Install solar panels on the roof to offset the electricity consumption of the new heat pump and ventilation system.
+   - **Cost:** €275/m²
+   - **Rationale:** Solar panels provide renewable electricity, further improving the EPC label and reducing energy costs.
+
+#### Summary of Optimal Sequence:
+1. **Insulate Gable Roof**
+2. **Insulate Flat Roof**
+3. **Insulate Wall On Interior**
+4. **Insulate Floor Above Basement**
+5. **Place Air-Water Heat Pump**
+6. **Place Emission System on Low Temperature**
+7. **Replace Ventilation System**
+8. **Place PV-Panels on Roof**
+
+This sequence ensures that the building's thermal envelope is optimized before transitioning to a more efficient heating system, preventing the need for an oversized and more expensive HVAC system. The final step of installing solar panels further enhances the building's sustainability and reduces long-term energy costs.

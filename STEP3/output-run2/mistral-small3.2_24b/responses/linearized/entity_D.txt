@@ -1,0 +1,43 @@
+Based on the provided RENO ontology and the specific building details, I'll create a practical and cost-effective renovation plan focused on energy efficiency. Here's the step-by-step plan:
+
+1. **Asbestos Removal (Priority: High)**
+   - Remove asbestos from flat roof (RemoveAsbestosFlatRoof)
+   - Remove asbestos from gable roof (RemoveAsbestosGableRoof)
+   *Reasoning: Safety first. Asbestos removal is crucial before any structural work begins.*
+
+2. **Roof Renovation (Priority: High)**
+   - Replace flat roof (ReplaceFlatRoof)
+   - Insulate flat roof (InsulateFlatRoof)
+   - Replace gable roof (ReplaceGableRoof)
+   - Insulate gable roof (InsulateGableRoof)
+   *Reasoning: Roofs are major heat loss points. The building has moderately insulated roofs that can be improved.*
+
+3. **Wall Insulation (Priority: Medium-High)**
+   - Insulate wall cavity (InsulateWallCavity)
+   - Insulate walls on interior (InsulateWallInterior)
+   *Reasoning: The rear and front walls are well insulated, but cavity insulation can further improve thermal performance.*
+
+4. **Floor Insulation (Priority: Medium)**
+   - Insulate floor above basement (InsulateFloorAboveBasement)
+   *Reasoning: The floor above basement is well insulated but can be improved further.*
+
+5. **Window Improvements (Priority: Medium)**
+   - Replace glazing (ReplaceGlazing)
+   - Replace windows (ReplaceWindows)
+   *Reasoning: Current windows have double glazing which can be improved to triple glazing for better insulation.*
+
+6. **Ventilation System (Priority: Medium-Low)**
+   - Replace ventilation system (ReplaceVentilationSystem)
+   *Reasoning: Current system is type D which can be upgraded for better efficiency.*
+
+7. **Heating System (Priority: Medium-Low)**
+   - Place air-water heat pump (PlaceAirWaterHeatpump)
+   *Reasoning: Current system is a heat pump which can be upgraded for better efficiency.*
+
+8. **Solar Panels (Priority: Low)**
+   - Place PV-panels on roof (PlacePVPanelsOnRoof)
+   *Reasoning: The building has potential for PV panels which can generate renewable energy.*
+
+This plan follows a logical sequence where safety measures come first, followed by structural improvements, and finally system upgrades. The plan focuses on maximizing energy efficiency while being cost-effective, as requested. Each step builds on the previous one to ensure optimal results.
+
+The suggested interventions are all grounded in the provided ontology and suggestion list, and are tailored to the specific characteristics of the building described in the entity information.

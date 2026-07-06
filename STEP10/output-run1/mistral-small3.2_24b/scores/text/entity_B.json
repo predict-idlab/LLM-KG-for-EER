@@ -1,0 +1,16 @@
+{"completeness": {
+    "missing_actions": [
+        "insulate gable roof",
+        "insulate wall on interior",
+        "replace glazing"
+    ],
+    "extra_actions": [
+        "insulate flat roof extension",
+        "insulate exterior walls",
+        "upgrade ventilation system",
+        "upgrade radiators to low-temperature emission systems",
+        "install photovoltaic panels"
+    ]
+}, "sequence": {
+    "order_errors": []
+}}

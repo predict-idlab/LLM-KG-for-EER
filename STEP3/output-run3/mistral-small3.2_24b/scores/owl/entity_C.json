@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump"], "extra_actions": ["insulate flat roof", "replace ventilation system", "insulate walls", "replace windows", "place pv-panels on roof"]}, "sequence": {"order_errors": []}}

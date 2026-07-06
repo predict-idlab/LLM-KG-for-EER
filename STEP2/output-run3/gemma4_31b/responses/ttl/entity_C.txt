@@ -1,0 +1,40 @@
+Based on the provided ontology and building data, the property is a very modern (2023) attached building with an already excellent energy performance (EPC score of 50.0, which falls under the **A Label**). However, since the owner's specific motivation is **to improve the EPC** further, the focus should be on the few remaining "moderate" performance areas and the transition to a high-efficiency heating system.
+
+Because the building is nearly new, we will avoid destructive or high-cost replacements (like windows or walls) and focus on high-impact operational upgrades.
+
+### Proposed Renovation Path
+
+The optimal sequence follows the "Fabric First" principle: improve the building envelope to reduce energy demand before upgrading the systems that provide the energy.
+
+#### Phase 1: Envelope Optimization (Demand Reduction)
+The building's walls and flat roof are already "Well Insulated," but the main gable roof is only "**Moderately Insulated**." This is the primary weakness in the thermal envelope.
+*   **Action:** `insulate gable roof`
+*   **Reasoning:** Improving the gable roof insulation will minimize heat loss through the top of the house, directly lowering the energy required for heating and improving the EPC score.
+*   **Cost-Effectiveness:** High. This is a targeted upgrade to the only moderately performing structural element.
+
+#### Phase 2: Heating Generation Upgrade (System Efficiency)
+The building data explicitly indicates a `reasonToChangeEmissionSystem` is `true`. Given that the site has **no potential** for geothermal drilling/captation and **no access** to a heat grid, an air-source solution is the most viable and efficient path.
+*   **Action:** `place air-water heatpump`
+*   **Reasoning:** Replacing the current boiler/generation system with an air-water heat pump significantly increases the efficiency of heat production compared to traditional boilers or electric resistance heating. 
+*   **Constraint Check:** Geothermal and Heat Grid options were discarded based on the `bot:Site` and `bot:Building` data.
+
+#### Phase 3: Heating Emission Alignment (Operational Performance)
+The building currently uses a mix of `FloorHeating` (efficient/low-temp) and `ElectricConvector` (inefficient/high-temp). To maximize the benefit of the new heat pump, the emission system must be homogenized.
+*   **Action:** `place emission system on low temperature`
+*   **Reasoning:** Air-water heat pumps operate most efficiently at low flow temperatures. Replacing the electric convectors with low-temperature emitters (or extending the floor heating) ensures the heat pump does not have to work harder (and consume more electricity) to reach high temperatures.
+
+---
+
+### Summary of the Renovation Plan
+
+| Sequence | Action | Target Element | Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate gable roof` | `ex:RoofMain` | Reduces thermal loss; lowers heating load. |
+| **2** | `place air-water heatpump` | `ex:Generation_System` | Shifts to highly efficient, renewable heat generation. |
+| **3** | `place emission system on low temperature` | `ex:EmissionSystem` | Optimizes heat delivery to match the heat pump's efficiency curve. |
+
+### Why other suggestions were excluded:
+*   **Windows/Glazing:** The existing windows are double-glazed and in "Good State" (Value 8). In a 2023 building, the marginal gain of triple glazing is outweighed by the high cost of replacement.
+*   **Wall/Floor Insulation:** `ex:Wall_Front`, `ex:Wall_Rear`, and `ex:FloorAboveBasement` are already "Well Insulated."
+*   **PV Panels:** The building already has `ex:PVPanels` and is marked as having no further potential for additional PV installations (`reno:hasPotentialForPV false`).
+*   **Ventilation:** The building already utilizes `reno:VentilationSystemD` (Mechanical supply and exhaust), which is the highest standard in the suggestion list.

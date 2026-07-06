@@ -1,0 +1,38 @@
+To maximize energy efficiency and cost-effectiveness for this 19th-century attached building, the renovation must follow the **"Envelope First"** principle. By reducing the building's energy demand through insulation before upgrading the heating systems, we ensure that the new technical installations are correctly sized and operate at peak efficiency.
+
+### **Phase 1: Thermal Envelope Optimization (Demand Reduction)**
+The building currently has an EPC score of 262 kWh/m²year (C label). The priority is to address the elements that are currently "Not Insulated."
+
+1.  **Insulate Flat Roof:** The `RoofExtension` is currently not insulated. This is a high-priority step as heat rises, and flat roofs are significant sources of thermal loss.
+2.  **Insulate Exterior Walls:** Both `Wall_Front` and `Wall_Rear` are full brick and not insulated. Since there is no historical or legal protection on these walls, **exterior wall insulation** is the most effective method to eliminate thermal bridges and improve the EPC label.
+3.  **Insulate Floor Above Basement:** The `FloorAboveBasement` is not insulated. Adding insulation here prevents cold drafts from the basement, significantly increasing ground-floor thermal comfort.
+
+### **Phase 2: Ventilation & Airflow Management**
+Before upgrading the heating system, the air exchange must be optimized to prevent heat loss through uncontrolled ventilation.
+
+4.  **Replace Ventilation System:** The building currently uses **Ventilation System A** (natural supply/exhaust), which is the least efficient. Upgrading to a more modern system (such as System C or D) will reduce the volume of warm air escaping the building and improve indoor air quality.
+
+### **Phase 3: High-Efficiency Heating Transition**
+With a tightened envelope, the energy demand is now lower, allowing for a transition from a traditional boiler to a low-temperature system.
+
+5.  **Upgrade Emission System:** Transition the current radiators to a **low-temperature emission system**. Heat pumps are significantly more efficient when they do not have to heat water to the high temperatures required by old radiators.
+6.  **Install Air-Water Heat Pump:** Since the site lacks potential for geothermal drilling and there is no available heat grid, an **air-water heat pump** is the most cost-effective and sustainable choice for primary heating.
+7.  **Install Heat Pump Boiler:** To further reduce reliance on the primary system, install a dedicated heat pump boiler for domestic hot water.
+
+### **Phase 4: Renewable Energy Integration**
+The final step is to offset the electricity consumption of the new heat pump.
+
+8.  **Place PV-Panels on Roof:** The building has confirmed potential for PV. Installing solar panels on the roof will provide the electricity needed to run the air-water heat pump, lowering long-term operational costs and maximizing the improvement of the EPC score.
+
+---
+
+### **Summary of Optimal Sequence**
+| Sequence | Action | Target Element | Rationale |
+| :--- | :--- | :--- | :--- |
+| **1** | `insulate flat roof` | RoofExtension | Stop highest thermal loss. |
+| **2** | `insulate wall on exterior` | Wall_Front/Rear | Eliminate thermal bridges. |
+| **3** | `insulate floor above basement` | FloorAboveBasement | Prevent cold floor drafts. |
+| **4** | `replace ventilation system` | VentilationSystem | Control heat loss via airflow. |
+| **5** | `place emission system on low temp` | EmissionSystem | Prepare for heat pump efficiency. |
+| **6** | `place air-water heatpump` | Generation_System | Switch to sustainable heating. |
+| **7** | `place PV-panels on roof` | RoofMain/Extension | Offset electricity costs. |

@@ -1,0 +1,6 @@
+{"completeness": {
+    "missing_actions": ["insulate flat roof", "insulate gable roof", "insulate wall on interior", "replace glazing", "replace ventilation system", "place air-water heatpump", "place emission system on low temperature", "place PV-panels on roof"],
+    "extra_actions": ["insulate pitched roof", "insulate exterior walls on interior", "insulate floor above basement", "place air-water heat pump", "upgrade emission systems to low temperature", "upgrade ventilation system", "install pv panels"]
+}, "sequence": {
+    "order_errors": []
+}}

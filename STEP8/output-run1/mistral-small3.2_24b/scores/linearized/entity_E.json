@@ -1,0 +1,15 @@
+{"completeness": {
+    "missing_actions": [],
+    "extra_actions": [
+        "insulate wall cavity",
+        "insulate flat roof",
+        "insulate gable roof",
+        "insulate attic floor",
+        "insulate floor above basement",
+        "replace windows"
+    ]
+}, "sequence": {
+    "order_errors": [
+        "place air-water heat pump"
+    ]
+}}

@@ -1,0 +1,37 @@
+### Energy Efficiency Renovation Analysis
+
+**Building Status Overview:**
+The property is a modern (2017) semi-detached building that is already performing at a high level of energy efficiency, with an **EPC score of 87 (A Label)**. Most critical elements—including the walls, flat roof extension, and floor above the basement—are already "Well Insulated." The heating and ventilation systems (Heat Pump and Ventilation System D) are high-efficiency installations.
+
+**Primary Opportunity:**
+The only building element not currently rated as "Well Insulated" is the **Main Gable Roof**, which is currently **"Moderately Insulated."** To maximize energy efficiency and further improve the EPC label, the renovation should focus on the "Fabric First" principle, targeting this specific thermal bridge.
+
+---
+
+### Proposed Renovation Path
+
+Given the building's current state, a heavy renovation is neither cost-effective nor necessary. I propose a targeted, two-step optimization path.
+
+#### Step 1: Thermal Envelope Optimization (High Priority)
+*   **Intervention:** **Insulate Gable Roof** (`https://w3id.org/reno#InsulateGableRoof`)
+*   **Rationale:** This is the only significant thermal weakness in the building's envelope. Improving the gable roof from "Moderately" to "Well Insulated" will reduce heat loss during winter and heat gain during summer.
+*   **Cost-Effectiveness:** This is a high-ROI move. It has a **low nuisance level** and does not require a permit (in Flanders).
+*   **Point of Attention:** Ensure the installation of a vapour barrier on the warm side of the insulation to prevent condensation problems.
+
+#### Step 2: Passive Solar Control (Low-Cost Optimization)
+*   **Intervention:** **Place Sunshades** (`https://w3id.org/reno#PlaceSunShade`)
+*   **Rationale:** With a high-performance envelope and a heat pump, preventing overheating is the next step in operational efficiency. Sunshades reduce the cooling load on the heat pump during summer months.
+*   **Cost-Effectiveness:** Very high. This is a low-cost, low-nuisance installation with a fixed price point.
+*   **Recommendation:** Opt for outdoor blinds, as they are more efficient than indoor alternatives.
+
+---
+
+### Summary of the Path
+
+| Sequence | Action | Target Element | Efficiency Gain | Cost/Nuisance |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | High (Reduces heat loss) | Low Nuisance / $\text{€}60/\text{m}^2$ |
+| **2** | **Install Sunshades** | Windows/Facades | Moderate (Reduces cooling load) | Low Nuisance / Fixed Price |
+
+**Final Expert Note:** 
+Because the building is already an **A-Label** property and was built in 2017, I strongly advise **against** replacing windows for triple glazing or modifying the walls. The marginal energy gains from such interventions would not justify the high costs and high nuisance levels associated with those works. Focus exclusively on the roof insulation to reach peak performance.

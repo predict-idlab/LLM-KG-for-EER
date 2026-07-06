@@ -1,0 +1,68 @@
+To create a cost-effective and energy-efficient renovation plan for the given building, we'll follow a structured approach based on the RENO ontology and the provided suggestion list. Here's the step-by-step plan:
+
+### 1. **Initial Assessment**
+   - **Current EPC Score**: 388.0 (E label)
+   - **Desired EPC Label**: A+ (score < 100 kWh/m²year)
+   - **Building Type**: Semi-detached, constructed in 1951
+   - **Current Issues**: Poor insulation, outdated heating system, potential for PV panels
+
+### 2. **Prioritize Renovations**
+   - **High-Impact, Low-Cost Actions First**:
+     1. **Insulate Attic Floor** (Ordering: 31, Nuisance: Low, Cost: 60 €/m²)
+     2. **Insulate Wall Cavity** (Ordering: 34, Nuisance: Low, Cost: 22 €/m²)
+     3. **Replace Glazing** (Ordering: 43, Nuisance: High, Cost: 200 €/m²)
+     4. **Insulate Wall on Interior** (Ordering: 37, Nuisance: Moderate, Cost: 150 €/m²)
+
+   - **Medium-Impact Actions**:
+     5. **Replace Ventilation System** (Ordering: 52, Nuisance: Moderate, Cost: 3500 € + 17 €/m²)
+     6. **Place Air-Water Heat Pump** (Ordering: 67, Nuisance: Moderate, Cost: 8000 € + 35 €/m²)
+
+   - **Long-Term Investments**:
+     7. **Place PV Panels on Roof** (Ordering: 85, Nuisance: Low, Cost: 275 €/m²)
+
+### 3. **Detailed Renovation Steps**
+   - **Step 1: Insulate Attic Floor**
+     - **Action**: Install insulation on the attic floor.
+     - **Benefit**: Reduces heat loss through the roof.
+     - **Considerations**: Ensure a vapour barrier is installed on the warm side of the insulation.
+
+   - **Step 2: Insulate Wall Cavity**
+     - **Action**: Inject insulation into the wall cavities.
+     - **Benefit**: Improves thermal performance of external walls.
+     - **Considerations**: Check for suitability (e.g., width of cavity, contamination).
+
+   - **Step 3: Replace Glazing**
+     - **Action**: Upgrade windows to double or triple glazing.
+     - **Benefit**: Reduces heat loss through windows.
+     - **Considerations**: Ensure window frames are in good condition and have the right thickness.
+
+   - **Step 4: Insulate Wall on Interior**
+     - **Action**: Install internal wall insulation.
+     - **Benefit**: Improves thermal comfort and reduces energy consumption.
+     - **Considerations**: Relocate sockets, pipes, and radiators against the outer walls.
+
+   - **Step 5: Replace Ventilation System**
+     - **Action**: Upgrade to a mechanical ventilation system (e.g., system D).
+     - **Benefit**: Improves air quality and reduces condensation.
+     - **Considerations**: Requires ductwork for both supply and return.
+
+   - **Step 6: Place Air-Water Heat Pump**
+     - **Action**: Install an air-water heat pump for space heating and hot water.
+     - **Benefit**: Reduces reliance on fossil fuels and lowers energy bills.
+     - **Considerations**: May require a multi-phase electricity connection.
+
+   - **Step 7: Place PV Panels on Roof**
+     - **Action**: Install photovoltaic panels on the roof.
+     - **Benefit**: Generates renewable energy, reducing electricity costs.
+     - **Considerations**: Check roof orientation, potential shading, and asbestos removal if necessary.
+
+### 4. **Expected Outcomes**
+   - **Energy Efficiency**: Significant reduction in energy consumption, leading to a better EPC score.
+   - **Cost Savings**: Lower energy bills due to improved insulation and renewable energy generation.
+   - **Comfort**: Enhanced thermal comfort and indoor air quality.
+
+### 5. **Additional Recommendations**
+   - **Monitor Progress**: Regularly assess the impact of each renovation step on energy consumption and comfort.
+   - **Future Considerations**: Plan for further upgrades like connecting to a heat grid if it becomes available.
+
+This plan ensures a systematic approach to improving energy efficiency while maximizing cost-effectiveness.

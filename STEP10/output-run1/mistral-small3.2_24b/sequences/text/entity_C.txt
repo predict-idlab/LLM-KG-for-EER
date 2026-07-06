@@ -1,0 +1,4 @@
+1. replace boiler with air-water heat pump
+2. replace electric convectors with low-temperature emission systems
+3. add heat recovery to ventilation system
+4. add battery storage system

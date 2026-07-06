@@ -1,0 +1,93 @@
+### Renovation Plan
+
+#### 1. **Insulate Wall Exteriors**
+   - **Description**: Insulate the exterior walls of the building.
+   - **Priority**: High
+   - **Reason**: The building has exterior walls (Wall_Front, Wall_Rear) that are currently not insulated (WellInsulated). Insulating these walls will significantly improve the building's thermal efficiency.
+   - **Action**:
+     - **Ordering**: 40 (as per ontology).
+     - **Permit Needed**: Only if thickness of total pack >26cm or the building line is overrun (Flanders).
+     - **Unit Price**: 200 EUR per m².
+     - **Nuisance Level**: High.
+
+#### 2. **Insulate Floor Above Basement**
+   - **Description**: Insulate the floor above the basement.
+   - **Priority**: Medium
+   - **Reason**: The floor above the basement (FloorAboveBasement) is currently not insulated (WellInsulated). Insulating this floor will further enhance the building's thermal efficiency.
+   - **Action**:
+     - **Ordering**: 49 (as per ontology).
+     - **Permit Needed**: Not necessary (Flanders).
+     - **Unit Price**: 30 EUR per m².
+     - **Nuisance Level**: Low.
+
+#### 3. **Replace Ventilation System**
+   - **Description**: Replace the existing ventilation system.
+   - **Priority**: Medium
+   - **Reason**: The building has a ventilation system (VentilationSystem) that may need replacement. This will improve indoor air quality and energy efficiency.
+   - **Action**:
+     - **Ordering**: 52 (as per ontology).
+     - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+     - **Unit Price**: 17 EUR per m².
+     - **Nuisance Level**: Moderate.
+
+#### 4. **Insulate Attic Floor**
+   - **Description**: Insulate the attic floor.
+   - **Priority**: Low
+   - **Reason**: The attic floor (AtticFloor) is currently not insulated (WellInsulated). Insulating the attic floor will help maintain a consistent temperature throughout the building.
+   - **Action**:
+     - **Ordering**: 31 (as per ontology).
+     - **Permit Needed**: Not necessary (Flanders).
+     - **Unit Price**: 60 EUR per m².
+     - **Nuisance Level**: Low.
+
+#### 5. **Insulate Gable Roof**
+   - **Description**: Insulate the gable roof.
+   - **Priority**: Medium
+   - **Reason**: The gable roof (RoofMain) is currently moderately insulated (ModeratelyInsulated). Insulating the gable roof will further enhance the building's thermal efficiency.
+   - **Action**:
+     - **Ordering**: 28 (as per ontology).
+     - **Permit Needed**: Not necessary (Flanders).
+     - **Unit Price**: 60 EUR per m².
+     - **Nuisance Level**: Low.
+
+#### 6. **Insulate Flat Roof**
+   - **Description**: Insulate the flat roof.
+   - **Priority**: High
+   - **Reason**: The flat roof (RoofExtension) is currently not insulated (WellInsulated). Insulating the flat roof will significantly improve the building's thermal efficiency.
+   - **Action**:
+     - **Ordering**: 25 (as per ontology).
+     - **Permit Needed**: Only if thickness of total pack >26cm (Flanders).
+     - **Unit Price**: 50 EUR per m².
+     - **Nuisance Level**: High.
+
+#### 7. **Replace Windows**
+   - **Description**: Replace the windows in the living area and bedrooms.
+   - **Priority**: High
+   - **Reason**: The windows in the living area (WindowsLivingArea) and bedrooms (WindowsBedrooms) are currently glazed with double glazing (DoubleGlazing). Replacing them with more energy-efficient windows will improve the building's thermal efficiency.
+   - **Action**:
+     - **Ordering**: 46 (as per ontology).
+     - **Permit Needed**: Not necessary if the measurements are kept (Flanders).
+     - **Unit Price**: 800 EUR per m².
+     - **Nuisance Level**: High.
+
+#### 8. **Place Air-Water Heat Pump**
+   - **Description**: Install an air-water heat pump.
+   - **Priority**: Medium
+   - **Reason**: The building currently has an emission system (EmissionSystem) that may not be the most energy-efficient option. Installing an air-water heat pump will provide more efficient heating.
+   - **Action**:
+     - **Ordering**: 67 (as per ontology).
+     - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders).
+     - **Unit Price**: 35 EUR per m².
+     - **Nuisance Level**: Moderate.
+
+#### 9. **Place PV Panels on Roof**
+   - **Description**: Install PV panels on the roof.
+   - **Priority**: Low
+   - **Reason**: The building has potential for PV panels (PotentialForPV) but currently does not have any. Installing PV panels will generate renewable energy and reduce the building's carbon footprint.
+   - **Action**:
+     - **Ordering**: 85 (as per ontology).
+     - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders).
+     - **Unit Price**: 275 EUR per m².
+     - **Nuisance Level**: Low.
+
+This renovation plan is designed to maximize energy efficiency while remaining cost-effective. The actions are prioritized based on their potential impact on the building's thermal efficiency and overall energy consumption. The plan also considers the specific requirements and constraints provided in the ontology.

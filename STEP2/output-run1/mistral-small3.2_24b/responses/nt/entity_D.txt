@@ -1,0 +1,92 @@
+### Renovation Plan for Example Building
+
+#### **Objective**
+The objective of this renovation plan is to improve the energy efficiency of the building, specifically aiming to lower energy costs and enhance thermal comfort. The plan is tailored to the building's current state, considering the specific elements, materials, and past renovations.
+
+#### **Current State of the Building**
+- **Type**: Semi-detached building
+- **Construction Year**: 2017
+- **Energy Performance Certificate (EPC) Score**: 87 kWh/m²year
+- **Elements**:
+  - **Roof Main**: Gable roof, moderately insulated
+  - **Roof Extension**: Flat roof, well insulated
+  - **Wall Front**: Full brick wall, well insulated
+  - **Wall Left**: Full brick wall, well insulated
+  - **Wall Rear**: Full brick wall, well insulated
+  - **Floor Above Basement**: Well insulated
+  - **Ventilation System**: Ventilation system D
+  - **Emission System**: Space heater
+  - **Windows**: Wooden frames with double glazing
+  - **PV Panels**: Present
+- **Resident**: Present
+- **Potential for PV**: False
+- **Potential for Geothermal Drilling**: False
+- **Potential for Horizontal Geothermal Captation**: False
+- **Reason to Change Emission System**: False
+- **Owner's Motivation**: To improve the EPC label
+
+#### **Proposed Renovation Actions**
+
+1. **Replace Gable Roof (Roof Main)**
+   - **Reasoning**: The gable roof is moderately insulated, which can be improved. Replacing it will enhance thermal comfort and reduce energy consumption.
+   - **Action**: Replace the gable roof with a well-insulated roof.
+   - **Estimated Cost**: €260/m²
+
+2. **Insulate Attic Floor**
+   - **Reasoning**: The attic floor is well insulated, but additional insulation can further improve energy efficiency.
+   - **Action**: Insulate the attic floor with walkable insulation.
+   - **Estimated Cost**: €60/m²
+
+3. **Insulate Wall Cavity (Wall Front, Wall Left, Wall Rear)**
+   - **Reasoning**: The walls are well insulated, but injecting insulation into the cavities can further enhance insulation.
+   - **Action**: Inject insulation into the wall cavities.
+   - **Estimated Cost**: €22/m²
+
+4. **Replace Glazing (Windows)**
+   - **Reasoning**: The windows have double glazing, which can be replaced with triple glazing to improve thermal and acoustic properties.
+   - **Action**: Replace the glazing with triple glazing.
+   - **Estimated Cost**: €200/m²
+
+5. **Replace Ventilation System**
+   - **Reasoning**: The current ventilation system is type D, which can be replaced with a more efficient system to improve indoor air quality and energy efficiency.
+   - **Action**: Replace the ventilation system with a more efficient model.
+   - **Estimated Cost**: €17/m²
+
+6. **Place Air-Water Heatpump**
+   - **Reasoning**: The current emission system is a space heater, which can be replaced with a more efficient air-water heatpump to reduce energy consumption.
+   - **Action**: Install an air-water heatpump.
+   - **Estimated Cost**: €35/m²
+
+7. **Place Low Temperature Emission System**
+   - **Reasoning**: The current emission system operates at a higher temperature, which can be optimized to operate at a lower temperature to enhance energy efficiency.
+   - **Action**: Install a low temperature emission system.
+   - **Estimated Cost**: €100/m²
+
+8. **Place Sunshade**
+   - **Reasoning**: Outdoor blinds are more efficient than indoor blinds and can help regulate indoor temperature.
+   - **Action**: Install outdoor blinds.
+   - **Estimated Cost**: €750
+
+9. **Place PV Panels on Roof**
+   - **Reasoning**: The building has potential for PV panels, which can generate renewable energy and reduce energy costs.
+   - **Action**: Install PV panels on the roof.
+   - **Estimated Cost**: €275/m²
+
+#### **Expected Outcomes**
+- **Energy Efficiency**: Significant improvement in the building's EPC label.
+- **Thermal Comfort**: Enhanced thermal comfort for the residents.
+- **Cost Savings**: Reduction in energy costs due to improved insulation, efficient heating systems, and renewable energy generation.
+
+#### **Implementation Sequence**
+The renovations should be carried out in the following sequence to maximize benefits:
+1. Replace Gable Roof
+2. Insulate Attic Floor
+3. Insulate Wall Cavity
+4. Replace Glazing
+5. Replace Ventilation System
+6. Place Air-Water Heatpump
+7. Place Low Temperature Emission System
+8. Place Sunshade
+9. Place PV Panels on Roof
+
+This plan is designed to optimize energy efficiency, enhance comfort, and reduce costs, tailored specifically to the building's current state and the owner's motivations.

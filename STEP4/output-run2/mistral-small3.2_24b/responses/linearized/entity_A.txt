@@ -1,0 +1,73 @@
+### Renovation Plan for Semi-Detached Building (1951, EPC 388)
+
+**Primary Motivation:** Improve EPC (Energy Performance Certificate) score.
+
+**Key Observations:**
+1. **Building Envelope:** Several non-insulated elements (walls, roof, floor) leading to heat loss.
+2. **Windows:** Double-glazed but with wooden frames in good condition.
+3. **Heating System:** Current system (radiators + boiler) is inefficient for a well-insulated building.
+4. **Potential for PV:** The building has confirmed potential for photovoltaic (PV) panels.
+5. **Ventilation:** Current system (Type A) is basic and not optimized for an insulated building.
+
+**Proposed Renovation Path:**
+
+**Phase 1: Thermal Envelope Optimization (Fabric-First Approach)**
+1. **Insulate Exterior Walls:**
+   - Walls (Front, Rear, Right) are full brick and uninsulated.
+   - **Action:** Exterior wall insulation (EWI) is preferred over interior insulation to avoid thermal bridging and reduce condensation risks.
+   - **Cost:** ~€150-200 per m² (depending on thickness and materials).
+
+2. **Insulate Gable Roof (RoofMain):**
+   - Currently uninsulated, leading to heat loss through the roof.
+   - **Action:** Insulate the gable roof (RoofMain) to prevent heat loss.
+   - **Cost:** ~€60 per m².
+
+3. **Insulate Flat Roof (RoofExtension):**
+   - Currently uninsulated, leading to heat loss through the roof.
+   - **Action:** Insulate the flat roof (RoofExtension) to prevent heat loss.
+   - **Cost:** ~€50 per m².
+
+4. **Insulate Floor Above Basement (FloorAboveBasement):**
+   - Currently uninsulated, leading to heat loss through the floor.
+   - **Action:** Insulate the floor above the basement to prevent heat loss.
+   - **Cost:** ~€30 per m².
+
+**Phase 2: Heating System Upgrade**
+5. **Replace Boiler with Air-Water Heat Pump:**
+   - Current boiler is inefficient for a well-insulated building.
+   - **Action:** Install an air-water heat pump to reduce energy consumption and improve efficiency.
+   - **Cost:** ~€8,000-10,000 (including installation).
+
+**Phase 3: Ventilation System Upgrade**
+6. **Upgrade Ventilation System to Type C or D:**
+   - Current ventilation system (Type A) is not optimized for an insulated building.
+   - **Action:** Install a more efficient ventilation system (Type C or D) to improve air quality and reduce energy loss.
+   - **Cost:** ~€3,500-5,000 (including installation).
+
+**Phase 4: Sustainable Energy Generation**
+7. **Install PV Panels on Roof:**
+   - The building has confirmed potential for PV panels.
+   - **Action:** Install PV panels on the roof to generate renewable energy and reduce electricity costs.
+   - **Cost:** ~€275 per m² (including installation).
+
+**Phase 5: Additional Measures (Optional)**
+8. **Replace Glazing (if necessary):**
+   - Current windows are double-glazed, but if they are old or in poor condition, consider replacing them with triple-glazed windows to further improve insulation.
+   - **Cost:** ~€800 per window (including installation).
+
+**Summary of Optimal Sequence:**
+1. **Exterior Wall Insulation**
+2. **Roof Insulation (Gable and Flat)**
+3. **Floor Insulation (Above Basement)**
+4. **Air-Water Heat Pump Installation**
+5. **Ventilation System Upgrade**
+6. **PV Panels Installation**
+
+**Estimated Total Cost:** €25,000-35,000 (depending on materials, labor, and additional measures).
+
+**Expected EPC Improvement:** From D Label (388) to B Label (100-200) or better, depending on the extent of the renovation and additional measures.
+
+**Notes:**
+- The proposed renovation path follows the **"Insulate → Ventilate → Generate"** sequence to maximize energy efficiency and cost-effectiveness.
+- The sequence ensures that the building's thermal envelope is optimized before installing high-efficiency heating systems, preventing the need for an oversized and more expensive HVAC system.
+- The use of the RENO ontology ensures that the proposed measures are grounded in the latest standards and best practices for energy-efficient renovations.

@@ -1,0 +1,57 @@
+Based on the provided RENO ontology, the building description, and the list of renovation suggestions, I'll create a tailored renovation plan that maximizes energy efficiency while remaining cost-effective. The plan will focus on practical upgrades that reduce energy consumption and improve long-term operational performance. I'll also consider the most optimal sequence to maximize the benefits of each renovation step.
+
+### Building Summary:
+- **Building Type**: Semi-detached
+- **Construction Year**: 2017
+- **EPC Score**: 87
+- **Key Elements**:
+  - Flat roof (well insulated)
+  - Gable roof (moderately insulated)
+  - Walls (well insulated, no historical protection)
+  - Floor above basement (well insulated)
+  - Windows (wooden frames, double glazing)
+  - Ventilation system (type D)
+  - Emission system (heat pump)
+  - PV panels present
+- **Owner's Motivation**: Improve EPC
+
+### Renovation Plan:
+
+1. **Insulate Gable Roof (Ordering: 28)**
+   - **Action**: Improve insulation of the gable roof.
+   - **Reason**: The gable roof is currently moderately insulated, and improving its insulation will enhance overall energy efficiency.
+   - **Expected Outcome**: Better thermal comfort and reduced heating costs.
+   - **Cost**: Based on the unit price of €60/m², the cost will depend on the surface area of the gable roof.
+
+2. **Replace Ventilation System (Ordering: 52)**
+   - **Action**: Replace the existing ventilation system (type D) with a more efficient system.
+   - **Reason**: Upgrading the ventilation system can improve air quality and energy efficiency.
+   - **Expected Outcome**: Better indoor air quality and potential energy savings.
+   - **Cost**: The fixed price is €3,500, plus €17/m² for the floor area. For a floor area of 173m², this amounts to €6,031.
+
+3. **Place Air-Water Heat Pump (Ordering: 67)**
+   - **Action**: Install an air-water heat pump to replace the existing emission system.
+   - **Reason**: The current emission system is a heat pump, but upgrading to a more efficient air-water heat pump can further reduce energy consumption.
+   - **Expected Outcome**: Significant reduction in energy consumption for heating.
+   - **Cost**: The fixed price is €8,000, plus €35/m² for the floor area. For a floor area of 173m², this amounts to €14,055.
+
+4. **Replace Windows (Ordering: 46)**
+   - **Action**: Replace the existing windows with more energy-efficient windows.
+   - **Reason**: Although the current windows have double glazing, upgrading to more efficient windows can further reduce heat loss.
+   - **Expected Outcome**: Better thermal comfort and reduced heating costs.
+   - **Cost**: Based on the unit price of €800/m², the cost will depend on the surface area of the windows.
+
+5. **Place PV Panels on Roof (Ordering: 85)**
+   - **Action**: Install additional PV panels on the roof to increase renewable energy generation.
+   - **Reason**: The building already has PV panels, but adding more can further reduce reliance on grid electricity.
+   - **Expected Outcome**: Increased renewable energy generation and reduced electricity costs.
+   - **Cost**: Based on the unit price of €275/m², the cost will depend on the surface area available for PV panels.
+
+### Sequence of Actions:
+1. **Insulate Gable Roof**
+2. **Replace Ventilation System**
+3. **Place Air-Water Heat Pump**
+4. **Replace Windows**
+5. **Place PV Panels on Roof**
+
+This plan focuses on upgrading the building's insulation, ventilation, and heating systems to improve energy efficiency. The sequence is designed to maximize the benefits of each step, ensuring that the most impactful upgrades are prioritized. The final step of adding PV panels will further enhance the building's renewable energy capabilities.

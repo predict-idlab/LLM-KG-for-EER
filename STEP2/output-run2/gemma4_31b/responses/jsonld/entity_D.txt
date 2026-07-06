@@ -1,0 +1,50 @@
+Based on the provided RENO ontology and the specific building data, here is the professional renovation analysis and proposed path.
+
+### 1. Current State Analysis
+The building is a relatively modern (constructed in 2017) semi-detached house. It is already performing at a high energy efficiency level, with an **EPC score of 87**, placing it in the **A label** category. 
+
+**Strengths:**
+*   **Walls & Floors:** The front, left, and rear walls, as well as the floor above the basement, are already "Well Insulated."
+*   **Flat Roof:** The roof extension is "Well Insulated" and in a "Good State."
+*   **Systems:** The building is already equipped with a Heat Pump, a high-end Ventilation System D (mechanical supply and exhaust), and PV panels.
+*   **Windows:** Existing double glazing and wooden frames are in a "Good State."
+
+**Weaknesses:**
+*   **Gable Roof:** This is the only significant thermal weakness, as it is currently only **"Moderately Insulated."**
+
+---
+
+### 2. Proposed Renovation Path
+Since the owner's primary motivation is to **Improve the EPC** (likely aiming for an A+ label), the strategy focuses on eliminating the remaining thermal bridges and reducing seasonal energy peaks. 
+
+#### **Step 1: Thermal Envelope Optimization (High Priority)**
+*   **Action:** `insulate gable roof`
+*   **Justification:** The gable roof is the only building element not rated as "Well Insulated." Heat rises, and improving the insulation here will provide the most significant reduction in energy loss.
+*   **Cost-Effectiveness:** High. It targets the only remaining inefficiency in the building's shell.
+*   **Note:** Ensure a vapour barrier is installed on the warm side to prevent condensation.
+
+#### **Step 2: Glazing Upgrade (Medium Priority)**
+*   **Action:** `replace glazing` (Upgrade to Triple Glazing)
+*   **Justification:** While double glazing is efficient, moving to triple glazing will further lower the EPC score. Since the wooden frames are in "Good State," replacing only the glass (glazing) rather than the entire window unit is the most cost-effective approach.
+*   **Cost-Effectiveness:** Moderate. The marginal gain is smaller than the roof insulation but necessary for a top-tier EPC rating.
+
+#### **Step 3: Passive Cooling & Comfort (Low Priority/Long-term)**
+*   **Action:** `place sunshade`
+*   **Justification:** To maintain a low energy score year-round, preventing summer overheating is crucial. Sunshades reduce the reliance on active cooling systems (which would increase electricity consumption).
+*   **Cost-Effectiveness:** High. This is a low-cost installation with a direct impact on operational energy consumption.
+
+---
+
+### 3. Summary of the Optimal Sequence
+
+| Sequence | Action | Target Element | Impact | Cost-Effectiveness |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Main Roof | $\downarrow$ Heat Loss | Very High |
+| **2** | **Replace Glazing** | Windows | $\downarrow$ Thermal Transfer | Moderate |
+| **3** | **Place Sunshade** | Facades/Windows | $\downarrow$ Cooling Load | High |
+
+### 4. Exclusions & Constraints
+*   **Geothermal:** Both horizontal and vertical geothermal options were analyzed but are **not possible** due to site constraints.
+*   **PV Panels:** No further PV panels are recommended as the building already has them and the site is marked as having no further potential for PV.
+*   **Wall/Floor Insulation:** No action is needed as these are already "Well Insulated."
+*   **HVAC Replacement:** The current Heat Pump and Ventilation System D are modern and efficient; replacing them would not be cost-effective.

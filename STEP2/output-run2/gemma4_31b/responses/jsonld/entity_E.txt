@@ -1,0 +1,43 @@
+Based on the provided building data and the RENO ontology, the objective is to improve the Energy Performance Certificate (EPC) for a detached house built in 1862. 
+
+The building currently has a B-label (score: 165), but significant efficiency gains can be made. The most critical finding is that while the roof is well-insulated, the **walls and floors are not**, and the windows still utilize **single glazing**.
+
+To maximize energy efficiency and cost-effectiveness, I propose the following renovation path, following the professional sequence of **"Insulate $\rightarrow$ Ventilate $\rightarrow$ Generate."**
+
+### Phase 1: Thermal Envelope (Immediate Energy Savings)
+The priority is to reduce heat loss. Since the window frames are in "Good State," we will avoid the high cost of full window replacement and focus on the glass.
+
+1.  **Insulate Wall Cavities:** The building has cavity walls (Front, Left, Right, and Rear) that are currently not insulated. This is the most cost-effective upgrade available (approx. 22 €/m²) with low nuisance.
+2.  **Replace Glazing:** The living area and bedrooms have single glazing. Upgrading to double or triple glazing without replacing the wooden frames is significantly cheaper than full window replacement and will drastically reduce drafts and heat loss.
+3.  **Insulate Floor Above Crawl Space:** The floor above the crawl space is currently uninsulated. Adding insulation here prevents "cold feet" and reduces heat loss to the ground.
+
+### Phase 2: Ventilation & Air Quality
+Once the building envelope is tightened via insulation and glazing, the risk of humidity and condensation increases.
+
+4.  **Replace Ventilation System:** Upgrade from Ventilation System A to a more efficient system (e.g., System C or D). This ensures a healthy indoor climate and prevents the moisture buildup that often follows high-efficiency insulation.
+
+### Phase 3: Sustainable Heating (System Upgrade)
+Now that the total heat demand of the house has been lowered by Phase 1, we can install a smaller, more efficient heating system.
+
+5.  **Place Air-Water Heat Pump:** The building has a "reason to change emission system" and lacks a heat grid. Geothermal options are not possible at this site. An Air-Water heat pump is the most logical choice as it integrates with the existing radiators and floor heating.
+6.  **Place Emission System on Low Temperature:** To maximize the efficiency of the new heat pump, the emission systems should be optimized for low-temperature operation.
+
+### Phase 4: Renewable Energy Generation
+The final step is to offset the electricity consumption of the new heat pump.
+
+7.  **Place PV-Panels on Roof:** The building is confirmed to have potential for PV. Installing solar panels will lower operational costs and further improve the EPC score.
+
+---
+
+### Summary of the Renovation Path & Logic
+
+| Sequence | Action | Target Element | Logic |
+| :--- | :--- | :--- | :--- |
+| **1** | **Insulate Cavity Walls** | Walls | Lowest cost per unit of energy saved. |
+| **2** | **Replace Glazing** | Windows | High impact; utilizes existing good frames. |
+| **3** | **Insulate Floor** | Floor | Completes the thermal shell. |
+| **4** | **Upgrade Ventilation** | Ventilation | Prevents mold/dampness in a tightened house. |
+| **5** | **Air-Water Heat Pump** | Generation System | Replaces old boiler with high-efficiency tech. |
+| **6** | **Install PV Panels** | Roof | Provides carbon-neutral energy for the pump. |
+
+**Why this is cost-effective:** By insulating first, we reduce the required capacity (and thus the purchase price) of the heat pump. By replacing only the glazing rather than the entire window, we save thousands of euros while achieving similar thermal results.

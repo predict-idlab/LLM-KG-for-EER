@@ -1,0 +1,19 @@
+1. remove asbestos from gable roof
+2. insulate gable roof
+3. insulate attic floor
+4. insulate wall cavity
+5. insulate wall on exterior
+6. replace glazing
+7. insulate floor above basement
+8. replace ventilation system
+9. connect to heatgrid
+10. place air-air heatpump
+11. place air-water heatpump
+12. place emission system on low temperature
+13. place air-water heatpump with cooling
+14. place heatpumpboiler
+15. place sunshade
+16. place airconditioning
+17. place PV-panels on roof
+18. place PV-panels in garden
+19. place plug and play PV-panels

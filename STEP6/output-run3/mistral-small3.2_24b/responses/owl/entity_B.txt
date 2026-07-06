@@ -1,0 +1,50 @@
+### Renovation Plan:
+
+**1. Insulate Flat Roof**
+   - **Action**: Insulate the flat roof (`RoofExtension`).
+   - **Rationale**: The flat roof is currently not insulated, leading to significant heat loss. Insulating it will drastically improve the building's thermal performance.
+   - **Cost**: €40 per m².
+   - **Ordering**: 25.
+
+**2. Insulate Wall On Exterior**
+   - **Action**: Insulate the external walls (`Wall_Front` and `Wall_Rear`).
+   - **Rationale**: Both walls are full brick and not insulated. Exterior insulation is more cost-effective than interior insulation and eliminates thermal bridges.
+   - **Cost**: €200 per m².
+   - **Ordering**: 40.
+
+**3. Insulate Floor Above Basement**
+   - **Action**: Insulate the floor above the basement (`FloorAboveBasement`).
+   - **Rationale**: The floor above the basement is currently not insulated. Insulating it will prevent cold drafts from the basement and improve overall comfort.
+   - **Cost**: €30 per m².
+   - **Ordering**: 49.
+
+**4. Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump.
+   - **Rationale**: Since the site has no potential for geothermal energy and no heat grid, an air-water heat pump is the most sustainable and efficient alternative to the current boiler.
+   - **Cost**: €4000 (fixed price) + €35 per m².
+   - **Ordering**: 76.
+
+**5. Place Emission System On Low Temperature**
+   - **Action**: Upgrade the emission system to operate at low temperatures.
+   - **Rationale**: Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+   - **Cost**: €100 per m².
+   - **Ordering**: 70.
+
+**6. Place PV-Panels on Roof**
+   - **Action**: Install PV panels on the roof.
+   - **Rationale**: The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+   - **Cost**: €275 per m².
+   - **Ordering**: 85.
+
+### Summary of Sequence and Rationale:
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Flat Roof** | Reduces heat loss through the roof. |
+| **2** | **Insulate Wall On Exterior** | Eliminates thermal bridges and improves thermal performance. |
+| **3** | **Insulate Floor Above Basement** | Prevents cold drafts from the basement. |
+| **4** | **Place Air-Water Heat Pump** | Replaces the current boiler with a more sustainable and efficient system. |
+| **5** | **Place Emission System On Low Temperature** | Maximizes the COP of the new heat pump. |
+| **6** | **Place PV-Panels on Roof** | Provides renewable electricity for the heat pump and ventilation system. |
+
+This renovation plan prioritizes actions that offer the highest energy savings and cost-effectiveness, ensuring that the building achieves its goal of improving the EPC rating while remaining within budget.

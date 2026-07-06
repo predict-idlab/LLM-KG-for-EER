@@ -1,0 +1,48 @@
+Based on the provided building information, here's a concise and actionable renovation plan tailored to your attached house in Ghent, Belgium (built in 1832, 212 m², EPC score of 262). The plan follows a cost-effective sequence that maximizes energy efficiency while considering your constraints (no district heating, no geothermal potential, but PV potential).
+
+### Proposed Renovation Path:
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+1. **Insulate Flat Roof Extension**
+   - Priority: High (heat rises, and the flat roof is currently uninsulated).
+   - Method: Internal or external insulation (choose based on cost and feasibility).
+
+2. **Insulate Exterior Walls (Front and Rear)**
+   - Priority: High (solid brick walls with no insulation).
+   - Method: Interior insulation (more cost-effective than exterior insulation for solid walls).
+
+3. **Insulate Floor Above Basement**
+   - Priority: Medium (reduces cold drafts and heat loss to the basement).
+
+**Phase 2: Heating System Upgrade**
+4. **Replace Boiler with Air-Water Heat Pump**
+   - Priority: High (current boiler is inefficient and outdated).
+   - Note: Ensure the heat pump is compatible with low-temperature emission systems.
+
+5. **Upgrade Radiators to Low-Temperature Systems**
+   - Priority: Medium (enables the heat pump to operate at peak efficiency).
+
+**Phase 3: Ventilation System Upgrade**
+6. **Replace Natural Ventilation with Mechanical Ventilation (e.g., System C or D)**
+   - Priority: Medium (improves air quality and reduces condensation/mold risks in a well-insulated home).
+
+**Phase 4: Sustainable Energy Generation**
+7. **Install Photovoltaic (PV) Panels on Roof**
+   - Priority: Long-term (offsets electricity consumption of the heat pump and ventilation system).
+
+### Summary of Optimal Sequence:
+1. **Insulate Flat Roof**
+2. **Insulate Exterior Walls (Interior)**
+3. **Insulate Floor Above Basement**
+4. **Replace Boiler with Air-Water Heat Pump**
+5. **Upgrade Radiators to Low-Temperature Systems**
+6. **Replace Natural Ventilation with Mechanical Ventilation**
+7. **Install PV Panels**
+
+### Rationale:
+- **Insulation First**: Reduces heat loss and lowers the overall energy demand, making subsequent upgrades (like the heat pump) more effective.
+- **Heat Pump Transition**: After sealing the envelope, a heat pump becomes a viable and efficient heating solution.
+- **Ventilation Upgrade**: Ensures air quality in a now-sealed building.
+- **PV Panels**: Further improves sustainability by generating renewable energy on-site.
+
+This plan balances cost-effectiveness with long-term energy efficiency gains.

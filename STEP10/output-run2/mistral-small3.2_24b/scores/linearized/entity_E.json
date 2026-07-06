@@ -1,0 +1,6 @@
+{"completeness": {
+    "missing_actions": ["insulate wall on interior", "replace glazing", "place emission system on low temperature"],
+    "extra_actions": ["insulate wall cavity", "insulate floor above basement", "place low-temperature emission"]
+}, "sequence": {
+    "order_errors": []
+}}

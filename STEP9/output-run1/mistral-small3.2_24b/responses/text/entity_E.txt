@@ -1,0 +1,37 @@
+Based on the information provided, here's a step-by-step renovation plan to improve the energy efficiency of your detached house in Ghent, Belgium, while keeping costs in mind and following an optimal sequence:
+
+### 1. **Insulation Upgrades**
+   - **Exterior Walls**: Since the exterior walls are cavity walls and currently uninsulated, consider injecting insulation material (e.g., mineral wool or foam) into the cavities. This is a cost-effective way to improve thermal performance without altering the external appearance of the historic facade.
+   - **Floor Above Crawl Space**: Insulate the floor above the crawl space to prevent heat loss. Use rigid insulation boards or blown-in insulation, depending on accessibility and cost.
+
+### 2. **Window Upgrades**
+   - Replace single-glazed windows with double-glazed or even triple-glazed windows, maintaining the wooden frames if possible. This will significantly reduce heat loss through the windows. Ensure the new glazing meets Belgian energy efficiency standards.
+
+### 3. **Heating System Replacement**
+   - **Heat Pump**: Given the lack of district heating and geothermal suitability, consider installing an air-source heat pump. It’s efficient and can work well with underfloor heating or radiators.
+   - **Radiators/Underfloor Heating**: Upgrade the existing heat emission systems to modern, efficient radiators or underfloor heating systems compatible with the heat pump.
+
+### 4. **Ventilation System Upgrade**
+   - Replace the basic natural ventilation system with a **heat recovery ventilation (HRV) system**. This will improve indoor air quality while minimizing heat loss. Ensure the system is properly sized for your home.
+
+### 5. **Photovoltaic (PV) Panels Installation**
+   - Assess the roof’s suitability for PV panels and consider installing them to generate renewable energy. This will help reduce electricity costs and improve the energy performance certificate (EPC) score.
+
+### 6. **Additional Measures (if budget allows)**
+   - **Thermal Bridge Reduction**: Seal gaps around windows, doors, and other openings to prevent drafts and heat loss.
+   - **Smart Thermostats**: Install programmable or smart thermostats to optimize heating schedules and reduce energy waste.
+
+### **Optimal Renovation Sequence**
+1. **Insulate exterior walls and floor above crawl space** (foundational improvements).
+2. **Upgrade windows** (next largest source of heat loss).
+3. **Replace heating system with a heat pump and efficient emission systems** (ensures the new insulation and windows are utilized effectively).
+4. **Install a heat recovery ventilation system** (improves air quality and retains heat).
+5. **Add photovoltaic panels** (maximizes renewable energy generation after reducing demand).
+
+### **Expected Benefits**
+- Improved EPC score, likely reducing it significantly below the current 165.
+- Lower heating and electricity bills due to reduced energy consumption.
+- Increased comfort and better indoor air quality.
+- Long-term cost savings and potential government incentives for energy-efficient renovations.
+
+Would you like more detailed recommendations on specific materials or suppliers for any of these steps?

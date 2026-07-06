@@ -1,0 +1,39 @@
+Based on the information provided, here’s a step-by-step, cost-effective renovation plan to improve the energy efficiency of your 1832 attached house in Ghent, Belgium:
+
+### **1. Insulation Upgrades (Prioritize High-Impact Areas)**
+- **Exterior Walls (Front & Rear):** Install external wall insulation (EWI) on the solid brick walls. This is more cost-effective and less disruptive than internal insulation and will significantly reduce heat loss. Consider using mineral wool or rigid foam insulation with a breathable finish to preserve the historic character.
+- **Flat-Roof Extension:** Insulate the flat roof with a high-performance rigid insulation board. This is a straightforward and high-impact upgrade.
+- **Floor Above Basement:** Add insulation to the floor above the basement using rigid insulation boards or a suspended floor system with insulation. This will help reduce heat loss through the floor.
+
+*Note:* The main pitched roof already has moderate insulation, so no immediate action is needed unless further upgrades are planned later.
+
+### **2. Heating System Replacement**
+- Replace the old boiler and radiator system with a **modern condensing boiler** combined with **low-temperature radiators or underfloor heating**. This will improve efficiency and reduce fuel consumption.
+- If budget allows, consider a **heat pump system** (air-source or hybrid) as a long-term solution, though this may require additional insulation upgrades first.
+
+### **3. Ventilation Upgrade**
+- Replace the basic natural ventilation system with a **mechanical heat recovery ventilation (MHRV) system**. This will improve air quality while reducing heat loss by recovering warmth from exhaust air.
+- Ensure the system is properly sized and installed to maximize efficiency.
+
+### **4. Window Upgrades (If Needed)**
+- The existing double-glazed windows are in good condition, so no immediate replacement is necessary. However, if drafts or inefficiencies are noticed, consider **secondary glazing** as a cost-effective alternative to full window replacement.
+
+### **5. Photovoltaic (PV) Panel Installation**
+- Assess the roof’s suitability for PV panels and consider installing a system to generate renewable electricity. This will reduce energy costs and improve the home’s sustainability.
+
+### **6. Smart Thermostat & Controls**
+- Install a **programmable or smart thermostat** to optimize heating schedules and reduce energy waste.
+
+### **Optimal Renovation Sequence:**
+1. **Insulate the exterior walls, flat roof, and floor above the basement** (highest impact on reducing heat loss).
+2. **Upgrade the heating system** (improves efficiency of the new insulation).
+3. **Install MHRV ventilation** (ensures good air quality with minimal heat loss).
+4. **Add PV panels** (reduces electricity costs and improves sustainability).
+5. **Consider smart controls** (fine-tunes energy use).
+
+### **Expected Benefits:**
+- Significant improvement in the **Energy Performance Certificate (EPC)** score.
+- Reduced heating costs and improved comfort.
+- Lower environmental impact with renewable energy generation.
+
+Would you like more details on any specific step or cost estimates for the proposed upgrades?

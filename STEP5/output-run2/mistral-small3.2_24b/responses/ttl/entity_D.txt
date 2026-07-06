@@ -1,0 +1,60 @@
+### Analysis of the Provided Building Information
+
+The building is a **semi-detached house** constructed in **2017** with the following characteristics:
+- **Energy Performance Certificate (EPC) Score:** 87 (A Label)
+- **Net Floor Area:** 173.0 m²
+- **Insulation:**
+  - **RoofExtension (Flat Roof):** Well insulated
+  - **RoofMain (Gable Roof):** Moderately insulated
+  - **Walls (Front, Left, Rear):** Well insulated
+  - **FloorAboveBasement:** Well insulated
+- **Windows:**
+  - **Bedrooms and Living Area:** Double glazing (recently upgraded during a renovation intervention)
+  - **Window Frames:** Wooden, in good condition
+- **Heating System:** Heat pump
+- **Ventilation System:** Type D (mechanical supply and exhaust)
+- **PV Panels:** Installed
+- **Owner's Motivation:** To improve EPC
+
+### Current Energy Efficiency Status
+The building already has a good energy efficiency rating (A Label) due to recent upgrades, including well-insulated walls, double-glazed windows, and a heat pump. However, there is still room for improvement, particularly in the **gable roof insulation** and **ventilation system optimization**.
+
+### Proposed Renovation Plan
+
+#### Phase 1: Improve Insulation (Priority: High)
+1. **Insulate Gable Roof**
+   - **Action:** Upgrade the gable roof insulation from "Moderately Insulated" to "Well Insulated."
+   - **Rationale:** The gable roof is currently moderately insulated, which can lead to heat loss. Improving insulation will further reduce energy consumption.
+   - **Cost:** €60 per m² (based on the RENO ontology).
+
+2. **Insulate Attic Floor (if applicable)**
+   - **Action:** Ensure the attic floor is well insulated if it is used as a living space.
+   - **Rationale:** Proper attic floor insulation prevents heat loss through the ceiling.
+   - **Cost:** €60 per m².
+
+#### Phase 2: Optimize Heating and Ventilation (Priority: Medium)
+3. **Replace Ventilation System**
+   - **Action:** Consider upgrading the ventilation system to a more efficient model if necessary.
+   - **Rationale:** Although the current system is Type D (mechanical supply and exhaust), ensuring it is well-maintained and optimized can improve indoor air quality and energy efficiency.
+   - **Cost:** €3,500 (fixed) + €17 per m².
+
+4. **Place Emission System on Low Temperature**
+   - **Action:** Adjust the emission system to operate at lower temperatures to maximize the efficiency of the heat pump.
+   - **Rationale:** Lower temperature settings can improve the Coefficient of Performance (COP) of the heat pump.
+   - **Cost:** €100 per m².
+
+#### Phase 3: Sustainable Energy Generation (Priority: Long-term)
+5. **Expand PV Panels**
+   - **Action:** If the current PV panels are not sufficient to cover the building's energy needs, consider expanding the solar panel installation.
+   - **Rationale:** Additional PV panels can further reduce the building's reliance on grid electricity.
+   - **Cost:** €275 per m².
+
+### Summary of Optimal Sequence
+1. **Insulate Gable Roof** → **Insulate Attic Floor (if applicable)** → **Optimize Ventilation System** → **Adjust Emission System to Low Temperature** → **Expand PV Panels (if needed)**.
+
+### Cost-Effectiveness and Energy Efficiency
+- **Insulation upgrades** are prioritized to maximize energy savings with relatively low costs.
+- **Heating and ventilation optimizations** ensure the building operates efficiently.
+- **Sustainable energy generation** through PV panels reduces long-term energy costs and environmental impact.
+
+This plan ensures that the building maintains its high energy efficiency rating while further improving its sustainability and comfort.

@@ -1,0 +1,70 @@
+Based on the provided RENO ontology and the building information, here's a cost-effective and energy-efficient renovation plan that prioritizes high-impact upgrades:
+
+### Immediate Priorities (High Impact, Low Nuisance)
+1. **Insulate Attic Floor (RoofMain)**
+   - Current state: Not insulated
+   - Action: Install insulation (€60/m²)
+   - Importance: High (Order 31)
+   - Notes: Install vapor barrier on warm side
+
+2. **Insulate Wall Cavity (Wall_Front, Wall_Rear, Wall_Right)**
+   - Current state: Not insulated
+   - Action: Inject insulation (€22/m²)
+   - Importance: Medium (Order 34)
+   - Pre-requisite: Inspection to confirm cavity suitability
+
+3. **Replace Ventilation System**
+   - Current type: Natural ventilation (VentilationSystemA)
+   - Action: Upgrade to mechanical system (€3500 + €17/m²)
+   - Importance: Medium (Order 52)
+
+### Medium-Term Priorities
+4. **Insulate Flat Roof (RoofExtension)**
+   - Current state: Moderately insulated
+   - Action: Consider inverted roof structure (€50/m²)
+   - Importance: Medium (Order 25)
+
+5. **Insulate Gable Roof (RoofMain)**
+   - Current state: Not insulated
+   - Action: Install insulation (€60/m²)
+   - Importance: Medium (Order 28)
+   - Notes: Consider roof underlayment (€65/m², Order 16)
+
+6. **Insulate Floor Above Basement**
+   - Current state: Not insulated
+   - Action: Install insulation (€30/m²)
+   - Importance: Medium (Order 49)
+
+### Long-Term/High-Cost Priorities
+7. **Replace Windows**
+   - Current state: Double glazing with wooden frames
+   - Action: Consider triple glazing if budget allows (€800/m²)
+   - Importance: Medium (Order 46)
+
+8. **Consider Heat Pump Solutions**
+   - Options:
+     - Air-water heat pump (€8000 + €35/m², Order 67)
+     - Horizontal geothermal (€14000 + €50/m², Order 64)
+     - Vertical geothermal (€15000 + €50/m², Order 61)
+
+### Special Considerations
+- **Asbestos**: No asbestos detected in the provided information
+- **Historical Protection**: None identified
+- **EPC Goal**: Current score 388 (E label), target improvement to at least C label (<300)
+
+### Recommended Sequence
+1. Start with attic floor insulation
+2. Proceed with wall cavity insulation
+3. Upgrade ventilation system
+4. Address roof and floor insulation
+5. Consider window replacement and heat pump options
+
+### Cost Estimate
+Based on 150m² floor area and typical dimensions:
+- Attic insulation: ~€1500
+- Wall insulation: ~€6600
+- Ventilation upgrade: ~€6000
+- Roof insulation: ~€3000
+- Total estimated cost for core improvements: ~€17,100
+
+This plan focuses on maximizing energy efficiency through improved insulation and ventilation, which are typically the most cost-effective measures for reducing energy consumption in older buildings. The sequence follows the ontology's recommended ordering to ensure optimal benefit from each renovation step.

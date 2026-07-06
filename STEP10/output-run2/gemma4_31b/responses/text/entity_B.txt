@@ -1,0 +1,42 @@
+Based on the provided building data, this is an attached property from 1832 with a significant floor area (212 m²) and an EPC score of 262. Because the house is not historically protected, we have more flexibility in choosing insulation methods.
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow the **"Fabric First"** principle: reducing the energy demand of the building before upgrading the systems that provide that energy. This prevents the installation of an oversized, expensive heating system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Strengthening the Thermal Envelope (Priority: High)
+The goal is to eliminate heat leakage. In a house from 1832, the solid brick walls and uninsulated floor/roof are the primary sources of energy loss.
+
+1.  **Insulate Flat Roof:** The flat-roof extension is currently uninsulated. Since heat rises, this is a high-priority, high-impact intervention to immediately lower the EPC score.
+2.  **Insulate Exterior Walls:** Both the front and rear walls are solid brick and uninsulated. Given that the house is not historically protected, **exterior insulation** is the most effective way to eliminate thermal bridges. If exterior modification is not desired, interior insulation is a viable alternative, though it reduces net floor area.
+3.  **Insulate Floor Above Basement:** The floor above the basement is uninsulated. Adding insulation here prevents the "cold floor" effect and reduces heat loss to the lower level.
+
+#### Phase 2: Heating and Emission System Upgrade (Priority: Medium)
+Once the envelope is sealed, the total heat demand of the house will drop significantly. We can now replace the outdated boiler and radiators with a high-efficiency, low-temperature system.
+
+4.  **Upgrade to Low-Temperature Emission Systems:** Since the current radiators are in poor condition and need replacement, they should be replaced with low-temperature emitters (such as underfloor heating or oversized low-temp radiators). This is critical to ensure the efficiency of the next step.
+5.  **Install Air-Water Heat Pump:** With no district heating or geothermal potential, an **Air-Water Heat Pump** is the most sustainable and cost-effective generator. Because the house is now well-insulated and equipped with low-temp emitters, the heat pump will operate at a much higher Coefficient of Performance (COP).
+
+#### Phase 3: Ventilation and Air Quality (Priority: Medium)
+Insulating a 19th-century house significantly reduces natural air infiltration. To prevent humidity buildup and ensure a healthy indoor climate, the ventilation must be modernized.
+
+6.  **Upgrade Ventilation System:** Replace the basic natural ventilation with a mechanical system (such as System C or D). A balanced ventilation system with heat recovery (System D) would be the most energy-efficient choice to ensure that warmed air is not simply exhausted from the building.
+
+#### Phase 4: Sustainable Energy Generation (Priority: Long-term)
+The final step is to transition from energy efficiency to energy autonomy.
+
+7.  **Install Photovoltaic (PV) Panels:** The property has confirmed potential for PV. Installing solar panels will generate the electricity required to power the new heat pump and ventilation system, drastically reducing operational costs and further improving the EPC label.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulation (Flat Roof $\rightarrow$ Walls $\rightarrow$ Floor)** | Drastically reduces the building's total energy demand. |
+| **2** | **Low-Temp Emission Upgrade** | Prepares the house to use a heat pump efficiently. |
+| **3** | **Air-Water Heat Pump** | Replaces the old boiler with a sustainable, high-efficiency source. |
+| **4** | **Ventilation Upgrade** | Prevents moisture and maintains air quality in a sealed envelope. |
+| **5** | **PV Panel Installation** | Offsets the electricity consumption of the new systems. |
+
+**Note on Windows:** Since the wooden frames are in good condition and already feature double glazing, replacing them is not recommended at this time, as the return on investment would be low compared to the other measures.

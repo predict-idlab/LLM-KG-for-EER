@@ -1,0 +1,110 @@
+Based on the provided ontology and entity information, here's a tailored renovation plan to maximize energy efficiency while remaining cost-effective:
+
+### **Renovation Plan for Example Building**
+
+1. **Insulate Attic Floor**
+   - **Action**: Install insulation on the attic floor.
+   - **Reason**: The attic floor is currently not insulated, which is a significant source of heat loss.
+   - **Type**: `InsulateAtticFloor`
+   - **Ordering**: 31
+   - **Permit Needed**: No
+   - **Nuisance Level**: Low
+   - **Point of Attention**: Ensure the vapor barrier is installed on the warm side of the insulation.
+   - **Price**: €60/m²
+
+2. **Insulate Wall Cavity**
+   - **Action**: Inject insulation into the wall cavities.
+   - **Reason**: The walls are currently not insulated, leading to heat loss.
+   - **Type**: `InsulateWallCavity`
+   - **Ordering**: 34
+   - **Permit Needed**: No
+   - **Nuisance Level**: Low
+   - **Point of Attention**: Ensure the cavity is suitable for injecting insulation and check for contamination.
+   - **Price**: €22/m²
+
+3. **Insulate Floor Above Basement**
+   - **Action**: Install insulation on the floor above the basement.
+   - **Reason**: The floor above the basement is not insulated, which can lead to heat loss.
+   - **Type**: `InsulateFloorAboveBasement`
+   - **Ordering**: 49
+   - **Permit Needed**: No
+   - **Nuisance Level**: Low
+   - **Price**: €30/m²
+
+4. **Insulate Wall on Interior**
+   - **Action**: Install insulation on the interior side of the walls.
+   - **Reason**: The walls are not insulated, leading to heat loss.
+   - **Type**: `InsulateWallInterior`
+   - **Ordering**: 37
+   - **Permit Needed**: No
+   - **Nuisance Level**: Moderate
+   - **Point of Attention**: Relocate sockets, pipes, and radiators against the outer walls.
+   - **Price**: €150/m²
+
+5. **Replace Glazing**
+   - **Action**: Replace the current glazing with double or triple glazing.
+   - **Reason**: The current glazing is single glazing, which has poor thermal and acoustic properties.
+   - **Type**: `ReplaceGlazing`
+   - **Ordering**: 43
+   - **Permit Needed**: No
+   - **Nuisance Level**: High
+   - **Point of Attention**: Ensure the window frames are in good condition and can fit the new glazing.
+   - **Price**: €200/m²
+
+6. **Replace Windows**
+   - **Action**: Replace the current windows with new, energy-efficient windows.
+   - **Reason**: The current windows are old and likely have poor insulation properties.
+   - **Type**: `ReplaceWindows`
+   - **Ordering**: 46
+   - **Permit Needed**: Not necessary if the measurements are kept.
+   - **Nuisance Level**: High
+   - **Point of Attention**: Ensure the new windows have the right thickness for the glazing type.
+   - **Price**: €800/m²
+
+7. **Replace Ventilation System**
+   - **Action**: Replace the current ventilation system with a more efficient one.
+   - **Reason**: The current ventilation system may not be efficient, leading to energy loss.
+   - **Type**: `ReplaceVentilationSystem`
+   - **Ordering**: 52
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+   - **Nuisance Level**: Moderate
+   - **Point of Attention**: For a ventilation system C, ensure there are enough grilles in the window frames.
+   - **Price**: €17/m²
+
+8. **Place Air-Water Heat Pump**
+   - **Action**: Install an air-water heat pump.
+   - **Reason**: The current heating system may not be energy-efficient, and a heat pump can provide both heating and cooling efficiently.
+   - **Type**: `PlaceAirWaterHeatpump`
+   - **Ordering**: 67
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary.
+   - **Nuisance Level**: Moderate
+   - **Price**: €35/m²
+
+9. **Place Low-Temperature Emission System**
+   - **Action**: Install a low-temperature emission system.
+   - **Reason**: To improve the overall heating efficiency of the building.
+   - **Type**: `PlaceLowTemperatureEmission`
+   - **Ordering**: 70
+   - **Permit Needed**: No
+   - **Nuisance Level**: Moderate
+   - **Price**: €100/m²
+
+10. **Place PV-Panels on Roof**
+    - **Action**: Install photovoltaic (PV) panels on the roof.
+    - **Reason**: To generate renewable energy and reduce electricity costs.
+    - **Type**: `PlacePVPanelsOnRoof`
+    - **Ordering**: 85
+    - **Permit Needed**: Not necessary if the panels are in the same plane.
+    - **Nuisance Level**: Low
+    - **Point of Attention**: Ensure the roof is properly oriented and captures enough sunlight.
+    - **Price**: €275/m²
+
+### **Sequence of Actions**
+The suggested order of actions ensures that foundational improvements (like insulation and window replacement) are addressed before more complex systems (like heat pumps and PV panels) are installed. This approach maximizes the effectiveness and efficiency of each step.
+
+### **Additional Considerations**
+- **Asbestos Containing**: Ensure that any asbestos-containing materials are safely removed before starting any renovation work.
+- **Historical Protection**: Since none of the walls have historical protection, there are no additional restrictions on the renovation work.
+- **Potential for PV**: The building has potential for PV panels, making the installation of PV panels a cost-effective and environmentally friendly choice.
+
+This plan is designed to optimize energy efficiency while considering cost-effectiveness and practicality. The suggested actions are grounded in the provided ontology and tailored to the specific characteristics of the example building.

@@ -1,0 +1,74 @@
+Given the information about your 1832 attached house in Ghent, Belgium, here’s a step-by-step, cost-effective renovation plan to improve energy efficiency while maximizing long-term benefits:
+
+### **1. Insulation Upgrades**
+**Priority:** High (immediate impact on energy loss)
+**Action:**
+- **Exterior Walls (Front & Rear):** Install internal or external wall insulation (IWI/EWI). Since the house is not historically protected, external insulation (EWI) is preferred for minimal disruption and better thermal performance. Use high-performance insulation like mineral wool or rigid foam.
+- **Flat-Roof Extension:** Insulate with a suitable material (e.g., polyisocyanurate foam) to match the existing pitched roof’s moderate insulation.
+- **Floor Above Basement:** Add insulation (e.g., rigid foam boards) to reduce heat loss through the floor.
+
+**Why First?**
+Insulation addresses the largest thermal bridges (walls, roof, floor), reducing heat loss and improving the building’s overall energy performance.
+
+---
+
+### **2. Heating System Replacement**
+**Priority:** High (old boiler and radiators are inefficient)
+**Action:**
+- Replace the old boiler with a **condensing gas boiler** (if natural gas is available) or an **air-source heat pump (ASHP)** for higher efficiency. Since the house has potential for photovoltaic (PV) panels, an ASHP could be paired with PV to further reduce electricity costs.
+- Upgrade radiators to **low-temperature radiators** or consider underfloor heating for better efficiency with the new heat pump.
+
+**Why Next?**
+A modern heating system will work more efficiently with improved insulation, reducing energy consumption.
+
+---
+
+### **3. Ventilation Upgrade**
+**Priority:** Medium (natural ventilation is inefficient)
+**Action:**
+- Install a **mechanical ventilation system with heat recovery (MVHR)** to improve indoor air quality while minimizing heat loss.
+
+**Why?**
+MVHR recovers heat from exhaust air, reducing heating demands and improving comfort.
+
+---
+
+### **4. Window Upgrades (If Needed)**
+**Priority:** Medium (if double glazing is outdated)
+**Action:**
+- If the double-glazed windows are old (pre-2000s), consider upgrading to **triple-glazed windows** with low-emissivity (Low-E) coatings. However, since the frames are in good condition, focus on glazing upgrades only.
+
+**Why?**
+Windows are a significant source of heat loss, and upgrading them can further improve insulation.
+
+---
+
+### **5. Photovoltaic (PV) Panel Installation**
+**Priority:** Medium (long-term energy cost savings)
+**Action:**
+- Install **roof-mounted PV panels** to generate electricity, which can power the heat pump or other household appliances.
+
+**Why?**
+PV panels reduce reliance on grid electricity, lowering energy bills and carbon footprint.
+
+---
+
+### **6. Smart Thermostat & Controls**
+**Priority:** Low (but useful for efficiency)
+**Action:**
+- Install a **smart thermostat** to optimize heating schedules and reduce energy waste.
+
+**Why?**
+Smart controls ensure heating is used efficiently, especially with a new heat pump or boiler.
+
+---
+
+### **Optimal Sequence for Maximum Benefits**
+1. **Insulation** (walls, roof, floor) → Reduces heat loss first.
+2. **Heating System Upgrade** → New system works efficiently with improved insulation.
+3. **Ventilation Upgrade** → Ensures healthy indoor air with minimal heat loss.
+4. **Window Upgrades (if needed)** → Further improves insulation.
+5. **PV Panels** → Generates renewable energy for the new heating system.
+6. **Smart Controls** → Optimizes energy use.
+
+This phased approach ensures that each upgrade maximizes the benefits of the previous one, leading to a more energy-efficient and cost-effective home.

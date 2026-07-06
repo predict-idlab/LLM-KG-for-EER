@@ -1,0 +1,52 @@
+To move a house from an EPC score of 388 to a high-performance rating, you must follow the **"Fabric First"** principle. The most common mistake is replacing the heating system before insulating; this leads to installing an oversized, expensive system that remains inefficient.
+
+Given the 1951 construction in Ghent and the specific constraints of your home, here is the optimal, sequenced renovation path.
+
+---
+
+### Phase 1: The Thermal Envelope (Stopping the Leak)
+*Goal: Reduce the total energy demand of the house so that the future heating system can be smaller and cheaper.*
+
+1.  **Roof Insulation (Highest Priority):** Since heat rises, the uninsulated pitched roof is your biggest source of energy loss. 
+    *   **Action:** Install high-performance mineral wool or PIR insulation. If the roof is in good condition, insulating from the inside (between rafters) is cost-effective, though insulating from the outside (sarking) is more efficient.
+2.  **Floor Insulation (Basement Ceiling):** The floor above the basement is a "low-hanging fruit."
+    *   **Action:** Insulate the ceiling of the basement. This is significantly cheaper than digging up floors and prevents "cold feet" syndrome.
+3.  **Wall Insulation:** Solid brick walls from 1951 have poor thermal resistance.
+    *   **Action:** Since the house is not protected, **Exterior Wall Insulation (EWI)** is the gold standard. It eliminates thermal bridges and protects the brickwork. If budget is a constraint, prioritize the walls facing North/East.
+
+### Phase 2: Ventilation & Air Quality
+*Goal: Prevent mold and moisture buildup caused by the newly sealed envelope.*
+
+4.  **Upgrade Ventilation:** You currently have basic natural ventilation. Once you insulate the walls and roof, the house becomes "airtight," which can lead to condensation.
+    *   **Action:** Install a **Mechanical Ventilation system with Heat Recovery (MVHR)** or at least a balanced ventilation system. This ensures fresh air while recovering heat from the exhaust air, preventing the heat you just "saved" from leaking out through vents.
+
+### Phase 3: The Heating Transition
+*Goal: Move from fossil fuels to a low-carbon, high-efficiency system.*
+
+5.  **Emitter Replacement:** You mentioned your radiators and air heating are in poor condition.
+    *   **Action:** Replace old radiators with **low-temperature radiators** or expand the **underfloor heating** system. Heat pumps are significantly more efficient when they can operate at lower flow temperatures (e.g., 35-45°C instead of 70°C).
+6.  **Heat Pump Installation:** Now that the house is insulated and the emitters are optimized, the energy load is low.
+    *   **Action:** Install an **Air-to-Water Heat Pump**. Since geothermal is not possible, this is your most sustainable option. Because you insulated first, the heat pump will be smaller, cheaper to install, and cheaper to run.
+
+### Phase 4: Energy Generation
+*Goal: Offset the electricity cost of the heat pump and reach a near-zero energy balance.*
+
+7.  **Photovoltaic (PV) Panels:** 
+    *   **Action:** Install solar panels on the pitched roof. 
+    *   **Synergy:** The electricity generated will power the heat pump and the ventilation system, drastically reducing your monthly operational costs.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Step | Action | Logic | Impact |
+| :--- | :--- | :--- | :--- |
+| **1** | **Roof $\rightarrow$ Floor $\rightarrow$ Walls** | Reduce heat loss first. | $\downarrow$ Energy Demand |
+| **2** | **Ventilation** | Prevent humidity/mold in a sealed house. | $\uparrow$ Air Quality |
+| **3** | **Emitters $\rightarrow$ Heat Pump** | Size the system to the *new* low demand. | $\downarrow$ Operational Cost |
+| **4** | **PV Panels** | Power the new electrical systems. | $\rightarrow$ Energy Independence |
+
+### Expert Tips for Ghent/Flanders:
+*   **Subsidies:** Check the **"Mijn VerbouwPremie"** (My Renovation Premium). The Flemish government provides significant grants for these specific steps, but they often require a certified EPC advisor to verify the works.
+*   **Windows:** Since your wooden frames and double glazing are in good condition, **do not replace them yet**. They are a lower priority than the roof and walls in terms of ROI.
+*   **The "Semi-Detached" Advantage:** You share one wall with a neighbor, which acts as a natural insulator. Focus your wall insulation efforts on the exterior-facing sides.

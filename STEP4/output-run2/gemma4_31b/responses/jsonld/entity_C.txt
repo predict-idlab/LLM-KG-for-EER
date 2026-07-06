@@ -1,0 +1,30 @@
+Based on the provided building data and the RENO ontology, the property is a very modern attached building (constructed in 2023) with an already excellent energy performance (EPC score of 50, A Label). Most of the thermal envelope is already "Well Insulated," and it features a high-end Ventilation System D.
+
+However, there is a significant inefficiency in the heating setup: the use of **Electric Convectors**, which are energy-intensive and costly to operate. To further improve the EPC and maximize long-term operational performance, the renovation should focus on transitioning from resistive electric heating to a sustainable heat pump system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Fine-Tuning (Priority: Low)
+While the building is generally well-insulated, there is one remaining area for improvement to ensure the heating system operates at peak efficiency.
+1. **Insulate Gable Roof:** The main roof is currently "Moderately Insulated." Upgrading this to a "Well Insulated" grade will further reduce heat loss through the top of the building, ensuring that the new heating system is as small and efficient as possible.
+
+#### Phase 2: High-Efficiency Heating Transition (Priority: High)
+The current reliance on electric convectors is the primary obstacle to achieving a higher EPC and lower energy costs.
+2. **Place Air-Water Heat Pump:** Since there is no potential for geothermal drilling/captation and no available heat grid, an **Air-Water Heat Pump** is the most cost-effective and sustainable replacement for the current electric heating generation.
+3. **Optimize Emission Systems:** The building already has floor heating, which is ideal for heat pumps. The **Electric Convectors should be decommissioned** in favor of the heat pump's distribution. To maximize the Coefficient of Performance (COP), the system should be configured for **Low Temperature Emission**, ensuring the heat pump doesn't have to work harder than necessary to maintain comfort.
+
+#### Phase 3: Energy Offset (Maintenance)
+4. **Optimize Existing PV Panels:** The building already possesses PV panels. No new installation is suggested (as the building is listed as having no further potential for PV), but the owner should ensure the PV system is correctly integrated with the new heat pump to offset the electricity consumption of the compressor.
+
+---
+
+### Summary of Optimal Sequence
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Gable Roof Insulation** | Completes the thermal envelope to minimize the capacity required for the new heater. |
+| **2** | **Air-Water Heat Pump** | Replaces inefficient resistive electric heating with a high-efficiency sustainable source. |
+| **3** | **Low-Temp Emission Upgrade** | Ensures the heat pump operates at maximum efficiency (COP) by utilizing the existing floor heating. |
+| **4** | **PV Integration** | Uses existing renewable generation to power the new heat pump, driving the EPC score even lower. |
+
+**Final Assessment:** Because the building is nearly optimized, these steps move the property from "highly efficient" to "near-zero energy," focusing on the transition from expensive electricity consumption (convectors) to efficient, sustainable thermal management.

@@ -1,0 +1,80 @@
+### **Step-by-Step Renovation Plan**
+
+#### **1. Analyze the Building's Current State**
+- **Construction Year:** 1832 (historical building)
+- **Current EPC Score:** 262 (D Label)
+- **Current Insulation:**
+  - **FloorAboveBasement:** Not Insulated
+  - **Wall_Front & Wall_Rear:** Not Insulated (FullBrickWall)
+  - **RoofExtension (Flat Roof):** Not Insulated
+  - **RoofMain (Gable Roof):** Moderately Insulated
+- **Windows:**
+  - Double-glazed with wooden frames in good condition.
+- **Heating System:** Radiator-based with a boiler.
+- **Ventilation System:** Type A (natural ventilation).
+- **PV Potential:** True (suitable for solar panels).
+- **Geothermal Potential:** False (no vertical or horizontal geothermal drilling potential).
+- **Heat Grid:** False (no connection to a heat grid).
+
+#### **2. Define the Owner's Goals**
+- **Primary Motivation:** Improve EPC (ToImproveEPC).
+
+#### **3. Determine the Optimal Renovation Path**
+The renovation should follow the **"Insulate → Ventilate → Generate"** sequence to maximize energy efficiency cost-effectively.
+
+##### **Phase 1: Thermal Envelope Optimization (Priority: High)**
+The building has significant heat loss through uninsulated elements. Addressing these first is the most cost-effective way to lower the energy score.
+
+1. **Insulate Exterior Walls (Wall_Front & Wall_Rear):**
+   - **Action:** Insulate Wall on Exterior (InsulateWallExterior).
+   - **Rationale:** Since the walls are full brick and not cavity walls, exterior insulation is the most effective method to eliminate thermal bridges.
+
+2. **Insulate Flat Roof (RoofExtension):**
+   - **Action:** Insulate Flat Roof (InsulateFlatRoof).
+   - **Rationale:** The flat roof is currently not insulated, and insulating it will prevent heat loss through the roof.
+
+3. **Insulate Floor Above Basement (FloorAboveBasement):**
+   - **Action:** Insulate Floor Above Basement (InsulateFloorAboveBasement).
+   - **Rationale:** The floor above the basement is currently not insulated, adding insulation here prevents cold drafts from the basement.
+
+4. **Insulate Attic Floor (if applicable):**
+   - **Action:** Insulate Attic Floor (InsulateAtticFloor).
+   - **Rationale:** Ensures thermal comfort and reduces heat loss through the attic.
+
+##### **Phase 2: Heating & Emission System Transition (Priority: Medium)**
+With a sealed envelope, the building's heat demand is now significantly lower, allowing for the installation of a more efficient, low-temperature system.
+
+5. **Place Air-Water Heat Pump:**
+   - **Action:** Place Air-Water Heat Pump (PlaceAirWaterHeatpump).
+   - **Rationale:** Since geothermal potential is "false" and there is no heat grid, an Air-Water Heat Pump is the most sustainable and efficient replacement for the existing boiler.
+
+6. **Place Emission System on Low Temperature:**
+   - **Action:** Place Low-Temperature Emission System (PlaceLowTemperatureEmission).
+   - **Rationale:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+
+##### **Phase 3: Sustainable Energy Generation (Priority: Long-term)**
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+7. **Place PV-Panels on Roof:**
+   - **Action:** Place PV-Panels on Roof (PlacePVPanelsOnRoof).
+   - **Rationale:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+
+8. **Replace Ventilation System (if needed):**
+   - **Action:** Replace Ventilation System (ReplaceVentilationSystem).
+   - **Rationale:** Upgrade from Ventilation System A (natural) to a more efficient system (such as System C or D) to ensure proper air exchange and maintain indoor air quality.
+
+#### **4. Summary of Optimal Sequence**
+The proposed renovation path follows the **"Insulate → Ventilate → Generate"** sequence to ensure cost-effectiveness and energy efficiency.
+
+| **Sequence** | **Action** | **Rationale** |
+|-------------|------------|--------------|
+| **1** | Insulate Exterior Walls (Wall_Front & Wall_Rear) | Eliminate thermal bridges and reduce heat loss. |
+| **2** | Insulate Flat Roof (RoofExtension) | Prevent heat loss through the roof. |
+| **3** | Insulate Floor Above Basement (FloorAboveBasement) | Prevent cold drafts from the basement. |
+| **4** | Insulate Attic Floor (if applicable) | Ensure thermal comfort and reduce heat loss. |
+| **5** | Place Air-Water Heat Pump | Replace the existing boiler with a more efficient and sustainable heating system. |
+| **6** | Place Low-Temperature Emission System | Maximize the Coefficient of Performance (COP) of the new generator. |
+| **7** | Place PV-Panels on Roof | Offset the electricity consumption of the heat pump and improve the EPC label. |
+| **8** | Replace Ventilation System (if needed) | Ensure proper air exchange and maintain indoor air quality. |
+
+This plan ensures a systematic and cost-effective approach to improving the building's energy efficiency and EPC label.

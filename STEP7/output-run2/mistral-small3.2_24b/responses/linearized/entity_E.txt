@@ -1,0 +1,31 @@
+Here's the step-by-step reasoning:
+
+1. **Identify the building elements and their current state**:
+   - The building has walls (Front, Right, Left, Rear) that are not insulated and have no historical protection.
+   - The roof is well insulated.
+   - The windows have single glazing and wooden frames.
+   - The building has a ventilation system type A.
+   - The building has an electric convector, floor heating, and a boiler for generation.
+
+2. **Determine the energy efficiency priorities**:
+   - Improve insulation of walls (Front, Right, Left, Rear).
+   - Upgrade window glazing from single to double or triple.
+   - Consider upgrading the ventilation system to a more efficient type.
+   - Evaluate the possibility of installing renewable energy systems like PV panels.
+
+3. **Plan the renovation actions**:
+   - Insulate the walls (Front, Right, Left, Rear) on the interior or exterior.
+   - Replace the single glazing with double or triple glazing.
+   - Consider replacing the ventilation system if it's outdated or inefficient.
+   - Install PV panels on the roof if the potential for PV is high.
+
+4. **Exclude actions that are not relevant or have been already addressed**:
+   - The roof is already well insulated, so no need to insulate it further.
+   - The building has no asbestos, so no need to remove it.
+
+### Final Renovation Plan:
+1. insulate wall on interior
+2. insulate wall on exterior
+3. replace glazing
+4. replace ventilation system
+5. place pv-panels on roof

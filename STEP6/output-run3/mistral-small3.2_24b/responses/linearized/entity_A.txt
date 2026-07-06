@@ -1,0 +1,78 @@
+### Renovation Plan Analysis
+
+**Building Overview:**
+- **Type:** Semi-detached building
+- **Construction Year:** 1951
+- **EPC Score:** 388 (D Label)
+- **Current Heating System:** AirHeating with FloorHeating
+- **Ventilation System:** VentilationSystemA (natural)
+- **Insulation Status:**
+  - RoofMain: NotInsulated
+  - RoofExtension: ModeratelyInsulated
+  - Wall_Front, Wall_Right, Wall_Rear: NotInsulated
+  - FloorAboveBasement: NotInsulated
+- **Windows:**
+  - Double-glazed with wooden frames in good condition
+- **Potential for PV:** True
+- **Presence of Heat Grid:** False
+- **Owner's Motivation:** ToImproveEPC
+
+### Renovation Strategy
+
+**Priority 1: Building Envelope Optimization**
+The building has significant heat loss due to uninsulated walls, roof, and floor. Improving the thermal envelope is the most cost-effective way to reduce energy consumption and improve the EPC score.
+
+1. **Insulate Wall on Exterior**
+   - **Walls to Insulate:** Wall_Front, Wall_Right, Wall_Rear
+   - **Rationale:** Exterior insulation is the most effective method for full brick walls, eliminating thermal bridges and significantly improving thermal performance.
+   - **Ordering:** High (Priority 40)
+
+2. **Insulate Gable Roof**
+   - **Rationale:** The main gable roof (RoofMain) is currently uninsulated. Insulating it will reduce heat loss through the roof.
+   - **Ordering:** Medium (Priority 28)
+
+3. **Insulate Flat Roof**
+   - **Rationale:** The flat roof extension (RoofExtension) is only moderately insulated. Upgrading to full insulation will further improve energy efficiency.
+   - **Ordering:** Medium (Priority 25)
+
+4. **Insulate Floor Above Basement**
+   - **Rationale:** The floor above the basement is currently uninsulated. Insulating it will prevent cold drafts from the basement.
+   - **Ordering:** Medium (Priority 49)
+
+**Priority 2: Ventilation System Upgrade**
+With the building envelope sealed, a more efficient ventilation system is needed to maintain air quality.
+
+5. **Replace Ventilation System**
+   - **Rationale:** Upgrading from VentilationSystemA (natural) to a more efficient system (such as System C or D) will ensure proper air exchange and prevent moisture buildup.
+   - **Ordering:** Medium (Priority 52)
+
+**Priority 3: Heating System Transition**
+With the building envelope optimized, the heating system can be transitioned to a more efficient, low-temperature system.
+
+6. **Place Air-Water Heat Pump**
+   - **Rationale:** An air-water heat pump is the most sustainable and efficient replacement for the existing air heating system, especially since geothermal potential is limited and there is no heat grid.
+   - **Ordering:** Medium (Priority 67)
+
+7. **Place Emission System on Low Temperature**
+   - **Rationale:** Before installing the heat pump, the current floor heating system should be transitioned to a low-temperature emission system to maximize the Coefficient of Performance (COP) of the new heat pump.
+   - **Ordering:** Medium (Priority 70)
+
+**Priority 4: Sustainable Energy Generation**
+To offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+8. **Place PV-Panels on Roof**
+   - **Rationale:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+   - **Ordering:** Medium (Priority 85)
+
+### Summary of Optimal Sequence
+
+1. **Insulate Wall on Exterior** (Wall_Front, Wall_Right, Wall_Rear)
+2. **Insulate Gable Roof** (RoofMain)
+3. **Insulate Flat Roof** (RoofExtension)
+4. **Insulate Floor Above Basement**
+5. **Replace Ventilation System** (Upgrade to System C or D)
+6. **Place Air-Water Heat Pump**
+7. **Place Emission System on Low Temperature**
+8. **Place PV-Panels on Roof**
+
+This sequence ensures that the building's energy efficiency is maximized in a cost-effective manner, aligning with the owner's motivation to improve the EPC score.

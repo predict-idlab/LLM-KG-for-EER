@@ -1,0 +1,49 @@
+### Renovation Plan for Detached Building (Construction Year: 1862)
+
+**Building Overview:**
+- **Type:** Detached
+- **Construction Year:** 1862
+- **Current EPC Score:** 165 (B Label)
+- **Owner's Motivation:** Improve EPC
+- **Key Elements:**
+  - 4 Cavity Walls (Front, Rear, Left, Right) - Not Insulated
+  - 1 Floor Above Crawl Space - Not Insulated
+  - 2 Windows (Bedrooms, Living Area) - Single Glazing, Wooden Frames
+  - 1 Gable Roof - Well Insulated
+  - 1 Ventilation System (Type A)
+
+**Renovation Priorities:**
+1. **Envelope Sealing (High Priority):**
+   - **Insulate Cavity Walls:** Since the walls are cavity walls, the most cost-effective method is to inject insulation into the cavity. This addresses a significant source of heat loss.
+   - **Insulate Floor Above Crawl Space:** Prevents heat loss to the crawl space and reduces drafts.
+
+2. **Window Upgrades (Medium Priority):**
+   - **Replace Glazing (Bedrooms and Living Area):** The single glazing in both windows is a major source of heat loss. Upgrading to double or triple glazing will significantly improve thermal performance.
+
+3. **Heating System Transition (Long-term):**
+   - **Replace Ventilation System:** Upgrade from Ventilation System A to a more efficient system (e.g., System C or D) to ensure proper air exchange and maintain indoor air quality.
+   - **Place Air-Water Heat Pump:** Since there is no potential for geothermal energy or a heat grid, an Air-Water Heat Pump is the most viable and efficient alternative to the existing boiler.
+
+4. **Sustainable Energy Generation (Optional):**
+   - **Place PV-Panels on Roof:** If the roof has the right orientation and condition, installing solar panels can offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+**Optimal Sequence:**
+1. **Insulate Cavity Walls** (High Priority)
+2. **Insulate Floor Above Crawl Space** (High Priority)
+3. **Replace Glazing** (Medium Priority)
+4. **Replace Ventilation System** (Medium Priority)
+5. **Place Air-Water Heat Pump** (Long-term)
+6. **Place PV-Panels on Roof** (Optional)
+
+**Summary of Recommendations:**
+
+| Sequence | Action | Rationale |
+|----------|--------|-----------|
+| 1 | Insulate Cavity Walls | Addresses significant heat loss through uninsulated cavity walls. |
+| 2 | Insulate Floor Above Crawl Space | Prevents heat loss to the crawl space and reduces drafts. |
+| 3 | Replace Glazing (Bedrooms and Living Area) | Upgrades from single to double/triple glazing to improve thermal performance. |
+| 4 | Replace Ventilation System | Ensures proper air exchange and maintains indoor air quality. |
+| 5 | Place Air-Water Heat Pump | Provides a sustainable and efficient heating solution tailored to the new lower heat demand. |
+| 6 | Place PV-Panels on Roof | Offsets electricity consumption of the new heat pump and further improves EPC label. |
+
+This plan ensures a cost-effective path to improving the building's energy efficiency and EPC rating while maintaining the building's historical integrity and comfort.

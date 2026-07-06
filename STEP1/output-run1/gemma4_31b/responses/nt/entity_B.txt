@@ -1,0 +1,41 @@
+Based on the provided building data and the RENO ontology, the building is a historic attached house (1832) with a moderate energy score (262 kWh/m²year). To maximize energy efficiency while remaining cost-effective, the renovation must follow the **"Envelope First"** principle: reducing heat demand before upgrading the heating generation system.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Reducing Heat Loss)
+*The goal is to create a tight thermal shell to lower the energy required for heating.*
+
+1.  **Insulate Flat Roof (Roof Extension):** The roof extension is currently not insulated. Insulating this area is a high-priority, low-hanging fruit to prevent significant heat escape through the top of the building.
+2.  **Insulate Floor Above Basement:** The floor above the basement is not insulated and has no protection constraints. This will significantly improve thermal comfort and reduce the energy load.
+3.  **Insulate Exterior Walls (Front and Rear):** Both the front and rear full-brick walls are not insulated. Since there is no historical protection, **Exterior Wall Insulation** is the most effective choice to eliminate thermal bridges and drastically improve the EPC score.
+
+#### Phase 2: Ventilation and Air Quality
+*Once the building is airtight, mechanical ventilation is required to maintain air quality and recover heat.*
+
+4.  **Replace Ventilation System:** Upgrade from the current System A (natural supply/mechanical exhaust) to a **Ventilation System D** (double-flow with heat recovery). This ensures that the heat kept inside by the new insulation is not lost through ventilation.
+
+#### Phase 3: High-Efficiency Heating Transition
+*With a reduced heat load, we can now install a smaller, more efficient heating system.*
+
+5.  **Install Low-Temperature Emission Systems:** To maximize the efficiency of a heat pump, the current radiators should be transitioned to low-temperature emissions (e.g., floor heating or oversized radiators).
+6.  **Install Air-Water Heat Pump:** Since geothermal drilling and heat grids are unavailable at this site, an **Air-Water Heat Pump** is the most cost-effective and sustainable replacement for the current boiler.
+
+#### Phase 4: Renewable Energy Integration
+*The final step is to offset the electricity consumption of the new heat pump.*
+
+7.  **Place PV Panels on Roof:** The building has confirmed potential for PV. Installing solar panels will reduce operational costs and further improve the EPC label toward the owner's goal.
+
+---
+
+### Summary of Optimal Sequence & Logic
+
+| Sequence | Intervention | Logic |
+| :--- | :--- | :--- |
+| **1** | **Roof & Floor Insulation** | Highest ROI; prevents immediate heat loss. |
+| **2** | **Wall Insulation** | Most significant impact on EPC score. |
+| **3** | **Ventilation Upgrade** | Necessary for airtight homes to recover heat. |
+| **4** | **Low-Temp Emission** | Prerequisite for Heat Pump efficiency. |
+| **5** | **Air-Water Heat Pump** | Switches generation from fossil fuels to electricity. |
+| **6** | **PV Panels** | Offsets electricity costs for the heat pump. |
+
+**Cost-Effectiveness Note:** By insulating first, the required capacity (and thus the purchase price) of the heat pump is reduced, and the system will operate at a much higher Coefficient of Performance (COP), leading to lower monthly energy bills.

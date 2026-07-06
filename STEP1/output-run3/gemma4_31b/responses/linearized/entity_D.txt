@@ -1,0 +1,43 @@
+### Building Analysis
+The analyzed building is a **Semi-Detached Building** constructed in **2017**, which is relatively modern. It already exhibits a high level of energy efficiency, evidenced by an **EPC score of 87** (placing it in the A or B label category). 
+
+**Current Strengths:**
+*   **Insulation:** The front, left, and rear walls, as well as the floor above the basement and the flat roof extension, are already **WellInsulated**.
+*   **Systems:** The home is already equipped with high-efficiency technology, including a **Heat Pump** for generation, **PV Panels** for renewable energy, and a **Ventilation System D** (mechanical supply and exhaust).
+*   **Glazing:** All windows currently feature **Double Glazing** with wooden frames in good condition.
+
+**Identified Weakness:**
+*   The **RoofMain (Gable Roof)** is the only building element rated as **ModeratelyInsulated**. This represents the primary opportunity for energy loss and the most logical target for improvement to further lower the EPC score.
+
+---
+
+### Proposed Renovation Path
+Since the building is already highly efficient, the focus shifts from "major overhaul" to "marginal gains" to maximize long-term operational performance while remaining cost-effective.
+
+#### Step 1: Thermal Envelope Optimization (Priority: High)
+**Action:** `InsulateGableRoof`
+*   **Reasoning:** This is the only component not yet "WellInsulated." Improving the roof insulation will reduce heat loss through the top of the building, directly contributing to the owner's goal of improving the EPC.
+*   **Practical Note:** As per the RENO ontology, ensure a **vapour barrier** is installed on the warm side of the insulation to prevent condensation problems.
+*   **Cost-Effectiveness:** High. Roof insulation typically offers one of the best returns on investment in terms of kWh saved per euro spent.
+
+#### Step 2: Glazing Upgrade (Priority: Medium)
+**Action:** `ReplaceGlazing` (Upgrade from Double to Triple Glazing)
+*   **Reasoning:** While double glazing is standard, moving to **Triple Glazing** is the next step for maximizing energy efficiency.
+*   **Practical Note:** Since the wooden frames are in "Good State," the owner should first verify if the current frames have the necessary thickness to accommodate triple-pane glass without requiring a full window replacement (`ReplaceWindows`), which would be significantly more expensive.
+
+#### Step 3: Emission System Refinement (Priority: Low)
+**Action:** `PlaceLowTemperatureEmission`
+*   **Reasoning:** The building already uses a Heat Pump. Heat pumps operate most efficiently (higher COP) when paired with low-temperature emission systems (e.g., underfloor heating or oversized radiators). 
+*   **Practical Note:** This should be evaluated against the current emission system to ensure the heat pump is not working harder than necessary to maintain the temperature setpoints.
+
+---
+
+### Summary of the Optimal Sequence
+
+| Sequence | Intervention | Target Element | Goal | Efficiency Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | RoofMain | Move from Moderately $\rightarrow$ Well Insulated | High |
+| **2** | **Upgrade Glazing** | Windows | Double $\rightarrow$ Triple Glazing | Medium |
+| **3** | **Low Temp Emission** | Emission System | Maximize Heat Pump COP | Medium/Long-term |
+
+**Final Expert Note:** Given the current EPC of 87, the building is already near peak performance. The most cost-effective and impactful move is the **Gable Roof insulation**. Further upgrades (Triple Glazing) should be weighed against the diminishing returns of improving an already high-performing energy score.

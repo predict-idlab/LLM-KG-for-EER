@@ -1,0 +1,32 @@
+Based on the provided building data and the RENO ontology, the property is a very modern attached building (constructed in 2023) with an already excellent energy performance (EPC score of 50, A Label). Most of the building envelope is already "Well Insulated," and it features a high-efficiency Ventilation System D.
+
+Despite the high current efficiency, the owner has expressed a desire to further improve the EPC and specifically indicated a reason to change the emission system. The current use of electric convectors is the primary inefficiency in an otherwise high-performance home.
+
+To maximize energy efficiency while remaining cost-effective, the following renovation path is proposed:
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Refinement (Priority: Low)
+Since the building is nearly optimized, this phase focuses on the only remaining element that is not "Well Insulated."
+1. **Insulate Gable Roof:** While the flat roof and walls are well insulated, the main gable roof is currently "Moderately Insulated." To achieve a near-zero energy standard and further lower the EPC, adding additional insulation to the gable roof is the final step in sealing the thermal envelope.
+
+#### Phase 2: Heating System Modernization (Priority: High)
+The most significant opportunity for operational cost reduction is replacing the inefficient electric convectors.
+2. **Place Emission System on Low Temperature:** Before upgrading the generator, the emission system should be optimized. Transitioning to low-temperature emitters (such as expanding the existing floor heating) is essential to maximize the efficiency (COP) of a modern heat pump.
+3. **Place Air-Water Heat Pump:** Since the site lacks potential for geothermal drilling and there is no available heat grid, an **Air-Water Heat Pump** is the most cost-effective and sustainable replacement for the current generation system. This will drastically reduce the electricity consumption compared to electric convectors.
+
+#### Phase 3: Domestic Hot Water Optimization (Priority: Medium)
+4. **Place Heat Pump Boiler:** To complement the space heating upgrade, installing a dedicated heat pump boiler for domestic hot water will further reduce energy consumption and improve the overall energy score.
+
+---
+
+### Summary of Optimal Sequence and Rationale
+
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Completes the "Fabric First" approach by bringing the final envelope element to "Well Insulated" status. |
+| **2** | **Low-Temp Emission Upgrade** | Prepares the building to operate with a low-temperature heat source, preventing system inefficiency. |
+| **3** | **Air-Water Heat Pump** | Replaces expensive electric resistance heating with a high-efficiency sustainable alternative. |
+| **4** | **Heat Pump Boiler** | Optimizes the energy used for water heating, aligning with the overall heat pump strategy. |
+
+**Final Note:** Because the building already possesses PV panels, a high-efficiency ventilation system (System D), and double glazing in good condition, no further interventions are recommended in those areas. The focus is shifted entirely from "saving" the building to "fine-tuning" it for maximum operational performance.

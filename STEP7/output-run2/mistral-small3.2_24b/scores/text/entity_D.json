@@ -1,0 +1,20 @@
+{
+  "completeness": {
+    "missing_actions": [],
+    "extra_actions": [
+      "upgrade insulation on the main pitched roof to higher performance standard.",
+      "improve insulation of the flat-roof extension to match higher performance standard.",
+      "install energy-efficient led lighting throughout the house.",
+      "add smart thermostats to optimize heat pump operation.",
+      "enhance ventilation system with a heat recovery unit.",
+      "install additional photovoltaic panels to increase renewable energy generation.",
+      "add thermal curtains or blinds to windows in living areas and bedrooms.",
+      "seal air leaks around windows and doors to improve airtightness.",
+      "install energy-efficient appliances to replace older models.",
+      "add reflective insulation to basement ceiling to reduce heat loss."
+    ]
+  },
+  "sequence": {
+    "order_errors": []
+  }
+}

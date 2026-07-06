@@ -1,0 +1,52 @@
+Given the information about your house in Ghent, Belgium, here’s a step-by-step, cost-effective renovation plan to improve energy efficiency and reduce energy consumption. The plan prioritizes upgrades that offer the best return on investment and long-term savings, while considering the optimal sequence of renovations.
+
+### Step-by-Step Renovation Plan:
+
+1. **Insulate the Flat-Roof Extension**
+   - The flat-roof extension is currently uninsulated, which is a significant source of heat loss. Insulating this area first will provide immediate energy savings.
+   - Use high-performance insulation materials like rigid foam boards or mineral wool to ensure durability and effectiveness.
+   - Cost-effective and relatively straightforward to implement, especially if the roof is already in good condition.
+
+2. **Upgrade the Heating System**
+   - Replace the old boiler and radiators with a modern, high-efficiency condensing boiler or consider a heat pump (if feasible) paired with low-temperature underfloor heating or modern radiators.
+   - A heat pump might be a good option if the house can accommodate it, but a condensing boiler is a more straightforward replacement.
+   - Ensure the new system is properly sized for the house to avoid over- or under-heating.
+
+3. **Insulate the Solid Brick Walls (Front and Rear)**
+   - External wall insulation (EWI) is ideal for solid brick walls but can be costly. Internal wall insulation (IWI) is a more cost-effective alternative, though it may reduce floor space slightly.
+   - If budget allows, EWI is preferable as it avoids reducing internal space and provides better thermal performance.
+   - Consider using high-performance insulation materials like mineral wool or rigid foam boards with a good vapor barrier to prevent moisture issues.
+
+4. **Insulate the Floor Above the Basement**
+   - Insulating the floor above the basement will help reduce heat loss through the ground.
+   - Use rigid insulation boards or mineral wool insulation, depending on the construction of the floor.
+   - This is a relatively simple and cost-effective upgrade that can be done alongside other renovations.
+
+5. **Improve Ventilation System**
+   - Upgrade the basic natural ventilation system to a mechanical ventilation system with heat recovery (MVHR). This will improve indoor air quality while reducing heat loss.
+   - MVHR systems are particularly effective in older homes where air leakage is a concern.
+
+6. **Install Photovoltaic (PV) Panels**
+   - Given the potential for PV panels, install them on the roof to generate renewable energy.
+   - This will reduce electricity costs and contribute to a better energy performance certificate (EPC).
+   - Consider battery storage if budget allows to maximize self-consumption of generated electricity.
+
+7. **Review and Upgrade Windows (If Necessary)**
+   - The current double-glazed windows with wooden frames are in good condition, so replacing them may not be immediately necessary.
+   - However, if drafts or poor insulation are noticed, consider secondary glazing or upgrading to triple glazing for better thermal performance.
+
+### Optimal Sequence:
+1. Insulate the flat-roof extension.
+2. Upgrade the heating system (boiler or heat pump).
+3. Insulate the solid brick walls (EWI or IWI).
+4. Insulate the floor above the basement.
+5. Improve ventilation system (MVHR).
+6. Install photovoltaic panels.
+7. Review and upgrade windows if needed.
+
+### Additional Tips:
+- **Prioritize Air Sealing**: Ensure that any insulation work includes proper air sealing to prevent drafts and improve overall efficiency.
+- **Government Incentives**: Check for available grants or subsidies in Belgium for energy-efficient renovations, as these can significantly reduce costs.
+- **Professional Advice**: Consult with a local energy expert or architect to ensure the proposed upgrades are feasible and optimized for your specific home.
+
+By following this plan, you should see a significant improvement in your home’s energy performance certificate and long-term energy savings.

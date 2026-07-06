@@ -1,0 +1,52 @@
+To create a cost-effective and energy-efficient renovation plan for your attached house in Ghent, Belgium, built in 1832, we'll follow a structured approach. Given your current EPC score of 262 and the building characteristics, here's a phased renovation plan:
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope Optimization (Fabric First Approach)
+1. **Insulate Flat Roof Extension**
+   - Priority: High
+   - Rationale: Flat roofs lose significant heat, and insulating this will provide a high return on investment.
+
+2. **Insulate Exterior Walls (Front and Rear)**
+   - Priority: High
+   - Rationale: Solid brick walls are significant sources of heat loss. Exterior insulation is recommended to avoid reducing internal floor space and to eliminate thermal bridges.
+
+3. **Insulate Floor Above Basement**
+   - Priority: Medium
+   - Rationale: Uninsulated floors contribute to heat loss, especially if the basement is unheated. Insulating this will improve comfort and reduce energy demand.
+
+#### Phase 2: Window and Ventilation Upgrades
+4. **Upgrade Ventilation System**
+   - Priority: Medium
+   - Rationale: Natural ventilation is inefficient and can lead to uncontrolled air leakage. Upgrading to a balanced ventilation system (e.g., System C or D) with heat recovery will improve indoor air quality and energy efficiency.
+
+#### Phase 3: Heating System Transition
+5. **Replace Boiler with Air-Water Heat Pump**
+   - Priority: High
+   - Rationale: An air-water heat pump is a sustainable and efficient alternative to the existing boiler, especially after reducing the building's heat demand through insulation.
+
+6. **Upgrade Radiators to Low-Temperature Emission Systems**
+   - Priority: Medium
+   - Rationale: Ensuring the radiators are compatible with the heat pump's lower operating temperatures will maximize the system's efficiency.
+
+#### Phase 4: Sustainable Energy Generation
+7. **Install Photovoltaic (PV) Panels**
+   - Priority: Long-term
+   - Rationale: PV panels will generate renewable electricity to power the heat pump and other electrical systems, further reducing the building's carbon footprint and energy costs.
+
+### Summary of Optimal Sequence
+1. **Insulate Flat Roof Extension**
+2. **Insulate Exterior Walls (Front and Rear)**
+3. **Insulate Floor Above Basement**
+4. **Upgrade Ventilation System**
+5. **Replace Boiler with Air-Water Heat Pump**
+6. **Upgrade Radiators to Low-Temperature Emission Systems**
+7. **Install Photovoltaic (PV) Panels**
+
+### Rationale for Sequence
+- **Fabric First**: Insulating the thermal envelope first reduces the overall energy demand, making subsequent heating system upgrades more efficient and cost-effective.
+- **Ventilation Upgrade**: Essential after sealing the building to maintain indoor air quality and prevent moisture issues.
+- **Heat Pump Installation**: With a well-insulated building, the heat pump can operate efficiently, reducing energy consumption.
+- **PV Panels**: A long-term investment to offset the electricity use of the heat pump and ventilation system, enhancing sustainability.
+
+This plan ensures a balanced approach to improving energy efficiency while maintaining cost-effectiveness.

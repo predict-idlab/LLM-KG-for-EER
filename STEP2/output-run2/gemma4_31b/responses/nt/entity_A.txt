@@ -1,0 +1,30 @@
+Based on the provided building data and the RENO ontology, the property is a **semi-detached building from 1951** with a significant energy performance gap (**EPC score of 388 kWh/m²year**). The owner's primary motivation is to **improve the EPC**.
+
+To maximize energy efficiency and cost-effectiveness, the renovation must follow the "Fabric First" principle: reducing energy demand through insulation before upgrading the heating systems.
+
+### Proposed Renovation Path
+
+#### Phase 1: Thermal Envelope (Priority: High)
+*These steps provide the highest return on investment by drastically reducing heat loss.*
+1.  **Insulate Gable Roof:** The main roof is currently not insulated. This is the most critical step to prevent heat from escaping upward.
+2.  **Insulate Exterior Walls:** The front, rear, and right walls are full brick and not insulated. Since there is no historical protection, exterior insulation is the most effective way to improve the thermal shell.
+3.  **Insulate Floor Above Basement:** The floor is currently not insulated; addressing this will eliminate cold drafts and improve thermal comfort.
+4.  **Insulate Flat Roof (Extension):** While moderately insulated, upgrading this to a high standard will align the entire building's performance.
+
+#### Phase 2: Ventilation & Air Quality (Priority: Medium)
+*Once the house is insulated, air tightness increases, making a modern ventilation system necessary.*
+5.  **Replace Ventilation System:** Upgrade from System A (natural supply) to a more efficient system (e.g., System D with heat recovery) to maintain air quality without losing heat.
+
+#### Phase 3: Energy Generation & Emission (Priority: Medium-Long Term)
+*With a reduced thermal load, the heating system can be downsized and transitioned to sustainable energy.*
+6.  **Place Emission System on Low Temperature:** Transition existing radiators/heating to low-temperature emitters to maximize the efficiency of a heat pump.
+7.  **Place Air-Water Heat Pump:** Since geothermal potential is absent and there is no heat grid, an air-water heat pump is the most cost-effective sustainable alternative to the existing boiler.
+8.  **Place PV-Panels on Roof:** The building has PV potential. Installing solar panels will offset the electricity consumption of the new heat pump, reducing long-term operational costs.
+
+### Summary of Optimal Sequence
+**Insulation (Roof $\rightarrow$ Walls $\rightarrow$ Floor) $\rightarrow$ Ventilation $\rightarrow$ Low-Temp Emission $\rightarrow$ Heat Pump $\rightarrow$ PV Panels.**
+
+### Key Technical Justifications:
+*   **Cost-Effectiveness:** By insulating first, the required capacity (and thus the cost) of the new heat pump is reduced.
+*   **Practicality:** Geothermal and heat grid options were excluded based on the entity's site data (`potentialForVerticalGeothermalDrilling: false`, `presenceOfHeatGrid: false`).
+*   **Compliance:** All proposed wall and roof works are feasible as the building is not in a protected area (`hasProtection: false`).

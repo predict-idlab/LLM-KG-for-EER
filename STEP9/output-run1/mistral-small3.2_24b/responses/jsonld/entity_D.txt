@@ -1,0 +1,79 @@
+### Renovation Plan for the Building
+
+#### **1. Initial Assessment**
+- **Building Type**: Semi-detached building (SemiDetachedBuilding)
+- **Construction Year**: 2017
+- **Current Energy Performance Certificate (EPC)**: 87 kWh/m²year (A label)
+- **Current Insulation Grades**:
+  - Walls: WellInsulated (WellInsulated)
+  - Flat Roof: WellInsulated (WellInsulated)
+  - Gable Roof: Moderately Insulated (ModeratelyInsulated)
+  - Floor Above Basement: WellInsulated (WellInsulated)
+- **Heating System**: Heat Pump (HeatPump)
+- **Ventilation System**: Ventilation System D (VentilationSystemD)
+- **PV Panels**: Not installed (potentialForPV: false)
+
+#### **2. Renovation Priorities**
+Given the current good insulation grades and the already efficient heating system (heat pump), the primary focus should be on improving the energy performance further and ensuring all building elements are well-maintained.
+
+#### **3. Recommended Renovation Actions**
+Based on the suggestion list and the current state of the building, the following actions are recommended:
+
+1. **Replace Gable Roof (ReplaceGableRoof)**
+   - **Reason**: The gable roof is currently moderately insulated, and replacing it can improve insulation and overall energy efficiency.
+   - **Cost**: €260/m²
+   - **Nuisance Level**: High
+   - **Permit Needed**: Only if roof framework is renewed (Flanders)
+   - **Multi-Phase**: No
+
+2. **Insulate Gable Roof (InsulateGableRoof)**
+   - **Reason**: If replacing the entire gable roof is not feasible, insulating it can still improve energy efficiency.
+   - **Cost**: €60/m²
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Multi-Phase**: No
+
+3. **Place PV Panels on Roof (PlacePVPanelsOnRoof)**
+   - **Reason**: The building has potential for PV panels, and installing them can significantly reduce energy consumption and costs.
+   - **Cost**: €275/m²
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary if the panels are in the same plane (Flanders)
+   - **Multi-Phase**: Maybe, depending on the system
+
+4. **Place Air-Water Heat Pump (PlaceAirWaterHeatpump)**
+   - **Reason**: The current heat pump is efficient, but upgrading to an air-water heat pump can further improve energy efficiency.
+   - **Cost**: €8,000 (fixed) + €35/m²
+   - **Nuisance Level**: Moderate
+   - **Permit Needed**: Not necessary if the above-ground parts are at least 2m away from the parcel boundary (Flanders)
+   - **Multi-Phase**: Maybe, depending on the system
+
+5. **Place Sun Shade (PlaceSunShade)**
+   - **Reason**: Installing sun shades can help regulate indoor temperature and reduce cooling needs.
+   - **Cost**: €750 (fixed)
+   - **Nuisance Level**: Low
+   - **Permit Needed**: Not necessary (Flanders)
+   - **Multi-Phase**: No
+
+#### **4. Expected Outcomes**
+- **Improved Energy Efficiency**: The building's EPC score is expected to improve further, potentially reaching an A+ label.
+- **Reduced Energy Consumption**: The installation of PV panels and the upgrade of the heat pump will significantly reduce energy consumption.
+- **Increased Comfort**: Better insulation and temperature regulation will enhance the overall comfort of the living spaces.
+
+#### **5. Action Plan**
+1. **Short-Term Actions (Immediate to 3 Months)**
+   - Conduct a detailed inspection of the gable roof to assess the feasibility of replacement or insulation.
+   - Obtain necessary permits and approvals for the renovation actions.
+
+2. **Medium-Term Actions (3 to 6 Months)**
+   - Replace or insulate the gable roof.
+   - Install PV panels on the roof.
+
+3. **Long-Term Actions (6 to 12 Months)**
+   - Upgrade to an air-water heat pump.
+   - Install sun shades.
+
+#### **6. Monitoring and Maintenance**
+- Regularly monitor the energy performance of the building to ensure the renovations are delivering the expected benefits.
+- Schedule periodic maintenance for the new systems to ensure their longevity and efficiency.
+
+This plan is designed to maximize energy efficiency while remaining cost-effective, focusing on practical upgrades that reduce energy consumption and improve long-term operational performance. The sequence of actions is optimized to maximize the benefits of each renovation step.

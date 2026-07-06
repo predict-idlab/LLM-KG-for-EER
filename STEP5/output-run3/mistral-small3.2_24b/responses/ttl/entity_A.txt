@@ -1,0 +1,68 @@
+### Renovation Plan for Energy Efficiency and Cost-Effectiveness
+
+#### Building Overview
+- **Type:** Semi-detached building
+- **Construction Year:** 1951
+- **Current EPC Score:** 388.0 (D Label)
+- **Potential for PV:** Yes
+- **Presence of Heat Grid:** No
+- **Owner's Motivation:** To improve EPC
+
+#### Key Issues
+1. **Insulation:** Multiple elements are not insulated (walls, floor above basement, gable roof).
+2. **Ventilation:** Current system is type A (natural), which is less efficient.
+3. **Heating System:** Current boiler and emission system may not be energy-efficient.
+4. **PV Potential:** Available, but not utilized.
+
+#### Proposed Renovation Path
+
+**Phase 1: Thermal Envelope Optimization (Fabric First Approach)**
+1. **Insulate Walls on Exterior:**
+   - **Elements:** `Wall_Front`, `Wall_Rear`, `Wall_Right`
+   - **Rationale:** Exterior insulation is more effective for full brick walls and eliminates thermal bridges.
+   - **Cost:** High (€200/m²), but long-term savings on heating.
+
+2. **Insulate Gable Roof:**
+   - **Element:** `RoofMain`
+   - **Rationale:** Currently not insulated; critical to prevent heat loss through the roof.
+   - **Cost:** €60/m².
+
+3. **Insulate Floor Above Basement:**
+   - **Element:** `FloorAboveBasement`
+   - **Rationale:** Prevents cold drafts from the basement.
+   - **Cost:** €30/m².
+
+**Phase 2: Window Performance (If Needed)**
+- **Current Status:** Double glazing, good condition.
+- **Action:** No immediate replacement needed; maintain and ensure seals are intact.
+
+**Phase 3: Heating and Emission System Transition**
+4. **Place Air-Water Heat Pump:**
+   - **Rationale:** Replaces the existing boiler with a more efficient system.
+   - **Cost:** €8,000 (fixed) + €35/m².
+
+5. **Place Emission System on Low Temperature:**
+   - **Rationale:** Optimizes the heat pump's performance.
+   - **Cost:** €100/m².
+
+**Phase 4: Ventilation Upgrade**
+6. **Replace Ventilation System:**
+   - **Current System:** Type A (natural)
+   - **Upgrade To:** Type C or D (mechanical)
+   - **Rationale:** Ensures better air quality and efficiency.
+   - **Cost:** €3,500 (fixed) + €17/m².
+
+**Phase 5: Sustainable Energy Generation**
+7. **Place PV-Panels on Roof:**
+   - **Rationale:** Utilizes the building's PV potential to offset electricity consumption.
+   - **Cost:** €275/m².
+
+#### Summary of Optimal Sequence
+1. **Exterior Wall Insulation** → 2. **Gable Roof Insulation** → 3. **Floor Insulation** → 4. **Air-Water Heat Pump** → 5. **Low-Temp Emission Upgrade** → 6. **Ventilation Upgrade** → 7. **PV Panels**.
+
+#### Rationale for Sequence
+- **Fabric First Approach:** Addressing the thermal envelope first reduces the overall heat demand, making subsequent upgrades more effective.
+- **Heating System Upgrade:** Transitioning to a heat pump after insulation ensures the system is appropriately sized.
+- **Ventilation and PV:** Final steps to ensure long-term energy efficiency and sustainability.
+
+This plan prioritizes cost-effective measures that provide the highest return on investment while significantly improving the building's energy performance.

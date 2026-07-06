@@ -1,0 +1,1 @@
+{"completeness": {"missing_actions": ["place air-water heatpump", "place emission system on low temperature"], "extra_actions": ["replace boiler and heat emission systems", "insulate pitched roof", "upgrade ventilation system", "upgrade windows to triple glazing", "add battery storage system", "install smart thermostat", "seal air leaks"]}, "sequence": {"order_errors": []}}

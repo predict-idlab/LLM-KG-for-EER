@@ -1,0 +1,103 @@
+### Renovation Plan for the Provided Building
+
+**Building Overview:**
+- **Type:** Semi-detached building
+- **Construction Year:** 1951
+- **Current EPC Score:** 388.0 (D Label)
+- **Primary Motivation:** Improve EPC
+- **Key Issues:**
+  - Uninsulated walls (Front, Rear, Right)
+  - Uninsulated gable roof
+  - Moderately insulated flat roof
+  - Double-glazed windows in good condition
+  - Potential for PV panels
+
+**Renovation Strategy:**
+The renovation will follow the **"Insulate → Ventilate → Generate"** principle, ensuring that the building envelope is optimized before upgrading heating systems.
+
+---
+
+### Phase 1: Thermal Envelope Optimization (High Priority)
+**Objective:** Reduce heat loss through uninsulated elements.
+
+1. **Insulate Gable Roof**
+   - **Action:** `insulate gable roof`
+   - **Rationale:** The gable roof is currently uninsulated, leading to significant heat loss. Insulating it will improve thermal retention.
+   - **Ordering:** 28
+   - **Nuisance Level:** Low
+   - **Cost:** €60/m²
+
+2. **Insulate Wall on Exterior**
+   - **Action:** `insulate wall on exterior` for all three uninsulated walls (Front, Rear, Right).
+   - **Rationale:** Exterior insulation is more effective for full brick walls and eliminates thermal bridges.
+   - **Ordering:** 40
+   - **Nuisance Level:** High
+   - **Cost:** €200/m²
+
+3. **Insulate Flat Roof**
+   - **Action:** `insulate flat roof`
+   - **Rationale:** The flat roof is only moderately insulated. Upgrading insulation will further reduce heat loss.
+   - **Ordering:** 25
+   - **Nuisance Level:** High
+   - **Cost:** €50/m²
+
+4. **Insulate Floor Above Basement**
+   - **Action:** `insulate floor above basement`
+   - **Rationale:** The floor above the basement is uninsulated, leading to cold drafts. Insulating it will improve comfort and energy efficiency.
+   - **Ordering:** 49
+   - **Nuisance Level:** Low
+   - **Cost:** €30/m²
+
+---
+
+### Phase 2: Heating System Upgrade (Medium Priority)
+**Objective:** Transition to a more efficient heating system tailored to the sealed envelope.
+
+5. **Replace Ventilation System**
+   - **Action:** `replace ventilation system`
+   - **Rationale:** The current natural ventilation system (System A) is inefficient. Upgrading to a mechanical system (System C or D) will improve air quality and energy efficiency.
+   - **Ordering:** 52
+   - **Nuisance Level:** Moderate
+   - **Cost:** €3,500 (fixed) + €17/m²
+
+6. **Place Air-Water Heat Pump**
+   - **Action:** `place air-water heatpump`
+   - **Rationale:** The site has no potential for geothermal energy and no heat grid. An air-water heat pump is the most sustainable and efficient alternative to the existing boiler.
+   - **Ordering:** 67
+   - **Nuisance Level:** Moderate
+   - **Cost:** €8,000 (fixed) + €35/m²
+
+7. **Place Emission System on Low Temperature**
+   - **Action:** `place emission system on low temperature`
+   - **Rationale:** Before installing a heat pump, the current radiators should be transitioned to low-temperature emissions to maximize the Coefficient of Performance (COP) of the new generator.
+   - **Ordering:** 70
+   - **Nuisance Level:** Moderate
+   - **Cost:** €100/m²
+
+---
+
+### Phase 3: Sustainable Energy Generation (Long-term)
+**Objective:** Offset the electricity consumption of the new heat pump and further improve the EPC label.
+
+8. **Place PV-Panels on Roof**
+   - **Action:** `place PV-panels on roof`
+   - **Rationale:** The building has confirmed potential for PV. Installing solar panels will provide the renewable electricity needed to power the heat pump and ventilation system.
+   - **Ordering:** 85
+   - **Nuisance Level:** Low
+   - **Cost:** €275/m²
+
+---
+
+### Summary of Optimal Sequence
+| Sequence | Action | Rationale |
+| :--- | :--- | :--- |
+| **1** | **Insulate Gable Roof** | Reduces heat loss through the roof. |
+| **2** | **Insulate Wall on Exterior** | Eliminates thermal bridges and improves thermal retention. |
+| **3** | **Insulate Flat Roof** | Further reduces heat loss through the flat roof. |
+| **4** | **Insulate Floor Above Basement** | Prevents cold drafts from the basement. |
+| **5** | **Replace Ventilation System** | Improves air quality in a sealed envelope. |
+| **6** | **Place Air-Water Heat Pump** | Transition to a sustainable heating system. |
+| **7** | **Place Emission System on Low Temperature** | Maximizes the efficiency of the new heat pump. |
+| **8** | **Place PV-Panels on Roof** | Offsets the electricity consumption of the heat pump. |
+
+This plan ensures that the building's energy efficiency is maximized in a cost-effective manner, improving the EPC label and reducing long-term operational costs.
