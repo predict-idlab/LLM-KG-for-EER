@@ -15,3 +15,6 @@ The code discussed in the short paper is in the folder 'STEP 1'. The other steps
 8. few-shot CoT with suggestion list and retrieval -> few-shot CoT judge
 9. zero-shot CoT with suggestion list -> zero-shot retrieval -> zero-shot CoT judge
 10. few-shot CoT with suggestion list -> few-shot retrieval -> few-shot CoT judge
+
+# LICENSE
+This code is copyrighted by [Ghent University – imec](http://idlab.ugent.be/) and released under the [MIT license](http://opensource.org/licenses/MIT).
